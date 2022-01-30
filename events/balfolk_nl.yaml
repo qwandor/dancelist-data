@@ -1,0 +1,123 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Balfolk Café Nijmegen with Androneda
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-16/"
+      - "https://www.facebook.com/events/267686425103647/"
+    start_date: 2022-02-23
+    end_date: 2022-02-23
+    country: Netherlands
+    city: Nijmegen
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Androneda
+    price: donation
+    organisation: balfolk.nl
+
+  - name: Mazurka Legitima
+    links:
+      - "https://www.balfolk.nl/agenda/mazurka-legitima-we-mogen-weer/"
+      - "https://www.facebook.com/events/254087693528691/"
+    start_date: 2022-02-26
+    end_date: 2022-02-26
+    country: Netherlands
+    city: Zaandam
+    workshop: false
+    social: true
+    styles: [balfolk]
+    bands:
+      - Two Hats
+    price: €15
+
+  - name: Jubileumbal Aald Hielpen
+    links:
+      - "https://www.balfolk.nl/agenda/jubileumbal-aald-hielpen/"
+    start_date: 2022-03-13
+    end_date: 2022-03-13
+    country: Netherlands
+    city: Hindeloopen
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Trio Folie du Nord
+    price: free
+    organisation: Aald Hielpen
+
+  - name: Balfolk Café Nijmegen with Ball Noir
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-20/"
+      - "https://www.facebook.com/events/237681631464427/"
+    start_date: 2022-03-23
+    end_date: 2022-03-23
+    country: Netherlands
+    city: Nijmegen
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Ball Noir
+    price: donation
+    organisation: balfolk.nl
+
+  - name: Workshopweekend bals
+    details: Bals both evenings after music workshops during the day.
+    links:
+      - "https://draailier-doedelzak.nl/workshopweekend_english.htm"
+      - "https://www.balfolk.nl/agenda/vrijdagbal_muziekstage2022/"
+    start_date: 2022-04-01
+    end_date: 2022-04-02
+    country: Netherlands
+    city: St. Michielsgestel
+    styles: [balfolk]
+    workshop: false
+    social: true
+    price: donation
+
+  - name: Balfolk Café Nijmegen with Hartwin Dhoore & Geronimo
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-17/"
+      - "https://www.facebook.com/events/2864813930451126/"
+    start_date: 2022-04-20
+    end_date: 2022-04-20
+    country: Netherlands
+    city: Nijmegen
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Hartwin Dhoore
+      - Geronimo
+    price: donation
+    organisation: balfolk.nl
+
+  - name: Balfolk Café Nijmegen with BmB
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-18/"
+      - "https://www.facebook.com/events/230217241770503/"
+    start_date: 2022-05-25
+    end_date: 2022-05-25
+    country: Netherlands
+    city: Nijmegen
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - BmB
+    price: donation
+    organisation: balfolk.nl
+
+  - name: Balfolk Café Nijmegen
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-19/"
+    start_date: 2022-06-22
+    end_date: 2022-06-22
+    country: Netherlands
+    city: Nijmegen
+    styles: [balfolk]
+    workshop: true
+    social: true
+    price: donation
+    organisation: balfolk.nl
