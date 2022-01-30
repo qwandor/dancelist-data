@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: EdinBal
+    links:
+      - "https://www.facebook.com/events/1264835490684382/"
+    start_date: 2022-02-10
+    end_date: 2022-02-10
+    country: UK
+    city: Edinburgh
+    styles: [balfolk]
+    workshop: false
+    social: true
+    price: free
+    organisation: EdinBal
