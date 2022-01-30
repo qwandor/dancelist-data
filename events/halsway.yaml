@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Halsway Contra Dance Weekend
+    links:
+      - "https://halswaymanor.org.uk/event/contra-weekend/"
+    start_date: 2022-06-03
+    end_date: 2022-06-05
+    country: UK
+    city: Halsway
+    styles: [contra]
+    workshop: true
+    social: true
+    bands:
+      - Contrasaurus
+    callers:
+      - Jake Wood
+      - Charlie Turner
+    price: £165-£270
+    organisation: Halsway Manor
