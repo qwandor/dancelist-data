@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: New Forest Eurobal
+    links:
+      - "https://www.facebook.com/events/385809496645312/"
+    start_date: 2022-02-13
+    end_date: 2022-02-13
+    country: UK
+    city: Ibsley
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Confluence
+      - Shivelight
+    price: £4-£8
+    organisation: EuroBal Wessex
