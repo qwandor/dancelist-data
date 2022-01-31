@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: American Contra Dance in Paris
+    links:
+      - "https://sites.google.com/site/americancontradanceinparis/"
+      - "https://www.facebook.com/events/262163809319207/"
+    start_date: 2022-03-12
+    end_date: 2022-03-12
+    country: France
+    city: Paris
+    styles: [contra]
+    workshop: true
+    social: true
+    bands:
+      - Light Reaction
+    callers:
+      - Will Mentor
+    organisation: Paris Contra Dance
