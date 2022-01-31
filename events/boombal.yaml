@@ -1,5 +1,18 @@
 # yaml-language-server: $schema=../events_schema.json
 events:
+  - name: Boombal Ghent
+    links:
+      - "https://folkbalbende.be/event/654"
+      - "http://boombal.be/"
+    start_date: 2022-02-15
+    end_date: 2022-02-15
+    country: Belgium
+    city: Ghent
+    styles: [balfolk]
+    workshop: false
+    social: true
+    organisation: Boombal
+
   - name: Boombalfestival
     links:
       - "https://boombalfestival.be/home"
