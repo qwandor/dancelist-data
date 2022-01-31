@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Brummie Contra
+    links:
+      - "http://www.brummiecontras.co.uk/"
+    start_date: 2022-02-20
+    end_date: 2022-02-20
+    country: UK
+    city: Birmingham
+    styles: [contra]
+    workshop: false
+    social: true
+    bands:
+      - Brian & Mike
+    callers:
+      - Nicola Scott
+    organisation: Brummie Contras
