@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Fiddling Frog
+    links:
+      - "https://www.caldancecoop.org/special-events/fiddling-frog/"
+    start_date: 2023-02-24
+    end_date: 2023-02-26
+    country: USA
+    city: Pasadena
+    styles: [contra]
+    workshop: false
+    social: true
+    price: $85-$175
+    organisation: California Dance Co-Operative
