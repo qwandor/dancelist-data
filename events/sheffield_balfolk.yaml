@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Apéritif Bal
+    links:
+      - "https://www.facebook.com/events/263249885889225/"
+    start_date: 2022-02-27
+    end_date: 2022-02-27
+    country: UK
+    city: Sheffield
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Emily & The Simons
+    price: £5-£10
+    organisation: Emily & The Simons
