@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Lichfield Folk Festival
+    links:
+      - "http://www.lichfieldfolkfestival.co.uk/"
+    start_date: 2022-06-17
+    end_date: 2022-06-19
+    country: UK
+    city: Lichfield
+    styles: [contra, playford]
+    workshop: true
+    social: true
+    bands:
+      - Portland Drive
+      - 3D
+      - Vicki Swan and Jonny Dyer
+      - English Contra Dance Band
+      - Folkus Pocus
+    callers:
+      - Seth Tepfer
+      - Colin Hume
+      - Ivan Aitken
+      - Christine Dodd
+      - Brian Stanton
+      - Bernie Culkin
+      - Neil Stuart
+    price: £75-£85
+    organisation: Lichfield Folk Festival
+
+  - name: Lichfield Folk Festival
+    links:
+      - "http://www.lichfieldfolkfestival.co.uk/"
+    start_date: 2023-06-16
+    end_date: 2023-06-18
+    country: UK
+    city: Lichfield
+    styles: [contra, playford]
+    workshop: true
+    social: true
+    organisation: Lichfield Folk Festival

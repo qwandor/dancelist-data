@@ -1,0 +1,25 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Chippenham Folk Festival
+    links:
+      - "https://www.chippfolk.co.uk/"
+    start_date: 2022-05-27
+    end_date: 2022-05-29
+    country: UK
+    city: Chippenham
+    styles: [e-ceilidh, contra]
+    workshop: true
+    social: true
+    bands:
+      - Banter
+      - Folk Camps Party Band
+      - Whapweasel
+      - Linda Game Band
+      - Warleggan Village Band
+      - Ali & Mollie
+    callers:
+      - Fi Lock
+      - Charlotte Rich-Griffin
+      - Geoff Cubit
+    price: £50.94-£138.88
+    organisation: Chippenham Folk Festival

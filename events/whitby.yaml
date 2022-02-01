@@ -1,0 +1,40 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Whitby Folk Week
+    links:
+      - "https://www.whitbyfolk.co.uk/"
+    start_date: 2022-08-20
+    end_date: 2022-08-26
+    country: UK
+    city: Whitby
+    styles: [e-ceilidh, contra, playford]
+    workshop: true
+    social: true
+    bands:
+      - Relentless
+      - Oxford NAGS
+      - Banter
+      - Fiddler's Elbow
+      - Out of Hand
+      - Token Women
+      - Jo Freya and Fi Fraser
+      - Melrose Quintet
+      - Peeping Tom
+      - Bearded Dragons
+      - Mollie & Ali
+      - Purcell’s Polyphonic Party
+      - Stray Chords
+      - Vertical Expression
+    callers:
+      - Phil Bassindale
+      - Barry Goodman
+      - Cate Haynes
+      - Patrick Rose
+      - Martyn Harvey
+      - Rhodri Davies
+      - Colin Hume
+      - Bob Morgan
+      - Lynne Render
+      - Dave Turner
+    price: £50-£286
+    organisation: Whitby Folk Week
