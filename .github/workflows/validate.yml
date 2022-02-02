@@ -1,0 +1,17 @@
+name: Validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    name: Validate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install dancelist
+        run: cargo install --git https://github.com/qwandor/dancelist
+      - name: Validate
+        run: dancelist validate events/
