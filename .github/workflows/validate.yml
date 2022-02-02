@@ -23,3 +23,13 @@ jobs:
         run: cargo install --git https://github.com/qwandor/dancelist
       - name: Validate
         run: dancelist validate events/
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Check YAML and Markdown formatting
+        uses: creyD/prettier_action@v4.2
+        with:
+          dry: true
+          prettier_options: "--check **/*.{yaml,md}"
