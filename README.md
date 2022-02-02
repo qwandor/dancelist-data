@@ -3,6 +3,8 @@
 This repository contains the data behind https://dance.q.geek.nz/, a list of social folk dance
 events. Additions and corrections are welcome, subject to the listing policy below.
 
+Code for the website itself is in a [separate repository](https://github.com/qwandor/dancelist).
+
 ## Listing policy
 
 This list is for social folk dance events which are open to the public. This includes both regular
