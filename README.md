@@ -17,6 +17,7 @@ social dances, special one-off dances and multi-day events such as festivals.
 | Folk dance festivals                                    | Folk music festivals without a substantial social dance component |
 | Regular or one-off social dance events with live music  | Concerts                                                          |
 | Events open to the public                               | Private parties or clubs                                          |
+| In-person events                                        | Online events                                                     |
 
 ## Format
 
