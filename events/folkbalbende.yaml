@@ -1,4 +1,4 @@
----
+# yaml-language-server: $schema=../events_schema.json
 events:
   - name: Improvisation Dans Les Danses De Couple
     details: Course
@@ -73,7 +73,6 @@ events:
     social: true
     bands:
       - Aérokorda
-      - Guus Herremans Invite
     organisation: Boombal
   - name: Variations Pour Valse & Polka
     details: Course
@@ -177,21 +176,6 @@ events:
     end_date: 2022-03-13
     country: Belgium
     city: Ixelles
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
-  - name: BLOWZABELLA (Grande-Bretagne)
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://blowzabella.co.uk/"
-      - "https://folkbalbende.be/event/678"
-    start_date: 2022-03-19
-    end_date: 2022-03-19
-    country: Belgium
-    city: Kortrijk
     styles:
       - balfolk
     workshop: false
@@ -335,7 +319,7 @@ events:
       - Duo Zena
       - Duo Balzam
     organisation: ~
-  - name: Dance Class Level 7
+  - name: Dance Class Level 2
     details: Course
     links:
       - "https://folkbalbende.be/event/659"
@@ -348,7 +332,7 @@ events:
     workshop: true
     social: false
     organisation: Frissefolk
-  - name: Dance Class Level 7
+  - name: Dance Class Level 2
     details: Course
     links:
       - "https://folkbalbende.be/event/659"
