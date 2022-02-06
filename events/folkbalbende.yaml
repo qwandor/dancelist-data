@@ -1,4 +1,4 @@
----
+# yaml-language-server: $schema=../events_schema.json
 events:
   - name: Improvisation Dans Les Danses De Couple
     details: Course
@@ -73,7 +73,6 @@ events:
     social: true
     bands:
       - Aérokorda
-      - Guus Herremans Invite
     organisation: Boombal
   - name: Variations Pour Valse & Polka
     details: Course
@@ -93,8 +92,9 @@ events:
   - name: Folkbal
     details: Ball
     links:
+      - "https://www.marinettebonnert.be/events/event/folk-a-donf-tourinnes-le-grosse/"
+      - "https://www.facebook.com/events/363257318602607/"
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "http://www.marinettebonnert.be"
       - "https://folkbalbende.be/event/684"
     start_date: 2022-03-05
     end_date: 2022-03-05
@@ -110,8 +110,8 @@ events:
   - name: ComSibal
     details: Ball
     links:
+      - "https://comsibal.be/en/events/folkworkshop_2022_03_05/"
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://comsibal.be"
       - "https://folkbalbende.be/event/683"
     start_date: 2022-03-05
     end_date: 2022-03-05
@@ -211,7 +211,7 @@ events:
     workshop: false
     social: true
     organisation: ~
-  - name: "Atelier: Practica With Feed Back (level 4"
+  - name: "Atelier: Practica With Feed Back (level 4)"
     details: Course
     links:
       - "https://folkbalbende.be/event/655"
@@ -224,7 +224,7 @@ events:
     workshop: true
     social: false
     organisation: Frissefolk
-  - name: "Atelier: Practica With Feed Back (level 4"
+  - name: "Atelier: Practica With Feed Back (level 4)"
     details: Course
     links:
       - "https://folkbalbende.be/event/655"
@@ -510,21 +510,8 @@ events:
     links:
       - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D664%26reset%3D1"
       - "https://folkbalbende.be/event/679"
+      - "https://www.facebook.com/events/907381780148565"
     start_date: 2022-05-06
-    end_date: 2022-05-06
-    country: Belgium
-    city: Harsin
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    organisation: Frissefolk
-  - name: AKDT
-    details: Course
-    links:
-      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D664%26reset%3D1"
-      - "https://folkbalbende.be/event/679"
-    start_date: 2022-05-08
     end_date: 2022-05-08
     country: Belgium
     city: Harsin
@@ -619,21 +606,8 @@ events:
     links:
       - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D662%26reset%3D1"
       - "https://folkbalbende.be/event/680"
+      - "https://www.facebook.com/events/724362768966575"
     start_date: 2022-07-02
-    end_date: 2022-07-02
-    country: Belgium
-    city: Neufchâteau
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    organisation: Frissefolk
-  - name: Stage Intensif De Danse Folk @AKDT
-    details: Course
-    links:
-      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D662%26reset%3D1"
-      - "https://folkbalbende.be/event/680"
-    start_date: 2022-07-09
     end_date: 2022-07-09
     country: Belgium
     city: Neufchâteau
