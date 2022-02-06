@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Blowzabella workshop weekend
+    links:
+      - "https://blowzabella.co.uk/event/4507037/584823441/blowzabella"
+      - "https://blowzabella.co.uk/event/4336295/565913688/blowzabella-workshops-and-dance-frankfurt-am-main-germany"
+    start_date: 2022-04-30
+    end_date: 2022-05-01
+    country: Germany
+    city: Frankfurt
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Blowzabella
+    organisation: Blowzabella
+
+  - name: Blowzabella at the Corn Hall
+    links:
+      - "https://blowzabella.co.uk/event/4336296/565913689/blowzabella"
+    start_date: 2022-05-14
+    end_date: 2022-05-14
+    country: UK
+    city: Diss
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Blowzabella
+    organisation: Blowzabella
+
+  - name: Blowzabella workshops, concert and dance
+    links:
+      - "https://blowzabella.co.uk/event/4336301/565913706/blowzabella-workshops-concert-dance-hamburg-germany"
+    start_date: 2022-09-16
+    end_date: 2022-09-18
+    country: Germany
+    city: Hamburg
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Blowzabella
+    organisation: Blowzabella
+
+  - name: Blowzabella session, workshops and dance
+    details: There will be a session on the Friday night.
+    links:
+      - "https://blowzabella.co.uk/event/4336298/565913702/blowzabella-workshops-dance-holmfirth"
+    start_date: 2022-11-25
+    end_date: 2022-11-26
+    country: UK
+    city: Holmfirth
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Blowzabella
+    organisation: Blowzabella
