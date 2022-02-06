@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Scandimoot
+    start_date: 2022-04-29
+    end_date: 2022-05-02
+    details: Scandinavian music and dance event, with tutors from Sweden.
+    country: UK
+    city: North Yorkshire
+    styles: [scandi]
+    workshop: true
+    social: true
+    links:
+      - "http://scandimoot.org.uk/"
+      - "https://www.facebook.com/Scandimoot/"
+    organisation: Scandimoot
+    bands: 
+      - Mats Berglund
+      - Fredrik Lundberg
+      - Samuel Lundh
