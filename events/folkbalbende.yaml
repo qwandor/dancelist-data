@@ -1,20 +1,5 @@
 # yaml-language-server: $schema=../events_schema.json
 events:
-  - name: Improvisation Dans Les Danses De Couple
-    details: Course
-    links:
-      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D680%26reset%3D1"
-      - "https://folkbalbende.be/event/715"
-    start_date: 2022-02-05
-    end_date: 2022-02-05
-    country: Belgium
-    city: Etterbeek
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: €15-€50
-    organisation: Frissefolk
   - name: Workshop - Wals Ritmische Variaties
     details: Course
     links:
@@ -28,177 +13,6 @@ events:
     workshop: true
     social: false
     organisation: ComSiBal
-  - name: Practica Au Pianofabriek
-    details: Ball
-    links:
-      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D687%26reset%3D1"
-      - "https://folkbalbende.be/event/721"
-      - "https://www.facebook.com/events/450106753261968/"
-    start_date: 2022-02-08
-    end_date: 2022-02-08
-    country: Belgium
-    city: Saint-Gilles
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - DJ Koen
-    organisation: Frissefolk
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/682"
-    start_date: 2022-02-18
-    end_date: 2022-02-18
-    country: Belgium
-    city: Meix-devant-Virton
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
-  - name: Variations Pour Valse & Polka
-    details: Course
-    links:
-      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D682%26reset%3D1"
-      - "https://folkbalbende.be/event/668"
-    start_date: 2022-02-26
-    end_date: 2022-02-26
-    country: Belgium
-    city: Etterbeek
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: €15-€50
-    organisation: Frissefolk
-  - name: Boombal Knalt
-    details: Ball
-    links:
-      - "https://boombal.be"
-      - "https://folkbalbende.be/event/747"
-      - "https://www.facebook.com/events/478275170579430/"
-      - "https://www.event-tickets.be/Event/tBqTDSAdqBPF8jNpWcQzLiBhiPdf5iEYdgzVym9w/en"
-    start_date: 2022-02-26
-    end_date: 2022-02-26
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Aérokorda
-    organisation: Boombal
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.marinettebonnert.be/events/event/folk-a-donf-tourinnes-le-grosse/"
-      - "https://www.facebook.com/events/363257318602607/"
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/684"
-    start_date: 2022-03-05
-    end_date: 2022-03-05
-    country: Belgium
-    city: Tourinnes-la-Grosse
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Folk À Donf
-    organisation: ~
-  - name: ComSiBal Folk Workshop
-    details: Ball
-    links:
-      - "https://comsibal.be/en/events/folkworkshop_2022_03_05/"
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/683"
-    start_date: 2022-03-05
-    end_date: 2022-03-05
-    country: Belgium
-    city: Wijgmaal
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Folksy Grove
-      - Hilde Van Belle
-    organisation: ComSiBal
-  - name: Sauts Béarnais
-    details: Course
-    links:
-      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D685%26reset%3D1"
-      - "https://folkbalbende.be/event/675"
-    start_date: 2022-03-12
-    end_date: 2022-03-12
-    country: Belgium
-    city: Etterbeek
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: €15-€50
-    organisation: Frissefolk
-  - name: Bal De La Cabane Du Bout Du Monde
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://folkbalbende.be/event/676"
-    start_date: 2022-03-12
-    end_date: 2022-03-12
-    country: Belgium
-    city: Watermaal-Bosvoorde
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/709"
-    start_date: 2022-03-13
-    end_date: 2022-03-13
-    country: Belgium
-    city: Ixelles
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/685"
-    start_date: 2022-03-13
-    end_date: 2022-03-13
-    country: Belgium
-    city: Watermaal-Bosvoorde
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/686"
-    start_date: 2022-03-26
-    end_date: 2022-03-26
-    country: Belgium
-    city: Anderlecht
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
   - name: "Atelier: Practica With Feed Back (level 4)"
     details: Course
     links:
@@ -251,42 +65,36 @@ events:
     workshop: true
     social: false
     organisation: Frissefolk
-  - name: Folkbal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.ccdebiekorf.be"
-      - "https://folkbalbende.be/event/691"
-    start_date: 2022-04-01
-    end_date: 2022-04-01
-    country: Belgium
-    city: Lebbeke
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Hidrae
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "http://www.folkinlimburg.be"
-      - "https://folkbalbende.be/event/687"
-    start_date: 2022-04-09
-    end_date: 2022-04-09
-    country: Belgium
-    city: Herk-de-Stad
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
-  - name: Dance Class Level 7
+  - name: Dance Class Level 5 & 6
     details: Course
     links:
-      - "https://folkbalbende.be/event/660"
+      - "https://folkbalbende.be/event/658"
+    start_date: 2022-01-27
+    end_date: 2022-01-27
+    country: Belgium
+    city: Etterbeek
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frissefolk
+  - name: Dance Class Level 5 & 6
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/658"
+    start_date: 2022-04-21
+    end_date: 2022-04-21
+    country: Belgium
+    city: Etterbeek
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frissefolk
+  - name: Dance Class Level 2
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/659"
     start_date: 2022-01-11
     end_date: 2022-01-11
     country: Belgium
@@ -296,10 +104,10 @@ events:
     workshop: true
     social: false
     organisation: Frissefolk
-  - name: Dance Class Level 7
+  - name: Dance Class Level 2
     details: Course
     links:
-      - "https://folkbalbende.be/event/660"
+      - "https://folkbalbende.be/event/659"
     start_date: 2022-04-19
     end_date: 2022-04-19
     country: Belgium
@@ -309,10 +117,10 @@ events:
     workshop: true
     social: false
     organisation: Frissefolk
-  - name: Dance Class Level 2
+  - name: Dance Class Level 7
     details: Course
     links:
-      - "https://folkbalbende.be/event/659"
+      - "https://folkbalbende.be/event/660"
     start_date: 2022-01-11
     end_date: 2022-01-11
     country: Belgium
@@ -322,10 +130,10 @@ events:
     workshop: true
     social: false
     organisation: Frissefolk
-  - name: Dance Class Level 2
+  - name: Dance Class Level 7
     details: Course
     links:
-      - "https://folkbalbende.be/event/659"
+      - "https://folkbalbende.be/event/660"
     start_date: 2022-04-19
     end_date: 2022-04-19
     country: Belgium
@@ -361,39 +169,43 @@ events:
     workshop: true
     social: false
     organisation: Frissefolk
-  - name: Dance Class Level 5 & 6
+  - name: Variations Pour Valse & Polka
     details: Course
     links:
-      - "https://folkbalbende.be/event/658"
-    start_date: 2022-01-27
-    end_date: 2022-01-27
+      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D682%26reset%3D1"
+      - "https://folkbalbende.be/event/668"
+    start_date: 2022-02-26
+    end_date: 2022-02-26
     country: Belgium
     city: Etterbeek
     styles:
       - balfolk
     workshop: true
     social: false
+    price: €15-€50
     organisation: Frissefolk
-  - name: Dance Class Level 5 & 6
+  - name: Sauts Béarnais
     details: Course
     links:
-      - "https://folkbalbende.be/event/658"
-    start_date: 2022-04-21
-    end_date: 2022-04-21
+      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D685%26reset%3D1"
+      - "https://folkbalbende.be/event/675"
+    start_date: 2022-03-12
+    end_date: 2022-03-12
     country: Belgium
     city: Etterbeek
     styles:
       - balfolk
     workshop: true
     social: false
+    price: €15-€50
     organisation: Frissefolk
-  - name: Folkbal
+  - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/689"
-    start_date: 2022-05-01
-    end_date: 2022-05-01
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://folkbalbende.be/event/676"
+    start_date: 2022-03-12
+    end_date: 2022-03-12
     country: Belgium
     city: Watermaal-Bosvoorde
     styles:
@@ -416,6 +228,160 @@ events:
     workshop: true
     social: false
     organisation: Frissefolk
+  - name: Stage Intensif De Danse Folk @AKDT
+    details: Course
+    links:
+      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D662%26reset%3D1"
+      - "https://folkbalbende.be/event/680"
+      - "https://www.facebook.com/events/724362768966575"
+    start_date: 2022-07-02
+    end_date: 2022-07-09
+    country: Belgium
+    city: Neufchâteau
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frissefolk
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/682"
+    start_date: 2022-02-18
+    end_date: 2022-02-18
+    country: Belgium
+    city: Meix-devant-Virton
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: ComSiBal
+    details: Ball
+    links:
+      - "https://comsibal.be/en/events/folkworkshop_2022_03_05/"
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/683"
+    start_date: 2022-03-05
+    end_date: 2022-03-05
+    country: Belgium
+    city: Wijgmaal
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Folksy Grove
+      - Hilde Van Belle
+    organisation: ComSiBal
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.marinettebonnert.be/events/event/folk-a-donf-tourinnes-le-grosse/"
+      - "https://www.facebook.com/events/363257318602607/"
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/684"
+    start_date: 2022-03-05
+    end_date: 2022-03-05
+    country: Belgium
+    city: Tourinnes-la-Grosse
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Folk À Donf
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/685"
+    start_date: 2022-03-13
+    end_date: 2022-03-13
+    country: Belgium
+    city: Watermaal-Bosvoorde
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/686"
+    start_date: 2022-03-26
+    end_date: 2022-03-26
+    country: Belgium
+    city: Anderlecht
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://www.folkinlimburg.be"
+      - "https://folkbalbende.be/event/687"
+    start_date: 2022-04-09
+    end_date: 2022-04-09
+    country: Belgium
+    city: Herk-de-Stad
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/689"
+    start_date: 2022-05-01
+    end_date: 2022-05-01
+    country: Belgium
+    city: Watermaal-Bosvoorde
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://www.folkinlimburg.be"
+      - "https://folkbalbende.be/event/690"
+    start_date: 2022-06-11
+    end_date: 2022-06-11
+    country: Belgium
+    city: Herk-de-Stad
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.ccdebiekorf.be"
+      - "https://folkbalbende.be/event/691"
+    start_date: 2022-04-01
+    end_date: 2022-04-01
+    country: Belgium
+    city: Lebbeke
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Hidrae
+    organisation: ~
   - name: Folkbal
     details: Ball
     links:
@@ -432,22 +398,6 @@ events:
     social: true
     bands:
       - Duo Bucsan/Gielen
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/710"
-    start_date: 2022-05-21
-    end_date: 2022-05-21
-    country: Belgium
-    city: Silly
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Balbelutte
     organisation: ~
   - name: Queimada
     details: Ball
@@ -486,29 +436,79 @@ events:
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "http://www.folkinlimburg.be"
-      - "https://folkbalbende.be/event/690"
-    start_date: 2022-06-11
-    end_date: 2022-06-11
+      - "https://folkbalbende.be/event/709"
+    start_date: 2022-03-13
+    end_date: 2022-03-13
     country: Belgium
-    city: Herk-de-Stad
+    city: Ixelles
     styles:
       - balfolk
     workshop: false
     social: true
     organisation: ~
-  - name: Stage Intensif De Danse Folk @AKDT
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/710"
+    start_date: 2022-05-21
+    end_date: 2022-05-21
+    country: Belgium
+    city: Silly
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Balbelutte
+    organisation: ~
+  - name: Improvisation Dans Les Danses De Couple
     details: Course
     links:
-      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D662%26reset%3D1"
-      - "https://folkbalbende.be/event/680"
-      - "https://www.facebook.com/events/724362768966575"
-    start_date: 2022-07-02
-    end_date: 2022-07-09
+      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D680%26reset%3D1"
+      - "https://folkbalbende.be/event/715"
+    start_date: 2022-02-05
+    end_date: 2022-02-05
     country: Belgium
-    city: Neufchâteau
+    city: Etterbeek
     styles:
       - balfolk
     workshop: true
     social: false
+    price: €15-€50
     organisation: Frissefolk
+  - name: Practica Au Pianofabriek
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D687%26reset%3D1"
+      - "https://folkbalbende.be/event/721"
+      - "https://www.facebook.com/events/450106753261968/"
+    start_date: 2022-02-08
+    end_date: 2022-02-08
+    country: Belgium
+    city: Saint-Gilles
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - DJ Koen
+    organisation: Frissefolk
+  - name: Boombal Knalt
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://folkbalbende.be/event/747"
+      - "https://www.facebook.com/events/478275170579430/"
+      - "https://www.event-tickets.be/Event/tBqTDSAdqBPF8jNpWcQzLiBhiPdf5iEYdgzVym9w/en"
+    start_date: 2022-02-26
+    end_date: 2022-02-26
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Aérokorda
+    organisation: Boombal
