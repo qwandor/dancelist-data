@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Ischia Folk 2022
+    links:
+      - "https://www.artefolk.it/2018/07/ischia-folk/"
+    start_date: 2022-07-24
+    end_date: 2022-07-31
+    country: Italy
+    city: Ischia
+    styles: [balfolk]
+    workshop: true
+    social: true
+    organisation: Artefolk
+
+  - name: Loano Folk 2023
+    links:
+      - "https://www.artefolk.it/2018/07/loano-folk/"
+      - "https://www.facebook.com/events/2736320373055622/"
+    start_date: 2023-04-01
+    end_date: 2023-04-02
+    country: Italy
+    city: Loano
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Topette
+    organisation: Artefolk
