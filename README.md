@@ -43,6 +43,25 @@ events:
     social: true
 ```
 
+### Dance styles
+
+The `styles` field should contain one or more of the following values:
+
+| Value       | Meaning                                                                               |
+| ----------- | ------------------------------------------------------------------------------------- |
+| `balfolk`   | Balfolk, a group of French and other European dances                                  |
+| `contra`    | American contra dancing                                                               |
+| `e-ceilidh` | English ceilidh                                                                       |
+| `ceili`     | Irish céilí                                                                           |
+| `irish-set` | Irish set dancing                                                                     |
+| `italian`   | Italian dances, such as pizzica and tarantella                                        |
+| `playford`  | Playford and other English Country Dances                                             |
+| `polish`    | Polish folk dances, such as oberek and kujawiak                                       |
+| `reeling`   | Scottish reeling                                                                      |
+| `s-ceilidh` | Scottish cèilidh                                                                      |
+| `scd`       | Scottish country dance                                                                |
+| `scandi`    | Swedish, Danish and Norwegian dances, such as Polska, Schottis, Sønderhoning and Pols |
+
 ### Optional fields
 
 | Field name     | Usage                                                                                                                                |
