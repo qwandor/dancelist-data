@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Topette UK Tour - Bristol
+    details: Concert and dance
+    links:
+      - "https://www.facebook.com/events/5572126612803332/"
+    start_date: 2022-06-09
+    end_date: 2022-06-09
+    country: UK
+    city: Brisol
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Topette
+    organisation: Topette
+
+  - name: Topette UK Tour - London
+    details: Concert and dance
+    links:
+      - "https://www.facebook.com/events/649508419797894/"
+    start_date: 2022-06-19
+    end_date: 2022-06-19
+    country: UK
+    city: London
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Topette
+    organisation: Topette
