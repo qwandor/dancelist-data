@@ -1,0 +1,42 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Les Batons
+    links:
+      - "https://www.lesbatons.org/dates"
+    start: 2022-02-20T13:00:00+00:00
+    end: 2022-02-20T17:00:00+00:00
+    country: UK
+    city: Hollingbourne
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Duo Mistral
+    price: £5
+    organisation: Les Batons
+
+  - name: Les Batons
+    links:
+      - "https://www.lesbatons.org/dates"
+    start: 2022-03-20T13:00:00+00:00
+    end: 2022-03-20T17:00:00+00:00
+    country: UK
+    city: Hollingbourne
+    styles: [balfolk]
+    workshop: false
+    social: true
+    price: £5
+    organisation: Les Batons
+
+  - name: Les Batons
+    links:
+      - "https://www.lesbatons.org/dates"
+    start: 2022-04-17T13:00:00+01:00
+    end: 2022-04-17T17:00:00+01:00
+    country: UK
+    city: Hollingbourne
+    styles: [balfolk]
+    workshop: false
+    social: true
+    price: £5
+    organisation: Les Batons
