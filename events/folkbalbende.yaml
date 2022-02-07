@@ -28,7 +28,7 @@ events:
     workshop: true
     social: false
     organisation: ComSiBal
-  - name: Practica In De Pianofabriek
+  - name: Practica Au Pianofabriek
     details: Ball
     links:
       - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D687%26reset%3D1"
@@ -58,22 +58,6 @@ events:
     workshop: false
     social: true
     organisation: ~
-  - name: Boombal
-    details: Ball
-    links:
-      - "https://boombal.be"
-      - "https://folkbalbende.be/event/744"
-    start_date: 2022-02-26
-    end_date: 2022-02-26
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Aérokorda
-    organisation: Boombal
   - name: Variations Pour Valse & Polka
     details: Course
     links:
@@ -89,6 +73,22 @@ events:
     social: false
     price: €15-€50
     organisation: Frissefolk
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://folkbalbende.be/event/747"
+    start_date: 2022-02-26
+    end_date: 2022-02-26
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Aérokorda
+    organisation: Boombal
   - name: Folkbal
     details: Ball
     links:
@@ -157,11 +157,11 @@ events:
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/685"
+      - "https://folkbalbende.be/event/709"
     start_date: 2022-03-13
     end_date: 2022-03-13
     country: Belgium
-    city: Watermaal-Bosvoorde
+    city: Ixelles
     styles:
       - balfolk
     workshop: false
@@ -171,11 +171,11 @@ events:
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/709"
+      - "https://folkbalbende.be/event/685"
     start_date: 2022-03-13
     end_date: 2022-03-13
     country: Belgium
-    city: Ixelles
+    city: Watermaal-Bosvoorde
     styles:
       - balfolk
     workshop: false
@@ -284,7 +284,7 @@ events:
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://comsibal.be/"
-      - "https://folkbalbende.be/event/746"
+      - "https://folkbalbende.be/event/749"
     start_date: 2022-04-16
     end_date: 2022-04-16
     country: Belgium
@@ -319,10 +319,10 @@ events:
       - Duo Zena
       - Duo Balzam
     organisation: ~
-  - name: Dance Class Level 2
+  - name: Dance Class Level 7
     details: Course
     links:
-      - "https://folkbalbende.be/event/659"
+      - "https://folkbalbende.be/event/660"
     start_date: 2022-01-11
     end_date: 2022-01-11
     country: Belgium
@@ -332,10 +332,10 @@ events:
     workshop: true
     social: false
     organisation: Frissefolk
-  - name: Dance Class Level 2
+  - name: Dance Class Level 7
     details: Course
     links:
-      - "https://folkbalbende.be/event/659"
+      - "https://folkbalbende.be/event/660"
     start_date: 2022-04-19
     end_date: 2022-04-19
     country: Belgium
@@ -345,10 +345,10 @@ events:
     workshop: true
     social: false
     organisation: Frissefolk
-  - name: Dance Class Level 7
+  - name: Dance Class Level 2
     details: Course
     links:
-      - "https://folkbalbende.be/event/660"
+      - "https://folkbalbende.be/event/659"
     start_date: 2022-01-11
     end_date: 2022-01-11
     country: Belgium
@@ -358,10 +358,10 @@ events:
     workshop: true
     social: false
     organisation: Frissefolk
-  - name: Dance Class Level 7
+  - name: Dance Class Level 2
     details: Course
     links:
-      - "https://folkbalbende.be/event/660"
+      - "https://folkbalbende.be/event/659"
     start_date: 2022-04-19
     end_date: 2022-04-19
     country: Belgium
@@ -374,7 +374,7 @@ events:
   - name: Dance Class Level 3 & 4
     details: Course
     links:
-      - "https://folkbalbende.be/event/661"
+      - "https://folkbalbende.be/event/662"
     start_date: 2022-01-26
     end_date: 2022-01-26
     country: Belgium
@@ -387,7 +387,7 @@ events:
   - name: Dance Class Level 3 & 4
     details: Course
     links:
-      - "https://folkbalbende.be/event/661"
+      - "https://folkbalbende.be/event/662"
     start_date: 2022-04-20
     end_date: 2022-04-20
     country: Belgium
@@ -400,7 +400,7 @@ events:
   - name: Dance Class Level 3 & 4
     details: Course
     links:
-      - "https://folkbalbende.be/event/662"
+      - "https://folkbalbende.be/event/661"
     start_date: 2022-01-26
     end_date: 2022-01-26
     country: Belgium
@@ -413,7 +413,7 @@ events:
   - name: Dance Class Level 3 & 4
     details: Course
     links:
-      - "https://folkbalbende.be/event/662"
+      - "https://folkbalbende.be/event/661"
     start_date: 2022-04-20
     end_date: 2022-04-20
     country: Belgium
@@ -550,21 +550,6 @@ events:
     bands:
       - Balbelutte
     organisation: ~
-  - name: Bal De La Cabane Du Bout Du Monde
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.andy-cutting.co.uk/"
-      - "https://folkbalbende.be/event/703"
-    start_date: 2022-05-28
-    end_date: 2022-05-28
-    country: Belgium
-    city: Watermaal-Bosvoorde
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
   - name: Queimada
     details: Ball
     links:
@@ -582,6 +567,21 @@ events:
     bands:
       - Hidrae
       - A Contrabanda
+    organisation: ~
+  - name: Bal De La Cabane Du Bout Du Monde
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.andy-cutting.co.uk/"
+      - "https://folkbalbende.be/event/703"
+    start_date: 2022-05-28
+    end_date: 2022-05-28
+    country: Belgium
+    city: Watermaal-Bosvoorde
+    styles:
+      - balfolk
+    workshop: false
+    social: true
     organisation: ~
   - name: Folkbal
     details: Ball
