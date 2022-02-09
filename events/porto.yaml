@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Tertúlia Folk
+    links:
+      - "https://www.facebook.com/events/455572446039035/"
+    start: 2022-02-10T21:30:00+00:00
+    end: 2022-02-10T23:59:00+00:00
+    country: Portugal
+    city: Porto
+    styles: [balfolk]
+    workshop: false
+    social: true
