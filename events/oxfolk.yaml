@@ -4,8 +4,8 @@ events:
     links:
       - "https://www.tickettailor.com/events/oxfolkceilidhs/626900/"
       - "http://www.oxfolk.org.uk/"
-    start_date: 2022-02-12
-    end_date: 2022-02-12
+    start: 2022-02-12T19:30:00+00:00
+    end: 2022-02-12T23:00:00+00:00
     country: UK
     city: Oxford
     styles: [e-ceilidh]
@@ -20,9 +20,10 @@ events:
 
   - name: Oxfolk Ceilidh with Aidan Hansall and Polkaworks
     links:
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/626903/"
       - "http://www.oxfolk.org.uk/"
-    start_date: 2022-03-12
-    end_date: 2022-03-12
+    start: 2022-03-12T19:30:00+00:00
+    end: 2022-03-12T23:00:00+00:00
     country: UK
     city: Oxford
     styles: [e-ceilidh]
@@ -52,6 +53,23 @@ events:
     callers:
       - Jane Bird
       - Ian Nichols
+    organisation: Oxfolk
+
+  - name: Oxfolk Ceilidh with Jane Bird and New Bees
+    links:
+      - "http://www.oxfolk.org.uk/"
+    start: 2022-05-14T19:30:00+01:00
+    end: 2022-05-14T23:00:00+01:00
+    country: UK
+    city: Oxford
+    styles: [e-ceilidh]
+    workshop: false
+    social: true
+    bands:
+      - New Bees
+    callers:
+      - Jane Bird
+    price: £2-£13
     organisation: Oxfolk
 
   - name: Blowzabella at Oxfolk
