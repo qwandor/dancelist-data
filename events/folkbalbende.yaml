@@ -1189,21 +1189,6 @@ events:
     workshop: true
     social: false
     organisation: Frissefolk
-  - name: Folk Dance For Beginners
-    details: Course
-    links:
-      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D681%26reset%3D1"
-      - "https://folkbalbende.be/event/667"
-    start_date: 2022-02-19
-    end_date: 2022-02-19
-    country: Belgium
-    city: Etterbeek
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: €20-€50
-    organisation: Frissefolk
   - name: Variations For Waltz & Polka
     details: Course
     links:
@@ -1228,14 +1213,13 @@ events:
     start_date: 2022-02-26
     end_date: 2022-02-26
     country: Belgium
-    city: Bruxelles
+    city: Saint-Gilles
     styles:
       - balfolk
     workshop: true
     social: true
     bands:
       - Duo Macke-Bornauw
-      - A Contrabanda
       - Calamalys
     organisation: Frissefolk
   - name: Folk Dance For Beginners
@@ -1282,21 +1266,6 @@ events:
     workshop: false
     social: true
     organisation: ~
-  - name: Folk Dance For Beginners
-    details: Course
-    links:
-      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D686%26reset%3D1"
-      - "https://folkbalbende.be/event/677"
-    start_date: 2022-03-19
-    end_date: 2022-03-19
-    country: Belgium
-    city: Etterbeek
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: €20-€50
-    organisation: Frissefolk
   - name: AKDT
     details: Course
     links:
@@ -1370,8 +1339,8 @@ events:
   - name: ComSibal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://comsibal.be/"
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://comsibal.be"
       - "https://folkbalbende.be/event/683"
     start_date: 2022-03-05
     end_date: 2022-03-05
@@ -1602,42 +1571,6 @@ events:
     bands:
       - DJ Koen
     organisation: Frissefolk
-  - name: Boombal
-    details: Ball
-    links:
-      - "https://boombal.be"
-      - "https://folkbalbende.be/event/756"
-    start_date: 2022-02-26
-    end_date: 2022-02-26
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Aérokorda
-    organisation: Boombal
-  - name: ComSibal - Festival
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://comsibal.be/"
-      - "https://folkbalbende.be/event/758"
-    start_date: 2022-04-16
-    end_date: 2022-04-16
-    country: Belgium
-    city: Wijgmaal
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Trio 14
-      - Duo Besson/Rio
-      - Beat Bouet Trio
-      - Emmarilin
-    organisation: ~
   - name: ComSibal - Festival
     details: Ball
     links:
@@ -1658,4 +1591,58 @@ events:
       - Duo Zena
       - Duo Balzam
       - France)
+    organisation: ~
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://folkbalbende.be/event/763"
+    start_date: 2022-02-26
+    end_date: 2022-02-26
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Aérokorda
+    organisation: Boombal
+  - name: ComSibal - Festival
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://comsibal.be/"
+      - "https://folkbalbende.be/event/764"
+    start_date: 2022-04-15
+    end_date: 2022-04-15
+    country: Belgium
+    city: Wijgmaal
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Lyra Danz
+      - Duo Mackie/Hendrickx
+    organisation: ~
+  - name: ComSibal - Festival
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://comsibal.be/"
+      - "https://folkbalbende.be/event/765"
+    start_date: 2022-04-16
+    end_date: 2022-04-16
+    country: Belgium
+    city: Wijgmaal
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Trio 14
+      - Duo Besson/Rio
+      - Beat Bouet Trio
+      - Emmarilin
     organisation: ~
