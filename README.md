@@ -1,7 +1,8 @@
 # Dancelist data
 
-This repository contains the data behind https://dance.q.geek.nz/, a list of social folk dance
-events. Additions and corrections are welcome, subject to the listing policy below.
+This repository contains the data behind https://folkdance.page/ and https://balfolk.org/, lists of
+social folk dance events. Additions and corrections are welcome, subject to the listing policy
+below.
 
 Code for the website itself is in a [separate repository](https://github.com/qwandor/dancelist).
 
