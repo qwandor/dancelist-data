@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: London Irish Set Dance
+    links:
+      - "https://londonirishsetdancing.com/"
+    start_date: 2022-02-24
+    end_date: 2022-02-24
+    country: UK
+    city: London
+    styles: [irish-set]
+    workshop: true
+    social: false
+    price: £10
+    organisation: London Irish Set Dancing
