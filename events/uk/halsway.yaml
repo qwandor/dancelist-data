@@ -1,5 +1,19 @@
 # yaml-language-server: $schema=../events_schema.json
 events:
+  - name: French and Breton dance night
+    details: Public bal after French dance workshop week.
+    links:
+      - "https://halswaymanor.org.uk/event/balfolk-french-and-breton-dance-night/"
+    start: 2022-03-17T20:00:00+00:00
+    end: 2022-03-17T23:00:00+00:00
+    country: UK
+    city: Halsway
+    styles: [balfolk]
+    workshop: false
+    social: true
+    price: £5
+    organisation: Halsway Manor
+
   - name: Halsway Contra Dance Weekend
     links:
       - "https://halswaymanor.org.uk/event/contra-weekend/"
