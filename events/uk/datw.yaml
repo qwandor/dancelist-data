@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../events_schema.json
+events:
+  - name: Dance Around the World
+    links:
+      - "https://www.datw.org.uk/"
+    start: 2022-03-19T10:00:00+00:00
+    end: 2022-03-20T23:00:00+00:00
+    country: UK
+    city: London
+    styles: [e-ceilidh, playford, polish]
+    workshop: true
+    social: true
+    price: £28-£30
+    organisation: Dance Around the World
