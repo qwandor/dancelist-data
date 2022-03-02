@@ -35,8 +35,9 @@ events:
     links:
       - "https://www.facebook.com/events/243765107924882/"
       - "http://www.speelman.nl/wereldmuziek/"
-    start: 2022-03-06T14:00:00+01:00
-    end: 2022-03-06T17:00:00+01:00
+      - "https://www.balfolk.nl/agenda/wereldlokaal-warnsveld/"
+    start: "2022-03-06T14:00:00+01:00"
+    end: "2022-03-06T17:00:00+01:00"
     country: Netherlands
     city: Warnsveld
     workshop: true
@@ -90,6 +91,23 @@ events:
     workshop: false
     social: true
     price: donation
+
+  - name: Fest Noz Hoorn
+    links:
+      - "https://www.balfolk.nl/agenda/fest-noz-hoorn/"
+      - "https://www.facebook.com/events/2864813930451126/"
+    start: "2022-04-17T12:00:00+02:00"
+    end: "2022-04-17T23:30:00+02:00"
+    country: Netherlands
+    city: Hoorn
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Beat Bouet Trio
+      - Fahrenheit
+      - La Sauterelle
+    price: €5-€15
 
   - name: Balfolk Café Nijmegen with Hartwin Dhoore & Geronimo
     links:
