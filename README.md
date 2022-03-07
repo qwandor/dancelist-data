@@ -32,7 +32,7 @@ city, at least one style, and at least one of `workshop` or `social` must be tru
 the file should be a modeline referring to the [JSON schema](events_schema.json)). For example:
 
 ```yaml
-# yaml-language-server: $schema=../events_schema.json
+# yaml-language-server: $schema=../../events_schema.json
 events:
   - name: Clandestine Mazurka in Northampton Square
     start_date: 2022-02-13
@@ -77,7 +77,7 @@ The `styles` field should contain one or more of the following values:
 For example:
 
 ```yaml
-# yaml-language-server: $schema=../events_schema.json
+# yaml-language-server: $schema=../../events_schema.json
 events:
   - name: Bristol Contra Dance
     details: All welcome of any level of experience for great dancing to amazing gender-free calling and brilliant music.
