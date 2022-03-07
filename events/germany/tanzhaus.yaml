@@ -1,6 +1,51 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: 36. Leipziger Tanzhausfest
+  - name: Duo Andy Cutting & Gudrun Walther
+    links:
+      - "http://www.tanzvolk-leipzig.de/07-04-2022-duo-andy-cutting-en-gudrun-walther-de/"
+    start_date: 2022-04-07
+    end_date: 2022-04-07
+    country: Germany
+    city: Leipzig
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Duo Andy Cutting & Gudrun Walther
+    price: €6-€15
+    organisation: TanzhausFolk
+
+  - name: Bargainatt
+    links:
+      - "http://www.tanzvolk-leipzig.de/10-04-2022-bargainatt-fr/"
+    start_date: 2022-04-10
+    end_date: 2022-04-10
+    country: Germany
+    city: Leipzig
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Bargainatt
+    price: €6-€15
+    organisation: TanzhausFolk
+
+  - name: Duo Lopez-Herremans
+    links:
+      - "http://www.tanzvolk-leipzig.de/14-10-2022-duo-lopez-herremans/"
+    start_date: 2022-10-14
+    end_date: 2022-10-14
+    country: Germany
+    city: Leipzig
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Duo Lopez-Herremans
+    price: €6-€15
+    organisation: TanzhausFolk
+
+  - name: 36th Leipziger Tanzhausfest
     links:
       - "http://www.tanzhausfest.de/"
       - "https://www.facebook.com/events/961634201382204/"
