@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: 36. Leipziger Tanzhausfest
+    links:
+      - "http://www.tanzhausfest.de/"
+      - "https://www.facebook.com/events/961634201382204/"
+    start_date: 2022-05-26
+    end_date: 2022-05-29
+    country: Germany
+    city: Leipzig
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Imnari
+      - Tref
+      - Lunesk
+      - Swedenquell
+      - Diaton
+      - L'air Inconnu
+    price: €38-€90
+    organisation: TanzhausFolk
