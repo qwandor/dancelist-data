@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfolkbal Groningen
+    links:
+      - "https://www.facebook.com/events/1623432948014801/"
+    start: "2022-04-08T19:00:00+02:00"
+    end: "2022-04-08T23:00:00+02:00"
+    country: Netherlands
+    city: Groningen
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Paracetamol
+    price: €10-€20
+    organisation: Balfolkcafe Groningen
