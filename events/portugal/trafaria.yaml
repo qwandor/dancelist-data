@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Baile Folk Trafaria
+    links:
+      - "https://www.facebook.com/events/426254515922851/"
+    start: 2022-04-02T21:30:00+01:00
+    end: 2022-04-03T01:30:00+01:00
+    country: Portugal
+    city: Trafaria
+    styles: [balfolk]
+    workshop: false
+    social: true
+    price: €5
+    bands:
+      - DJ LG
+      - DJ Messidor
+    organisation: Folkäppy

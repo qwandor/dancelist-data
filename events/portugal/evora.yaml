@@ -1,0 +1,47 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Baile com Benoit Guerbigny
+    links:
+      - "https://www.facebook.com/events/880578659304803/"
+      - "http://pedexumbo.com/bailes/"
+    start_date: 2022-03-26
+    end_date: 2022-03-26
+    country: Portugal
+    city: Évora
+    styles: [balfolk]
+    workshop: false
+    social: true
+    price: €4-€6
+    bands:
+      - Benoit Guerbigny
+    organisation: Associação PédeXumbo
+
+  - name: Baile com Burel
+    links:
+      - "https://www.facebook.com/events/338355051337178/"
+      - "http://pedexumbo.com/bailes/"
+    start_date: 2022-06-03
+    end_date: 2022-06-03
+    country: Portugal
+    city: Évora
+    styles: [balfolk]
+    workshop: false
+    social: true
+    price: €4-€6
+    bands:
+      - Burel
+    organisation: Associação PédeXumbo
+
+  - name: Danças do Poitou
+    links:
+      - "https://www.facebook.com/events/4961059847293846/"
+      - "http://pedexumbo.com/formacao/"
+    start: 2022-03-26T11:00:00+00:00
+    end: 2022-03-26T17:30:00+00:00
+    country: Portugal
+    city: Évora
+    styles: [balfolk]
+    workshop: true
+    social: false
+    price: €20
+    organisation: Associação PédeXumbo
