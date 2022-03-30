@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal de Fontenailles
+    links:
+      - "https://www.facebook.com/events/688885452249885/"
+    start_date: 2022-05-08
+    end_date: 2022-05-08
+    country: France
+    city: Fontenailles
+    styles: [balfolk]
+    workshop: false
+    social: true
+    price: €5
+    bands:
+      - l'Air du Temps
+      - Duo VTT
+      - EFRB
+    organisation: ~
