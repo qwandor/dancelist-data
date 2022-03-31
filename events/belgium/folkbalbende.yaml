@@ -2112,16 +2112,19 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.dranoutercentrum.be"
       - "https://folkbalbende.be/event/907"
-    start_date: 2022-04-09
-    end_date: 2022-04-09
+      - "https://www.facebook.com/events/2725629234249336/"
+    start: 2022-04-09T10:00:00+02:00
+    end: 2022-04-09T23:30:00+02:00
     country: Belgium
     city: Dranouter
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    price: €10-€24
     bands:
-      - Trio Rcb& Ecole De Bourree De Davignac
+      - Trio RCB
+      - École de Bourrée de Davignac
     organisation: ~
   - name: Folkbal
     details: Ball
