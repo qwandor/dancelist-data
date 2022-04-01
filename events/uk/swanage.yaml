@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Swanage Folk Festival
+    links:
+      - "https://swanagefolkfestival.com/"
+    start_date: 2022-09-09
+    end_date: 2022-09-11
+    country: UK
+    city: Swanage
+    styles: [e-ceilidh]
+    workshop: false
+    social: true
+    bands:
+      - Banter
+    organisation: Swanage Folk Festival
