@@ -1,5 +1,83 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
+  - name: Balfolk Café Nijmegen with Androneda
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-16/"
+      - "https://www.facebook.com/events/267686425103647/"
+    start: "2022-02-23T19:30:00+01:00"
+    end: "2022-02-23T23:30:00+01:00"
+    country: Netherlands
+    city: Nijmegen
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Androneda
+    price: donation
+    organisation: balfolk.nl
+
+  - name: Mazurka Legitima
+    links:
+      - "https://www.balfolk.nl/agenda/mazurka-legitima-we-mogen-weer/"
+      - "https://www.facebook.com/events/254087693528691/"
+    start: "2022-02-26T13:00:00+01:00"
+    end: "2022-02-26T17:00:00+01:00"
+    country: Netherlands
+    city: Zaandam
+    workshop: false
+    social: true
+    styles: [balfolk]
+    bands:
+      - Two Hats
+    price: €15
+
+  - name: Balfolk in Wereldlokaal Warnsveld
+    links:
+      - "https://www.facebook.com/events/243765107924882/"
+      - "http://www.speelman.nl/wereldmuziek/"
+      - "https://www.balfolk.nl/agenda/wereldlokaal-warnsveld/"
+    start: "2022-03-06T14:00:00+01:00"
+    end: "2022-03-06T17:00:00+01:00"
+    country: Netherlands
+    city: Warnsveld
+    workshop: true
+    social: true
+    styles: [balfolk]
+    bands:
+      - BmB
+    price: €5-€15
+
+  - name: Jubileumbal Aald Hielpen
+    links:
+      - "https://www.balfolk.nl/agenda/jubileumbal-aald-hielpen/"
+    start: "2022-03-13T14:00:00+01:00"
+    end: "2022-03-13T17:30:00+01:00"
+    country: Netherlands
+    city: Hindeloopen
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Trio Folie du Nord
+    price: free
+    organisation: Aald Hielpen
+
+  - name: Balfolk Café Nijmegen with Ball Noir
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-20/"
+      - "https://www.facebook.com/events/237681631464427/"
+    start: "2022-03-23T19:30:00+01:00"
+    end: "2022-03-23T23:30:00+01:00"
+    country: Netherlands
+    city: Nijmegen
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Ball Noir
+    price: donation
+    organisation: balfolk.nl
+
   - name: "*uitverkocht*  Avondbal bij de Muziekstage"
     details: "*** De extra kaartjes voor het avondbal op zaterdag voor externe bezoekers zijn inmiddels uitverkocht. Deelnemers aan de muziekstage hoeven natuurlijk niet apart een kaartje te reserveren, dat zit al bij hun deelname inbegrepen ***\n\nJaarlijks is er in Sint-Michielsgestel een interessant muziekweekend met workshops over balfolk en dansmuziek. Overdag zijn er cursussen, vanaf 19:30 begint het avondprogramma met concerten, bal en sessie.\nProgramma\nOverdag zijn er cursussen, 's avonds muziek, bal en jamsessies. Er zijn 12 workshops.\n\nWaarschijnlijk wordt het tijdschema als volgt, wijzigingen onder voorbehoud\n20:00 - 20:30 Benjamin & Birgit (concert)\n21:00 - 22:30 Hidrae\n22:45 - 23:45  Maarten Decombel - Toon van Mierlo\n23:45 Jamsessie\nFoto's van het workshopweekend 2019:\n• Foto's van de Avonden door Rosalin vd Wal\n• Foto's van de Workshops door Rosalin vd Wal\n• video's van het weekend\n• video's van het weekend in 2018"
     links:
