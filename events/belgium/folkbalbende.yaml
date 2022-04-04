@@ -1,4 +1,4 @@
-# yaml-language-server: $schema=../events_schema.json
+# yaml-language-server: $schema=../../events_schema.json
 events:
   - name: Workshop - Wals Ritmische Variaties
     details: Course
@@ -1745,14 +1745,13 @@ events:
     start: "2022-04-30T19:00:00+02:00"
     end: "2022-04-30T23:59:00+02:00"
     country: Belgium
-    city: Bruxelles
+    city: Saint-Gilles
     styles:
       - balfolk
     workshop: false
     social: true
     bands:
       - Nisia Trio
-      - A Contrabanda
       - Fiston
     organisation: Frissefolk
   - name: Folkbal
@@ -1851,7 +1850,7 @@ events:
   - name: Celtic Evening
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "https://folkbalbende.be/event/889"
     start: "2022-06-18T19:00:00+02:00"
     end: "2022-06-18T19:45:00+02:00"
@@ -1863,6 +1862,8 @@ events:
     social: true
     bands:
       - Lir
+      - Concert Par  Erwin Libbrecht En Heather Graham
+      - Jeroen Geerinck
     organisation: ~
   - name: "Atelier: Practica With Feedback (level 4 - 8)"
     details: Course
@@ -2337,17 +2338,35 @@ events:
       - EÂ; Trio Törn En Boréale
       - "Maarten D. En Toon V.M.,  Loogaroo"
     organisation: ~
-  - name: Folkbal
+  - name: Orchestre & Animateur
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "https://folkbalbende.be/event/923"
     start: "2022-04-23T20:00:00+02:00"
-    end: "2022-04-23T23:30:00+02:00"
+    end: "2022-04-23T21:30:00+02:00"
     country: Belgium
     city: Quevaucamps
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Puis Podium Libre
+    organisation: ~
+  - name: Bal De La Cabane
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/924"
+    start_date: 2022-07-03
+    end_date: 2022-07-03
+    country: Belgium
+    city: Watermaal-Bosvoorde
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Emily & The Simons
     organisation: ~
