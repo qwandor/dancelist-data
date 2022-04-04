@@ -1,0 +1,59 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Music and Dance Week
+    links:
+      - "https://ladyofthelake.org/june-week"
+    start_date: 2022-06-19
+    end_date: 2022-06-25
+    country: USA
+    city: Harrison
+    styles: [contra, playford]
+    workshop: true
+    social: true
+    bands:
+      - Spin
+      - Dam Beavers
+      - Fine Companions
+    callers:
+      - Cis Hinkle
+      - Will Mentor
+      - Kalia Kliban
+    price: $640-$740
+    organisation: Lady of the Lake
+
+  - name: "Dance S'More"
+    links:
+      - "https://ladyofthelake.org/dancesmore"
+    start_date: 2022-08-07
+    end_date: 2022-08-13
+    country: USA
+    city: Harrison
+    styles: [contra]
+    workshop: true
+    social: true
+    bands:
+      - Alex Sturbaum and Bryan Lindsay
+      - Audrey Knuth and Amy Englesberg
+    callers:
+      - Susan Michaels
+      - Abigail Hobart
+    price: $450-$900
+    organisation: Lady of the Lake
+
+  - name: Fall Dance and Music Weekend
+    links:
+      - "https://ladyofthelake.org/fallwend"
+    start_date: 2022-10-07
+    end_date: 2022-10-09
+    country: USA
+    city: Harrison
+    styles: [contra]
+    workshop: true
+    social: true
+    bands:
+      - Audacious
+      - Banna Damhsa
+    callers:
+      - Franny Marr
+    price: $225
+    organisation: Lady of the Lake
