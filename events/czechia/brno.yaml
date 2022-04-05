@@ -1,0 +1,13 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Start of the dance season
+    links:
+      - "https://www.facebook.com/events/301417918743248/"
+    start: 2022-04-06T18:00:00+02:00
+    end: 2022-04-06T20:00:00+02:00
+    country: Czechia
+    city: Brno
+    styles: [balfolk]
+    workshop: false
+    social: true
+    organisation: Ton Simple
