@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Le Vendredi Danse
+    links:
+      - "https://www.facebook.com/levendredidanse/posts/1721607621343133"
+    start_date: 2022-04-08
+    end_date: 2022-04-08
+    country: UK
+    city: Holmfirth
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Les Habitués
+    price: £2
+    organisation: Le Vendredi Danse
+
+  - name: Holmfirth Festival of Folk bal
+    links:
+      - "https://www.facebook.com/levendredidanse/posts/1707317742772121"
+    start: 2022-05-06T20:00:00+01:00
+    end: 2022-05-06T23:00:00+01:00
+    country: UK
+    city: Holmfirth
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Les Habitués
+    price: donation
+    organisation: Le Vendredi Danse
