@@ -17,7 +17,7 @@ jobs:
             ~/.cargo/git
             ~/.cargo/registry
             target
-          key: ${{ runner.os }}-${{ matrix.target }}-package-cargo-${{ hashFiles('**/Cargo.lock', '**/Cross.toml') }}
+          key: ${{ runner.os }}-${{ matrix.target }}-package-cargo
       - name: Install dancelist
         run: cargo install --git https://github.com/qwandor/dancelist
       - name: Make release directory
