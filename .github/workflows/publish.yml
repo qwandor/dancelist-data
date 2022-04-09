@@ -31,3 +31,5 @@ jobs:
           BRANCH: release
           FOLDER: release
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Reload
+        run: wget --no-verbose -O - https://folkdance.page/reload --post-data reload_token=${{ secrets.RELOAD_TOKEN }}
