@@ -1,55 +1,5 @@
-# yaml-language-server: $schema=../events_schema.json
+# yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Diatonics in Kennington
-    details: "[Cancelled]"
-    links:
-      - "http://www.oxfolk.org.uk/"
-    start_date: 2022-01-08
-    end_date: 2022-01-08
-    country: UK
-    city: Kennington
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Diatonics
-    callers:
-      - Hannah Moore
-    organisation: Webfeet
-    cancelled: true
-  - name: Spinach for Norman in Willand
-    details: "[Postponed]"
-    links:
-      - "http://www.flaxey-green.co.uk/Pages/Whats_On_Jan.html"
-    start_date: 2022-01-08
-    end_date: 2022-01-08
-    country: UK
-    city: Willand
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Spinach for Norman
-    callers:
-      - Simon Maplesden
-    organisation: Webfeet
-    cancelled: true
-  - name: English Contra Dance Band in Englefield Green
-    links:
-      - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
-    start_date: 2022-01-09
-    end_date: 2022-01-09
-    country: UK
-    city: Englefield Green
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - English Contra Dance Band
-    organisation: Webfeet
   - name: Oggle Band in Great Torrington
     links:
       - "http://www.flaxey-green.co.uk/Pages/Whats_On_Jan.html"
@@ -267,6 +217,21 @@ events:
     bands:
       - Arish Mel
     organisation: Webfeet
+  - name: Pendans! & The Drones Club in Exeter
+    links:
+      - "https://en-gb.facebook.com/events/446863323845076"
+    start_date: 2022-03-12
+    end_date: 2022-03-12
+    country: UK
+    city: Exeter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Pendans!
+      - The Drones Club
+    organisation: Webfeet
   - name: PolkaWorks in Kennington
     links:
       - "http://www.oxfolk.org.uk/"
@@ -339,22 +304,6 @@ events:
     bands:
       - Holderness Folk Band
     organisation: Webfeet
-  - name: Matt Norman & Hannah Cummings in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.1@.20220325"
-    start_date: 2022-03-25
-    end_date: 2022-03-25
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Matt Norman & Hannah Cummings
-    callers:
-      - Jake Wood
-    organisation: Webfeet
   - name: Catsfield Steamers in Bexhill
     links:
       - "http://catsfieldsteamers.co.uk/index.php/bookings/"
@@ -368,52 +317,6 @@ events:
     social: true
     bands:
       - Catsfield Steamers
-    organisation: Webfeet
-  - name: English Contra Dance Band in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20220326"
-    start_date: 2022-03-26
-    end_date: 2022-03-26
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - English Contra Dance Band
-    callers:
-      - Mike Courthold
-    organisation: Webfeet
-  - name: Albireo in Kendal
-    links:
-      - "https://en-gb.facebook.com/events/2845293142429073"
-    start_date: 2022-03-26
-    end_date: 2022-03-26
-    country: UK
-    city: Kendal
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Albireo
-    callers:
-      - Martyn Harvey
-    organisation: Webfeet
-  - name: Blue Jewel in Kennford
-    links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2022-03-26
-    end_date: 2022-03-26
-    country: UK
-    city: Kennford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Blue Jewel
     organisation: Webfeet
   - name: Celebration Band in Spondon
     links:
@@ -445,84 +348,6 @@ events:
     bands:
       - Holderness Folk Band
     organisation: Webfeet
-  - name: Dampiers in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20220330"
-    start_date: 2022-03-30
-    end_date: 2022-03-30
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Dampiers
-    callers:
-      - David and Kathryn Wright
-    organisation: Webfeet
-  - name: Boldwood in Halsway Manor
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2022-04-01
-    end_date: 2022-04-03
-    country: UK
-    city: Halsway Manor
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Boldwood
-    callers:
-      - Andrew Swaine
-    organisation: Webfeet
-  - name: PolkaWorks in Woodbridge
-    links:
-      - "https://www.list.co.uk/event/1495896-woodbridge-dance-folkus-april-ceilidh/"
-    start_date: 2022-04-01
-    end_date: 2022-04-01
-    country: UK
-    city: Woodbridge
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - PolkaWorks
-    callers:
-      - Rhi Davies
-    organisation: Webfeet
-  - name: Mitchell and Vincent in Taunton
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2022-04-01
-    end_date: 2022-04-01
-    country: UK
-    city: Taunton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Mitchell and Vincent
-    organisation: Webfeet
-  - name: Melobo in Grove
-    links:
-      - "http://mister.red/dance/wantage.htm#D.UB.20220402"
-    start_date: 2022-04-02
-    end_date: 2022-04-02
-    country: UK
-    city: Grove
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Melobo
-    callers:
-      - "Jane Bird - in Grove Village Hall, ("
-    organisation: Webfeet
   - name: Spring Ceilidh
     links:
       - "http://www.whitehorseceilidhs.org.uk/events/index.php#D.WHC.20220402"
@@ -542,7 +367,6 @@ events:
   - name: Panjandrum in Orpington
     links:
       - "https://en-gb.facebook.com/events/1510834999312638"
-      - "http://eceilidh.org.uk/cps/gigs/panjandrum-042575.php"
     start_date: 2022-04-02
     end_date: 2022-04-02
     country: UK
@@ -586,6 +410,20 @@ events:
       - Pair of Shears
     callers:
       - Pat Hicks
+    organisation: Webfeet
+  - name: Folk Salad in Norwich
+    links:
+      - "https://en-gb.facebook.com/events/1065736167313960"
+    start_date: 2022-04-06
+    end_date: 2022-04-06
+    country: UK
+    city: Norwich
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Folk Salad
     organisation: Webfeet
   - name: Tonic in Baldock
     links:
@@ -903,6 +741,20 @@ events:
     bands:
       - Holderness Folk Band
     organisation: Webfeet
+  - name: Finnegans Wok in Stroud
+    links:
+      - "http://mister.red/dance/stroud.htm#D.AY.20220429"
+    start_date: 2022-04-29
+    end_date: 2022-04-29
+    country: UK
+    city: Stroud
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Finnegans Wok
+    organisation: Webfeet
   - name: Whapweasel in Allendale
     links:
       - "http://www.whapweasel.com/events/"
@@ -1160,6 +1012,20 @@ events:
     callers:
       - Phil Preen
     organisation: Webfeet
+  - name: Four Foot Four in Bridport
+    links:
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2022-05-14
+    end_date: 2022-05-14
+    country: UK
+    city: Bridport
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Four Foot Four
+    organisation: Webfeet
   - name: New Bees in Kennington
     links:
       - "http://mister.red/dance/oxford.htm#D.FR.20220514"
@@ -1361,6 +1227,20 @@ events:
     bands:
       - Banter
     organisation: Webfeet
+  - name: WÖR in North Curry
+    links:
+      - "https://www.bandsintown.com/e/103338709-wor-at-st-peter-and-st-paul&#x27;s-church"
+    start_date: 2022-06-02
+    end_date: 2022-06-02
+    country: UK
+    city: North Curry
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - WÖR
+    organisation: Webfeet
   - name: Contrasaurus in Halsway
     links:
       - "http://www.contrasaurus.com/diary.html"
@@ -1404,20 +1284,6 @@ events:
       - Bees Knees
     callers:
       - Marj Hendy
-    organisation: Webfeet
-  - name: WÖR in South Petherton
-    links:
-      - "https://www.bandsintown.com/e/103301394-wor-at-south-petherton-village-hall"
-    start_date: 2022-06-04
-    end_date: 2022-06-04
-    country: UK
-    city: South Petherton
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - WÖR
     organisation: Webfeet
   - name: Stookey Blue in Beccles
     links:
@@ -1497,6 +1363,7 @@ events:
   - name: Take the Biscuit in Grove
     links:
       - "http://www.bethgifford.co.uk/gig-list/"
+      - "https://en-gb.facebook.com/events/939012083473219"
     start_date: 2022-06-11
     end_date: 2022-06-11
     country: UK
@@ -1510,7 +1377,7 @@ events:
     organisation: Webfeet
   - name: Take The Biscuit in Grove
     links:
-      - "http://mister.red/dance/wantage.htm#D.UC.20220611"
+      - "http://mister.red/dance/wantage.htm#D.UB.20220611"
     start_date: 2022-06-11
     end_date: 2022-06-11
     country: UK
@@ -1565,6 +1432,22 @@ events:
     social: true
     bands:
       - Holderness Folk Band
+    organisation: Webfeet
+  - name: iFolk in Bournemouth
+    links:
+      - "http://www.fash.org.uk/dance_diary.htm"
+    start_date: 2022-06-13
+    end_date: 2022-06-13
+    country: UK
+    city: Bournemouth
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - iFolk
+    callers:
+      - Lisa Heywood
     organisation: Webfeet
   - name: Portland Drive in Lichfield
     links:
@@ -1756,7 +1639,7 @@ events:
     organisation: Webfeet
   - name: Asha in Grove
     links:
-      - "http://mister.red/dance/wantage.htm#D.UD.20220813"
+      - "http://mister.red/dance/wantage.htm#D.UC.20220813"
     start_date: 2022-08-13
     end_date: 2022-08-13
     country: UK
@@ -1885,6 +1768,22 @@ events:
     callers:
       - Geoff Cubitt
     organisation: Webfeet
+  - name: "Cat's Claw in Cardiff"
+    links:
+      - "http://ruffceilidhs.org/coming/"
+    start_date: 2022-09-24
+    end_date: 2022-09-24
+    country: UK
+    city: Cardiff
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Cat's Claw"
+    callers:
+      - Mic Spenceley
+    organisation: Webfeet
   - name: English Contra Dance Band in Solihull
     details: "[To Be Confirmed]"
     links:
@@ -1961,7 +1860,7 @@ events:
     organisation: Webfeet
   - name: Cotteswalde Country Dance Band in Grove
     links:
-      - "http://mister.red/dance/wantage.htm#D.UE.20221015"
+      - "http://mister.red/dance/wantage.htm#D.UD.20221015"
     start_date: 2022-10-15
     end_date: 2022-10-15
     country: UK
@@ -2216,7 +2115,7 @@ events:
     organisation: Webfeet
   - name: "Sawney, White & Bird in Grove"
     links:
-      - "http://mister.red/dance/wantage.htm#D.UF.20221203"
+      - "http://mister.red/dance/wantage.htm#D.UE.20221203"
     start_date: 2022-12-03
     end_date: 2022-12-03
     country: UK
