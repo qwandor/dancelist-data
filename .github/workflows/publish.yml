@@ -1,0 +1,33 @@
+name: Publish
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  publish:
+    name: Publish
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Cache .cargo and target
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/.cargo/git
+            ~/.cargo/registry
+            target
+          key: ${{ runner.os }}-${{ matrix.target }}-package-cargo-${{ hashFiles('**/Cargo.lock', '**/Cross.toml') }}
+      - name: Install dancelist
+        run: cargo install --git https://github.com/qwandor/dancelist
+      - name: Make release directory
+        run: mkdir release
+      - name: Concatenate
+        run: dancelist cat events/ > release/events.yaml
+      - name: Publish
+        uses: s0/git-publish-subdir-action@v2.5.1
+        env:
+          REPO: self
+          BRANCH: release
+          FOLDER: release
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
