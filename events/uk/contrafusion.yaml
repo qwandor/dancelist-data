@@ -1,0 +1,35 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Ashford ceilidh
+    links:
+      - "http://www.contrafusion.co.uk/Saturday.html"
+    start: 2022-06-11T19:30:00+01:00
+    end: 2022-06-11T23:00:00+01:00
+    country: UK
+    city: Ashford
+    styles: [e-ceilidh]
+    workshop: true
+    social: true
+    bands:
+      - Hot Rats
+    callers:
+      - John Sweeney
+    price: £10-£12
+    organisation: Contrafusion
+
+  - name: Ashford ceilidh
+    links:
+      - "http://www.contrafusion.co.uk/Saturday.html"
+    start: 2022-07-23T19:30:00+01:00
+    end: 2022-07-23T23:00:00+01:00
+    country: UK
+    city: Ashford
+    styles: [e-ceilidh]
+    workshop: true
+    social: true
+    bands:
+      - The Tonic
+    callers:
+      - John Sweeney
+    price: £10-£12
+    organisation: Contrafusion
