@@ -6430,6 +6430,23 @@ events:
   - name: Brummie Contra
     links:
       - "http://www.brummiecontras.co.uk/"
+    start: "2022-04-22T20:00:00+01:00"
+    end: "2022-04-22T22:30:00+01:00"
+    country: UK
+    city: Birmingham
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - "Cat's Whiskers"
+    callers:
+      - Nicola Scott
+    price: £5-£10
+    organisation: Brummie Contras
+  - name: Brummie Contra
+    links:
+      - "http://www.brummiecontras.co.uk/"
     start_date: 2022-09-25
     end_date: 2022-09-25
     country: UK
@@ -7510,6 +7527,22 @@ events:
     bands:
       - Holderness Folk Band
     organisation: Webfeet
+  - name: Owl Light Trio & Xogara in Oxford
+    links:
+      - "https://www.bandsintown.com/e/1024498744-xogara-at-florence-park-community-centre"
+      - "https://www.facebook.com/events/728504201894882"
+    start_date: 2022-04-16
+    end_date: 2022-04-16
+    country: UK
+    city: Oxford
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Owl Light Trio
+      - Xogara
+    organisation: Webfeet
   - name: Dave Byett in Frenchay
     links:
       - "http://mister.red/dance/bristol.htm#D.AC.20220420"
@@ -7525,36 +7558,6 @@ events:
       - Dave Byett
     callers:
       - Ian Ludbrook
-    organisation: Webfeet
-  - name: "Cat's Whiskers in Moseley"
-    links:
-      - "http://www.brummiecontras.co.uk/dates.html"
-    start_date: 2022-04-22
-    end_date: 2022-04-22
-    country: UK
-    city: Moseley
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - "Cat's Whiskers"
-    callers:
-      - Nicola Scott
-    organisation: Webfeet
-  - name: Blackbeards Tea Party in Malton
-    links:
-      - "http://www.blackbeardsteaparty.com/gigs/"
-    start_date: 2022-04-22
-    end_date: 2022-04-22
-    country: UK
-    city: Malton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Blackbeards Tea Party
     organisation: Webfeet
   - name: Tatterdemalion in Dorchester
     links:
@@ -7583,6 +7586,20 @@ events:
     social: true
     bands:
       - Holderness Folk Band
+    organisation: Webfeet
+  - name: Finnegans Wok in Stroud
+    links:
+      - "http://mister.red/dance/stroud.htm#D.AY.20220429"
+    start_date: 2022-04-29
+    end_date: 2022-04-29
+    country: UK
+    city: Stroud
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Finnegans Wok
     organisation: Webfeet
   - name: Whapweasel in Allendale
     links:
@@ -7701,6 +7718,7 @@ events:
   - name: The Four Foot Four in Bridport
     links:
       - "http://eceilidh.org.uk/cps/gigs/thefourfootfour-6b4e45.php"
+      - "http://www.sadfolk.co.uk/listings.php"
     start_date: 2022-05-14
     end_date: 2022-05-14
     country: UK
@@ -7857,6 +7875,20 @@ events:
     bands:
       - Banter
     organisation: Webfeet
+  - name: WÖR in North Curry
+    links:
+      - "https://www.bandsintown.com/e/103338709-wor-at-st-peter-and-st-paul&#x27;s-church"
+    start_date: 2022-06-02
+    end_date: 2022-06-02
+    country: UK
+    city: North Curry
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - WÖR
+    organisation: Webfeet
   - name: Famous Potatoes in Southend on Sea
     links:
       - "http://famouspotatoes.co.uk/events/famous-potatoes-jubilee-weekend-show-at-priory-park/"
@@ -7886,20 +7918,6 @@ events:
       - Bees Knees
     callers:
       - Marj Hendy
-    organisation: Webfeet
-  - name: WÖR in South Petherton
-    links:
-      - "https://www.bandsintown.com/e/103301394-wor-at-south-petherton-village-hall"
-    start_date: 2022-06-04
-    end_date: 2022-06-04
-    country: UK
-    city: South Petherton
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - WÖR
     organisation: Webfeet
   - name: Stookey Blue in Beccles
     links:
@@ -7951,6 +7969,7 @@ events:
       - "https://www.whitehorseceilidhs.org.uk/whats-on/"
       - "http://www.bethgifford.co.uk/gig-list/"
       - "http://mister.red/dance/wantage.htm#D.UC.20220611"
+      - "https://www.facebook.com/events/939012083473219"
     start_date: 2022-06-11
     end_date: 2022-06-11
     country: UK
@@ -8021,23 +8040,21 @@ events:
     bands:
       - Banter
     organisation: Dartmoor Folk Festival
-  - name: White Horse Folk Festival Ceilidh
+  - name: iFolk in Bournemouth
     links:
-      - "http://www.whitehorsefolkfestival.co.uk/"
-      - "https://www.whitehorseceilidhs.org.uk/whats-on/"
-    start_date: 2022-08-13
-    end_date: 2022-08-13
+      - "http://www.fash.org.uk/dance_diary.htm"
+    start_date: 2022-06-13
+    end_date: 2022-06-13
     country: UK
-    city: Grove
+    city: Bournemouth
     styles:
       - e-ceilidh
     workshop: false
     social: true
     bands:
-      - Melobo
+      - iFolk
     callers:
-      - Jane Bird
-    price: £5-£10
+      - Lisa Heywood
     organisation: Webfeet
   - name: Brian & Rosie McMinn in Frenchay
     links:
@@ -8054,6 +8071,23 @@ events:
       - Brian & Rosie McMinn
     callers:
       - Ray Goodswen
+    organisation: Webfeet
+  - name: White Horse Folk Fesitival Ceilidh
+    links:
+      - "http://www.whitehorsefolkfestival.co.uk/"
+      - "https://www.whitehorseceilidhs.org.uk/whats-on/"
+    start_date: 2022-08-13
+    end_date: 2022-08-13
+    country: UK
+    city: "Old Mill Hall, OX12 7B"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Melobo
+    callers:
+      - Jane Bird
     organisation: Webfeet
   - name: BunkFest
     links:
@@ -8082,6 +8116,22 @@ events:
     social: true
     bands:
       - Catsfield Steamers
+    organisation: Webfeet
+  - name: "Cat's Claw in Cardiff"
+    links:
+      - "http://ruffceilidhs.org/coming/"
+    start_date: 2022-09-24
+    end_date: 2022-09-24
+    country: UK
+    city: Cardiff
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Cat's Claw"
+    callers:
+      - Mic Spenceley
     organisation: Webfeet
   - name: Portland Drive in Willand
     details: "[To Be Confirmed]"
