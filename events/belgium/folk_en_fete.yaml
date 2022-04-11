@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Folk en fête
+    links:
+      - "https://www.facebook.com/events/508207024291609/"
+    start: 2022-06-11T11:00:00+02:00
+    end: 2022-06-11T11:00:00+02:00
+    country: Belgium
+    city: Charleroi
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Folk à Donf
+      - Yann-Fanch Perroches & Ioana Lemoine
+    price: €10-€35
+    organisation: Folk en fête
