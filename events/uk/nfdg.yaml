@@ -1,0 +1,62 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Special Club Night contra dance
+    links:
+      - "https://www.nfdg.org.uk/club_dances.php"
+    start: 2022-06-21T19:30:00+01:00
+    end: 2022-06-21T23:00:00+01:00
+    country: UK
+    city: Nottingham
+    styles: [contra]
+    workshop: false
+    social: true
+    bands:
+      - King Kontra String Band
+    callers:
+      - Seth Tepfer
+    price: £2.50-£5
+    organisation: Nottingham Folk Dance Group
+
+  - name: Nottingham Contra Dance
+    links:
+      - "https://www.nfdg.org.uk/club_dances.php"
+    start: 2022-10-01T19:30:00+01:00
+    end: 2022-10-01T23:00:00+01:00
+    country: UK
+    city: Nottingham
+    styles: [contra]
+    workshop: false
+    social: true
+    bands:
+      - English Contra Dance Band
+    callers:
+      - Charlie Turner
+    organisation: Nottingham Folk Dance Group
+
+  - name: Mixed dance
+    links:
+      - "https://www.nfdg.org.uk/club_dances.php"
+    start: 2022-11-12T19:30:00+01:00
+    end: 2022-11-12T23:00:00+01:00
+    country: UK
+    city: Nottingham
+    styles: [contra, playford]
+    workshop: false
+    social: true
+    bands:
+      - Deo Volente
+    callers:
+      - Ivan Aitken
+    organisation: Nottingham Folk Dance Group
+
+  - name: Playford Ball
+    links:
+      - "https://www.nfdg.org.uk/club_dances.php"
+    start: 2023-04-22T19:30:00+01:00
+    end: 2023-04-22T23:00:00+01:00
+    country: UK
+    city: Nottingham
+    styles: [playford]
+    workshop: false
+    social: true
+    organisation: Nottingham Folk Dance Group
