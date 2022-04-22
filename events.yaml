@@ -273,6 +273,19 @@ events:
     workshop: false
     social: true
     organisation: Coreto
+  - name: Tertúlia Folk
+    links:
+      - "https://www.facebook.com/events/1046718662723749/"
+    start: "2022-05-01T16:00:00+01:00"
+    end: "2022-05-01T18:30:00+01:00"
+    country: Portugal
+    city: Aveiro
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: donation
+    organisation: Renata Silva
   - name: CaDansa
     details: "A wonderful balfolk festival full of crazy bands, funny games, beautiful connections, good coffee, local beers, and a whole lot of dancing!"
     links:
@@ -4692,7 +4705,23 @@ events:
     workshop: true
     social: false
     price: €40
-    organisation: ~
+    organisation: FolkTanz Wien
+  - name: Folktanz-Abend im Achillion
+    links:
+      - "https://www.facebook.com/events/362772329111410/"
+    start: "2022-04-24T16:00:00+02:00"
+    end: "2022-04-24T23:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Trio ZAJ
+      - Stephan Steiner
+    price: €10-€14
+    organisation: FolkTanz Wien
   - name: Hotel Palindrone
     links:
       - "https://www.facebook.com/events/1324803164692179/"
@@ -4847,6 +4876,22 @@ events:
       - Hartwin Dhoore & Jeroen Geerinck
     price: €77-€99
     organisation: Simmelfolk
+  - name: Balfolk Stuttgart
+    links:
+      - "https://www.facebook.com/events/574848487643550"
+    start: "2022-05-21T19:00:00+01:00"
+    end: "2022-05-21T23:00:00+01:00"
+    country: Germany
+    city: Stuttgart
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Boccadoro Ensemble
+      - Zéphyr Combo
+    price: €15
+    organisation: Verena Hammel
   - name: Balfolk with SkALD
     links:
       - "https://www.lutherkirche-suedstadt.de/veranstaltungen/bal-folk-mitmachtanz-heute-live-skald/"
