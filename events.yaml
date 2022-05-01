@@ -2929,7 +2929,6 @@ events:
     workshop: true
     social: true
     bands:
-      - Folkinitiatie Olv Elke
       - Naragonia
     price: donation
     organisation: Biblioteca Mao VZW
@@ -2974,8 +2973,8 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://duo-noordwest.nl"
       - "https://folkbalbende.be/event/955"
-    start_date: 2022-05-14
-    end_date: 2022-05-14
+    start: "2022-05-15T17:30:00+02:00"
+    end: "2022-05-15T19:00:00+02:00"
     country: Belgium
     city: Watermael-Boitsfort
     styles:
@@ -3004,7 +3003,7 @@ events:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "http://www.frissefolk.be"
       - "https://folkbalbende.be/event/957"
-    start: "2022-05-15T12:00:00+02:00"
+    start: "2022-05-15T13:15:00+02:00"
     end: "2022-05-15T18:30:00+02:00"
     country: Belgium
     city: Berendrecht
@@ -3015,6 +3014,7 @@ events:
     bands:
       - Twalseree
       - Naragonia Quartet
+      - Novar
     organisation: Frissefolk
   - name: Folkbal
     details: Ball
@@ -3132,6 +3132,136 @@ events:
     bands:
       - West Rim
     price: €7-€9
+    organisation: ~
+  - name: Practica At Pianofabriek
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/966"
+    start: "2022-05-03T21:00:00+02:00"
+    end: "2022-05-03T22:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - DJ Koen
+    organisation: Frissefolk
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/967"
+    start: "2022-04-23T19:00:00+02:00"
+    end: "2022-04-23T19:45:00+02:00"
+    country: Belgium
+    city: Torhout
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Boreas
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/968"
+    start: "2022-04-27T20:00:00+02:00"
+    end: "2022-04-27T22:30:00+02:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Jan Smed
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://folkbalbende.be/event/970"
+    start_date: 2022-05-06
+    end_date: 2022-05-06
+    country: Belgium
+    city: Schaerbeek
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Les Kickeuses
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/events/261228646207914/?ref=newsfeed"
+      - "https://folkbalbende.be/event/971"
+    start_date: 2022-05-21
+    end_date: 2022-05-21
+    country: Belgium
+    city: Walcourt
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Folk à Donf
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.facebook.com/neigemfolk"
+      - "https://folkbalbende.be/event/972"
+      - "https://www.facebook.com/events/695165071695888/"
+    start: "2022-07-02T19:30:00+02:00"
+    end: "2022-07-02T20:00:00+02:00"
+    country: Belgium
+    city: Neigem
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €12-€15
+    organisation: NeigemFolk
+  - name: Practica At Pianofabriek
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/973"
+    start: "2022-05-17T21:00:00+02:00"
+    end: "2022-05-17T22:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - DJ Koen
+    organisation: Frissefolk
+  - name: Bal (parquet Couvert) Gratuit
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://www.frissefolk.be"
+      - "https://folkbalbende.be/event/974"
+    start: "2022-05-15T13:15:00+02:00"
+    end: "2022-05-15T14:15:00+02:00"
+    country: Belgium
+    city: Berendrecht
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Twalseree
+      - Naragonia Quartet
+      - Novar
+      - Fin
     organisation: ~
   - name: Folk en fête
     links:
