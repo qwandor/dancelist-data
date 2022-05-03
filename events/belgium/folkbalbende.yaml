@@ -2174,22 +2174,24 @@ events:
       - Les Trafiquants
       - Balssens
     organisation: ~
-  - name: Folkbal
+  - name: Soirée Folk
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "https://folkbalbende.be/event/910"
-    start_date: 2022-05-28
-    end_date: 2022-05-28
+      - "https://www.facebook.com/frederic.cornet.14/posts/10228498045184558"
+    start: 2022-05-28T17:00:00+02:00
+    end: 2022-05-29T00:00:00+02:00
     country: Belgium
     city: Anthisnes
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Aérokorda
       - Solia
+    price: €10-€25
     organisation: ~
   - name: Folkbal
     details: Ball
