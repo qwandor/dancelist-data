@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Gran Bal Folk
+    links:
+      - "https://www.facebook.com/events/662792921461780/"
+    start_date: 2022-05-08T18:00:00+02:00
+    end_date: 2022-05-08T20:00:00+02:00
+    country: Italy
+    city: Venice
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Aérokorda
+    price: €10
+    organisation: Sognando a Piedi Nudi - Mestre
