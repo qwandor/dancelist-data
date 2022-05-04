@@ -15,10 +15,12 @@ jobs:
         uses: actions/cache@v2
         with:
           path: |
+            ~/.cargo/bin
             ~/.cargo/git
             ~/.cargo/registry
-            target
-          key: ${{ runner.os }}-${{ matrix.target }}-package-cargo
+            ~/.cargo/.crates.toml
+            ~/.cargo/.crates2.json
+          key: ${{ runner.os }}-cargo-install
       - name: Install dancelist
         run: cargo install --git https://github.com/qwandor/dancelist
       - name: Validate
