@@ -187,3 +187,43 @@ events:
       - Viorel
     price: 95 PLN
     organisation: Numinosum
+
+  - name: Folktańcówka
+    links:
+      - "https://www.facebook.com/events/709956493792631"
+    start_date: 2022-05-20
+    end_date: 2022-05-20
+    country: Poland
+    city: Poznań
+    styles: [balfolk]
+    social: true
+    organisation: Bal Folk Poznań
+    price: free
+
+  - name: Kapela Odloty
+    links:
+      - "https://www.facebook.com/events/1414868612351286"
+    start_date: 2022-05-21
+    end_date: 2022-05-21
+    country: Poland
+    city: Warsaw
+    styles: [polish, balfolk]
+    social: true
+    bands:
+      - "Kapela Odloty"
+    price: 20 PLN
+
+  - name: Warszawsko-Lubelska Orkiestra Dęta
+    links:
+      - "https://www.facebook.com/events/1083605735523738"
+    start_date: 2022-05-09
+    end_date: 2022-05-09
+    country: Poland
+    city: Warsaw
+    styles: [polish]
+    social: true
+    workshop: true
+    organisation: Dom Tańca
+    bands:
+      - "Warszawsko-Lubelska Orkiestra Dęta"
+    price: PWYW
