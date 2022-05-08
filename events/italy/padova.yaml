@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Mazurka workshop and bal folk
+    links:
+      - "https://www.facebook.com/events/677331293498910/"
+      - "https://bit.ly/BalFolkMazurka"
+    start: 2022-05-15T14:30:00+02:00
+    end: 2022-05-15T21:30:00+02:00
+    country: Italy
+    city: Padua
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Di Doux
+    price: €8-€25
+    organisation: Uno È la Danza
