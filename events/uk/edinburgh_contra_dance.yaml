@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Edinburgh Contra Dance
+    links:
+      - "https://www.facebook.com/events/365123628970174/"
+      - "https://www.citizenticket.co.uk/events/edinburgh-contra-dance/contra-dance-returns-to-edinburgh/"
+    start: 2022-06-04T19:45:00+01:00
+    end: 2022-06-04T22:30:00+01:00
+    country: UK
+    city: Edinburgh
+    styles: [contra]
+    workshop: false
+    social: true
+    bands:
+      - Edward Wallace and friends
+    callers:
+      - Rachel Wallace
+    price: £10
+    organisation: Edinburgh Contra Dance
