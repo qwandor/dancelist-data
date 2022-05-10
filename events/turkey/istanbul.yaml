@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfest'day
+    links:
+      - "https://www.facebook.com/events/325188639738631/"
+    start: 2022-05-15T15:00:00+03:00
+    end: 2022-05-15T23:00:00+03:00
+    country: Turkey
+    city: Istanbul
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Deli Reçel
+      - The Schwänzeltanz
+    price: 50TL-100TL
