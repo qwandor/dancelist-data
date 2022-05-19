@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../events_schema.json
+
+events:
+  - name: Bal Folk im Mai
+    links:
+      - "https://www.facebook.com/events/780145789659271/"
+    start: 2022-05-28T20:00:00+02:00
+    end: 2022-05-28T23:59:00+02:00
+    country: Germany
+    city: München
+    styles: [balfolk]
+    workshop: false
+    social: true
+    organisation: balfolk-muenchen.de
+  - name: Bal Folks Tanz
+    links:
+      - "https://www.facebook.com/events/356477273007977/"
+    start: 2022-07-02T20:30:00+02:00
+    end: 2022-07-02T23:59:00+02:00
+    country: Germany
+    city: München
+    styles: [balfolk]
+    workshop: false
+    social: true
