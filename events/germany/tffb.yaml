@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Tanz & Folk Festival Oderland
+    links:
+      - "https://www.tff-b.de/"
+      - "https://www.facebook.com/events/345217240850095/"
+    start: 2022-09-02T19:30:00+02:00
+    end: 2022-09-04T17:30:00+02:00
+    country: Germany
+    city: Trebnitz
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Snaarmaarwaar
+      - Sväng
+      - Hidrae
+      - Lunesk
+      - Chablis
+      - Familie Gerstenberg
+    organisation: TFFB
