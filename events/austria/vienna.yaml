@@ -59,6 +59,20 @@ events:
       - Hotel Palindrone
     price: €15.50-€22
 
+  - name: Zweitägiger Tanzkurs
+    links:
+      - "https://www.facebook.com/events/1198188487657076/"
+    start: 2022-05-28T10:00:00+02:00
+    end: 2022-05-29T16:30:00+02:00
+    country: Austria
+    city: Vienna
+    styles: [balfolk]
+    workshop: true
+    social: false
+    bands:
+      - Lauge Dideriksen
+    price: €80-€120
+
   - name: Folktanz-Abend im Achillion
     links:
       - "https://www.facebook.com/events/525838935645955/"
@@ -72,6 +86,58 @@ events:
     price: €10-€14
     organisation: FolkTanz Wien
 
+  - name: Polskarhythmen tanzen
+    links:
+      - "https://www.facebook.com/events/1175974343221189/"
+    start: 2022-06-04T10:00:00+02:00
+    end: 2022-06-04T12:00:00+02:00
+    country: Austria
+    city: Vienna
+    styles: [scandi]
+    workshop: true
+    social: false
+    price: €100
+    organisation: Judith Benkö
+
+  - name: Polskarhythmen tanzen
+    links:
+      - "https://www.facebook.com/events/1175974343221189/"
+    start: 2022-06-11T10:00:00+02:00
+    end: 2022-06-11T12:00:00+02:00
+    country: Austria
+    city: Vienna
+    styles: [scandi]
+    workshop: true
+    social: false
+    price: €100
+    organisation: Judith Benkö
+
+  - name: Polskarhythmen tanzen
+    links:
+      - "https://www.facebook.com/events/1175974343221189/"
+    start: 2022-06-18T10:00:00+02:00
+    end: 2022-06-18T12:00:00+02:00
+    country: Austria
+    city: Vienna
+    styles: [scandi]
+    workshop: true
+    social: false
+    price: €100
+    organisation: Judith Benkö
+
+  - name: Polskarhythmen tanzen
+    links:
+      - "https://www.facebook.com/events/1175974343221189/"
+    start: 2022-06-25T10:00:00+02:00
+    end: 2022-06-25T12:00:00+02:00
+    country: Austria
+    city: Vienna
+    styles: [scandi]
+    workshop: true
+    social: false
+    price: €100
+    organisation: Judith Benkö
+
   - name: Folktanz-Abend im Achillion
     links:
       - "https://www.facebook.com/events/525838938979288/"
@@ -84,3 +150,21 @@ events:
     social: true
     price: €10-€14
     organisation: FolkTanz Wien
+
+# Mentioned at https://www.facebook.com/events/1198188487657076/
+  - name: Zweitägiger Tanzkurs
+    start_date: 2022-10-08
+    end: 2022-10-09
+    country: Austria
+    city: Vienna
+    styles: [balfolk]
+    workshop: true
+    social: false
+  - name: Zweitägiger Tanzkurs
+    start_date: 2022-12-03
+    end: 2022-12-04
+    country: Austria
+    city: Vienna
+    styles: [balfolk]
+    workshop: true
+    social: false
