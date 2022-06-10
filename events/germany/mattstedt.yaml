@@ -3,8 +3,8 @@ events:
   - name: Folk Weekend Mattstedt
     links:
       - "https://www.muehlenhofmattstedt.de/folk-festival"
-    start_date: 2022-06-23
-    end_date: 2022-06-26
+    start: 2022-06-23T20:00:00+02:00
+    end: 2022-06-26T16:30:00+02:00
     country: Germany
     city: Mattstedt
     styles: [balfolk]
@@ -12,9 +12,11 @@ events:
     social: true
     bands:
       - Wings and Tales
-      - Flowers
+      - Geronimo
       - Bargainatt
       - J.B. Picot
       - Maracu
+      - Aurélien Claranbaux
+      - Duo Bothe-Molzahn
     price: €25-€135
     organisation: Mühlenhof Mattstedt
