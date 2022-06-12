@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: "Jolieke's bal"
+    details: "Tijdens het bal zullen we rondgaan met de hoed voor een vrije bijdrage, onze suggestie is 15 euro. Je bijdrage gaat rechtstreeks naar de muzikanten.\n\nReserveren wordt op prijs gesteld en kan via de balfolk.nl event link.\n\nProgramma\n18:30 Deuren open\n19:00 Initiatie door Balfolk Express\n20:00 Bal met Hilde van Belle\n21:00 Bal met Hilde van Belle en Wim te Groen in duo\n22:00 Bal met Wim te Groen\n22:45 Sessie/Balfolk DJ"
+    links:
+      - "https://www.balfolk.nl/agenda/joliekes-bal-met-wim-te-groen-en-hilde-van-belle"
+      - "https://www.facebook.com/events/435629391731150"
+    bands:
+      - "Wim te Groen"
+      - "Hilde van Belle"
+      - "Wim te Groen Hilde van Belle duo"
+    price: "donation"
+    start: 2022-07-01T18:30:00+02:00
+    end: 2022-07-01T22:45:00+02:00
+    country: Netherlands
+    city: Geleen
+    styles: [balfolk]
+    workshop: false
+    social: true
+    organisation: Jolieke
