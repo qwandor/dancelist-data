@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Sugar Hill Dance Weekend
+    links:
+      - "http://bloomingtoncontra.org/sugar-hill/"
+      - "https://www.facebook.com/events/1298453630640714/"
+    start: 2022-08-26T18:00:00-04:00
+    end: 2022-08-28T12:00:00-04:00
+    country: USA
+    city: Bloomington
+    styles: [contra]
+    workshop: true
+    social: true
+    price: $10-$55
+    organisation: Bloomington Old-Time Music & Dance Group
