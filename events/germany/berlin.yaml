@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal with Emily & The Simons
+    links:
+      - "https://spreefolk.de/events/e2shds"
+      - "https://hausdersinne-berlin.de/event/balfolktanz-live-mit-emily-and-the-simons/"
+      - "http://emilyandthesimons.com/#tour-dates"
+    start: 2022-07-14T18:30:00+02:00
+    end: 2022-07-14T23:00:00+02:00
+    country: Germany
+    city: Berlin
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Emily & The Simons
+    price: €8-€14
+    organisation: Spreefolk eV

@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal with Emily & The Simons
+    links:
+      - "http://emilyandthesimons.com/#tour-dates"
+    start: 2022-07-11T17:00:00+02:00
+    end: 2022-07-11T22:00:00+02:00
+    country: Germany
+    city: Hainichen
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Emily & The Simons
+    organisation: JohannesHof

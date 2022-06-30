@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal with Emily & The Simons
+    links:
+      - "https://www.folkclub-marburg.de/wp/"
+      - "http://emilyandthesimons.com/#tour-dates"
+      - "https://www.facebook.com/events/532399781844680/"
+      - "https://www.facebook.com/events/409905114230788/"
+    start: 2022-07-10T19:00:00+02:00
+    end: 2022-07-10T23:00:00+02:00
+    country: Germany
+    city: Marburg
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Emily & The Simons
+    price: €11-€17
+    organisation: Folkclub Marburg
+
+  - name: Bal with Duo Tanghe-Coudroy
+    links:
+      - "https://www.folkclub-marburg.de/wp/"
+      - "https://www.facebook.com/events/841620110165546/"
+    start: 2022-09-04T19:00:00+02:00
+    end: 2022-09-04T23:00:00+02:00
+    country: Germany
+    city: Marburg
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Duo Tanghe-Coudroy
+    organisation: Folkclub Marburg
+
+  - name: Bal with Snaarmaarwaar
+    links:
+      - "https://www.folkclub-marburg.de/wp/"
+      - "https://www.facebook.com/events/1007135146591635/"
+    start: 2022-11-06T19:00:00+01:00
+    end: 2022-11-06T23:00:00+01:00
+    country: Germany
+    city: Marburg
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Snaarmaarwaar
+    price: €11-€17
+    organisation: Folkclub Marburg
