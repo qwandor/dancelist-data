@@ -3952,6 +3952,7 @@ events:
     social: true
     bands:
       - Blowzabella
+    price: £6-£16
     organisation: Oxfolk
   - name: IVFDF 2022
     details: The Inter-Varsity Folk Dance Festival.
@@ -13929,7 +13930,7 @@ events:
     workshop: true
     social: true
     organisation: TanzhausFolk
-  - name: Bal with Emily & the Simons
+  - name: Bal with Emily & The Simons
     links:
       - "http://www.tanzvolk-leipzig.de/14-juli-2022-emily-and-the-simons-uk-be"
       - "https://www.facebook.com/events/1346430239178864/"
@@ -13942,8 +13943,25 @@ events:
     workshop: false
     social: true
     bands:
-      - Emily & the Simons
+      - Emily & The Simons
     organisation: TanzhausFolk
+  - name: Bal with Emily & The Simons
+    links:
+      - "https://spreefolk.de/events/e2shds"
+      - "https://hausdersinne-berlin.de/event/balfolktanz-live-mit-emily-and-the-simons/"
+      - "http://emilyandthesimons.com/#tour-dates"
+    start: "2022-07-14T18:30:00+02:00"
+    end: "2022-07-14T23:00:00+02:00"
+    country: Germany
+    city: Berlin
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Emily & The Simons
+    price: €8-€14
+    organisation: Spreefolk eV
   - name: Tanzfest im Sommer
     details: Balfolk and Balkan
     links:
@@ -13962,6 +13980,40 @@ events:
       - Trio SALUT!
     price: €8-€15
     organisation: Färberei
+  - name: Bal with Emily & The Simons
+    links:
+      - "http://emilyandthesimons.com/#tour-dates"
+    start: "2022-07-11T17:00:00+02:00"
+    end: "2022-07-11T22:00:00+02:00"
+    country: Germany
+    city: Hainichen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Emily & The Simons
+    organisation: JohannesHof
+  - name: Rudolstadt Festival
+    links:
+      - "https://www.rudolstadt-festival.de/"
+    start_date: 2022-07-07
+    end_date: 2022-07-10
+    country: Germany
+    city: Rudolstadt
+    styles:
+      - balfolk
+      - e-ceilidh
+    workshop: true
+    social: true
+    bands:
+      - Emily & The Simons
+      - Folk My Life!
+      - Kerno-Buisson
+      - Kreuz & Square
+      - Kud Hž Varaždin
+      - Token Women
+    organisation: Rudolstadt Festival
   - name: Balfolk with SkALD
     links:
       - "https://www.lutherkirche-suedstadt.de/veranstaltungen/bal-folk-mitmachtanz-heute-live-skald/"
@@ -13992,6 +14044,55 @@ events:
       - Trio14
     price: €13-€15
     organisation: BalFolk Köln
+  - name: Bal with Emily & The Simons
+    links:
+      - "https://www.folkclub-marburg.de/wp/"
+      - "http://emilyandthesimons.com/#tour-dates"
+      - "https://www.facebook.com/events/532399781844680/"
+      - "https://www.facebook.com/events/409905114230788/"
+    start: "2022-07-10T19:00:00+02:00"
+    end: "2022-07-10T23:00:00+02:00"
+    country: Germany
+    city: Marburg
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Emily & The Simons
+    price: €11-€17
+    organisation: Folkclub Marburg
+  - name: Bal with Duo Tanghe-Coudroy
+    links:
+      - "https://www.folkclub-marburg.de/wp/"
+      - "https://www.facebook.com/events/841620110165546/"
+    start: "2022-09-04T19:00:00+02:00"
+    end: "2022-09-04T23:00:00+02:00"
+    country: Germany
+    city: Marburg
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Tanghe-Coudroy
+    organisation: Folkclub Marburg
+  - name: Bal with Snaarmaarwaar
+    links:
+      - "https://www.folkclub-marburg.de/wp/"
+      - "https://www.facebook.com/events/1007135146591635/"
+    start: "2022-11-06T19:00:00+01:00"
+    end: "2022-11-06T23:00:00+01:00"
+    country: Germany
+    city: Marburg
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Snaarmaarwaar
+    price: €11-€17
+    organisation: Folkclub Marburg
   - name: Tanz & Folk Festival Oderland
     links:
       - "https://www.tff-b.de/"
@@ -14012,6 +14113,75 @@ events:
       - Chablis
       - Familie Gerstenberg
     organisation: TFFB
+  - name: Sommertanz
+    links:
+      - "https://www.folktanz-halle.de/tanzhal/Flyer_EmilyandtheSimons_2022.pdf"
+      - "https://www.folktanz-halle.de/tanzhal/termine.html"
+      - "http://emilyandthesimons.com/#tour-dates"
+    start: "2022-07-13T19:00:00+02:00"
+    end: "2022-07-13T22:00:00+02:00"
+    country: Germany
+    city: Halle
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Emily & The Simons
+    price: €5-€7.50
+    organisation: Folktanz Halle
+  - name: Rosentanz
+    links:
+      - "https://www.folktanz-halle.de/tanzhal/termine.html"
+    start: "2022-07-31T17:30:00+02:00"
+    end: "2022-07-31T20:30:00+02:00"
+    country: Germany
+    city: Halle
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Monsieur Circulaire
+    organisation: Folktanz Halle
+  - name: Rosentanz
+    links:
+      - "https://www.folktanz-halle.de/tanzhal/termine.html"
+    start: "2022-08-28T17:30:00+02:00"
+    end: "2022-08-28T20:30:00+02:00"
+    country: Germany
+    city: Halle
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Monsieur Circulaire
+    organisation: Folktanz Halle
+  - name: 21. Folk-Tanz-Fest
+    links:
+      - "https://www.folktanz-halle.de/tanzhal/termine.html"
+    start_date: 2023-04-21
+    end_date: 2023-04-23
+    country: Germany
+    city: Halle
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Folktanz Halle
+  - name: 22. Folk-Tanz-Fest
+    links:
+      - "https://www.folktanz-halle.de/tanzhal/termine.html"
+    start_date: 2024-04-19
+    end_date: 2024-04-21
+    country: Germany
+    city: Halle
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Folktanz Halle
   - name: Dañserlà 2020
     links:
       - "https://eveeno.com/danserla2022"
