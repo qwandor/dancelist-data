@@ -3526,6 +3526,7 @@ events:
     bands:
       - Aérokorda
       - Snaarmaarwaar
+    price: free
     organisation: Frissefolk
   - name: Practica DJ Koen & Initiation
     details: Ball
@@ -3694,10 +3695,11 @@ events:
   - name: Week-end Accordéon
     details: Ball
     links:
+      - "https://www.smitlap.fr/#Dates"
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://folkbalbende.be/event/1070"
     start: "2022-07-01T20:00:00+02:00"
-    end: "2022-07-01T00:00:00+02:00"
+    end: "2022-07-02T00:00:00+02:00"
     country: Belgium
     city: Antoing
     styles:
@@ -3706,7 +3708,8 @@ events:
     social: true
     bands:
       - Smitlap
-    organisation: ~
+    price: €5
+    organisation: Smitlap
   - name: Week-end Accordéon
     details: Ball
     links:
@@ -3777,11 +3780,13 @@ events:
   - name: ComSiBal and workshop
     details: Ball
     links:
-      - "https://comsibal.be/"
+      - "https://comsibal.be/en/events/folkbal_2022_07_02/"
       - "https://folkbalbende.be/event/1076"
+      - "https://folkbalbende.be/event/1077"
       - "https://www.facebook.com/events/664408152003415"
-    start: "2022-07-02T01:00:00+02:00"
-    end: "2022-07-02T22:00:00+02:00"
+      - "https://www.facebook.com/events/527747478959458/"
+    start: "2022-07-02T14:30:00+02:00"
+    end: "2022-07-03T01:00:00+02:00"
     country: Belgium
     city: Leuven
     styles:
@@ -3791,23 +3796,7 @@ events:
     bands:
       - Duo Pilartz-Gielen
       - Cardboard Cabin
-    price: €12-€18
-    organisation: ComSiBal
-  - name: Workshop Contact Improvisatie In Folk
-    details: Course
-    links:
-      - "https://comsibal.be/"
-      - "https://folkbalbende.be/event/1077"
-      - "https://www.facebook.com/events/527747478959458/"
-    start: "2022-07-02T15:00:00+02:00"
-    end: "2022-07-02T18:00:00+02:00"
-    country: Belgium
-    city: Wijgmaal
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: €16-€24
+    price: €12-€42
     organisation: ComSiBal
   - name: Folk Dance for Beginners
     details: Course
