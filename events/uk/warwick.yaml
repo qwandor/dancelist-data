@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Warwick Folk Festival
+    links:
+      - "https://www.warwickfolkfestival.co.uk/"
+    start_date: 2022-07-21
+    end_date: 2022-07-24
+    country: UK
+    city: Warwick
+    styles: [ceilidh, contra]
+    workshop: true
+    social: true
+    bands:
+      - Relentless
+      - Peeping Tom
+      - Vertical Expression
+      - Whapweasel
+    price: £83-£166
+    organisation: Warwick Folk Festival
+    
