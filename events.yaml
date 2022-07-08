@@ -1016,9 +1016,11 @@ events:
   - name: Ely Folk Festival
     links:
       - "https://elyfolkfestival.co.uk/dance-the-nights-away/"
+      - "https://www.facebook.com/events/321086556675490/"
       - "https://www.facebook.com/events/1235868450493687/"
-    start_date: 2022-07-08
-    end_date: 2022-07-10
+      - "https://www.facebook.com/events/635486050846096/"
+    start: "2022-07-08T18:00:00+01:00"
+    end: "2022-07-10T23:45:00+01:00"
     country: UK
     city: Ely
     styles:
@@ -2350,20 +2352,6 @@ events:
       - Blackbeards Tea Party
       - "Filkin's Ensemble"
     organisation: Webfeet
-  - name: Bristol Ceilidh Quartet in Priddy
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2022-07-08
-    end_date: 2022-07-08
-    country: UK
-    city: Priddy
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Bristol Ceilidh Quartet
-    organisation: Webfeet
   - name: 422 in Rothbury
     links:
       - "https://www.wherecanwego.com/item/e1098827/ceilidh-with-422"
@@ -3261,6 +3249,25 @@ events:
     social: true
     price: £9-£10
     organisation: London Reels
+  - name: Priddy Folk Festival
+    links:
+      - "http://www.priddyfolk.org/"
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2022-07-08
+    end_date: 2022-07-10
+    country: UK
+    city: Priddy
+    styles:
+      - balfolk
+      - e-ceilidh
+    workshop: true
+    social: true
+    bands:
+      - Bristol Ceilidh Quartet
+      - Confluence
+    callers:
+      - Hannah Moore
+    organisation: Priddy Folk Festival
   - name: London Barndance 400th dance with cake
     details: Contra dance with Mark Elvins calling and the English Contra Dance Band playing.
     links:
@@ -6388,6 +6395,20 @@ events:
       - "https://www.facebook.com/events/686942679037946/"
     start: "2022-06-09T20:00:00+01:00"
     end: "2022-06-09T23:00:00+01:00"
+    country: UK
+    city: Sheffield
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: £5
+    organisation: Sheffield Eurosession
+  - name: Waltzing with Eurossion
+    links:
+      - "https://eurosession.org.uk/?p=4329"
+      - "https://www.facebook.com/events/846021836775713/"
+    start: "2022-07-14T20:00:00+01:00"
+    end: "2022-07-14T23:00:00+01:00"
     country: UK
     city: Sheffield
     styles:
