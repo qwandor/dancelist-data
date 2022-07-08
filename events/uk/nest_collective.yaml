@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Halloween Ceilidh
+    links:
+      - "https://thenestcollective.co.uk/events/halloween-ceilidh-2022/"
+      - "https://www.facebook.com/events/2031973217010527/"
+      - "https://www.eventbrite.co.uk/e/halloween-ceilidh-tickets-366799546317"
+    start: 2022-10-29T19:00:00+01:00
+    end: 2022-10-29T22:30:00+01:00
+    country: UK
+    city: London
+    styles: [e-ceilidh]
+    workshop: false
+    social: true
+    bands:
+      - Ceilidh Liberation Front
+    price: £10-£15
+    organisation: Nest Collective
