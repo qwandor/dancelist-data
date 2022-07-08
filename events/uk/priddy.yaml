@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Priddy Folk Festival
+    links:
+      - "http://www.priddyfolk.org/"
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2022-07-08
+    end_date: 2022-07-10
+    country: UK
+    city: Priddy
+    styles: [balfolk, e-ceilidh]
+    workshop: true
+    social: true
+    bands:
+      - Bristol Ceilidh Quartet
+      - Confluence
+    callers:
+      - Hannah Moore
+    organisation: Priddy Folk Festival
