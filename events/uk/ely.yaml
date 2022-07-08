@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Ely Folk Festival
+    links:
+      - "https://elyfolkfestival.co.uk/dance-the-nights-away/"
+      - "https://www.facebook.com/events/1235868450493687/"
+    start_date: 2022-07-08
+    end_date: 2022-07-10
+    country: UK
+    city: Ely
+    styles: [e-ceilidh]
+    workshop: false
+    social: true
+    bands:
+      - Steamchicken
+      - Frog on a Bike
+      - Harbour Lights Band
+    callers:
+      - Rhi Davies
+      - Oliver Simons
+      - Pam Ross
+    price: £38-£120
+    organisation: Ely Folk Festival
