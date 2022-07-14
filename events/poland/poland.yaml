@@ -170,24 +170,6 @@ events:
     social: true
     price: 5 PLN
 
-  - name: Balfolk summer weekend
-    links:
-      - "https://docs.google.com/forms/d/e/1FAIpQLSeEVhIMASK77TC0l1QkPQhaVr-AXyyf5n9D1dznR9d_gYti2Q/viewform"
-      - "https://www.facebook.com/events/402766374760784/"
-    start: 2022-07-22T20:00:00+02:00
-    end: 2022-07-24T02:00:00+02:00
-    country: Poland
-    city: Warsaw
-    styles: [balfolk]
-    workshop: true
-    social: true
-    bands:
-      - Geronimo
-      - Hartwin Dhoore
-      - Viorel
-    price: 95 PLN
-    organisation: Numinosum
-
   - name: Folktańcówka
     links:
       - "https://www.facebook.com/events/709956493792631"
@@ -340,31 +322,6 @@ events:
     price: 10 PLN
     organisation: Numinosum
 
-  - name: Bal folk before Balfolk summer weekend Warsaw
-    links:
-      - "https://www.facebook.com/events/5203268343124644/"
-    start: 2022-07-20T20:00:00+02:00
-    end: 2022-07-20T23:45:00+02:00
-    country: Poland
-    city: Warsaw
-    styles: [balfolk]
-    workshop: true
-    social: true
-    price: 10 PLN
-    organisation: Numinosum
-
-  - name: Bal Łazarski | 2
-    links:
-      - "https://www.facebook.com/events/5611103852235521/"
-    start_date: 2022-07-16
-    end_date: 2022-07-16
-    country: Poland
-    city: Poznań
-    styles: [balfolk]
-    social: true
-    organisation: Bal Folk Poznań
-    price: free
-
   - name: Weekly Balfolk
     links:
       - "https://www.facebook.com/events/545415717017102"
@@ -378,6 +335,31 @@ events:
     organisation: Balfolks
     price: 15 PLN
 
+  - name: Bal Łazarski | 2
+    links:
+      - "https://www.facebook.com/events/5611103852235521/"
+    start_date: 2022-07-16
+    end_date: 2022-07-16
+    country: Poland
+    city: Poznań
+    styles: [balfolk]
+    social: true
+    organisation: Bal Folk Poznań
+    price: free
+
+  - name: Bal folk before Balfolk summer weekend Warsaw
+    links:
+      - "https://www.facebook.com/events/5203268343124644/"
+    start: 2022-07-20T20:00:00+02:00
+    end: 2022-07-20T23:45:00+02:00
+    country: Poland
+    city: Warsaw
+    styles: [balfolk]
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+
   - name: Weekly Balfolk
     links:
       - "https://www.facebook.com/events/545415717017102"
@@ -390,6 +372,24 @@ events:
     social: true
     organisation: Balfolks
     price: 15 PLN
+
+  - name: Balfolk summer weekend
+    links:
+      - "https://docs.google.com/forms/d/e/1FAIpQLSeEVhIMASK77TC0l1QkPQhaVr-AXyyf5n9D1dznR9d_gYti2Q/viewform"
+      - "https://www.facebook.com/events/402766374760784/"
+    start: 2022-07-22T20:00:00+02:00
+    end: 2022-07-24T02:00:00+02:00
+    country: Poland
+    city: Warsaw
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Geronimo
+      - Hartwin Dhoore
+      - Viorel
+    price: 95 PLN
+    organisation: Numinosum
 
   - name: Weekly Balfolk
     links:
