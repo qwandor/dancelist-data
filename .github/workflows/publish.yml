@@ -10,6 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - name: Get dancelist version
+        run: echo "::set-output name=HEAD::$(git ls-remote https://github.com/qwandor/dancelist HEAD|cut -f1)"
+        id: version
       - name: Cache .cargo and target
         uses: actions/cache@v2
         with:
@@ -19,7 +22,7 @@ jobs:
             ~/.cargo/registry
             ~/.cargo/.crates.toml
             ~/.cargo/.crates2.json
-          key: ${{ runner.os }}-cargo-install
+          key: ${{ runner.os }}-cargo-install-${{ steps.version.outputs.HEAD }}
       - name: Install dancelist
         run: cargo install --git https://github.com/qwandor/dancelist
       - name: Make release directory
