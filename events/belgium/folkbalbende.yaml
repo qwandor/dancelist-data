@@ -4455,8 +4455,7 @@ events:
   - name: Puis Podium Libre
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://pasdlayau.be/"
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "https://folkbalbende.be/event/1111"
     start_date: 2022-09-17
     end_date: 2022-09-17
@@ -4467,7 +4466,8 @@ events:
     workshop: false
     social: true
     bands:
-      - E Saquant Beyaus
+      - E Saquant Bèyaus
+      - Podium Libre
     organisation: ~
   - name: Boombal
     details: Ball
@@ -4748,4 +4748,72 @@ events:
     social: true
     bands:
       - Funky Folk
+    organisation: ~
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.tey.be"
+      - "https://folkbalbende.be/event/1131"
+    start_date: 2022-08-18
+    end_date: 2022-08-18
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Follia
+    organisation: ~
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.tey.be"
+      - "https://folkbalbende.be/event/1132"
+    start_date: 2022-08-25
+    end_date: 2022-08-25
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Trioblique
+      - La RéVeilleuse
+    organisation: ~
+  - name: Velodroom Dansnamiddag
+    details: Ball
+    links:
+      - "https://stanistil.be"
+      - "https://folkbalbende.be/event/1133"
+      - "https://www.facebook.com/events/359686619512058"
+    start: "2022-08-20T13:00:00+02:00"
+    end: "2022-08-20T18:00:00+02:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: donation
+    organisation: Stanistil
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://www.trois-quatre.art/accueil"
+      - "https://folkbalbende.be/event/1134"
+    start_date: 2022-08-07
+    end_date: 2022-08-07
+    country: Belgium
+    city: Walhain
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Le Groupe 3..4 (FB Événement De Corentin Sevrin; Groupe
     organisation: ~
