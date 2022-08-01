@@ -4217,7 +4217,6 @@ events:
     social: true
     bands:
       - E Saquant Bèyaus
-      - Podium Libre
     organisation: ~
   - name: Boombal
     details: Ball
@@ -4422,7 +4421,7 @@ events:
     workshop: false
     social: true
     bands:
-      - E Saquant Beyaux
+      - E Saquant Bèyaus
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -4521,14 +4520,16 @@ events:
     social: true
     price: donation
     organisation: Stanistil
-  - name: Folkbal
+  - name: Bal Folk aux Rendez-Vous du Château
     details: Ball
     links:
+      - "https://lesrendezvousduchateau.be/index.php/events/dimanche-en-musique/"
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "https://www.trois-quatre.art/accueil"
       - "https://folkbalbende.be/event/1134"
-    start_date: 2022-08-07
-    end_date: 2022-08-07
+      - "https://www.facebook.com/events/615165150039394/"
+    start: 2022-08-07T13:00:00+02:00
+    end: 2022-08-07T18:00:00+02:00
     country: Belgium
     city: Walhain
     styles:
@@ -4536,5 +4537,6 @@ events:
     workshop: false
     social: true
     bands:
-      - Le Groupe 3..4 (FB Événement De Corentin Sevrin; Groupe
-    organisation: ~
+      - "3..4"
+    price: free
+    organisation: Rendez-Vous du Château
