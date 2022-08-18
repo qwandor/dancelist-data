@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: New Year's Eve Ceilidh
+    links:
+      - "https://www.efdss.org/whats-on/27-dances/11496-new-years-eve-ceilidh-2022"
+    start: 2022-12-31T20:00:00+00:00
+    end: 2023-01-01T12:30:00+00:00
+    country: UK
+    city: London
+    styles: [e-ceilidh]
+    workshop: false
+    social: true
+    bands:
+      - Silver Street Ceilidh Band
+    callers:
+      - Martin Clarke
+    price: £35-£45
+    organisation: EFDSS
