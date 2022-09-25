@@ -33,6 +33,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          # Check out the branch by name, so we can commit to it below.
+          ref: ${{ github.head_ref }}
       - name: Format YAML and Markdown
         uses: creyD/prettier_action@v4.2
         with:
