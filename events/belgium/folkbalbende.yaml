@@ -4390,7 +4390,7 @@ events:
     workshop: false
     social: true
     bands:
-      - AéRokorda
+      - Aérokorda
     organisation: ~
   - name: Baleynbal
     details: Ball
@@ -4460,8 +4460,8 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://comsibal.be/"
       - "https://folkbalbende.be/event/1113"
-    start_date: 2022-10-30
-    end_date: 2022-10-30
+    start: "2022-10-30T20:00:00+01:00"
+    end: "2022-10-30T21:30:00+01:00"
     country: Belgium
     city: Leuven
     styles:
@@ -4471,7 +4471,7 @@ events:
     bands:
       - Broes
       - Trio Baladins
-    organisation: ~
+    organisation: ComSiBal
   - name: Practica En Plein Air
     details: Ball
     links:
@@ -4673,21 +4673,6 @@ events:
     social: true
     bands:
       - E Saquant Bèyaus
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "http://www.goefolk.be"
-      - "https://folkbalbende.be/event/1129"
-    start_date: 2022-08-31
-    end_date: 2022-08-31
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: false
-    social: true
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -4920,21 +4905,18 @@ events:
   - name: Folkbal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.muziekpublique.be"
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "https://folkbalbende.be/event/1146"
-    start_date: 2022-09-24
-    end_date: 2022-09-24
+    start: "2022-09-24T19:00:00+02:00"
+    end: "2022-09-24T22:00:00+02:00"
     country: Belgium
     city: Brussels
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
-      - Emily & Simon
-      - A Contrabanda
-      - Aibrboxes
+      - 3..4
     organisation: ~
   - name: Practica Avec Initiation Au Pianofabriek
     details: Ball
@@ -4951,3 +4933,619 @@ events:
     workshop: true
     social: true
     organisation: Frissefolk
+  - name: Interactieve Folkdans Workshop
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/1148"
+      - "https://www.facebook.com/events/421224586515510"
+    start: "2022-09-09T20:30:00+02:00"
+    end: "2022-09-09T23:00:00+02:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: Stanistil
+  - name: Interactieve Folkdans Workshop
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/1149"
+      - "https://www.facebook.com/events/748978696393029"
+    start: "2022-09-28T20:30:00+02:00"
+    end: "2022-09-28T23:00:00+02:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: Stanistil
+  - name: Practica & Initiation
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D752%26reset%3D1"
+      - "https://folkbalbende.be/event/1150"
+      - "https://www.facebook.com/events/1255465878547307"
+    start: "2022-09-09T20:00:00+02:00"
+    end: "2022-09-09T23:00:00+02:00"
+    country: Belgium
+    city: Bouwel
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frissefolk
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://www.templeriedeshiboux.be"
+      - "https://folkbalbende.be/event/1154"
+    start_date: 2022-09-03
+    end_date: 2022-09-03
+    country: Belgium
+    city: Temploux
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Folk À Donf & Claude Demulder
+    organisation: ~
+  - name: Bal Au Chapeau
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://www.legraindart.be"
+      - "https://folkbalbende.be/event/1155"
+    start: "2022-09-16T20:30:00+02:00"
+    end: "2022-09-16T20:45:00+02:00"
+    country: Belgium
+    city: Antheit
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - J’en Rafolk
+    organisation: ~
+  - name: Concert Kadril & Folkbal @ De Foyer Met Hidrae
+    details: Ball
+    links:
+      - "https://www.ccsint-niklaas.be/podium/23456/kadril-folkbal-de-foyer-met-hidrae-jolie-flanande"
+      - "https://folkbalbende.be/event/1156"
+    start: "2022-10-01T20:00:00+02:00"
+    end: "2022-10-01T22:00:00+02:00"
+    country: Belgium
+    city: Sint-Niklaas
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Kadril (concert)
+      - Hidrae
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://www.rzf.be"
+      - "https://folkbalbende.be/event/1157"
+    start: "2022-10-01T20:15:00+02:00"
+    end: "2022-10-01T20:45:00+02:00"
+    country: Belgium
+    city: Alleur
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Initium
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/1158"
+    start_date: 2022-10-15
+    end_date: 2022-10-15
+    country: Belgium
+    city: Lamorteau
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://tey.be/programma/2022/10/29/loogaroo"
+      - "http://www.tey.be"
+      - "https://folkbalbende.be/event/1159"
+      - "https://fb.me/e/2ccjhI5e0"
+    start_date: 2022-10-29
+    end_date: 2022-10-29
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Loogaroo
+    price: €12-€15
+    organisation: "'t Ey"
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://balhalla.be/nl"
+      - "https://www.facebook.com/Balhallafolk"
+      - "https://folkbalbende.be/event/1160"
+      - "https://www.facebook.com/events/415006357174809?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22page%22%7D]%7D"
+    start: "2022-09-22T19:00:00+02:00"
+    end: "2022-09-22T22:00:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Clercx
+      - Tandem
+    organisation: ~
+  - name: Folkdansles Limburg (begonners)
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/1161"
+    start: "2022-09-07T19:00:00+02:00"
+    end: "2022-09-07T21:00:00+02:00"
+    country: Belgium
+    city: Diepenbeek
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €60
+    organisation: Folk In Limburg
+  - name: Folkdansles Limburg (beginners)
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/1162"
+    start: "2022-09-14T19:00:00+02:00"
+    end: "2022-09-14T21:00:00+02:00"
+    country: Belgium
+    city: Diepenbeek
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €60
+    organisation: Folk In Limburg
+  - name: Folkbal - ComSiBal
+    details: Ball
+    links:
+      - "https://comsibal.be/"
+      - "https://www.facebook.com/Com-Si-Bal-289788381673578"
+      - "https://folkbalbende.be/event/1163"
+      - "https://www.facebook.com/events/470569481210543"
+    start: "2022-09-03T19:00:00+02:00"
+    end: "2022-09-03T22:00:00+02:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Naragonia
+      - Airboxes
+    organisation: ComSiBal
+  - name: Animation
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://contretempsetmarees.wixsite.com/contretempsetmarees"
+      - "https://folkbalbende.be/event/1164"
+    start_date: 2022-09-18
+    end_date: 2022-09-18
+    country: Belgium
+    city: Schaarbeek
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Contretemps Et Marees
+    organisation: ~
+  - name: "B.A.L. - Bal A'Lo(s)t"
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1165"
+      - "https://www.facebook.com/events/s/bal-bal-alost/575376367577942"
+    start: "2022-12-17T20:00:00+01:00"
+    end: "2022-12-17T23:30:00+01:00"
+    country: Belgium
+    city: Aalst
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - T.B.A.
+      - T.B.A.
+    organisation: ~
+  - name: Bal Folk En Partie Médiéval
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/1166"
+    start: "2022-09-11T14:00:00+02:00"
+    end: "2022-09-11T18:30:00+02:00"
+    country: Belgium
+    city: Braine-le-Château
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Contretemps Et Marees
+      - Acus Vacuum Et Les Ménestrels De Mordini
+    organisation: ~
+  - name: Bal@herk
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1167"
+    start_date: 2022-09-17
+    end_date: 2022-09-17
+    country: Belgium
+    city: Herk-de-Stad
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Fluitenkruid
+      - Hidrae
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.maxifolk.be"
+      - "https://folkbalbende.be/event/1168"
+    start_date: 2022-09-24
+    end_date: 2022-09-24
+    country: Belgium
+    city: Roeselare
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Boreas
+    organisation: ~
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://folkbalbende.be/event/1170"
+    start_date: 2022-12-31
+    end_date: 2022-12-31
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Boombal
+  - name: Practica Au Pianofabriek
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D755%26reset%3D1"
+      - "https://folkbalbende.be/event/1172"
+      - "https://www.facebook.com/events/603086791439290"
+    start: "2022-09-20T21:00:00+02:00"
+    end: "2022-09-20T22:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Frissefolk
+  - name: Variations De Rotation Pour Scottish
+    details: Course
+    links:
+      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D757%26reset%3D1"
+      - "https://folkbalbende.be/event/1173"
+      - "https://www.facebook.com/events/867966254169653"
+    start: "2022-09-25T13:15:00+02:00"
+    end: "2022-09-25T18:15:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €20-€50
+    organisation: Frissefolk
+  - name: Bourree Auvergnate 1
+    details: Course
+    links:
+      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D758%26reset%3D1"
+      - "https://folkbalbende.be/event/1174"
+      - "https://www.facebook.com/events/1241699913330639"
+    start: "2022-11-05T13:00:00+01:00"
+    end: "2022-11-05T18:00:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €30-€55
+    organisation: Frissefolk
+  - name: Bourree Auvergnate 2
+    details: Course
+    links:
+      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D759%26reset%3D1"
+      - "https://folkbalbende.be/event/1175"
+      - "https://www.facebook.com/events/1241699913330639"
+    start: "2022-11-06T10:30:00+01:00"
+    end: "2022-11-06T16:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €30-€55
+    organisation: Frissefolk
+  - name: ComSibal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://comsibal.be/"
+      - "https://folkbalbende.be/event/1179"
+    start_date: 2023-02-18
+    end_date: 2023-02-18
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Paracetamol
+      - Duo Clercx
+    organisation: ~
+  - name: Volksbal - Ball Folk - Bal Champêtre
+    details: Ball
+    links:
+      - "https://www.gcdewildeman.be/programma/olifantenbal-de-herfst-het-brabants-volksorkest-duo-macke-bornauw"
+      - "https://folkbalbende.be/event/1181"
+    start: "2022-10-29T20:00:00+02:00"
+    end: "2022-10-29T23:50:00+02:00"
+    country: Belgium
+    city: Herent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Brabants Volksorkest
+      - Duo Macke-Bornauw
+      - Brabants Volksorkest
+      - Duo Macke-Bornauw
+    organisation: ~
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://tey.be/programma/2022/11/19/blowzabella"
+      - "http://www.tey.be"
+      - "https://folkbalbende.be/event/1188"
+      - "https://www.facebook.com/events/596163788719116"
+    start: "2022-11-19T21:00:00+01:00"
+    end: "2022-11-19T22:30:00+01:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Blowzabella
+    price: €15-€18
+    organisation: "'t Ey"
+  - name: Ol Da Folk
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.oldafolk.be/"
+      - "https://folkbalbende.be/event/1191"
+    start: "2022-11-25T20:00:00+01:00"
+    end: "2022-11-25T21:30:00+01:00"
+    country: Belgium
+    city: Assebroek
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Nebel
+    organisation: ~
+  - name: Queimada
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D753%26reset%3D1"
+      - "https://folkbalbende.be/event/1192"
+      - "https://www.facebook.com/events/2850154325280306"
+    start: "2022-09-24T19:00:00+02:00"
+    end: "2022-09-24T21:45:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Emily & Simon
+      - A Contrabanda
+      - Airboxes
+    organisation: Frissefolk
+  - name: Dansen Voor Het Klimaat
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1193"
+    start: "2022-09-19T19:00:00+02:00"
+    end: "2022-09-19T21:00:00+02:00"
+    country: Belgium
+    city: Stevoort
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Ancolie
+    organisation: ~
+  - name: Interactieve Folkdans Workshop
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/1194"
+      - "https://www.facebook.com/events/944881439800937"
+    start: "2022-10-14T20:30:00+02:00"
+    end: "2022-10-14T23:00:00+02:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: Stanistil
+  - name: Interactieve Folkdans Workshop
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/1195"
+      - "https://www.facebook.com/events/444821357711829"
+    start: "2022-10-26T20:30:00+02:00"
+    end: "2022-10-26T23:00:00+02:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: Stanistil
+  - name: Interactieve Folkdans Workshop
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/1196"
+      - "https://www.facebook.com/events/796143864971580"
+    start: "2022-11-18T20:30:00+01:00"
+    end: "2022-11-18T23:00:00+01:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: Stanistil
+  - name: Interactieve Folkdans Workshop
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/1197"
+      - "https://www.facebook.com/events/820888809354488"
+    start: "2022-12-09T20:30:00+01:00"
+    end: "2022-12-09T23:00:00+01:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: Stanistil
+  - name: Interactieve Folkdans Workshop
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/1198"
+      - "https://www.facebook.com/events/1730211584019398"
+    start: "2022-12-21T20:30:00+01:00"
+    end: "2022-12-21T23:00:00+01:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: Stanistil
+  - name: Interactieve Folkdans Workshop
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/1199"
+      - "https://www.facebook.com/events/778781040043444"
+    start: "2022-11-23T20:30:00+01:00"
+    end: "2022-11-23T23:00:00+01:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: Stanistil
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1200"
+      - "https://fb.me/e/1QVMHdXAl"
+    start: "2022-10-19T20:00:00+02:00"
+    end: "2022-10-19T23:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1201"
+    start: "2022-09-28T20:00:00+02:00"
+    end: "2022-09-28T22:30:00+02:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Geert En Oswald
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://oldafolk.brugseverenigingen.be/BalmetFollia"
+      - "https://folkbalbende.be/event/1202"
+    start: "2022-10-07T20:00:00+02:00"
+    end: "2022-10-07T22:30:00+02:00"
+    country: Belgium
+    city: Assebroek
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Follia
+    price: €8
+    organisation: ~
