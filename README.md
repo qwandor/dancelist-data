@@ -98,3 +98,7 @@ events:
     price: £6-£15
     organisation: Bristol Contra
 ```
+# :handshake: Our Contributors
+<a href="https://github.com/qwandor/dancelist-data/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=qwandor/dancelist-data" />
+</a>
