@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
 - name: Contra Dance in Cambridge
     links:
       - "https://www.flyingcat.dance/gigs/newcontras"
@@ -20,8 +22,8 @@
 - name: Contra Dance in Cambridge
     links:
       - "https://www.flyingcat.dance/gigs/newcontras"
-    start: 2022-11-19T19:45:00+01:00
-    end: 2022-11-19T23:00:00+01:00
+    start: 2022-11-19T19:45:00+00:00
+    end: 2022-11-19T23:00:00+00:00
     country: UK
     city: Cambridge
     styles: [contra]
