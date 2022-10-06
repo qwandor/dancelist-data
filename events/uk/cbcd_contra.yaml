@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-- name: Contra Dance in Cambridge
+  - name: Contra Dance in Cambridge
     links:
       - "https://www.flyingcat.dance/gigs/newcontras"
       - "https://www.facebook.com/events/3312637989021793"
@@ -12,14 +12,12 @@ events:
     workshop: false
     social: true
     bands:
-      - Flying Cat
-      - Matt Cudby
-      - 'Flying Matt'
+      - Flying Matt
     callers:
       - Adam Hughes
     price: £7-£15
 
-- name: Contra Dance in Cambridge
+  - name: Contra Dance in Cambridge
     links:
       - "https://www.flyingcat.dance/gigs/newcontras"
     start: 2022-11-19T19:45:00+00:00
