@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal Folk Dance Weekend
+    links:
+      - "https://folkschool.configio.com/pd/1212/bal-folk-dance-weekend"
+    start_date: 2022-10-21
+    end_date: 2022-10-23
+    country: USA
+    city: Brasstown
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Rachel Bell
+      - Becky Tracy
+      - Susan Kevra
+    price: $233
+    organisation: John C Campbell Folk School
