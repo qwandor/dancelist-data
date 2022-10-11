@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Le Bal des Libellules
+    links:
+      - "https://www.lebaldeslibellules.be/"
+      - "https://www.facebook.com/events/1130053727647820/"
+    start: 2022-11-05T14:30:00+01:00
+    end: 2022-11-06T01:30:00+01:00
+    country: Belgium
+    city: Nassogne
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Balbuzar
+      - Emmarilin
+    organisation: Le Bal des Libellules ASBL
