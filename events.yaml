@@ -6106,6 +6106,7 @@ events:
     links:
       - "https://balhalla.be"
       - "https://folkbalbende.be/event/1203"
+      - "https://folkbalbende.be/event/1207"
       - "https://www.facebook.com/events/424607416402167/"
     start: "2022-10-13T19:00:00+02:00"
     end: "2022-10-13T22:00:00+02:00"
@@ -6167,22 +6168,6 @@ events:
     workshop: true
     social: true
     organisation: Frissefolk
-  - name: Balhalla
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/1207"
-    start: "2022-10-13T19:00:00+02:00"
-    end: "2022-10-13T23:00:00+02:00"
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Loogaroo
-    organisation: ~
   - name: Bal@herk
     details: Ball
     links:
@@ -6574,6 +6559,9 @@ events:
   - name: Folkbal
     details: Ball
     links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://muzmoz.be"
+      - "https://folkbalbende.be/event/1238"
       - "https://folkbalbende.be/event/1233"
     start: "2022-11-11T19:30:00+01:00"
     end: "2022-11-11T23:00:00+01:00"
@@ -6584,7 +6572,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Folkorkest St Maartensgilde O.l.v. Jan Delcourt
+      - "L'orchestre De La St Maartensgilde"
       - De Garre Van Kornee
     organisation: ~
   - name: Folkbal
@@ -6658,24 +6646,6 @@ events:
     social: true
     bands:
       - Musiciens Korneel.leest@hotmail+=
-    organisation: ~
-  - name: Bal Folk
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "http://muzmoz.be"
-      - "https://folkbalbende.be/event/1238"
-    start: "2022-11-11T19:30:00+01:00"
-    end: "2022-11-11T23:00:00+01:00"
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - L’orchestre De La St Maartensgilde
-      - De Garre Van Kornee (
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -6814,6 +6784,22 @@ events:
       - Zim Boum Trad
     price: €10-€35
     organisation: Folk en fête
+  - name: Le Bal des Libellules
+    links:
+      - "https://www.lebaldeslibellules.be/"
+      - "https://www.facebook.com/events/1130053727647820/"
+    start: "2022-11-05T14:30:00+01:00"
+    end: "2022-11-06T01:30:00+01:00"
+    country: Belgium
+    city: Nassogne
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Balbuzar
+      - Emmarilin
+    organisation: Le Bal des Libellules ASBL
   - name: Bals et Roses
     links:
       - "https://www.festivalbalsetroses.be/"
