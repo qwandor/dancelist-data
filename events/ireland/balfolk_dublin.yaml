@@ -211,14 +211,16 @@ events:
 
   - name: Balfolk Dublin
     links:
-      - "https://www.facebook.com/events/369673585373034/369673628706363/"
+      - "https://www.facebook.com/events/1248570392608523/"
     start: 2022-10-16T16:00:00+01:00
     end: 2022-10-16T19:00:00+01:00
     country: Ireland
     city: Dublin
     styles: [balfolk]
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Tamm Tan
     price: donation
     organisation: Balfolk Dublin
 
