@@ -1,0 +1,54 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Grand Bal Folk d'Automne du S'Narreschiff
+    start: 2022-11-26T20:30:00+01:00
+    end: 2022-11-26T23:30:00+01:00
+    links:
+      - "http://snarreschiff.fr/#Agenda"
+      - "https://www.facebook.com/events/3078198062479735/"
+    country: France
+    city: Strasbourg
+    bands:
+      - Elba Connection
+      - Les Zéoles
+    price: €8-€12
+    organisation: S'Narreschiff
+
+  - name: Grand Bal Folk du S'Narreschiff
+    start: 2023-02-04T20:30:00+01:00
+    end: 2023-02-04T23:30:00+01:00
+    links:
+      - "http://snarreschiff.fr/#Fleche"
+    country: France
+    city: Strasbourg
+    bands:
+      - Duo Lagrange-Rutkowski
+      - Fistoulig
+    price: €8-€12
+    organisation: S'Narreschiff
+
+  - name: Grand Bal Folk du S'Narreschiff
+    start: 2023-04-01T20:30:00+02:00
+    end: 2023-04-01T23:30:00+02:00
+    links:
+      - "http://snarreschiff.fr/#Agenda"
+    country: France
+    city: Strasbourg
+    bands:
+      - Salmanazar
+      - La Solive
+    price: €8-€12
+    organisation: S'Narreschiff
+
+  - name: Grand Bal Folk du S'Narreschiff
+    start: 2023-05-13T20:30:00+02:00
+    end: 2023-05-13T23:30:00+02:00
+    links:
+      - "http://snarreschiff.fr/#Agenda"
+    country: France
+    city: Strasbourg
+    bands:
+      - Noù
+      - Accord & Muse
+    price: €8-€12
+    organisation: S'Narreschiff
