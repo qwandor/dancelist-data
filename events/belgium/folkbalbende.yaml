@@ -5449,22 +5449,6 @@ events:
     workshop: true
     social: true
     organisation: Frissefolk
-  - name: Balhalla
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/1207"
-    start: "2022-10-13T19:00:00+02:00"
-    end: "2022-10-13T23:00:00+02:00"
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Loogaroo
-    organisation: ~
   - name: Bal@herk
     details: Ball
     links:
@@ -5481,42 +5465,7 @@ events:
       - Follia!
       - Wouter Vandenabeele En Jeroen Knapen
     organisation: ~
-  - name: Bal Van 1001 Nachten - Bal Des 1001 Nuits
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.facebook.com/profile.php?id=100057301284753"
-      - "https://folkbalbende.be/event/1210"
-    start_date: 2022-11-05
-    end_date: 2022-11-05
-    country: Belgium
-    city: Leuven
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Bal Danses Folkloriques
-    organisation: ~
-  - name: Queimada
-    details: Ball
-    links:
-      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D761%26reset%3D1"
-      - "https://folkbalbende.be/event/1211"
-    start: "2022-11-05T19:00:00+01:00"
-    end: "2022-11-05T21:45:00+01:00"
-    country: Belgium
-    city: Brussels
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Loogaroo
-      - A Contrabanda
-      - Trio14
-    organisation: Frissefolk
-  - name: BLOWZABELLA (Grande-Bretagne)
+  - name: Folkbal
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
@@ -5616,6 +5565,8 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Air Bac
     organisation: ~
   - name: Duo Lode BUCSAN/Simon GIELEN
     details: Ball
@@ -5684,14 +5635,16 @@ events:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "http://www.wefolk.be"
       - "https://folkbalbende.be/event/1222"
-    start_date: 2022-10-21
-    end_date: 2022-10-21
+    start: "2022-10-21T20:00:00+02:00"
+    end: "2022-10-21T23:30:00+02:00"
     country: Belgium
-    city: Marche-en-Famenne
+    city: Heer
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - T.B.A.
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -5938,24 +5891,6 @@ events:
     bands:
       - Musiciens Korneel.leest@hotmail+=
     organisation: ~
-  - name: Bal Folk
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "http://muzmoz.be"
-      - "https://folkbalbende.be/event/1238"
-    start: "2022-11-11T19:30:00+01:00"
-    end: "2022-11-11T19:45:00+01:00"
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - L’orchestre De La St Maartensgilde
-      - De Garre Van Kornee (
-    organisation: ~
   - name: Folkbal
     details: Ball
     links:
@@ -5971,21 +5906,6 @@ events:
     social: true
     bands:
       - Aérokorda
-    organisation: ~
-  - name: Soirée Balkans (Musique Live)
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.facebook.com/events/1653903288343128/?ref=newsfeed"
-      - "https://folkbalbende.be/event/1240"
-    start_date: 2022-10-15
-    end_date: 2022-10-15
-    country: Belgium
-    city: Brussels
-    styles:
-      - balfolk
-    workshop: false
-    social: true
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -6004,10 +5924,11 @@ events:
     bands:
       - Bal & Gambettes
     organisation: ~
-  - name: Oefenavond
+  - name: Dansavond
     details: Ball
     links:
       - "https://folkbalbende.be/event/1242"
+      - "https://www.facebook.com/events/1248753475874988/1248753485874987"
     start: "2022-11-02T20:30:00+01:00"
     end: "2022-11-02T23:30:00+01:00"
     country: Belgium
@@ -6016,11 +5937,13 @@ events:
       - balfolk
     workshop: false
     social: true
+    price: donation
     organisation: Stanistil
-  - name: Oefenavond
+  - name: Dansavond
     details: Ball
     links:
       - "https://folkbalbende.be/event/1243"
+      - "https://www.facebook.com/events/1248753475874988/1248753482541654"
     start: "2022-11-30T20:30:00+01:00"
     end: "2022-11-30T23:30:00+01:00"
     country: Belgium
@@ -6029,4 +5952,125 @@ events:
       - balfolk
     workshop: false
     social: true
+    price: donation
     organisation: Stanistil
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1244"
+    start: "2022-10-26T20:00:00+02:00"
+    end: "2022-10-26T22:30:00+02:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Clercx
+    organisation: ~
+  - name: "Bal \"Enfin, La Ste-Barbe"
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://pasdlayau.be/"
+      - "https://folkbalbende.be/event/1245"
+    start_date: 2022-11-19
+    end_date: 2022-11-19
+    country: Belgium
+    city: Quevaucamps
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - "Les Musiciens Des Pas D'La Yau"
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1247"
+    start: "2022-10-16T16:30:00+02:00"
+    end: "2022-10-16T21:30:00+02:00"
+    country: Belgium
+    city: Watermaal-Bosvoorde
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Solia
+    price: €5-€7
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/1248"
+    start: "2022-11-05T16:00:00+01:00"
+    end: "2022-11-05T19:45:00+01:00"
+    country: Belgium
+    city: Philippeville
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Citron Gingembre
+    organisation: ~
+  - name: Kerst Boombal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.booùbal.be"
+      - "https://folkbalbende.be/event/1251"
+    start_date: 2022-12-26
+    end_date: 2022-12-26
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Cam&Leo
+      - Hot Griselda
+      - Sophie Cavez
+    organisation: ~
+  - name: Bal Final
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.boombal.be/balfinal"
+      - "https://folkbalbende.be/event/1252"
+    start_date: 2022-12-31
+    end_date: 2022-12-31
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Entre Autres
+      - Naragonia
+      - Airboxes
+    organisation: ~
+  - name: Boombal Veer Intiem
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.booùbal.be"
+      - "https://folkbalbende.be/event/1253"
+    start_date: 2022-11-15
+    end_date: 2022-11-15
+    country: Belgium
+    city: Sint-Amandsberg
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Loogaroo
+      - Viorel
+    organisation: ~
