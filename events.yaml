@@ -8992,8 +8992,8 @@ events:
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
-    start: "2023-02-12T20:00:00+00:00"
-    end: "2023-02-12T23:00:00+00:00"
+    start: "2023-02-11T20:00:00+00:00"
+    end: "2023-02-11T23:00:00+00:00"
     country: UK
     city: London
     styles:
@@ -9009,8 +9009,8 @@ events:
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
-    start: "2023-03-12T20:00:00+00:00"
-    end: "2023-03-12T23:00:00+00:00"
+    start: "2023-03-11T20:00:00+00:00"
+    end: "2023-03-11T23:00:00+00:00"
     country: UK
     city: London
     styles:
@@ -9036,6 +9036,8 @@ events:
     social: true
     bands:
       - Stringrays
+    callers:
+      - Rhodri Davies
     price: £5-£14
     organisation: London Barndance Company
   - name: London Barndance
@@ -12787,22 +12789,6 @@ events:
     bands:
       - Holderness Folk Band
     organisation: Webfeet
-  - name: Matt Norman & Hannah Cummings in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.1@.20220325"
-    start_date: 2022-03-25
-    end_date: 2022-03-25
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Matt Norman & Hannah Cummings
-    callers:
-      - Jake Wood
-    organisation: Webfeet
   - name: Catsfield Steamers in Bexhill
     links:
       - "http://catsfieldsteamers.co.uk/index.php/bookings/"
@@ -14875,6 +14861,92 @@ events:
       - Blowzabella
       - Duo Rivaud-Lacouchie
     price: £6-£270
+    organisation: Halsway Manor
+  - name: "Folk Dance, Music and Strawcraft"
+    links:
+      - "https://halswaymanor.org.uk/event/folk-dance-music-and-strawcraft/"
+    start: "2022-11-11T16:00:00+00:00"
+    end: "2022-11-14T10:00:00+00:00"
+    country: UK
+    city: Halsway
+    styles:
+      - playford
+      - e-ceilidh
+    workshop: true
+    social: true
+    price: £165-£295
+    organisation: Halsway Manor
+  - name: 19th Zesty Contra Weekend
+    links:
+      - "https://halswaymanor.org.uk/event/the-19th-zesty-contra-weekend/"
+    start: "2022-11-18T16:00:00+00:00"
+    end: "2022-11-20T16:00:00+00:00"
+    country: UK
+    city: Halsway
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Ali & Mollie
+    callers:
+      - Rhodri Davies
+      - Mark Elvins
+    price: £165-£270
+    organisation: Halsway Manor
+  - name: Christmas Dinner and Dance
+    links:
+      - "https://halswaymanor.org.uk/event/christmas-dinner-and-dance/"
+    start: "2022-12-22T18:00:00+00:00"
+    end: "2022-12-22T23:00:00+00:00"
+    country: UK
+    city: Halsway
+    styles:
+      - playford
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Chris Toyne & Henry Lovegrove
+    callers:
+      - Simon Maplesden
+    price: £5-£62
+    organisation: Halsway Manor
+  - name: Christmas House Party
+    links:
+      - "https://halswaymanor.org.uk/event/christmas-house-party-4/"
+    start: "2022-12-23T16:00:00+00:00"
+    end: "2022-12-27T10:00:00+00:00"
+    country: UK
+    city: Halsway
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - "Gareth Kiddier, Linda Game & Hannah Cummings"
+    callers:
+      - Lynne Render
+    price: £370-£560
+    organisation: Halsway Manor
+  - name: New Year House Party
+    links:
+      - "https://halswaymanor.org.uk/event/new-year-house-party-2022/"
+    start: "2022-12-29T16:00:00+00:00"
+    end: "2023-01-02T16:00:00+00:00"
+    country: UK
+    city: Halsway
+    styles:
+      - playford
+      - e-ceilidh
+    workshop: true
+    social: true
+    bands:
+      - Rod & Francis Stradling
+    callers:
+      - Ted Morse
+      - Pat Morse
+    price: £325-£515
     organisation: Halsway Manor
   - name: Halsway Contra Dance Weekend
     links:
