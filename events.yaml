@@ -15726,14 +15726,20 @@ events:
   - name: ComSibal
     links:
       - "http://comsibal.be/en/"
-    start: "2022-11-12T13:30:00+02:00"
-    end: "2022-11-13T01:00:00+02:00"
+      - "https://www.facebook.com/events/5419356021514542/"
+      - "https://www.facebook.com/events/5560950750692725/"
+    start: "2022-11-12T14:30:00+01:00"
+    end: "2022-11-13T01:00:00+01:00"
     country: Belgium
     city: Leuven
     styles:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Viorel
+      - Accords Perdus
+    price: €12-€42
     organisation: ComSibal
   - name: Bal@Herk
     links:
