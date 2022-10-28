@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfolk with DuOblique
+    start: 2022-12-04T16:00:00+02:00
+    end: 2022-12-04T19:30:00+02:00
+    links:
+      - "https://www.facebook.com/events/491294279519726"
+    country: Italy
+    city: Cremona
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands: 
+      - DuOblique
