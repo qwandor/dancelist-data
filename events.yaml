@@ -4729,6 +4729,7 @@ events:
     social: true
     price: donation
     organisation: Balfolk Dublin
+    cancelled: true
   - name: Balfolk Dublin Halloween Special
     links:
       - "https://www.facebook.com/events/1652253431877526/"
@@ -4769,18 +4770,21 @@ events:
     social: true
     price: donation
     organisation: Balfolk Dublin
-  - name: Balfolk Dublin
+  - name: Dance workshop and concert
     links:
-      - "https://www.facebook.com/events/369673585373034/369673625373030/"
-    start: "2022-11-20T16:00:00+00:00"
-    end: "2022-11-20T19:00:00+00:00"
+      - "https://www.facebook.com/events/515559963235771/"
+    start: "2022-11-20T18:00:00+00:00"
+    end: "2022-11-20T22:30:00+00:00"
     country: Ireland
     city: Dublin
     styles:
       - balfolk
-    workshop: false
+      - italian
+    workshop: true
     social: true
-    price: donation
+    bands:
+      - Lampetròn
+    price: £15-£20
     organisation: Balfolk Dublin
   - name: Balfolk Dublin
     links:
