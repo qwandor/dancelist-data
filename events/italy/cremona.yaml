@@ -1,10 +1,24 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
+  - name: Balfolk with Philippe Plard
+    start: 2022-11-04T19:30:00+02:00
+    end: 2022-11-05T00:00:00+02:00
+    links:
+      - "https://www.facebook.com/events/987398558595157/"
+    country: Italy
+    city: Cremona
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Philippe Plard
+    organisation: Balfolk nella Bassa
+
   - name: Balfolk with DuOblique
     start: 2022-12-04T16:00:00+02:00
     end: 2022-12-04T19:30:00+02:00
     links:
-      - "https://www.facebook.com/events/491294279519726"
+      - "https://www.facebook.com/events/491294279519726/"
     country: Italy
     city: Cremona
     styles: [balfolk]
@@ -12,3 +26,4 @@ events:
     social: true
     bands:
       - DuOblique
+    organisation: Balfolk nella Bassa
