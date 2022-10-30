@@ -1,5 +1,19 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
+  - name: Balfolk with Duo Calanca Lipparini
+    start: 2022-10-30T16:00:00+01:00
+    end: 2022-10-30T19:30:00+01:00
+    links:
+      - "https://www.facebook.com/events/508728477255496/"
+    country: Italy
+    city: Cremona
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Duo Calanca Lipparini
+    organisation: Balfolk nella Bassa
+
   - name: Balfolk with Philippe Plard
     start: 2022-11-04T19:30:00+01:00
     end: 2022-11-05T00:00:00+01:00
