@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal Folk with Petit Piment
+    links:
+      - "https://www.facebook.com/events/3347951135474231/"
+    start: 2022-11-19T21:30:00+01:00
+    end: 2022-11-19T23:59:00+01:00
+    country: Italy
+    city: Turin
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Petit Piment
+    price: €15
+    organisation: Ballauriamo APS
