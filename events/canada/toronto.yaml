@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfolk Monday Night
+    links:
+      - "https://www.facebook.com/events/2422222901249464/"
+    start: 2022-11-07T19:00:00+02:00
+    end: 2022-11-07T22:30:00+02:00
+    country: Canada
+    city: Toronto
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Alison & Emilyn
+    organisation: Balfolk Toronto
