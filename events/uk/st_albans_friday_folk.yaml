@@ -1,8 +1,4 @@
 # yaml-language-server: $schema=../../events_schema.json
-# Friday Folk, St Albans
-# Author: Bob Barrett
-# Version: 2022-05-07T11:09:00
-#
 events:
   - name: Saturday Special Contra Dance organised by Friday Folk
     links:
@@ -23,4 +19,21 @@ events:
     details: >
       Dancing for everyone. Come on your own or with a partner. Beginners
       welcome.
-    organisation: "Friday Folk, St Albans"
+    organisation: Friday Folk
+
+  - name: Friday Folk Saturday Special
+    links:
+      - "https://fridayfolk.org.uk/"
+    start: 2022-11-26T19:30:00+00:00
+    end: 2022-11-26T22:30:00+00:00
+    country: UK
+    city: St Albans
+    styles: [contra]
+    social: true
+    workshop: false
+    bands:
+      - Momentum
+    callers:
+      - Bob Morgan
+    price: £10
+    organisation: Friday Folk
