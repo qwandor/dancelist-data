@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfolk and workshop
+    links:
+      - "https://www.facebook.com/events/830850204820298/"
+    start: 2023-01-28T18:00:00+02:00
+    end: 2023-01-28T23:00:00+02:00
+    country: Lithuania
+    city: Vilnius
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - ŠakarMakar
+      - Guoda
+      - Adrijus
+    price: €10
+    organisation: Šok, mėgaukis ir dalinkis
