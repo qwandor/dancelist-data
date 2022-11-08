@@ -37,9 +37,7 @@
       "required": [
         "city",
         "country",
-        "end_date",
-        "name",
-        "start_date"
+        "name"
       ],
       "properties": {
         "bands": {
@@ -85,6 +83,14 @@
           "items": {
             "type": "string"
           }
+        },
+        "end": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "start":  {
+          "type": "string",
+          "format": "date-time"
         },
         "name": {
           "description": "The name of the event.",
