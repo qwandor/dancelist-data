@@ -36,8 +36,8 @@ events:
   - name: Mixed dance
     links:
       - "https://www.nfdg.org.uk/club_dances.php"
-    start: 2022-11-12T19:30:00+01:00
-    end: 2022-11-12T23:00:00+01:00
+    start: 2022-11-12T19:30:00+00:00
+    end: 2022-11-12T23:00:00+00:00
     country: UK
     city: Nottingham
     styles: [contra, playford]
@@ -47,11 +47,29 @@ events:
       - Deo Volente
     callers:
       - Ivan Aitken
+    price: £10
     organisation: Nottingham Folk Dance Group
 
-  - name: Playford Ball
+  - name: Nottingham Mixed Dance
     links:
       - "https://www.nfdg.org.uk/club_dances.php"
+    start: 2023-02-04T19:30:00+00:00
+    end: 2023-02-04T23:00:00+00:00
+    country: UK
+    city: Nottingham
+    styles: [contra, playford]
+    workshop: false
+    social: true
+    bands:
+      - Ali & Mollie
+    callers:
+      - Louise Siddons
+    organisation: Nottingham Folk Dance Group
+
+  - name: Nottingham Playford Ball
+    links:
+      - "https://nfdg.org.uk/club_dances.php"
+      - "https://nfdg.org.uk/ball.php"
     start: 2023-04-22T19:30:00+01:00
     end: 2023-04-22T23:00:00+01:00
     country: UK
@@ -59,4 +77,40 @@ events:
     styles: [playford]
     workshop: false
     social: true
+    bands:
+      - Albireo
+    callers:
+      - Victoria Yeomans
+    organisation: Nottingham Folk Dance Group
+
+  - name: Nottingham Contra Dance
+    links:
+      - "https://www.nfdg.org.uk/club_dances.php"
+    start: 2023-09-30T19:30:00+01:00
+    end: 2023-09-30T23:00:00+01:00
+    country: UK
+    city: Nottingham
+    styles: [contra]
+    workshop: false
+    social: true
+    bands:
+      - Vertical Expression
+    callers:
+      - Seth Tepfer
+    organisation: Nottingham Folk Dance Group
+
+  - name: Nottingham Mixed Dance
+    links:
+      - "https://www.nfdg.org.uk/club_dances.php"
+    start: 2023-11-11T19:30:00+00:00
+    end: 2023-11-11T23:00:00+00:00
+    country: UK
+    city: Nottingham
+    styles: [contra, playford]
+    workshop: false
+    social: true
+    bands:
+      - Knotted Chord
+    callers:
+      - Brian Stanton
     organisation: Nottingham Folk Dance Group
