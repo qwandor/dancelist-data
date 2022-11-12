@@ -1386,10 +1386,10 @@ events:
     callers:
       - Nick Walden
     organisation: Webfeet
-  - name: "Cat's Claw in Cardiff"
+  - name: Ruff Ceilidhs
     links:
-      - "http://eceilidh.org.uk/cps/gigs/catsclawband-5d6031.php"
       - "http://ruffceilidhs.org/coming/"
+      - "http://eceilidh.org.uk/cps/gigs/catsclawband-5d6031.php"
       - "http://mister.red/dance/cardiff.htm#D.HA.20220924"
     start_date: 2022-09-24
     end_date: 2022-09-24
@@ -1403,7 +1403,7 @@ events:
       - "Cat's Claw"
     callers:
       - Mic Spenceley
-    organisation: Webfeet
+    organisation: Ruff Ceilidhs
   - name: Catsfield Steamers in Matfield
     links:
       - "http://catsfieldsteamers.co.uk/index.php/bookings/"
@@ -1693,9 +1693,10 @@ events:
     callers:
       - Ian Ludbrook
     organisation: Webfeet
-  - name: Juice in Cardiff
+  - name: Ruff Ceilidhs
     links:
       - "http://ruffceilidhs.org/coming/"
+      - "http://mister.red/dance/cardiff.htm#D.HA.20221119"
     start_date: 2022-11-19
     end_date: 2022-11-19
     country: UK
@@ -1708,7 +1709,7 @@ events:
       - Juice
     callers:
       - Ned Clamp
-    organisation: Webfeet
+    organisation: Ruff Ceilidhs
   - name: "Peeping Tom in Chandler's Ford"
     links:
       - "https://www.wherecanwego.com/item/e1495807/shocc-dances-november-ceilidh-with-peeping-tom-phil-bassindale"
@@ -1725,22 +1726,6 @@ events:
       - Peeping Tom
     callers:
       - Phil Bassindale
-    organisation: Webfeet
-  - name: Juice in Cardiff
-    links:
-      - "http://mister.red/dance/cardiff.htm#D.HA.20221119"
-    start_date: 2022-11-19
-    end_date: 2022-11-19
-    country: UK
-    city: Cardiff
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Juice
-    callers:
-      - Ned Clamp
     organisation: Webfeet
   - name: Buttered Peas in Skipton
     links:
@@ -1820,19 +1805,6 @@ events:
   - name: Famous Potatoes in Leigh on Sea
     links:
       - "http://famouspotatoes.co.uk/events/big-barn-dance-in-leigh-on-sea/"
-    start_date: 2022-11-26
-    end_date: 2022-11-26
-    country: UK
-    city: Leigh on Sea
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Famous Potatoes
-    organisation: Webfeet
-  - name: Famous Potatoes in Leigh on Sea
-    links:
       - "https://www.facebook.com/events/leigh-community-centre/big-barn-dance-in-leigh-on-sea-with-the-famous-potatoes/660374915539602/"
     start_date: 2022-11-26
     end_date: 2022-11-26
@@ -1998,20 +1970,6 @@ events:
     bands:
       - Arish Mel
     organisation: Webfeet
-  - name: Venn in Horsley
-    links:
-      - "http://mister.red/dance/nailsworth.htm#D.TA.20221210"
-    start_date: 2022-12-10
-    end_date: 2022-12-10
-    country: UK
-    city: Horsley
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Venn
-    organisation: Webfeet
   - name: Bees Knees in Pucklechurch
     links:
       - "http://mister.red/dance/bristol.htm#D.AT.20221210"
@@ -2047,21 +2005,6 @@ events:
   - name: "This Way Up in Chandler's Ford"
     links:
       - "https://www.wherecanwego.com/item/e1495808/shocc-dances-december-ceilidh-with-this-way-up-fee-lock"
-    start_date: 2022-12-17
-    end_date: 2022-12-17
-    country: UK
-    city: "Chandler's Ford"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - This Way Up
-    callers:
-      - Fee Lock
-    organisation: Webfeet
-  - name: "This Way Up in Chandler's Ford"
-    links:
       - "http://www.shocc.co.uk/"
     start_date: 2022-12-17
     end_date: 2022-12-17
@@ -2123,8 +2066,8 @@ events:
   - name: "Murphy's Lore in Bournemouth"
     links:
       - "http://eceilidh.org.uk/cps/gigs/murphysloretrio-cdfe7b.php"
-    start_date: 2022-12-31
-    end_date: 2023-01-01
+    start: 2022-12-31T21:30:00+00:00
+    end: 2023-01-01T00:30:00+00:00
     country: UK
     city: Bournemouth
     styles:
@@ -2133,6 +2076,9 @@ events:
     social: true
     bands:
       - "Murphy's Lore"
+    callers:
+      - Tom Gregory
+    price: £15-£20
     organisation: Webfeet
   - name: "The Hedgehog's Skin in Allendale"
     links:
@@ -2243,8 +2189,9 @@ events:
     callers:
       - Ray Goodswen
     organisation: Webfeet
-  - name: Green/Matthews in Cardiff
+  - name: Ruff Ceilidhs
     links:
+      - "https://ruffceilidhs.org/coming/"
       - "http://mister.red/dance/cardiff.htm#D.HB.20230121"
     start_date: 2023-01-21
     end_date: 2023-01-21
@@ -2258,7 +2205,7 @@ events:
       - Green/Matthews
     callers:
       - Bob Morgan
-    organisation: Webfeet
+    organisation: Ruff Ceilidhs
   - name: Matt Norman & Laurel Swift in Bristol
     links:
       - "http://mister.red/dance/bristol.htm#D.1@.20230127"
@@ -2335,7 +2282,7 @@ events:
     callers:
       - Barry Goodman
     organisation: Webfeet
-  - name: TBA in Cardiff
+  - name: Ruff Ceilidhs
     links:
       - "http://mister.red/dance/cardiff.htm#D.HC.20230318"
     start_date: 2023-03-18
@@ -2346,7 +2293,11 @@ events:
       - e-ceilidh
     workshop: false
     social: true
-    organisation: Webfeet
+    bands:
+      - Bunny-Eye Ceilidh Band
+    callers:
+      - Ian Ludbrook
+    organisation: Ruff Ceilidhs
   - name: "Banter in Chandler's Ford"
     links:
       - "https://www.wherecanwego.com/item/e1495811/shocc-dances-march-ceilidh-with-banter-barry-goodman"
@@ -2424,7 +2375,7 @@ events:
     callers:
       - Jane Bird
     organisation: Webfeet
-  - name: Out of Hand in Cardiff
+  - name: Ruff Ceilidhs
     links:
       - "https://www.wherecanwego.com/item/e1483602/ruffceilidh-out-of-hand-with-alison-rowley"
       - "http://ruffceilidhs.org/coming/"
@@ -2440,7 +2391,7 @@ events:
       - Out of Hand
     callers:
       - Alison Rowley
-    organisation: Webfeet
+    organisation: Ruff Ceilidhs
   - name: Catsfield Steamers in Hastings
     links:
       - "http://catsfieldsteamers.co.uk/index.php/bookings/"
