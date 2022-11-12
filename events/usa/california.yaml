@@ -1,18 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Fiddling Frog
-    links:
-      - "https://www.caldancecoop.org/special-events/fiddling-frog/"
-    start_date: 2023-02-24
-    end_date: 2023-02-26
-    country: USA
-    city: Pasadena
-    styles: [contra]
-    workshop: false
-    social: true
-    price: $85-$175
-    organisation: California Dance Co-Operative
-
   - name: Hey Days
     links:
       - "https://www.bacds.org/camps/eweek2022/"
@@ -135,6 +122,69 @@ events:
       - Will Mentor
     price: $120-$195
     organisation: Sierra Music and Arts Institute
+
+  - name: Fiddling Frog
+    links:
+      - "https://www.caldancecoop.org/special-events/fiddling-frog/"
+    start: 2023-02-24T19:00:00-08:00
+    end: 2023-02-26T22:30:00-08:00
+    country: USA
+    city: Pasadena
+    styles: [contra]
+    workshop: false
+    social: true
+    bands:
+      - Root System
+      - Dam Beavers
+    callers:
+      - Gaye Fifer
+      - Jeremy Korr
+    price: $85-$190
+    organisation: California Dance Co-Operative
+
+  - name: Camp Sturtevant
+    links:
+      - "https://www.caldancecoop.org/special-events/camp-sturtevant/"
+    start: 2023-05-26T13:45:00-07:00
+    end: 2023-05-29T17:00:00-07:00
+    country: USA
+    city: Los Angeles
+    styles: [contra]
+    workshop: false
+    social: true
+    bands:
+      - Uncle Farmer
+    callers:
+      - Susan Petrick
+    organisation: California Dance Co-Operative
+
+  - name: Balance the Bay
+    links:
+      - "https://www.bacds.org/camps/"
+    start_date: 2023-08-11
+    end_date: 2023-08-13
+    country: USA
+    city: San Francisco
+    styles: [contra]
+    workshop: false
+    social: true
+    bands:
+      - NOVA
+    callers:
+      - Lisa Greenleaf
+    organisation: Bay Area Country Dance Society
+
+  - name: Labor Day Dance Away
+    links:
+      - "https://www.caldancecoop.org/special-events/labor-day-dance-away-2021/"
+    start_date: 2023-09-01
+    end_date: 2023-09-04
+    country: USA
+    city: Julian
+    styles: [contra]
+    workshop: false
+    social: true
+    organisation: California Dance Co-Operative
 
   - name: Foggy Moon Dance Weekend
     links:
