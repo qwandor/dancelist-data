@@ -1542,6 +1542,7 @@ events:
     bands:
       - Airboxes
       - Wim te Groen
+    price: €22
     organisation: TwoHats
   - name: Vredebal in Arnhem
     details: "Het eerste Vredebal in Arnhem komt eraan.\n\nTwee Nederlandse bands spelen voor jullie.\nDe bar is open voor een drankje.\n\n14:00 Dansuitleg\n15:00 Artisjok\n15:45 Momiro\n16:30 Sessie, neem je instrument mee\n17:30 Einde\n\nArtisjok bestaat uit Yvette Maussart en Kris van 't Klooster. Met twee mandolines spelen ze eigen nummers en traditionals. De muziek is klein en fijn.\n\nMomiro bestaat uit Jasper Tolsma op gitaar, Wouter Koenders op flute en Kris van 't Klooster op mandoline en viool. De eigen composities bestaan uit speelse harmonieën met af en toe een twist."
@@ -1560,7 +1561,7 @@ events:
       - Momiro
     price: donation
     organisation: balfolk.nl
-  - name: Volksdansbal 2022 in Dordrecht met Wouter en de Draak
+  - name: Volksdansbal 2022 in Dordrecht
     details: "Een fijne combi tussen volksdans en balfolk, stijlen die veel met elkaar gemeen hebben, maar toch nog zeer verschillend zijn. Samen met volksdansvereniging Machar houdt Balfolk Zuid-Holland een volksdansbal, waar zowel traditionele volksdansen als typische balfolkdansen gedanst kunnen worden. De avond begint met een dansuitleg voor beide stijlen, zodat je als bezoeker geen moment aan de kant hoeft te staan.\n\nUiteraard zal er live-muziek zijn, en dat is deze keer het duo van Wouter en De Draak! Dit duo bestaat uit Wouter Kuyper op trekzak en Joris Alblas op gitaar. Balfolk, maar dan met een grotere rol voor de gitaar, een tintje Iers en een voorliefde voor Bretons.\n\nToegang tot het bal, inclusief gratis consumptie, is 12,50 euro. Dit kan bij voorkeur betaald worden door 12,50 euro over te maken naar NL60 INGB 0003555154 tnv Volksdansvereniging Machar te Dordrecht.\n\nDe avond begint om 20.00 uur en duurt tot 23.00 uur.\n\nJe kunt komen dansen op de Haringvlietstraat 515, 3313 EM in Dordrecht, het Woonzorgcentrum de Merwelanden."
     links:
       - "https://www.balfolk.nl/agenda/volksdansbal-2022-in-dordrecht/"
@@ -1572,6 +1573,8 @@ events:
       - balfolk
     workshop: true
     social: false
+    bands:
+      - Wouter en de Draak
     price: €12.50
     organisation: balfolk.nl
   - name: Zweedse Schottis (21 en 28 november)
@@ -1583,9 +1586,10 @@ events:
     country: Netherlands
     city: Utrecht
     styles:
-      - balfolk
+      - scandi
     workshop: true
     social: false
+    price: €40-€50
     organisation: balfolk.nl
   - name: Balfolk café Nijmegen
     details: "Balfolk Cafe is livemuziek, tussendoor fijne balfolkhitjes en natuurlijk sessie: dus neem ook je instrumenten mee!\n\n\nEntree: vrijwillige donatie.\nGeef ruim, alles gaat 100% naar de muzikanten.\n\n19:30 dans uitleg\n20:30 Livemuziek (2 sets)\n22:00 Sessie!\n(Tijden onder voorbehoud) Tussendoor draaien we natuurlijk fijne balfolk hitjes, dus de hele avond kan er gedanst worden"
@@ -1663,7 +1667,11 @@ events:
     styles:
       - balfolk
     workshop: false
-    social: false
+    social: true
+    bands:
+      - AdHoc Orkest
+      - Mars House Band
+    price: €7
     organisation: balfolk.nl
   - name: "Socialles 248 (Rotterdam) — Leiden, volgen en variëren (2/2)"
     details: "Deze donderdag 1 december is het socialles nr 248. Docent deze week is Paulo, hij gaat met ons aan de slag met leiden, volgen en variëren in koppeldansen. Deze les sluit mooi aan bij de les van vorige week, gegeven door Susanne, maar ze kunnen zoals altijd ook los gevolgd worden.\n\nProgramma\n18.30 Gezamenlijk koken en eten\n19.30: Start socialles\n20.30: Einde socialles, begin vrij dansen\n21.30: Einde\n\nSocialles\nHet concept van een socialles is dat er het eerste uur een les of workshop wordt gegeven door een enthousiaste danser of docent over een specifieke dans of thema en dat in de 1,5 uur daarna de tijd is om vrij te dansen op cdmuziek. Uiteraard is er ook volop gelegenheid om te socialisen tijdens het deel vrij dansen.\n\nGezamenlijk eten\nVooraf mee-eten is ook mogelijk. Vanaf 18.30 uur ben je welkom in de keuken van De Banier, waarop er een warme maaltijd gekookt en gegeten wordt tot om 19.30 uur de socialles begint. Meehelpen met koken mag en kan natuurlijk. Mee-eten kost 3 euro per persoon, per keer, cash te betalen. Vooraf doorgeven dat je mee-eet is wel handig, dat kan het beste via balfolkzuidholland@gmail.com, tot uiterlijk woensdag 17.00 uur. Geef dan ook direct allergieën of intoleranties door, dan houden we daar rekening mee.\n\nLocatie\nJe kunt ons vinden bij De Banier, gevestigd op Banierstraat 1, in Rotterdam. Deze locatie is op ongeveer tien minuten lopen vanaf Centraal Station Rotterdam. Parkeren in de directe omgeving is betaald tot 23.00 uur ‘s avonds. Verderop in de wijk is het wel gratis, dan moet je dus wel een stukje lopen. Check prettigparkeren.nl voor de mogelijkheden.\n\nZaalregels\nIn de danszaal mogen geen buitenschoenen, zorg dus dat je schoenen bij je hebt die niet buiten worden gedragen zoals dansschoenen of dans op blote voeten of op sokken. Eten in de danszaal is ook niet toegestaan.\n\nPrijs\nDe sociallessen kosten 6 euro per persoon. Dit kan cash betaald worden aan de deur. Er is eveneens de mogelijkheid om een strippenkaart aan te schaffen: dat zijn 5 strippen voor 30 euro, op elke socialles te besteden. Dat scheelt je wekelijks geld meenemen. Pinnen is niet mogelijk."
@@ -2029,24 +2037,26 @@ events:
     links:
       - "https://www.balfolk.nl/agenda/seizoenssluiting-sociallessen-in-rotterdam/"
     start_date: 2023-07-08
-    end_date: 2023-07-09
+    end_date: 2023-07-08
     country: Netherlands
     city: Rotterdam
     styles:
       - balfolk
-    workshop: false
-    social: false
+    workshop: true
+    social: true
+    price: €10
     organisation: balfolk.nl
   - name: Seizoensopening Sociallessen in Rotterdam
     details: "De seizoensopening van de sociallessen in Rotterdam, voor seizoen 2023-2024, in tangoschool Cuartito Azul. De exacte programmering wordt later nog bekend gemaakt. Het is in ieder geval een sessiebal, met eerst een live-band die komt spelen, gevolgd door de mogelijkheid om sessie te spelen, dus nodig gerust muzikantenvrienden uit en vergeet niet je muziekinstrument mee te nemen als je zelf speelt. Reserveringen mag alvast natuurlijk!"
     links:
       - "https://www.balfolk.nl/agenda/seizoensopening-sociallessen-in-rotterdam/"
     start_date: 2023-09-02
-    end_date: 2023-09-03
+    end_date: 2023-09-02
     country: Netherlands
     city: Rotterdam
     styles:
       - balfolk
-    workshop: false
-    social: false
+    workshop: true
+    social: true
+    price: €10
     organisation: balfolk.nl
