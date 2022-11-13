@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: test
+    links: []
+    start_date: 2022-11-19
+    end_date: 2022-11-20
+    country: United Kingdom
+    city: London
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    organisation: London Barndane Company
+    source: ~
