@@ -1204,56 +1204,6 @@ events:
     social: false
     price: €20-€50
     organisation: Frissefolk
-  - name: Variations For Waltz & Polka
-    details: Course
-    links:
-      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D682%26reset%3D1"
-      - "https://www.facebook.com/events/212811987725149"
-    start: "2022-02-26T13:00:00+01:00"
-    end: "2022-02-26T18:00:00+01:00"
-    country: Belgium
-    city: Brussels
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: €15-€50
-    organisation: Frissefolk
-  - name: Queimada
-    details: Ball
-    links:
-      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D658%26reset%3D1"
-      - "https://muziekpublique.be/concerts/20211218folkbal-queimada/?lang=en"
-    start: "2022-02-26T19:00:00+01:00"
-    end: "2022-02-26T23:59:00+01:00"
-    country: Belgium
-    city: Brussels
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Duo Macke-Bornauw
-      - A Contrabanda
-      - Calamalys
-    organisation: Frissefolk
-  - name: Bal De La Cabane Du Bout Du Monde
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-    start_date: 2022-02-27
-    end_date: 2022-02-27
-    country: Belgium
-    city: Watermaal-Bosvoorde
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Contre Temps Et Marees
-      - Marées
-    organisation: ~
-    cancelled: true
   - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
     links:
@@ -1643,8 +1593,9 @@ events:
   - name: Queimada
     details: Ball
     links:
+      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D658%26reset%3D1"
+      - "https://muziekpublique.be/concerts/20211218folkbal-queimada/?lang=en"
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.muziekpublique.be"
       - "https://folkbalbende.be/event/803"
     start: "2022-02-26T19:00:00+01:00"
     end: "2022-02-26T23:59:00+01:00"
@@ -1652,10 +1603,11 @@ events:
     city: Brussels
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Duo Macke-Bornauw
+      - A Contrabanda
       - Calamalys
     organisation: Frissefolk
   - name: Folkbal
