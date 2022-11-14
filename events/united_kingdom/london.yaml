@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Test event3
+    links: []
+    start_date: 2022-11-09
+    end_date: 2022-11-09
+    country: United Kingdom
+    city: London
+    styles:
+      - polish
+    workshop: false
+    social: true
+    organisation: Test
+    source: ~
