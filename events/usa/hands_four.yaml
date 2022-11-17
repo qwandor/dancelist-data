@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Hands Four Spring Dance Weekend
+    links:
+      - "https://hands4-berea.com/workshops"
+      - "https://www.facebook.com/events/747408533037689/"
+    start: 2023-04-21T18:30:00-04:00
+    end: 2023-04-23T15:00:00-04:00
+    country: USA
+    city: Berea
+    styles: [contra]
+    workshop: true
+    social: true
+    bands:
+      - Wild Asparagus
+    callers:
+      - George Marshall
+    price: $88-$99
+    organisation: Hands Four
