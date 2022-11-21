@@ -9850,6 +9850,19 @@ events:
     price: £10
     organisation: Leeds Contra
     source: events/uk/leeds_contra.yaml
+  - name: Playford in the Pub
+    links:
+      - "https://www.facebook.com/events/1571056443326729/"
+    start: "2022-11-24T20:00:00+00:00"
+    end: "2022-11-24T23:00:00+00:00"
+    country: UK
+    city: Sheffield
+    styles:
+      - playford
+    workshop: false
+    social: true
+    organisation: Sheffield Playford
+    source: events/uk/sheffield_playford.yaml
   - name: London Irish Set Dancing
     links:
       - "https://londonirishsetdancing.com/"
@@ -11059,7 +11072,6 @@ events:
   - name: Bal Étoile
     links:
       - "https://londonbalfolk.org.uk/"
-      - "https://www.facebook.com/events/3278381949091469/"
     start: "2022-11-23T19:30:00+00:00"
     end: "2022-11-23T23:45:00+00:00"
     country: UK
@@ -11070,10 +11082,12 @@ events:
     social: true
     price: free
     organisation: London Balfolk
+    cancelled: true
     source: events/uk/london_balfolk.yaml
   - name: Bal Étoile
     links:
       - "https://londonbalfolk.org.uk/"
+      - "https://www.facebook.com/events/3278381949091469/"
     start: "2022-11-30T19:30:00+00:00"
     end: "2022-11-30T22:30:00+00:00"
     country: UK
@@ -11084,7 +11098,6 @@ events:
     social: true
     price: free
     organisation: London Balfolk
-    cancelled: true
     source: events/uk/london_balfolk.yaml
   - name: Bal Étoile
     links:
