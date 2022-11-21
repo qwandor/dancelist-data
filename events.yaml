@@ -4323,6 +4323,23 @@ events:
     price: €12
     organisation: Paris Bal Folk
     source: events/france/paris_balfolk.yaml
+  - name: Jam Session et Bal Folk
+    links:
+      - "http://jamsessionetbalfolk.dansons.fr/"
+      - "https://www.facebook.com/events/664278388471915/"
+    start: "2022-11-23T19:30:00+01:00"
+    end: "2022-11-23T23:00:00+01:00"
+    country: France
+    city: Paris
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Sophie Bardou & Julien Wieser
+    price: €6
+    organisation: Jam session et bal folk
+    source: events/france/paris_balfolk.yaml
   - name: Funambals
     links:
       - "https://www.facebook.com/events/844997619469831/"
@@ -7855,6 +7872,52 @@ events:
     price: £5
     organisation: Les Batons
     source: events/uk/les_batons.yaml
+  - name: Les Batons
+    links:
+      - "https://www.lesbatons.org/dates"
+    start: "2022-10-16T13:00:00+01:00"
+    end: "2022-10-16T17:00:00+01:00"
+    country: UK
+    city: Hollingbourne
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Les Marginaux
+    price: £5
+    organisation: Les Batons
+    source: events/uk/les_batons.yaml
+  - name: Les Batons
+    links:
+      - "https://www.lesbatons.org/dates"
+    start: "2022-11-20T13:00:00+00:00"
+    end: "2022-11-20T17:00:00+00:00"
+    country: UK
+    city: Hollingbourne
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Quatre Quarts
+    price: £5
+    organisation: Les Batons
+    source: events/uk/les_batons.yaml
+  - name: Les Batons
+    links:
+      - "https://www.lesbatons.org/dates"
+    start: "2023-01-15T13:00:00+00:00"
+    end: "2023-01-15T17:00:00+00:00"
+    country: UK
+    city: Hollingbourne
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: £5
+    organisation: Les Batons
+    source: events/uk/les_batons.yaml
   - name: BalFolk
     links:
       - "https://www.riverknits.uk/events/balfolk-music-dance/"
@@ -8790,14 +8853,17 @@ events:
   - name: Manchester Eurodance Midwinter Bal
     links:
       - "https://www.facebook.com/events/533102761605145/"
-    start_date: 2022-12-17
-    end_date: 2022-12-17
+      - "https://www.ticketsource.co.uk/manchester-eurodance/t-krdnred"
+    start: "2022-12-17T13:30:00+00:00"
+    end: "2022-12-17T23:30:00+00:00"
     country: UK
     city: Manchester
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Bridget Slater
     organisation: Manchester Eurobal
     source: events/uk/manchester.yaml
   - name: Ceilidh Club
@@ -9316,6 +9382,25 @@ events:
     callers:
       - Rachel Wallace
     price: £10
+    organisation: Edinburgh Contra Dance
+    source: events/uk/edinburgh_contra_dance.yaml
+  - name: Edinburgh Contra Dance
+    links:
+      - "https://www.facebook.com/events/1252904225550683/"
+      - "https://www.citizenticket.co.uk/events/edinburgh-contra-dance/edinburgh-contra-dance-november-26th/"
+    start: "2022-11-26T19:45:00+00:00"
+    end: "2022-11-26T22:30:00+00:00"
+    country: UK
+    city: Edinburgh
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - "Edward Wallace, Heather McAslan & Marit Fält"
+    callers:
+      - Rachel Wallace
+    price: £10-£15
     organisation: Edinburgh Contra Dance
     source: events/uk/edinburgh_contra_dance.yaml
   - name: Priddy Folk Festival
