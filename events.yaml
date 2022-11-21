@@ -25847,19 +25847,21 @@ events:
       - Boreas
     organisation: ~
     source: events/belgium/folkbalbende.yaml
-  - name: Boombal
+  - name: Bal Final
     details: Ball
     links:
-      - "https://boombal.be"
+      - "http://www.boombal.be/balfinal/"
+      - "https://www.facebook.com/events/884927179559060/"
       - "https://folkbalbende.be/event/1170"
-    start_date: 2022-12-31
-    end_date: 2022-12-31
+    start: "2022-12-31T20:00:00+01:00"
+    end: "2023-01-01T04:00:00+01:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
     workshop: false
     social: true
+    price: €22-€30
     organisation: Boombal
     source: events/belgium/folkbalbende.yaml
   - name: Practica Au Pianofabriek
