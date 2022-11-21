@@ -11976,6 +11976,20 @@ events:
     links:
       - "https://londonbalfolk.org.uk/"
       - "https://www.facebook.com/events/442802464695868/"
+    start: "2023-03-22T19:30:00+01:00"
+    end: "2023-03-22T22:30:00+01:00"
+    country: UK
+    city: London
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: London Balfolk
+    source: events/uk/london_balfolk.yaml
+  - name: Bal Étoile
+    links:
+      - "https://londonbalfolk.org.uk/"
     start: "2023-03-29T19:30:00+01:00"
     end: "2023-03-29T22:30:00+01:00"
     country: UK
@@ -11986,6 +12000,7 @@ events:
     social: true
     price: free
     organisation: London Balfolk
+    cancelled: true
     source: events/uk/london_balfolk.yaml
   - name: London Barndance 400th dance with cake
     details: Contra dance with Mark Elvins calling and the English Contra Dance Band playing.
