@@ -331,11 +331,19 @@ events:
     styles: [balfolk]
     workshop: true
     social: false
-  - name: Zweitägiger Tanzkurs
-    start_date: 2022-12-03
-    end_date: 2022-12-04
+    organisation: Anton Hacker
+
+  - name: Bal-Folk Tanzkurs
+    links:
+      - "https://www.facebook.com/events/818304265911875/"
+    start: 2022-12-03T10:00:00+01:00
+    end: 2022-12-04T16:30:00+01:00
     country: Austria
     city: Vienna
     styles: [balfolk]
     workshop: true
     social: false
+    bands:
+      - Sebastian Slameczka
+    price: €80-€160
+    organisation: Anton Hacker
