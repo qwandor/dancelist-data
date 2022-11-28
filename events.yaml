@@ -6583,6 +6583,20 @@ events:
     price: free
     organisation: EdinBal
     source: events/uk/edinbal.yaml
+  - name: Christmas Balfolk Dance
+    links:
+      - "https://www.facebook.com/events/1809010589456461/"
+    start: "2022-12-11T17:00:00+00:00"
+    end: "2022-12-11T21:00:00+00:00"
+    country: UK
+    city: Edinburgh
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: EdinBal
+    source: events/uk/edinbal.yaml
   - name: PGT Reels
     links:
       - "https://www.facebook.com/groups/pgt.reels"
@@ -10067,6 +10081,39 @@ events:
     price: £77-£162
     organisation: Towersey Festival
     source: events/uk/towersey.yaml
+  - name: Bal Feirste
+    links:
+      - "https://www.facebook.com/events/481281467306716/"
+    start: "2022-11-26T19:00:00+00:00"
+    end: "2022-11-26T21:30:00+00:00"
+    country: UK
+    city: Belfast
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Bal Feirste House Band
+    price: £6-£8
+    organisation: Bal Feirste
+    source: events/uk/belfast.yaml
+  - name: Christmas Bal
+    links:
+      - "https://www.facebook.com/events/847293859794415/"
+      - "https://www.eventbrite.co.uk/e/french-evening-of-dance-includes-instruction-and-live-music-tickets-462010244077"
+    start: "2022-12-17T19:00:00+00:00"
+    end: "2022-12-17T22:30:00+00:00"
+    country: UK
+    city: Belfast
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Bal Feirste House Band
+    price: £6-£8
+    organisation: Bal Feirste
+    source: events/uk/belfast.yaml
   - name: Festival des Panards
     links:
       - "https://frenchdanceleeds.wordpress.com/les-panards-festival/"
@@ -13488,6 +13535,23 @@ events:
     price: free
     organisation: ~
     source: events/italy/gorizia.yaml
+  - name: TriOblique in Concert
+    links:
+      - "https://www.facebook.com/events/788882732170759/"
+      - "https://docs.google.com/forms/d/e/1FAIpQLSforYMgQ4Tu0rar3qoIo0nLFIXC1pggrigNoyyB8HeHjV_AQQ/viewform"
+    start: "2022-12-10T18:00:00+01:00"
+    end: "2022-12-10T23:00:00+01:00"
+    country: Italy
+    city: Palermo
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - TriOblique
+    price: €12-€20
+    organisation: PAF
+    source: events/italy/palermo.yaml
   - name: La Skeggia delle Streghe
     links:
       - "https://www.facebook.com/events/642998984151898/"
@@ -13549,6 +13613,22 @@ events:
     price: €10
     organisation: Gaia Terra
     source: events/italy/gaia_terra.yaml
+  - name: Festa a ballo
+    links:
+      - "https://www.facebook.com/events/469333688464594/"
+    start: "2022-12-17T17:00:00+01:00"
+    end: "2022-12-17T23:00:00+01:00"
+    country: Italy
+    city: Daverio
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - TriOblique
+    price: €10-€15
+    organisation: La Folkeria ARCI APS
+    source: events/italy/daverio.yaml
   - name: Bal Folk with Petit Piment
     links:
       - "https://www.facebook.com/events/3347951135474231/"
