@@ -9743,6 +9743,21 @@ events:
     price: £5
     organisation: Badby Bals
     source: events/uk/badby_bals.yaml
+  - name: Fêtes des Rois BalFolk
+    links:
+      - "https://riverknits.uk/events/balfolk-music-dance-2/"
+      - "https://www.facebook.com/events/840783073792034/"
+    start: "2022-01-08T14:00:00+00:00"
+    end: "2022-01-08T17:00:00+00:00"
+    country: UK
+    city: Weedon Bec
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: £5
+    organisation: Badby Bals
+    source: events/uk/badby_bals.yaml
   - name: Alcester Contra
     links:
       - "https://davidfolk7.wixsite.com/alcestercontras"
@@ -17536,6 +17551,33 @@ events:
     workshop: true
     social: true
     price: free
+    organisation: Dança Ayres
+    source: events/portugal/danca_ayres.yaml
+  - name: Academia Almadense Dança Ayres
+    links:
+      - "https://www.facebook.com/events/1347923579312568/"
+    start: "2022-12-02T22:00:00+00:00"
+    end: "2022-12-03T01:00:00+00:00"
+    country: Portugal
+    city: Lisbon
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €5
+    organisation: Dança Ayres
+    source: events/portugal/danca_ayres.yaml
+  - name: Baile do Encontro
+    links:
+      - "https://www.facebook.com/events/655008022789017/"
+    start: "2022-12-10T17:00:00+00:00"
+    end: "2022-12-10T20:00:00+00:00"
+    country: Portugal
+    city: Lisbon
+    styles:
+      - balfolk
+    workshop: true
+    social: true
     organisation: Dança Ayres
     source: events/portugal/danca_ayres.yaml
   - name: Baile Folk Trafaria
