@@ -2165,6 +2165,7 @@ events:
   - name: Balfolk Stroud
     links:
       - "https://balfolkstroud.uk/cps/gigs/tba-99ddf2.php"
+      - "https://www.facebook.com/events/660632435721317/"
     start: "2023-01-07T20:00:00+00:00"
     end: "2023-01-07T23:00:00+00:00"
     country: UK
@@ -2173,7 +2174,9 @@ events:
       - balfolk
     workshop: false
     social: true
-    price: donation
+    bands:
+      - Confluence
+    price: £10
     organisation: Balfolk dans les Cinq Vallées - Stroud
     source: events/uk/balfolk_stroud.yaml
   - name: Balfolk Stroud
@@ -2185,9 +2188,11 @@ events:
     city: Stroud
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
-    price: donation
+    bands:
+      - Emily & Simon
+    price: £15
     organisation: Balfolk dans les Cinq Vallées - Stroud
     source: events/uk/balfolk_stroud.yaml
   - name: Balfolk Stroud
@@ -2199,9 +2204,11 @@ events:
     city: Stroud
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
-    price: donation
+    bands:
+      - Shivelight
+    price: £10
     organisation: Balfolk dans les Cinq Vallées - Stroud
     source: events/uk/balfolk_stroud.yaml
   - name: Sheffield Scratch Contra
@@ -13567,6 +13574,19 @@ events:
     price: €12-€20
     organisation: PAF
     source: events/italy/palermo.yaml
+  - name: Woodfolk Festival 2023
+    links:
+      - "https://www.facebook.com/events/467993422108735/"
+    start: "2023-05-26T18:00:00+02:00"
+    end: "2023-05-28T18:00:00+02:00"
+    country: Italy
+    city: Taipana
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Woodfolk
+    source: events/italy/woodfolk.yaml
   - name: La Skeggia delle Streghe
     links:
       - "https://www.facebook.com/events/642998984151898/"
@@ -13691,7 +13711,23 @@ events:
       - playford
     workshop: true
     social: true
-    organisation: ~
+    organisation: Associazione Culturale GBT
+    source: events/italy/vialfre.yaml
+  - name: Gran Bal Trad (Vialfre)
+    links:
+      - "https://www.granbaltrad.it/wp/?lang=en"
+    start_date: 2023-07-03
+    end_date: 2023-07-08
+    country: Italy
+    city: Vialfre
+    styles:
+      - balfolk
+      - italian
+      - irish-set
+      - playford
+    workshop: true
+    social: true
+    organisation: Associazione Culturale GBT
     source: events/italy/vialfre.yaml
   - name: Gran Bal Folk
     links:
