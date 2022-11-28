@@ -1,0 +1,32 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal Feirste
+    links:
+      - "https://www.facebook.com/events/481281467306716/"
+    start: 2022-11-26T19:00:00+00:00
+    end: 2022-11-26T21:30:00+00:00
+    country: UK
+    city: Belfast
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Bal Feirste House Band
+    price: £6-£8
+    organisation: Bal Feirste
+
+  - name: Christmas Bal
+    links:
+      - "https://www.facebook.com/events/847293859794415/"
+      - "https://www.eventbrite.co.uk/e/french-evening-of-dance-includes-instruction-and-live-music-tickets-462010244077"
+    start: 2022-12-17T19:00:00+00:00
+    end: 2022-12-17T22:30:00+00:00
+    country: UK
+    city: Belfast
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Bal Feirste House Band
+    price: £6-£8
+    organisation: Bal Feirste
