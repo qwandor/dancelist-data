@@ -18591,10 +18591,24 @@ events:
     source: events/germany/rudolstadt.yaml
   - name: Bal Folk
     links:
+      - "https://www.facebook.com/folkstanzwirbel/posts/pfbid0pfAaeE53YW18Ldw47kPjVAgYLahuVCmU7wjQYwFUxdVohiq3KX9XL7c1SR26edUxl"
+      - "https://www.folkstanzwirbel.de/events/event/1312/"
+    start: "2022-12-05T19:00:00+01:00"
+    end: "2022-12-05T22:00:00+01:00"
+    country: Germany
+    city: Hamburg
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Folkstanzwirbel
+    source: events/germany/hamburg.yaml
+  - name: Bal Folk
+    links:
       - "https://eveeno.com/Folkstanzwirbel_Bal-a-deux+Kapelle_Honig"
       - "https://www.facebook.com/events/1092131834798494/"
-    start: "2022-12-11T15:00:00+00:00"
-    end: "2022-12-11T19:00:00+00:00"
+    start: "2022-12-11T15:00:00+01:00"
+    end: "2022-12-11T19:00:00+01:00"
     country: Germany
     city: Hamburg
     styles:
@@ -18605,6 +18619,33 @@ events:
       - Kapelle Honig
       - Bal-à-Deux
     price: €20-€25
+    organisation: Folkstanzwirbel
+    source: events/germany/hamburg.yaml
+  - name: Bal Folk
+    links:
+      - "https://www.facebook.com/folkstanzwirbel/posts/pfbid0pfAaeE53YW18Ldw47kPjVAgYLahuVCmU7wjQYwFUxdVohiq3KX9XL7c1SR26edUxl"
+      - "https://www.folkstanzwirbel.de/events/event/1312/"
+    start: "2022-12-19T19:00:00+01:00"
+    end: "2022-12-19T22:00:00+01:00"
+    country: Germany
+    city: Hamburg
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Folkstanzwirbel
+    source: events/germany/hamburg.yaml
+  - name: Bal Folk and Session
+    links:
+      - "https://www.facebook.com/folkstanzwirbel/posts/pfbid0pfAaeE53YW18Ldw47kPjVAgYLahuVCmU7wjQYwFUxdVohiq3KX9XL7c1SR26edUxl"
+    start: "2023-01-02T19:00:00+01:00"
+    end: "2023-01-02T22:00:00+01:00"
+    country: Germany
+    city: Hamburg
+    styles:
+      - balfolk
+    workshop: false
+    social: true
     organisation: Folkstanzwirbel
     source: events/germany/hamburg.yaml
   - name: Bal with Emily & The Simons
