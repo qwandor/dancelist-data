@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Harrogate Contra
+    links:
+      - "http://harrogatecontra.org.uk/events.html"
+    start: 2023-04-22T19:45:00+01:00
+    end: 2023-04-22T22:45:00+01:00
+    country: UK
+    city: Harrogate
+    styles: [contra]
+    workshop: false
+    social: true
+    bands:
+      - Philip & Joshua Rowe
+    callers:
+      - Andrew Swaine
+    price: £10
+    organisation: Harrogate Contra
