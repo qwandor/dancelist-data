@@ -574,52 +574,6 @@ events:
     social: true
     organisation: Wrocławskie Potupajki Bal Folkowe
 
-  - name: New Year's Dance
-    links:
-      - "https://www.facebook.com/events/865698571477307/"
-      - "https://forms.gle/Bb8QcPt6ERvUKkXK6"
-    start: 2022-12-31T20:00:00+01:00
-    end: 2023-01-01T03:00:00+01:00
-    country: Poland
-    city: Warsaw
-    styles: [balfolk]
-    workshop: false
-    social: true
-    bands:
-      - Balladum
-    price: 130 PLN
-    organisation: Numinosum
-
-  - name: BalMostFolk pre-party
-    start_date: 2023-04-27
-    end_date: 2023-04-27
-    country: Poland
-    city: Krakow
-    styles: [balfolk]
-    workshop: false
-    social: true
-    organisation: Balfolks
-  - name: BalMostFolk 2023
-    links:
-      - "https://www.facebook.com/events/633779078095731/"
-    start: 2023-04-28T18:00:00+02:00
-    end: 2023-04-30T23:55:00+02:00
-    country: Poland
-    city: Krakow
-    styles: [balfolk]
-    workshop: true
-    social: true
-    organisation: Balfolks
-  - name: BalMostFolk afterparty
-    start_date: 2023-05-01
-    end_date: 2023-05-01
-    country: Poland
-    city: Krakow
-    styles: [balfolk]
-    workshop: false
-    social: true
-    organisation: Balfolks
-
   - name: Fest-noz with Trio Hamon/Martin/Ebrel
     links:
       - "https://www.facebook.com/events/601481494970560"
@@ -736,3 +690,49 @@ events:
     workshop: true
     price: 200 PLN
     organisation: Polish Academy of Traditional Dance
+
+  - name: New Year's Dance
+    links:
+      - "https://www.facebook.com/events/865698571477307/"
+      - "https://forms.gle/Bb8QcPt6ERvUKkXK6"
+    start: 2022-12-31T20:00:00+01:00
+    end: 2023-01-01T03:00:00+01:00
+    country: Poland
+    city: Warsaw
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Balladum
+    price: 130 PLN
+    organisation: Numinosum
+
+  - name: BalMostFolk pre-party
+    start_date: 2023-04-27
+    end_date: 2023-04-27
+    country: Poland
+    city: Krakow
+    styles: [balfolk]
+    workshop: false
+    social: true
+    organisation: Balfolks
+  - name: BalMostFolk 2023
+    links:
+      - "https://www.facebook.com/events/633779078095731/"
+    start: 2023-04-28T18:00:00+02:00
+    end: 2023-04-30T23:55:00+02:00
+    country: Poland
+    city: Krakow
+    styles: [balfolk]
+    workshop: true
+    social: true
+    organisation: Balfolks
+  - name: BalMostFolk afterparty
+    start_date: 2023-05-01
+    end_date: 2023-05-01
+    country: Poland
+    city: Krakow
+    styles: [balfolk]
+    workshop: false
+    social: true
+    organisation: Balfolks
