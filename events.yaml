@@ -21382,6 +21382,40 @@ events:
     price: €10-€100
     organisation: La Lanterne Prod
     source: events/france/france.yaml
+  - name: Christmas hike and bal
+    links:
+      - "https://www.facebook.com/events/1556046701497320/"
+    start: "2022-12-18T14:30:00+01:00"
+    end: "2022-12-18T23:00:00+01:00"
+    country: France
+    city: Montlaur
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Ballaveu
+    price: €10-€20
+    organisation: Montlaur Danses Trad
+    source: events/france/france.yaml
+  - name: Réveillon à Meze 34
+    links:
+      - "https://www.facebook.com/events/642245734278082/"
+      - "https://www.helloasso.com/associations/leve-toi-et-danse/evenements/reveillon-meze-31-12-2022/diffusion"
+    start: "2022-12-31T20:00:00+01:00"
+    end: "2023-01-01T14:00:00+01:00"
+    country: France
+    city: Mèze
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Bal a Zimuts
+      - Les Grandes Gigues
+    price: €25-€59
+    organisation: Lève-toi et danse
+    source: events/france/france.yaml
   - name: Bal Folk
     links:
       - "https://www.facebook.com/events/846001599959133/"
@@ -21448,6 +21482,23 @@ events:
       - Zéphyr Combo
       - Wim te Groen
     price: 45 CHF
+    organisation: Bal Folk Lenzburg
+    source: events/switzerland/lenzburg.yaml
+  - name: Balfolk and workshop
+    links:
+      - "https://www.facebook.com/events/439315075072576/"
+    start: "2022-12-17T17:00:00+01:00"
+    end: "2022-12-17T23:59:00+01:00"
+    country: Switzerland
+    city: Lenzburg
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - "L'air Inconnu"
+      - Sara
+    price: 35 CHF
     organisation: Bal Folk Lenzburg
     source: events/switzerland/lenzburg.yaml
   - name: Festival Les Bals Combiers
