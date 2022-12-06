@@ -12977,6 +12977,22 @@ events:
     price: 300-350 CZK
     organisation: Ton Simple
     source: events/czechia/brno.yaml
+  - name: Scandinavian dance workshop and bal
+    links:
+      - "https://www.facebook.com/events/676780460823628/"
+      - "https://www.facebook.com/events/1388258701704004/"
+    start: "2022-12-21T17:30:00+01:00"
+    end: "2022-12-21T23:00:00+01:00"
+    country: Czechia
+    city: Brno
+    styles:
+      - scandi
+      - balfolk
+    workshop: true
+    social: true
+    price: 200 CZK
+    organisation: Ton Simple
+    source: events/czechia/brno.yaml
   - name: Balfolk at Vyšehrad
     links:
       - "https://www.facebook.com/events/336318988424491/336319011757822/"
@@ -22407,8 +22423,9 @@ events:
     price: donation
     organisation: Balfolk Dublin
     source: events/ireland/balfolk_dublin.yaml
-  - name: Balfolk Dublin
+  - name: Balfolk Christmas Celebration
     links:
+      - "https://www.facebook.com/events/828324838464229/"
       - "https://www.facebook.com/events/369673585373034/369673588706367/"
     start: "2022-12-11T16:00:00+00:00"
     end: "2022-12-11T19:00:00+00:00"
@@ -22420,7 +22437,19 @@ events:
     social: true
     price: donation
     organisation: Balfolk Dublin
-    cancelled: true
+    source: events/ireland/balfolk_dublin.yaml
+  - name: Balfolk Christmas part 2
+    links: []
+    start: "2022-12-18T16:00:00+00:00"
+    end: "2022-12-18T19:00:00+00:00"
+    country: Ireland
+    city: Dublin
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: donation
+    organisation: Balfolk Dublin
     source: events/ireland/balfolk_dublin.yaml
   - name: Balfolk Dance Workshop
     links:
