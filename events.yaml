@@ -13951,6 +13951,21 @@ events:
     price: €15
     organisation: Ballauriamo APS
     source: events/italy/turin.yaml
+  - name: Bal Folk di Natale
+    links:
+      - "https://www.facebook.com/events/650192740181807/"
+    start: "2022-12-17T21:00:00+01:00"
+    end: "2022-12-18T00:00:00+00:00"
+    country: Italy
+    city: Turin
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - LyraDanz
+    organisation: "John O'Leary"
+    source: events/italy/turin.yaml
   - name: Bal Folk
     links:
       - "https://www.facebook.com/events/1613208022428118/"
@@ -13966,6 +13981,22 @@ events:
       - La Machine
       - Ciac Boum
     price: €20
+    organisation: Ballauriamo APS
+    source: events/italy/turin.yaml
+  - name: Bal Folk
+    links:
+      - "https://www.facebook.com/events/663632548728533/"
+    start: "2023-03-11T21:30:00+01:00"
+    end: "2023-03-11T23:59:00+01:00"
+    country: Italy
+    city: Turin
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Plume
+    price: €15
     organisation: Ballauriamo APS
     source: events/italy/turin.yaml
   - name: Gran Bal Trad (Vialfre)
@@ -14062,6 +14093,88 @@ events:
     bands:
       - Airboxes
     price: €10
+    organisation: Sognando a Piedi Nudi - Mestre
+    source: events/italy/venice.yaml
+  - name: Bal Natal
+    links:
+      - "https://www.facebook.com/events/1199439834117198/"
+    start: "2022-12-18T18:00:00+01:00"
+    end: "2022-12-18T21:00:00+01:00"
+    country: Italy
+    city: Venice
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - KV Express
+    price: €10
+    organisation: Sognando a Piedi Nudi - Mestre
+    source: events/italy/venice.yaml
+  - name: Gran Bal Folk
+    links: []
+    start_date: 2023-01-29
+    end_date: 2023-01-29
+    country: Italy
+    city: Venice
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Sognando a Piedi Nudi - Mestre
+    source: events/italy/venice.yaml
+  - name: Gran Bal Folk
+    links: []
+    start_date: 2023-02-19
+    end_date: 2023-02-19
+    country: Italy
+    city: Venice
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Loogaroo
+    organisation: Sognando a Piedi Nudi - Mestre
+    source: events/italy/venice.yaml
+  - name: Gran Bal Folk
+    links: []
+    start_date: 2023-03-19
+    end_date: 2023-03-19
+    country: Italy
+    city: Venice
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Viorel
+    organisation: Sognando a Piedi Nudi - Mestre
+    source: events/italy/venice.yaml
+  - name: Gran Bal Folk
+    links: []
+    start_date: 2023-04-02
+    end_date: 2023-04-02
+    country: Italy
+    city: Venice
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Sognando a Piedi Nudi - Mestre
+    source: events/italy/venice.yaml
+  - name: Gran Bal Folk
+    links: []
+    start_date: 2023-05-14
+    end_date: 2023-05-14
+    country: Italy
+    city: Venice
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Geoffroy-Montanaro
     organisation: Sognando a Piedi Nudi - Mestre
     source: events/italy/venice.yaml
   - name: Mazurka workshop and bal folk
@@ -19644,7 +19757,7 @@ events:
     price: €6-€15
     organisation: TanzhausFolk
     source: events/germany/tanzhaus.yaml
-  - name: Bal with Lyradanz
+  - name: Bal with LyraDanz
     links:
       - "http://www.tanzvolk-leipzig.de/category/kommende-veranstaltungen/"
     start: "2023-03-13T19:00:00+01:00"
@@ -19656,7 +19769,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Lyradanz
+      - LyraDanz
     price: €6-€15
     organisation: TanzhausFolk
     source: events/germany/tanzhaus.yaml
