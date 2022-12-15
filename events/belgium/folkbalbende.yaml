@@ -1445,8 +1445,6 @@ events:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - DJ Koen
     organisation: Frissefolk
   - name: Practica Au Pianofabriek
     details: Ball
@@ -1460,8 +1458,6 @@ events:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - DJ Koen
     organisation: Frissefolk
   - name: Boombal
     details: Ball
@@ -1703,8 +1699,6 @@ events:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - DJ Koen
     organisation: Frissefolk
   - name: Queimada
     details: Ball
@@ -2098,8 +2092,6 @@ events:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - DJ Koen
     organisation: Frissefolk
   - name: Folkbal
     details: Ball
@@ -2870,8 +2862,6 @@ events:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - DJ Koen
     organisation: Frissefolk
   - name: Folkbal
     details: Ball
@@ -2965,8 +2955,6 @@ events:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - DJ Koen
     organisation: Frissefolk
   - name: Folkbal
     details: Ball
@@ -3016,20 +3004,6 @@ events:
     bands:
       - Phlox
       - Les Bottines Artistiques
-    organisation: Boombal
-  - name: Boombal
-    details: Ball
-    links:
-      - "https://boombal.be"
-      - "https://folkbalbende.be/event/979"
-    start_date: 2022-12-26
-    end_date: 2022-12-26
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: false
-    social: true
     organisation: Boombal
   - name: Boombal
     details: Ball
@@ -3141,8 +3115,6 @@ events:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - DJ Koen
     organisation: Frissefolk
   - name: Folkbal
     details: Ball
@@ -3303,7 +3275,6 @@ events:
     workshop: false
     social: true
     bands:
-      - DJ Koen
       - Viorel
     price: €9-€15
     organisation: Frissefolk
@@ -3323,7 +3294,7 @@ events:
     social: true
     bands:
       - Wall Street
-      - Aérokorda
+      - Tout Bout D’chant
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -3879,7 +3850,7 @@ events:
     links:
       - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D728%26reset%3D1"
       - "https://folkbalbende.be/event/1079"
-      - "https://www.facebook.com/events/361714655613944"
+      - "https://www.facebook.com/events/5624969987596131"
     start: "2022-12-04T13:15:00+01:00"
     end: "2022-12-04T18:15:00+01:00"
     country: Belgium
@@ -4660,7 +4631,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Aérokorda
+      - Folk à Donf
     organisation: ~
   - name: "*NederDans: Groepsdansen In Het Nederlands"
     details: Course
@@ -5013,7 +4984,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Contretemps Et Marees
+      - Contre Temps Et Marees
     organisation: ~
   - name: "B.A.L. - Bal A'Lo(s)t"
     details: Ball
@@ -5029,8 +5000,8 @@ events:
     workshop: false
     social: true
     bands:
-      - T.B.A.
-      - T.B.A.
+      - Phlox
+      - Loogaroo
     organisation: ~
   - name: Bal Folk En Partie Médiéval
     details: Ball
@@ -5046,7 +5017,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Contretemps Et Marees
+      - Contre Temps Et Marees
       - Acus Vacuum Et Les Ménestrels De Mordini
     organisation: ~
   - name: Bal@herk
@@ -5082,20 +5053,6 @@ events:
     bands:
       - Boreas
     organisation: ~
-  - name: Boombal
-    details: Ball
-    links:
-      - "https://boombal.be"
-      - "https://folkbalbende.be/event/1170"
-    start_date: 2022-12-31
-    end_date: 2022-12-31
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Boombal
   - name: Practica Au Pianofabriek
     details: Ball
     links:
@@ -5159,24 +5116,6 @@ events:
     social: false
     price: €30-€55
     organisation: Frissefolk
-  - name: ComSibal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://comsibal.be/"
-      - "https://folkbalbende.be/event/1179"
-    start_date: 2023-02-18
-    end_date: 2023-02-18
-    country: Belgium
-    city: Leuven
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Paracetamol
-      - Duo Clercx
-    organisation: ~
   - name: Volksbal - Ball Folk - Bal Champêtre
     details: Ball
     links:
@@ -5199,19 +5138,20 @@ events:
   - name: Ol Da Folk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.oldafolk.be/"
+      - "http://oldafolk.brugseverenigingen.be/BalmetNebel"
       - "https://folkbalbende.be/event/1191"
     start: "2022-11-25T20:00:00+01:00"
-    end: "2022-11-25T21:30:00+01:00"
+    end: "2022-11-25T22:30:00+01:00"
     country: Belgium
     city: Assebroek
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Nebel
+    price: €8
     organisation: ~
   - name: Queimada
     details: Ball
@@ -5507,6 +5447,7 @@ events:
     links:
       - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D764%26reset%3D1"
       - "https://folkbalbende.be/event/1214"
+      - "https://www.facebook.com/events/3032791366866623"
     start: "2022-11-25T20:00:00+01:00"
     end: "2022-11-25T23:00:00+01:00"
     country: Belgium
@@ -5540,7 +5481,7 @@ events:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "http://www.rzf.be"
       - "https://folkbalbende.be/event/1216"
-    start: "2022-12-18T20:15:00+01:00"
+    start: "2022-12-18T15:00:00+01:00"
     end: "2022-12-18T20:45:00+01:00"
     country: Belgium
     city: Alleur
@@ -5551,14 +5492,14 @@ events:
     bands:
       - Chaï
     organisation: ~
-  - name: Puis Podium Libre
+  - name: Folkbal
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://pasdlayau.be/"
       - "https://folkbalbende.be/event/1217"
-    start_date: 2023-01-21
-    end_date: 2023-01-21
+    start: "2023-01-21T20:00:00+01:00"
+    end: "2023-01-21T23:30:00+01:00"
     country: Belgium
     city: Quevaucamps
     styles:
@@ -5566,7 +5507,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Air Bac
+      - "Les Pas D'là Yau"
     organisation: ~
   - name: Duo Lode BUCSAN/Simon GIELEN
     details: Ball
@@ -5598,27 +5539,14 @@ events:
     workshop: false
     social: true
     organisation: Frissefolk
-  - name: Folkbal
+  - name: Nieuwjaarsbal@herk
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "http://www.wefolk.be"
-      - "https://folkbalbende.be/event/1220"
-    start_date: 2022-12-26
-    end_date: 2022-12-26
-    country: Belgium
-    city: Marche-en-Famenne
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
-  - name: Bal@herk
-    details: Ball
-    links:
+      - "https://nieuwjaarsbal-herk.be"
       - "https://folkbalbende.be/event/1221"
-    start_date: 2022-12-31
-    end_date: 2022-12-31
+      - "https://www.facebook.com/events/779594883334368"
+    start: "2022-12-31T00:15:00+01:00"
+    end: "2022-12-31T21:45:00+01:00"
     country: Belgium
     city: Herk-de-Stad
     styles:
@@ -5628,6 +5556,8 @@ events:
     bands:
       - Aérokorda
       - Zéphyr Combo
+      - Aurélia
+    price: €25-€30
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -5695,20 +5625,6 @@ events:
     bands:
       - Bal & Gambettes
     organisation: ~
-  - name: Practica & Initiation
-    details: Ball
-    links:
-      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D765%26reset%3D1"
-      - "https://folkbalbende.be/event/1226"
-    start: "2022-12-09T20:00:00+01:00"
-    end: "2022-12-09T23:00:00+01:00"
-    country: Belgium
-    city: Bouwel
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    organisation: Frissefolk
   - name: Valse
     details: Course
     links:
@@ -5786,24 +5702,6 @@ events:
     workshop: false
     social: true
     organisation: Frissefolk
-  - name: Bal Au Pianofabriek
-    details: Ball
-    links:
-      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D769%26reset%3D1"
-      - "https://folkbalbende.be/event/1232"
-      - "https://www.facebook.com/events/379605447560771"
-    start: "2022-12-13T19:00:00+01:00"
-    end: "2022-12-13T22:15:00+01:00"
-    country: Belgium
-    city: Brussels
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Duo Absynthe
-    price: €12-€20
-    organisation: Frissefolk
   - name: Folkbal
     details: Ball
     links:
@@ -5835,7 +5733,6 @@ events:
     social: true
     bands:
       - Le P’tit Bal À Olli & Pierre Hurdebise
-      - Soirée Variétés
     organisation: ~
   - name: Bal
     details: Ball
@@ -5905,7 +5802,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Aérokorda
+      - Folk à Donf
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -5922,6 +5819,7 @@ events:
     workshop: false
     social: true
     bands:
+      - Bal & Gambettes
       - Bal & Gambettes
     organisation: ~
   - name: Dansavond
@@ -5972,8 +5870,7 @@ events:
   - name: "Bal \"Enfin, La Ste-Barbe"
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://pasdlayau.be/"
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "https://folkbalbende.be/event/1245"
     start_date: 2022-11-19
     end_date: 2022-11-19
@@ -6021,11 +5918,11 @@ events:
   - name: Kerst Boombal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.booùbal.be"
+      - "http://www.boombal.be"
       - "https://folkbalbende.be/event/1251"
-    start_date: 2022-12-26
-    end_date: 2022-12-26
+      - "https://www.facebook.com/events/662358888852352"
+    start: "2022-12-26T00:30:00+01:00"
+    end: "2022-12-26T23:30:00+01:00"
     country: Belgium
     city: Gent
     styles:
@@ -6033,16 +5930,18 @@ events:
     workshop: false
     social: true
     bands:
-      - Cam&Leo
+      - Sophie Cavez
+      - Cameleo
       - Hot Griselda
       - Sophie Cavez
-    organisation: ~
+      - Cameleo
+    organisation: Boombal
   - name: Bal Final
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.boombal.be/balfinal"
       - "https://folkbalbende.be/event/1252"
+      - "https://www.facebook.com/events/884927179559060"
     start_date: 2022-12-31
     end_date: 2022-12-31
     country: Belgium
@@ -6052,10 +5951,12 @@ events:
     workshop: false
     social: true
     bands:
-      - Entre Autres
       - Naragonia
-      - Airboxes
-    organisation: ~
+      - Airboxes XL
+      - Airboxes XL
+      - Geronimo
+    price: €22-€30
+    organisation: Boombal
   - name: Boombal Veer Intiem
     details: Ball
     links:
@@ -6073,4 +5974,549 @@ events:
     bands:
       - Loogaroo
       - Viorel
+    organisation: ~
+  - name: Concert/Bal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.dranoutercentrum.be"
+      - "https://folkbalbende.be/event/1256"
+    start_date: 2022-11-18
+    end_date: 2022-11-18
+    country: Belgium
+    city: Dranouter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Blowzabella
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/1259"
+      - "https://www.facebook.com/events/1297113324448190/"
+    start: "2022-11-19T19:30:00+01:00"
+    end: "2022-11-19T23:00:00+01:00"
+    country: Belgium
+    city: Deinze
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Folkband Kade
+      - Snaarmaarwaar
+    organisation: Kunstacademie Deinze
+  - name: Le Bal Des Libellules
+    details: Ball
+    links:
+      - "http://www.lebaldeslibellules.be/"
+      - "https://www.facebook.com/events/1130053727647820"
+      - "https://folkbalbende.be/event/1260"
+      - "https://www.facebook.com/events/1130053727647820"
+    start: "2022-11-05T00:15:00+01:00"
+    end: "2022-11-05T22:00:00+01:00"
+    country: Belgium
+    city: Lesterny
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Balbuzar
+      - Emmarilin
+      - Boeuf
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://www.lebaldeslibellules.be/"
+      - "https://folkbalbende.be/event/1261"
+    start: "2022-11-05T19:15:00+01:00"
+    end: "2022-11-05T19:45:00+01:00"
+    country: Belgium
+    city: Nassogne
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Balbuzar
+      - Emmarilin
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/1262"
+    start: "2022-11-25T21:00:00+01:00"
+    end: "2022-11-25T22:30:00+01:00"
+    country: Belgium
+    city: Nederokkerzeel
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Limbrant
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/1264"
+    start_date: 2022-12-18
+    end_date: 2022-12-18
+    country: Belgium
+    city: Neufchâteau
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Les Lucioles
+      - Duo Absynthe
+    organisation: ~
+  - name: Bœuf Folk
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/events/5906150059403945?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22group%22%7D]%7D"
+      - "https://folkbalbende.be/event/1267"
+    start_date: 2022-11-06
+    end_date: 2022-11-06
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Comsibal
+    details: Ball
+    links:
+      - "https://comsibal.be/nl/events/folkbal_2022_11_12/"
+      - "https://folkbalbende.be/event/1268"
+    start_date: 2022-11-12
+    end_date: 2022-11-12
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Viorel
+      - Accords Perdus
+    organisation: ~
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.tey.be"
+      - "https://folkbalbende.be/event/1269"
+    start_date: 2022-12-16
+    end_date: 2022-12-16
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Arasta Bazaar
+    organisation: ~
+  - name: "ComSibal \"Discover Night"
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://comsibal.be/"
+      - "https://folkbalbende.be/event/1270"
+    start_date: 2023-02-18
+    end_date: 2023-02-18
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Paracetamol
+      - Duo Clercx
+      - Les Impromptues
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1274"
+    start: "2022-11-30T20:00:00+01:00"
+    end: "2022-11-30T22:30:00+01:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Vrij Spel
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://lebaragouts.be"
+      - "https://folkbalbende.be/event/1276"
+    start_date: 2022-11-26
+    end_date: 2022-11-26
+    country: Belgium
+    city: Jamoigne
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Les Lucioles
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/1279"
+    start_date: 2022-11-11
+    end_date: 2022-11-11
+    country: Belgium
+    city: Waimes
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - La Rawette
+      - Pierre Hurdebise
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1286"
+      - "https://fb.me/e/4XVCFaBdg"
+    start: "2022-11-18T20:00:00+01:00"
+    end: "2022-11-18T23:00:00+01:00"
+    country: Belgium
+    city: Ottignies
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Nhân Et Michel Jacqmain
+    price: donation
+    organisation: ~
+  - name: Musicalité Pour Danseurs
+    details: Course
+    links:
+      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D777%26reset%3D1"
+      - "https://folkbalbende.be/event/1287"
+      - "https://www.facebook.com/events/1774850232925297"
+    start: "2022-12-03T13:15:00+01:00"
+    end: "2022-12-03T18:15:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €20-€50
+    organisation: Frissefolk
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://oliviercap.be"
+      - "https://folkbalbende.be/event/1289"
+    start_date: 2022-11-11
+    end_date: 2022-11-11
+    country: Belgium
+    city: Namur
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Les Kickeuses
+      - Les Impromptues
+      - Fin Et/ou Jam
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://oliviercap.be"
+      - "https://folkbalbende.be/event/1290"
+    start_date: 2022-11-20
+    end_date: 2022-11-20
+    country: Belgium
+    city: Namur
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - La Rawette
+      - Bal Oli
+      - Fin Et/ou Jam
+    organisation: ~
+  - name: Safari Bal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://folkbalbende.be/event/1292"
+    start_date: 2023-03-11
+    end_date: 2023-03-11
+    country: Belgium
+    city: Dilbeek
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Driekoningenbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.muziekmozaiek.be/index.php?onderdeel=3661&titel=Driekoningenbal"
+      - "https://folkbalbende.be/event/1293"
+    start_date: 2023-01-14
+    end_date: 2023-01-14
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Queens Of Baba
+      - Loogaroo
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://www.facebook.com/events/591876292737277"
+      - "https://folkbalbende.be/event/1294"
+    start_date: 2022-12-02
+    end_date: 2022-12-02
+    country: Belgium
+    city: Namur
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Practica & Initiation Mechelen
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/civicrm/event/info%3Fid%3D780%26reset%3D1"
+      - "https://folkbalbende.be/event/1295"
+      - "https://www.facebook.com/events/2696250773838362/2696250787171694"
+    start: "2022-12-02T20:00:00+01:00"
+    end: "2022-12-02T23:00:00+01:00"
+    country: Belgium
+    city: Mechelen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frissefolk
+  - name: "Dansinitiatie Folk "
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/1296"
+    start: "2022-11-23T20:00:00+01:00"
+    end: "2022-11-23T22:00:00+01:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1297"
+      - "https://fb.me/e/1QVMHdXAl"
+    start: "2022-11-22T20:00:00+01:00"
+    end: "2022-11-22T23:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1298"
+      - "https://fb.me/e/1QVMHdXAl"
+    start: "2022-12-21T20:00:00+01:00"
+    end: "2022-12-21T23:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Balhalla
+    details: Ball
+    links:
+      - "https://balhalla.be/nl"
+      - "https://folkbalbende.be/event/1299"
+    start: "2023-01-26T19:00:00+01:00"
+    end: "2023-01-26T23:00:00+01:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Airboxes
+    price: €11
+    organisation: Balhalla
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://muziekpublique.be"
+      - "https://folkbalbende.be/event/1305"
+    start_date: 2022-12-08
+    end_date: 2022-12-08
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Set Dancing Irlandais
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.heritage-celtique.fr/"
+      - "https://folkbalbende.be/event/1308"
+    start_date: 2023-02-05
+    end_date: 2023-02-05
+    country: Belgium
+    city: Tournai
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Nieuwjaarsheyppening
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.tey.be"
+      - "https://folkbalbende.be/event/1330"
+    start_date: 2023-01-06
+    end_date: 2023-01-06
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Clercx
+      - Balbuzar
+      - H.A.R.A.L.D.
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1331"
+    start: "2022-12-28T20:00:00+01:00"
+    end: "2022-12-28T22:15:00+01:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Macke-Bornauw
+    organisation: ~
+  - name: Bal Experience
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.dranoutercentrum.be"
+      - "https://folkbalbende.be/event/1332"
+    start_date: 2023-01-14
+    end_date: 2023-01-14
+    country: Belgium
+    city: Dranouter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - "Shillelagh, Smitlap, Envoyez Les Violons,"
+      - "Rachel Bazoge, Birgit Bornauw, Anouchka Terrier,"
+      - "CéCile Delrue, Fabien Dubarre,"
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://www.wefolk.be"
+      - "https://folkbalbende.be/event/1333"
+    start: "2022-12-16T20:15:00+01:00"
+    end: "2022-12-16T23:30:00+01:00"
+    country: Belgium
+    city: Marche-en-Famenne
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Folk à Donf
+    organisation: ~
+  - name: Folkbal + Open Deur + Kerst-tombola
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1338"
+      - "https://www.facebook.com/events/1138158330160467/"
+    start: "2022-12-20T19:00:00+01:00"
+    end: "2022-12-20T22:00:00+01:00"
+    country: Belgium
+    city: Genval
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Les Kickeuses
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://pl.com"
+      - "https://folkbalbende.be/event/1339"
+    start_date: 2022-12-20
+    end_date: 2022-12-20
+    country: Belgium
+    city: Rixensart
+    styles:
+      - balfolk
+    workshop: false
+    social: true
     organisation: ~
