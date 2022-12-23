@@ -1,18 +1,179 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
+  - name: 5th Friday dance
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+    start: 2022-12-30T19:30:00-05:00
+    end: 2022-12-30T23:00:00-05:00
+    country: USA
+    city: Greenfield
+    styles: [contra]
+    workshop: true
+    social: true
+    bands:
+      - River Road
+    callers:
+      - Will Mentor
+    price: $12-$20
+    organisation: Guiding Star Grange
+
+  - name: New Year's Eve Party
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+    start: 2022-12-31T20:00:00-05:00
+    end: 2023-01-01T00:30:00-05:00
+    country: USA
+    city: Greenfield
+    styles: [balfolk, contra]
+    workshop: true
+    social: true
+    bands:
+      - Nova
+    callers:
+      - Steve Zakon-Anderson
+    price: $15-$25
+    organisation: Guiding Star Grange
+
+  - name: 1st/3rd Wednesday English
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+    start: 2023-01-04T19:00:00-05:00
+    end: 2023-01-04T21:30:00-05:00
+    country: USA
+    city: Greenfield
+    styles: [playford]
+    workshop: false
+    social: true
+    bands:
+      - Karen, Anna & Earl
+    callers:
+      - Mary
+    price: $10-$20
+    organisation: Guiding Star Grange
+
+  - name: 1st Saturday contra
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+    start: 2023-01-07T19:30:00-05:00
+    end: 2023-01-07T23:00:00-05:00
+    country: USA
+    city: Greenfield
+    styles: [contra]
+    workshop: true
+    social: true
+    bands:
+      - Wild Asparagus
+    callers:
+      - George Marshall
+    price: $12-$20
+    organisation: Guiding Star Grange
+
   - name: Greenfield Bal Folk Dance Party
     links:
       - "https://www.facebook.com/events/689248876247889/"
       - "https://www.guidingstargrange.org/events.html"
-    start_date: 2023-01-13
-    end_date: 2023-01-13
+    start: 2023-01-13T20:00:00-05:00
+    end: 2023-01-13T23:00:00-05:00
     country: USA
     city: Greenfield
-    styles:
-      - balfolk
+    styles: [balfolk]
     workshop: false
     social: true
     bands:
       - Eloise & Co.
     price: $10-$20
+    organisation: Guiding Star Grange
+
+  - name: TopHill Music Contradance Party
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+    start: 2023-01-14T20:00:00-05:00
+    end: 2023-01-14T23:00:00-05:00
+    country: USA
+    city: Greenfield
+    styles: [contra]
+    workshop: true
+    social: true
+    price: $12-$20
+    organisation: Guiding Star Grange
+
+  - name: 1st/3rd Wednesday English
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+    start: 2023-01-18T19:00:00-05:00
+    end: 2023-01-18T21:30:00-05:00
+    country: USA
+    city: Greenfield
+    styles: [playford]
+    workshop: false
+    social: true
+    bands:
+      - Kate, Micah & Laurie
+    callers:
+      - Graham
+    price: $10-$20
+    organisation: Guiding Star Grange
+
+  - name: 3rd Friday contra
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+    start: 2023-01-20T20:00:00-05:00
+    end: 2023-01-20T23:00:00-05:00
+    country: USA
+    city: Greenfield
+    styles: [contra]
+    workshop: false
+    social: true
+    bands:
+      - Back Row Band
+    callers:
+      - Liz Nelson
+    price: $10
+    organisation: Guiding Star Grange
+
+  - name: 3rd Saturday contra
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+    start: 2023-01-21T19:30:00-05:00
+    end: 2023-01-21T23:00:00-05:00
+    country: USA
+    city: Greenfield
+    styles: [contra]
+    workshop: true
+    social: true
+    bands:
+      - The Moving Violations
+    callers:
+      - Ben Sachs-Hamilton
+    price: $8-20
+    organisation: Guiding Star Grange
+
+  - name: 4rd Friday experienced contra
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+    start: 2023-01-27T20:00:00-05:00
+    end: 2023-01-27T23:15:00-05:00
+    country: USA
+    city: Greenfield
+    styles: [contra]
+    workshop: false
+    social: true
+    bands:
+      - Crossover Trio
+    callers:
+      - Nils Fredland
+    price: $8-15
+    organisation: Guiding Star Grange
+
+  - name: TopHill Music Contradance Party
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+    start: 2023-01-28T20:00:00-05:00
+    end: 2023-01-28T23:00:00-05:00
+    country: USA
+    city: Greenfield
+    styles: [contra]
+    workshop: true
+    social: true
+    price: $10-$15
     organisation: Guiding Star Grange
