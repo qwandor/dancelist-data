@@ -1,0 +1,37 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://www.facebook.com/events/480732444187122/"
+      - "https://pierrot.io/muziekclub-t-ey/embrun-baleynbal"
+    start: 2023-04-22T21:00:00+02:00
+    end: 2023-04-22T22:30:00+02:00
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Embrun
+    price: €15
+    organisation: Muziekclub 't Ey
+
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://www.facebook.com/events/1606442143107460/"
+      - "https://pierrot.io/muziekclub-t-ey/ormuz-baleynbal"
+    start: 2023-06-02T21:00:00+02:00
+    end: 2023-06-02T22:30:00+02:00
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Ormuz
+    price: €15
+    organisation: Muziekclub 't Ey
