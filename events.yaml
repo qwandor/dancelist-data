@@ -18336,6 +18336,20 @@ events:
     price: £5
     organisation: Wimbledon Reels
     source: events/uk/wimbledon_reels.yaml
+  - name: Wimbledon Reels
+    links:
+      - "https://www.wimbledonreels.com/dates/"
+    start: "2023-01-03T19:30:00+01:00"
+    end: "2023-01-03T22:00:00+01:00"
+    country: UK
+    city: London
+    styles:
+      - reeling
+    workshop: false
+    social: true
+    price: £5
+    organisation: Wimbledon Reels
+    source: events/uk/wimbledon_reels.yaml
   - name: Open Ceilidh
     links:
       - "https://www.facebook.com/events/1581249262292196/"
@@ -28864,6 +28878,36 @@ events:
     price: £9-£10
     organisation: London Reels
     source: events/uk/london_reels.yaml
+  - name: London RSCDS Chelsea beginners and improvers
+    links:
+      - "https://www.rscdslondon.org.uk/category/branchactivities/branchclasses/beginnersandimprovers/"
+    start: "2023-01-11T19:00:00+00:00"
+    end: "2023-01-11T21:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - reeling
+      - scd
+    workshop: true
+    social: false
+    price: £7-£9
+    organisation: London RSCDS branch
+    source: events/uk/london_rscds.yaml
+  - name: London RSCDS Chelsea beginners and improvers
+    links:
+      - "https://www.rscdslondon.org.uk/category/branchactivities/branchclasses/beginnersandimprovers/"
+    start: "2023-01-18T19:00:00+00:00"
+    end: "2023-01-18T21:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - reeling
+      - scd
+    workshop: true
+    social: false
+    price: £7-£9
+    organisation: London RSCDS branch
+    source: events/uk/london_rscds.yaml
   - name: Manchester Eurodance Midwinter Bal
     links:
       - "https://www.facebook.com/events/533102761605145/"
