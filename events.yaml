@@ -26792,6 +26792,37 @@ events:
     price: £40-£50
     organisation: Robert Burns Annual Charity Ceilidh
     source: events/uk/london_miscellany.yaml
+  - name: Pop-Up Ceilidh for Burns Night
+    links:
+      - "https://popupceilidh.co.uk/"
+    start: "2023-01-25T19:00:00+00:00"
+    end: "2023-01-25T22:30:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Fiddle Paradiddle
+    organisation: Pop Up Ceilidh London
+    source: events/uk/london_miscellany.yaml
+  - name: Pop-Up Ceilidh Balham
+    links:
+      - "https://popupceilidh.co.uk/"
+    start: "2023-03-02T19:00:00+00:00"
+    end: "2023-03-02T22:15:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Fiddle Paradiddle
+    price: £16.50-£40
+    organisation: Pop Up Ceilidh London
+    source: events/uk/london_miscellany.yaml
   - name: Ely Folk Festival
     links:
       - "https://elyfolkfestival.co.uk/dance-the-nights-away/"
@@ -28886,7 +28917,6 @@ events:
     country: UK
     city: London
     styles:
-      - reeling
       - scd
     workshop: true
     social: false
@@ -28901,7 +28931,62 @@ events:
     country: UK
     city: London
     styles:
-      - reeling
+      - scd
+    workshop: true
+    social: false
+    price: £7-£9
+    organisation: London RSCDS branch
+    source: events/uk/london_rscds.yaml
+  - name: London RSCDS Chelsea beginners and improvers
+    links:
+      - "https://www.rscdslondon.org.uk/category/branchactivities/branchclasses/beginnersandimprovers/"
+    start: "2023-01-25T19:00:00+00:00"
+    end: "2023-01-25T21:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - scd
+    workshop: true
+    social: false
+    price: £7-£9
+    organisation: London RSCDS branch
+    source: events/uk/london_rscds.yaml
+  - name: London RSCDS Chelsea beginners and improvers
+    links:
+      - "https://www.rscdslondon.org.uk/category/branchactivities/branchclasses/beginnersandimprovers/"
+    start: "2023-02-01T19:00:00+00:00"
+    end: "2023-02-01T21:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - scd
+    workshop: true
+    social: false
+    price: £7-£9
+    organisation: London RSCDS branch
+    source: events/uk/london_rscds.yaml
+  - name: London RSCDS Chelsea half term social
+    links:
+      - "https://www.rscdslondon.org.uk/category/branchactivities/branchclasses/beginnersandimprovers/"
+    start: "2023-02-15T19:00:00+00:00"
+    end: "2023-02-15T21:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - scd
+    workshop: false
+    social: true
+    price: £7-£9
+    organisation: London RSCDS branch
+    source: events/uk/london_rscds.yaml
+  - name: London RSCDS Chelsea beginners and improvers
+    links:
+      - "https://www.rscdslondon.org.uk/category/branchactivities/branchclasses/beginnersandimprovers/"
+    start: "2023-02-22T19:00:00+00:00"
+    end: "2023-02-22T21:00:00+00:00"
+    country: UK
+    city: London
+    styles:
       - scd
     workshop: true
     social: false
