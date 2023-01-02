@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfolk Dance Session
+    links:
+      - "https://www.facebook.com/events/1115329515844276/"
+    start: 2023-01-28T15:00:00+00:00
+    end: 2023-01-28T18:00:00+00:00
+    country: UK
+    city: Glasgow
+    styles: [balfolk]
+    workshop: false
+    social: true
+    price: £2-£5
+    organisation: GlasBal
