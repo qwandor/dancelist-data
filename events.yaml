@@ -3181,6 +3181,23 @@ events:
     price: €10
     organisation: Gaia Terra
     source: events/italy/gaia_terra.yaml
+  - name: Balfolk at Gaia Terra
+    links:
+      - "https://www.facebook.com/events/563282078661965/"
+    start: "2023-01-20T19:30:00+01:00"
+    end: "2023-01-21T00:00:00+01:00"
+    country: Italy
+    city: Flambruzzo
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Pastis
+      - Giulia Subba
+    price: €10
+    organisation: Gaia Terra
+    source: events/italy/gaia_terra.yaml
   - name: Balfolk Stuttgart
     links:
       - "https://www.facebook.com/events/574848487643550"
@@ -15684,6 +15701,22 @@ events:
       - Blowzabella
     organisation: Blowzabella
     source: events/blowzabella.yaml
+  - name: Blowzabella dance
+    links:
+      - "https://blowzabella.co.uk/event/4838350/616739370/blowzabella-dance-baltonsborough-village-hall-somerset"
+    start: "2023-01-07T19:30:00+00:00"
+    end: "2023-01-07T23:00:00+00:00"
+    country: UK
+    city: Baltonsborough
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Blowzabella
+    price: £5-£15
+    organisation: Blowzabella
+    source: events/blowzabella.yaml
   - name: Burns Night Chaotic Ceilidh
     links:
       - "https://www.facebook.com/events/1151134402201975/"
@@ -22267,24 +22300,11 @@ events:
     price: £8
     organisation: Dansez Français
     source: events/uk/dansez_francais.yaml
-  - name: "Dansez Français New Year's Eve Bal"
+  - name: Bal Bonne Année
     links:
       - "http://www.dansezfrancais.org.uk/"
-    start: "2022-12-31T18:30:00+00:00"
-    end: "2022-12-31T22:30:00+00:00"
-    country: UK
-    city: Brighton
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Dansez Français
-    source: events/uk/dansez_francais.yaml
-  - name: Dansez Français
-    links:
-      - "http://www.dansezfrancais.org.uk/"
-    start: "2023-01-28T18:30:00+00:00"
-    end: "2023-01-28T22:30:00+00:00"
+    start: "2022-12-31T19:00:00+00:00"
+    end: "2023-01-01T00:30:00+00:00"
     country: UK
     city: Brighton
     styles:
@@ -22292,14 +22312,30 @@ events:
     workshop: false
     social: true
     bands:
-      - Sawney White Bird
+      - Les Étoiles de Brighton
     price: £8
     organisation: Dansez Français
     source: events/uk/dansez_francais.yaml
   - name: Dansez Français
     links:
       - "http://www.dansezfrancais.org.uk/"
-    start: "2023-02-25T18:30:00+00:00"
+    start: "2023-01-28T17:30:00+00:00"
+    end: "2023-01-28T22:30:00+00:00"
+    country: UK
+    city: Brighton
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Sawney White Bird
+    price: £8-£13
+    organisation: Dansez Français
+    source: events/uk/dansez_francais.yaml
+  - name: Dansez Français
+    links:
+      - "http://www.dansezfrancais.org.uk/"
+    start: "2023-02-25T18:45:00+00:00"
     end: "2023-02-25T22:30:00+00:00"
     country: UK
     city: Brighton
@@ -22315,33 +22351,33 @@ events:
   - name: Dansez Français
     links:
       - "http://www.dansezfrancais.org.uk/"
-    start: "2023-03-25T18:30:00+00:00"
+    start: "2023-03-25T17:00:00+00:00"
     end: "2023-03-25T22:30:00+00:00"
     country: UK
     city: Brighton
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Mike James & Dylan James
-    price: £8
+    price: £8-£13
     organisation: Dansez Français
     source: events/uk/dansez_francais.yaml
   - name: Dansez Français
     links:
       - "http://www.dansezfrancais.org.uk/"
-    start: "2023-04-29T18:30:00+01:00"
+    start: "2023-04-29T17:00:00+01:00"
     end: "2023-04-29T22:30:00+01:00"
     country: UK
     city: Brighton
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Kantref
-    price: £8
+    price: £8-£13
     organisation: Dansez Français
     source: events/uk/dansez_francais.yaml
   - name: Dansez Français Sunday Special
@@ -30133,6 +30169,25 @@ events:
     social: true
     organisation: Monterey Contra Dance Community
     source: events/usa/california.yaml
+  - name: Hawaii Contra Dance Week
+    links:
+      - "https://kalani.com/hawaii-contra-dance-week-march-2023/"
+    start: "2023-03-11T16:00:00-10:00"
+    end: "2023-03-17T12:00:00-10:00"
+    country: USA
+    city: Pahoa
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Tangent
+    callers:
+      - Gaye Fifer
+      - Claire Takemori
+    price: $1420-$3100
+    organisation: Kalanimua
+    source: events/usa/hawaii.yaml
   - name: Harvest Moon
     links:
       - "https://www.sbcds.org/hm/"
