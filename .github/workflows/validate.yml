@@ -10,7 +10,7 @@ jobs:
     name: Validate
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Get dancelist version
         run: echo "::set-output name=HEAD::$(git ls-remote https://github.com/qwandor/dancelist HEAD|cut -f1)"
         id: version
@@ -32,7 +32,7 @@ jobs:
     name: Lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
         with:
           # Check out the branch by name, so we can commit to it below.
           ref: ${{ github.head_ref }}

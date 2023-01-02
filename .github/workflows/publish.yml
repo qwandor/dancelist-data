@@ -9,7 +9,7 @@ jobs:
     name: Publish
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Get dancelist version
         run: echo "::set-output name=HEAD::$(git ls-remote https://github.com/qwandor/dancelist HEAD|cut -f1)"
         id: version
