@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: DanseHerts
+    links:
+      - "https://www.facebook.com/events/5427147637389970/"
+      - "http://www.danseherts.co.uk/Events.html"
+    start: 2023-01-08T12:00:00+00:00
+    end: 2023-01-08T17:00:00+00:00
+    country: UK
+    city: Ickleford
+    styles: [balfolk]
+    workshop: false
+    social: true
+    price: £7
+    organisation: DanseHerts
+
