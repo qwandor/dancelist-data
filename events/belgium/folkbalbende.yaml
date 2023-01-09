@@ -4123,6 +4123,7 @@ events:
     links:
       - "https://boombal.be"
       - "https://folkbalbende.be/event/1112"
+      - "https://www.event-tickets.be/Event/JQ5YrpBcKRAVZYRcZDsyCKhpJPpVBrNKr2UN8E95"
     start: "2023-02-04T19:30:00+01:00"
     end: "2023-02-04T23:15:00+01:00"
     country: Belgium
@@ -4134,6 +4135,7 @@ events:
     bands:
       - Embrun
       - Bert Leemans Invite
+    price: €17.25-€18
     organisation: Boombal
   - name: Practica En Plein Air
     details: Ball
@@ -6395,7 +6397,7 @@ events:
       - "https://tanatsfestival.be/"
       - "https://www.facebook.com/tanatsfestival"
       - "https://folkbalbende.be/event/1341"
-      - "https://fb.me/e/5kTY9Ub6k"
+      - "https://www.facebook.com/events/448464797077922/"
     start: "2023-03-17T21:30:00+01:00"
     end: "2023-03-17T23:00:00+01:00"
     country: Belgium
@@ -6407,44 +6409,28 @@ events:
     bands:
       - Viorel
     organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.folkaddikt.be"
-      - "https://www.facebook.com/events/3369166320037560"
-      - "https://folkbalbende.be/event/1342"
-    start: "2023-01-20T19:30:00+01:00"
-    end: "2023-01-20T23:00:00+01:00"
-    country: Belgium
-    city: Elsene
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - OMGDude
-      - Folk Jam
-    organisation: ~
-  - name: BLOWZABELLA (Grande-Bretagne)
+  - name: Blowzabella workshop festival
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.dranoutercentrum.be"
       - "https://folkbalbende.be/event/1343"
-    start_date: 2023-10-28
-    end_date: 2023-10-28
+    start: 2023-10-27T20:30:00+02:00
+    end: 2023-10-29T17:30:00+01:00
     country: Belgium
     city: Dranouter
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Blowzabella
     organisation: ~
   - name: Folkbal
     details: Ball
     links:
       - "https://folkbalbende.be/event/1344"
-      - "https://www.facebook.com/groups/1543588245878404"
+      - "https://www.facebook.com/events/554156246610048/"
     start: "2023-01-26T20:00:00+01:00"
     end: "2023-01-26T23:30:00+01:00"
     country: Belgium
@@ -6453,6 +6439,7 @@ events:
       - balfolk
     workshop: false
     social: true
+    price: free
     organisation: ~
   - name: Réveillon Folka
     details: Ball
@@ -6498,7 +6485,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Decombel – Van Mierlo
+      - Maarten Decombel & Toon Van Mierlo
       - Duo Nello
     organisation: Frissefolk
   - name: Folkbal
@@ -6536,8 +6523,7 @@ events:
     social: true
     bands:
       - Des Élèves
-      - Bal Pablo Golder
-      - Jam (réserv
+      - Pablo Golder
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -6606,7 +6592,7 @@ events:
     social: true
     bands:
       - La Sylve
-      - Hilde Van Bellen
+      - Hilde van Belle
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -6624,8 +6610,6 @@ events:
     social: true
     bands:
       - Oli
-      - Jam. Infos
-      - "Réserv : Page Facebook “le P’tit Bal À Oli” Et"
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -6725,7 +6709,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Wouter En De Draak
+      - Wouter en de Draak
       - Rond De Sorcières
     organisation: ~
   - name: Folkbal
@@ -6842,8 +6826,8 @@ events:
     bands:
       - MicheuStef
       - Repas
-      - Bal Tout Bout D’chants
-      - Le Duo Pilartz-Gielen
+      - Tout Bout D'chants
+      - Duo Pilartz-Gielen
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -6877,9 +6861,7 @@ events:
     social: true
     bands:
       - Aïe
-      - Mon Piedl !
-      - Jam. Infos
-      - "Réserv : Page Facebook “le P’tit Bal À Oli” Et"
+      - Mon Piedl
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -6929,9 +6911,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Tout Bout D’chant
-      - Jam. Infos
-      - "Réserv : Page Facebook “le P’tit Bal À Oli” Et"
+      - Tout Bout D'chants
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -7014,8 +6994,6 @@ events:
     social: true
     bands:
       - Nuña
-      - Jam. Infos
-      - "Réserv : Page Facebook “le P’tit Bal À Oli” Et"
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -7202,7 +7180,7 @@ events:
     workshop: false
     social: true
     organisation: ~
-  - name: Interactieve Folkdans Workshop
+  - name: Interactive Folkdance Workshop
     details: Course
     links:
       - "https://www.stanistil.be/workshops"
@@ -7217,7 +7195,7 @@ events:
     social: false
     price: donation
     organisation: Stanistil
-  - name: Interactieve Folkdans Workshop
+  - name: Interactive Folkdance Workshop
     details: Course
     links:
       - "https://www.stanistil.be/workshops"
@@ -7232,7 +7210,7 @@ events:
     social: false
     price: donation
     organisation: Stanistil
-  - name: Interactieve Folkdans Workshop
+  - name: Interactive Folkdance Workshop
     details: Course
     links:
       - "https://www.stanistil.be/workshops"
@@ -7247,7 +7225,7 @@ events:
     social: false
     price: donation
     organisation: Stanistil
-  - name: "Interactieve Folkdans Workshop [Nieuwe Locatie!]"
+  - name: Interactive Folkdance Workshop
     details: Course
     links:
       - "https://www.stanistil.be/workshops"
@@ -7262,7 +7240,7 @@ events:
     social: false
     price: donation
     organisation: Stanistil
-  - name: "Interactieve Folkdans Workshop [Nieuwe Locatie!]"
+  - name: Interactive Folkdance Workshop
     details: Course
     links:
       - "https://www.stanistil.be/workshops"
@@ -7277,7 +7255,7 @@ events:
     social: false
     price: donation
     organisation: Stanistil
-  - name: "Interactieve Folkdans Workshop [Nieuwe Locatie!]"
+  - name: Interactive Folkdance Workshop
     details: Course
     links:
       - "https://www.stanistil.be/workshops"
@@ -7292,7 +7270,7 @@ events:
     social: false
     price: donation
     organisation: Stanistil
-  - name: "Interactieve Folkdans Workshop [Nieuwe Locatie!]"
+  - name: Interactive Folkdance Workshop
     details: Course
     links:
       - "https://www.stanistil.be/workshops"
@@ -7307,7 +7285,7 @@ events:
     social: false
     price: donation
     organisation: Stanistil
-  - name: "Interactieve Folkdans Workshop [Nieuwe Locatie!]"
+  - name: Interactive Folkdance Workshop
     details: Course
     links:
       - "https://www.stanistil.be/workshops"
@@ -7322,7 +7300,7 @@ events:
     social: false
     price: donation
     organisation: Stanistil
-  - name: "Interactieve Folkdans Workshop [Nieuwe Locatie!]"
+  - name: Interactive Folkdance Workshop
     details: Course
     links:
       - "https://www.stanistil.be/workshops"
@@ -7358,6 +7336,7 @@ events:
     details: Ball
     links:
       - "https://folkbalbende.be/event/1418"
+      - "https://www.facebook.com/events/571515514411611/"
     start: "2023-02-11T20:00:00+01:00"
     end: "2023-02-11T23:30:00+01:00"
     country: Belgium
@@ -7550,7 +7529,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Tout Bout D’chant
+      - Tout Bout D'chants
     price: donation
     organisation: EléDanse ASBL
   - name: Dansavond
@@ -7579,7 +7558,7 @@ events:
     country: Belgium
     city: Watermael-Boitsfort
     styles:
-      - balfolk
+      - scandi
     workshop: false
     social: true
     bands:
@@ -7596,7 +7575,7 @@ events:
     country: Belgium
     city: Watermael-Boitsfort
     styles:
-      - balfolk
+      - scandi
     workshop: false
     social: true
     bands:
@@ -7613,7 +7592,7 @@ events:
     country: Belgium
     city: Watermael-Boitsfort
     styles:
-      - balfolk
+      - scandi
     workshop: false
     social: true
     bands:
@@ -7651,7 +7630,6 @@ events:
     workshop: false
     social: true
     bands:
-      - Contretemps Et Marees
       - Contre Temps Et Marees
     organisation: ~
   - name: Folkbal
@@ -7670,6 +7648,5 @@ events:
     social: true
     bands:
       - C2 Vives
-      - Bal & Gambettes
       - Bal & Gambettes
     organisation: ~
