@@ -733,36 +733,6 @@ events:
     price: 30 PLN
     organisation: 11 Dom
 
-  - name: BalMostFolk pre-party
-    start_date: 2023-04-27
-    end_date: 2023-04-27
-    country: Poland
-    city: Krakow
-    styles: [balfolk]
-    workshop: false
-    social: true
-    organisation: Balfolks
-  - name: BalMostFolk 2023
-    links:
-      - "https://www.facebook.com/events/633779078095731/"
-    start: 2023-04-28T18:00:00+02:00
-    end: 2023-04-30T23:55:00+02:00
-    country: Poland
-    city: Krakow
-    styles: [balfolk]
-    workshop: true
-    social: true
-    organisation: Balfolks
-  - name: BalMostFolk afterparty
-    start_date: 2023-05-01
-    end_date: 2023-05-01
-    country: Poland
-    city: Krakow
-    styles: [balfolk]
-    workshop: false
-    social: true
-    organisation: Balfolks
-
   - name: Folktańcówka
     links:
       - "https://www.facebook.com/events/1292913878220667"
@@ -774,6 +744,22 @@ events:
     social: true
     organisation: Bal Folk Poznań
     price: free
+
+  - name: Fest Noz
+    links:
+      - "https://www.facebook.com/events/899647634533521/"
+    start: 2023-01-13T18:45:00+01:00
+    end: 2023-01-14T01:30:00+01:00
+    country: Poland
+    city: Częstochowa
+    styles:
+      - balfolk
+      - ceili
+      - s-ceilidh
+    workshop: true
+    social: false
+    price: free
+    organisation: Bal Folk Kraków
 
   - name: Folktańcówka
     links:
@@ -814,3 +800,33 @@ events:
     social: true
     organisation: Bal Folk Kraków
     price: free
+
+  - name: BalMostFolk pre-party
+    start_date: 2023-04-27
+    end_date: 2023-04-27
+    country: Poland
+    city: Krakow
+    styles: [balfolk]
+    workshop: false
+    social: true
+    organisation: Balfolks
+  - name: BalMostFolk 2023
+    links:
+      - "https://www.facebook.com/events/633779078095731/"
+    start: 2023-04-28T18:00:00+02:00
+    end: 2023-04-30T23:55:00+02:00
+    country: Poland
+    city: Krakow
+    styles: [balfolk]
+    workshop: true
+    social: true
+    organisation: Balfolks
+  - name: BalMostFolk afterparty
+    start_date: 2023-05-01
+    end_date: 2023-05-01
+    country: Poland
+    city: Krakow
+    styles: [balfolk]
+    workshop: false
+    social: true
+    organisation: Balfolks
