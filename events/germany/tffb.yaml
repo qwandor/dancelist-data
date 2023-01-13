@@ -23,11 +23,22 @@ events:
   - name: Tanz & Folk Festival Berlin
     links:
       - "https://www.tff-b.de/"
-    start_date: 2023-04-14
-    end_date: 2023-04-16
+      - "https://www.facebook.com/events/546945243559532/"
+    start: 2023-04-14T17:30:00+02:00
+    end: 2023-04-16T16:15:00+02:00
     country: Germany
     city: Berlin
     styles: [balfolk]
     workshop: true
     social: true
+    bands:
+      - TFFB Festivalband
+      - Knopfgemurmel
+      - L'Air Inconnu
+      - Fior
+      - Rémi Geffroy
+      - Duo Moore & Moss
+      - Lottes Flausen
+      - Stefano Baldan
+    price: €10-€100
     organisation: TFFB
