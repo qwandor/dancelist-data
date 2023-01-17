@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Scratch contra
+    links:
+      - "http://lancastercontra.org.uk/events/"
+      - "https://www.facebook.com/events/4097832003775376/"
+    start: "2023-02-18T14:30:00+00:00"
+    end: "2023-02-18T16:45:00+00:00"
+    country: UK
+    city: Lancaster
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: £5
+    organisation: Lancaster Contra
