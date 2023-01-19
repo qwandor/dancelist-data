@@ -5714,6 +5714,20 @@ events:
     price: £8-£14
     organisation: Manchester Eurodance
     source: events/uk/manchester.yaml
+  - name: Fest Noz
+    links:
+      - "https://www.facebook.com/groups/1528658444092537/posts/3074937089464657/"
+    start: "2023-01-20T20:00:00+00:00"
+    end: "2023-01-20T23:00:00+00:00"
+    country: UK
+    city: Penparcau
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: £2.50
+    organisation: Fest Noz Llanbadarn and Aberystwyth
+    source: events/uk/penparcau.yaml
   - name: Clandestine Mazurka in Northampton Square
     links:
       - "https://www.facebook.com/events/666380268055145/"
@@ -32350,15 +32364,19 @@ events:
     organisation: Sognando a Piedi Nudi - Mestre
     source: events/italy/venice.yaml
   - name: Gran Bal Folk
-    links: []
-    start_date: 2023-01-29
-    end_date: 2023-01-29
+    links:
+      - "https://www.facebook.com/events/1861251157552243/"
+    start: "2023-01-29T15:45:00+01:00"
+    end: "2023-01-29T21:00:00+01:00"
     country: Italy
     city: Venice
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Turbobal
+    price: €10-€20
     organisation: Sognando a Piedi Nudi - Mestre
     source: events/italy/venice.yaml
   - name: Gran Bal Folk
@@ -32399,6 +32417,8 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Les Bottines Artistiques
     organisation: Sognando a Piedi Nudi - Mestre
     source: events/italy/venice.yaml
   - name: Gran Bal Folk
