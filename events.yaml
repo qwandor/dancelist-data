@@ -27453,15 +27453,19 @@ events:
     organisation: Sognando a Piedi Nudi - Mestre
     source: events/italy/venice.yaml
   - name: Gran Bal Folk
-    links: []
-    start_date: 2023-01-29
-    end_date: 2023-01-29
+    links:
+      - "https://www.facebook.com/events/1861251157552243/"
+    start: "2023-01-29T15:45:00+01:00"
+    end: "2023-01-29T21:00:00+01:00"
     country: Italy
     city: Venice
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Turbobal
+    price: €10-€20
     organisation: Sognando a Piedi Nudi - Mestre
     source: events/italy/venice.yaml
   - name: Gran Bal Folk
@@ -27502,6 +27506,8 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Les Bottines Artistiques
     organisation: Sognando a Piedi Nudi - Mestre
     source: events/italy/venice.yaml
   - name: Gran Bal Folk
@@ -27580,6 +27586,23 @@ events:
     social: true
     bands:
       - Les Bottines Artistiques
+    price: €12
+    organisation: Neapolis Balfolk
+    source: events/italy/naples.yaml
+  - name: Dance concert
+    links:
+      - "https://www.facebook.com/events/654060239643225/"
+    start: "2023-02-04T21:00:00+01:00"
+    end: "2023-02-05T00:00:00+01:00"
+    country: Italy
+    city: Naples
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - No&Mi
+      - Justin Kennedy
     price: €12
     organisation: Neapolis Balfolk
     source: events/italy/naples.yaml
@@ -27968,6 +27991,22 @@ events:
     workshop: false
     social: true
     price: free
+    organisation: ~
+    source: events/italy/roma.yaml
+  - name: Dance concert
+    links:
+      - "https://www.facebook.com/events/461083036057894/"
+    start: "2023-02-03T19:00:00+01:00"
+    end: "2023-02-03T23:45:00+01:00"
+    country: Italy
+    city: Rome
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Fabio Colussi
+    price: €10-€15
     organisation: ~
     source: events/italy/roma.yaml
   - name: Festa a ballo
