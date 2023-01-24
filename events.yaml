@@ -1500,6 +1500,22 @@ events:
     price: €6
     organisation: Jam session et bal folk
     source: events/france/paris_balfolk.yaml
+  - name: Bal de la Bourrache
+    links:
+      - "https://www.facebook.com/events/564663658876105/"
+    start: "2023-02-18T19:30:00+01:00"
+    end: "2023-02-18T22:30:00+01:00"
+    country: France
+    city: Paris
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Les Morues
+    price: €8-€11
+    organisation: La Bourrache
+    source: events/france/paris_balfolk.yaml
   - name: Funambals
     links:
       - "https://www.facebook.com/events/844997619469831/"
