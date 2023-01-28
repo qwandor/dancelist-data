@@ -131,14 +131,18 @@ events:
     organisation: BalFolk Bristol
 
   - name: Bal with Hartwin Dhoore + Ross Grant
-    start: 2023-05-25T19:00:00+01:00
-    end: 2023-05-25T22:30:00+01:00
+    links:
+      - "https://www.facebook.com/events/747245029667915/"
+      - "https://www.headfirstbristol.co.uk/whats-on/strange-brew/thu-25-may-bal-folk-with-hartwin-dhoore-special-guest-84358"
+    start: 2023-05-25T19:30:00+01:00
+    end: 2023-05-25T23:00:00+01:00
     country: UK
     city: Bristol
     styles: [balfolk]
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Hartwin Dhoore
       - Ross Grant
+    price: £10-£20
     organisation: BalFolk Bristol
