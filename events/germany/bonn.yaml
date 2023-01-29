@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Initium - Balfolk im Dotti
+  - name: Balfolk im Dotti
     details: Balfolk with Initium in Bonn
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
@@ -11,7 +11,7 @@ events:
     styles:
       - balfolk
     workshop: true
-    social: false
+    social: true
     bands:
       - Initium
     price: donation
