@@ -3574,6 +3574,7 @@ events:
   - name: Unicorn Ceilidh
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+      - "https://www.facebook.com/events/2575538289276464/"
     start: "2023-02-10T20:00:00+00:00"
     end: "2023-02-10T23:30:00+00:00"
     country: UK
@@ -3638,6 +3639,8 @@ events:
     social: true
     bands:
       - Panjandrum
+    callers:
+      - Gordon Potts
     price: £6-£11
     organisation: Unicorn Ceilidhs
     source: events/uk/unicorn_ceilidhs.yaml
@@ -5606,6 +5609,19 @@ events:
       - Fiddle Paradiddle
     price: £16.50-£40
     organisation: Pop Up Ceilidh London
+    source: events/uk/london_miscellany.yaml
+  - name: "St. Mary's Ceilidh"
+    links:
+      - "https://www.stmaryslondon.com/whatson?sapurl=Lys3MTFiL2xiL2V2Lys3ZjI1d2RjP2JyYW5kaW5nPXRydWUmZW1iZWQ9dHJ1ZSZyZWNlbnRSb3V0ZT1hcHAud2ViLWFwcC5saWJyYXJ5LmNhbGVuZGFyJnJlY2VudFJvdXRlU2x1Zz0lMkI3cHZuaDU3"
+    start: "2023-03-04T19:00:00+00:00"
+    end: "2023-03-04T22:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    organisation: "St. Mary's London"
     source: events/uk/london_miscellany.yaml
   - name: French and Breton dance night
     details: Public bal after French dance workshop week.
