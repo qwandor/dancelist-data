@@ -40,6 +40,27 @@ events:
     price: $7-$18
     organisation: Boston Gender-Free Contra
     source: events/usa/boston.yaml
+  - name: Spring Dance Romance
+    links:
+      - "https://tcdancers.org/sdr"
+      - "https://www.facebook.com/events/548500273810151/"
+    start: "2023-04-28T19:00:00-04:00"
+    end: "2023-04-30T16:00:00-04:00"
+    country: USA
+    city: Chapel Hill
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Engine Room
+      - Nova
+    callers:
+      - Will Mentor
+      - Eileen Thorsos
+    price: $120
+    organisation: Triangle Country Dancers
+    source: events/usa/chapel_hill.yaml
   - name: Hands Four Spring Dance Weekend
     links:
       - "https://hands4-berea.com/workshops"
