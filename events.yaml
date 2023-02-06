@@ -4083,6 +4083,22 @@ events:
     price: £6-£10
     organisation: EuroBal Wessex
     source: events/uk/eurobal_wessex.yaml
+  - name: New Forest Eurobal
+    links:
+      - "https://www.facebook.com/events/700220434993951/"
+    start: "2023-02-12T14:00:00+01:00"
+    end: "2023-02-12T17:30:00+01:00"
+    country: UK
+    city: Ibsley
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Confluence
+    price: £6-£10
+    organisation: EuroBal Wessex
+    source: events/uk/eurobal_wessex.yaml
   - name: On Bouge
     links:
       - "https://onbouge.org/"
@@ -17449,6 +17465,20 @@ events:
     social: true
     organisation: Bath & Bristol French Sessions
     source: events/uk/bristol_bath_french_session.yaml
+  - name: Bristol French Session
+    details: Tunes and dancing.
+    links:
+      - "https://bathfrenchsession.wordpress.com/"
+    start: "2023-01-15T19:00:00+00:00"
+    end: "2023-01-15T21:30:00+00:00"
+    country: UK
+    city: Bristol
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Bath & Bristol French Sessions
+    source: events/uk/bristol_bath_french_session.yaml
   - name: Bath French Session
     details: Tunes and dancing.
     links:
@@ -17469,20 +17499,7 @@ events:
     details: Tunes and dancing.
     links:
       - "https://bathfrenchsession.wordpress.com/"
-    start: "2023-01-15T19:00:00+00:00"
-    end: "2023-01-15T21:30:00+00:00"
-    country: UK
-    city: Bristol
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Bath & Bristol French Sessions
-    source: events/uk/bristol_bath_french_session.yaml
-  - name: Bristol French Session
-    details: Tunes and dancing.
-    links:
-      - "https://bathfrenchsession.wordpress.com/"
+      - "https://www.facebook.com/events/5715421791845653"
     start: "2023-02-19T19:00:00+00:00"
     end: "2023-02-19T21:30:00+00:00"
     country: UK
@@ -17491,6 +17508,36 @@ events:
       - balfolk
     workshop: false
     social: true
+    organisation: Bath & Bristol French Sessions
+    source: events/uk/bristol_bath_french_session.yaml
+  - name: Bath French Session
+    details: Tunes and dancing.
+    links:
+      - "https://bathfrenchsession.wordpress.com/"
+    start: "2023-03-06T20:00:00+00:00"
+    end: "2023-03-06T23:00:00+00:00"
+    country: UK
+    city: Bath
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: Bath & Bristol French Sessions
+    source: events/uk/bristol_bath_french_session.yaml
+  - name: Bath French Session
+    details: Tunes and dancing.
+    links:
+      - "https://bathfrenchsession.wordpress.com/"
+    start: "2023-04-03T20:00:00+01:00"
+    end: "2023-04-03T23:00:00+01:00"
+    country: UK
+    city: Bath
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
     organisation: Bath & Bristol French Sessions
     source: events/uk/bristol_bath_french_session.yaml
   - name: Knees Up Cecil Sharp
