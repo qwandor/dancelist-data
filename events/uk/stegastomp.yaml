@@ -3,14 +3,17 @@ events:
   - name: Stegastomp
     links:
       - "https://www.contrasaurus.com/stegastomp.html"
-    start_date: 2023-06-30
-    end_date: 2023-07-02
+    start: 2023-06-30T19:00:00+01:00
+    end: 2023-07-02T16:30:00+01:00
     country: UK
-    city: Ashbourne
+    city: Harbury
     styles: [contra]
     workshop: true
     social: true
     bands:
       - Contrasaurus
-    price: £40-£100
+    callers:
+      - Bob Morgan
+      - Rachel Shapiro-Wallace
+    price: £45-£90
     organisation: Contrasaurus
