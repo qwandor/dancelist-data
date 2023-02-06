@@ -4300,6 +4300,8 @@ events:
   - name: On Bouge
     links:
       - "https://onbouge.org/"
+      - "https://www.facebook.com/events/577584793923542/"
+      - "http://www.wegottickets.com/event/571103"
     start: "2023-02-10T19:30:00+00:00"
     end: "2023-02-10T23:00:00+00:00"
     country: UK
@@ -4310,6 +4312,7 @@ events:
     social: true
     bands:
       - BOF!
+      - Duo Mistral
     price: £10-£12
     organisation: On Bouge
     source: events/uk/on_bouge.yaml
@@ -17444,6 +17447,22 @@ events:
       - balfolk
     workshop: false
     social: true
+    organisation: Bath & Bristol French Sessions
+    source: events/uk/bristol_bath_french_session.yaml
+  - name: Bath French Session
+    details: Tunes and dancing.
+    links:
+      - "https://bathfrenchsession.wordpress.com/"
+      - "https://www.facebook.com/events/846211889939443/"
+    start: "2023-02-06T20:00:00+00:00"
+    end: "2023-02-06T23:00:00+00:00"
+    country: UK
+    city: Bath
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
     organisation: Bath & Bristol French Sessions
     source: events/uk/bristol_bath_french_session.yaml
   - name: Bristol French Session
