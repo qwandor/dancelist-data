@@ -1163,6 +1163,21 @@ events:
     price: $10
     organisation: Balfolk Aotearoa
     source: events/nz/auckland.yaml
+  - name: Workshops and bal at Auckland Folk Festival
+    links:
+      - "https://www.facebook.com/balfolkaotearoa/posts/pfbid02nzDfk9DmNCm3619CwDgPntHimcnWAmCfyU6Rgs5C6JKedSdVxX8kyBAF2j5ZJe4Sl"
+    start_date: 2023-01-28
+    end_date: 2023-01-29
+    country: New Zealand
+    city: Auckland
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - LyraDanz
+    organisation: Balfolk Aotearoa
+    source: events/nz/auckland.yaml
   - name: Balfolkino
     links:
       - "https://www.facebook.com/events/528887646007147/"
@@ -1364,19 +1379,18 @@ events:
     price: free
     organisation: Balfolk Aotearoa
     source: events/nz/dunedin.yaml
-  - name: Workshops and bal at Auckland Folk Festival
+  - name: Balfolk Potluck
     links:
-      - "https://www.facebook.com/balfolkaotearoa/posts/pfbid02nzDfk9DmNCm3619CwDgPntHimcnWAmCfyU6Rgs5C6JKedSdVxX8kyBAF2j5ZJe4Sl"
-    start_date: 2023-01-28
-    end_date: 2023-01-29
+      - "https://www.facebook.com/events/859725661782230/"
+    start: "2022-02-14T19:00:00+13:00"
+    end: "2022-02-14T22:00:00+13:00"
     country: New Zealand
-    city: Auckland
+    city: Dunedin
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
-    bands:
-      - LyraDanz
+    price: free
     organisation: Balfolk Aotearoa
     source: events/nz/dunedin.yaml
   - name: Festival Folkiri
@@ -4391,6 +4405,62 @@ events:
     price: £4
     organisation: Bal Crewkerne
     source: events/uk/crewkerne.yaml
+  - name: Bal Crewkerne
+    links:
+      - "https://balcrew.wixsite.com/balcrewkerne"
+    start: "2023-06-18T18:00:00+01:00"
+    end: "2023-06-18T21:30:00+01:00"
+    country: UK
+    city: Crewkerne
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: £4
+    organisation: Bal Crewkerne
+    source: events/uk/crewkerne.yaml
+  - name: Bal Crewkerne
+    links:
+      - "https://balcrew.wixsite.com/balcrewkerne"
+    start: "2023-08-20T18:00:00+01:00"
+    end: "2023-08-20T21:30:00+01:00"
+    country: UK
+    city: Crewkerne
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: £4
+    organisation: Bal Crewkerne
+    source: events/uk/crewkerne.yaml
+  - name: Bal Crewkerne
+    links:
+      - "https://balcrew.wixsite.com/balcrewkerne"
+    start: "2023-10-15T18:00:00+01:00"
+    end: "2023-10-15T21:30:00+01:00"
+    country: UK
+    city: Crewkerne
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: £4
+    organisation: Bal Crewkerne
+    source: events/uk/crewkerne.yaml
+  - name: Bal Crewkerne
+    links:
+      - "https://balcrew.wixsite.com/balcrewkerne"
+    start: "2023-12-17T18:00:00+00:00"
+    end: "2023-12-17T21:30:00+00:00"
+    country: UK
+    city: Crewkerne
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: £4
+    organisation: Bal Crewkerne
+    source: events/uk/crewkerne.yaml
   - name: Skint
     links:
       - "http://www.skintdance.org.uk/"
@@ -5551,8 +5621,8 @@ events:
   - name: London Balfolk
     links:
       - "https://www.facebook.com/londonbalfolk/posts/pfbid0XvS2Zzge7Tg66g6orn6KY8pmEL1bceUf7NYYkJ756B6sLnFUh6QoNRWtcGFTbopSl"
-    start: "2023-03-22T20:00:00+00:00"
-    end: "2023-03-22T23:00:00+00:00"
+    start: "2023-03-03T20:00:00+00:00"
+    end: "2023-03-03T23:00:00+00:00"
     country: UK
     city: London
     styles:
@@ -7915,6 +7985,19 @@ events:
     social: true
     bands:
       - BOF!
+    organisation: On y va
+    source: events/uk/saxmundham.yaml
+  - name: February club night
+    links:
+      - "https://www.facebook.com/events/2328311297341382/"
+    start: "2023-02-21T19:00:00+00:00"
+    end: "2023-02-21T22:00:00+00:00"
+    country: UK
+    city: Saxmundham
+    styles:
+      - balfolk
+    workshop: true
+    social: true
     organisation: On y va
     source: events/uk/saxmundham.yaml
   - name: BalFolk
