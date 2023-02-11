@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal Folk
+    links:
+      - "https://www.facebook.com/events/822681292167541/"
+      - "https://247833.frogdp-web03.directetproche.tools/fr/bal-folk-533"
+      - "https://billetterie-limprimerie.mapado.com/event/171104-diatao"
+    start: "2023-02-24T20:30:00+01:00"
+    end: "2023-02-24T23:30:00+01:00"
+    country: France
+    city: Rive-de-Gier
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - DiaTao
+    price: €9-€12
+    organisation: L'Imprimerie Café-Théâtre
