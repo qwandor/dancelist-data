@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: BalFolk Workshop & Dance
+    details: BalFolk workshop & dance for all ages and experience levels. Free and open to the public.
+    links:
+      - "https://www.middlebury.edu/events/event/balfolk-workshop"
+    start: "2023-04-15T16:00:00-04:00"
+    end: "2023-04-15T18:00:00-04:00"
+    country: USA
+    city: Middlebury
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Triton
+    callers:
+      - Mary Wesley
+    price: free
+    organisation: Middlebury College
