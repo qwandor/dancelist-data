@@ -19566,9 +19566,10 @@ events:
     city: Vienna
     styles:
       - balfolk
-      - scandi
     workshop: true
     social: true
+    bands:
+      - Trio WHA
     price: €10-€14
     organisation: FolkTanz Wien
     source: events/austria/vienna.yaml
@@ -19581,7 +19582,38 @@ events:
     city: Vienna
     styles:
       - balfolk
-      - scandi
+    workshop: true
+    social: true
+    bands:
+      - Albin & Stoney
+    price: €10-€14
+    organisation: FolkTanz Wien
+    source: events/austria/vienna.yaml
+  - name: Folktanz-Abend
+    links:
+      - "https://www.facebook.com/events/728072422278544/"
+    start: "2023-04-16T16:00:00+02:00"
+    end: "2023-04-16T22:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Tanzhausgeigern
+    price: €10-€14
+    organisation: FolkTanz Wien
+    source: events/austria/vienna.yaml
+  - name: Folktanz-Abend
+    links:
+      - "https://www.facebook.com/events/1329537297899189/"
+    start: "2023-05-07T16:00:00+02:00"
+    end: "2023-05-07T22:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
     workshop: true
     social: true
     price: €10-€14
