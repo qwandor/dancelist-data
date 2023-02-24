@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfolk Party
+    links:
+      - "https://www.facebook.com/events/728453452332957/"
+    start: "2023-03-11T18:30:00-05:00"
+    end: "2023-03-11T23:45:00-05:00"
+    country: USA
+    city: Pittsburgh
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Pardon My French
+    organisation: ~
