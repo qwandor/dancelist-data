@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Contradancers Delight Holiday
+  - name: Winter CDH
     links:
       - "https://www.contradancersdelight.com/about-winter-cdh"
       - "https://www.facebook.com/events/424841869594619/"
@@ -34,6 +34,7 @@ events:
     workshop: true
     social: true
     organisation: Appalachian Folk School
+    cancelled: true
 
   - name: Summer CDH
     details: "Affordable, flexible dance week"
