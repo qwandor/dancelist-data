@@ -32516,6 +32516,7 @@ events:
     start_date: 2023-05-26
     end_date: 2023-05-29
     country: USA
+    state: NM
     city: Socorro
     styles:
       - contra
@@ -32539,6 +32540,7 @@ events:
     start: "2023-02-26T18:30:00-05:00"
     end: "2023-02-26T21:30:00-05:00"
     country: USA
+    state: VT
     city: Guilford
     styles:
       - balfolk
@@ -32554,6 +32556,7 @@ events:
     start: "2023-03-16T19:00:00-04:00"
     end: "2023-03-16T22:00:00-04:00"
     country: USA
+    state: VT
     city: Guilford
     styles:
       - balfolk
@@ -32569,6 +32572,7 @@ events:
     start: "2023-04-09T18:30:00-04:00"
     end: "2023-04-09T21:30:00-04:00"
     country: USA
+    state: VT
     city: Guilford
     styles:
       - balfolk
@@ -32584,6 +32588,7 @@ events:
     start: "2023-03-11T16:00:00-10:00"
     end: "2023-03-17T12:00:00-10:00"
     country: USA
+    state: HI
     city: Pahoa
     styles:
       - contra
@@ -32597,12 +32602,33 @@ events:
     price: $1420-$3100
     organisation: Kalanimua
     source: events/usa/hawaii.yaml
+  - name: BalFolk Workshop & Dance
+    details: BalFolk workshop & dance for all ages and experience levels. Free and open to the public.
+    links:
+      - "https://www.middlebury.edu/events/event/balfolk-workshop"
+    start: "2023-04-15T16:00:00-04:00"
+    end: "2023-04-15T18:00:00-04:00"
+    country: USA
+    state: VT
+    city: Middlebury
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Triton
+    callers:
+      - Mary Wesley
+    price: free
+    organisation: Middlebury College
+    source: events/usa/middlebury.yaml
   - name: 24th Annual Autumn Harvest Ball
     links:
       - "https://www.facebook.com/groups/42189851366/posts/10159050256336367/"
     start: "2022-11-12T19:00:00-05:00"
     end: "2022-11-12T23:15:00-05:00"
     country: USA
+    state: MA
     city: Boston
     styles:
       - contra
@@ -32622,6 +32648,7 @@ events:
     start_date: 2022-04-09
     end_date: 2022-04-10
     country: USA
+    state: CA
     city: Mill Valley
     styles:
       - contra
@@ -32643,6 +32670,7 @@ events:
     start: "2022-06-17T19:30:00-07:00"
     end: "2022-06-19T14:00:00-07:00"
     country: USA
+    state: CA
     city: Santa Rosa
     styles:
       - contra
@@ -32661,6 +32689,7 @@ events:
     start: "2022-06-19T18:30:00-07:00"
     end: "2022-06-19T21:00:00-07:00"
     country: USA
+    state: CA
     city: Petaluma
     styles:
       - contra
@@ -32681,6 +32710,7 @@ events:
     start: "2023-03-31T19:00:00-07:00"
     end: "2023-04-02T18:30:00-07:00"
     country: USA
+    state: CA
     city: Mill Valley
     styles:
       - contra
@@ -32695,39 +32725,13 @@ events:
     price: $90-$175
     organisation: North Bay Country Dance
     source: events/usa/nbcds.yaml
-  - name: Winter Dance Week
-    links:
-      - "https://www.folkschool.org/2022/11/02/winter-dance-week/"
-    start_date: 2022-12-26
-    end_date: 2023-01-01
-    country: USA
-    city: Brasstown
-    styles:
-      - contra
-      - playford
-    workshop: true
-    social: true
-    bands:
-      - Erynn Marshall
-      - Carl Jones
-      - Karen Axelrod
-      - Rachel Bell
-      - Daron Douglas
-      - Audrey Knuth
-      - Noah Van Norstrand
-    callers:
-      - Phil Jamison
-      - Kalia Kliban
-      - Diane Silver
-    price: $438
-    organisation: John C. Campbell Folk School
-    source: events/usa/folkschool.yaml
   - name: Bayou Bedlam
     links:
       - "https://bayoubedlam.org/BB22/"
     start_date: 2022-02-12
     end_date: 2022-02-12
     country: USA
+    state: TX
     city: Houston
     styles:
       - contra
@@ -32742,6 +32746,7 @@ events:
     start_date: 2023-02-10
     end_date: 2023-02-12
     country: USA
+    state: TX
     city: Houston
     styles:
       - contra
@@ -32760,6 +32765,7 @@ events:
     start_date: 2022-06-19
     end_date: 2022-06-25
     country: USA
+    state: ID
     city: Harrison
     styles:
       - contra
@@ -32783,6 +32789,7 @@ events:
     start_date: 2022-08-07
     end_date: 2022-08-13
     country: USA
+    state: ID
     city: Harrison
     styles:
       - contra
@@ -32803,6 +32810,7 @@ events:
     start_date: 2022-10-07
     end_date: 2022-10-09
     country: USA
+    state: ID
     city: Harrison
     styles:
       - contra
@@ -32822,6 +32830,7 @@ events:
     start_date: 2022-10-21
     end_date: 2022-10-23
     country: USA
+    state: NC
     city: Brasstown
     styles:
       - balfolk
@@ -32832,7 +32841,35 @@ events:
       - Becky Tracy
       - Susan Kevra
     price: $233
-    organisation: John C Campbell Folk School
+    organisation: John C. Campbell Folk School
+    source: events/usa/john_c_campbell.yaml
+  - name: Winter Dance Week
+    links:
+      - "https://www.folkschool.org/2022/11/02/winter-dance-week/"
+    start_date: 2022-12-26
+    end_date: 2023-01-01
+    country: USA
+    state: NC
+    city: Brasstown
+    styles:
+      - contra
+      - playford
+    workshop: true
+    social: true
+    bands:
+      - Erynn Marshall
+      - Carl Jones
+      - Karen Axelrod
+      - Rachel Bell
+      - Daron Douglas
+      - Audrey Knuth
+      - Noah Van Norstrand
+    callers:
+      - Phil Jamison
+      - Kalia Kliban
+      - Diane Silver
+    price: $438
+    organisation: John C. Campbell Folk School
     source: events/usa/john_c_campbell.yaml
   - name: Yuletide Frolick
     links:
@@ -32841,6 +32878,7 @@ events:
     start: "2022-12-09T15:00:00-06:00"
     end: "2022-12-11T01:00:00-06:00"
     country: USA
+    state: KS
     city: Lawrence
     styles:
       - contra
@@ -32854,33 +32892,13 @@ events:
     price: $105
     organisation: Lawrence Barn Dance Association
     source: events/usa/lawrence_barndance.yaml
-  - name: Summer CDH
-    details: "Affordable, flexible dance week"
-    links:
-      - "https://www.contradancersdelight.com/about-summer-cdh-tst"
-    start: "2023-07-28T15:00:00-04:00"
-    end: "2023-08-04T11:30:00-04:00"
-    country: USA
-    city: "Mountain City, TN"
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Toss the Possum
-      - Drive Trail
-    callers:
-      - Terry Doyle
-      - Bob Isaacs
-    price: $160-$250
-    organisation: Appalachian Folk School
-    source: events/usa/mountain_city_tn.yaml
   - name: Flurry Festival
     links:
       - "https://www.flurryfestival.org/"
     start_date: 2023-02-17
     end_date: 2023-02-19
     country: USA
+    state: NY
     city: Saratoga Springs
     styles:
       - contra
@@ -32898,6 +32916,7 @@ events:
     start: "2022-08-26T18:00:00-04:00"
     end: "2022-08-28T12:00:00-04:00"
     country: USA
+    state: IN
     city: Bloomington
     styles:
       - contra
@@ -32912,6 +32931,7 @@ events:
     start_date: 2022-06-12
     end_date: 2022-06-19
     country: USA
+    state: CA
     city: Rohnert Park
     styles:
       - playford
@@ -32927,6 +32947,7 @@ events:
     start_date: 2022-06-26
     end_date: 2022-07-02
     country: USA
+    state: CA
     city: Santa Cruz
     styles:
       - playford
@@ -32942,6 +32963,7 @@ events:
     start_date: 2022-08-12
     end_date: 2022-08-14
     country: USA
+    state: CA
     city: San Francisco
     styles:
       - contra
@@ -32962,6 +32984,7 @@ events:
     start: "2022-09-16T16:00:00-07:00"
     end: "2022-09-18T15:30:00-07:00"
     country: USA
+    state: CA
     city: Sacramento
     styles:
       - contra
@@ -32983,6 +33006,7 @@ events:
     start: "2022-11-05T17:40:00-08:00"
     end: "2022-11-05T22:00:00-08:00"
     country: USA
+    state: CA
     city: Monterey
     styles:
       - contra
@@ -33001,6 +33025,7 @@ events:
     start_date: 2022-12-02
     end_date: 2022-12-04
     country: USA
+    state: CA
     city: Healdsburg
     styles:
       - playford
@@ -33025,6 +33050,7 @@ events:
     start: "2023-01-13T19:00:00-08:00"
     end: "2023-01-15T22:30:00-08:00"
     country: USA
+    state: CA
     city: San Luis Obispo
     styles:
       - contra
@@ -33047,6 +33073,7 @@ events:
     start: "2023-02-24T19:00:00-08:00"
     end: "2023-02-26T22:30:00-08:00"
     country: USA
+    state: CA
     city: Pasadena
     styles:
       - contra
@@ -33067,6 +33094,7 @@ events:
     start: "2023-05-26T13:45:00-07:00"
     end: "2023-05-29T17:00:00-07:00"
     country: USA
+    state: CA
     city: Los Angeles
     styles:
       - contra
@@ -33084,6 +33112,7 @@ events:
     start_date: 2023-08-11
     end_date: 2023-08-13
     country: USA
+    state: CA
     city: San Francisco
     styles:
       - contra
@@ -33101,6 +33130,7 @@ events:
     start_date: 2023-09-01
     end_date: 2023-09-04
     country: USA
+    state: CA
     city: Julian
     styles:
       - contra
@@ -33114,6 +33144,7 @@ events:
     start_date: 2023-11-03
     end_date: 2023-11-05
     country: USA
+    state: CA
     city: Monterey
     styles:
       - contra
@@ -33128,6 +33159,7 @@ events:
     start: "2022-05-08T18:30:00-04:00"
     end: "2022-05-08T20:30:00-04:00"
     country: USA
+    state: MA
     city: Montague
     styles:
       - balfolk
@@ -33146,6 +33178,7 @@ events:
     start: "2022-10-07T16:30:00-04:00"
     end: "2022-10-09T14:30:00-04:00"
     country: USA
+    state: SC
     city: Pickens
     styles:
       - contra
@@ -33160,6 +33193,28 @@ events:
     price: $65-$280
     organisation: Harvest Moon Folk Society
     source: events/usa/moondance.yaml
+  - name: Summer CDH
+    details: "Affordable, flexible dance week"
+    links:
+      - "https://www.contradancersdelight.com/about-summer-cdh-tst"
+    start: "2023-07-28T15:00:00-04:00"
+    end: "2023-08-04T11:30:00-04:00"
+    country: USA
+    state: TN
+    city: Mountain City
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Toss the Possum
+      - Drive Trail
+    callers:
+      - Terry Doyle
+      - Bob Isaacs
+    price: $160-$250
+    organisation: Appalachian Folk School
+    source: events/usa/mountain_city.yaml
   - name: Spring Dance Romance
     links:
       - "https://tcdancers.org/sdr"
@@ -33167,6 +33222,7 @@ events:
     start: "2023-04-28T19:00:00-04:00"
     end: "2023-04-30T16:00:00-04:00"
     country: USA
+    state: NC
     city: Chapel Hill
     styles:
       - contra
@@ -33187,6 +33243,7 @@ events:
     start_date: 2023-10-13
     end_date: 2023-10-15
     country: USA
+    state: CA
     city: Santa Barbara
     styles:
       - contra
@@ -33208,6 +33265,7 @@ events:
     start: "2022-07-15T15:00:00-04:00"
     end: "2022-07-17T15:00:00-04:00"
     country: USA
+    state: OH
     city: Coshocton
     styles:
       - contra
@@ -33229,6 +33287,7 @@ events:
     start: "2022-12-30T19:30:00-05:00"
     end: "2022-12-30T23:00:00-05:00"
     country: USA
+    state: MA
     city: Greenfield
     styles:
       - contra
@@ -33247,6 +33306,7 @@ events:
     start: "2022-12-31T20:00:00-05:00"
     end: "2023-01-01T00:30:00-05:00"
     country: USA
+    state: MA
     city: Greenfield
     styles:
       - balfolk
@@ -33266,6 +33326,7 @@ events:
     start: "2023-01-04T19:00:00-05:00"
     end: "2023-01-04T21:30:00-05:00"
     country: USA
+    state: MA
     city: Greenfield
     styles:
       - playford
@@ -33284,6 +33345,7 @@ events:
     start: "2023-01-07T19:30:00-05:00"
     end: "2023-01-07T23:00:00-05:00"
     country: USA
+    state: MA
     city: Greenfield
     styles:
       - contra
@@ -33303,6 +33365,7 @@ events:
     start: "2023-01-13T20:00:00-05:00"
     end: "2023-01-13T23:00:00-05:00"
     country: USA
+    state: MA
     city: Greenfield
     styles:
       - balfolk
@@ -33319,6 +33382,7 @@ events:
     start: "2023-01-14T20:00:00-05:00"
     end: "2023-01-14T23:00:00-05:00"
     country: USA
+    state: MA
     city: Greenfield
     styles:
       - contra
@@ -33333,6 +33397,7 @@ events:
     start: "2023-01-18T19:00:00-05:00"
     end: "2023-01-18T21:30:00-05:00"
     country: USA
+    state: MA
     city: Greenfield
     styles:
       - playford
@@ -33351,6 +33416,7 @@ events:
     start: "2023-01-20T20:00:00-05:00"
     end: "2023-01-20T23:00:00-05:00"
     country: USA
+    state: MA
     city: Greenfield
     styles:
       - contra
@@ -33369,6 +33435,7 @@ events:
     start: "2023-01-21T19:30:00-05:00"
     end: "2023-01-21T23:00:00-05:00"
     country: USA
+    state: MA
     city: Greenfield
     styles:
       - contra
@@ -33387,6 +33454,7 @@ events:
     start: "2023-01-27T20:00:00-05:00"
     end: "2023-01-27T23:15:00-05:00"
     country: USA
+    state: MA
     city: Greenfield
     styles:
       - contra
@@ -33405,6 +33473,7 @@ events:
     start: "2023-01-28T20:00:00-05:00"
     end: "2023-01-28T23:00:00-05:00"
     country: USA
+    state: MA
     city: Greenfield
     styles:
       - contra
@@ -33419,6 +33488,7 @@ events:
     start_date: 2023-04-21
     end_date: 2023-04-23
     country: USA
+    state: MA
     city: Marlborough
     styles:
       - contra
@@ -33435,6 +33505,7 @@ events:
     start_date: 2022-12-26
     end_date: 2023-01-01
     country: USA
+    state: TN
     city: Kingsport
     styles:
       - contra
@@ -33469,6 +33540,7 @@ events:
     start: "2023-03-11T18:30:00-05:00"
     end: "2023-03-11T23:45:00-05:00"
     country: USA
+    state: PA
     city: Pittsburgh
     styles:
       - balfolk
@@ -33484,6 +33556,7 @@ events:
     start_date: 2023-06-09
     end_date: 2023-06-11
     country: USA
+    state: MA
     city: Plymouth
     styles:
       - contra
@@ -33498,6 +33571,7 @@ events:
     start: "2023-06-29T15:00:00-04:00"
     end: "2023-07-04T10:00:00-04:00"
     country: USA
+    state: MA
     city: Plymouth
     styles:
       - contra
@@ -33516,6 +33590,7 @@ events:
     start_date: 2023-07-03
     end_date: 2023-07-07
     country: USA
+    state: MA
     city: Plymouth
     styles:
       - scd
@@ -33531,6 +33606,7 @@ events:
     start_date: 2023-07-07
     end_date: 2023-07-10
     country: USA
+    state: MA
     city: Plymouth
     styles:
       - scd
@@ -33544,6 +33620,7 @@ events:
     start_date: 2023-07-10
     end_date: 2023-07-15
     country: USA
+    state: MA
     city: Plymouth
     styles:
       - scd
@@ -33557,6 +33634,7 @@ events:
     start_date: 2023-07-15
     end_date: 2023-07-22
     country: USA
+    state: MA
     city: Plymouth
     styles:
       - contra
@@ -33572,6 +33650,7 @@ events:
     start_date: 2023-06-17
     end_date: 2023-06-24
     country: USA
+    state: MI
     city: Lexington
     styles:
       - contra
@@ -33587,6 +33666,7 @@ events:
     start_date: 2023-07-22
     end_date: 2023-07-29
     country: USA
+    state: MA
     city: Plymouth
     styles:
       - contra
@@ -33601,6 +33681,7 @@ events:
     start_date: 2023-07-29
     end_date: 2023-08-05
     country: USA
+    state: MA
     city: Plymouth
     styles:
       - contra
@@ -33616,6 +33697,7 @@ events:
     start_date: 2023-08-05
     end_date: 2023-08-12
     country: USA
+    state: MA
     city: Plymouth
     styles:
       - playford
@@ -33630,6 +33712,7 @@ events:
     start_date: 2023-08-12
     end_date: 2023-08-19
     country: USA
+    state: MA
     city: Plymouth
     styles:
       - playford
@@ -33644,6 +33727,7 @@ events:
     start_date: 2023-08-13
     end_date: 2023-08-19
     country: USA
+    state: ME
     city: Poland
     styles:
       - contra
@@ -33652,12 +33736,13 @@ events:
     social: true
     organisation: Pinewoods
     source: events/usa/pinewoods.yaml
-  - name: Casdade of Music and Dance
+  - name: Cascade of Music and Dance
     links:
-      - "https://camp.cdss.org/camp-weeks/cascade-of-music-dance-at-louise-2/"
+      - "https://camp.cdss.org/camp-weeks/cascade-of-music-dance-at-louise/"
     start_date: 2023-08-14
     end_date: 2023-08-20
     country: USA
+    state: MD
     city: Cascade
     styles:
       - contra
@@ -33674,6 +33759,7 @@ events:
     start: "2023-04-21T18:30:00-04:00"
     end: "2023-04-23T15:00:00-04:00"
     country: USA
+    state: KY
     city: Berea
     styles:
       - contra
@@ -35937,22 +36023,3 @@ events:
       - Token Women
     organisation: Rudolstadt Festival
     source: events/germany/rudolstadt.yaml
-  - name: BalFolk Workshop & Dance
-    details: BalFolk workshop & dance for all ages and experience levels. Free and open to the public.
-    links:
-      - "https://www.middlebury.edu/events/event/balfolk-workshop"
-    start: "2023-04-15T16:00:00-04:00"
-    end: "2023-04-15T18:00:00-04:00"
-    country: USA
-    city: Middlebury
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Triton
-    callers:
-      - Mary Wesley
-    price: free
-    organisation: Middlebury College
-    source: events/usa_vermont/middlebury.yaml
