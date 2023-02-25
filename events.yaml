@@ -33193,28 +33193,6 @@ events:
     price: $65-$280
     organisation: Harvest Moon Folk Society
     source: events/usa/moondance.yaml
-  - name: Summer CDH
-    details: "Affordable, flexible dance week"
-    links:
-      - "https://www.contradancersdelight.com/about-summer-cdh-tst"
-    start: "2023-07-28T15:00:00-04:00"
-    end: "2023-08-04T11:30:00-04:00"
-    country: USA
-    state: TN
-    city: Mountain City
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Toss the Possum
-      - Drive Trail
-    callers:
-      - Terry Doyle
-      - Bob Isaacs
-    price: $160-$250
-    organisation: Appalachian Folk School
-    source: events/usa/mountain_city.yaml
   - name: Spring Dance Romance
     links:
       - "https://tcdancers.org/sdr"
@@ -33519,7 +33497,7 @@ events:
       - Terry Doyle
       - Warren Doyle
     price: $370-$770
-    organisation: Contradancers Delight
+    organisation: Appalachian Folk School
     source: events/usa/cdh.yaml
   - name: Spring CDH
     links:
@@ -33533,7 +33511,29 @@ events:
       - contra
     workshop: true
     social: true
-    organisation: Contradancers Delight
+    organisation: Appalachian Folk School
+    source: events/usa/cdh.yaml
+  - name: Summer CDH
+    details: "Affordable, flexible dance week"
+    links:
+      - "https://www.contradancersdelight.com/about-summer-cdh-tst"
+    start: "2023-07-28T15:00:00-04:00"
+    end: "2023-08-04T11:30:00-04:00"
+    country: USA
+    state: TN
+    city: Mountain City
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Toss the Possum
+      - Drive Trail
+    callers:
+      - Terry Doyle
+      - Bob Isaacs
+    price: $160-$250
+    organisation: Appalachian Folk School
     source: events/usa/cdh.yaml
   - name: Balfolk Party
     links:
