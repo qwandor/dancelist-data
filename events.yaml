@@ -37,6 +37,27 @@ events:
     price: 15-25 CHF
     organisation: Bâle Folk
     source: events/switzerland/basel.yaml
+  - name: Bal Soleil
+    details: "Familiäres, 3-tägiges Balfolk Festival im Toggenburg, mit Biskaya, Sol Do, Zéphyr Combo, Duo l´hêtre heureux und weiteren Künstlern"
+    links:
+      - "https://balsoleil.ch"
+    start: "2023-04-28T16:00:00+02:00"
+    end: "2023-04-30T17:00:00+02:00"
+    country: Switzerland
+    state: St. Gallen
+    city: Mogelsberg
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Biskaya
+      - Sol Do
+      - Zéphyr Combo
+      - "Duo l'Hêtre Heureux"
+    price: 110-125 CHF
+    organisation: Sonnenhaus
+    source: events/switzerland/mogelsberg.yaml
   - name: Grand Bal Folk
     links:
       - "https://www.facebook.com/events/992371288306930/"
