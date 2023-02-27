@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal Soleil
+    details: "Familiäres, 3-tägiges Balfolk Festival im Toggenburg, mit Biskaya, Sol Do, Zéphyr Combo, Duo l´hêtre heureux und weiteren Künstlern"
+    links:
+      - "https://balsoleil.ch"
+    start_date: 2023-04-28
+    end_date: 2023-04-30
+    country: Switzerland
+    state: St. Gallen
+    city: Mogelsberg
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Biskaya
+      - Sol Do
+      - Zéphyr Combo
+      - "Duo l'Hêtre Heureux"
+    price: "110"
+    organisation: Sonnenhaus
