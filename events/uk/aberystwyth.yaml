@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: AberACED
+    links:
+      - "https://aberaced.wordpress.com/"
+    start: "2023-04-01T14:00:00+01:00"
+    end: "2023-04-01T16:30:00+01:00"
+    country: UK
+    city: Aberystwyth
+    styles:
+      - contra
+      - playford
+    workshop: true
+    social: true
+    price: £3
+    organisation: AberACED
