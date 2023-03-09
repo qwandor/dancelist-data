@@ -69,8 +69,8 @@ events:
   - name: Archam+guest
     details: Balfolk concert with the possibility to sleep in tents at 5 minutes from the venue
     links: []
-    start_date: 2023-09-23
-    end_date: 2023-09-24
+    start: 2023-09-23T15:00:00+02:00
+    end: 2023-09-24T18:00:00+02:00
     country: Italy
     state: Italy
     city: Bologna
@@ -80,6 +80,5 @@ events:
     social: true
     bands:
       - Archam
-      - Surprise guest
-    price: "10"
-    organisation: ~
+    price: €10
+    organisation: Archam
