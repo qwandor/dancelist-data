@@ -7335,13 +7335,14 @@ events:
     social: false
     price: donation
     organisation: Stanistil
-  - name: Balhalla Folkbal
+  - name: Balhalla
     details: Ball
     links:
-      - "http://https://balhalla.be"
+      - "https://balhalla.be"
       - "https://folkbalbende.be/event/1413"
+      - "https://folkbalbende.be/event/1690"
     start: "2023-03-16T19:00:00+01:00"
-    end: "2023-03-16T23:15:00+01:00"
+    end: "2023-03-16T23:00:00+01:00"
     country: Belgium
     city: Gent
     styles:
@@ -7349,8 +7350,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo De Schepper-Sanczuk
-    price: €12
+      - Duo De Schepper-Souvandjiev
+    price: €10-€15
     organisation: Balhalla
   - name: Bal@Herk
     details: Ball
@@ -8037,22 +8038,26 @@ events:
     bands:
       - Jowan Merckx
     organisation: ~
-  - name: Ol Da FolkASHELS
+  - name: Ol Da Folk
     details: Ball
     links:
+      - "https://www.facebook.com/events/2161232050932669/"
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "https://folkbalbende.be/event/1498"
-    start_date: 2023-04-15
-    end_date: 2023-04-15
+      - "https://folkbalbende.be/event/1696"
+      - "https://folkbalbende.be/event/1697"
+    start: "2023-04-15T14:00:00+02:00"
+    end: "2023-04-15T23:00:00+02:00"
     country: Belgium
-    city: Assebroek
+    city: Bruges
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Ashels
-    organisation: ~
+    price: €10-€25
+    organisation: Ol Da Folk Brugge
   - name: Happy Wallonie - Maclottes En Andere Waalse Dansen
     details: Course
     links:
@@ -8928,22 +8933,6 @@ events:
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "http://www.wefolk.be"
-    start: "2023-03-17T20:00:00+01:00"
-    end: "2023-03-17T23:30:00+01:00"
-    country: Belgium
-    city: Marche-en-Famenne
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Contre Temps Et Marees
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "https://folkbalbende.be/event/1641"
     start_date: 2023-03-22
     end_date: 2023-03-22
@@ -9219,22 +9208,6 @@ events:
       - Broes
     price: €14-€18
     organisation: CaBal
-  - name: Balhalla
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/1690"
-    start_date: 2023-03-16
-    end_date: 2023-03-16
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Duo De Schepper/Sanczuk
-    organisation: ~
   - name: Folkbal
     details: Ball
     links:
@@ -9285,36 +9258,6 @@ events:
     workshop: false
     social: true
     organisation: ~
-  - name: Stage Werelddans
-    details: Course
-    links:
-      - "https://folkbalbende.be/event/1696"
-    start: "2023-04-15T14:30:00+02:00"
-    end: "2023-04-15T17:30:00+02:00"
-    country: Belgium
-    city: Assebroek
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: €10-€15
-    organisation: Ol Da Folk Brugge
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://folkbalbende.be/event/1697"
-    start: "2023-04-15T20:00:00+02:00"
-    end: "2023-04-15T23:00:00+02:00"
-    country: Belgium
-    city: Assebroek
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Ashels
-    price: €10
-    organisation: Ol Da Folk Brugge
   - name: Folkbal
     details: Ball
     links:
