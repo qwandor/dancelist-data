@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Fiddlehead Frolic
+    links:
+      - "http://www.hands4dancers.org/upcoming-dances/2023/4/1/fiddlehead-frolic"
+    start: "2023-04-01T12:30:00-04:00"
+    end: "2023-04-01T22:00:00-04:00"
+    country: USA
+    state: NY
+    city: Ithica
+    styles:
+      - contra
+      - playford
+    workshop: true
+    social: true
+    bands:
+      - Alchemy
+      - "O'Shanigans"
+    callers:
+      - Pamela Goddard
+      - Sarah VanNorstrand
+      - Nancy Spero
+    price: $15-$30
+    organisation: Hands Four Dancers of Ithaca
