@@ -78,7 +78,7 @@ events:
       - LyraDanz
     organisation: Folkclub Marburg
 
-  - name: Bargainatt – Bal Folk
+  - name: Bal Folk
     details: with additional dance workshop at 7 pm
     links:
       - "https://www.folkclub-marburg.de/"
@@ -93,7 +93,23 @@ events:
       - Bargainatt
     organisation: Folkclub Marburg
 
-  - name: Loogaroo – Bal Folk
+  - name: Bal Folk
+    details: "19:00 Workshop, 20:00 Bal Folk"
+    links:
+      - "https://www.folkclub-marburg.de/"
+    start: 2023-05-21T19:00:00+02:00
+    end: 2023-05-21T23:00:00+02:00
+    country: Germany
+    city: Marburg
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - VINTA
+    organisation: Folkclub Marburg
+
+  - name: Bal Folk
     details: with additional dance workshop at 7 pm
     links:
       - "https://www.folkclub-marburg.de/"
@@ -122,19 +138,3 @@ events:
     bands:
       - Hartwin Dhoore
     organisation: Folkclub Marburg
-
-  - name: VINTA - Bal Folk
-    details: "19:00 Workshop, 20:00 Bal Folk"
-    links:
-      - "http://folkclub-marburg.de"
-    start_date: 2023-05-21
-    end_date: 2023-05-21
-    country: Germany
-    city: Marburg
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - VINTA
-    organisation: FolkClub Marburg
