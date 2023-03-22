@@ -877,7 +877,7 @@ events:
     start: "2022-11-05T19:00:00+01:00"
     end: "2022-11-05T23:59:00+01:00"
     country: Poland
-    city: Krakow
+    city: Kraków
     styles:
       - balfolk
     workshop: true
@@ -1155,13 +1155,27 @@ events:
     start: "2023-03-23T20:00:00+01:00"
     end: "2023-03-23T23:00:00+01:00"
     country: Poland
-    city: Krakow
+    city: Kraków
     styles:
       - balfolk
     workshop: true
     social: true
     price: 15 PLN
     organisation: Balfolks
+    source: events/poland/poland.yaml
+  - name: Folktańcówka
+    links:
+      - "https://www.facebook.com/events/2372214952946917/"
+    start: "2023-03-24T20:00:00+01:00"
+    end: "2023-03-25T01:00:00+01:00"
+    country: Poland
+    city: Poznań
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: free
+    organisation: Bal Folk Poznań
     source: events/poland/poland.yaml
   - name: Czwartkowe Wprawki Balfolkowe
     links:
@@ -1169,7 +1183,7 @@ events:
     start: "2023-03-30T20:00:00+02:00"
     end: "2023-03-30T23:00:00+02:00"
     country: Poland
-    city: Krakow
+    city: Kraków
     styles:
       - balfolk
     workshop: true
@@ -1177,12 +1191,27 @@ events:
     price: 15 PLN
     organisation: Balfolks
     source: events/poland/poland.yaml
+  - name: Breton dance workshop
+    details: Retro Dance Studio (ul. Wielka 19/4)
+    links:
+      - "https://dombretanii.org.pl/wydarzenia-kulturalne/warsztaty/warsztaty-tanca-bretonskiego"
+    start: "2023-04-22T15:00:00+02:00"
+    end: "2023-04-22T17:00:00+02:00"
+    country: Poland
+    city: Poznań
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: 10 PLN
+    organisation: Dom Bretanii
+    source: events/poland/poland.yaml
   - name: BalMostFolk pre-party
     links: []
     start_date: 2023-04-27
     end_date: 2023-04-27
     country: Poland
-    city: Krakow
+    city: Kraków
     styles:
       - balfolk
     workshop: false
@@ -1195,7 +1224,7 @@ events:
     start: "2023-04-28T18:00:00+02:00"
     end: "2023-04-30T23:55:00+02:00"
     country: Poland
-    city: Krakow
+    city: Kraków
     styles:
       - balfolk
     workshop: true
@@ -1207,7 +1236,7 @@ events:
     start_date: 2023-05-01
     end_date: 2023-05-01
     country: Poland
-    city: Krakow
+    city: Kraków
     styles:
       - balfolk
     workshop: false
