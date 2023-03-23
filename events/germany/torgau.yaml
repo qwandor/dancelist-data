@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal Folk Night
+    links:
+      - "https://www.spielkurs.de/#balfolk"
+      - "https://www.kulturhaus-torgau.de/index.php/Veranstaltung.html?va=bal-folk-nacht-276"
+      - "https://www.facebook.com/events/942088323445039"
+    start: "2023-04-29T20:00:00+02:00"
+    end: "2023-04-30T03:00:00+02:00"
+    country: Germany
+    city: Torgau
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Naragonia Trio
+      - Topette
+      - Duo Decombel-Van Mierlo
+    price: €18-€25
+    organisation: Spielkurs Torgau
