@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Berguedà Folk Festival
+    links:
+      - "http://berguedafolk.org/?lang=en"
+      - "https://www.facebook.com/events/1337706580124594/"
+    start: "2023-09-15T21:30:00+02:00"
+    end: "2023-09-17T19:00:00+02:00"
+    country: Spain
+    city: Barcelona
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - "Bal O'Gadjo"
+      - Flowk
+      - Man Encantada
+    organisation: Festival Berguedà Folk
