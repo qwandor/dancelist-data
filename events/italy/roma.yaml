@@ -28,10 +28,11 @@ events:
     price: €10-€15
     organisation: ~
 
-  - name: Andrea Capezzuoli
-    links: []
-    start_date: 2023-04-01
-    end_date: 2023-04-01
+  - name: Dance concert
+    links:
+      - "https://www.facebook.com/events/727134919051828/"
+    start: 2023-04-01T19:00:00+02:00
+    end: 2023-04-01T23:30:00+02:00
     country: Italy
     city: Rome
     styles:
@@ -40,4 +41,5 @@ events:
     social: true
     bands:
       - Andrea Capezzuoli
+    price: €10-€15
     organisation: Romainfolk
