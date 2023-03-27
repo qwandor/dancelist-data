@@ -31657,6 +31657,22 @@ events:
     price: €10-€15
     organisation: ~
     source: events/italy/roma.yaml
+  - name: Dance concert
+    links:
+      - "https://www.facebook.com/events/727134919051828/"
+    start: "2023-04-01T19:00:00+02:00"
+    end: "2023-04-01T23:30:00+02:00"
+    country: Italy
+    city: Rome
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Andrea Capezzuoli
+    price: €10-€15
+    organisation: Romainfolk
+    source: events/italy/roma.yaml
   - name: Dance concert e stage con gli Auka
     links:
       - "https://www.facebook.com/events/748380963017662/"
@@ -37712,6 +37728,21 @@ events:
     price: $5-$15
     organisation: Contra Dance Wellington
     source: events/new_zealand/wellington.yaml
+  - name: Tūranga Bal
+    links:
+      - "https://folkdance.nz/the-turanga-bal/"
+      - "https://www.eventfinda.co.nz/2023/the-turanga-bal/hawkes-bay-gisborne"
+    start: "2023-04-22T09:00:00+12:00"
+    end: "2023-04-22T22:00:00+12:00"
+    country: New Zealand
+    city: Gisborne
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: $50-$130
+    organisation: Folk Dance New Zealand
+    source: events/new_zealand/gisborne.yaml
   - name: Folk-Tanz Abend im Achillion
     links:
       - "https://www.facebook.com/events/487880726207590/"
