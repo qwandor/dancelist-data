@@ -53,10 +53,10 @@ The `styles` field should contain one or more of the following values:
 | `balfolk`   | Balfolk, a group of French and other European dances                                  |
 | `contra`    | American contra dancing                                                               |
 | `e-ceilidh` | English ceilidh                                                                       |
+| `ecd`       | Playford and other English Country Dances                                             |
 | `ceili`     | Irish céilí                                                                           |
 | `irish-set` | Irish set dancing                                                                     |
 | `italian`   | Italian dances, such as pizzica and tarantella                                        |
-| `playford`  | Playford and other English Country Dances                                             |
 | `polish`    | Polish folk dances, such as oberek and kujawiak                                       |
 | `reeling`   | Scottish reeling                                                                      |
 | `s-ceilidh` | Scottish cèilidh                                                                      |
