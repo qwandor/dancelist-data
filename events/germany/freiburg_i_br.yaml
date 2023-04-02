@@ -1,12 +1,11 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "Bal Folk mit L'Air Inconnu"
+  - name: Bal Folk
     links:
       - "https://7schritt.de/kalender/lair-inconnu/"
-    start: "2023-04-15T14:34:00+02:00"
-    end: "2023-04-15T14:34:00+02:00"
+    start: "2023-04-15T20:00:00+02:00"
+    end: "2023-04-15T23:30:00+02:00"
     country: Germany
-    state: BW
     city: Freiburg i. Br
     styles:
       - balfolk
@@ -14,5 +13,23 @@ events:
     social: true
     bands:
       - "L'Air Inconnu"
-    price: 12€ – 20€
+    price: €12–€20
+    organisation: Siebenschritt e.V.
+
+  - name: Siebenschritt Frühlingsball
+    details: Bal Folk mit Rémi Geffroy Septet Odysseus und Bal’legro
+    links:
+      - "https://7schritt.de/fruehlings-bal-folk-2023/"
+    start: "2023-05-06T14:00:00+02:00"
+    end: "2023-05-06T23:00:00+02:00"
+    country: Germany
+    city: Freiburg i. Br
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Rémi Geffroy Septet Odysseus
+      - Bal'legro
+    price: €15-€45
     organisation: Siebenschritt e.V.
