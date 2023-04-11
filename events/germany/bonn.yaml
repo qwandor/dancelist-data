@@ -50,6 +50,7 @@ events:
     social: true
     bands:
       - Duo Cassard
+    price: €15
     organisation: Balfolk Bonn e.V.
 
   - name: Balfolk im Dotti
@@ -57,7 +58,7 @@ events:
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
     start: "2023-05-12T19:00:00+02:00"
-    end: "2023-05-12T22:00:00+02:00"
+    end: "2023-05-12T23:00:00+02:00"
     country: Germany
     city: Bonn
     styles:
@@ -66,12 +67,13 @@ events:
     social: true
     bands:
       - SkALD
-    price: donation
+    price: €15
     organisation: Balfolk Bonn e.V.
 
   - name: Fest Noz im Hardbergsaal
     details: Fest Noz with Andreas Neumann / Marcus Krimmer
-    links: []
+    links:
+      - "http://balfolk-bonn.de/balfolk/Aktuell.html"
     start: "2023-06-16T18:00:00+02:00"
     end: "2023-06-16T22:00:00+02:00"
     country: Germany
@@ -81,7 +83,6 @@ events:
     workshop: false
     social: true
     bands:
-      - Andreas Neumann
-      - Marcus Krimmer
+      - Andreas Neumann & Marcus Krimmer
     price: donation
     organisation: Balfolk Bonn e.V.
