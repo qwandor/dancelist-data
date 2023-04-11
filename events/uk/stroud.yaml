@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: The Fairy Tale Ceilidh
+    links:
+      - "https://www.facebook.com/events/549962130602407/"
+      - "https://www.facebook.com/events/6042233332527627/"
+    start: "2023-05-14T19:00:00+01:00"
+    end: "2023-05-14T22:00:00+01:00"
+    country: UK
+    city: Stroud
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Paul Hutchinson & Matt Norman
+    callers:
+      - Hannah Moore
+    price: £12-£16
+    organisation: Hannah Moore
