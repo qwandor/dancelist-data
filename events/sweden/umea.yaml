@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Concert and dance
+    links:
+      - "https://www.facebook.com/events/932063231387733/"
+    start: "2023-05-20T17:30:00+02:00"
+    end: "2023-05-20T22:00:00+02:00"
+    country: Sweden
+    city: Umeå
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    bands:
+      - Ville & Tommie
+    price: 100kr-150kr
+    organisation: Umeå Folkmusikförening
