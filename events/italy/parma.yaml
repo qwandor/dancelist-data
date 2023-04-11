@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfolk
+    links:
+      - "https://www.facebook.com/events/1591819907985379/"
+    start: "2023-05-01T15:30:00+02:00"
+    end: "2023-05-01T18:30:00+02:00"
+    country: Italy
+    city: Parma
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Bifòlc
+    organisation: Parma Balfolk
