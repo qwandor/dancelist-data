@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal folk and workshop
+    links:
+      - "https://www.helloasso.com/associations/louvfolk/evenements/stage-danses-de-couples-et-bal-folk-bargainatt-remi-geffroy-we-13-et-14-mai-a-vions-73"
+      - "https://www.facebook.com/events/889516162174780/"
+    start: "2023-05-13T11:00:00+02:00"
+    end: "2023-05-14T17:30:00+02:00"
+    country: France
+    city: Motz
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Bargainatt
+      - Rémi Geffroy
+    price: €8-€50
+    organisation: "Louv'Folk"
