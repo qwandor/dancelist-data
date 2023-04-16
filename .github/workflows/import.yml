@@ -1,0 +1,51 @@
+name: Update imports
+
+on:
+  schedule:
+    - cron: '37 11 * * 2'
+
+jobs:
+  import:
+    name: Update imports
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - branch: balfolknl
+            name: balfolknl
+            file: events/netherlands/balfolk_nl.yaml
+          - branch: folkbalbende
+            name: balbende
+            file: events/belgium/folkbalbende.yaml
+          - branch: webfeet
+            name: webfeet
+            file: events/uk/webfeet.yaml
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ matrix.branch }}
+      - name: Get dancelist version
+        run: echo "::set-output name=HEAD::$(git ls-remote https://github.com/qwandor/dancelist HEAD|cut -f1)"
+        id: version
+      - name: Cache .cargo and target
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/.cargo/bin
+            ~/.cargo/git
+            ~/.cargo/registry
+            ~/.cargo/.crates.toml
+            ~/.cargo/.crates2.json
+          key: ${{ runner.os }}-cargo-install-${{ steps.version.outputs.HEAD }}
+      - name: Install dancelist
+        run: cargo install --git https://github.com/qwandor/dancelist
+      - name: Import
+        run: dancelist ${{ matrix.name }} > ${{ matrix.file }}
+      - name: Commit if changed
+        run: |
+          git add ${{ matrix.file }}
+          git config user.name "Automatic import"
+          git config user.email "dancelist-import@users.noreply.github.com"
+          git commit -m "Update import."
+          git push
