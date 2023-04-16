@@ -26,7 +26,7 @@ jobs:
         with:
           ref: ${{ matrix.branch }}
       - name: Get dancelist version
-        run: echo "::set-output name=HEAD::$(git ls-remote https://github.com/qwandor/dancelist HEAD|cut -f1)"
+        run: echo "HEAD=$(git ls-remote https://github.com/qwandor/dancelist HEAD|cut -f1)" >> $GITHUB_OUTPUT
         id: version
       - name: Cache .cargo and target
         uses: actions/cache@v2
