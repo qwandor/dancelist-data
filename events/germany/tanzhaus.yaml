@@ -168,6 +168,43 @@ events:
     organisation: TanzhausFolk
     cancelled: true
 
+  - name: Ball
+    links:
+      - "https://www.tanzvolk-leipzig.de/anmeldeformular-remi-geffroy/"
+      - "https://www.facebook.com/events/2362369190608829/"
+    start: "2023-04-13T19:00:00+02:00"
+    end: "2023-04-13T22:00:00+02:00"
+    country: Germany
+    city: Leipzig
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Moore & Moss
+    price: €6-€15
+    organisation: TanzhausFolk
+
+  - name: 1. Phönix Festival
+    links:
+      - "https://www.tanzvolk-leipzig.de/1-phoenix-festival/"
+      - "https://www.facebook.com/events/945518073130141/"
+    start: 2023-05-19T13:00:00+02:00
+    end: 2023-05-21T19:00:00+02:00
+    country: Germany
+    city: Leisnig
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Lunesk
+      - Hidrae
+      - Ulman
+      - Zirp
+      - Maracu
+      - Anna & Fine
+    organisation: TanzhausFolk
+
   - name: Bal with Duo Tanghe-Coudroy
     links:
       - "http://www.tanzvolk-leipzig.de/category/kommende-veranstaltungen/"
@@ -223,41 +260,4 @@ events:
     styles: [balfolk]
     workshop: true
     social: true
-    organisation: TanzhausFolk
-
-  - name: 1. Phönix Festival
-    links:
-      - "https://www.tanzvolk-leipzig.de/1-phoenix-festival/"
-      - "https://www.facebook.com/events/945518073130141/"
-    start: 2023-05-19T13:00:00+02:00
-    end: 2023-05-21T19:00:00+02:00
-    country: Germany
-    city: Leisnig
-    styles: [balfolk]
-    workshop: true
-    social: true
-    bands:
-      - Lunesk
-      - Hidrae
-      - Ulman
-      - Zirp
-      - Maracu
-      - Anna & Fine
-    organisation: TanzhausFolk
-
-  - name: Ball
-    links:
-      - "https://www.tanzvolk-leipzig.de/anmeldeformular-remi-geffroy/"
-      - "https://www.facebook.com/events/2362369190608829/"
-    start: "2023-04-13T19:00:00+02:00"
-    end: "2023-04-13T22:00:00+02:00"
-    country: Germany
-    city: Leipzig
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Rémi Geffroy
-    price: €6-€15
     organisation: TanzhausFolk
