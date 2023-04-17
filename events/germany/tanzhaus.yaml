@@ -207,6 +207,7 @@ events:
 
   - name: Bal with Duo Tanghe-Coudroy
     links:
+      - "https://tanzhausfolk.de/10-07-2023-duo-tanghe-coudroy-fr/"
       - "http://www.tanzvolk-leipzig.de/category/kommende-veranstaltungen/"
     start: 2023-07-10T19:00:00+02:00
     end: 2023-07-10T22:00:00+02:00
@@ -222,6 +223,7 @@ events:
 
   - name: Bal with Hartwin Dhoore
     links:
+      - "https://tanzhausfolk.de/14-09-2023-hartwin-dhoore-be/"
       - "http://www.tanzvolk-leipzig.de/category/kommende-veranstaltungen/"
     start: 2023-09-14T19:00:00+02:00
     end: 2023-09-14T22:00:00+02:00
@@ -247,6 +249,37 @@ events:
     social: true
     bands:
       - Paracetamol
+    price: €6-€15
+    organisation: TanzhausFolk
+
+  - name: Balfolk
+    links:
+      - "https://tanzhausfolk.de/18-11-2023-drehwurm-de/"
+      - "http://www.tanzvolk-leipzig.de/category/kommende-veranstaltungen/"
+    start: 2023-11-18T19:00:00+01:00
+    end: 2023-11-18T22:00:00+01:00
+    country: Germany
+    city: Leipzig
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Drehwurm
+    price: €6-€15
+    organisation: TanzhausFolk
+
+  - name: Balfolk
+    links:
+      - "http://www.tanzvolk-leipzig.de/category/kommende-veranstaltungen/"
+    start: 2023-12-16T19:00:00+01:00
+    end: 2023-12-16T22:00:00+01:00
+    country: Germany
+    city: Leipzig
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - KV Express
     price: €6-€15
     organisation: TanzhausFolk
 
