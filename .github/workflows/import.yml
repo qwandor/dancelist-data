@@ -47,5 +47,7 @@ jobs:
           git add ${{ matrix.file }}
           git config user.name "Automatic import"
           git config user.email "dancelist-import@users.noreply.github.com"
-          git commit -m "Update import."
-          git push
+          if git commit -m "Update import."
+          then
+            git push
+          fi
