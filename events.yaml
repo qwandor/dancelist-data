@@ -2412,6 +2412,19 @@ events:
     price: 15 PLN
     organisation: Balfolks
     source: events/poland/poland.yaml
+  - name: Pre-festival exercises
+    links:
+      - "https://www.facebook.com/events/900700717826506/900700724493172/"
+    start: "2023-04-20T20:00:00+02:00"
+    end: "2023-04-20T23:00:00+02:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Balfolks
+    source: events/poland/poland.yaml
   - name: Breton dance workshop
     details: Retro Dance Studio (ul. Wielka 19/4)
     links:
@@ -2428,9 +2441,10 @@ events:
     organisation: Dom Bretanii
     source: events/poland/poland.yaml
   - name: BalMostFolk pre-party
-    links: []
-    start_date: 2023-04-27
-    end_date: 2023-04-27
+    links:
+      - "https://www.facebook.com/events/900700717826506/900700727826505/"
+    start: "2023-04-27T20:00:00+02:00"
+    end: "2023-04-27T23:00:00+02:00"
     country: Poland
     city: Kraków
     styles:
