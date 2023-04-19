@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Musik- und Tanzfest Krebsow 2023
+    links:
+      - "https://www.boddenfolk.de/musik-und-tanzfest-2023.html"
+    start: 2023-06-02T17:00:00+02:00
+    end: 2023-06-04T13:00:00+02:00
+    country: Germany
+    city: Krebsow
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Duo Pastis
+      - Kombo Kalèsch
+      - SpielMeute
+      - TradTöchter
+    price: €15-€75
+    organisation: BoddenFolk
