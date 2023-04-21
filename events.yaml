@@ -23426,18 +23426,46 @@ events:
     price: 50 CZK
     organisation: Balfolk.cz
     source: events/czechia/prague.yaml
-  - name: Balfolk at Liberál
+  - name: Balfolk na Andělu
     links:
-      - "https://www.facebook.com/events/1152006732052713/1152006748719378/"
+      - "https://www.facebook.com/events/903153607382512/903153654049174/"
     start: "2023-04-25T19:00:00+02:00"
     end: "2023-04-25T22:00:00+02:00"
     country: Czechia
     city: Prague
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
-    price: 50 CZK
+    price: 100 CZK
+    organisation: Balfolk.cz
+    source: events/czechia/prague.yaml
+  - name: Balfolk na Andělu
+    links:
+      - "https://www.facebook.com/events/903153607382512/903153617382511/"
+    start: "2023-05-02T19:00:00+02:00"
+    end: "2023-05-02T22:00:00+02:00"
+    country: Czechia
+    city: Prague
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 100 CZK
+    organisation: Balfolk.cz
+    source: events/czechia/prague.yaml
+  - name: Balfolk na Andělu
+    links:
+      - "https://www.facebook.com/events/903153607382512/903153620715844/"
+    start: "2023-05-09T19:00:00+02:00"
+    end: "2023-05-09T22:00:00+02:00"
+    country: Czechia
+    city: Prague
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 100 CZK
     organisation: Balfolk.cz
     source: events/czechia/prague.yaml
   - name: Lo Silenci de la Flor
@@ -27612,6 +27640,19 @@ events:
       - Carol Turner
     price: £5
     organisation: Sheffield Eurosession
+    source: events/uk/sheffield_balfolk.yaml
+  - name: "Music, Dancing and Shadow Puppetry"
+    links:
+      - "https://www.facebook.com/events/935370810947534/"
+    start: "2023-05-01T17:30:00+01:00"
+    end: "2023-05-01T22:00:00+01:00"
+    country: UK
+    city: Sheffield
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: ~
     source: events/uk/sheffield_balfolk.yaml
   - name: Album Launch Bal
     links:
