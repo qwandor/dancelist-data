@@ -21632,40 +21632,42 @@ events:
       - Warmoes
     organisation: ~
     source: events/belgium/folkbalbende.yaml
-  - name: ComSibal
+  - name: ComSiBal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://comsibal.be/"
+      - "https://comsibal.be/en/"
       - "https://folkbalbende.be/event/1694"
-    start_date: 2023-09-02
-    end_date: 2023-09-02
+    start: "2023-09-02T18:00:00+02:00"
+    end: "2023-09-03T01:00:00+02:00"
     country: Belgium
     city: Leuven
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
-      - Entre Autres
+      - "Le Bal de l'Ephémère"
       - Duo Gestrikt
-    organisation: ~
+    price: €10-€20
+    organisation: ComSiBal
     source: events/belgium/folkbalbende.yaml
-  - name: ComSibal
-    details: Ball
+  - name: ComSiBal
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://comsibal.be/"
+      - "https://comsibal.be/en/"
       - "https://folkbalbende.be/event/1695"
-    start_date: 2023-10-21
-    end_date: 2023-10-21
+    start: "2023-10-21T18:00:00+02:00"
+    end: "2023-10-22T01:00:00+02:00"
     country: Belgium
     city: Leuven
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
-    organisation: ~
+    bands:
+      - Trio Loubelya
+      - Trio Västanvinden
+    price: €10-€20
+    organisation: ComSiBal
     source: events/belgium/folkbalbende.yaml
   - name: Folkbal
     details: Ball
@@ -22408,40 +22410,6 @@ events:
     bands:
       - Kaz Kan Zie
       - Plume
-    price: €10-€20
-    organisation: ComSiBal
-    source: events/belgium/comsibal.yaml
-  - name: ComSiBal
-    links:
-      - "https://comsibal.be/en/"
-    start: "2023-09-02T18:00:00+02:00"
-    end: "2023-09-03T01:00:00+02:00"
-    country: Belgium
-    city: Leuven
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - "Le Bal de l'Ephémère"
-      - Duo Gestrikt
-    price: €10-€20
-    organisation: ComSiBal
-    source: events/belgium/comsibal.yaml
-  - name: ComSiBal
-    links:
-      - "https://comsibal.be/en/"
-    start: "2023-10-21T18:00:00+02:00"
-    end: "2023-10-22T01:00:00+02:00"
-    country: Belgium
-    city: Leuven
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Trio Loubelya
-      - Trio Västanvinden
     price: €10-€20
     organisation: ComSiBal
     source: events/belgium/comsibal.yaml
