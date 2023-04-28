@@ -1,21 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Maplewood in Poynton
-    links:
-      - "https://www.poyntonceilidh.co.uk/dates/"
-    start_date: 2023-01-28
-    end_date: 2023-01-28
-    country: UK
-    city: Poynton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Maplewood
-    callers:
-      - Rhodri Davies
-    organisation: Webfeet
   - name: Winter Ceilidh
     links:
       - "http://www.whitehorseceilidhs.org.uk/events/index.php#D.WHC.20230204"
@@ -47,6 +31,20 @@ events:
       - Brown Boots
     callers:
       - Erin Mansfield
+    organisation: Webfeet
+  - name: Arish Mel in Kimmeridge
+    links:
+      - "http://www.earwicker.org/about_arish_mel.htm"
+    start_date: 2023-02-10
+    end_date: 2023-02-10
+    country: UK
+    city: Kimmeridge
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Arish Mel
     organisation: Webfeet
   - name: English Contra Dance Band in Englefield Green
     links:
@@ -195,6 +193,20 @@ events:
     bands:
       - Emily & The Simons
       - Emily and a Simon
+    organisation: Webfeet
+  - name: Arish Mel in Kimmeridge
+    links:
+      - "http://www.earwicker.org/about_arish_mel.htm"
+    start_date: 2023-03-10
+    end_date: 2023-03-10
+    country: UK
+    city: Kimmeridge
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Arish Mel
     organisation: Webfeet
   - name: Hodmedod in Preston
     links:
@@ -390,6 +402,20 @@ events:
     callers:
       - Sheena Masson
     organisation: Webfeet
+  - name: Arish Mel in Kimmeridge
+    links:
+      - "http://www.earwicker.org/about_arish_mel.htm"
+    start_date: 2023-04-14
+    end_date: 2023-04-14
+    country: UK
+    city: Kimmeridge
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Arish Mel
+    organisation: Webfeet
   - name: The Geckoes in Oxford
     links:
       - "http://www.geckoes.co.uk/"
@@ -405,6 +431,20 @@ events:
       - The Geckoes
     callers:
       - Sheena Masson
+    organisation: Webfeet
+  - name: Arish Mel in Piddletrenthide
+    links:
+      - "http://www.earwicker.org/about_arish_mel.htm"
+    start_date: 2023-04-14
+    end_date: 2023-04-14
+    country: UK
+    city: Piddletrenthide
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Arish Mel
     organisation: Webfeet
   - name: "Hekety in Chandler's Ford"
     links:
@@ -422,22 +462,6 @@ events:
     callers:
       - Emma Wooders
     organisation: Webfeet
-  - name: Adam Rich-Griffin & Nicola McConkey in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.1@.20230421"
-    start_date: 2023-04-21
-    end_date: 2023-04-21
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Adam Rich-Griffin & Nicola McConkey
-    callers:
-      - Louise Siddons
-    organisation: Webfeet
   - name: Shinanikins in Norwich
     links:
       - "http://www.mardles.org/mardles/ceilidhs/"
@@ -451,23 +475,6 @@ events:
     social: true
     bands:
       - Shinanikins
-    organisation: Webfeet
-  - name: Jigfoot in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.A6.20230422"
-      - "http://www.jigfoot.com/google-calendar/"
-    start_date: 2023-04-22
-    end_date: 2023-04-22
-    country: UK
-    city: Bristol
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Jigfoot
-    callers:
-      - Ian Nichols
     organisation: Webfeet
   - name: Albireo in Newark
     links:
@@ -486,7 +493,6 @@ events:
   - name: The Ironmasters in Poynton
     links:
       - "https://www.poyntonceilidh.co.uk/dates/"
-      - "https://www.areyoudancing.com/dance-event/638562/"
     start_date: 2023-04-22
     end_date: 2023-04-22
     country: UK
@@ -499,20 +505,6 @@ events:
       - The Ironmasters
     callers:
       - Baz Parkes
-    organisation: Webfeet
-  - name: "Murphy's Lore in Weymouth"
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2023-04-23
-    end_date: 2023-04-23
-    country: UK
-    city: Weymouth
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Murphy's Lore"
     organisation: Webfeet
   - name: own music in Pucklechurch
     links:
@@ -617,6 +609,22 @@ events:
     social: true
     bands:
       - Famous Potatoes
+    organisation: Webfeet
+  - name: Tatterdemalion in Cerne Abbas
+    links:
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2023-04-29
+    end_date: 2023-04-29
+    country: UK
+    city: Cerne Abbas
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Tatterdemalion
+    callers:
+      - Angela Laycock
     organisation: Webfeet
   - name: Phoenix in Exeter
     links:
@@ -864,7 +872,7 @@ events:
     organisation: Webfeet
   - name: "Whiffeldy in Whiffeldy ceilidh, nr Kington"
     links:
-      - "http://mister.red/dance/kington.htm#D.A0.20230506"
+      - "http://mister.red/dance/kington.htm#D.AZ.20230506"
     start_date: 2023-05-06
     end_date: 2023-05-06
     country: UK
@@ -910,7 +918,7 @@ events:
     organisation: Webfeet
   - name: Bees Knees in Stroud
     links:
-      - "http://mister.red/dance/stroud.htm#D.A1.20230507"
+      - "http://mister.red/dance/stroud.htm#D.A0.20230507"
     start_date: 2023-05-07
     end_date: 2023-05-07
     country: UK
@@ -990,7 +998,6 @@ events:
     organisation: Webfeet
   - name: Panjandrum in Baldock
     links:
-      - "https://www.efdss.org/calendar-events/12194-d045c59a90d7587d8d671b5f5aec4e7c"
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
       - "https://www.areyoudancing.com/dance-event/623036/"
     start_date: 2023-05-12
@@ -1004,11 +1011,11 @@ events:
     bands:
       - Panjandrum
     callers:
-      - Andy Rouse
       - Gordon Potts
     organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
+      - "http://www.earwicker.org/about_arish_mel.htm"
       - "http://www.sadfolk.co.uk/listings.php"
     start_date: 2023-05-12
     end_date: 2023-05-12
@@ -1078,6 +1085,20 @@ events:
     social: true
     bands:
       - "[no ceilidh this month]"
+    organisation: Webfeet
+  - name: Jigsmith in Whitchurch
+    links:
+      - "https://www.areyoudancing.com/dance-event/657602/"
+    start_date: 2023-05-13
+    end_date: 2023-05-13
+    country: UK
+    city: Whitchurch
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Jigsmith
     organisation: Webfeet
   - name: English Contra Dance Band in Englefield Green
     links:
@@ -1509,7 +1530,7 @@ events:
     organisation: Webfeet
   - name: "Join the dots in Join the Dots Ceilidhs, Clee Hill"
     links:
-      - "http://mister.red/dance/clee_hill.htm#D.A3.20230603"
+      - "http://mister.red/dance/clee_hill.htm#D.A2.20230603"
     start_date: 2023-06-03
     end_date: 2023-06-03
     country: UK
@@ -1656,7 +1677,7 @@ events:
     organisation: Webfeet
   - name: "Join the dots in Join the Dots Ceilidhs, Monkland"
     links:
-      - "http://mister.red/dance/monkland.htm#D.A4.20230617"
+      - "http://mister.red/dance/monkland.htm#D.A3.20230617"
     start_date: 2023-06-17
     end_date: 2023-06-17
     country: UK
@@ -1698,7 +1719,7 @@ events:
     organisation: Webfeet
   - name: Join the dots in Ludlow
     links:
-      - "http://mister.red/dance/ludlow.htm#D.A5.20230621"
+      - "http://mister.red/dance/ludlow.htm#D.A4.20230621"
     start_date: 2023-06-21
     end_date: 2023-06-21
     country: UK
@@ -1784,6 +1805,20 @@ events:
     bands:
       - Skermish
     organisation: Webfeet
+  - name: Tatterdemalion in Dorchester
+    links:
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2023-06-25
+    end_date: 2023-06-25
+    country: UK
+    city: Dorchester
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Tatterdemalion
+    organisation: Webfeet
   - name: Topette!! in Sheffield
     links:
       - "https://www.wegottickets.com/event/568574"
@@ -1800,7 +1835,7 @@ events:
     organisation: Webfeet
   - name: Perfect Cure in Bristol
     links:
-      - "http://mister.red/dance/bristol.htm#D.AZ.20230701"
+      - "http://mister.red/dance/bristol.htm#D.AY.20230701"
     start_date: 2023-07-01
     end_date: 2023-07-01
     country: UK
@@ -2100,6 +2135,20 @@ events:
     callers:
       - Trevor Monson
     organisation: Webfeet
+  - name: Arish Mel in Piddletrenthide
+    links:
+      - "http://www.earwicker.org/about_arish_mel.htm"
+    start_date: 2023-09-15
+    end_date: 2023-09-15
+    country: UK
+    city: Piddletrenthide
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Arish Mel
+    organisation: Webfeet
   - name: Crannog in Cardiff
     links:
       - "http://mister.red/dance/cardiff.htm#D.HA.20230916"
@@ -2135,6 +2184,20 @@ events:
       - Judith Inman
       - Pat Hicks
       - Rob Dawson
+    organisation: Webfeet
+  - name: Arish Mel in Kimmeridge
+    links:
+      - "http://www.earwicker.org/about_arish_mel.htm"
+    start_date: 2023-09-22
+    end_date: 2023-09-22
+    country: UK
+    city: Kimmeridge
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Arish Mel
     organisation: Webfeet
   - name: Naragonia Quartet in Cirencester
     links:
@@ -2332,6 +2395,20 @@ events:
     social: true
     bands:
       - Cheltenham Ceilidh Band
+    organisation: Webfeet
+  - name: Arish Mel in Kimmeridge
+    links:
+      - "http://www.earwicker.org/about_arish_mel.htm"
+    start_date: 2023-11-10
+    end_date: 2023-11-10
+    country: UK
+    city: Kimmeridge
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Arish Mel
     organisation: Webfeet
   - name: Stumpy Oak in Kennington
     links:
