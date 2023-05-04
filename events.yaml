@@ -6869,7 +6869,8 @@ events:
     organisation: Sognando a Piedi Nudi - Mestre
     source: events/italy/venice.yaml
   - name: Gran Bal Folk
-    links: []
+    links:
+      - "https://www.facebook.com/events/930809534741061/"
     start: "2023-05-14T18:00:00+02:00"
     end: "2023-05-14T21:30:00+02:00"
     country: Italy
@@ -6880,6 +6881,7 @@ events:
     social: true
     bands:
       - Duo Geoffroy-Montanaro
+    price: €10
     organisation: Sognando a Piedi Nudi - Mestre
     source: events/italy/venice.yaml
   - name: Le Matrioske + Philippe Plard - Warm up
