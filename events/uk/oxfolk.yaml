@@ -242,7 +242,7 @@ events:
 
   - name: Oxfolk Ceilidh
     links:
-      - "http://www.oxfolk.org.uk/"
+      - "http://oxfolk.org.uk/2023/05/13/no-ceilidh.html"
     start: 2023-05-13T19:30:00+01:00
     end: 2023-05-13T23:00:00+01:00
     country: UK
@@ -250,5 +250,56 @@ events:
     styles: [e-ceilidh]
     workshop: false
     social: true
-    price: £2-£14
+    organisation: Oxfolk
+    cancelled: true
+
+  - name: Oxfolk Ceilidh
+    links:
+      - "http://www.oxfolk.org.uk/"
+    start: 2023-10-14T19:30:00+01:00
+    end: 2023-10-14T23:00:00+01:00
+    country: UK
+    city: Oxford
+    styles: [e-ceilidh]
+    workshop: false
+    social: true
+    bands:
+      - Granny's Attic
+    callers:
+      - Erin Mansfield
+    price: £3-£14
+    organisation: Oxfolk
+
+  - name: Oxfolk Ceilidh
+    links:
+      - "http://www.oxfolk.org.uk/"
+    start: 2023-11-11T19:30:00+00:00
+    end: 2023-11-11T23:00:00+00:00
+    country: UK
+    city: Oxford
+    styles: [e-ceilidh]
+    workshop: false
+    social: true
+    bands:
+      - Stumpy Oak
+    callers:
+      - Sarah Petts
+    price: £3-£14
+    organisation: Oxfolk
+
+  - name: Oxfolk Ceilidh
+    links:
+      - "http://www.oxfolk.org.uk/"
+    start: 2023-12-09T19:30:00+00:00
+    end: 2023-12-09T23:00:00+00:00
+    country: UK
+    city: Oxford
+    styles: [e-ceilidh]
+    workshop: false
+    social: true
+    bands:
+      - Chalktown
+    callers:
+      - Nick Walden
+    price: £3-£14
     organisation: Oxfolk
