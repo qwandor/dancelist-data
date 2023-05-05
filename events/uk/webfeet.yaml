@@ -1,35 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Brown Boots in Baldock
-    links:
-      - "http://www.unicornceilidhs.org.uk/uc05prog.html"
-    start_date: 2023-02-10
-    end_date: 2023-02-10
-    country: UK
-    city: Baldock
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Brown Boots
-    callers:
-      - Erin Mansfield
-    organisation: Webfeet
-  - name: Arish Mel in Kimmeridge
-    links:
-      - "http://www.earwicker.org/about_arish_mel.htm"
-    start_date: 2023-02-10
-    end_date: 2023-02-10
-    country: UK
-    city: Kimmeridge
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Arish Mel
-    organisation: Webfeet
   - name: English Contra Dance Band in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
@@ -296,20 +266,6 @@ events:
     bands:
       - Confluence
     organisation: Webfeet
-  - name: DisKan in Edinburgh
-    links:
-      - "https://www.facebook.com/events/560512816043086"
-    start_date: 2023-04-07
-    end_date: 2023-04-07
-    country: UK
-    city: Edinburgh
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - DisKan
-    organisation: Webfeet
   - name: Catsfield Steamers in Hurst Green
     links:
       - "http://catsfieldsteamers.co.uk/index.php/bookings/"
@@ -339,20 +295,6 @@ events:
       - Stringrays
     callers:
       - Mark Elvins
-    organisation: Webfeet
-  - name: Peregrine Road in Street
-    links:
-      - "https://www.facebook.com/events/6229403313770397"
-    start_date: 2023-04-11
-    end_date: 2023-04-11
-    country: UK
-    city: Street
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Peregrine Road
     organisation: Webfeet
   - name: Junction 24 in Baldock
     links:
@@ -1713,6 +1655,20 @@ events:
     callers:
       - Charlotte Rich Griffin
     organisation: Webfeet
+  - name: Tiger Moth in London
+    links:
+      - "https://www.bandsintown.com/e/1028325331-tigermoth-at-jamboree"
+    start_date: 2023-06-23
+    end_date: 2023-06-23
+    country: UK
+    city: London
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Tiger Moth
+    organisation: Webfeet
   - name: Panjandrum in Bournemouth
     links:
       - "http://eceilidh.org.uk/cps/gigs/panjandrum-d09860.php"
@@ -2060,7 +2016,7 @@ events:
     organisation: Webfeet
   - name: Topette in Shrewsbury
     links:
-      - "https://www.bandsintown.com/e/1027627932-topette-at-west-midlands-showground"
+      - "https://www.bandsintown.com/e/1027627932-topette-at-west-midlands-showground?came_from=209"
     start_date: 2023-08-25
     end_date: 2023-08-25
     country: UK
@@ -2425,6 +2381,20 @@ events:
     bands:
       - Threepenny Bit
     organisation: Webfeet
+  - name: Arish Mel in Kimmeridge
+    links:
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2023-12-08
+    end_date: 2023-12-08
+    country: UK
+    city: Kimmeridge
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Arish Mel
+    organisation: Webfeet
   - name: Beatroot in Norwich
     links:
       - "http://www.mardles.org/mardles/ceilidhs/"
@@ -2630,7 +2600,6 @@ events:
       - DanceCupola
     organisation: Webfeet
   - name: This Way Up in Cardiff
-    details: "[To Be Confirmed]"
     links:
       - "http://ruffceilidhs.org/coming/"
     start_date: 2024-05-11
