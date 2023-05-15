@@ -5980,23 +5980,6 @@ events:
       - "Les Pas D'là Yau"
     organisation: ~
     source: events/belgium/folkbalbende.yaml
-  - name: Folkbal Academie Gooik
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.facebook.com/events/5866084646759504/"
-    start: "2023-05-17T22:00:00+02:00"
-    end: "2023-05-18T00:00:00+02:00"
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Duo Bucsan-Gielen
-    organisation: ~
-    source: events/belgium/folkbalbende.yaml
   - name: Practica Au Pianofabriek
     details: Ball
     links:
@@ -10446,6 +10429,44 @@ events:
     social: false
     price: €50
     organisation: "Kasteel D'Ursel"
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal Academie Gooik
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/events/5866084646759504/"
+      - "https://folkbalbende.be/event/1736"
+    start: "2023-05-17T20:00:00+02:00"
+    end: "2023-05-17T23:59:00+02:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Bucsan-Gielen
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Le Bal Des Libellules
+    details: Course
+    links:
+      - "http://www.lebaldeslibellules.be/en/events/folkbal_2023_06_10/"
+      - "https://folkbalbende.be/event/1737"
+      - "https://www.facebook.com/events/568078258763540/"
+    start: "2023-06-10T15:00:00+02:00"
+    end: "2023-06-11T01:15:00+02:00"
+    country: Belgium
+    city: Forrières
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - "Duo l'Hêtre Heureux"
+      - AurieL duo
+    price: €12-€42
+    organisation: Le Bal Des Libellules
     source: events/belgium/folkbalbende.yaml
   - name: Baleynbal
     details: Ball
