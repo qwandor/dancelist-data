@@ -394,17 +394,23 @@ events:
     workshop: true
     organisation: London Balfolk
 
-  - name: Bal Étoile
+  - name: Album Launch concert and bal
     links:
+      - "https://www.facebook.com/events/1018792695949149/"
       - "https://londonbalfolk.org.uk/"
-    start: 2023-05-31T19:30:00+01:00
-    end: 2023-05-31T22:30:00+01:00
+      - "https://www.eventbrite.com/e/ville-tommie-album-launch-nordic-cornish-folk-duo-tickets-592388368557"
+    start: "2023-05-23T19:00:00+01:00"
+    end: "2023-05-23T23:00:00+01:00"
     country: UK
     city: London
-    styles: [balfolk]
-    workshop: false
+    styles:
+      - balfolk
+      - scandi
+    workshop: true
     social: true
-    price: free
+    bands:
+      - Ville & Tommie
+    price: £8-£16.96
     organisation: London Balfolk
 
   - name: Album Launch Balfolk
@@ -423,23 +429,17 @@ events:
       - Emily & The Simons
     organisation: London Balfolk
 
-  - name: Album Launch concert and bal
+  - name: Bal Étoile
     links:
-      - "https://www.facebook.com/events/1018792695949149/"
       - "https://londonbalfolk.org.uk/"
-      - "https://www.eventbrite.com/e/ville-tommie-album-launch-nordic-cornish-folk-duo-tickets-592388368557"
-    start: "2023-05-23T19:00:00+01:00"
-    end: "2023-05-23T23:00:00+01:00"
+    start: 2023-05-31T19:30:00+01:00
+    end: 2023-05-31T22:30:00+01:00
     country: UK
     city: London
-    styles:
-      - balfolk
-      - scandi
-    workshop: true
+    styles: [balfolk]
+    workshop: false
     social: true
-    bands:
-      - Ville & Tommie
-    price: £8-£16.96
+    price: free
     organisation: London Balfolk
 
   - name: Bal Étoile
