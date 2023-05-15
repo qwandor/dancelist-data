@@ -15318,7 +15318,7 @@ events:
   - name: Bal Étoile
     links:
       - "https://londonbalfolk.org.uk/"
-      - "https://www.facebook.com/events/3383054165280794"
+      - "https://www.facebook.com/events/3383054165280794/"
     start: "2023-05-10T19:30:00+01:00"
     end: "2023-05-10T22:30:00+01:00"
     country: UK
@@ -15333,6 +15333,7 @@ events:
   - name: Beginner Swedish dance workshop
     links:
       - "https://londonbalfolk.org.uk/classes/"
+      - "https://www.facebook.com/events/551884050445120/"
     start: "2023-05-16T19:00:00+01:00"
     end: "2023-05-16T20:30:00+01:00"
     country: UK
@@ -15341,36 +15342,6 @@ events:
       - scandi
     workshop: true
     social: false
-    organisation: London Balfolk
-    source: events/uk/london_balfolk.yaml
-  - name: Bal Étoile
-    links:
-      - "https://londonbalfolk.org.uk/"
-    start: "2023-05-31T19:30:00+01:00"
-    end: "2023-05-31T22:30:00+01:00"
-    country: UK
-    city: London
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: free
-    organisation: London Balfolk
-    source: events/uk/london_balfolk.yaml
-  - name: Album Launch Balfolk
-    links:
-      - "https://www.facebook.com/londonbalfolk/posts/pfbid0Y5CYXTyd2iMrZMaNtMKuuGg2GvykXWtQ47N9x4j8qmLq5yBHK9q7MFGQwskHHQUEl"
-      - "https://www.facebook.com/events/1284746832393615/"
-    start: "2023-05-29T19:30:00+01:00"
-    end: "2023-05-29T22:30:00+01:00"
-    country: UK
-    city: London
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Emily & The Simons
     organisation: London Balfolk
     source: events/uk/london_balfolk.yaml
   - name: Album Launch concert and bal
@@ -15390,6 +15361,36 @@ events:
     bands:
       - Ville & Tommie
     price: £8-£16.96
+    organisation: London Balfolk
+    source: events/uk/london_balfolk.yaml
+  - name: Album Launch Balfolk
+    links:
+      - "https://www.facebook.com/londonbalfolk/posts/pfbid0Y5CYXTyd2iMrZMaNtMKuuGg2GvykXWtQ47N9x4j8qmLq5yBHK9q7MFGQwskHHQUEl"
+      - "https://www.facebook.com/events/1284746832393615/"
+    start: "2023-05-29T19:30:00+01:00"
+    end: "2023-05-29T22:30:00+01:00"
+    country: UK
+    city: London
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Emily & The Simons
+    organisation: London Balfolk
+    source: events/uk/london_balfolk.yaml
+  - name: Bal Étoile
+    links:
+      - "https://londonbalfolk.org.uk/"
+    start: "2023-05-31T19:30:00+01:00"
+    end: "2023-05-31T22:30:00+01:00"
+    country: UK
+    city: London
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
     organisation: London Balfolk
     source: events/uk/london_balfolk.yaml
   - name: Bal Étoile
@@ -44011,8 +44012,16 @@ events:
     social: true
     bands:
       - "Bal O'Gadjo"
+      - LyraDanz
       - Flowk
+      - Ciac Boum
       - Man Encantada
+      - Parapente 700
+      - Sabor de Gràcia
+      - Accordzéâm
+      - Les Aoédées
+      - Verge de Sosa
+      - Es Jai de sa Barraqueta
     organisation: Festival Berguedà Folk
     source: events/spain/barcelona.yaml
   - name: Garrotxinàrius
