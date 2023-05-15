@@ -43909,8 +43909,8 @@ events:
     links:
       - "https://www.facebook.com/events/912509339862671/"
       - "https://dancukratuve.lv/kalendars"
-    start: "2023-05-16T19:00:00-02:00"
-    end: "2023-05-16T21:30:00-02:00"
+    start: "2023-05-16T19:00:00+03:00"
+    end: "2023-05-16T21:30:00+03:00"
     country: Latvia
     city: Riga
     styles:
@@ -43919,6 +43919,23 @@ events:
     social: true
     price: €5-€10
     organisation: BalTfolk
+    source: events/latvia/riga.yaml
+  - name: Dandaru danči
+    details: Dancing with live music by Dandari. Entrance fee=ticket to LU botanical garden
+    links:
+      - "https://www.facebook.com/photo/?fbid=588048459972748&set=a.424314699679459"
+    start: "2023-05-18T19:00:00+03:00"
+    end: "2023-05-18T21:00:00+03:00"
+    country: Latvia
+    city: Riga
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Dandari
+    price: €5-€10
+    organisation: Dandari
     source: events/latvia/riga.yaml
   - name: Berguedà Folk Festival
     links:
