@@ -24471,6 +24471,45 @@ events:
       - Banter
     organisation: Swanage Folk Festival
     source: events/uk/swanage.yaml
+  - name: Stegastomp
+    links:
+      - "https://www.contrasaurus.com/stegastomp.html"
+      - "https://www.facebook.com/events/715739530085807/"
+    start: "2023-06-30T19:00:00+01:00"
+    end: "2023-07-02T16:30:00+01:00"
+    country: UK
+    city: Harbury
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Contrasaurus
+    callers:
+      - Bob Morgan
+      - Rachel Shapiro-Wallace
+    price: £45-£90
+    organisation: Contrasaurus
+    source: events/uk/harbury.yaml
+  - name: "New Year's Eve Contra"
+    links:
+      - "https://docs.google.com/document/d/1djtlOrIPlPQMM2Tn7h1YTruQBreLzEN5Lb4eHT0khos/edit"
+      - "https://docs.google.com/forms/d/e/1FAIpQLScyzbumiFl0uOr1tDbf26tROn7PDGy3_hLdG-M8RVfVZg-xLw/viewform"
+    start: "2023-12-31T19:00:00+00:00"
+    end: "2024-01-01T00:15:00+00:00"
+    country: UK
+    city: Harbury
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Bearded Dragons
+    callers:
+      - Bob Morgan
+    price: £6-£24
+    organisation: Jen Morgan
+    source: events/uk/harbury.yaml
   - name: Broadstairs Folk Week
     links:
       - "https://broadstairsfolkweek.org.uk/"
@@ -25777,26 +25816,6 @@ events:
     price: free
     organisation: Clandestine Mazurka London
     source: events/uk/clandestine_mazurka_london.yaml
-  - name: Stegastomp
-    links:
-      - "https://www.contrasaurus.com/stegastomp.html"
-      - "https://www.facebook.com/events/715739530085807/"
-    start: "2023-06-30T19:00:00+01:00"
-    end: "2023-07-02T16:30:00+01:00"
-    country: UK
-    city: Harbury
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Contrasaurus
-    callers:
-      - Bob Morgan
-      - Rachel Shapiro-Wallace
-    price: £45-£90
-    organisation: Contrasaurus
-    source: events/uk/stegastomp.yaml
   - name: Birthday Balfolk
     links:
       - "https://balfolkstroud.uk/cps/gigs/naragoniaquartet-bbc06a.php"
