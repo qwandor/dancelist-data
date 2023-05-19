@@ -15428,6 +15428,22 @@ events:
     social: true
     price: free
     organisation: London Balfolk
+    cancelled: true
+    source: events/uk/london_balfolk.yaml
+  - name: Bal Étoile
+    links:
+      - "https://londonbalfolk.org.uk/"
+      - "https://www.facebook.com/events/3632181540343505/3632181560343503/"
+    start: "2023-06-28T19:30:00+01:00"
+    end: "2023-06-28T23:30:00+01:00"
+    country: UK
+    city: London
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: London Balfolk
     source: events/uk/london_balfolk.yaml
   - name: Bal Étoile
     links:
@@ -15479,6 +15495,22 @@ events:
       - "https://londonbalfolk.org.uk/"
     start: "2023-08-23T19:30:00+01:00"
     end: "2023-08-23T23:30:00+01:00"
+    country: UK
+    city: London
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: London Balfolk
+    cancelled: true
+    source: events/uk/london_balfolk.yaml
+  - name: Bal Étoile
+    links:
+      - "https://londonbalfolk.org.uk/"
+      - "https://www.facebook.com/events/3632181540343505/3632181550343504/"
+    start: "2023-08-30T19:30:00+01:00"
+    end: "2023-08-30T23:30:00+01:00"
     country: UK
     city: London
     styles:
@@ -37221,6 +37253,7 @@ events:
   - name: CaDansa
     links:
       - "https://www.cadansa.nl/"
+      - "https://www.facebook.com/events/6393983630660680/"
     start: "2023-10-26T18:00:00+02:00"
     end: "2023-10-29T19:00:00+02:00"
     country: Netherlands
@@ -37229,6 +37262,7 @@ events:
       - balfolk
     workshop: true
     social: true
+    price: €115-€135
     organisation: CaDansa
     source: events/netherlands/cadansa.yaml
   - name: Balfolk Café Nijmegen with Androneda
