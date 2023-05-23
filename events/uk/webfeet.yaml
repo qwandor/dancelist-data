@@ -1,63 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: The Barber Band in Poynton
-    links:
-      - "https://www.poyntonceilidh.co.uk/dates/"
-    start_date: 2023-02-25
-    end_date: 2023-02-25
-    country: UK
-    city: Poynton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - The Barber Band
-    callers:
-      - Sue Coe
-    organisation: Webfeet
-  - name: Sugar Loaf Band in Sedlescombe
-    links:
-      - "http://www.sugarloafband.co.uk/"
-    start_date: 2023-02-25
-    end_date: 2023-02-25
-    country: UK
-    city: Sedlescombe
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Sugar Loaf Band
-    organisation: Webfeet
-  - name: Catch the Pigeon in Thetford
-    links:
-      - "https://catchthepigeonuk.wordpress.com/news/"
-    start_date: 2023-02-25
-    end_date: 2023-02-25
-    country: UK
-    city: Thetford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Catch the Pigeon
-    organisation: Webfeet
-  - name: Melrose Quartet in Topsham
-    links:
-      - "https://melrosequartet.co.uk/gigs/"
-    start_date: 2023-02-26
-    end_date: 2023-02-26
-    country: UK
-    city: Topsham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Melrose Quartet
-    organisation: Webfeet
   - name: "Akmed's Camel in Boston"
     links:
       - "http://www.peterboroughfolkdiary.org.uk/index.php/march-2023/"
@@ -488,22 +430,6 @@ events:
     bands:
       - Shivelight
     organisation: Webfeet
-  - name: Vertical Expression in Sheffield
-    links:
-      - "http://www.verticalexpressioncontra.co.uk/"
-    start_date: 2023-05-07
-    end_date: 2023-05-07
-    country: UK
-    city: Sheffield
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Vertical Expression
-    callers:
-      - Cis Hinkle
-    organisation: Webfeet
   - name: Panjandrum in Baldock
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
@@ -628,9 +554,7 @@ events:
   - name: Out of Hand in Cardiff
     links:
       - "http://mister.red/dance/cardiff.htm#D.A1.20230520"
-      - "http://eceilidh.org.uk/cps/gigs/outofhand-aed57a.php"
       - "http://ruffceilidhs.org/coming/"
-      - "https://www.wherecanwego.com/item/e1483602/ruffceilidh-out-of-hand-with-alison-rowley"
     start_date: 2023-05-20
     end_date: 2023-05-20
     country: UK
@@ -648,7 +572,6 @@ events:
     organisation: Webfeet
   - name: "Mr Burton's Soup Club Band in Stourbridge"
     links:
-      - "http://eceilidh.org.uk/cps/gigs/mrburtonssoupclubband-60d382.php"
       - "http://mister.red/dance/stourbridge.htm#D.A0.20230520"
     start_date: 2023-05-20
     end_date: 2023-05-20
@@ -1057,6 +980,20 @@ events:
     bands:
       - sessionista
     organisation: Webfeet
+  - name: Xogara in Oxford
+    links:
+      - "https://www.facebook.com/events/199334652932682"
+    start_date: 2023-06-04
+    end_date: 2023-06-04
+    country: UK
+    city: Oxford
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Xogara
+    organisation: Webfeet
   - name: Perfect Cure in Bristol
     links:
       - "http://mister.red/dance/bristol.htm#D.AI.20230605"
@@ -1116,22 +1053,6 @@ events:
     social: true
     bands:
       - live music
-    organisation: Webfeet
-  - name: English Contra Dance Band in Englefield Green
-    links:
-      - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
-    start_date: 2023-06-11
-    end_date: 2023-06-11
-    country: UK
-    city: Englefield Green
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - English Contra Dance Band
-    callers:
-      - Charlie Turner
     organisation: Webfeet
   - name: live music in Bath
     links:
