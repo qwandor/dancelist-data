@@ -13486,6 +13486,7 @@ events:
   - name: Bal Crewkerne
     links:
       - "https://balcrew.wixsite.com/balcrewkerne"
+      - "https://www.facebook.com/events/3507749462803091/"
     start: "2023-06-18T18:00:00+01:00"
     end: "2023-06-18T21:30:00+01:00"
     country: UK
@@ -17217,21 +17218,6 @@ events:
       - Tatterdemalion
     organisation: Webfeet
     source: events/uk/webfeet.yaml
-  - name: Topette!! in Sheffield
-    links:
-      - "https://www.wegottickets.com/event/568574"
-    start_date: 2023-06-28
-    end_date: 2023-06-28
-    country: UK
-    city: Sheffield
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Topette!!
-    organisation: Webfeet
-    source: events/uk/webfeet.yaml
   - name: Perfect Cure in Bristol
     links:
       - "http://mister.red/dance/bristol.htm#D.AW.20230701"
@@ -17277,21 +17263,6 @@ events:
     social: true
     bands:
       - Banter
-    organisation: Webfeet
-    source: events/uk/webfeet.yaml
-  - name: Topette!! in Patcham
-    links:
-      - "https://www.wegottickets.com/event/568581"
-    start_date: 2023-07-02
-    end_date: 2023-07-02
-    country: UK
-    city: Patcham
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Topette!!
     organisation: Webfeet
     source: events/uk/webfeet.yaml
   - name: Perfect Cure in Bristol
@@ -18217,6 +18188,35 @@ events:
       - Ville & Tommie
     price: £6-£13.70
     organisation: Ville & Tommie
+    source: events/uk/sheffield_balfolk.yaml
+  - name: Sheffield Eurosession
+    links:
+      - "https://eurosession.org.uk/?p=4609"
+      - "https://www.facebook.com/events/113254595119567/"
+    start: "2023-06-08T20:00:00+01:00"
+    end: "2023-06-08T23:00:00+01:00"
+    country: UK
+    city: Sheffield
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: £5
+    organisation: Sheffield Eurosession
+    source: events/uk/sheffield_balfolk.yaml
+  - name: Sheffield Eurosession
+    links:
+      - "https://eurosession.org.uk/"
+    start: "2023-09-08T20:00:00+01:00"
+    end: "2023-09-08T23:00:00+01:00"
+    country: UK
+    city: Sheffield
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: £5
+    organisation: Sheffield Eurosession
     source: events/uk/sheffield_balfolk.yaml
   - name: Balfolk
     links:
