@@ -814,6 +814,21 @@ events:
     price: donation
     organisation: Balfolk Bonn e.V.
     source: events/germany/bonn.yaml
+  - name: Sunday Balfolk Workshop
+    details: Workshop mit begrenzter Teilnehmerzahl (max. 25 Personen)
+    links:
+      - "http://balfolk-bonn.de/balfolk/Workshopabende.html"
+    start: "2023-06-18T12:00:00+02:00"
+    end: "2023-06-18T16:30:00+02:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: donation
+    organisation: Balfolk Bonn e.V.
+    source: events/germany/bonn.yaml
   - name: Annabergfest 2023
     links:
       - "https://eveeno.com/annaberg23"
