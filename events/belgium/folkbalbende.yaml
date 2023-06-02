@@ -3092,10 +3092,10 @@ events:
   - name: Folkbal
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://comsibal.be/en/events/folkbal_2022_05_26/"
       - "https://folkbalbende.be/event/1021"
-    start_date: 2022-05-26
-    end_date: 2022-05-26
+    start: 2022-05-26T13:30:00+02:00
+    end: 2022-05-27T01:00:00+02:00
     country: Belgium
     city: Leuven
     styles:
@@ -3105,7 +3105,6 @@ events:
     bands:
       - Boréale
       - Rokkende Vrouwen
-      - Jam
     organisation: ComSiBal
   - name: Bal at the Pianofabriek
     details: Ball
@@ -4802,15 +4801,15 @@ events:
     social: false
     price: €60
     organisation: Folk In Limburg
-  - name: Folkbal - ComSiBal
+  - name: ComSiBal
     details: Ball
     links:
       - "https://comsibal.be/"
       - "https://www.facebook.com/Com-Si-Bal-289788381673578"
       - "https://folkbalbende.be/event/1163"
       - "https://www.facebook.com/events/470569481210543"
-    start: "2022-09-03T19:00:00+02:00"
-    end: "2022-09-03T22:00:00+02:00"
+    start: 2022-09-03T13:30:00+02:00
+    end: 2022-09-04T01:00:00+02:00
     country: Belgium
     city: Leuven
     styles:
@@ -5950,13 +5949,15 @@ events:
     workshop: false
     social: true
     organisation: ~
-  - name: Comsibal
+  - name: ComSiBal
     details: Ball
     links:
       - "https://comsibal.be/nl/events/folkbal_2022_11_12/"
       - "https://folkbalbende.be/event/1268"
-    start_date: 2022-11-12
-    end_date: 2022-11-12
+      - "https://www.facebook.com/events/5419356021514542/"
+      - "https://www.facebook.com/events/5560950750692725/"
+    start: 2022-11-12T14:30:00+01:00
+    end: 2022-11-13T01:00:00+01:00
     country: Belgium
     city: Leuven
     styles:
@@ -5966,6 +5967,7 @@ events:
     bands:
       - Viorel
       - Accords Perdus
+    price: €12-€42
     organisation: ComSiBal
   - name: Baleynbal
     details: Ball
@@ -8356,7 +8358,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Wouter En De Draak
+      - Wouter en de Draak
       - Snaarmaarwaar
     price: €14-€18
     organisation: CaBal
@@ -9617,8 +9619,8 @@ events:
     details: Ball
     links:
       - "https://folkbalbende.be/event/1738"
-    start_date: 2023-07-11
-    end_date: 2023-07-11
+    start: 2023-07-11T19:45:00+02:00
+    end: 2023-07-12T01:00:00+02:00
     country: Belgium
     city: Bassevelde
     styles:
@@ -9634,7 +9636,6 @@ events:
     details: Ball
     links:
       - "https://balhalla.be"
-      - "https://www.facebook.com/Balhallafolk"
       - "https://folkbalbende.be/event/1739"
       - "https://www.facebook.com/events/153524577524567"
     start: "2023-06-08T19:00:00+02:00"
@@ -9646,8 +9647,9 @@ events:
     workshop: true
     social: true
     bands:
-      - Wouter En De Draak
-    organisation: ~
+      - Wouter en de Draak
+    price: €10-€15
+    organisation: Balhalla
   - name: Dansavond
     details: Ball
     links:
@@ -9676,21 +9678,25 @@ events:
     workshop: false
     social: true
     bands:
-      - Salopet En Warmoes
+      - Salopet
+      - Warmoes
     organisation: ~
-  - name: ComSibal
+  - name: ComSiBal
     details: Ball
     links:
+      - "https://comsibal.be/en/events/folkbal_2023_07_07/"
+      - "https://www.facebook.com/events/1038472777036074/"
       - "https://folkbalbende.be/event/1743"
-    start: "2023-07-07T20:30:00+02:00"
-    end: "2023-07-07T22:00:00+02:00"
+    start: 2023-07-07T19:00:00+02:00
+    end: 2023-07-08T01:00:00+02:00
     country: Belgium
     city: Leuven
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Kaz Kan Zie
       - Plume
-    organisation: ~
+    price: €10-€20
+    organisation: ComSiBal
