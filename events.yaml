@@ -6031,9 +6031,23 @@ events:
     source: events/nz/dunedin.yaml
   - name: MiniBal at Toitū
     links:
-      - "https://www.facebook.com/groups/482775493309706/permalink/597967738457147"
+      - "https://www.facebook.com/groups/482775493309706/posts/640502584203662/"
     start: "2023-06-25T14:00:00+12:00"
     end: "2023-06-25T15:30:00+12:00"
+    country: New Zealand
+    city: Dunedin
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: Balfolk Aotearoa
+    source: events/nz/dunedin.yaml
+  - name: MiniBal at Toitū
+    links:
+      - "https://www.facebook.com/groups/482775493309706/posts/640502584203662/"
+    start: "2023-07-23T14:00:00+12:00"
+    end: "2023-07-23T15:30:00+12:00"
     country: New Zealand
     city: Dunedin
     styles:
@@ -6056,10 +6070,11 @@ events:
     social: true
     price: free
     organisation: Balfolk Aotearoa
+    cancelled: true
     source: events/nz/dunedin.yaml
   - name: MiniBal at Toitū
     links:
-      - "https://www.facebook.com/groups/482775493309706/permalink/597967738457147"
+      - "https://www.facebook.com/groups/482775493309706/posts/640502584203662/"
     start: "2023-08-27T14:00:00+12:00"
     end: "2023-08-27T15:30:00+12:00"
     country: New Zealand
@@ -6073,7 +6088,7 @@ events:
     source: events/nz/dunedin.yaml
   - name: MiniBal at Toitū
     links:
-      - "https://www.facebook.com/groups/482775493309706/permalink/597967738457147"
+      - "https://www.facebook.com/groups/482775493309706/posts/640502584203662/"
     start: "2023-09-24T14:00:00+13:00"
     end: "2023-09-24T15:30:00+13:00"
     country: New Zealand
@@ -6087,7 +6102,7 @@ events:
     source: events/nz/dunedin.yaml
   - name: MiniBal at Toitū
     links:
-      - "https://www.facebook.com/groups/482775493309706/permalink/597967738457147"
+      - "https://www.facebook.com/groups/482775493309706/posts/640502584203662/"
     start: "2023-10-29T14:00:00+13:00"
     end: "2023-10-29T15:30:00+13:00"
     country: New Zealand
@@ -6101,7 +6116,7 @@ events:
     source: events/nz/dunedin.yaml
   - name: MiniBal at Toitū
     links:
-      - "https://www.facebook.com/groups/482775493309706/permalink/597967738457147"
+      - "https://www.facebook.com/groups/482775493309706/posts/640502584203662/"
     start: "2023-11-26T14:00:00+13:00"
     end: "2023-11-26T15:30:00+13:00"
     country: New Zealand
@@ -19286,6 +19301,19 @@ events:
       - Emily & The Simons
     organisation: Emily & The Simons
     source: events/uk/sheffield_balfolk.yaml
+  - name: Strawberry Moon clandestine mazurka
+    links:
+      - "https://www.facebook.com/groups/eurosession/posts/6708550592509748/"
+    start: "2023-06-04T19:00:00+01:00"
+    end: "2023-06-04T22:00:00+01:00"
+    country: UK
+    city: Sheffield
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Sheffield Eurosession
+    source: events/uk/sheffield_balfolk.yaml
   - name: Album Launch concert and dance
     links:
       - "https://www.eventbrite.com/e/ville-tommie-album-launch-concert-dance-tickets-593550765317"
@@ -20149,6 +20177,78 @@ events:
       - Cis Hinkle
     price: £5-£15
     organisation: Vertical Expression
+    source: events/uk/sheffield_scratch_contra.yaml
+  - name: Anniversary Scratch Contra
+    links:
+      - "https://www.facebook.com/events/630159995652177/"
+    start: "2023-06-01T19:30:00+01:00"
+    end: "2023-06-01T22:00:00+01:00"
+    country: UK
+    city: Sheffield
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - "Joshua, Sol & Nicky"
+    price: £5
+    organisation: Sheffield Scratch Contra
+    source: events/uk/sheffield_scratch_contra.yaml
+  - name: Anniversary Scratch Contra
+    links:
+      - "https://www.facebook.com/events/630159995652177/"
+    start: "2023-06-01T19:30:00+01:00"
+    end: "2023-06-01T22:00:00+01:00"
+    country: UK
+    city: Sheffield
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: £5
+    organisation: Sheffield Scratch Contra
+    source: events/uk/sheffield_scratch_contra.yaml
+  - name: Sheffield Scratch Contra
+    links:
+      - "https://www.facebook.com/events/258376296773283/"
+    start: "2023-07-06T19:30:00+01:00"
+    end: "2023-07-06T22:00:00+01:00"
+    country: UK
+    city: Sheffield
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: £5
+    organisation: Sheffield Scratch Contra
+    source: events/uk/sheffield_scratch_contra.yaml
+  - name: Sheffield Scratch Contra
+    links:
+      - "https://www.facebook.com/events/919906745961405/"
+    start: "2023-08-03T19:30:00+01:00"
+    end: "2023-08-03T22:00:00+01:00"
+    country: UK
+    city: Sheffield
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: £5
+    organisation: Sheffield Scratch Contra
+    source: events/uk/sheffield_scratch_contra.yaml
+  - name: Sheffield Scratch Contra
+    links:
+      - "https://www.facebook.com/events/202636826020931/"
+    start: "2023-09-07T19:30:00+01:00"
+    end: "2023-09-07T22:00:00+01:00"
+    country: UK
+    city: Sheffield
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: £5
+    organisation: Sheffield Scratch Contra
     source: events/uk/sheffield_scratch_contra.yaml
   - name: Dansez Français
     links:
@@ -35269,6 +35369,20 @@ events:
       - "https://www.facebook.com/events/1392874774805089/"
     start: "2023-04-22T14:00:00+01:00"
     end: "2023-04-22T17:00:00+01:00"
+    country: UK
+    city: Cambridge
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: £2-£4
+    organisation: Cam-French
+    source: events/uk/camfrench.yaml
+  - name: French Music and Dance session
+    links:
+      - "https://www.facebook.com/events/1503324360406699/"
+    start: "2023-06-11T14:00:00+01:00"
+    end: "2023-06-11T17:00:00+01:00"
     country: UK
     city: Cambridge
     styles:
