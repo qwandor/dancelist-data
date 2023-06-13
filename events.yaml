@@ -32291,6 +32291,24 @@ events:
     price: £5
     organisation: Solent Contra Dances
     source: events/uk/solent_contra.yaml
+  - name: Special Solent Contra Dance
+    links:
+      - "https://www.facebook.com/events/797794665092715/"
+    start: "2023-09-28T20:00:00+00:00"
+    end: "2023-09-28T22:30:00+00:00"
+    country: UK
+    city: Winchester
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - English Contra Dance Band
+    callers:
+      - Barrie Bullimore
+    price: £10
+    organisation: Solent Contra Dances
+    source: events/uk/solent_contra.yaml
   - name: Concert-Bal
     links:
       - "https://www.facebook.com/events/371221568400139/"
@@ -36976,6 +36994,21 @@ events:
       - Anna Breger
     price: €10-€14
     organisation: FolkTanz Wien
+    source: events/austria/vienna.yaml
+  - name: Organic Dancefloor
+    links:
+      - "https://fraumayer.at/event/haertel-wascher-duo-and-friends-organic-dancefloor/"
+    start: "2023-06-14T22:00:00+02:00"
+    end: "2023-06-14T23:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Simon Wascher & Hermann Haertel
+    organisation: Frau Mayer
     source: events/austria/vienna.yaml
   - name: "Hof 3-Folk, Geburtstagsedition"
     links:
