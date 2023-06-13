@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Test
+    links:
+      - "http://q/"
+    start_date: 0003-02-01
+    end_date: 0003-02-01
+    country: ABC
+    city: t
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: ~
