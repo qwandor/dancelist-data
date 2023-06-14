@@ -173,8 +173,8 @@ events:
   - name: Annabergfest 2023
     links:
       - "https://eveeno.com/annaberg23"
-    start: 2023-11-03T15:00:00+02:00
-    end: 2023-11-05T16:00:00+02:00
+    start: 2023-11-03T15:00:00+01:00
+    end: 2023-11-05T16:00:00+01:00
     country: Germany
     city: Bonn
     styles: [balfolk]
@@ -195,8 +195,8 @@ events:
     details: 
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: "2024-01-06T19:00:00+02:00"
-    end: "2024-01-06T22:00:00+02:00"
+    start: "2024-01-06T19:00:00+01:00"
+    end: "2024-01-06T22:00:00+01:00"
     country: Germany
     city: Bonn
     styles:
@@ -210,8 +210,8 @@ events:
     details: 
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: "2024-02-03T19:00:00+02:00"
-    end: "2024-02-03T22:00:00+02:00"
+    start: "2024-02-03T19:00:00+01:00"
+    end: "2024-02-03T22:00:00+01:00"
     country: Germany
     city: Bonn
     styles:
@@ -225,8 +225,8 @@ events:
     details: 
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: "2024-03-02T19:00:00+02:00"
-    end: "2024-03-02T22:00:00+02:00"
+    start: "2024-03-02T19:00:00+01:00"
+    end: "2024-03-02T22:00:00+01:00"
     country: Germany
     city: Bonn
     styles:
@@ -296,36 +296,6 @@ events:
     price: donation
     organisation: Balfolk Bonn e.V.
 
-  - name: Balfolk
-    details: 
-    links:
-      - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: "2024-11-02T19:00:00+02:00"
-    end: "2024-11-02T22:00:00+02:00"
-    country: Germany
-    city: Bonn
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: donation
-    organisation: Balfolk Bonn e.V.
-
-  - name: Balfolk
-    details: 
-    links:
-      - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: "2024-12-07T19:00:00+02:00"
-    end: "2024-12-07T22:00:00+02:00"
-    country: Germany
-    city: Bonn
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: donation
-    organisation: Balfolk Bonn e.V.
-
   - name: Annabergfest 2024
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
@@ -337,4 +307,34 @@ events:
     workshop: true
     social: true
     price: ~€200
+    organisation: Balfolk Bonn e.V.
+
+  - name: Balfolk
+    details: 
+    links:
+      - "http://balfolk-bonn.de/balfolk/Aktuell.html"
+    start: "2024-11-02T19:00:00+01:00"
+    end: "2024-11-02T22:00:00+01:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: donation
+    organisation: Balfolk Bonn e.V.
+
+  - name: Balfolk
+    details: 
+    links:
+      - "http://balfolk-bonn.de/balfolk/Aktuell.html"
+    start: "2024-12-07T19:00:00+01:00"
+    end: "2024-12-07T22:00:00+01:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: donation
     organisation: Balfolk Bonn e.V.
