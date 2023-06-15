@@ -4676,7 +4676,7 @@ events:
     social: true
     organisation: ~
     source: events/belgium/folkbalbende.yaml
-  - name: ComSibal
+  - name: ComSiBal
     details: Ball
     links:
       - "https://comsibal.be/en/events/folkworkshop_2022_03_05/"
@@ -9224,7 +9224,7 @@ events:
       - Boreas
     organisation: 100%Folkoren
     source: events/belgium/folkbalbende.yaml
-  - name: Halloween ComSibal
+  - name: Halloween ComSiBal
     details: Ball
     links:
       - "https://comsibal.be/en/events/folkbal_2022_10_30/"
@@ -9586,7 +9586,7 @@ events:
       - Arasta Bazaar
     organisation: "Muziekclub 't Ey"
     source: events/belgium/folkbalbende.yaml
-  - name: "ComSibal \"Discover Night\""
+  - name: "ComSiBal \"Discover Night\""
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
@@ -10251,7 +10251,6 @@ events:
     social: true
     bands:
       - Air Bac
-      - Podium Libre
     organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Bal De La Cabane
@@ -10602,23 +10601,26 @@ events:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "http://www.wefolk.be"
       - "https://folkbalbende.be/event/1386"
-    start_date: 2023-06-16
-    end_date: 2023-06-16
+    start: "2023-06-16T20:00:00+02:00"
+    end: "2023-06-16T23:30:00+02:00"
     country: Belgium
     city: Marche-en-Famenne
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Komvovlo
     organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Folkbal
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://www.centreculturelwanze.be/fr/folk_a_donf.html"
       - "https://folkbalbende.be/event/1387"
     start: "2023-06-17T20:30:00+02:00"
-    end: "2023-06-17T20:45:00+02:00"
+    end: "2023-06-17T23:00:00+02:00"
     country: Belgium
     city: Antheit
     styles:
@@ -10626,11 +10628,11 @@ events:
     workshop: true
     social: true
     bands:
-      - Pierre
-      - Marinette
+      - Folk à Donf
+    price: donation
     organisation: ~
     source: events/belgium/folkbalbende.yaml
-  - name: Bal De La Cabane Du Bout Du Monde
+  - name: Bal De La Cabane
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
@@ -10670,7 +10672,7 @@ events:
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "http://oliviercap.be"
+      - "https://booking.myrezapp.com/fr/online/booking/step1/15001/62627/IRE"
       - "https://folkbalbende.be/event/1390"
     start_date: 2023-06-25
     end_date: 2023-06-25
@@ -10734,7 +10736,7 @@ events:
       - Bouton
     organisation: ~
     source: events/belgium/folkbalbende.yaml
-  - name: Bal De La Cabane Du Bout Du Monde
+  - name: Bal De La Cabane
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
@@ -10767,7 +10769,7 @@ events:
     social: true
     organisation: Folknam Musique Trad
     source: events/belgium/folkbalbende.yaml
-  - name: Bal De La Cabane Du Bout Du Monde
+  - name: Bal De La Cabane
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
@@ -10784,7 +10786,7 @@ events:
       - Eä
     organisation: ~
     source: events/belgium/folkbalbende.yaml
-  - name: Bal De La Cabane Du Bout Du Monde
+  - name: Bal De La Cabane
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
@@ -10969,7 +10971,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo De Schepper-Souvandjiev
+      - Duo De Schepper-Sanczuk
     price: €10-€15
     organisation: Balhalla
     source: events/belgium/folkbalbende.yaml
@@ -12704,24 +12706,6 @@ events:
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "http://www.rzf.be"
-      - "https://folkbalbende.be/event/1645"
-    start: "2023-11-11T20:15:00+01:00"
-    end: "2023-11-11T20:45:00+01:00"
-    country: Belgium
-    city: Alleur
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Hidrae
-    organisation: ~
-    source: events/belgium/folkbalbende.yaml
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "http://www.rzf.be"
       - "https://folkbalbende.be/event/1646"
     start: "2023-12-08T20:15:00+01:00"
     end: "2023-12-08T20:45:00+01:00"
@@ -12945,24 +12929,6 @@ events:
       - Broes
     price: €14-€18
     organisation: CaBal
-    source: events/belgium/folkbalbende.yaml
-  - name: Folkbal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://warmoesmusic.be/"
-      - "https://folkbalbende.be/event/1693"
-    start_date: 2023-06-28
-    end_date: 2023-06-28
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Warmoes
-    organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: ComSiBal
     details: Ball
@@ -13422,6 +13388,7 @@ events:
     links:
       - "http://www.lebaldeslibellules.be/en/events/folkbal_2023_06_10/"
       - "https://folkbalbende.be/event/1737"
+      - "https://folkbalbende.be/event/1753"
       - "https://www.facebook.com/events/568078258763540/"
     start: "2023-06-10T15:00:00+02:00"
     end: "2023-06-11T01:15:00+02:00"
@@ -13432,7 +13399,7 @@ events:
     workshop: true
     social: true
     bands:
-      - "Duo l'Hêtre Heureux"
+      - Duo GrandLoup
       - AurieL duo
     price: €12-€42
     organisation: Le Bal Des Libellules
@@ -13494,6 +13461,7 @@ events:
     details: Ball
     links:
       - "https://folkbalbende.be/event/1742"
+      - "https://warmoesmusic.be/kalender"
     start: "2023-06-28T20:00:00+02:00"
     end: "2023-06-28T22:00:00+02:00"
     country: Belgium
@@ -13526,6 +13494,582 @@ events:
       - Plume
     price: €10-€20
     organisation: ComSiBal
+    source: events/belgium/folkbalbende.yaml
+  - name: "Bal for 'Cycling For Trees'"
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1750"
+    start: "2023-10-07T20:00:00+02:00"
+    end: "2023-10-08T01:00:00+02:00"
+    country: Belgium
+    city: Gand
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.amwdmortsel.be/folk-concert-bal/"
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://folkbalbende.be/event/1754"
+    start: "2023-06-10T19:00:00+02:00"
+    end: "2023-06-10T23:00:00+02:00"
+    country: Belgium
+    city: Mortsel
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - "Eleves De L'Academie De Mortsel"
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/1755"
+    start: "2023-06-17T18:30:00+02:00"
+    end: "2023-06-17T23:00:00+02:00"
+    country: Belgium
+    city: Ittre
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Raffaele Antoniotti Duo
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/bruselako/"
+      - "https://folkbalbende.be/event/1756"
+    start: "2023-06-17T20:30:00+02:00"
+    end: "2023-06-17T23:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Noiranomis
+      - Jérémie Congraga
+    price: €20
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://www.facebook.com/events/951210376226812/"
+      - "https://folkbalbende.be/event/1757"
+    start: "2023-06-18T15:00:00+02:00"
+    end: "2023-06-18T19:00:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://pasdlayau.be/"
+      - "https://folkbalbende.be/event/1758"
+    start: "2023-07-23T10:00:00+02:00"
+    end: "2023-07-23T17:00:00+02:00"
+    country: Belgium
+    city: Hollain
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - E Saquant Beyaus
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://www.facebook.com/events/1101635977302172/"
+      - "https://folkbalbende.be/event/1759"
+    start: "2023-08-13T18:00:00+02:00"
+    end: "2023-08-13T21:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €2
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Stage Gooik folk bals
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://stagegooik.be/folkonstage/"
+      - "https://folkbalbende.be/event/1761"
+      - "https://folkbalbende.be/event/1762"
+      - "https://folkbalbende.be/event/1763"
+    start: "2023-08-19T20:00:00+02:00"
+    end: "2023-08-24T23:00:00+02:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Flor de Zinc
+      - Phlox
+      - Duo Clercx
+      - Aghoea
+      - Warmoes
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://www.rzf.be/en_US/event/bal-folk-avec-hidrae-2023-11-18-57/register"
+      - "https://folkbalbende.be/event/1765"
+    start: "2023-11-18T20:15:00+01:00"
+    end: "2023-11-18T23:00:00+01:00"
+    country: Belgium
+    city: Alleur
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Hidrae
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: "Ol Da FolkDONDER IN 'T HOOI"
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.oldafolk.be/"
+      - "https://folkbalbende.be/event/1766"
+    start_date: 2023-11-19
+    end_date: 2023-11-19
+    country: Belgium
+    city: Bruges
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Bal au Cinex
+    details: Ball
+    links:
+      - "https://www.folknammusiquetrad.be/event/bal-au-cinex-15/"
+      - "https://folkbalbende.be/event/1767"
+    start: "2023-12-17T20:00:00+01:00"
+    end: "2023-12-17T23:59:00+01:00"
+    country: Belgium
+    city: Namur
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folknam Musique Trad
+    source: events/belgium/folkbalbende.yaml
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://folkbalbende.be/event/1768"
+    start: "2023-07-08T19:30:00+02:00"
+    end: "2023-07-09T00:00:00+02:00"
+    country: Belgium
+    city: Bever
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Wim Claeys
+      - Guus & Friends
+    organisation: Boombal
+    source: events/belgium/folkbalbende.yaml
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://folkbalbende.be/event/1769"
+    start: "2023-10-10T20:00:00+02:00"
+    end: "2023-10-10T23:00:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Boombal
+    source: events/belgium/folkbalbende.yaml
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://folkbalbende.be/event/1770"
+    start: "2023-11-10T20:00:00+01:00"
+    end: "2023-11-10T23:00:00+01:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Boombal
+    source: events/belgium/folkbalbende.yaml
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://folkbalbende.be/event/1771"
+    start: "2023-12-26T20:00:00+01:00"
+    end: "2023-12-26T23:00:00+01:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Boombal
+    source: events/belgium/folkbalbende.yaml
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://folkbalbende.be/event/1772"
+    start: "2023-12-31T20:00:00+01:00"
+    end: "2023-12-31T23:00:00+01:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Boombal
+    source: events/belgium/folkbalbende.yaml
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://folkbalbende.be/event/1773"
+    start: "2024-02-24T20:00:00+01:00"
+    end: "2024-02-24T23:00:00+01:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Boombal
+    source: events/belgium/folkbalbende.yaml
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://folkbalbende.be/event/1774"
+    start: "2024-03-19T20:00:00+01:00"
+    end: "2024-03-19T23:00:00+01:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Boombal
+    source: events/belgium/folkbalbende.yaml
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://folkbalbende.be/event/1775"
+    start: "2024-04-19T20:00:00+02:00"
+    end: "2024-04-19T23:00:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Boombal
+    source: events/belgium/folkbalbende.yaml
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://folkbalbende.be/event/1776"
+    start: "2024-05-31T20:00:00+02:00"
+    end: "2024-05-31T23:00:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Boombal
+    source: events/belgium/folkbalbende.yaml
+  - name: Mazurka Clandestina
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/events/953180125923757/"
+      - "https://folkbalbende.be/event/1777"
+    start: "2023-06-11T14:00:00+02:00"
+    end: "2023-06-11T17:00:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://tey.be/programma/2023/07/05/hartwin-dhoore-trio"
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/events/9310595539012538/"
+      - "https://folkbalbende.be/event/1784"
+    start: "2023-07-05T19:30:00+02:00"
+    end: "2023-07-05T23:00:00+02:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Hartwin Dhoore Trio
+    organisation: "Muziekclub 't Ey"
+    source: events/belgium/folkbalbende.yaml
+  - name: Mazurka Clandestina
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/events/207299115372938/"
+      - "https://folkbalbende.be/event/1786"
+    start: "2023-07-09T14:00:00+02:00"
+    end: "2023-07-09T18:00:00+02:00"
+    country: Belgium
+    city: Sleidinge
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Danses Folkloriques Internationales
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/groups/1428721270718861"
+      - "https://folkbalbende.be/event/1787"
+    start_date: 2023-07-14
+    end_date: 2023-07-14
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Danses Folkloriques Internationales
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/groups/1428721270718861"
+      - "https://folkbalbende.be/event/1788"
+    start_date: 2023-07-21
+    end_date: 2023-07-21
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Danses Folkloriques Internationales
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/groups/1428721270718861"
+      - "https://folkbalbende.be/event/1789"
+    start_date: 2023-07-28
+    end_date: 2023-07-28
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://tey.be/programma/2023/08/02/variomatic"
+      - "https://folkbalbende.be/event/1790"
+    start: "2023-08-02T19:30:00+02:00"
+    end: "2023-08-02T23:00:00+02:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Variomatic
+    organisation: "Muziekclub 't Ey"
+    source: events/belgium/folkbalbende.yaml
+  - name: Danses Folkloriques Internationales
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/groups/1428721270718861"
+      - "https://folkbalbende.be/event/1791"
+    start_date: 2023-08-04
+    end_date: 2023-08-04
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://tey.be/programma/2023/08/10/warmoes-geronimo"
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://folkbalbende.be/event/1792"
+    start: "2023-08-10T19:30:00+02:00"
+    end: "2023-08-10T23:00:00+02:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Warmoes
+      - Geronimo
+    organisation: "Muziekclub 't Ey"
+    source: events/belgium/folkbalbende.yaml
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://tey.be/programma/2023/08/17/trio14-naragonia-quartet"
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://folkbalbende.be/event/1794"
+    start: "2023-08-16T19:30:00+02:00"
+    end: "2023-08-16T23:00:00+02:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Trio14
+      - Naragonia Quartet
+    organisation: "Muziekclub 't Ey"
+    source: events/belgium/folkbalbende.yaml
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://tey.be/programma/2023/08/24/wim-claeys-tom-theuns-la-cuivraille"
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://folkbalbende.be/event/1796"
+    start: "2023-08-24T18:00:00+02:00"
+    end: "2023-08-24T23:00:00+02:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Wim Claeys & Tom Theuns
+      - La Cuivraille
+    organisation: "Muziekclub 't Ey"
+    source: events/belgium/folkbalbende.yaml
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://tey.be/programma/2023/08/31/fyndus-le-mange-bal"
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://folkbalbende.be/event/1801"
+    start: "2023-08-31T18:00:00+02:00"
+    end: "2023-08-31T23:00:00+02:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Fyndus
+      - Le Mange Bal
+    organisation: "Muziekclub 't Ey"
+    source: events/belgium/folkbalbende.yaml
+  - name: COLLECTIF SAJEPI (France)
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://pasdlayau.be/"
+      - "https://folkbalbende.be/event/1803"
+    start_date: 2023-09-16
+    end_date: 2023-09-16
+    country: Belgium
+    city: Quevaucamps
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.maxifolk.be/"
+      - "https://folkbalbende.be/event/1804"
+    start: "2023-09-23T16:30:00+02:00"
+    end: "2023-09-23T19:30:00+02:00"
+    country: Belgium
+    city: Roeselare
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Witloof
+      - Sons Of Sirius
+    organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Folk Festival Leuven - ComSiBal
     details: The 2nd edition of the Folk Festival Leuven.
