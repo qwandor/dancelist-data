@@ -1,21 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "Banter in Chandler's Ford"
-    links:
-      - "http://www.shocc.co.uk/"
-    start_date: 2023-03-18
-    end_date: 2023-03-18
-    country: UK
-    city: "Chandler's Ford"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    callers:
-      - Barry Goodman
-    organisation: Webfeet
   - name: Kraken Ceilidh Band in Poynton
     links:
       - "https://www.poyntonceilidh.co.uk/dates/"
@@ -43,6 +27,22 @@ events:
     social: true
     bands:
       - Confluence
+    organisation: Webfeet
+  - name: own music in Pucklechurch
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AB.20230407"
+    start_date: 2023-04-07
+    end_date: 2023-04-07
+    country: UK
+    city: Pucklechurch
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - own music
+    callers:
+      - Mic Spenceley
     organisation: Webfeet
   - name: Stringrays in Englefield Green
     links:
@@ -136,22 +136,6 @@ events:
     bands:
       - Arish Mel
     organisation: Webfeet
-  - name: "Hekety in Chandler's Ford"
-    links:
-      - "http://www.shocc.co.uk/"
-    start_date: 2023-04-15
-    end_date: 2023-04-15
-    country: UK
-    city: "Chandler's Ford"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Hekety
-    callers:
-      - Emma Wooders
-    organisation: Webfeet
   - name: Albireo in Newark
     links:
       - "https://www.albireo.co.uk/gigs/"
@@ -210,20 +194,6 @@ events:
     bands:
       - Famous Potatoes
     organisation: Webfeet
-  - name: Kantref in Patcham
-    links:
-      - "https://www.facebook.com/events/779674010223917"
-    start_date: 2023-04-29
-    end_date: 2023-04-29
-    country: UK
-    city: Patcham
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Kantref
-    organisation: Webfeet
   - name: Higgledy Piggledy in Lincoln
     links:
       - "http://www.peterboroughfolkdiary.org.uk/index.php/may-2023/"
@@ -240,19 +210,21 @@ events:
     callers:
       - Tom Lane
     organisation: Webfeet
-  - name: Shivelight in Stroud
+  - name: Dampiers in Sytchampton
     links:
-      - "https://www.facebook.com/events/1232588570950121"
-    start_date: 2023-05-06
-    end_date: 2023-05-06
+      - "http://mister.red/dance/worcester.htm#D.AF.20230507"
+    start_date: 2023-05-07
+    end_date: 2023-05-07
     country: UK
-    city: Stroud
+    city: Sytchampton
     styles:
-      - balfolk
+      - contra
     workshop: false
     social: true
     bands:
-      - Shivelight
+      - Dampiers
+    callers:
+      - Jane and Mark Hunter
     organisation: Webfeet
   - name: Panjandrum in Baldock
     links:
@@ -435,20 +407,6 @@ events:
     callers:
       - Cate Haynes
     organisation: Webfeet
-  - name: Emily & The Simons in Camden
-    links:
-      - "https://www.facebook.com/events/1284746832393615"
-    start_date: 2023-05-29
-    end_date: 2023-05-29
-    country: UK
-    city: Camden
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Emily & The Simons
-    organisation: Webfeet
   - name: Stradivarious in Chippenham
     links:
       - "https://www.chippfolk.co.uk/WhatsOnWhen"
@@ -495,20 +453,6 @@ events:
     bands:
       - Catsfield Steamers
     organisation: Webfeet
-  - name: Confluence in Ringwood
-    links:
-      - "https://www.facebook.com/events/1301491240444243"
-    start_date: 2023-06-03
-    end_date: 2023-06-03
-    country: UK
-    city: Ringwood
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Confluence
-    organisation: Webfeet
   - name: Xogara in Oxford
     links:
       - "https://www.facebook.com/events/199334652932682"
@@ -522,22 +466,6 @@ events:
     social: true
     bands:
       - Xogara
-    organisation: Webfeet
-  - name: own music in Pucklechurch
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AB.20230606"
-    start_date: 2023-06-06
-    end_date: 2023-06-06
-    country: UK
-    city: Pucklechurch
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - own music
-    callers:
-      - Pat Hicks
     organisation: Webfeet
   - name: Melrose Quartet in Hexham
     links:
@@ -566,52 +494,6 @@ events:
     social: true
     bands:
       - Xim
-    organisation: Webfeet
-  - name: Dampiers in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20230607"
-    start_date: 2023-06-07
-    end_date: 2023-06-07
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Dampiers
-    callers:
-      - Kim Smith
-    organisation: Webfeet
-  - name: Mitchell and Vincent in Chard
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2023-06-09
-    end_date: 2023-06-09
-    country: UK
-    city: Chard
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Mitchell and Vincent
-    callers:
-      - Olive Mitchell
-    organisation: Webfeet
-  - name: live music in Exeter
-    links:
-      - "http://mister.red/dance/exeter.htm#D.AN.20230610"
-    start_date: 2023-06-10
-    end_date: 2023-06-10
-    country: UK
-    city: Exeter
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - live music
     organisation: Webfeet
   - name: live music in Bath
     links:
@@ -658,6 +540,22 @@ events:
       - Dampiers
     callers:
       - Trevor Monson
+    organisation: Webfeet
+  - name: Beat Street in Witcombe
+    links:
+      - "http://mister.red/dance/gloucester.htm#D.VB.20230614"
+    start_date: 2023-06-14
+    end_date: 2023-06-14
+    country: UK
+    city: Witcombe
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Beat Street
+    callers:
+      - Ellie and Karen
     organisation: Webfeet
   - name: Flying Cat in Bristol
     details: "[To Be Confirmed]"
@@ -721,7 +619,7 @@ events:
     organisation: Webfeet
   - name: "Join the dots in Join the Dots Ceilidhs, Monkland"
     links:
-      - "http://mister.red/dance/monkland.htm#D.AX.20230617"
+      - "http://mister.red/dance/monkland.htm#D.AW.20230617"
     start_date: 2023-06-17
     end_date: 2023-06-17
     country: UK
@@ -779,7 +677,7 @@ events:
     organisation: Webfeet
   - name: Join the dots in Ludlow
     links:
-      - "http://mister.red/dance/ludlow.htm#D.AY.20230621"
+      - "http://mister.red/dance/ludlow.htm#D.AX.20230621"
     start_date: 2023-06-21
     end_date: 2023-06-21
     country: UK
@@ -1000,6 +898,22 @@ events:
     callers:
       - Roger Middleton
     organisation: Webfeet
+  - name: Bees Knees in Witcombe
+    links:
+      - "http://mister.red/dance/gloucester.htm#D.VC.20230628"
+    start_date: 2023-06-28
+    end_date: 2023-06-28
+    country: UK
+    city: Witcombe
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Bees Knees
+    callers:
+      - Ellie and Keith
+    organisation: Webfeet
   - name: Melrose Quartet in London
     links:
       - "https://melrosequartet.co.uk/gigs/"
@@ -1100,38 +1014,6 @@ events:
     bands:
       - Perfect Cure
     organisation: Webfeet
-  - name: own music in Pucklechurch
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AB.20230704"
-    start_date: 2023-07-04
-    end_date: 2023-07-04
-    country: UK
-    city: Pucklechurch
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - own music
-    callers:
-      - Mic Spenceley
-    organisation: Webfeet
-  - name: Dampiers in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20230705"
-    start_date: 2023-07-05
-    end_date: 2023-07-05
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Dampiers
-    callers:
-      - Jane and Mark Hunter
-    organisation: Webfeet
   - name: Hexham Village Band in Hexham
     links:
       - "https://www.wherecanwego.com/item/e1487860/ceilidh-with-the-hexham-village-band"
@@ -1164,6 +1046,7 @@ events:
     organisation: Webfeet
   - name: Blackbeards Tea Party in Ely
     links:
+      - "https://www.bandsintown.com/e/104113783-blackbeard&#x27;s-tea-party-at-stuntney-estate"
       - "http://www.blackbeardsteaparty.com/gigs/"
     start_date: 2023-07-08
     end_date: 2023-07-08
@@ -1174,6 +1057,7 @@ events:
     workshop: false
     social: true
     bands:
+      - "Blackbeard's Tea Party"
       - Blackbeards Tea Party
     organisation: Webfeet
   - name: live music in Exeter
@@ -1189,20 +1073,6 @@ events:
     social: true
     bands:
       - live music
-    organisation: Webfeet
-  - name: "Blackbeard's Tea Party in Rugby"
-    links:
-      - "https://www.bandsintown.com/e/104113783-blackbeard&#x27;s-tea-party-at-ely-tigers-rugby-club"
-    start_date: 2023-07-08
-    end_date: 2023-07-08
-    country: UK
-    city: Rugby
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
     organisation: Webfeet
   - name: Banter in Ely
     links:
@@ -1278,19 +1148,21 @@ events:
     bands:
       - Blackbeards Tea Party
     organisation: Webfeet
-  - name: Banjacs in Sytchampton
+  - name: "Sargent's Mess in Witcombe"
     links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20230712"
+      - "http://mister.red/dance/gloucester.htm#D.VD.20230712"
     start_date: 2023-07-12
     end_date: 2023-07-12
     country: UK
-    city: Sytchampton
+    city: Witcombe
     styles:
-      - contra
+      - e-ceilidh
     workshop: false
     social: true
     bands:
-      - Banjacs
+      - "Sargent's Mess"
+    callers:
+      - Steve Rowley
     organisation: Webfeet
   - name: Black Sheep in Wimborne Minster
     links:
@@ -1420,22 +1292,6 @@ events:
     bands:
       - Banter
     organisation: Webfeet
-  - name: Brian Graham in Pucklechurch
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AB.20230801"
-    start_date: 2023-08-01
-    end_date: 2023-08-01
-    country: UK
-    city: Pucklechurch
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Brian Graham
-    callers:
-      - Alan Holder
-    organisation: Webfeet
   - name: "Blackbeard's Tea Party in Doncaster"
     links:
       - "https://www.bandsintown.com/e/104021385-blackbeard&#x27;s-tea-party-at-wroot-rocks-gig-in-a-field"
@@ -1520,6 +1376,20 @@ events:
     bands:
       - Portland Drive
     organisation: Webfeet
+  - name: live music in Exeter
+    links:
+      - "http://mister.red/dance/exeter.htm#D.AN.20230812"
+    start_date: 2023-08-12
+    end_date: 2023-08-12
+    country: UK
+    city: Exeter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - live music
+    organisation: Webfeet
   - name: Whapweasel in Durham
     links:
       - "http://www.whapweasel.com/events/"
@@ -1561,6 +1431,23 @@ events:
     social: true
     bands:
       - Banter
+    organisation: Webfeet
+  - name: Out of Hand in Grove
+    links:
+      - "https://www.wherecanwego.com/item/e250722/white-horse-festival-ceilidh-barn-dance"
+      - "https://www.areyoudancing.com/dance-event/663365/"
+    start_date: 2023-08-19
+    end_date: 2023-08-19
+    country: UK
+    city: Grove
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Out of Hand
+    callers:
+      - Erin Mansfield
     organisation: Webfeet
   - name: Oxford Nags in Whitby
     links:
@@ -1873,6 +1760,8 @@ events:
     social: true
     bands:
       - Peeping Tom
+    callers:
+      - Fee Lock
     organisation: Webfeet
   - name: "Granny's Attic in Kennington"
     links:
@@ -2043,6 +1932,22 @@ events:
     social: true
     bands:
       - Threepenny Bit
+    callers:
+      - Phil Bassindale
+    organisation: Webfeet
+  - name: Banjacs in Sytchampton
+    links:
+      - "http://mister.red/dance/worcester.htm#D.AF.20231207"
+    start_date: 2023-12-07
+    end_date: 2023-12-07
+    country: UK
+    city: Sytchampton
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Banjacs
     organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
@@ -2071,6 +1976,20 @@ events:
     social: true
     bands:
       - Beatroot
+    organisation: Webfeet
+  - name: Striding Edge in Ambleside
+    links:
+      - "http://www.striding-edge.org/diary/"
+    start_date: 2023-12-09
+    end_date: 2023-12-09
+    country: UK
+    city: Ambleside
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Striding Edge
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
@@ -2214,6 +2133,8 @@ events:
     social: true
     bands:
       - Trinculo
+    callers:
+      - Sheena Masson
     organisation: Webfeet
   - name: Jigfoot in Cardiff
     links:
@@ -2261,6 +2182,8 @@ events:
     social: true
     bands:
       - DanceCupola
+    callers:
+      - Nick Walden
     organisation: Webfeet
   - name: Hodmedod in Norwich
     links:
