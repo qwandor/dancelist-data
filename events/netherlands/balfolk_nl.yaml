@@ -1,17 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: KeiBal (met Noiranomis en Wouter Kuyper)
-    links:
-      - "https://www.balfolk.nl/agenda/keibal-2/"
-    start: "2023-06-18T14:00:00+02:00"
-    end: "2023-06-18T18:00:00+02:00"
-    country: Netherlands
-    city: Amersfoort
-    styles:
-      - balfolk
-    workshop: false
-    social: false
-    organisation: balfolk.nl
   - name: Trekzak 4-daagse
     details: "Workshop 4-daagse in Zwolle. Met muziek van Stefane Delicq, Marc Perone en Ricardo Tesi. Er zijn nog enkele plekken beschikbaar. Mail of bel met Annet van der Kamp voor meer informatie info@artkamp.nl (038) 454 75 94"
     links:
@@ -207,8 +195,8 @@ events:
     workshop: true
     social: false
     organisation: balfolk.nl
-  - name: Seizoenssluiting Sociallessen in Rotterdam
-    details: "De seizoenssluiting van de sociallessen in Rotterdam, in tangoschool Cuartito Azul. De exacte programmering wordt later nog bekend gemaakt. Het is in ieder geval een sessiebal, met eerst een live-band die komt spelen, gevolgd door de mogelijkheid om sessie te spelen, dus nodig gerust muzikantenvrienden uit en vergeet niet je muziekinstrument mee te nemen als je zelf speelt. Reserveringen mag alvast natuurlijk!"
+  - name: Seizoenssluiting Sociallessen met Duo Baftig én Open Podium voor muzikanten
+    details: "Het balfolkseizoen in Zuid-Holland wordt afgesloten met een zomers sessiebal op zaterdag 8 juli. Deze keer met een nieuw concept, een bal gecombineerd met een open podium: pak jouw eigen 15 minutes of fame! Voor en na het optreden van de band deze avond is het podium voor andere muzikanten. Speel jouw (balfolk)muziek voor de dansers en andere muzikanten op de dansvloer en pak je eigen 15 minutes of fame.\n\nDus ben jij muzikant? Wil je graag jouw muziek aan anderen laten horen, wil je oefenen met spelen voor (dansend) publiek of wil je misschien wel eens samenspelen met een andere muzikant? Het kan allemaal!\n\nAanmelden is handig, dan kan er een planning worden gemaakt. Dat kun je hier doen: https://forms.gle/CYpijVRznPW3J2V66\n\nBal\nBehalve het open podium, komt er ook nog een band live voor ons spelen, namelijk Duo Baftig! Dit duo bestaat uit Manon op viool en Robin op gitaar. Dit duo, met een gedeelde passie voor balfolk en folk muziek speelt meer dan dansbare tunes, een verrassende mix tussen Ierse en Scandinavische melodieën, maar ook eigen composities.\n\nDansuitleg\nVoorafgaand wordt er nog een algemene dansuitleg gegeven voor degenen die nieuw zijn in de balfolk of hun danspasjes nog wat willen oefenen. Na afloop van het bal en de optredens van de andere muzikanten, is er ook nog ruimte voor sessie.\n\nHet volledige programma ziet er als volgt uit:\n17.00 - 18.00: Picknick\n18.00 - 19.00: Dansuitleg\n19.00 - 20.00: 15 minutes of fame (deel 1)\n20.00 - 21.30: Bal met Baftig\n21.30 - 22.30: 15 minutes of fame (deel 2)\n22.30 - 23.00: Sessie/afronding\n\nHet bal is in Rotterdam, in tangoschool Cuartito Azul aan de Schoterbosstraat 17. Toegang kost 10 euro. Bij Cuartito Azul kun je bier, fris en wijn tegen schappelijke prijzen verkrijgen, water is gratis verkrijgbaar.\n\nPicknick\nIedereen die mee wil eten met de picknick, neemt iets lekkers mee voor zichzelf en één of twee anderen. Al het eten dat meegenomen is, wordt op één tafel geplaatst, zodat iedereen wat lekkers kan opscheppen. De ervaring leert dat er meestal ruim voldoende is voor iedereen op die manier.\n\nVragen\nHeb je vragen, tips of opmerkingen? Neem contact op via balfolkzuidholland@gmail.com"
     links:
       - "https://www.balfolk.nl/agenda/seizoenssluiting-sociallessen-in-rotterdam/"
     start_date: 2023-07-08
@@ -217,7 +205,7 @@ events:
     city: Rotterdam
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: false
     organisation: balfolk.nl
   - name: Dansavond
