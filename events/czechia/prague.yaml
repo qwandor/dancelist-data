@@ -324,6 +324,21 @@ events:
     social: true
     organisation: Balfolk.cz
 
+  - name: Lo Silenci de la Flor
+    links:
+      - "https://www.facebook.com/events/800725477850944/"
+    start: 2022-11-04T19:00:00+01:00
+    end: 2022-11-04T22:00:00+01:00
+    country: Czechia
+    city: Prague
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Lo Silenci de la Flor
+    price: donation
+    organisation: Balfolk.cz
+
   - name: Balfolk at Liberál
     links:
       - "https://www.facebook.com/events/1152006732052713/1152006792052707/"
@@ -658,34 +673,6 @@ events:
     price: 100 CZK
     organisation: Balfolk.cz
 
-  - name: Lo Silenci de la Flor
-    links:
-      - "https://www.facebook.com/events/800725477850944/"
-    start: 2022-11-04T19:00:00+01:00
-    end: 2022-11-04T22:00:00+01:00
-    country: Czechia
-    city: Prague
-    styles: [balfolk]
-    workshop: false
-    social: true
-    bands:
-      - Lo Silenci de la Flor
-    price: donation
-    organisation: Balfolk.cz
-
-  - name: Prague Balfolk Weekend
-    links:
-      - "https://www.facebook.com/events/1188449558502691/"
-    start: "2024-01-19T18:00:00+01:00"
-    end: "2024-01-21T18:00:00+01:00"
-    country: Czechia
-    city: Prague
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    organisation: Balfolk.cz
-
   - name: Mazurka Klandestina
     links:
       - "https://www.facebook.com/events/6398638590227655/"
@@ -699,3 +686,16 @@ events:
     social: true
     price: free
     organisation: Gianmarco Armellin
+
+  - name: Prague Balfolk Weekend
+    links:
+      - "https://www.facebook.com/events/1188449558502691/"
+    start: "2024-01-19T18:00:00+01:00"
+    end: "2024-01-21T18:00:00+01:00"
+    country: Czechia
+    city: Prague
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Balfolk.cz
