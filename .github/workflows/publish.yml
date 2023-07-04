@@ -30,7 +30,7 @@ jobs:
       - name: Concatenate
         run: dancelist cat events/ > release/events.yaml
       - name: Publish
-        uses: s0/git-publish-subdir-action@v2.5.1
+        uses: s0/git-publish-subdir-action@v2.6.0
         env:
           REPO: self
           BRANCH: release
