@@ -673,46 +673,6 @@ events:
     price: 100 CZK
     organisation: Balfolk.cz
 
-  - name: Balfolk na Střelečáku
-    links:
-      - "https://www.facebook.com/events/912000729897505/"
-    start: 2023-07-03T19:00:00+02:00
-    end: 2023-07-03T20:30:00+02:00
-    country: Czechia
-    city: Prague
-    styles: [balfolk]
-    workshop: true
-    social: true
-    price: free
-    organisation: Balfolk.cz
-
-  - name: Mazurka Klandestina
-    links:
-      - "https://www.facebook.com/events/6398638590227655/"
-    start: "2023-08-12T21:30:00+02:00"
-    end: "2023-08-13T05:47:00+02:00"
-    country: Czechia
-    city: Prague
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: free
-    organisation: Gianmarco Armellin
-
-  - name: Prague Balfolk Weekend
-    links:
-      - "https://www.facebook.com/events/1188449558502691/"
-    start: "2024-01-19T18:00:00+01:00"
-    end: "2024-01-21T18:00:00+01:00"
-    country: Czechia
-    city: Prague
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    organisation: Balfolk.cz
-
   - name: Balfolk at Vyšehrad
     links:
       - "https://www.facebook.com/events/1308726996384442/1308727063051102/"
@@ -804,6 +764,19 @@ events:
     price: 100 CZK
     organisation: Balfolk.cz
 
+  - name: Balfolk na Střelečáku
+    links:
+      - "https://www.facebook.com/events/912000729897505/"
+    start: 2023-07-03T19:00:00+02:00
+    end: 2023-07-03T20:30:00+02:00
+    country: Czechia
+    city: Prague
+    styles: [balfolk]
+    workshop: true
+    social: true
+    price: free
+    organisation: Balfolk.cz
+
   - name: Balfolk at Vyšehrad
     links:
       - "https://www.facebook.com/events/1308726996384442/1308727046384437"
@@ -881,6 +854,20 @@ events:
     social: true
     price: 100 CZK
     organisation: Balfolk.cz
+
+  - name: Mazurka Klandestina
+    links:
+      - "https://www.facebook.com/events/6398638590227655/"
+    start: "2023-08-12T21:30:00+02:00"
+    end: "2023-08-13T05:47:00+02:00"
+    country: Czechia
+    city: Prague
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: Gianmarco Armellin
 
   - name: Balfolk at Vyšehrad
     links:
@@ -971,4 +958,17 @@ events:
     workshop: true
     social: true
     price: 100 CZK
+    organisation: Balfolk.cz
+
+  - name: Prague Balfolk Weekend
+    links:
+      - "https://www.facebook.com/events/1188449558502691/"
+    start: "2024-01-19T18:00:00+01:00"
+    end: "2024-01-21T18:00:00+01:00"
+    country: Czechia
+    city: Prague
+    styles:
+      - balfolk
+    workshop: true
+    social: true
     organisation: Balfolk.cz
