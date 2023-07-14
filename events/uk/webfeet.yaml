@@ -1,65 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: The Geckoes in Kennington
-    links:
-      - "http://www.oxfolk.org.uk/"
-    start_date: 2023-04-14
-    end_date: 2023-04-14
-    country: UK
-    city: Kennington
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - The Geckoes
-    callers:
-      - Sheena Masson
-    organisation: Webfeet
-  - name: Arish Mel in Kimmeridge
-    links:
-      - "http://www.earwicker.org/about_arish_mel.htm"
-    start_date: 2023-04-14
-    end_date: 2023-04-14
-    country: UK
-    city: Kimmeridge
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Arish Mel
-    organisation: Webfeet
-  - name: The Geckoes in Oxford
-    links:
-      - "http://www.geckoes.co.uk/"
-    start_date: 2023-04-14
-    end_date: 2023-04-14
-    country: UK
-    city: Oxford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - The Geckoes
-    callers:
-      - Sheena Masson
-    organisation: Webfeet
-  - name: Arish Mel in Piddletrenthide
-    links:
-      - "http://www.earwicker.org/about_arish_mel.htm"
-    start_date: 2023-04-14
-    end_date: 2023-04-14
-    country: UK
-    city: Piddletrenthide
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Arish Mel
-    organisation: Webfeet
   - name: Albireo in Newark
     links:
       - "https://www.albireo.co.uk/gigs/"
@@ -459,38 +399,6 @@ events:
       - Balfolk
       - Kerry Fletcher
     organisation: Webfeet
-  - name: Jigfoot in Southampton
-    links:
-      - "https://www.jigfoot.com/google-calendar/"
-    start_date: 2023-07-03
-    end_date: 2023-07-03
-    country: UK
-    city: Southampton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Jigfoot
-    callers:
-      - Polly Dare
-    organisation: Webfeet
-  - name: Hexham Village Band in Hexham
-    links:
-      - "https://www.wherecanwego.com/item/e1487860/ceilidh-with-the-hexham-village-band"
-    start_date: 2023-07-07
-    end_date: 2023-07-07
-    country: UK
-    city: Hexham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Hexham Village Band
-    callers:
-      - Joey Oliver
-    organisation: Webfeet
   - name: Famous Potatoes in Benfleet
     links:
       - "http://famouspotatoes.co.uk/events/public-barn-dance-charity-fundraiser/"
@@ -505,22 +413,6 @@ events:
     bands:
       - Famous Potatoes
     organisation: Webfeet
-  - name: Blackbeards Tea Party in Ely
-    links:
-      - "https://www.bandsintown.com/e/104113783-blackbeard&#x27;s-tea-party-at-stuntney-estate"
-      - "http://www.blackbeardsteaparty.com/gigs/"
-    start_date: 2023-07-08
-    end_date: 2023-07-08
-    country: UK
-    city: Ely
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-      - Blackbeards Tea Party
-    organisation: Webfeet
   - name: live music in Exeter
     links:
       - "http://mister.red/dance/exeter.htm#D.AN.20230708"
@@ -534,20 +426,6 @@ events:
     social: true
     bands:
       - live music
-    organisation: Webfeet
-  - name: Banter in Ely
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2023-07-09
-    end_date: 2023-07-09
-    country: UK
-    city: Ely
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
     organisation: Webfeet
   - name: English Contra Dance Band in Englefield Green
     links:
@@ -565,22 +443,6 @@ events:
     callers:
       - Barrie Bullimore
     organisation: Webfeet
-  - name: Blackbeards Tea Party in Harrogate
-    links:
-      - "https://www.bandsintown.com/e/104254413-blackbeard&#x27;s-tea-party-at-great-yorkshire-show"
-      - "http://www.blackbeardsteaparty.com/gigs/"
-    start_date: 2023-07-11
-    end_date: 2023-07-11
-    country: UK
-    city: Harrogate
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-      - Blackbeards Tea Party
-    organisation: Webfeet
   - name: live music in Bath
     links:
       - "http://mister.red/dance/bath.htm#D.AO.20230712"
@@ -594,20 +456,6 @@ events:
     social: true
     bands:
       - live music
-    organisation: Webfeet
-  - name: Blackbeards Tea Party in Harrogate
-    links:
-      - "http://www.blackbeardsteaparty.com/gigs/"
-    start_date: 2023-07-12
-    end_date: 2023-07-12
-    country: UK
-    city: Harrogate
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Blackbeards Tea Party
     organisation: Webfeet
   - name: "Sargent's Mess in Witcombe"
     links:
@@ -698,6 +546,20 @@ events:
       - own music
     callers:
       - Mic Spenceley
+    organisation: Webfeet
+  - name: Oggle Band in Great Torrington
+    links:
+      - "http://devonfolk.org/events-diary/"
+    start_date: 2023-07-21
+    end_date: 2023-07-21
+    country: UK
+    city: Great Torrington
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Oggle Band
     organisation: Webfeet
   - name: live music in Bath
     links:
@@ -1113,6 +975,22 @@ events:
     social: true
     bands:
       - Bees Knees
+    organisation: Webfeet
+  - name: The Geckoes in Baldock
+    links:
+      - "http://www.geckoes.co.uk/"
+    start_date: 2023-09-08
+    end_date: 2023-09-08
+    country: UK
+    city: Baldock
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Geckoes
+    callers:
+      - Barry Goodman
     organisation: Webfeet
   - name: The Geckoes in Whitchurch
     links:
@@ -1533,6 +1411,7 @@ events:
     organisation: Webfeet
   - name: Blackbeards Tea Party in Manchester
     links:
+      - "https://www.bandsintown.com/e/104254415-blackbeard&#x27;s-tea-party-at-soup"
       - "http://www.blackbeardsteaparty.com/gigs/"
     start_date: 2023-10-21
     end_date: 2023-10-21
@@ -1543,6 +1422,7 @@ events:
     workshop: false
     social: true
     bands:
+      - "Blackbeard's Tea Party"
       - Blackbeards Tea Party
     organisation: Webfeet
   - name: Arish Mel in Corfe Castle
@@ -2073,6 +1953,20 @@ events:
       - Bosun Higgs
     callers:
       - Hilary Evans
+    organisation: Webfeet
+  - name: "Blackbeard's Tea Party in Chester"
+    links:
+      - "https://www.bandsintown.com/e/1029140483-blackbeard&#x27;s-tea-party-at-alexander&#x27;s-live"
+    start_date: 2024-12-01
+    end_date: 2024-12-01
+    country: UK
+    city: Chester
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
     organisation: Webfeet
   - name: Portland Duo in St. Ippolyts
     links:
