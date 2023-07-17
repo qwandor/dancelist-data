@@ -1,35 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Albireo in Newark
-    links:
-      - "https://www.albireo.co.uk/gigs/"
-    start_date: 2023-04-22
-    end_date: 2023-04-22
-    country: UK
-    city: Newark
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Albireo
-    organisation: Webfeet
-  - name: The Ironmasters in Poynton
-    links:
-      - "https://www.poyntonceilidh.co.uk/dates/"
-    start_date: 2023-04-22
-    end_date: 2023-04-22
-    country: UK
-    city: Poynton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - The Ironmasters
-    callers:
-      - Baz Parkes
-    organisation: Webfeet
   - name: Famous Potatoes in Southend on Sea
     links:
       - "http://famouspotatoes.co.uk/events/potatoes-at-ceilidh-club/"
@@ -472,20 +442,6 @@ events:
       - "Sargent's Mess"
     callers:
       - Steve Rowley
-    organisation: Webfeet
-  - name: Black Sheep in Wimborne Minster
-    links:
-      - "https://www.eventbrite.com/e/the-black-sheep-ceilidh-band-stapehill-sessions-l-live-music-events-tickets-634865699397"
-    start_date: 2023-07-14
-    end_date: 2023-07-14
-    country: UK
-    city: Wimborne Minster
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Black Sheep
     organisation: Webfeet
   - name: Mojah in Stroud
     links:
@@ -1686,6 +1642,24 @@ events:
     callers:
       - Caller Nick Walden
       - Nick Walden
+    organisation: Webfeet
+  - name: Molecatchers in Stroud
+    links:
+      - "https://balfolkstroud.uk/cps/gigs/molecatchers-8dfa88.php"
+      - "http://eceilidh.org.uk/cps/gigs/molecatchers-960605.php"
+    start_date: 2023-12-09
+    end_date: 2023-12-09
+    country: UK
+    city: Stroud
+    styles:
+      - balfolk
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Molecatchers
+    callers:
+      - Vicky Cooper
     organisation: Webfeet
   - name: "Melrose Quintet in Chandler's Ford"
     links:
