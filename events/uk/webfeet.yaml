@@ -1,19 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Famous Potatoes in Bradwell on Sea
-    links:
-      - "http://famouspotatoes.co.uk/events/essex-green-weekend/"
-    start_date: 2023-04-29
-    end_date: 2023-04-29
-    country: UK
-    city: Bradwell on Sea
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Famous Potatoes
-    organisation: Webfeet
   - name: Higgledy Piggledy in Lincoln
     links:
       - "http://www.peterboroughfolkdiary.org.uk/index.php/may-2023/"
@@ -489,20 +475,6 @@ events:
     callers:
       - Mic Spenceley
     organisation: Webfeet
-  - name: Oggle Band in Great Torrington
-    links:
-      - "http://devonfolk.org/events-diary/"
-    start_date: 2023-07-21
-    end_date: 2023-07-21
-    country: UK
-    city: Great Torrington
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Oggle Band
-    organisation: Webfeet
   - name: live music in Bath
     links:
       - "http://mister.red/dance/bath.htm#D.AO.20230726"
@@ -659,7 +631,23 @@ events:
     bands:
       - live music
     organisation: Webfeet
-  - name: Portland Drive in Broadstairs
+  - name: "Jigfoot in Anchor Gardens, Sidmouth"
+    links:
+      - "https://www.jigfoot.com/google-calendar/"
+    start_date: 2023-08-10
+    end_date: 2023-08-10
+    country: UK
+    city: "Anchor Gardens, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Jigfoot
+    callers:
+      - Gordon Potts
+    organisation: Webfeet
+  - name: Portland Duo in Broadstairs
     links:
       - "http://portland-drive.co.uk/events/"
     start_date: 2023-08-12
@@ -668,10 +656,14 @@ events:
     city: Broadstairs
     styles:
       - contra
+      - e-ceilidh
     workshop: false
     social: true
     bands:
       - Portland Drive
+      - Portland Duo
+    callers:
+      - Mic Spenceley
     organisation: Webfeet
   - name: live music in Exeter
     links:
@@ -1930,20 +1922,6 @@ events:
       - Bosun Higgs
     callers:
       - Hilary Evans
-    organisation: Webfeet
-  - name: "Blackbeard's Tea Party in Chester"
-    links:
-      - "https://www.bandsintown.com/e/1029140483-blackbeard&#x27;s-tea-party-at-alexander&#x27;s-live"
-    start_date: 2024-12-01
-    end_date: 2024-12-01
-    country: UK
-    city: Chester
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
     organisation: Webfeet
   - name: Portland Duo in St. Ippolyts
     links:
