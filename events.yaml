@@ -7693,6 +7693,27 @@ events:
     price: $465-$750
     organisation: Lady of the Lake
     source: events/usa/lady_of_the_lake.yaml
+  - name: Fall Dance and Music Weekend
+    links:
+      - "https://ladyofthelake.org/fallwend"
+    start_date: 2023-10-06
+    end_date: 2023-10-08
+    country: USA
+    state: ID
+    city: Harrison
+    styles:
+      - contra
+      - scandi
+    workshop: true
+    social: true
+    bands:
+      - Engine Room
+      - Laurie Andres
+    callers:
+      - George Marshall
+    price: $195-$350
+    organisation: Lady of the Lake
+    source: events/usa/lady_of_the_lake.yaml
   - name: Flurry Festival
     links:
       - "https://www.flurryfestival.org/"
@@ -35030,7 +35051,7 @@ events:
     social: true
     bands:
       - Skolvan
-      - Dave Shepherd & Simon Gielen
+      - Duo Shepherd-Gielen
       - BOF!
     price: £70
     organisation: Hadleigh Folk
@@ -41885,6 +41906,54 @@ events:
     workshop: true
     social: true
     price: £5
+    organisation: On y va
+    source: events/uk/saxmundham.yaml
+  - name: Bi-monthly bal
+    links:
+      - "https://www.facebook.com/events/999892204772963/"
+    start: "2023-09-02T20:00:00+01:00"
+    end: "2023-09-02T23:00:00+01:00"
+    country: UK
+    city: Saxmundham
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Shepherd-Gielen
+    price: £10
+    organisation: On y va
+    source: events/uk/saxmundham.yaml
+  - name: Bi-monthly bal
+    links:
+      - "https://www.facebook.com/events/1404527856773274/"
+    start: "2023-11-04T20:00:00+00:00"
+    end: "2023-11-04T23:00:00+00:00"
+    country: UK
+    city: Saxmundham
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Oscina
+    price: £10
+    organisation: On y va
+    source: events/uk/saxmundham.yaml
+  - name: Bi-monthly bal
+    links:
+      - "https://www.facebook.com/events/1994652477572273/"
+    start: "2024-01-06T20:00:00+00:00"
+    end: "2024-01-06T23:00:00+00:00"
+    country: UK
+    city: Saxmundham
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - BOF!
+    price: £10
     organisation: On y va
     source: events/uk/saxmundham.yaml
   - name: Towersey Festival
