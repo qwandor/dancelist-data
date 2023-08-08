@@ -28310,23 +28310,25 @@ events:
     source: events/usa/massachusetts.yaml
   - name: Cascade Contras on the River
     links:
+      - "https://eugenefolklore.org/cascade-contras/"
       - "https://www.facebook.com/groups/cascadecontras/posts/10160208421618964/"
       - "https://www.facebook.com/groups/cascadecontras/permalink/10160107273273964"
-    start_date: 2023-09-29
-    end_date: 2023-10-01
+    start: "2023-09-29T18:00:00-07:00"
+    end: "2023-10-01T16:00:00-07:00"
     country: USA
     state: OR
     city: Springfield
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     bands:
       - The Dam Beavers
-      - Force for Nature
+      - Bozzy MaCoo
     callers:
       - Michael Karcher
       - Susan Petrick
+    price: $120-$170
     organisation: Eugene Folklore Society
     source: events/usa/springfield.yaml
   - name: Winter CDH
