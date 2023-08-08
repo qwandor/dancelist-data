@@ -737,17 +737,18 @@ events:
     source: events/uk/sheffield_balfolk.yaml
   - name: Balfolk
     links:
-      - "https://www.facebook.com/groups/eurosession/posts/6533363130028496/"
-    start_date: 2023-09-21
-    end_date: 2023-09-21
+      - "https://www.facebook.com/events/239217608719277/"
+    start: "2023-09-21T19:00:00+01:00"
+    end: "2023-09-21T22:00:00+01:00"
     country: UK
     city: Sheffield
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Naragonia Quartet
+    price: £10-£15
     organisation: Sheffield Eurosession
     source: events/uk/sheffield_balfolk.yaml
   - name: "d'Accord"
