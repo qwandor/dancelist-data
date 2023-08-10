@@ -48244,6 +48244,55 @@ events:
     price: €88-€192
     organisation: ComSiBal
     source: events/belgium/comsibal.yaml
+  - name: ComSiBal
+    links:
+      - "https://comsibal.be/en/"
+    start: "2023-11-11T18:00:00+01:00"
+    end: "2023-11-12T01:00:00+01:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - CaraƆ
+      - DDSS
+    organisation: ComSiBal
+    source: events/belgium/comsibal.yaml
+  - name: ComSiBal
+    links:
+      - "https://comsibal.be/en/"
+    start_date: 2023-12-23
+    end_date: 2023-12-23
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Snaarmaarwaar
+      - Aérokorda
+    organisation: ComSiBal
+    source: events/belgium/comsibal.yaml
+  - name: ComSiBal
+    links:
+      - "https://comsibal.be/en/"
+    start_date: 2024-02-14
+    end_date: 2024-02-14
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Nebel
+      - Wouter en de Draak
+      - Wim te Groen
+    organisation: ComSiBal
+    source: events/belgium/comsibal.yaml
   - name: Paradiso Folkbal Intiem
     links:
       - "https://www.facebook.com/events/6176771295679599/"
@@ -49419,7 +49468,7 @@ events:
     workshop: true
     social: true
     bands:
-      - CaraC
+      - CaraƆ
       - La Sylva
       - "Bal de l'Aube"
       - "L'air Inconnu"
@@ -49521,7 +49570,7 @@ events:
     workshop: true
     social: true
     bands:
-      - CaraƆ Trio
+      - CaraƆ
       - Filippo Gambetta
     organisation: Bal Folk Lenzburg
     source: events/switzerland/lenzburg.yaml
