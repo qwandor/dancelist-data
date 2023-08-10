@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Workshop and Balfolk
+    links:
+      - "https://www.facebook.com/events/143271662088310/"
+      - "https://www.facebook.com/events/280056837800575/"
+    start: "2023-08-12T15:00:00+02:00"
+    end: "2023-08-13T00:00:00+02:00"
+    country: Italy
+    city: San Damiano Macra
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - TriOblique
+    price: free
+    organisation: ~
