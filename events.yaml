@@ -35199,8 +35199,8 @@ events:
     source: events/germany/tanzhaus.yaml
   - name: Balfolk
     links:
+      - "https://tanzvolk-leipzig.de/14-09-2023-hartwin-dhoore-be/"
       - "https://tanzhausfolk.de/14-09-2023-hartwin-dhoore-be/"
-      - "http://www.tanzvolk-leipzig.de/category/kommende-veranstaltungen/"
     start: "2023-09-14T19:00:00+02:00"
     end: "2023-09-14T22:00:00+02:00"
     country: Germany
@@ -35216,9 +35216,25 @@ events:
     source: events/germany/tanzhaus.yaml
   - name: Balfolk
     links:
-      - "http://www.tanzvolk-leipzig.de/category/kommende-veranstaltungen/"
-    start: "2023-10-21T19:00:00+02:00"
-    end: "2023-10-21T22:00:00+02:00"
+      - "https://tanzvolk-leipzig.de/17-09-2023-emily-the-simons-uk-be/"
+    start: "2023-09-17T19:00:00+02:00"
+    end: "2023-09-17T22:00:00+02:00"
+    country: Germany
+    city: Leipzig
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Emily & The Simons
+    price: €6-€15
+    organisation: TanzhausFolk
+    source: events/germany/tanzhaus.yaml
+  - name: Balfolk
+    links:
+      - "https://tanzvolk-leipzig.de/20-10-2023-paracetamol-nl/"
+    start: "2023-10-20T19:00:00+02:00"
+    end: "2023-10-20T22:00:00+02:00"
     country: Germany
     city: Leipzig
     styles:
@@ -35232,8 +35248,24 @@ events:
     source: events/germany/tanzhaus.yaml
   - name: Balfolk
     links:
+      - "https://tanzvolk-leipzig.de/29-10-2023-parasol-fr/"
+    start: "2023-10-29T19:00:00+01:00"
+    end: "2023-10-29T22:00:00+01:00"
+    country: Germany
+    city: Leipzig
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Parasol
+    price: €6-€15
+    organisation: TanzhausFolk
+    source: events/germany/tanzhaus.yaml
+  - name: Balfolk
+    links:
+      - "https://tanzvolk-leipzig.de/18-11-2023-drehwurm-de/"
       - "https://tanzhausfolk.de/18-11-2023-drehwurm-de/"
-      - "http://www.tanzvolk-leipzig.de/category/kommende-veranstaltungen/"
     start: "2023-11-18T19:00:00+01:00"
     end: "2023-11-18T22:00:00+01:00"
     country: Germany
@@ -35262,6 +35294,7 @@ events:
       - KV Express
     price: €6-€15
     organisation: TanzhausFolk
+    cancelled: true
     source: events/germany/tanzhaus.yaml
   - name: Silvester*Folk Festival
     links:
@@ -35274,6 +35307,35 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Airboxes
+      - Noiranomis
+      - Mathæus Bech Quintet
+      - Nubia
+      - Emily & The Simons
+      - Familie Gerstenberg
+      - Duo FA
+      - Plume
+      - Marion & Steve
+      - Wouter en de Draak
+      - La Sylva
+      - GrandLoup
+    organisation: TanzhausFolk
+    source: events/germany/tanzhaus.yaml
+  - name: Balfolk
+    links:
+      - "https://tanzvolk-leipzig.de/13-1-2024-trio-loubelya-fr/"
+    start: "2024-01-13T19:00:00+01:00"
+    end: "2024-01-13T22:00:00+01:00"
+    country: Germany
+    city: Leipzig
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Trio Loubelya
+    price: €6-€15
     organisation: TanzhausFolk
     source: events/germany/tanzhaus.yaml
   - name: Bal Folk Night
