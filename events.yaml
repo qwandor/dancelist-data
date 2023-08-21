@@ -15971,134 +15971,6 @@ events:
     social: false
     organisation: Duo Eva
     source: events/france/boussac.yaml
-  - name: "Le Bal Électrique #8"
-    links:
-      - "https://www.facebook.com/events/6057706821014031/"
-      - "https://shotgun.live/events/bal-electrique-8-le-mange-bal-turfu-duo-balcon"
-    start: "2023-05-20T18:30:00+02:00"
-    end: "2023-05-21T00:30:00+02:00"
-    country: France
-    city: Paris
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Duo du Balcon
-      - Le Mange Bal
-      - Turfu
-    price: €9-€12
-    organisation: "Le Point Fort d'Aubervilliers"
-    source: events/france/paris.yaml
-  - name: Bal folk Boeuf
-    links:
-      - "https://www.facebook.com/events/1358970708281867/"
-    start: "2023-04-05T20:00:00+02:00"
-    end: "2023-04-05T23:00:00+02:00"
-    country: France
-    city: Paris
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Patrick Rivière
-    source: events/france/paris.yaml
-  - name: Bal Folk à la Maison Magis
-    links:
-      - "https://www.facebook.com/events/239309535148382/239309541815048/"
-    start: "2023-04-14T19:30:00+02:00"
-    end: "2023-04-14T23:00:00+02:00"
-    country: France
-    city: Paris
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: donation
-    organisation: Maison MAGIS
-    source: events/france/paris.yaml
-  - name: Bal folk
-    links:
-      - "https://www.facebook.com/events/551777563458583/"
-    start: "2023-04-22T19:00:00+02:00"
-    end: "2023-04-22T22:00:00+02:00"
-    country: France
-    city: Paris
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Patrick Rivière
-      - Terre de Rivières
-    price: donation
-    organisation: Patrick Rivière
-    source: events/france/paris.yaml
-  - name: Bal Folk à la Maison Magis
-    links:
-      - "https://www.facebook.com/events/239309535148382/239309548481714/"
-    start: "2023-05-26T19:30:00+02:00"
-    end: "2023-05-26T23:00:00+02:00"
-    country: France
-    city: Paris
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: donation
-    organisation: Maison MAGIS
-    source: events/france/paris.yaml
-  - name: Bal Folk à la Maison Magis
-    links:
-      - "https://www.facebook.com/events/239309535148382/239309545148381/"
-    start: "2023-06-23T19:30:00+02:00"
-    end: "2023-06-23T23:00:00+02:00"
-    country: France
-    city: Paris
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: donation
-    organisation: Maison MAGIS
-    source: events/france/paris.yaml
-  - name: Teknibal
-    links:
-      - "https://lekilowatt.placeminute.com/event/concert/teknibal,40701.html?_locale=en"
-      - "https://www.facebook.com/events/6341624425901059/"
-    start: "2023-07-14T18:00:00+02:00"
-    end: "2023-07-15T05:30:00+02:00"
-    country: France
-    city: Paris
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Ciac Boum
-      - Cocanha
-      - Turfu
-      - Zlabya
-      - Vénus Club
-    price: €16-€25
-    organisation: Teknibal
-    source: events/france/paris.yaml
-  - name: Grand Bal
-    links:
-      - "https://www.facebook.com/events/554608113364661/"
-    start: "2024-03-10T16:00:00+01:00"
-    end: "2024-03-10T19:00:00+01:00"
-    country: France
-    city: Paris
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Cocanha
-    price: €5
-    organisation: Espace Culturel André Malraux
-    source: events/france/paris.yaml
   - name: Bal folk and workshop
     links:
       - "https://www.helloasso.com/associations/louvfolk/evenements/stage-danses-de-couples-et-bal-folk-bargainatt-remi-geffroy-we-13-et-14-mai-a-vions-73"
@@ -16384,6 +16256,33 @@ events:
     price: €10
     organisation: Paris Bal Folk
     source: events/france/paris_balfolk.yaml
+  - name: Bal folk Boeuf
+    links:
+      - "https://www.facebook.com/events/1358970708281867/"
+    start: "2023-04-05T20:00:00+02:00"
+    end: "2023-04-05T23:00:00+02:00"
+    country: France
+    city: Paris
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Patrick Rivière
+    source: events/france/paris_balfolk.yaml
+  - name: Bal Folk à la Maison Magis
+    links:
+      - "https://www.facebook.com/events/239309535148382/239309541815048/"
+    start: "2023-04-14T19:30:00+02:00"
+    end: "2023-04-14T23:00:00+02:00"
+    country: France
+    city: Paris
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: donation
+    organisation: Maison MAGIS
+    source: events/france/paris_balfolk.yaml
   - name: Jam session et Bal folk
     links:
       - "https://www.facebook.com/events/1397444440795600/"
@@ -16399,6 +16298,107 @@ events:
     bands:
       - Renaud Hibon & Jérémie Congrega
     organisation: Jam session et bal folk
+    source: events/france/paris_balfolk.yaml
+  - name: Bal folk
+    links:
+      - "https://www.facebook.com/events/551777563458583/"
+    start: "2023-04-22T19:00:00+02:00"
+    end: "2023-04-22T22:00:00+02:00"
+    country: France
+    city: Paris
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Patrick Rivière
+      - Terre de Rivières
+    price: donation
+    organisation: Patrick Rivière
+    source: events/france/paris_balfolk.yaml
+  - name: "Le Bal Électrique #8"
+    links:
+      - "https://www.facebook.com/events/6057706821014031/"
+      - "https://shotgun.live/events/bal-electrique-8-le-mange-bal-turfu-duo-balcon"
+    start: "2023-05-20T18:30:00+02:00"
+    end: "2023-05-21T00:30:00+02:00"
+    country: France
+    city: Paris
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo du Balcon
+      - Le Mange Bal
+      - Turfu
+    price: €9-€12
+    organisation: "Le Point Fort d'Aubervilliers"
+    source: events/france/paris_balfolk.yaml
+  - name: Bal Folk à la Maison Magis
+    links:
+      - "https://www.facebook.com/events/239309535148382/239309548481714/"
+    start: "2023-05-26T19:30:00+02:00"
+    end: "2023-05-26T23:00:00+02:00"
+    country: France
+    city: Paris
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: donation
+    organisation: Maison MAGIS
+    source: events/france/paris_balfolk.yaml
+  - name: Bal Folk à la Maison Magis
+    links:
+      - "https://www.facebook.com/events/239309535148382/239309545148381/"
+    start: "2023-06-23T19:30:00+02:00"
+    end: "2023-06-23T23:00:00+02:00"
+    country: France
+    city: Paris
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: donation
+    organisation: Maison MAGIS
+    source: events/france/paris_balfolk.yaml
+  - name: Teknibal
+    links:
+      - "https://lekilowatt.placeminute.com/event/concert/teknibal,40701.html?_locale=en"
+      - "https://www.facebook.com/events/6341624425901059/"
+    start: "2023-07-14T18:00:00+02:00"
+    end: "2023-07-15T05:30:00+02:00"
+    country: France
+    city: Paris
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Ciac Boum
+      - Cocanha
+      - Turfu
+      - Zlabya
+      - Vénus Club
+    price: €16-€25
+    organisation: Teknibal
+    source: events/france/paris_balfolk.yaml
+  - name: Grand Bal
+    links:
+      - "https://www.facebook.com/events/554608113364661/"
+    start: "2024-03-10T16:00:00+01:00"
+    end: "2024-03-10T19:00:00+01:00"
+    country: France
+    city: Paris
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Cocanha
+    price: €5
+    organisation: Espace Culturel André Malraux
     source: events/france/paris_balfolk.yaml
   - name: "Un, Deux, Tr...ad"
     links:
