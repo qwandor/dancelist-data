@@ -1,112 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Kirkophany in Chippenham
-    links:
-      - "https://www.chippfolk.co.uk/WhatsOnWhen"
-    start_date: 2023-05-26
-    end_date: 2023-05-26
-    country: UK
-    city: Chippenham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Albireo
-      - Downfielders
-      - Kirkophany
-    callers:
-      - John Kirkpatrick
-      - Rhi Davies
-    organisation: Webfeet
-  - name: Urban Folk Theory in Chippenham
-    links:
-      - "http://www.coldharbour-trio.co.uk/"
-      - "https://www.chippfolk.co.uk/WhatsOnWhen"
-    start_date: 2023-05-27
-    end_date: 2023-05-27
-    country: UK
-    city: Chippenham
-    styles:
-      - balfolk
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Coldharbour
-      - Urban Folk Theory
-    callers:
-      - Phil Bassindale
-    organisation: Webfeet
-  - name: Folk Camps Party Band in Chippenham
-    links:
-      - "https://www.chippfolk.co.uk/WhatsOnWhen"
-    start_date: 2023-05-28
-    end_date: 2023-05-28
-    country: UK
-    city: Chippenham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-      - Folk Camps Party Band
-    callers:
-      - Barry Goodman
-      - Cate Haynes
-      - Fee Lock
-      - Nick Walden
-      - Phil Bassindale
-    organisation: Webfeet
-  - name: Banter in Pool
-    links:
-      - "https://www.chippfolk.co.uk/WhatsOnWhen"
-    start_date: 2023-05-28
-    end_date: 2023-05-28
-    country: UK
-    city: Pool
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    callers:
-      - Cate Haynes
-    organisation: Webfeet
-  - name: Stradivarious in Chippenham
-    links:
-      - "https://www.chippfolk.co.uk/WhatsOnWhen"
-    start_date: 2023-05-29
-    end_date: 2023-05-29
-    country: UK
-    city: Chippenham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Out of Hand
-      - Stradivarious
-    callers:
-      - Andrew Swaine
-      - Rhi Davies
-    organisation: Webfeet
-  - name: Famous Potatoes in Southend on Sea
-    links:
-      - "http://famouspotatoes.co.uk/events/bandstand-appearance/"
-    start_date: 2023-05-29
-    end_date: 2023-05-29
-    country: UK
-    city: Southend on Sea
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Famous Potatoes
-    organisation: Webfeet
   - name: Melrose Quartet in Hexham
     links:
       - "https://melrosequartet.co.uk/gigs/"
@@ -134,21 +27,6 @@ events:
     social: true
     bands:
       - Xim
-    organisation: Webfeet
-  - name: Flying Cat in Bristol
-    details: "[To Be Confirmed]"
-    links:
-      - "https://bristolcontra.wordpress.com/"
-    start_date: 2023-06-16
-    end_date: 2023-06-16
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Flying Cat
     organisation: Webfeet
   - name: Alterego in Beverley
     links:
@@ -250,24 +128,6 @@ events:
     callers:
       - Barrie Bullimore
     organisation: Webfeet
-  - name: Portland Duo in Broadstairs
-    links:
-      - "http://portland-drive.co.uk/events/"
-    start_date: 2023-08-12
-    end_date: 2023-08-12
-    country: UK
-    city: Broadstairs
-    styles:
-      - contra
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Portland Drive
-      - Portland Duo
-    callers:
-      - Mic Spenceley
-    organisation: Webfeet
   - name: Oxford Nags in South Zeal
     links:
       - "http://www.oxfordnags.co.uk/"
@@ -298,23 +158,8 @@ events:
     bands:
       - Whapweasel
     organisation: Webfeet
-  - name: Banter in Stafford
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2023-08-17
-    end_date: 2023-08-18
-    country: UK
-    city: Stafford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
   - name: Out of Hand in Grove
     links:
-      - "https://www.wherecanwego.com/item/e250722/white-horse-festival-ceilidh-barn-dance"
       - "https://www.areyoudancing.com/dance-event/663365/"
     start_date: 2023-08-19
     end_date: 2023-08-19
@@ -328,20 +173,6 @@ events:
       - Out of Hand
     callers:
       - Erin Mansfield
-    organisation: Webfeet
-  - name: Banter in Whitby
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2023-08-19
-    end_date: 2023-08-23
-    country: UK
-    city: Whitby
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
     organisation: Webfeet
   - name: sessionista in Bristol
     links:
@@ -546,6 +377,20 @@ events:
       - Dave Byett
     callers:
       - Geoff Elwell
+    organisation: Webfeet
+  - name: Bof! in Norwich
+    links:
+      - "https://www.facebook.com/events/1331317184142069"
+    start_date: 2023-09-06
+    end_date: 2023-09-06
+    country: UK
+    city: Norwich
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Bof!
     organisation: Webfeet
   - name: Bees Knees in Witcombe
     links:
@@ -947,6 +792,22 @@ events:
       - Banjacs
     callers:
       - Kim Smith
+    organisation: Webfeet
+  - name: Cotteswolde Country Dance Band in Cropthorne
+    links:
+      - "http://eceilidh.org.uk/cps/gigs/cotteswoldecountrydanceband-0102a0.php"
+    start_date: 2023-09-30
+    end_date: 2023-09-30
+    country: UK
+    city: Cropthorne
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Cotteswolde Country Dance Band
+    callers:
+      - Tina Morris
     organisation: Webfeet
   - name: Tight Squeeze in Kennford
     links:
@@ -1596,6 +1457,21 @@ events:
     callers:
       - Phil Bassindale
     organisation: Webfeet
+  - name: Nozzy in Bristol
+    details: "[To Be Confirmed]"
+    links:
+      - "https://bristolcontra.wordpress.com/"
+    start_date: 2023-11-24
+    end_date: 2023-11-24
+    country: UK
+    city: Bristol
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Nozzy
+    organisation: Webfeet
   - name: Red Shed in Sandford
     links:
       - "http://devonfolk.org/events-diary/"
@@ -1924,6 +1800,22 @@ events:
     callers:
       - Trevor Monson
     organisation: Webfeet
+  - name: Flying Cat in Bristol
+    links:
+      - "https://bristolcontra.wordpress.com/"
+    start_date: 2024-02-23
+    end_date: 2024-02-23
+    country: UK
+    city: Bristol
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Flying Cat
+    callers:
+      - Bob Morgan
+    organisation: Webfeet
   - name: "Trinculo in Chandler's Ford"
     links:
       - "http://www.shocc.co.uk/"
@@ -1939,6 +1831,20 @@ events:
       - Trinculo
     callers:
       - Sheena Masson
+    organisation: Webfeet
+  - name: Fiddlechicks in Bristol
+    links:
+      - "https://bristolcontra.wordpress.com/"
+    start_date: 2024-03-15
+    end_date: 2024-03-15
+    country: UK
+    city: Bristol
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Fiddlechicks
     organisation: Webfeet
   - name: Jigfoot in Cardiff
     links:
