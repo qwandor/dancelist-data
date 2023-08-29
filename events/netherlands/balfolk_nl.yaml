@@ -1982,17 +1982,19 @@ events:
     price: €5
     organisation: balfolk.nl
   - name: KeiBal
-    details: "Instructies: ja, om 14:00\n\nSessie: nee\n\nMeer info: https://www.facebook.com/events/305364585356137"
+    details: "Instructies: ja, om 14:00\n\nSessie: nee"
     links:
       - "https://www.balfolk.nl/agenda/keibal-3/"
+      - "https://www.facebook.com/events/305364585356137/"
     start: "2023-09-10T14:00:00+02:00"
     end: "2023-09-10T18:00:00+02:00"
     country: Netherlands
     city: Amersfoort
     styles:
       - balfolk
-    workshop: false
-    social: false
+    workshop: true
+    social: true
+    price: €10
     organisation: balfolk.nl
   - name: Balfolk trial lesson
     details: "Balfolk. Fijne aanstekelijke dansen, een simpele basis met veel ruimte voor improviseren. We dansen in koppel of in de hele groep, op vrolijke (en soms een beetje melancholische) franse folkmuziek. Het leukste is gewoon lekker dansen op een bal met live muziek, en daar kan je vaak ook zo meedoen, maar het volgen van regelmatige lessen zorgt ervoor dat je de fijne kneepjes ook onder de knie krijgt. Dat die dansen die wat meer moeite kosten ook gewoon in je systeem komen en dat je nog meer plezier in het samen dansen krijgt."
@@ -2049,6 +2051,9 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Two Catch a Raindrop
+    price: €10
     organisation: balfolk.nl
   - name: Beginners trial lesson
     details: "Op vrijdag 15 september 2022 is er in Zwolle een proefles voor de serie beginnerslessen Balfolk.\nDoel is dat deelnemers zo snel mogelijk op een balfolkbal goed mee kunnen doen.\nJe kunt je hiervoor vanaf nu aanmelden.\n\nKosten.\n\nDe proefles is gratis. Een kleine (vrije) bijdrage wordt op prijs gesteld.\nNa de proefles kan je je aanmelden voor de serie van 10 lessen. Deze serie kost € 130,-.\n\nLocatie.\n\nDe lessen worden gegeven in een zaal van wijkcentrum 'Bestevaer', Trompstraat 10-b, Zwolle.\n\nData.\n\nNa de proefles wordt gedurende 10 weken op vrijdagavond van 19.00-20.30 uur les gegeven. Uitgezonderd zijn de vrijdagen in de schoolvakanties en 27 oktober.\n\nBereikbaarheid.\n\nBestevaer bevindt zich in de wijk Wipstrik, even buiten het centrum van Zwolle. Vanaf het station is het ongeveer 1700 m lopen.\n\nVoor opgave en informatie bel of mail Maarten:\n-Tel: 06-54323290\n-Facebook: Maarten Novemberbal\n-Mail: mj@vanderwaal.nu"
@@ -2319,7 +2324,11 @@ events:
     styles:
       - balfolk
     workshop: true
-    social: false
+    social: true
+    bands:
+      - Man Encantada Duo
+      - Nubia
+    price: €15-€20
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
@@ -2363,7 +2372,8 @@ events:
     styles:
       - balfolk
     workshop: true
-    social: false
+    social: true
+    price: free
     organisation: balfolk.nl
   - name: Swedish dance party
     details: "Een heerlijke middag met Zweedse muziek en dans.\n\nDuo Noordwest speelt een gevarieerd programma met dansen zoals hambo, schottis, diverse polskor en wals.\n\nAan het begin van de middag is er een korte workshop o.l.v. Elske & Leo waarin we één basisdans of een paar eenvoudige dansfiguren zullen aanleren.\n\nAlle informatie is hier te vinden."
@@ -2564,7 +2574,8 @@ events:
     styles:
       - balfolk
     workshop: true
-    social: false
+    social: true
+    price: free
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
@@ -2634,7 +2645,8 @@ events:
     styles:
       - balfolk
     workshop: true
-    social: false
+    social: true
+    price: €15-€20
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
@@ -2750,7 +2762,8 @@ events:
     styles:
       - balfolk
     workshop: true
-    social: false
+    social: true
+    price: free
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
@@ -2805,7 +2818,8 @@ events:
     styles:
       - balfolk
     workshop: true
-    social: false
+    social: true
+    price: free
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
@@ -2946,7 +2960,8 @@ events:
     styles:
       - balfolk
     workshop: true
-    social: false
+    social: true
+    price: free
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
@@ -3073,7 +3088,8 @@ events:
     styles:
       - balfolk
     workshop: true
-    social: false
+    social: true
+    price: free
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
@@ -3214,7 +3230,8 @@ events:
     styles:
       - balfolk
     workshop: true
-    social: false
+    social: true
+    price: free
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
