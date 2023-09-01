@@ -1,33 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Melrose Quartet in Hexham
-    links:
-      - "https://melrosequartet.co.uk/gigs/"
-    start_date: 2023-06-07
-    end_date: 2023-06-07
-    country: UK
-    city: Hexham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Melrose Quartet
-    organisation: Webfeet
-  - name: Xim in Norwich
-    links:
-      - "https://www.facebook.com/events/254145417187733"
-    start_date: 2023-06-07
-    end_date: 2023-06-07
-    country: UK
-    city: Norwich
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Xim
-    organisation: Webfeet
   - name: Alterego in Beverley
     links:
       - "https://www.wegottickets.com/event/572124"
@@ -213,20 +185,6 @@ events:
     social: true
     bands:
       - live music
-    organisation: Webfeet
-  - name: Threepenny Bit in Middle Claydon
-    links:
-      - "https://www.bandsintown.com/e/104355052-threepenny-bit-at-claydon-estate"
-    start_date: 2023-08-25
-    end_date: 2023-08-25
-    country: UK
-    city: Middle Claydon
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Threepenny Bit
     organisation: Webfeet
   - name: Topette in Shrewsbury
     links:
@@ -791,6 +749,22 @@ events:
     callers:
       - Kim Smith
     organisation: Webfeet
+  - name: The Four Foot Four in Burrowbridge
+    links:
+      - "http://eceilidh.org.uk/cps/gigs/thefourfootfour-ae2530.php"
+    start_date: 2023-09-30
+    end_date: 2023-09-30
+    country: UK
+    city: Burrowbridge
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Four Foot Four
+    callers:
+      - Phil Preen
+    organisation: Webfeet
   - name: Cotteswolde Country Dance Band in Cropthorne
     links:
       - "http://eceilidh.org.uk/cps/gigs/cotteswoldecountrydanceband-0102a0.php"
@@ -1051,13 +1025,13 @@ events:
     callers:
       - Geoff Elwell
     organisation: Webfeet
-  - name: Jigalots in Baldock
+  - name: Jigalots in Letchworth
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
     start_date: 2023-10-13
     end_date: 2023-10-13
     country: UK
-    city: Baldock
+    city: Letchworth
     styles:
       - e-ceilidh
     workshop: false
@@ -1489,6 +1463,20 @@ events:
     callers:
       - Phil Bassindale
     organisation: Webfeet
+  - name: Threepenny Bit in Eastleigh
+    links:
+      - "https://www.bandsintown.com/e/104724784-threepenny-bit-at-the-hilt"
+    start_date: 2023-11-18
+    end_date: 2023-11-18
+    country: UK
+    city: Eastleigh
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Threepenny Bit
+    organisation: Webfeet
   - name: Nozzy in Bristol
     details: "[To Be Confirmed]"
     links:
@@ -1882,6 +1870,7 @@ events:
     links:
       - "http://mister.red/dance/cardiff.htm#D.HD.20240316"
       - "http://ruffceilidhs.org/coming/"
+      - "https://www.wherecanwego.com/item/e1493670/ruffceilidhs-jigfoot-with-ian-nichols"
     start_date: 2024-03-16
     end_date: 2024-03-16
     country: UK
@@ -1943,6 +1932,7 @@ events:
     organisation: Webfeet
   - name: This Way Up in Cardiff
     links:
+      - "https://www.wherecanwego.com/item/e1492822/ruffceilidhs-this-way-up-nicola-scott"
       - "http://ruffceilidhs.org/coming/"
     start_date: 2024-05-11
     end_date: 2024-05-11
