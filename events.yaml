@@ -4297,7 +4297,7 @@ events:
       - Trivelin
       - Embrun
       - Manäcken
-      - 3…4
+      - 3..4
       - Filenko
       - Farem Tot Petar
       - Kafe Koefet
@@ -33092,9 +33092,9 @@ events:
     source: events/uk/london_balfolk.yaml
   - name: London Balfolk
     links:
-      - "https://www.facebook.com/londonbalfolk/posts/pfbid02bRF7yru3B8Hy9y8ryooEEpQTeUadMRJqD2deyb3EGgX4vKc1wiBYhGUb24yZNGTcl"
-    start_date: 2023-09-24
-    end_date: 2023-09-24
+      - "https://londonbalfolk.org.uk/"
+    start: "2023-09-24T14:00:00+01:00"
+    end: "2023-09-24T18:00:00+01:00"
     country: UK
     city: London
     styles:
@@ -33102,7 +33102,8 @@ events:
     workshop: false
     social: true
     bands:
-      - Naragonia
+      - Naragonia Quartet
+    price: £12-£16
     organisation: London Balfolk
     source: events/uk/london_balfolk.yaml
   - name: London Balfolk
