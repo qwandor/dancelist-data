@@ -93,18 +93,6 @@ events:
     price: €35-€150
     organisation: Kulturverein Erlangen
 
-  - name: Dañserlà 2024
-    links:
-      - "https://eveeno.com/danserla2024"
-    start_date: 2024-06-27
-    end_date: 2024-06-30
-    country: Germany
-    city: Erlangen
-    styles: [balfolk]
-    workshop: true
-    social: true
-    organisation: Kulturverein Erlangen
-
   - name: Bal Folk
     details: "in der ESG, Bismarkstr. 46, 91054 Erlangen"
     links:
@@ -118,6 +106,18 @@ events:
     workshop: false
     social: true
     bands:
-      - Hartwin Dhoore (solo)
-    price: "15"
+      - Hartwin Dhoore
+    price: €15
     organisation: Kulturverein Erlangen e. V.
+
+  - name: Dañserlà 2024
+    links:
+      - "https://eveeno.com/danserla2024"
+    start_date: 2024-06-27
+    end_date: 2024-06-30
+    country: Germany
+    city: Erlangen
+    styles: [balfolk]
+    workshop: true
+    social: true
+    organisation: Kulturverein Erlangen
