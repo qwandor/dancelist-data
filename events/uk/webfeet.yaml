@@ -130,34 +130,6 @@ events:
     bands:
       - Whapweasel
     organisation: Webfeet
-  - name: sessionista in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AJ.20230820"
-    start_date: 2023-08-20
-    end_date: 2023-08-20
-    country: UK
-    city: Bristol
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - sessionista
-    organisation: Webfeet
-  - name: "Mark & Norma in Whimple Irish Set, Whimple"
-    links:
-      - "http://mister.red/dance/whimple.htm#D.AG.20230820"
-    start_date: 2023-08-20
-    end_date: 2023-08-20
-    country: UK
-    city: "Whimple Irish Set, Whimple"
-    styles:
-      - irish-set
-    workshop: false
-    social: true
-    bands:
-      - Mark & Norma
-    organisation: Webfeet
   - name: Oxford Nags in Whitby
     links:
       - "http://www.oxfordnags.co.uk/"
@@ -171,20 +143,6 @@ events:
     social: true
     bands:
       - Oxford Nags
-    organisation: Webfeet
-  - name: live music in Bath
-    links:
-      - "http://mister.red/dance/bath.htm#D.AO.20230823"
-    start_date: 2023-08-23
-    end_date: 2023-08-23
-    country: UK
-    city: Bath
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - live music
     organisation: Webfeet
   - name: Topette in Shrewsbury
     links:
@@ -229,20 +187,6 @@ events:
     social: true
     bands:
       - Catsfield Steamers
-    organisation: Webfeet
-  - name: "sessionista in Bath French, Bath"
-    links:
-      - "http://mister.red/dance/bath.htm#D.AM.20230903"
-    start_date: 2023-09-03
-    end_date: 2023-09-03
-    country: UK
-    city: "Bath French, Bath"
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - sessionista
     organisation: Webfeet
   - name: Perfect Cure in Bristol
     links:
@@ -471,6 +415,20 @@ events:
     bands:
       - Dave Shepherd & Anna Pack
     organisation: Webfeet
+  - name: Black Sheep in Wareham
+    links:
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2023-09-14
+    end_date: 2023-09-17
+    country: UK
+    city: Wareham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Black Sheep
+    organisation: Webfeet
   - name: Arish Mel in Piddletrenthide
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -503,6 +461,7 @@ events:
     links:
       - "http://mister.red/dance/cardiff.htm#D.HA.20230916"
       - "http://ruffceilidhs.org/coming/"
+      - "http://eceilidh.org.uk/cps/gigs/crannog-81d3c1.php"
     start_date: 2023-09-16
     end_date: 2023-09-16
     country: UK
@@ -515,6 +474,7 @@ events:
       - Crannog
     callers:
       - Rhi Davies
+      - Rhianwen Davies
     organisation: Webfeet
   - name: sessionista in Bristol
     links:
@@ -654,6 +614,7 @@ events:
       - Arish Mel
     organisation: Webfeet
   - name: Naragonia in Cirencester
+    details: "[]"
     links:
       - "http://mister.red/dance/cirencester.htm#D.AT.20230923"
       - "https://balfolkstroud.uk/cps/gigs/naragoniaquartet-bbc06a.php"
@@ -705,7 +666,7 @@ events:
     organisation: Webfeet
   - name: Naragonia in London
     links:
-      - "https://www.bandsintown.com/e/104716043-naragonia-at-the-bedford"
+      - "https://www.bandsintown.com/e/104716043-naragonia-at-stanley-arts"
     start_date: 2023-09-24
     end_date: 2023-09-24
     country: UK
@@ -781,6 +742,22 @@ events:
     callers:
       - Tina Morris
     organisation: Webfeet
+  - name: Sheilas Reela in Hereford
+    links:
+      - "http://mister.red/dance/hereford.htm#D.A1.20230930"
+    start_date: 2023-09-30
+    end_date: 2023-09-30
+    country: UK
+    city: Hereford
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Sheilas Reela
+    callers:
+      - Sheila
+    organisation: Webfeet
   - name: Tight Squeeze in Kennford
     links:
       - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
@@ -798,7 +775,7 @@ events:
     organisation: Webfeet
   - name: Pete & Sue Hall in Oxford
     links:
-      - "http://mister.red/dance/didcot.htm#D.A1.20230930"
+      - "http://mister.red/dance/didcot.htm#D.A0.20230930"
     start_date: 2023-09-30
     end_date: 2023-09-30
     country: UK
@@ -948,22 +925,6 @@ events:
     callers:
       - Seth Tepfer (USA)
     organisation: Webfeet
-  - name: Blackbeards Tea Party in Scunthorpe
-    links:
-      - "https://www.bandsintown.com/e/104538261-blackbeard&#x27;s-tea-party-at-the-plowright-theatre"
-      - "http://www.blackbeardsteaparty.com/gigs/"
-    start_date: 2023-10-06
-    end_date: 2023-10-06
-    country: UK
-    city: Scunthorpe
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-      - Blackbeards Tea Party
-    organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
       - "http://mister.red/dance/cheltenham.htm#D.DB.20231007"
@@ -977,22 +938,6 @@ events:
     social: true
     bands:
       - Cheltenham Ceilidh Band
-    organisation: Webfeet
-  - name: Blackbeards Tea Party in Scunthorpe
-    links:
-      - "https://www.bandsintown.com/e/104538263-blackbeard&#x27;s-tea-party-at-baths-hall"
-      - "http://www.blackbeardsteaparty.com/gigs/"
-    start_date: 2023-10-07
-    end_date: 2023-10-07
-    country: UK
-    city: Scunthorpe
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-      - Blackbeards Tea Party
     organisation: Webfeet
   - name: Dromadaire in Stroud
     links:
@@ -1087,6 +1032,48 @@ events:
       - "Granny's Attic"
     callers:
       - Erin Mansfield
+    organisation: Webfeet
+  - name: sessionista in Bristol
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AJ.20231015"
+    start_date: 2023-10-15
+    end_date: 2023-10-15
+    country: UK
+    city: Bristol
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - sessionista
+    organisation: Webfeet
+  - name: "Mark & Norma in Whimple Irish Set, Whimple"
+    links:
+      - "http://mister.red/dance/whimple.htm#D.AG.20231015"
+    start_date: 2023-10-15
+    end_date: 2023-10-15
+    country: UK
+    city: "Whimple Irish Set, Whimple"
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    bands:
+      - Mark & Norma
+    organisation: Webfeet
+  - name: live music in Bath
+    links:
+      - "http://mister.red/dance/bath.htm#D.AO.20231018"
+    start_date: 2023-10-18
+    end_date: 2023-10-18
+    country: UK
+    city: Bath
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - live music
     organisation: Webfeet
   - name: Dave Yeomans in Frenchay
     links:
@@ -1214,6 +1201,20 @@ events:
     bands:
       - Arish Mel
     organisation: Webfeet
+  - name: Freedom Fields Ceilidh Band in Plymouth
+    links:
+      - "http://devonfolk.org/events-diary/"
+    start_date: 2023-10-27
+    end_date: 2023-10-27
+    country: UK
+    city: Plymouth
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Freedom Fields Ceilidh Band
+    organisation: Webfeet
   - name: Banter in Bournemouth
     details: "[To Be Confirmed]"
     links:
@@ -1320,6 +1321,20 @@ events:
     social: true
     bands:
       - Cheltenham Ceilidh Band
+    organisation: Webfeet
+  - name: "sessionista in Bath French, Bath"
+    links:
+      - "http://mister.red/dance/bath.htm#D.AM.20231105"
+    start_date: 2023-11-05
+    end_date: 2023-11-05
+    country: UK
+    city: "Bath French, Bath"
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - sessionista
     organisation: Webfeet
   - name: Chris Toyne in Pucklechurch
     links:
@@ -1430,10 +1445,11 @@ events:
     callers:
       - Ray Goodswen
     organisation: Webfeet
-  - name: "Cat's Claw in Cardiff"
+  - name: Cats Claw in Cardiff
     links:
       - "http://mister.red/dance/cardiff.htm#D.HB.20231118"
       - "http://ruffceilidhs.org/coming/"
+      - "http://eceilidh.org.uk/cps/gigs/catsclaw-5a9738.php"
     start_date: 2023-11-18
     end_date: 2023-11-18
     country: UK
@@ -1444,6 +1460,7 @@ events:
     social: true
     bands:
       - "Cat's Claw"
+      - Cats Claw
     callers:
       - Mic Spenceley
     organisation: Webfeet
@@ -1570,6 +1587,20 @@ events:
     bands:
       - Arish Mel
     organisation: Webfeet
+  - name: "Blackbeard's Tea Party in Moira"
+    links:
+      - "https://www.bandsintown.com/e/104741115-blackbeard&#x27;s-tea-party-at-marlborough-rovers-moira-miners-welfare-venue"
+    start_date: 2023-12-08
+    end_date: 2023-12-08
+    country: UK
+    city: Moira
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
+    organisation: Webfeet
   - name: Beatroot in Norwich
     links:
       - "http://www.mardles.org/mardles/ceilidhs/"
@@ -1662,6 +1693,20 @@ events:
       - Molecatchers
     callers:
       - Vicky Cooper
+    organisation: Webfeet
+  - name: "Blackbeard's Tea Party in Stowmarket"
+    links:
+      - "https://www.bandsintown.com/e/104741118-blackbeard&#x27;s-tea-party-at-john-peel-centre-for-creative-arts"
+    start_date: 2023-12-15
+    end_date: 2023-12-15
+    country: UK
+    city: Stowmarket
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
     organisation: Webfeet
   - name: "Melrose Quintet in Chandler's Ford"
     links:
@@ -1759,7 +1804,7 @@ events:
     organisation: Webfeet
   - name: Bearded Dragons in Leamington Spa
     links:
-      - "http://mister.red/dance/leamington_spa.htm#D.A2.20231231"
+      - "http://mister.red/dance/leamington_spa.htm#D.A1.20231231"
     start_date: 2023-12-31
     end_date: 2023-12-31
     country: UK
@@ -1852,6 +1897,20 @@ events:
     callers:
       - Sheena Masson
     organisation: Webfeet
+  - name: "Bandamomnium in Bishop's Castle"
+    links:
+      - "http://mister.red/dance/bishops_castle.htm#D.AU.20240310"
+    start_date: 2024-03-10
+    end_date: 2024-03-10
+    country: UK
+    city: "Bishop's Castle"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Bandamomnium
+    organisation: Webfeet
   - name: Fiddlechicks in Bristol
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -1868,6 +1927,7 @@ events:
     organisation: Webfeet
   - name: Jigfoot in Cardiff
     links:
+      - "http://eceilidh.org.uk/cps/gigs/jigfoot-e779a6.php"
       - "http://mister.red/dance/cardiff.htm#D.HD.20240316"
       - "http://ruffceilidhs.org/coming/"
       - "https://www.wherecanwego.com/item/e1493670/ruffceilidhs-jigfoot-with-ian-nichols"
