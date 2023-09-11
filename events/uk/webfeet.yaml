@@ -1,19 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Alterego in Beverley
-    links:
-      - "https://www.wegottickets.com/event/572124"
-    start_date: 2023-06-17
-    end_date: 2023-06-17
-    country: UK
-    city: Beverley
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Alterego
-    organisation: Webfeet
   - name: Tiger Moth in London
     links:
       - "https://www.bandsintown.com/e/1028325331-tigermoth-at-jamboree"
@@ -28,20 +14,6 @@ events:
     bands:
       - Tiger Moth
     organisation: Webfeet
-  - name: Melrose Quartet in Sheffield
-    links:
-      - "https://melrosequartet.co.uk/gigs/"
-    start_date: 2023-06-23
-    end_date: 2023-06-23
-    country: UK
-    city: Sheffield
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Melrose Quartet
-    organisation: Webfeet
   - name: Famous Potatoes in Leigh on Sea
     links:
       - "http://famouspotatoes.co.uk/events/famous-potatoes-playing-at-leigh-folk-festival/"
@@ -55,20 +27,6 @@ events:
     social: true
     bands:
       - Famous Potatoes
-    organisation: Webfeet
-  - name: Melrose Quartet in London
-    links:
-      - "https://melrosequartet.co.uk/gigs/"
-    start_date: 2023-06-29
-    end_date: 2023-06-29
-    country: UK
-    city: London
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Melrose Quartet
     organisation: Webfeet
   - name: Famous Potatoes in Benfleet
     links:
@@ -292,6 +250,20 @@ events:
       - The Geckoes
     callers:
       - Barry Goodman
+    organisation: Webfeet
+  - name: Melrose Quartet in Swanage
+    links:
+      - "https://melrosequartet.co.uk/gigs/"
+    start_date: 2023-09-08
+    end_date: 2023-09-08
+    country: UK
+    city: Swanage
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Melrose Quartet
     organisation: Webfeet
   - name: The Geckoes in Whitchurch
     links:
@@ -650,19 +622,19 @@ events:
     callers:
       - Louise Siddons
     organisation: Webfeet
-  - name: Banter in Okehampton
+  - name: Melrose Quartet in Sheffield
     links:
-      - "https://www.banter.band/gigs/"
+      - "https://melrosequartet.co.uk/gigs/"
     start_date: 2023-09-23
     end_date: 2023-09-23
     country: UK
-    city: Okehampton
+    city: Sheffield
     styles:
       - e-ceilidh
     workshop: false
     social: true
     bands:
-      - Banter
+      - Melrose Quartet
     organisation: Webfeet
   - name: Naragonia in London
     links:
@@ -709,6 +681,20 @@ events:
       - Banjacs
     callers:
       - Kim Smith
+    organisation: Webfeet
+  - name: Melrose Quartet in London
+    links:
+      - "https://melrosequartet.co.uk/gigs/"
+    start_date: 2023-09-29
+    end_date: 2023-09-29
+    country: UK
+    city: London
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Melrose Quartet
     organisation: Webfeet
   - name: The Four Foot Four in Burrowbridge
     links:
@@ -954,6 +940,20 @@ events:
     bands:
       - Dromadaire
     organisation: Webfeet
+  - name: Melrose Quartet in Hartlepool
+    links:
+      - "https://melrosequartet.co.uk/gigs/"
+    start_date: 2023-10-08
+    end_date: 2023-10-08
+    country: UK
+    city: Hartlepool
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Melrose Quartet
+    organisation: Webfeet
   - name: own music in Pucklechurch
     links:
       - "http://mister.red/dance/bristol.htm#D.AB.20231010"
@@ -1015,6 +1015,22 @@ events:
       - Peeping Tom
     callers:
       - Fee Lock
+    organisation: Webfeet
+  - name: Hexham Village Band in Hexham
+    links:
+      - "https://www.wherecanwego.com/item/e1411756/ceilidh-with-the-hexham-village-band"
+    start_date: 2023-10-14
+    end_date: 2023-10-14
+    country: UK
+    city: Hexham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Hexham Village Band
+    callers:
+      - Joey Oliver
     organisation: Webfeet
   - name: "Granny's Attic in Kennington"
     links:
@@ -1541,6 +1557,20 @@ events:
     bands:
       - Spinach for Norman
     organisation: Webfeet
+  - name: Melrose Quartet in Sheffield
+    links:
+      - "https://melrosequartet.co.uk/gigs/"
+    start_date: 2023-11-25
+    end_date: 2023-11-25
+    country: UK
+    city: Sheffield
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Melrose Quartet
+    organisation: Webfeet
   - name: Bees Knees in Frenchay
     links:
       - "http://mister.red/dance/bristol.htm#D.AC.20231129"
@@ -1556,6 +1586,34 @@ events:
       - Bees Knees
     callers:
       - Jean & Friends
+    organisation: Webfeet
+  - name: Melrose Quartet in Stapleford
+    links:
+      - "https://melrosequartet.co.uk/gigs/"
+    start_date: 2023-12-01
+    end_date: 2023-12-01
+    country: UK
+    city: Stapleford
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Melrose Quartet
+    organisation: Webfeet
+  - name: Melrose Quartet in Hexham
+    links:
+      - "https://melrosequartet.co.uk/gigs/"
+    start_date: 2023-12-03
+    end_date: 2023-12-03
+    country: UK
+    city: Hexham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Melrose Quartet
     organisation: Webfeet
   - name: Diatonics in Baldock
     links:
@@ -1738,6 +1796,20 @@ events:
     bands:
       - Kevin Campbell & Campbells Wake
     organisation: Webfeet
+  - name: Melrose Quartet in Southampton
+    links:
+      - "https://melrosequartet.co.uk/gigs/"
+    start_date: 2023-12-16
+    end_date: 2023-12-16
+    country: UK
+    city: Southampton
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Melrose Quartet
+    organisation: Webfeet
   - name: The Falconers in Sytchampton
     links:
       - "http://mister.red/dance/worcester.htm#D.AS.20231216"
@@ -1753,6 +1825,34 @@ events:
       - The Falconers
     callers:
       - Ivan Aitken
+    organisation: Webfeet
+  - name: Melrose Quartet in Southampton
+    links:
+      - "https://melrosequartet.co.uk/gigs/"
+    start_date: 2023-12-17
+    end_date: 2023-12-17
+    country: UK
+    city: Southampton
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Melrose Quartet
+    organisation: Webfeet
+  - name: Melrose Quartet in Sheffield
+    links:
+      - "https://melrosequartet.co.uk/gigs/"
+    start_date: 2023-12-22
+    end_date: 2023-12-22
+    country: UK
+    city: Sheffield
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Melrose Quartet
     organisation: Webfeet
   - name: "The Hedgehog's Skin in Hexham"
     links:
