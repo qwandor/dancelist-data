@@ -22,7 +22,7 @@ jobs:
             name: webfeet
             file: events/uk/webfeet.yaml
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           ref: ${{ matrix.branch }}
       - name: Get dancelist version
