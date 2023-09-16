@@ -1,19 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Tiger Moth in London
-    links:
-      - "https://www.bandsintown.com/e/1028325331-tigermoth-at-jamboree"
-    start_date: 2023-06-23
-    end_date: 2023-06-23
-    country: UK
-    city: London
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Tiger Moth
-    organisation: Webfeet
   - name: Famous Potatoes in Leigh on Sea
     links:
       - "http://famouspotatoes.co.uk/events/famous-potatoes-playing-at-leigh-folk-festival/"
@@ -408,7 +394,7 @@ events:
       - Olive Mitchell
     organisation: Webfeet
   - name: Naragonia in Cirencester
-    details: "[]"
+    details: "[Sold Out]"
     links:
       - "http://mister.red/dance/cirencester.htm#D.AT.20230923"
       - "https://balfolkstroud.uk/cps/gigs/naragoniaquartet-bbc06a.php"
