@@ -1,19 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Famous Potatoes in Leigh on Sea
-    links:
-      - "http://famouspotatoes.co.uk/events/famous-potatoes-playing-at-leigh-folk-festival/"
-    start_date: 2023-06-24
-    end_date: 2023-06-24
-    country: UK
-    city: Leigh on Sea
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Famous Potatoes
-    organisation: Webfeet
   - name: Famous Potatoes in Benfleet
     links:
       - "http://famouspotatoes.co.uk/events/public-barn-dance-charity-fundraiser/"
@@ -211,20 +197,6 @@ events:
     callers:
       - Brian Stanton
     organisation: Webfeet
-  - name: Black Sheep in Wareham
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2023-09-14
-    end_date: 2023-09-17
-    country: UK
-    city: Wareham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Black Sheep
-    organisation: Webfeet
   - name: Arish Mel in Piddletrenthide
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -257,7 +229,6 @@ events:
     links:
       - "http://mister.red/dance/cardiff.htm#D.HA.20230916"
       - "http://ruffceilidhs.org/coming/"
-      - "http://eceilidh.org.uk/cps/gigs/crannog-81d3c1.php"
     start_date: 2023-09-16
     end_date: 2023-09-16
     country: UK
@@ -270,7 +241,6 @@ events:
       - Crannog
     callers:
       - Rhi Davies
-      - Rhianwen Davies
     organisation: Webfeet
   - name: sessionista in Bristol
     links:
@@ -1162,20 +1132,6 @@ events:
     callers:
       - Rhodri Davies
     organisation: Webfeet
-  - name: Cheltenham Ceilidh Band in Cheltenham
-    links:
-      - "http://mister.red/dance/cheltenham.htm#D.DB.20231104"
-    start_date: 2023-11-04
-    end_date: 2023-11-04
-    country: UK
-    city: Cheltenham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Cheltenham Ceilidh Band
-    organisation: Webfeet
   - name: "sessionista in Bath French, Bath"
     links:
       - "http://mister.red/dance/bath.htm#D.AM.20231105"
@@ -1265,6 +1221,20 @@ events:
       - Chalktown
     callers:
       - Sheena Masson
+    organisation: Webfeet
+  - name: Cheltenham Ceilidh Band in Cheltenham
+    links:
+      - "http://mister.red/dance/cheltenham.htm#D.DB.20231111"
+    start_date: 2023-11-11
+    end_date: 2023-11-11
+    country: UK
+    city: Cheltenham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Cheltenham Ceilidh Band
     organisation: Webfeet
   - name: Shivelight in Exeter
     links:
@@ -1500,6 +1470,20 @@ events:
     bands:
       - Melrose Quartet
     organisation: Webfeet
+  - name: "Blackbeard's Tea Party in York"
+    links:
+      - "https://www.bandsintown.com/e/104773262-blackbeard&#x27;s-tea-party-at-the-crescent-community-venue"
+    start_date: 2023-12-07
+    end_date: 2023-12-07
+    country: UK
+    city: York
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
+    organisation: Webfeet
   - name: Diatonics in Baldock
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
@@ -1622,6 +1606,7 @@ events:
   - name: Molecatchers in Stroud
     links:
       - "https://balfolkstroud.uk/cps/gigs/molecatchers-8dfa88.php"
+      - "https://www.areyoudancing.com/dance-event/675039/"
       - "http://eceilidh.org.uk/cps/gigs/molecatchers-960605.php"
     start_date: 2023-12-09
     end_date: 2023-12-09
