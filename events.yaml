@@ -37948,6 +37948,21 @@ events:
     price: free
     organisation: GlasBal
     source: events/uk/glasbal.yaml
+  - name: Balfolk workshop and social dance
+    links:
+      - "https://glasbal.neocities.org/"
+      - "https://www.facebook.com/events/1001542457838274/"
+    start: "2023-09-23T14:00:00+01:00"
+    end: "2023-09-23T16:30:00+01:00"
+    country: UK
+    city: Glasgow
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: £2-£5
+    organisation: GlasBal
+    source: events/uk/glasbal.yaml
   - name: Bal Feirste
     links:
       - "https://www.facebook.com/events/481281467306716/"
@@ -46069,6 +46084,7 @@ events:
     source: events/uk/sheffield_balfolk.yaml
   - name: Balfolk
     links:
+      - "https://eurosession.org.uk/?p=4655"
       - "https://www.facebook.com/events/239217608719277/"
     start: "2023-09-21T19:00:00+01:00"
     end: "2023-09-21T22:00:00+01:00"
@@ -46081,6 +46097,22 @@ events:
     bands:
       - Naragonia Quartet
     price: £10-£15
+    organisation: Sheffield Eurosession
+    source: events/uk/sheffield_balfolk.yaml
+  - name: Music workshop & bal
+    links:
+      - "https://www.facebook.com/events/2070721243302520/"
+    start: "2023-10-05T19:30:00+01:00"
+    end: "2023-10-05T23:00:00+01:00"
+    country: UK
+    city: Sheffield
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Steve Turner
+    price: £10-£20
     organisation: Sheffield Eurosession
     source: events/uk/sheffield_balfolk.yaml
   - name: Brummie Contra
