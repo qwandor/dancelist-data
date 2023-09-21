@@ -50559,6 +50559,7 @@ events:
     social: false
     price: $10
     organisation: Balfolk Dunedin
+    cancelled: true
     source: events/nz/dunedin.yaml
   - name: Balfolk Immersion
     links:
@@ -50568,12 +50569,11 @@ events:
     country: New Zealand
     city: Dunedin
     styles:
-      - balfolk
+      - ecd
     workshop: true
     social: false
     price: $10
     organisation: Balfolk Dunedin
-    cancelled: true
     source: events/nz/dunedin.yaml
   - name: Balfolk Immersion
     links:
