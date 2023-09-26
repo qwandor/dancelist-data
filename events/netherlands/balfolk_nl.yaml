@@ -1,18 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Begin danslessen reeks Balfolk in Nijmegen met Louise
-    details: "Balfolk. Fijne aanstekelijke dansen, een simpele basis met veel ruimte voor improviseren. We dansen in koppel of in de hele groep, op vrolijke (en soms een beetje melancholische) franse folkmuziek. Het leukste is gewoon lekker dansen op een bal met live muziek, en daar kan je vaak ook zo meedoen, maar het volgen van regelmatige lessen zorgt ervoor dat je de fijne kneepjes ook onder de knie krijgt. Dat die dansen die wat meer moeite kosten ook gewoon in je systeem komen en dat je nog meer plezier in het samen dansen krijgt."
-    links:
-      - "https://www.balfolk.nl/agenda/begin-danslessen-reeks-balfolk-in-nijmegen-met-louise/"
-    start: "2023-09-25T19:00:00+02:00"
-    end: "2023-09-25T22:00:00+02:00"
-    country: Netherlands
-    city: Lent
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
     links:
@@ -514,6 +501,19 @@ events:
       - balfolk
     workshop: true
     social: true
+    organisation: balfolk.nl
+  - name: Midwinter Fair
+    details: "Ieder jaar organiseren wij op Museumpark Archeon de Midwinter fair. Het winterse festival voor jong en oud. Vele oeroude gebruiken komen dit weekend tot leven, allemaal rondom de viering van de wederkomst van het licht.\nNieuw dit jaar is dat het klooster helemaal in het teken komt te staan van Balfolk! Met 3 workshops per dag. \nOp zaterdag zullen er ook nog 3, en op zondag 2 balfolk bands te zien zijn! \nZaterdag komen Wim te Groen, Aerokorda en Kelten zonder grenzen. \nZondag komen EmBRUN en Aerokorda. \nUiteraard is er nog veel meer te beleven tijdens het festival. Dus als je even iets anders wilt doen, een show wilt bekijken, een ritueel wilt bijwonen of naar een andere band wilt kijken is dat ook allemaal mogelijk. \n\nHet volledige programma is hier te zien.\n\nVia social media maken we steeds een beetje meer van het programma bekent!"
+    links:
+      - "https://www.balfolk.nl/agenda/midwinter-fair/"
+    start_date: 2023-12-09
+    end_date: 2023-12-10
+    country: Netherlands
+    city: Alphen aan de Rijn
+    styles:
+      - balfolk
+    workshop: false
+    social: false
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
