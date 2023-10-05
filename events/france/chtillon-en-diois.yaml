@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Le Bal des Vampires
+    links:
+      - "https://www.facebook.com/events/865960931830698/"
+      - "https://www.helloasso.com/associations/folk-en-diois/evenements/bal-des-vampires"
+    start: "2023-10-20T19:00:00+02:00"
+    end: "2023-10-22T02:00:00+02:00"
+    country: France
+    city: Châtillon-en-Diois
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Zef
+      - Duo Billebaude
+      - Aurélien Claranbaux
+      - Bez Orchestra
+      - Kloog
+      - Edentia
+      - Chloé
+    price: €30
+    organisation: Folk en Diois
