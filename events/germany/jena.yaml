@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: FolkArena
+    details: Balfolk with eins68
+    links:
+      - "https://folkarena.wordpress.com/termine/"
+    start: 2023-11-04T17:45:00+01:00
+    end: 2023-11-04T23:00:00+01:00
+    country: Germany
+    city: Jena
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Eins68
+    price: €15+x
+    organisation: FolkArena
