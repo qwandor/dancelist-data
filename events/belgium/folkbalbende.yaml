@@ -9134,23 +9134,6 @@ events:
       - Le Bal de l'Ephémère
       - Duo Gestrikt
     organisation: ComSiBal
-  - name: ComSiBal
-    links:
-      - "https://comsibal.be/en/events/folkbal_2023_10_21/"
-      - "https://www.facebook.com/events/614955670549455/"
-    start: 2023-10-21T16:00:00+02:00
-    end: 2023-10-21T23:00:00+02:00
-    country: Belgium
-    city: Leuven
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: €13-€27
-    bands:
-      - Trio Loubelya
-      - Trio Västanvinden
-    organisation: ComSiBal
   - name: Ol Da Folk
     details: Ball
     links:
@@ -11511,11 +11494,13 @@ events:
     social: false
     price: €5
     organisation: Heart To Feet
-  - name: Comsibal
+  - name: ComSiBal
     details: Ball
     links:
+      - "https://comsibal.be/en/events/folkbal_2023_10_21/"
+      - "https://www.facebook.com/events/614955670549455/"
       - "https://folkbalbende.be/event/1913"
-    start: "2023-10-21T16:30:00+02:00"
+    start: "2023-10-21T16:00:00+02:00"
     end: "2023-10-21T23:30:00+02:00"
     country: Belgium
     city: Leuven
@@ -11524,7 +11509,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Västanvinden Trio
+      - Trio Västanvinden
       - Trio Loubelya
-    price: €20
+    price: €13-€27
     organisation: ComSiBal
