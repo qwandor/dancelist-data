@@ -25822,6 +25822,7 @@ events:
     city: Naples
     styles:
       - balfolk
+      - italian
     workshop: true
     social: true
     bands:
@@ -25833,7 +25834,7 @@ events:
       - Pablo Golder
       - Guus Herremans
       - Cheffolk
-      - Le Sette Bocche
+      - Sette Bocche
     organisation: Neapolis Balfolk
     source: events/italy/naples.yaml
   - name: XIV Kompleanno MK Partenopea
@@ -25849,6 +25850,36 @@ events:
     workshop: false
     social: true
     organisation: Mazurka-I Mazurkari Parte-nopei (e parte no)
+    source: events/italy/naples.yaml
+  - name: Dance concert
+    links:
+      - "https://www.facebook.com/events/271717171879924/"
+    start: "2023-12-09T21:30:00+01:00"
+    end: "2023-12-10T00:00:00+01:00"
+    country: Italy
+    city: Naples
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Karamaus
+    organisation: Neapolis Balfolk
+    source: events/italy/naples.yaml
+  - name: Dance concert
+    links:
+      - "https://www.facebook.com/events/1140604960677498/"
+    start: "2024-02-10T21:30:00+01:00"
+    end: "2024-02-11T00:00:00+01:00"
+    country: Italy
+    city: Naples
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Geronimo
+    organisation: Neapolis Balfolk
     source: events/italy/naples.yaml
   - name: Bal Folk with Petit Piment
     links:
