@@ -44984,24 +44984,6 @@ events:
     price: €10-€200
     organisation: ComSiBal
     source: events/belgium/folkbalbende.yaml
-  - name: ComSiBal
-    links:
-      - "https://comsibal.be/en/events/folkbal_2023_10_21/"
-      - "https://www.facebook.com/events/614955670549455/"
-    start: "2023-10-21T16:00:00+02:00"
-    end: "2023-10-21T23:00:00+02:00"
-    country: Belgium
-    city: Leuven
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Trio Loubelya
-      - Trio Västanvinden
-    price: €13-€27
-    organisation: ComSiBal
-    source: events/belgium/folkbalbende.yaml
   - name: Ol Da Folk
     details: Ball
     links:
@@ -47506,6 +47488,26 @@ events:
     social: false
     price: €5
     organisation: Heart To Feet
+    source: events/belgium/folkbalbende.yaml
+  - name: ComSiBal
+    details: Ball
+    links:
+      - "https://comsibal.be/en/events/folkbal_2023_10_21/"
+      - "https://www.facebook.com/events/614955670549455/"
+      - "https://folkbalbende.be/event/1913"
+    start: "2023-10-21T16:00:00+02:00"
+    end: "2023-10-21T23:30:00+02:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Trio Västanvinden
+      - Trio Loubelya
+    price: €13-€27
+    organisation: ComSiBal
     source: events/belgium/folkbalbende.yaml
   - name: Paradiso Folkbal Intiem
     links:
