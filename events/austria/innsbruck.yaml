@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Tanzhaus Innsbruck
+    links:
+      - "https://tanzhaus-innsbruck.jimdofree.com/"
+    start: "2023-11-04T19:30:00+01:00"
+    end: "2023-11-04T22:30:00+01:00"
+    country: Austria
+    city: Innsbruck
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Galna Humlor
+    price: donation
+    organisation: Tanzhaus Tirol
