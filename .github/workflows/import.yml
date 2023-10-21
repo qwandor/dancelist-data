@@ -2,7 +2,7 @@ name: Update imports
 
 on:
   schedule:
-    - cron: '37 11 * * *'
+    - cron: "37 11 * * *"
 
 jobs:
   import:
@@ -15,6 +15,9 @@ jobs:
           - branch: balfolknl
             name: balfolknl
             file: events/netherlands/balfolk_nl.yaml
+          - branch: cdss
+            name: cdss
+            file: events/usa/cdss.yaml
           - branch: folkbalbende
             name: balbende
             file: events/belgium/folkbalbende.yaml
