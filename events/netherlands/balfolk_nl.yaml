@@ -2645,7 +2645,7 @@ events:
     workshop: true
     social: true
     organisation: balfolk.nl
-  - name: Balfolk tijdens Museumnacht in Enschede
+  - name: Balfolk during museum night
     details: "In Enschede wordt op zaterdag 4 november de Museumnacht gehouden. Hier zijn tussen 19.00 en 24.00 uur heel veel activiteiten waaronder verschillende dansactiviteiten, muziekactiviteiten en veel meer!\n\nOm 22.00 uur wordt er een workshop balfolk gegeven om mensen kennis te laten maken met balfolk. De workshop wordt door Maarten van der Waal gegeven. Dit gebeurt in de balletzaal van de Kaliber kunstenschool, Willem Wilminkplein 1, Enschede (naast Metropool).\n\nAlle activiteiten vinden op verschillende locaties plaats in het grote centrum van Enschede. Het Willem Wilminkplein is op heel korte afstand van het station\n\nHet zou leuk zijn als ook balfolkies aanwezig kunnen zijn bij de workshop om het plezier van balfolk aan anderen over te brengen."
     links:
       - "https://www.balfolk.nl/agenda/balfolk-tijdens-museumnacht-in-enschede/"
@@ -2655,8 +2655,9 @@ events:
     city: Enschede
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: false
+    price: €12-€17
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
@@ -2672,18 +2673,21 @@ events:
     social: true
     price: €5
     organisation: balfolk.nl
-  - name: bal folk/ceili met Kasha en Erik!
+  - name: Bal Folk / Ceili
     details: "Dit bal, een combi van balfolk en ceili-dans, is gratis voor cursisten van de workshops van Vliers op Texel 2023, voor mensen die alleen het voor dansen komen kost het 10 euro.\n\nzie hieronder de link, je kunt online al een kaartje kopen.\n\nhttps://artex-texel.nl/cursussen/vliers-festival-2023-dans/\n\nHet instap-uur is de initiatie, op zaterdagmiddag 16.45- 17.45u door Kasha van der Poel en Erik de Jong.\n\n's Avonds is er een feestelijk programma met docentenconcertjes, en zal Kasha de dansen ook nog begeleiden, met Erik en evt meer muzikanten."
     links:
       - "https://www.balfolk.nl/agenda/bal-folk-ceili-met-kasha-en-erik/"
+      - "https://artex-texel.nl/cursussen/vliers-festival-2023-dans/"
     start: "2023-11-11T16:45:00+01:00"
     end: "2023-11-11T21:45:00+01:00"
     country: Netherlands
-    city: Den Burg (Texel)
+    city: Den Burg
     styles:
       - balfolk
-    workshop: false
-    social: false
+      - ceili
+    workshop: true
+    social: true
+    price: €10
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
