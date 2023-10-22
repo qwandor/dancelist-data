@@ -4,8 +4,8 @@ events:
     details: This is a contra dance with live music. We will probably have a good number of beginners.
     links:
       - "https://cdss.org/event/contra-dance-mississippi/"
-    start: "2023-10-22T13:45:00Z"
-    end: "2023-10-22T16:30:00Z"
+    start: "2023-10-22T13:45:00-05:00"
+    end: "2023-10-22T16:30:00-05:00"
     country: USA
     state: MS
     city: Pass Christian
@@ -13,8 +13,9 @@ events:
       - contra
     workshop: false
     social: true
+    price: $10
     organisation: Jimmy Stafford
-  - name: Richmond VA Saturday Night Contra Dance (TADAMS)
+  - name: Saturday Night Contra Dance (TADAMS)
     details: "Music: TBD\nCaller: TBD\nAdmission: $9 members/students, $12 non-members, 18 & under free.\nBeginner’s Workshop: Arrive early at 6:45pm to learn or review basic steps.\nCOVID: While vaccinations are excellent for preventing disease, TADAMS will no longer require proof of vaccination to participate in our dances.  Wearing a mask remains optional."
     links:
       - "https://cdss.org/event/richmond-va-saturday-night-contra-dance-tadams-3/"
@@ -42,7 +43,7 @@ events:
       - contra
     workshop: false
     social: true
-    price: $3-$20
+    price: $10-$20
     organisation: Warwick Center for the Arts
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
@@ -77,7 +78,7 @@ events:
     workshop: false
     social: true
     organisation: Luanne Stiles
-  - name: Richmond VA Wednesday English Country Dance
+  - name: Wednesday English Country Dance
     details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm. \nSave the date for our live music events: a David Millstone workshop/dance on August 26, and the Jefferson Ball on November 4th."
     links:
       - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2023-10-25/"
@@ -109,7 +110,7 @@ events:
       - Lisa Greenleaf
     price: $104-$150
     organisation: Nashville Country Dancers
-  - name: "Pittsburgh Fall Dance Weekend (Mask\\, Vaccination Optional)"
+  - name: Fall Dance Weekend
     details: "Come dance to the music of Supertrad and Stomp Rocket with callers Gaye Fifer, Janine Smith, and guest caller Michael Karchar. All are welcome. \nThis is a mask-optional and vaccine-optional dance. While dancing, we will have a mask-required line if enough people show up who are interested. Details and registration will be forthcoming on our website.  \n "
     links:
       - "https://cdss.org/event/pittsburgh-fall-dance-weekend/"
@@ -130,7 +131,7 @@ events:
       - Janine Smith
       - Michael Karchar
     organisation: Pittsburgh Contra Dance
-  - name: Boo Camp - New Mexico
+  - name: Boo Camp
     details: "Hosted by New Mexico FolkMADS  \n\nWhen: October 27-29, 2023\nWho: Frannie Marr, Countercurrent, Virginia Creepers, and YOU!\nHow Much: Sliding scale: $320 recommended ($200 minimum)\nCOVID Policy: vaccination required, rapid testing first day, masks optional \n\nBoo Camp is a residential camp held in the Manzano Mountains outside of Albuquerque, NM (~1 hour from Albuquerque & 1:45 from Santa Fe). This is an all levels, family friendly dance weekend highlighting regional and national callers and bands. The schedule will include contra dancing, couples dancing, jamming, and the much adored, Halloween themed, Boo Ball! "
     links:
       - "https://cdss.org/event/boo-camp-new-mexico/"
@@ -168,6 +169,7 @@ events:
     details: "We hold energetic and fun contra dances on 2nd and 4th Fridays near Orlando, Florida, in the beautiful Winter Park Ballroom! Our group loves both traditional and contemporary music, which is usually live. We welcome all ages and have a large contingent of younger dancers. Students and jobless dance FREE! Check the schedule for directions, details, cancellations, and changes. Afterwards, we go next door to Jeremiah’s Italian Ice!"
     links:
       - "https://cdss.org/event/greater-orlando-contra-dance/2023-10-27/"
+      - "https://contraknights.org/"
     start: "2023-10-27T19:00:00-04:00"
     end: "2023-10-27T22:30:00-04:00"
     country: USA
@@ -177,6 +179,9 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
+    callers:
+      - Katie Zanders
     organisation: Greater Orlando Contra Dance
   - name: Tallahassee Contra Dance
     details: "Join us for great contra dances usually held on the second and fourth Friday of the month (check website for details). No partner or experience needed. Wear comfortable clothing and shoes. \nThis week, Alice Raybourn calls the dances and the Bunny Bread Bandits play the tunes. "
@@ -265,7 +270,7 @@ events:
     city: Portland
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     organisation: Portland Country Dance Community
   - name: Mendocino English Country Dance
@@ -293,7 +298,7 @@ events:
     city: Las Vegas
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     organisation: CDSS
   - name: Brattleboro Bal Folk
@@ -305,7 +310,8 @@ events:
     country: USA
     state: VT
     city: Guilford
-    styles: []
+    styles:
+      - balfolk
     workshop: false
     social: true
     organisation: Brattleboro Bal Folk
@@ -328,7 +334,7 @@ events:
       - Dave Berman
       - Walter Zagorski
     organisation: Toronto English Country Dance Assembly
-  - name: English Country Dance - Asheville NC
+  - name: English Country Dance
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
     links:
       - "https://cdss.org/event/english-country-dance-asheville-nc/2023-11-01/"
@@ -342,7 +348,7 @@ events:
     workshop: false
     social: true
     organisation: Luanne Stiles
-  - name: Richmond VA Wednesday English Country Dance
+  - name: Wednesday English Country Dance
     details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm. \nSave the date for our live music events: a David Millstone workshop/dance on August 26, and the Jefferson Ball on November 4th."
     links:
       - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2023-11-01/"
