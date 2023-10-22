@@ -74,7 +74,7 @@ events:
     city: Asheville
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     organisation: Luanne Stiles
   - name: Richmond VA Wednesday English Country Dance
@@ -120,6 +120,7 @@ events:
     city: Pittsburgh
     styles:
       - contra
+      - ecd
     workshop: false
     social: true
     bands:
@@ -237,7 +238,7 @@ events:
     city: Anaheim
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     organisation: The Living Tradition
   - name: San Antonio Contra Dance
@@ -265,7 +266,7 @@ events:
     city: Portland
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     organisation: Portland Country Dance Community
   - name: Mendocino English Country Dance
@@ -305,9 +306,12 @@ events:
     country: USA
     state: VT
     city: Guilford
-    styles: []
+    styles:
+      - balfolk
     workshop: false
     social: true
+    bands:
+      - Eloise & Co.
     organisation: Brattleboro Bal Folk
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
@@ -339,7 +343,7 @@ events:
     city: Asheville
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     organisation: Luanne Stiles
   - name: Richmond VA Wednesday English Country Dance
