@@ -87,6 +87,21 @@ events:
     price: donation
     organisation: Balfolk Bonn e.V.
 
+  - name: Sunday Balfolk Workshop
+    details: Workshop mit begrenzter Teilnehmerzahl (max. 25 Personen)
+    links:
+      - "http://balfolk-bonn.de/balfolk/Workshopabende.html"
+    start: "2023-06-18T12:00:00+02:00"
+    end: "2023-06-18T16:30:00+02:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: donation
+    organisation: Balfolk Bonn e.V.
+
   - name: Balfolk im Hardbergsaal
     details: Balfolk mit Havok aus Marburg
     links:
@@ -125,8 +140,8 @@ events:
     details: Balfolk mit Reinlender und Coeur de Boeuf
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: "2023-11-10T20:00:00+02:00"
-    end: "2023-11-10T22:00:00+02:00"
+    start: "2023-11-10T20:00:00+01:00"
+    end: "2023-11-10T22:00:00+01:00"
     country: Germany
     city: Bonn
     styles:
@@ -135,38 +150,6 @@ events:
     social: true
     bands:
       - Reinlender & Coeur de Boeuf
-    price: donation
-    organisation: Balfolk Bonn e.V.
-
-  - name: Balfolk im Hardtbergsaal
-    details: Weihnachtsbalfolk
-    links:
-      - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: "2023-12-16T19:00:00+02:00"
-    end: "2023-12-16T22:00:00+02:00"
-    country: Germany
-    city: Bonn
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Out of the Box
-    price: donation
-    organisation: Balfolk Bonn e.V.
-
-  - name: Sunday Balfolk Workshop
-    details: Workshop mit begrenzter Teilnehmerzahl (max. 25 Personen)
-    links:
-      - "http://balfolk-bonn.de/balfolk/Workshopabende.html"
-    start: "2023-06-18T12:00:00+02:00"
-    end: "2023-06-18T16:30:00+02:00"
-    country: Germany
-    city: Bonn
-    styles:
-      - balfolk
-    workshop: true
-    social: true
     price: donation
     organisation: Balfolk Bonn e.V.
 
@@ -192,11 +175,28 @@ events:
     organisation: Balfolk Bonn e.V.
 
   - name: Balfolk im Hardtbergsaal
+    details: Weihnachtsbalfolk
+    links:
+      - "http://balfolk-bonn.de/balfolk/Aktuell.html"
+    start: "2023-12-16T19:00:00+01:00"
+    end: "2023-12-16T22:00:00+01:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Out of the Box
+    price: donation
+    organisation: Balfolk Bonn e.V.
+
+  - name: Balfolk im Hardtbergsaal
     details: Balfolk
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: "2024-01-27T15:00:00+02:00"
-    end: "2024-01-27T22:00:00+02:00"
+    start: "2024-01-27T15:00:00+01:00"
+    end: "2024-01-27T22:00:00+01:00"
     country: Germany
     city: Bonn
     styles:
@@ -212,8 +212,8 @@ events:
     details: Balfolk mit DiaTon
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: "2024-02-23T20:00:00+02:00"
-    end: "2024-02-23T22:00:00+02:00"
+    start: "2024-02-23T20:00:00+01:00"
+    end: "2024-02-23T22:00:00+01:00"
     country: Germany
     city: Bonn
     styles:
@@ -229,8 +229,8 @@ events:
     details: Balfolk
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: "2024-03-23T15:00:00+02:00"
-    end: "2024-03-23T22:00:00+02:00"
+    start: "2024-03-23T15:00:00+01:00"
+    end: "2024-03-23T22:00:00+01:00"
     country: Germany
     city: Bonn
     styles:
@@ -353,8 +353,8 @@ events:
     details: Balfolk
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: "2024-11-08T20:00:00+02:00"
-    end: "2024-11-08T22:00:00+02:00"
+    start: "2024-11-08T20:00:00+01:00"
+    end: "2024-11-08T22:00:00+01:00"
     country: Germany
     city: Bonn
     styles:
@@ -368,8 +368,8 @@ events:
     details: Weihnachtsbalfolk
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: "2024-12-07T19:00:00+02:00"
-    end: "2024-12-07T22:00:00+02:00"
+    start: "2024-12-07T19:00:00+01:00"
+    end: "2024-12-07T22:00:00+01:00"
     country: Germany
     city: Bonn
     styles:
@@ -378,4 +378,3 @@ events:
     social: true
     price: donation
     organisation: Balfolk Bonn e.V.
-
