@@ -1,49 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Contra Dance Mississippi
-    details: This is a contra dance with live music. We will probably have a good number of beginners.
-    links:
-      - "https://cdss.org/event/contra-dance-mississippi/"
-    start: "2023-10-22T13:45:00Z"
-    end: "2023-10-22T16:30:00Z"
-    country: USA
-    state: MS
-    city: Pass Christian
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Jimmy Stafford
-  - name: Richmond VA Saturday Night Contra Dance (TADAMS)
-    details: "Music: TBD\nCaller: TBD\nAdmission: $9 members/students, $12 non-members, 18 & under free.\nBeginner’s Workshop: Arrive early at 6:45pm to learn or review basic steps.\nCOVID: While vaccinations are excellent for preventing disease, TADAMS will no longer require proof of vaccination to participate in our dances.  Wearing a mask remains optional."
-    links:
-      - "https://cdss.org/event/richmond-va-saturday-night-contra-dance-tadams-3/"
-    start: "2023-10-22T18:30:00-04:00"
-    end: "2023-10-22T18:30:00-04:00"
-    country: USA
-    state: VA
-    city: Henrico
-    styles:
-      - contra
-    workshop: false
-    social: true
-    price: $9-$12
-    organisation: TADAMS (Traditional American Dance and Music Society)
-  - name: "Community Dance \"Souper Sunday Dance\"!"
-    details: "It’s last season’s “Barn Dance,” but with a twist – now serving soup! \n\nLive Music! We dance to the fiddle tunes of Ireland, Scotland, England, France, and Appalachia and we often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time!\n6:30 pm (Intro session 6:15 pm)\nIn the gallery at Warwick Center for the Arts, 3259 Post Road, Warwick. On street parking and additional parking behind the building (enter next to City Hall)\nOffering expanded concessions – homemade soup & cornbread, lemonade & fresh brewed tea!\n\nMore Info:\n\nLive Music: Joy Factor, who are Gianna Marzilli Ericson (fiddle), Henry Yoshimura (guitar), and Jeremy Wilmer (fiddle)\nCaller: Don Veino – Don loves to create opportunities for dancers to have fun no matter the group size!\nAdmission: Your choice $15 – $20 per person / WCFA Members $12 / Students (with ID) $10. Contributions are always encouraged and accepted.\nFood: We will be serving a special homemade soup and cornbread @ $3 a bowl, all for the benefit of the band and caller!\nRole Terms: Traditional – “ladies & gents” or “women & men,” but all are welcome to choose the role term that works for them!\nClothing & Footwear: Clothing is casual, layers are best for this invigorating exercise. Please wear non-street shoes that move easily on the floor (rubber-soled sneakers are ok but harder to dance with)."
-    links:
-      - "https://cdss.org/event/community-dance-souper-sunday-dance-2/"
-    start: "2023-10-22T18:30:00-04:00"
-    end: "2023-10-22T21:30:00-04:00"
-    country: USA
-    state: RI
-    city: Warwick
-    styles:
-      - contra
-    workshop: false
-    social: true
-    price: $3-$20
-    organisation: Warwick Center for the Arts
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
     links:
@@ -361,3 +317,30 @@ events:
     social: true
     price: $2
     organisation: Colonial Dance Club of Richmond
+  - name: Online Talk with Jeremy Barlow and Alice Little – Playford’s Dancing Masters
+    details: Booking opening soon.
+    links:
+      - "https://cdss.org/event/online-talk-with-jeremy-barlow-and-alice-little-playfords-dancing-masters/"
+    start: "2023-11-02T17:30:00Z"
+    end: "2023-11-02T18:30:00Z"
+    country: United Kingdom
+    state: Oxford
+    city: Broad Street
+    styles: []
+    workshop: false
+    social: true
+    organisation: CDSS
+  - name: "Playford Dancing for Beginners with Steph West\\, Giles Lewin and Matthew Coatsworth"
+    details: "Learn dance steps from the 17th century in these practical workshops\nLearn the English country dances featured in Playford’s 1651 collection, The Dancing Master, and used in modern film and television including Bridgerton, Pride and Prejudice and Poldark. \nThese workshops are designed for those with no experience of Playford dances and are suitable for complete beginners. Caller Steph West will lead dancers through the steps, accompanied by musicians Matthew Coatsworth and Giles Lewin. \nBring your new expertise to the Playford Ball on Saturday 13 January 2024. \nDates & locations\nThe workshops take place on the following dates. The dance content is the same for each workshop. \n\nSunday 5 November 2023, 12pm – 1pm, Blackwell Hall, Weston Library (map)\n\n\nThursday 30 November 2023, 7pm – 8pm, Cherwell School North Site, Marston Ferry Road (map)\n\n\nWednesday 6 December 2023, 7pm – 8pm, Cherwell School North Site, Marston Ferry Road (map)\n\nParking is available at Cherwell School North Site. \nWhat to bring\nPlease wear appropriate non-slip footwear (soft sole shoes or trainers) for dancing. \nAbout the musicians\nSteph West is a musician, educator and caller, best known as a harpist and for her ability to build confidence and enjoyment for beginners. Steph’s current projects include an electroharp, drums and voice duo with Paul Rademeyer, the English Harp Project with Matthew Coatsworth and accordionist Tom Evans, and work with RNS Moves as a performer and composer. \nGiles Lewin specialises in medieval music and the traditional music of Europe and the Middle East. He has played with The Carnival Band, June Tabor, Maddy Prior, Bellowhead and the Dufay Collective amongst many others. His album Time’s Chariot focused on music from Playford’s Dancing Master. \nMatthew Coatsworth is curating The Dancing Master exhibition at the Bodleian Libraries. A former member of Boldwood, he plays with The Warleggan Village Band, First Folio and with Steph West’s English Harp Project."
+    links:
+      - "https://cdss.org/event/playford-dancing-for-beginners-with-steph-west-giles-lewin-and-matthew-coatsworth/"
+    start: "2023-11-02T17:30:00Z"
+    end: "2023-11-02T18:30:00Z"
+    country: United Kingdom
+    state: Oxford
+    city: Broad Street
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: CDSS
