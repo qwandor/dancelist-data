@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Hotel Palindrone
+    links:
+      - "https://www.facebook.com/events/1324803164692179/"
+    start: 2022-04-29T19:30:00+02:00
+    end: 2022-04-29T22:30:00+02:00
+    country: Austria
+    city: Vienna
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Hotel Palindrone
+    price: €15.50-€22
+
+  - name: Ballsaal Palindrone
+    links:
+      - "https://www.facebook.com/events/858979028771279/"
+      - "https://musikschule-simmering.at/ballsaal-palindrone/"
+    start: 2023-01-19T18:30:00+01:00
+    end: 2023-01-19T23:00:00+01:00
+    country: Austria
+    city: Vienna
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Hotel Palindrone
+      - Tanzhausgeiger
+      - Die Limanis
+    price: €7-€15
+    organisation: TanzFolk Vienna
+
+  - name: Ballsaal Palindrone @ Sargfabrik
+    links:
+      - https://sargfabrik.at/veranstaltungen/hotel-palindrone-1159-8215-4827
+    start: 2023-10-21T18:30:00+02:00
+    end: 2023-10-21T23:00:00+02:00
+    country: Austria
+    city: Vienna
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Hotel Palindrone
+      - Biowobble
+    price: €15.50-€22
+    organisation: Hotel Palindrone
