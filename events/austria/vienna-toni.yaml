@@ -1,0 +1,57 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Zweitägiger Tanzkurs
+    links:
+      - "https://www.facebook.com/events/1198188487657076/"
+    start: 2022-05-28T10:00:00+02:00
+    end: 2022-05-29T16:30:00+02:00
+    country: Austria
+    city: Vienna
+    styles: [balfolk]
+    workshop: true
+    social: false
+    bands:
+      - Lauge Dideriksen
+    price: €80-€120
+
+  - name: Ein Tanzabend in drei Sätzen
+    links:
+      - "https://www.facebook.com/events/420468339701131/"
+    start: 2022-06-21T16:00:00+02:00
+    end: 2022-06-22T00:00:00+00:00
+    country: Austria
+    city: Vienna
+    styles: [scandi, polish]
+    workshop: true
+    social: true
+    bands:
+      - Lauge Dideriksen
+      - Fritz/Dideriksen/Leben/Hacker
+      - Stępień/Dideriksen
+    price: donation
+
+  # Mentioned at https://www.facebook.com/events/1198188487657076/
+  - name: Zweitägiger Tanzkurs
+    start_date: 2022-10-08
+    end_date: 2022-10-09
+    country: Austria
+    city: Vienna
+    styles: [balfolk]
+    workshop: true
+    social: false
+    organisation: Anton Hacker
+
+  - name: Bal-Folk Tanzkurs
+    links:
+      - "https://www.facebook.com/events/818304265911875/"
+    start: 2022-12-03T10:00:00+01:00
+    end: 2022-12-04T16:30:00+01:00
+    country: Austria
+    city: Vienna
+    styles: [balfolk]
+    workshop: true
+    social: false
+    bands:
+      - Sebastian Slameczka
+    price: €80-€160
+    organisation: Anton Hacker

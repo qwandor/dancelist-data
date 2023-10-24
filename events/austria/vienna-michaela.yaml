@@ -1,0 +1,129 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Hof3-Folk
+    start: 2022-08-01T19:00:00+02:00
+    end: 2022-08-01T23:00:00+02:00
+    country: Austria
+    city: Vienna
+    styles: [balfolk]
+    workshop: false
+    social: true
+    organisation: Michaela Perkic
+    cancelled: true
+
+  - name: Hof1-Folk
+    links:
+      - "https://www.facebook.com/events/934957784088630/"
+    start: 2022-08-02T18:30:00+02:00
+    end: 2022-08-02T23:30:00+02:00
+    country: Austria
+    city: Vienna
+    styles: [balfolk]
+    workshop: false
+    social: true
+    organisation: Michaela Perkic
+
+  - name: Hof 3-Folk
+    start: 2022-08-25T19:00:00+02:00
+    end: 2022-08-25T23:55:00+02:00
+    links:
+      - "https://www.facebook.com/events/747975899594409/"
+    country: Austria
+    city: Vienna
+    styles: [balfolk]
+    workshop: false
+    social: true
+    organisation: Michaela Perkic
+
+  - name: Hof 3-Folk
+    start: 2022-09-05T19:00:00+02:00
+    end: 2022-09-05T23:55:00+02:00
+    links:
+      - "https://www.facebook.com/events/5782468661785442/"
+    country: Austria
+    city: Vienna
+    styles: [balfolk]
+    workshop: false
+    social: true
+    organisation: Michaela Perkic
+
+  - name: Hof 3-Folk
+    start: 2022-09-13T18:00:00+02:00
+    end: 2022-09-13T22:55:00+02:00
+    links:
+      - "https://www.facebook.com/events/8158390154200906/"
+    country: Austria
+    city: Vienna
+    styles: [balfolk]
+    workshop: false
+    social: true
+    organisation: Michaela Perkic
+
+  - name: "Hof 3-Folk, Geburtstagsedition"
+    links:
+      - "https://www.facebook.com/events/628307855628466/"
+    start: "2023-06-17T18:30:00+02:00"
+    end: "2023-06-18T03:25:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Michaela Perkic
+
+  - name: Hof 3-Folk goes Votivpark
+    links:
+      - "https://www.facebook.com/events/3476630172652731/"
+    start: "2023-08-17T18:00:00+02:00"
+    end: "2023-08-17T23:55:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: Michaela Perkic
+
+  - name: VotivFolk
+    links:
+      - "https://www.facebook.com/events/2011907342518963/"
+    start: "2023-09-04T18:00:00+02:00"
+    end: "2023-09-04T22:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: Michaela Perkic
+
+  - name: VotivFolk
+    links:
+      - "https://www.facebook.com/events/1037838617233119/"
+    start: "2023-09-21T18:00:00+02:00"
+    end: "2023-09-21T22:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: Michaela Perkic
+
+  - name: VotivFolk
+    links:
+      - "https://www.facebook.com/events/991750492036212/"
+    start: "2023-09-28T18:00:00+02:00"
+    end: "2023-09-28T22:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: Michaela Perkic
