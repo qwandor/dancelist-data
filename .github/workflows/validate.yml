@@ -32,17 +32,3 @@ jobs:
         run: cargo install --git https://github.com/qwandor/dancelist
       - name: Validate
         run: dancelist validate events/
-  lint:
-    name: Lint
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          # Check out the branch by name, so we can commit to it below.
-          repository: ${{github.event.pull_request.head.repo.full_name}}
-          ref: ${{ github.head_ref }}
-          fetch-depth: 0
-      - name: Format YAML and Markdown
-        uses: creyD/prettier_action@v4.3
-        with:
-          prettier_options: "--write **/*.{yaml,md}"
