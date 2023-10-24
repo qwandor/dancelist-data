@@ -1378,54 +1378,79 @@ events:
     price: $5
     organisation: Le Grand Bal de Chidlow
     source: events/australia/chidlow.yaml
-  - name: Folk-Tanz Abend im Achillion
+  - name: MuwiFolxTanz Vol.15
     links:
-      - "https://www.facebook.com/events/487880726207590/"
-    start: "2022-03-27T16:00:00+02:00"
-    end: "2022-03-27T22:30:00+02:00"
+      - "https://www.facebook.com/events/570464781789200/"
+    start: "2023-05-12T19:00:00+02:00"
+    end: "2023-05-12T23:00:00+02:00"
     country: Austria
     city: Vienna
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
-    bands:
-      - Steffi Lürzel & Jamie Huddlestone
-      - Simone Singh Sondhi & Johannes Georg Schwarz
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
-  - name: Polska workshop
+    price: donation
+    organisation: MuwiFolxTanz
+    source: events/austria/vienna-muwifolxtanz.yaml
+  - name: MuwiFolxTanz Vol.16
     links:
-      - "https://www.facebook.com/events/530578591766366/"
-    start: "2022-04-23T13:00:00+02:00"
-    end: "2022-04-23T16:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - scandi
-    workshop: true
-    social: false
-    price: €40
-    organisation: Judith Benkö
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend im Achillion
-    links:
-      - "https://www.facebook.com/events/362772329111410/"
-    start: "2022-04-24T16:00:00+02:00"
-    end: "2022-04-24T23:00:00+02:00"
+      - "https://www.facebook.com/events/604987248261949/"
+    start: "2023-06-23T19:00:00+02:00"
+    end: "2023-06-23T23:00:00+02:00"
     country: Austria
     city: Vienna
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
-    bands:
-      - Trio ZAJ
-      - Stephan Steiner
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
+    price: donation
+    organisation: MuwiFolxTanz
+    source: events/austria/vienna-muwifolxtanz.yaml
+  - name: MuwiFolxTanz Vol.17
+    details: Folk dance at the university. Open stage. May also contain other folk styles.
+    links:
+      - "https://www.facebook.com/events/205465639053376"
+    start: "2023-10-06T19:00:00+02:00"
+    end: "2023-10-06T23:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: donation
+    organisation: MuwiFolxTanz
+    source: events/austria/vienna-muwifolxtanz.yaml
+  - name: MuwiFolxTanz Vol.18
+    details: Folk dance at the university. Open stage. May also contain other folk styles.
+    links:
+      - "https://www.facebook.com/events/1080823212885113"
+    start: "2023-11-10T19:00:00+01:00"
+    end: "2023-11-10T23:00:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: donation
+    organisation: MuwiFolxTanz
+    source: events/austria/vienna-muwifolxtanz.yaml
+  - name: MuwiFolxTanz Vol.19
+    details: Folk dance at the university. Open stage. May also contain other folk styles.
+    links:
+      - "https://www.facebook.com/events/1841501806365560"
+    start: "2023-12-01T19:00:00+01:00"
+    end: "2023-12-01T23:00:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: donation
+    organisation: MuwiFolxTanz
+    source: events/austria/vienna-muwifolxtanz.yaml
   - name: Hotel Palindrone
     links:
       - "https://www.facebook.com/events/1324803164692179/"
@@ -1440,8 +1465,44 @@ events:
     bands:
       - Hotel Palindrone
     price: €15.50-€22
-    organisation: ~
-    source: events/austria/vienna.yaml
+    organisation: Hotel Palindrone
+    source: events/austria/hotel-palindrone.yaml
+  - name: Ballsaal Palindrone
+    links:
+      - "https://www.facebook.com/events/858979028771279/"
+      - "https://musikschule-simmering.at/ballsaal-palindrone/"
+    start: "2023-01-19T18:30:00+01:00"
+    end: "2023-01-19T23:00:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Hotel Palindrone
+      - Tanzhausgeiger
+      - Die Limanis
+    price: €7-€15
+    organisation: Hotel Palindrone
+    source: events/austria/hotel-palindrone.yaml
+  - name: Ballsaal Palindrone @ Sargfabrik
+    links:
+      - "https://sargfabrik.at/veranstaltungen/hotel-palindrone-1159-8215-4827"
+    start: "2023-10-21T18:30:00+02:00"
+    end: "2023-10-21T23:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Hotel Palindrone
+      - Biowobble
+    price: €15.50-€22
+    organisation: Hotel Palindrone
+    source: events/austria/hotel-palindrone.yaml
   - name: Zweitägiger Tanzkurs
     links:
       - "https://www.facebook.com/events/1198188487657076/"
@@ -1457,63 +1518,7 @@ events:
       - Lauge Dideriksen
     price: €80-€120
     organisation: ~
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend im Achillion
-    links:
-      - "https://www.facebook.com/events/525838935645955/"
-    start: "2022-05-29T16:00:00+02:00"
-    end: "2022-05-29T23:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
-  - name: Polskarhythmen tanzen
-    links:
-      - "https://www.facebook.com/events/1175974343221189/"
-    start: "2022-06-04T10:00:00+02:00"
-    end: "2022-06-04T12:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - scandi
-    workshop: true
-    social: false
-    price: €100
-    organisation: Judith Benkö
-    source: events/austria/vienna.yaml
-  - name: Polskarhythmen tanzen
-    links:
-      - "https://www.facebook.com/events/1175974343221189/"
-    start: "2022-06-11T10:00:00+02:00"
-    end: "2022-06-11T12:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - scandi
-    workshop: true
-    social: false
-    price: €100
-    organisation: Judith Benkö
-    source: events/austria/vienna.yaml
-  - name: Polskarhythmen tanzen
-    links:
-      - "https://www.facebook.com/events/1175974343221189/"
-    start: "2022-06-18T10:00:00+02:00"
-    end: "2022-06-18T12:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - scandi
-    workshop: true
-    social: false
-    price: €100
-    organisation: Judith Benkö
-    source: events/austria/vienna.yaml
+    source: events/austria/vienna-toni.yaml
   - name: Ein Tanzabend in drei Sätzen
     links:
       - "https://www.facebook.com/events/420468339701131/"
@@ -1532,203 +1537,7 @@ events:
       - Stępień/Dideriksen
     price: donation
     organisation: ~
-    source: events/austria/vienna.yaml
-  - name: Polskarhythmen tanzen
-    links:
-      - "https://www.facebook.com/events/1175974343221189/"
-    start: "2022-06-25T10:00:00+02:00"
-    end: "2022-06-25T12:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - scandi
-    workshop: true
-    social: false
-    price: €100
-    organisation: Judith Benkö
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend im Achillion
-    links:
-      - "https://www.facebook.com/events/525838938979288/"
-    start: "2022-06-26T16:00:00+02:00"
-    end: "2022-06-26T23:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
-  - name: Hof3-Folk
-    links: []
-    start: "2022-08-01T19:00:00+02:00"
-    end: "2022-08-01T23:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Michaela Perkic
-    cancelled: true
-    source: events/austria/vienna.yaml
-  - name: Hof1-Folk
-    links:
-      - "https://www.facebook.com/events/934957784088630/"
-    start: "2022-08-02T18:30:00+02:00"
-    end: "2022-08-02T23:30:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Michaela Perkic
-    source: events/austria/vienna.yaml
-  - name: Hof 3-Folk
-    links:
-      - "https://www.facebook.com/events/747975899594409/"
-    start: "2022-08-25T19:00:00+02:00"
-    end: "2022-08-25T23:55:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Michaela Perkic
-    source: events/austria/vienna.yaml
-  - name: Hof 3-Folk
-    links:
-      - "https://www.facebook.com/events/5782468661785442/"
-    start: "2022-09-05T19:00:00+02:00"
-    end: "2022-09-05T23:55:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Michaela Perkic
-    source: events/austria/vienna.yaml
-  - name: Hof 3-Folk
-    links:
-      - "https://www.facebook.com/events/8158390154200906/"
-    start: "2022-09-13T18:00:00+02:00"
-    end: "2022-09-13T22:55:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Michaela Perkic
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend im Achillion
-    links:
-      - "https://www.facebook.com/events/636609774545068/"
-    start: "2022-09-18T16:00:00+02:00"
-    end: "2022-09-18T23:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Simon Wascher & Hermann Haertel
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
-  - name: Polska-Tanz-Wochenende
-    links:
-      - "https://www.facebook.com/events/489075272611657/"
-    start: "2022-09-24T10:00:00+02:00"
-    end: "2022-09-25T16:30:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - scandi
-    workshop: true
-    social: false
-    price: €100
-    organisation: Judith Benkö
-    source: events/austria/vienna.yaml
-  - name: Polska & Friends
-    links:
-      - "https://www.facebook.com/events/1058280894829909/"
-    start: "2022-09-28T18:30:00+02:00"
-    end: "2022-09-28T20:30:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - scandi
-    workshop: true
-    social: false
-    price: €100
-    organisation: Judith Benkö
-    source: events/austria/vienna.yaml
-  - name: Polska & Friends
-    links:
-      - "https://www.facebook.com/events/1058280894829909/"
-    start: "2022-10-05T18:30:00+02:00"
-    end: "2022-10-05T20:30:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - scandi
-    workshop: true
-    social: false
-    price: €100
-    organisation: Judith Benkö
-    source: events/austria/vienna.yaml
-  - name: Polska & Friends
-    links:
-      - "https://www.facebook.com/events/1058280894829909/"
-    start: "2022-10-12T18:30:00+02:00"
-    end: "2022-10-12T20:30:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - scandi
-    workshop: true
-    social: false
-    price: €100
-    organisation: Judith Benkö
-    source: events/austria/vienna.yaml
-  - name: Polska & Friends
-    links:
-      - "https://www.facebook.com/events/1058280894829909/"
-    start: "2022-10-19T18:30:00+02:00"
-    end: "2022-10-19T20:30:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - scandi
-    workshop: true
-    social: false
-    price: €100
-    organisation: Judith Benkö
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend im Achillion
-    links:
-      - "https://www.facebook.com/events/531881308369180/"
-    start: "2022-11-13T16:00:00+01:00"
-    end: "2022-11-13T23:00:00+01:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Sebastian Slameczka
-      - Trio ZAJ
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
+    source: events/austria/vienna-toni.yaml
   - name: Zweitägiger Tanzkurs
     links: []
     start_date: 2022-10-08
@@ -1740,7 +1549,7 @@ events:
     workshop: true
     social: false
     organisation: Anton Hacker
-    source: events/austria/vienna.yaml
+    source: events/austria/vienna-toni.yaml
   - name: Bal-Folk Tanzkurs
     links:
       - "https://www.facebook.com/events/818304265911875/"
@@ -1756,91 +1565,7 @@ events:
       - Sebastian Slameczka
     price: €80-€160
     organisation: Anton Hacker
-    source: events/austria/vienna.yaml
-  - name: Ballsaal Palindrone
-    links:
-      - "https://www.facebook.com/events/858979028771279/"
-      - "https://musikschule-simmering.at/ballsaal-palindrone/"
-    start: "2023-01-19T18:30:00+01:00"
-    end: "2023-01-19T23:00:00+01:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Hotel Palindrone
-      - Tanzhausgeiger
-      - Die Limanis
-    price: €7-€15
-    organisation: TanzFolk Vienna
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend
-    links:
-      - "https://www.facebook.com/events/957588811873863/"
-    start: "2023-01-29T16:00:00+01:00"
-    end: "2023-01-29T22:00:00+01:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-      - scandi
-    workshop: true
-    social: true
-    bands:
-      - Tapage Hommage
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend
-    links:
-      - "https://www.facebook.com/events/1527373977772975/"
-    start: "2023-02-19T16:00:00+01:00"
-    end: "2023-02-19T22:00:00+01:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Trio WHA
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend
-    links:
-      - "https://www.facebook.com/events/716013233424637/"
-    start: "2023-03-12T16:00:00+01:00"
-    end: "2023-03-12T22:00:00+01:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Albin & Stoney
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend
-    links:
-      - "https://www.facebook.com/events/728072422278544/"
-    start: "2023-04-16T16:00:00+02:00"
-    end: "2023-04-16T22:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Tanzhausgeiger
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
+    source: events/austria/vienna-toni.yaml
   - name: Fest-Noz Soirée Bretonne
     links:
       - "https://www.facebook.com/events/531435392440108/"
@@ -1858,320 +1583,7 @@ events:
       - Roc’Hann
     price: €12-€14
     organisation: WIM
-    source: events/austria/vienna.yaml
-  - name: MuwiFolxTanz 15
-    links:
-      - "https://www.facebook.com/events/570464781789200/"
-    start: "2023-05-12T19:00:00+02:00"
-    end: "2023-05-12T23:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: donation
-    organisation: MuwiFolxTanz
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend
-    links:
-      - "https://www.facebook.com/events/1329537297899189/"
-    start: "2023-05-21T16:00:00+02:00"
-    end: "2023-05-21T22:30:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Duo Lilù
-      - Claudia & Lippo
-      - "Lippo, Claudia, Stoney, Jamie & Steffi"
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend
-    links:
-      - "https://www.facebook.com/events/539144141754497/"
-    start: "2023-06-11T16:00:00+02:00"
-    end: "2023-06-11T22:30:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Johannes Schwarz & Anna Breger
-      - Anna Breger
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
-  - name: Organic Dancefloor
-    links:
-      - "https://fraumayer.at/event/haertel-wascher-duo-and-friends-organic-dancefloor/"
-    start: "2023-06-14T22:00:00+02:00"
-    end: "2023-06-14T23:30:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Simon Wascher & Hermann Haertel
-    organisation: Frau Mayer
-    source: events/austria/vienna.yaml
-  - name: "Hof 3-Folk, Geburtstagsedition"
-    links:
-      - "https://www.facebook.com/events/628307855628466/"
-    start: "2023-06-17T18:30:00+02:00"
-    end: "2023-06-18T03:25:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Michaela Perkic
-    source: events/austria/vienna.yaml
-  - name: MuwiFolxTanz 16
-    links:
-      - "https://www.facebook.com/events/604987248261949/"
-    start: "2023-06-23T19:00:00+02:00"
-    end: "2023-06-23T23:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: donation
-    organisation: MuwiFolxTanz
-    source: events/austria/vienna.yaml
-  - name: Hof 3-Folk goes Votivpark
-    links:
-      - "https://www.facebook.com/events/3476630172652731/"
-    start: "2023-08-17T18:00:00+02:00"
-    end: "2023-08-17T23:55:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: free
-    organisation: Michaela Perkic
-    source: events/austria/vienna.yaml
-  - name: VotivFolk
-    links:
-      - "https://www.facebook.com/events/2011907342518963/"
-    start: "2023-09-04T18:00:00+02:00"
-    end: "2023-09-04T22:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: free
-    organisation: Michaela Perkic
-    source: events/austria/vienna.yaml
-  - name: VotivFolk
-    links:
-      - "https://www.facebook.com/events/1037838617233119/"
-    start: "2023-09-21T18:00:00+02:00"
-    end: "2023-09-21T22:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: free
-    organisation: Michaela Perkic
-    source: events/austria/vienna.yaml
-  - name: "Polska workshop day: Bakmes"
-    links:
-      - "https://www.facebook.com/events/6759081074206673/"
-    start: "2023-09-23T10:00:00+02:00"
-    end: "2023-09-23T16:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - scandi
-    workshop: true
-    social: false
-    price: €60
-    organisation: Judith Benkö
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend im Achillion
-    details: Balfolk dance night with live music and a workshop at the beginning.
-    links:
-      - "https://www.facebook.com/events/1412833502595930"
-    start: "2023-09-24T16:00:00+02:00"
-    end: "2023-09-24T22:30:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Duo Härtel Wascher
-      - Steffi Lürzel & Jamie Huddlestone
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
-  - name: VotivFolk
-    links:
-      - "https://www.facebook.com/events/991750492036212/"
-    start: "2023-09-28T18:00:00+02:00"
-    end: "2023-09-28T22:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: free
-    organisation: Michaela Perkic
-    source: events/austria/vienna.yaml
-  - name: MuwiFolxTanz 17
-    details: Folk dance at the university. Open stage. May also contain other folk styles.
-    links:
-      - "https://www.facebook.com/events/205465639053376"
-    start: "2023-10-06T19:00:00+02:00"
-    end: "2023-10-06T23:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: donation
-    organisation: MuwiFolxTanz
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend im Achillion
-    details: Balfolk dance night with live music and a workshop at the beginning.
-    links:
-      - "https://www.facebook.com/events/3393544137623649"
-    start: "2023-10-15T16:00:00+02:00"
-    end: "2023-10-15T22:30:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Lauge Dideriksen
-      - Trio ZAJ
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
-  - name: Ballsaal Palindrone @ Sargfabrik
-    links:
-      - "https://sargfabrik.at/veranstaltungen/hotel-palindrone-1159-8215-4827"
-    start: "2023-10-21T18:30:00+02:00"
-    end: "2023-10-21T23:00:00+02:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Hotel Palindrone
-      - Biowobble
-    price: €15.50-€22
-    organisation: Hotel Palindrone
-    source: events/austria/vienna.yaml
-  - name: MuwiFolxTanz 18
-    details: Folk dance at the university. Open stage. May also contain other folk styles.
-    links:
-      - "https://www.facebook.com/events/1080823212885113"
-    start: "2023-11-10T19:00:00+01:00"
-    end: "2023-11-10T23:00:00+01:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: donation
-    organisation: MuwiFolxTanz
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend im Achillion
-    details: Balfolk dance night with live music and a workshop at the beginning.
-    links:
-      - "https://www.facebook.com/events/975741050325642"
-    start: "2023-11-12T16:00:00+01:00"
-    end: "2023-11-12T22:30:00+01:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Tapage Hommage
-      - Wilde Kapelle
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
-  - name: MuwiFolxTanz 19
-    details: Folk dance at the university. Open stage. May also contain other folk styles.
-    links:
-      - "https://www.facebook.com/events/1841501806365560"
-    start: "2023-12-01T19:00:00+01:00"
-    end: "2023-12-01T23:00:00+01:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: donation
-    organisation: MuwiFolxTanz
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend im Achillion
-    details: Balfolk dance night with live music and a workshop at the beginning.
-    links:
-      - "https://www.facebook.com/events/865879634960426"
-    start: "2023-12-10T16:00:00+01:00"
-    end: "2023-12-10T22:30:00+01:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-      - scandi
-    workshop: true
-    social: true
-    bands:
-      - Bettina & Christian
-      - Laurenz Schiffermüller
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
-  - name: Folktanz-Abend im Achillion
-    details: Balfolk dance night with live music and a workshop at the beginning.
-    links:
-      - "https://www.facebook.com/events/273054362165149"
-    start: "2024-01-14T16:00:00+01:00"
-    end: "2024-01-14T22:30:00+01:00"
-    country: Austria
-    city: Vienna
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - "Duo l'Hêtre Heureux"
-    price: €10-€14
-    organisation: FolkTanz Wien
-    source: events/austria/vienna.yaml
+    source: events/austria/vienna-other.yaml
   - name: Tanzhaus Innsbruck
     links:
       - "https://tanzhaus-innsbruck.jimdofree.com/"
@@ -2188,6 +1600,741 @@ events:
     price: donation
     organisation: Tanzhaus Tirol
     source: events/austria/innsbruck.yaml
+  - name: Organic Dancefloor
+    links:
+      - "https://fraumayer.at/event/haertel-wascher-duo-and-friends-organic-dancefloor/"
+    start: "2023-06-14T22:00:00+02:00"
+    end: "2023-06-14T23:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Härtel Wascher & Friends
+    organisation: Simon Wascher
+    source: events/austria/vienna-organic-dancefloor.yaml
+  - name: Organic Dancefloor
+    links:
+      - "https://fraumayer.at/event/haertel-wascher-duo-and-friends-organic-dancefloor-2/"
+    start: "2023-09-20T22:00:00+02:00"
+    end: "2023-09-20T23:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Härtel Wascher & Friends
+    organisation: Simon Wascher
+    source: events/austria/vienna-organic-dancefloor.yaml
+  - name: Organic Dancefloor
+    links:
+      - "https://fraumayer.at/event/haertel-wascher-duo-and-friends-organic-dancefloor-3/"
+    start: "2023-10-18T22:00:00+02:00"
+    end: "2023-10-18T23:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Härtel Wascher & Friends
+    organisation: Simon Wascher
+    source: events/austria/vienna-organic-dancefloor.yaml
+  - name: Organic Dancefloor
+    links:
+      - "https://fraumayer.at/event/haertel-wascher-duo-and-friends-organic-dancefloor-4/"
+    start: "2023-11-08T22:00:00+01:00"
+    end: "2023-11-08T23:30:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Härtel Wascher & Friends
+    organisation: Simon Wascher
+    source: events/austria/vienna-organic-dancefloor.yaml
+  - name: Organic Dancefloor
+    links: []
+    start: "2024-01-17T22:00:00+01:00"
+    end: "2024-01-17T23:30:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Härtel Wascher & Friends
+    organisation: Simon Wascher
+    source: events/austria/vienna-organic-dancefloor.yaml
+  - name: Organic Dancefloor
+    links: []
+    start: "2024-02-28T22:00:00+01:00"
+    end: "2024-02-28T23:30:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Härtel Wascher & Friends
+    organisation: Simon Wascher
+    source: events/austria/vienna-organic-dancefloor.yaml
+  - name: Organic Dancefloor
+    links: []
+    start: "2024-03-27T22:00:00+01:00"
+    end: "2024-03-27T23:30:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Härtel Wascher & Friends
+    organisation: Simon Wascher
+    source: events/austria/vienna-organic-dancefloor.yaml
+  - name: Organic Dancefloor
+    links: []
+    start: "2024-04-24T22:00:00+02:00"
+    end: "2024-04-24T23:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Härtel Wascher & Friends
+    organisation: Simon Wascher
+    source: events/austria/vienna-organic-dancefloor.yaml
+  - name: Organic Dancefloor
+    links: []
+    start: "2024-05-29T22:00:00+02:00"
+    end: "2024-05-29T23:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Härtel Wascher & Friends
+    organisation: Simon Wascher
+    source: events/austria/vienna-organic-dancefloor.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/487880726207590/"
+    start: "2022-03-27T16:00:00+02:00"
+    end: "2022-03-27T22:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Steffi & Jamie
+      - Simone Singh Sondhi & Johannes Georg Schwarz
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/362772329111410/"
+    start: "2022-04-24T16:00:00+02:00"
+    end: "2022-04-24T23:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Trio ZAJ
+      - Stephan Steiner
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/525838935645955/"
+    start: "2022-05-29T16:00:00+02:00"
+    end: "2022-05-29T23:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Trio Toxico
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/525838938979288/"
+    start: "2022-06-26T16:00:00+02:00"
+    end: "2022-06-26T23:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/636609774545068/"
+    start: "2022-09-18T16:00:00+02:00"
+    end: "2022-09-18T23:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Härtel Wascher
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/531881308369180/"
+    start: "2022-11-13T16:00:00+01:00"
+    end: "2022-11-13T23:00:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Sebastian Slameczka
+      - Trio ZAJ
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/957588811873863/"
+    start: "2023-01-29T16:00:00+01:00"
+    end: "2023-01-29T22:00:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+      - scandi
+    workshop: true
+    social: true
+    bands:
+      - Tapage Hommage
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/1527373977772975/"
+    start: "2023-02-19T16:00:00+01:00"
+    end: "2023-02-19T22:00:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Trio WHA
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/716013233424637/"
+    start: "2023-03-12T16:00:00+01:00"
+    end: "2023-03-12T22:00:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Albin & Stoney
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/728072422278544/"
+    start: "2023-04-16T16:00:00+02:00"
+    end: "2023-04-16T22:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Tanzhausgeiger
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/1329537297899189/"
+    start: "2023-05-21T16:00:00+02:00"
+    end: "2023-05-21T22:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Lilù
+      - Claudia & Lippo
+      - "Lippo, Claudia, Stoney, Jamie & Steffi"
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/539144141754497/"
+    start: "2023-06-11T16:00:00+02:00"
+    end: "2023-06-11T22:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Johannes Schwarz & Anna Breger
+      - Anna Breger
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    details: Balfolk dance night with live music and a workshop at the beginning.
+    links:
+      - "https://www.facebook.com/events/1412833502595930"
+    start: "2023-09-24T16:00:00+02:00"
+    end: "2023-09-24T22:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Härtel Wascher
+      - Steffi & Jamie
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    details: Balfolk dance night with live music and a workshop at the beginning.
+    links:
+      - "https://www.facebook.com/events/3393544137623649"
+    start: "2023-10-15T16:00:00+02:00"
+    end: "2023-10-15T22:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Lauge Dideriksen
+      - Trio ZAJ
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    details: Balfolk dance night with live music and a workshop at the beginning.
+    links:
+      - "https://www.facebook.com/events/975741050325642"
+    start: "2023-11-12T16:00:00+01:00"
+    end: "2023-11-12T22:30:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Tapage Hommage
+      - Wilde Kapelle
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    details: Balfolk dance night with live music and a workshop at the beginning.
+    links:
+      - "https://www.facebook.com/events/865879634960426"
+    start: "2023-12-10T16:00:00+01:00"
+    end: "2023-12-10T22:30:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+      - scandi
+    workshop: true
+    social: true
+    bands:
+      - Duo J&W
+      - Laurenz Schiffermüller
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    details: Balfolk dance night with live music and a workshop at the beginning.
+    links:
+      - "https://www.facebook.com/events/273054362165149"
+    start: "2024-01-14T16:00:00+01:00"
+    end: "2024-01-14T22:30:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - "Duo l'Hêtre Heureux"
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/1423870478546590/"
+    start: "2024-02-25T16:00:00+01:00"
+    end: "2024-02-25T22:30:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Lyranten
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/1122439958721106/"
+    start: "2024-04-07T16:00:00+02:00"
+    end: "2024-04-07T22:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Trio WHA
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: Polska workshop
+    links:
+      - "https://www.facebook.com/events/530578591766366/"
+    start: "2022-04-23T13:00:00+02:00"
+    end: "2022-04-23T16:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: €40
+    organisation: Judith Benkö
+    source: events/austria/vienna-judith.yaml
+  - name: Polskarhythmen tanzen
+    links:
+      - "https://www.facebook.com/events/1175974343221189/"
+    start: "2022-06-04T10:00:00+02:00"
+    end: "2022-06-04T12:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: €100
+    organisation: Judith Benkö
+    source: events/austria/vienna-judith.yaml
+  - name: Polskarhythmen tanzen
+    links:
+      - "https://www.facebook.com/events/1175974343221189/"
+    start: "2022-06-11T10:00:00+02:00"
+    end: "2022-06-11T12:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: €100
+    organisation: Judith Benkö
+    source: events/austria/vienna-judith.yaml
+  - name: Polskarhythmen tanzen
+    links:
+      - "https://www.facebook.com/events/1175974343221189/"
+    start: "2022-06-18T10:00:00+02:00"
+    end: "2022-06-18T12:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: €100
+    organisation: Judith Benkö
+    source: events/austria/vienna-judith.yaml
+  - name: Polskarhythmen tanzen
+    links:
+      - "https://www.facebook.com/events/1175974343221189/"
+    start: "2022-06-25T10:00:00+02:00"
+    end: "2022-06-25T12:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: €100
+    organisation: Judith Benkö
+    source: events/austria/vienna-judith.yaml
+  - name: Polska-Tanz-Wochenende
+    links:
+      - "https://www.facebook.com/events/489075272611657/"
+    start: "2022-09-24T10:00:00+02:00"
+    end: "2022-09-25T16:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: €100
+    organisation: Judith Benkö
+    source: events/austria/vienna-judith.yaml
+  - name: Polska & Friends (1/4)
+    links:
+      - "https://www.facebook.com/events/1058280894829909/"
+    start: "2022-09-28T18:30:00+02:00"
+    end: "2022-09-28T20:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: €100
+    organisation: Judith Benkö
+    source: events/austria/vienna-judith.yaml
+  - name: Polska & Friends (2/4)
+    links:
+      - "https://www.facebook.com/events/1058280894829909/"
+    start: "2022-10-05T18:30:00+02:00"
+    end: "2022-10-05T20:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: €100
+    organisation: Judith Benkö
+    source: events/austria/vienna-judith.yaml
+  - name: Polska & Friends (3/4)
+    links:
+      - "https://www.facebook.com/events/1058280894829909/"
+    start: "2022-10-12T18:30:00+02:00"
+    end: "2022-10-12T20:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: €100
+    organisation: Judith Benkö
+    source: events/austria/vienna-judith.yaml
+  - name: Polska & Friends (4/4)
+    links:
+      - "https://www.facebook.com/events/1058280894829909/"
+    start: "2022-10-19T18:30:00+02:00"
+    end: "2022-10-19T20:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: €100
+    organisation: Judith Benkö
+    source: events/austria/vienna-judith.yaml
+  - name: "Polska workshop day: Bakmes"
+    links:
+      - "https://www.facebook.com/events/6759081074206673/"
+    start: "2023-09-23T10:00:00+02:00"
+    end: "2023-09-23T16:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: €60
+    organisation: Judith Benkö
+    source: events/austria/vienna-judith.yaml
+  - name: Hof3-Folk
+    links: []
+    start: "2022-08-01T19:00:00+02:00"
+    end: "2022-08-01T23:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Michaela Perkic
+    cancelled: true
+    source: events/austria/vienna-michaela.yaml
+  - name: Hof1-Folk
+    links:
+      - "https://www.facebook.com/events/934957784088630/"
+    start: "2022-08-02T18:30:00+02:00"
+    end: "2022-08-02T23:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Michaela Perkic
+    source: events/austria/vienna-michaela.yaml
+  - name: Hof 3-Folk
+    links:
+      - "https://www.facebook.com/events/747975899594409/"
+    start: "2022-08-25T19:00:00+02:00"
+    end: "2022-08-25T23:55:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Michaela Perkic
+    source: events/austria/vienna-michaela.yaml
+  - name: Hof 3-Folk
+    links:
+      - "https://www.facebook.com/events/5782468661785442/"
+    start: "2022-09-05T19:00:00+02:00"
+    end: "2022-09-05T23:55:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Michaela Perkic
+    source: events/austria/vienna-michaela.yaml
+  - name: Hof 3-Folk
+    links:
+      - "https://www.facebook.com/events/8158390154200906/"
+    start: "2022-09-13T18:00:00+02:00"
+    end: "2022-09-13T22:55:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Michaela Perkic
+    source: events/austria/vienna-michaela.yaml
+  - name: "Hof 3-Folk, Geburtstagsedition"
+    links:
+      - "https://www.facebook.com/events/628307855628466/"
+    start: "2023-06-17T18:30:00+02:00"
+    end: "2023-06-18T03:25:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Michaela Perkic
+    source: events/austria/vienna-michaela.yaml
+  - name: Hof 3-Folk goes Votivpark
+    links:
+      - "https://www.facebook.com/events/3476630172652731/"
+    start: "2023-08-17T18:00:00+02:00"
+    end: "2023-08-17T23:55:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: Michaela Perkic
+    source: events/austria/vienna-michaela.yaml
+  - name: VotivFolk
+    links:
+      - "https://www.facebook.com/events/2011907342518963/"
+    start: "2023-09-04T18:00:00+02:00"
+    end: "2023-09-04T22:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: Michaela Perkic
+    source: events/austria/vienna-michaela.yaml
+  - name: VotivFolk
+    links:
+      - "https://www.facebook.com/events/1037838617233119/"
+    start: "2023-09-21T18:00:00+02:00"
+    end: "2023-09-21T22:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: Michaela Perkic
+    source: events/austria/vienna-michaela.yaml
+  - name: VotivFolk
+    links:
+      - "https://www.facebook.com/events/991750492036212/"
+    start: "2023-09-28T18:00:00+02:00"
+    end: "2023-09-28T22:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: Michaela Perkic
+    source: events/austria/vienna-michaela.yaml
   - name: Vertanzt - Nordic Edition
     details: "4 days of dancing: during the day in workshops, in the evening at concerts and balls. You can expect a fascinating variety of dance styles from all over the world, a unique atmosphere and the beautiful Emmental landscape. Come and dance with us! 😃"
     links:
