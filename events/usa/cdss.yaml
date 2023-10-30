@@ -1,89 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Music City Masquerade
-    details: "Come to Nashville, TN for contra dancing and more at the Music City Masquerade. Lisa Greenleaf will call to the music of Audrey Jaber, Max Newman, and Stuart Kenney. Plan your costume (not required but always lots of fun) for the Saturday evening dance.  \n\nCost: $104-$150, pay what you want\nHalf price for full time students\nLimited scholarships available \n\n "
-    links:
-      - "https://cdss.org/event/music-city-masquerade/"
-    start_date: 2023-10-27
-    end_date: 2023-10-29
-    country: USA
-    state: TN
-    city: Nashville
-    styles:
-      - contra
-    workshop: false
-    social: true
-    callers:
-      - Lisa Greenleaf
-    price: $104-$150
-    organisation: Nashville Country Dancers
-  - name: "Pittsburgh Fall Dance Weekend (Mask\\, Vaccination Optional)"
-    details: "Come dance to the music of Supertrad and Stomp Rocket with callers Gaye Fifer, Janine Smith, and guest caller Michael Karchar. All are welcome. \nThis is a mask-optional and vaccine-optional dance. While dancing, we will have a mask-required line if enough people show up who are interested. Details and registration will be forthcoming on our website.  \n "
-    links:
-      - "https://cdss.org/event/pittsburgh-fall-dance-weekend/"
-    start_date: 2023-10-27
-    end_date: 2023-10-29
-    country: USA
-    state: PA
-    city: Pittsburgh
-    styles:
-      - contra
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Stomp Rocket
-      - Supertrad
-    callers:
-      - Gaye Fifer
-      - Janine Smith
-      - Michael Karchar
-    organisation: Pittsburgh Contra Dance
-  - name: Boo Camp - New Mexico
-    details: "Hosted by New Mexico FolkMADS  \n\nWhen: October 27-29, 2023\nWho: Frannie Marr, Countercurrent, Virginia Creepers, and YOU!\nHow Much: Sliding scale: $320 recommended ($200 minimum)\nCOVID Policy: vaccination required, rapid testing first day, masks optional \n\nBoo Camp is a residential camp held in the Manzano Mountains outside of Albuquerque, NM (~1 hour from Albuquerque & 1:45 from Santa Fe). This is an all levels, family friendly dance weekend highlighting regional and national callers and bands. The schedule will include contra dancing, couples dancing, jamming, and the much adored, Halloween themed, Boo Ball! "
-    links:
-      - "https://cdss.org/event/boo-camp-new-mexico/"
-    start: "2023-10-27T15:00:00-06:00"
-    end: "2023-10-29T15:00:00-06:00"
-    country: USA
-    state: NM
-    city: Torreon
-    styles:
-      - contra
-    workshop: false
-    social: true
-    price: $200-$320
-    organisation: FolkMADS
-  - name: Las Vegas Contra Dance
-    details: Monthly Contra dance. Beginners welcome. Beginner teaching first 30 minutes. Live music.
-    links:
-      - "https://cdss.org/event/las-vegas-contra-dance/2023-10-29/"
-    start: "2023-10-29T15:00:00-04:00"
-    end: "2023-10-29T18:00:00-04:00"
-    country: USA
-    state: NV
-    city: Las Vegas
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: CDSS
-  - name: Brattleboro Bal Folk
-    details: "Live music & dance instruction by Eloise & Co.\nBecky Tracy (fiddle) & Rachel Bell (accordion) \nCovid safety updates will be published a week before the event on the calendar page at Rachel Bell Music.  \nFun, accessible French and European traditional dances. No experience or partner necessary! A joyous community event for all!  \nDances range from beautiful and meditative to raucous and energetic. Even if you’ve never tried anything like this before, come on over! Feel free to sit along the edges and listen and check it out, or join right in on the fun! We’ll teach you everything you need to know, and the crowd has a reputation for being happy and welcoming, eager  to draw newcomers into the fun! For the folks who have been showing up regularly to this monthly series, we always include some extra variations or new dances so there’s always something new to look forward to!  \nCheck this video out, and then spread the word!"
-    links:
-      - "https://cdss.org/event/brattleboro-bal-folk/2023-10-29/"
-    start: "2023-10-29T18:30:00-04:00"
-    end: "2023-10-29T21:00:00-04:00"
-    country: USA
-    state: VT
-    city: Guilford
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Eloise & Co.
-    organisation: Brattleboro Bal Folk
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
     links:
@@ -347,3 +263,76 @@ events:
     workshop: false
     social: true
     organisation: CDSS
+  - name: Richmond VA Sunday Afternoon Contra Dance (TADAMS)
+    details: "Music: Playing with Fyre, featuring David DiGiuseppe (Chapel Hill)\nCaller: To Be Announced\nAdmission: $9 members/students, $12 non-members, 18 & under free.\nBeginner’s Workshop: Arrive early at 1:45pm to learn or review basic steps.\nCOVID: While vaccinations are excellent for preventing disease, TADAMS will no longer require proof of vaccination to participate in our dances.  Wearing a mask remains optional."
+    links:
+      - "https://cdss.org/event/richmond-va-sunday-afternoon-contra-dance-tadams-2/"
+    start: "2023-11-05T14:30:00-05:00"
+    end: "2023-11-05T17:50:00-05:00"
+    country: USA
+    state: VA
+    city: Richmond
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $9-$12
+    organisation: TADAMS (Traditional American Dance and Music Society)
+  - name: "The Founder of the Feast: Harvest Time in Old England"
+    details: "On Bonfire Night, join us for a musical journey through autumn in 17th-century England. As the nights grew longer, farmers brought in their harvest and turned their thoughts towards the many delights of Fall. Our program features a warming mix of songs about Martinmas and Guy Fawkes, autumnal tunes by Baldwin, Peerson, and Byrd, and high-spirited selections from Henry VIII’s music book, all performed on period instruments. You’ll also enjoy (and even sing along with) rousing ballads of hunting, harvest, and beer!  \nSeven Times Salt: \n\nAri Nieh, bass-baritone\nKaren Burciaga, violin, guitar\nDan Meyers, recorders, bagpipes, percussion\nJosh Schreiber, bass viol\nMatthew Wright, lute, bandora"
+    links:
+      - "https://cdss.org/event/the-founder-of-the-feast-harvest-time-in-old-england/"
+    start: "2023-11-05T15:30:00-05:00"
+    end: "2023-11-05T17:00:00-05:00"
+    country: "02809"
+    city: Bristol
+    styles: []
+    workshop: false
+    social: true
+    organisation: Seven Times Salt
+  - name: "The Founder of the Feast: Harvest Time in Old England"
+    details: "We mark Bonfire Night with a musical journey through autumn in 17th-century England. As the nights grew longer, farmers brought in their harvest and turned their thoughts towards the many delights of Fall. Our program features a warming mix of songs about Martinmas and Guy Fawkes, autumnal tunes by Baldwin, Peerson, and Byrd, and high-spirited selections from Henry VIII’s music book, all performed on period instruments. You’ll also enjoy (and even sing along with) rousing ballads of hunting, harvest, and beer!  \nSeven Times Salt: \n\nAri Nieh, bass-baritone\nKaren Burciaga, violin, guitar\nDan Meyers, recorders, bagpipes, percussion\nJosh Schreiber, bass viol\nMatthew Wright, lute, bandora"
+    links:
+      - "https://cdss.org/event/the-founder-of-the-feast-harvest-time-in-old-england-2/"
+    start: "2023-11-06T19:30:00-05:00"
+    end: "2023-11-06T20:45:00-05:00"
+    country: USA
+    state: MA
+    city: Watertown
+    styles: []
+    workshop: false
+    social: true
+    organisation: Seven Times Salt
+  - name: TECDA Tuesday Evening English Country Dance
+    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
+    links:
+      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2023-11-07/"
+    start: "2023-11-07T19:00:00-05:00"
+    end: "2023-11-07T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: North York
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
+  - name: English Country Dance - Asheville NC
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
+    links:
+      - "https://cdss.org/event/english-country-dance-asheville-nc/2023-11-08/"
+    start: "2023-11-08T19:00:00-05:00"
+    end: "2023-11-08T21:00:00-05:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: Luanne Stiles
