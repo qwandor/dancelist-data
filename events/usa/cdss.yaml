@@ -416,13 +416,14 @@ events:
     details: "Bare Necessities—Kate Barnes, Earl Gaddis, Mary Lea & Jacqueline Schwab—with Joanna Reiner Wilkinson, Caller \n\n\n\nFri. Nov 3\n7:30-10:30\nEnglish Country Dancing\n\n\nSat. Nov 4\n10:00-12:00\n2:00 – 4:00\nEnglish Country Dance Workshop\n\n\n \n8:00-11:00\nEnglish Country Dance Ball (Elegant wear / period costumes encouraged but not required!)\n\n\nSun. Nov 5\n10:00-12:30\nEnglish Country Dance Workshop\n\n\n\nDelicious snacks, tea and dessert offered during breaks. Schedule subject to revision. \nCome enjoy our warm hospitality, delightful dancing and varied culinary, cultural and shopping opportunities. If you’ve never visited Fairfield, you’re in for a treat! You’ll enjoy our incredible culinary offerings (Thai, Chinese, Indian, Mexican, Ethiopian, Gourmet Pizza, Turkish) and world-class coffee at Cafe Paradiso, all within 1-2 blocks walking distance from the dance! \nImportant: All dancers must be fully vaccinated to attend. Please do not ask for exceptions.  Most likely, for everyone’s safety, we will also require negative covid tests (home tests are fine) 2 days before coming and again on the first day. If everyone complies (please do!) then we may be able to make masks optional. We will have a final decision regarding masks and tests 2 weeks prior to the weekend and will notify all registered dancers.  \nIn order to ensure that we have full attendance (and can therefore afford to pay all the expenses), we are asking everyone to register in advance. So if you know you want to come, please register today. Thank you! \n$175. Includes full weekend and all snacks.\nNote:  This weekend is designed for experienced dancers and attendance is limited. We sell out every year, so PLEASE register soon! \nRegister by sending email to FairfolkDancers “at” gmail “dot” com and then send check payable to Jennifer Hamilton to arrive within 5 business days via snail-mail to:\nFFADC PO Box 1321, Fairfield, Iowa 52556 \nPlease include name, address, phone and email.  We sold out way in advance last time and expect to do so for 2023. Your cancelled check is your receipt—please do not be disappointed if you do not get an email acknowledgement. If you enquire by email, you are not registered until we receive your check! The time/date of your email will be the tie-breaker if we sell out on the day we receive your check. \nWe are delighted to welcome Joanna Reiner Wilkinson back to Fairfield. Many of you enjoyed dancing with her in the past and we are fortunate to welcome her again! \nCancellation / Refund Policy: If you need to cancel for any reason, we will allow you to transfer your personal registration to the next year (for one year only). Or you can send someone—a previously unregistered dancer whom you find—in your place to this current year’s weekend and let us know about the substitution. You handle all the details and work out the payment with your friend. This applies only to the specific weekend you paid for. Other than these two options, unfortunately there are no refunds or exchanges. We simply do not have the volunteer staff to handle these complications. (If you have sent your check late and the dance is full, we will not cash your check.) \nLocation: The Morning Star Studio, 51½ S. Court St. Fairfield, Iowa. Exit 214 coming East on Route 34, then 3 miles West to Main Street, then North to Broadway, East to Court, South on Court St. Or Exit 216 coming West on Route 34, then North on Route 1 (Main St.) to Business 34, then 1 more block north to Broadway, East to Court, South on Court St."
     links:
       - "https://cdss.org/event/fairfolk-dancers-29th-annual-english-country-dance-weekend/"
-    start_date: 2023-11-03
-    end_date: 2023-11-05
-    country: "52556"
-    city: 51 1/2 South Court St.
+    start: 2023-11-03T19:30:00-05:00
+    end: 2023-11-05T12:30:00-06:00
+    country: USA
+    state: IA
+    city: Fairfield
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Bare Necessities
@@ -433,6 +434,7 @@ events:
   - name: Foggy Moon Contra Dance Weekend
     details: "Monterey Country Dance Community is thrilled to be back for our 7th annual Foggy Moon Contra Dance Weekend! Join us for three days of dancing to nationally renowned musicians and callers in beautiful downtown Monterey, California. \nSpots fill up fast, so register today! \nNovember 3-5, 2023\nMusic by Elixir and The Free Raisins\nCalling by Nils Fredland and Lindsey Dono\nat the Monterey YMCA, 600 Camino el Estero in Monterey, CA \n\nDance with us Friday night through Sunday night in beautiful Monterey, CA\nThe YMCA of the Monterey Peninsula is an airy WWII-era wooden USO dance hall, just a short walk from the ocean and historic downtown Monterey.\nHealthy light snacks will be provided every day, all day, with tables indoors and out\nThe details of our COVID policy will be finalized later, but our regular dance series has a policy of masks optional at this time. We will have good quality paper masks available, for those who would like to use them, and we will work to ensure ventilation in the hall, no matter the weather\nWork scholarships available!\nMore information available on our website"
     links:
+      - "https://montereycontradance.org/index.html"
       - "https://cdss.org/event/foggy-moon-contra-dance-weekend/"
     start: "2023-11-03T18:30:00-04:00"
     end: "2023-11-05T22:00:00-05:00"
@@ -441,7 +443,7 @@ events:
     city: Monterey
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Elixir
@@ -449,7 +451,7 @@ events:
     callers:
       - Lindsey Dono
       - Nils Fredland
-    organisation: Monterey Country Dance Community
+    organisation: Monterey Contra Dance Community
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
     links:
@@ -469,7 +471,7 @@ events:
       - Dave Berman
       - Walter Zagorski
     organisation: Toronto English Country Dance Assembly
-  - name: Portland Country Dance Community Friday Night English Dance
+  - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
     links:
       - "https://cdss.org/event/pcdc-friday-night-english-dance/2023-11-03/"
@@ -497,7 +499,7 @@ events:
     workshop: false
     social: true
     organisation: English Dance S.A.
-  - name: Contra Dance with Southern Nevada Old-Time Contra Dancers
+  - name: Southern Nevada Old-Time Contra Dancers
     details: "If you haven’t attended any prior SNOCD events, you are in for a treat! We have live bands playing for us and outstanding callers helping us navigate through simple to complex contra figures. \nSubscribe to our monthly email newsletter"
     links:
       - "https://cdss.org/event/contra-dance-with-southern-nevada-old-time-contra-dancers-7/"
@@ -511,7 +513,7 @@ events:
     workshop: false
     social: true
     organisation: Southern Nevada Old-Time Contra Dancers (SNOCD)
-  - name: "Old Tyme Contra & Community Dance of Macon County\\, NC"
+  - name: "Old Tyme Contra & Community Dance"
     details: "First Saturday of every month: lesson at 6:30, dance 7-9pm.\nLive band and dance caller for contras, squares, round, and fun crazy family dances, too.\nBeginners are welcome! No need to bring a partner, but you are welcome to do so.\nChildren over age 8 who are game to participate may also attend.\nBring a closed water container and a snack if you choose.\nSmooth-soled shoes work best on the Library’s wonderful wood floor.\nPlease do not wear perfume or scents to the dances."
     links:
       - "https://cdss.org/event/old-tyme-contra-community-dance-of-macon-county-nc/2023-11-04/"
@@ -543,16 +545,16 @@ events:
     details: "Contra Dance with live music and caller. \nThe dance will be held at Goshen First Church, 215 South St., Goshen, IN. \nGeneral Public: Non-members $8, Members $6\nStudents: Non-members $5, Members $3\nChildren under 12: Free\nFamily maximum cost: $18 \nNo experience or partner needed and all dances are led by experienced callers. \nNew dancers are always welcome and are invited to the free beginners workshop at 6:30pm."
     links:
       - "https://cdss.org/event/goshen-community-contra-dance-2/2023-11-04/"
-    start: "2023-11-04T19:00:00-04:00"
+    start: "2023-11-04T18:30:00-04:00"
     end: "2023-11-04T22:00:00-04:00"
     country: USA
     state: IN
     city: Goshen
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
-    price: $3-$18
+    price: $3-$8
     organisation: Goshen Community Contra Dance
   - name: Ottawa Contra Dance
     details: "Join Ottawa Contra Dance every 1st and 3rd Saturday, September – June. Dances are called using Larks and Robins. Admission by sliding scale."
@@ -567,6 +569,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $10
     organisation: Ottawa Contra Dance
   - name: Montpelier Contra Dance
     details: "Montpelier Contra Dance with Liz Nelson calling to Cojiro. Cojiro is a stompy, fun, and funky Boston-based contra dance band duo of Jess Newman and Mark Price. \n\nBeginners, singles, and all ages are welcome; all dances are taught.\nGender-neutral role terms.\nNewcomers lesson 7:40 pm. Dancing 8-11pm.\nPlease bring clean soft-soled shoes.\nMasks are optional.\nMore info at Capital City Grange.\n$12 adults, $5 kids/low-income, $20 dance supporters.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDancing every 1st, 3rd, and 5th Saturday."
@@ -604,9 +607,9 @@ events:
       - Ben Bolker and Susanne Maziarz
     callers:
       - Tara Bolker
-    price: $15-$700
+    price: $15-$25
     organisation: Toronto English Country Dance Assembly
-  - name: Richmond VA Sunday Afternoon Contra Dance (TADAMS)
+  - name: Sunday Afternoon Contra Dance (TADAMS)
     details: "Music: Playing with Fyre, featuring David DiGiuseppe (Chapel Hill)\nCaller: To Be Announced\nAdmission: $9 members/students, $12 non-members, 18 & under free.\nBeginner’s Workshop: Arrive early at 1:45pm to learn or review basic steps.\nCOVID: While vaccinations are excellent for preventing disease, TADAMS will no longer require proof of vaccination to participate in our dances.  Wearing a mask remains optional."
     links:
       - "https://cdss.org/event/richmond-va-sunday-afternoon-contra-dance-tadams-2/"
@@ -642,11 +645,11 @@ events:
       - Dave Berman
       - Walter Zagorski
     organisation: Toronto English Country Dance Assembly
-  - name: English Country Dance - Asheville NC
+  - name: English Country Dance
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
     links:
       - "https://cdss.org/event/english-country-dance-asheville-nc/2023-11-08/"
-    start: "2023-11-08T19:00:00-05:00"
+    start: "2023-11-08T18:40:00-05:00"
     end: "2023-11-08T21:00:00-05:00"
     country: USA
     state: NC
