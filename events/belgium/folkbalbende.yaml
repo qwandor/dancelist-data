@@ -1120,6 +1120,10 @@ Start times: [16:30:00, 18:30:00, 20:00:00, 22:00:00]
 End times: [18:00:00, 20:00:00, 21:30:00, 23:30:00]
 Start times: [15:00:00, 15:00:00]
 End times: [17:30:00, 18:30:00]
+Start times: [20:00:00]
+End times: [22:00:00]
+Start times: [19:30:00, 20:30:00, 21:30:00]
+End times: [20:15:00, 21:00:00, 23:00:00]
 # yaml-language-server: $schema=../../events_schema.json
 events:
   - name: Workshop - Wals Ritmische Variaties
@@ -13169,3 +13173,35 @@ events:
       - Jeroen Laureyssens
       - Västanvinden Trio
     organisation: "'t Smiske"
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/1916"
+    start: "2023-11-29T20:00:00+01:00"
+    end: "2023-11-29T22:00:00+01:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Vrijspel
+    organisation: ~
+  - name: FolkfestiBal
+    details: Ball
+    links:
+      - "https://folkdendermonde.be/folkfestibal/"
+      - "https://folkbalbende.be/event/1917"
+    start: "2023-12-16T19:30:00+01:00"
+    end: "2023-12-16T23:00:00+01:00"
+    country: Belgium
+    city: Dendermonde
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Gestrikt
+      - Loogaroo
+    organisation: ~
