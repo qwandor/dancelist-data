@@ -1539,14 +1539,15 @@ events:
     social: true
     bands:
       - ba.fnu
+      - Geronimo
       - Lyradanz
+      - Duo Cardamon
+      - "Duo l'Hêtre Heureux"
       - Balsam
       - Tribal Jaze
-      - BAL LAB
-      - "Duo l'Hêtre Heureux"
-      - Geronimo
+      - Marina Lazar
       - TriBoT
-      - Duo Cardamon
+      - BAL LAB
     organisation: Balfolk.cz
     source: events/czechia/prague.yaml
   - name: Balfolk Dance Workshop
@@ -42419,10 +42420,28 @@ events:
     organisation: Bath & Bristol French Sessions
     cancelled: true
     source: events/uk/bristol_bath_french_session.yaml
+  - name: Bath French Session
+    details: Tunes and dancing.
+    links:
+      - "https://bathfrenchsession.wordpress.com/"
+      - "https://www.facebook.com/events/282248601378870/"
+    start: "2023-11-06T20:00:00Z"
+    end: "2023-11-06T23:00:00Z"
+    country: UK
+    city: Bath
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: Bath & Bristol French Sessions
+    source: events/uk/bristol_bath_french_session.yaml
   - name: Bristol French Session
     details: Tunes and dancing.
     links:
       - "https://bathfrenchsession.wordpress.com/"
+      - "https://www.facebook.com/events/170217346082056/"
+      - "https://www.facebook.com/events/224649770631341/"
     start: "2023-11-19T18:45:00Z"
     end: "2023-11-19T22:00:00Z"
     country: UK
