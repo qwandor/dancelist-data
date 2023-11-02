@@ -1,34 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: English Country Dance - Asheville NC
-    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
-    links:
-      - "https://cdss.org/event/english-country-dance-asheville-nc/2023-11-01/"
-    start: "2023-11-01T19:00:00-04:00"
-    end: "2023-11-01T21:00:00-04:00"
-    country: USA
-    state: NC
-    city: Asheville
-    styles:
-      - ecd
-    workshop: true
-    social: true
-    organisation: Luanne Stiles
-  - name: Richmond VA Wednesday English Country Dance
-    details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm. \nSave the date for our live music events: a David Millstone workshop/dance on August 26, and the Jefferson Ball on November 4th."
-    links:
-      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2023-11-01/"
-    start: "2023-11-01T19:30:00-04:00"
-    end: "2023-11-01T21:30:00-04:00"
-    country: USA
-    state: VA
-    city: Henrico
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    price: $2
-    organisation: Colonial Dance Club of Richmond
   - name: "Playford Dancing for Beginners with Steph West\\, Giles Lewin and Matthew Coatsworth"
     details: "Learn dance steps from the 17th century in these practical workshops\nLearn the English country dances featured in Playford’s 1651 collection, The Dancing Master, and used in modern film and television including Bridgerton, Pride and Prejudice and Poldark. \nThese workshops are designed for those with no experience of Playford dances and are suitable for complete beginners. Caller Steph West will lead dancers through the steps, accompanied by musicians Matthew Coatsworth and Giles Lewin. \nBring your new expertise to the Playford Ball on Saturday 13 January 2024. \nDates & locations\nThe workshops take place on the following dates. The dance content is the same for each workshop. \n\nSunday 5 November 2023, 12pm – 1pm, Blackwell Hall, Weston Library (map)\n\n\nThursday 30 November 2023, 7pm – 8pm, Cherwell School North Site, Marston Ferry Road (map)\n\n\nWednesday 6 December 2023, 7pm – 8pm, Cherwell School North Site, Marston Ferry Road (map)\n\nParking is available at Cherwell School North Site. \nWhat to bring\nPlease wear appropriate non-slip footwear (soft sole shoes or trainers) for dancing. \nAbout the musicians\nSteph West is a musician, educator and caller, best known as a harpist and for her ability to build confidence and enjoyment for beginners. Steph’s current projects include an electroharp, drums and voice duo with Paul Rademeyer, the English Harp Project with Matthew Coatsworth and accordionist Tom Evans, and work with RNS Moves as a performer and composer. \nGiles Lewin specialises in medieval music and the traditional music of Europe and the Middle East. He has played with The Carnival Band, June Tabor, Maddy Prior, Bellowhead and the Dufay Collective amongst many others. His album Time’s Chariot focused on music from Playford’s Dancing Master. \nMatthew Coatsworth is curating The Dancing Master exhibition at the Bodleian Libraries. A former member of Boldwood, he plays with The Warleggan Village Band, First Folio and with Steph West’s English Harp Project."
     links:
@@ -317,3 +288,50 @@ events:
     workshop: false
     social: true
     organisation: CDSS
+  - name: TECDA Friday Evening Dance
+    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    links:
+      - "https://cdss.org/event/tecda-friday-evening-dance/2023-11-10/"
+    start: "2023-11-10T19:00:00-05:00"
+    end: "2023-11-10T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
+  - name: Greater Orlando Contra Dance
+    details: "We hold energetic and fun contra dances on 2nd and 4th Fridays near Orlando, Florida, in the beautiful Winter Park Ballroom! Our group loves both traditional and contemporary music, which is usually live. We welcome all ages and have a large contingent of younger dancers. Students and jobless dance FREE! Check the schedule for directions, details, cancellations, and changes. Afterwards, we go next door to Jeremiah’s Italian Ice!"
+    links:
+      - "https://cdss.org/event/greater-orlando-contra-dance/2023-11-10/"
+    start: "2023-11-10T19:00:00-05:00"
+    end: "2023-11-10T22:30:00-05:00"
+    country: USA
+    state: FL
+    city: Winter Park
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Greater Orlando Contra Dance
+  - name: Denver Contra Dance
+    details: "The Denver community contra dance is held on the 2nd Friday of each month. There is a lesson from 7 to 7:30; and dance from 7:30 to 10:30. For more details, see our website."
+    links:
+      - "https://cdss.org/event/denver-contra-dance/2023-11-10/"
+    start: "2023-11-10T19:30:00-07:00"
+    end: "2023-11-10T22:30:00-07:00"
+    country: USA
+    state: Denver
+    city: 690 Colorado Boulevard
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Colorado Friends of Old Time Music and Dance
