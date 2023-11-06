@@ -207,7 +207,7 @@ events:
     callers:
       - Alice Raybourn
     organisation: Tallahassee Community Friends of Old Time Dance
-  - name: Portland Country Dance Community Friday Night English Dance
+  - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
     links:
       - "https://cdss.org/event/pcdc-friday-night-english-dance/2023-10-27/"
@@ -286,7 +286,7 @@ events:
     bands:
       - Lone Star Pirates
     organisation: San Antonio Contra Dancers
-  - name: Portland Country Dance Community 4th Saturdays Contra Dance
+  - name: 4th Saturdays Contra Dance
     details: "Mark your calendars now for the next Saturday night dance at Fulton Hall. Dances are called using gender-neutral terms. \n\n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome!"
     links:
       - "https://cdss.org/event/portland-country-dance-community-4th-saturdays-contra-dance/2023-10-28/"
@@ -565,7 +565,7 @@ events:
     start: "2023-11-04T19:30:00-04:00"
     end: "2023-11-04T23:00:00-04:00"
     country: Canada
-    state: "ON"
+    state: Ontario
     city: Ottawa
     styles:
       - contra
@@ -761,7 +761,7 @@ events:
     social: true
     price: $8-$15
     organisation: Colorado Friends of Old Time Music and Dance
-  - name: Portland Country Dance Community Friday Night English Dance
+  - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
     links:
       - "https://cdss.org/event/pcdc-friday-night-english-dance/2023-11-10/"
@@ -789,7 +789,7 @@ events:
     workshop: false
     social: true
     organisation: Colorado Friends of Old Time Music and Dance
-  - name: Portland Country Dance Community 2nd Saturdays Contra Dance
+  - name: 2nd Saturdays Contra Dance
     details: "Our Saturday night series at Fulton Hall continues! Dances called using gender-neutral terms. All folks must be vaxxed, boosted, and masked.  \nIf you have not been to a PCDC event since 2020, you can help expedite the entry process by filling out our contact tracing form. \n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."
     links:
       - "https://cdss.org/event/portland-country-dance-community-2nd-saturdays-contra-dance/2023-11-11/"
@@ -883,9 +883,10 @@ events:
   - name: Fire Ant Frolic
     details: "The Traditional Austin Area Dance Association is pleased to announce the 24th Annual Fire Ant Frolic Contra Dance Weekend! \nCaller: Bob Issacs \nBand: Playing with Fyre\n \nMark your calendar and join us for a Great Weekend of Music, Friendship and Dancing! \nIncluding party on Saturday Night (wear your fire colors!), workshops, hot local band for a Saturday session, 30 minute mind-blowing medley, and potluck brunch on Sunday. \nMore information at FireAntFrolic.org"
     links:
+      - "https://fireantfrolic.org/wp/"
       - "https://cdss.org/event/fire-ant-frolic/"
-    start_date: 2023-11-17
-    end_date: 2023-11-19
+    start: 2023-11-17T19:00:00-06:00
+    end: 2023-11-19T14:00:00-06:00
     country: USA
     state: TX
     city: Austin
@@ -893,12 +894,18 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Bob Isaacs
+      - Marc Airhart
+      - Rich MacMath
     bands:
+      - Contraverts
       - Playing with Fyre
     organisation: CDSS
-  - name: "Fall Frolick\\, the 2023 BACDS Fall Dance Weekend"
+  - name: Fall Frolick
     details: "Join us for two days and nights of English Country dancing, singing, and workshops aplenty at The Bishop’s Ranch in beautiful Sonoma County (Healdsburg, CA) wine country. Featuring callers Dan Blim, Kalia Kliban, and Bridget Whitehead with music by Patti Cobb, Alex Cumming, Audrey Jaber, Christopher Jacoby, Caroline McCaskey, Rebecca King, and more! \nSpace is limited—register now! All for $395! There are some work-trade discounts and youth scholarships available."
     links:
+      - "https://www.bacds.org/camps/fallwk2023/"
       - "https://cdss.org/event/fall-frolick-the-2023-bacds-fall-dance-weekend/"
     start: "2023-11-17T17:00:00-08:00"
     end: "2023-11-19T16:00:00-08:00"
@@ -909,6 +916,13 @@ events:
       - ecd
     workshop: true
     social: true
+    bands:
+      - Alex Cumming
+      - Caroline McCaskey
+      - Patti Cobb
+      - Audrey Jaber
+      - Christopher Jacoby
+      - Rebecca King
     price: $395
     organisation: CDSS
   - name: TECDA Friday Evening Dance
@@ -933,6 +947,7 @@ events:
   - name: Tallahassee Contra Dance
     details: "Join us for great contra dances usually held on the second and fourth Friday of the month (check website for details). No partner or experience needed. \nNOTE: This month there is only one dance due to holidays and it’s on the third Friday. Wear comfortable clothing and shoes. This week, Vicki Morrison and new caller Bronwyn Chelette call the dances and TBD play the tunes."
     links:
+      - "http://www.tallydancer.com/"
       - "https://cdss.org/event/tallahassee-contra-dance-3/"
     start: "2023-11-17T19:15:00-05:00"
     end: "2023-11-17T22:00:00-05:00"
@@ -941,10 +956,13 @@ events:
     city: Tallahassee
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Bunny Bread Bandits
+    price: $6-$10
     organisation: Tallahassee Community Friends of Old Time Dance
-  - name: Portland Country Dance Community Friday Night English Dance
+  - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
     links:
       - "https://cdss.org/event/pcdc-friday-night-english-dance/2023-11-17/"
@@ -958,9 +976,10 @@ events:
     workshop: false
     social: true
     organisation: CDSS
-  - name: "Contra Dance in Carrollton\\, TX"
+  - name: Contra Dance
     details: Monthly Contra Dance
     links:
+      - "https://www.nttds.org/"
       - "https://cdss.org/event/contra-dance-2/2023-11-18/"
     start: "2023-11-18T19:30:00-06:00"
     end: "2023-11-18T22:30:00-06:00"
@@ -971,15 +990,21 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Sibling Revelry
+    callers:
+      - Rich Goss
+    price: $5-$10
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Ottawa Contra Dance
     details: "Join Ottawa Contra Dance every 1st and 3rd Saturday, September – June. Dances are called using Larks and Robins. Admission by sliding scale."
     links:
+      - "https://ottawacontra.ca/"
       - "https://cdss.org/event/ottawa-contra-dance/2023-11-18/"
     start: "2023-11-18T19:30:00-05:00"
     end: "2023-11-18T23:00:00-05:00"
     country: Canada
-    state: "ON"
+    state: Ontario
     city: Ottawa
     styles:
       - contra
