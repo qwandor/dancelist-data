@@ -188,7 +188,7 @@ events:
     price: donation
     organisation: Balfolk Bonn e.V.
 
-- name: Tanzlernabend
+  - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
       - "http://balfolk-bonn.de/balfolk/Workshopabende.html"
@@ -202,7 +202,7 @@ events:
     price: donation
     organisation: Balfolk Bonn e.V.
 
-- name: Tanzlernabend
+  - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
       - "http://balfolk-bonn.de/balfolk/Workshopabende.html"
@@ -216,21 +216,7 @@ events:
     price: donation
     organisation: Balfolk Bonn e.V.
 
-- name: Tanzlernabend
-    details: Lernabend im Margarete-Grundmann-Haus
-    links:
-      - "http://balfolk-bonn.de/balfolk/Workshopabende.html"
-    start: "2023-12-28T19:00:00+01:00"
-    end: "2023-12-28T22:00:00+01:00"
-    country: Germany
-    city: Bonn
-    styles:
-      - balfolk
-    workshop: true
-    price: donation
-    organisation: Balfolk Bonn e.V.
-
-- name: Balfolk im Hardtbergsaal
+  - name: Balfolk im Hardtbergsaal
     details: Weihnachtsbalfolk
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
@@ -245,6 +231,20 @@ events:
     bands:
       - Out of the Box
       - L'air inconnu
+    price: donation
+    organisation: Balfolk Bonn e.V.
+
+  - name: Tanzlernabend
+    details: Lernabend im Margarete-Grundmann-Haus
+    links:
+      - "http://balfolk-bonn.de/balfolk/Workshopabende.html"
+    start: "2023-12-28T19:00:00+01:00"
+    end: "2023-12-28T22:00:00+01:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
     price: donation
     organisation: Balfolk Bonn e.V.
 
