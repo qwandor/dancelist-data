@@ -55917,23 +55917,6 @@ events:
     price: donation
     organisation: Balfolk Bonn e.V.
     source: events/germany/bonn.yaml
-  - name: Balfolk im Kulturbad
-    details: Balfolk mit Reinlender und Coeur de Boeuf
-    links:
-      - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: "2023-11-10T20:00:00+01:00"
-    end: "2023-11-10T22:00:00+01:00"
-    country: Germany
-    city: Bonn
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Reinlender & Coeur de Boeuf
-    price: donation
-    organisation: Balfolk Bonn e.V.
-    source: events/germany/bonn.yaml
   - name: Annabergfest 2023
     links:
       - "https://eveeno.com/annaberg23"
@@ -55969,6 +55952,25 @@ events:
     workshop: true
     social: false
     price: donation
+    organisation: Balfolk Bonn e.V.
+    source: events/germany/bonn.yaml
+  - name: Balfolk im Kulturbad
+    details: Balfolk mit Reinlender und Coeur de Boeuf
+    links:
+      - "http://balfolk-bonn.de/balfolk/Aktuell.html"
+    start: "2023-11-10T19:00:00+01:00"
+    end: "2023-11-10T22:00:00+01:00"
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+      - scandi
+    workshop: true
+    social: true
+    bands:
+      - Kördeböf
+      - Herzigs
+    price: €15-€18
     organisation: Balfolk Bonn e.V.
     source: events/germany/bonn.yaml
   - name: Tanzlernabend
