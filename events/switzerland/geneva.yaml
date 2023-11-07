@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Grand Bal Folk
+    links:
+      - "http://www.pourlebal.ch/index.php/event/grandbal111123/"
+      - "https://www.facebook.com/events/1404296170385357/"
+      - "https://danseinfo.ch/agenda/6647/grand-bal-folk-a-geneve-avec-trio-loubelya-et-duo-vargoz?jour=11-2023"
+    start: "2023-11-11T10:30:00+01:00"
+    end: "2023-11-12T01:00:00+01:00"
+    country: Switzerland
+    city: Geneva
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Trio Loubelya
+      - Duo Vargoz
+    price: 20-75 CHF
+    organisation: Pour le Bal
