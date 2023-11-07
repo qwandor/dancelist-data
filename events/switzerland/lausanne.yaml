@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Grand Bal de Lausanne
+    links:
+      - "https://www.facebook.com/events/1352604555348514/"
+    start: "2023-11-18T17:00:00+01:00"
+    end: "2023-11-19T01:00:00+01:00"
+    country: Switzerland
+    city: Lausanne
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Temps Libre
+      - Garric
+    price: 30 CHF
+    organisation: Balfolk Lausanne
