@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal Folk Winterthur
+    links:
+      - "https://www.facebook.com/events/1511309676311909/"
+      - "https://danseinfo.ch/agenda/6558/winterthur-bal?jour=17-11-2023"
+    start: "2023-11-17T19:00:00+01:00"
+    end: "2023-11-17T23:30:00+01:00"
+    country: Switzerland
+    city: Winterthur
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Garric
+    price: 20-30 CHF
+    organisation: Geert Dedapper
