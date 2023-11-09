@@ -1,34 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: English Country Dance - Asheville NC
-    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
-    links:
-      - "https://cdss.org/event/english-country-dance-asheville-nc/2023-11-08/"
-    start: "2023-11-08T19:00:00-05:00"
-    end: "2023-11-08T21:00:00-05:00"
-    country: USA
-    state: NC
-    city: Asheville
-    styles:
-      - ecd
-    workshop: true
-    social: true
-    organisation: Luanne Stiles
-  - name: Richmond VA Wednesday English Country Dance
-    details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm. \nSave the date for our live music events: a David Millstone workshop/dance on August 26, and the Jefferson Ball on November 4th."
-    links:
-      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2023-11-08/"
-    start: "2023-11-08T19:30:00-05:00"
-    end: "2023-11-08T21:30:00-05:00"
-    country: USA
-    state: VA
-    city: Henrico
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    price: $2
-    organisation: Colonial Dance Club of Richmond
   - name: Head for the Hills
     details: "A getaway weekend of dance, music, and song in the Poconos (PA), sponsored by Princeton Country Dancers."
     links:
@@ -364,3 +335,32 @@ events:
     workshop: false
     social: true
     organisation: North Texas Traditional Dance Society (NTTDS)
+  - name: Ottawa Contra Dance
+    details: "Join Ottawa Contra Dance every 1st and 3rd Saturday, September – June. Dances are called using Larks and Robins. Admission by sliding scale."
+    links:
+      - "https://cdss.org/event/ottawa-contra-dance/2023-11-18/"
+    start: "2023-11-18T19:30:00-05:00"
+    end: "2023-11-18T23:00:00-05:00"
+    country: Canada
+    state: "ON"
+    city: Ottawa
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Ottawa Contra Dance
+  - name: Montpelier Contra Dance
+    details: "Ben Sachs-Hamilton calling with music by Calico (Jesse Ball, Eric Boodman, Casey Murray). \n\nNewcomers lesson at 7:40 with dancing 8-11.\nEveryone welcome.\nAll dances are taught and gender-neutral role terms are used.\nPlease bring clean soft-soled shoes.\nMasks are optional.\nMore info at Capital City Grange.\n$12 adults, $5 kids/low-income, $20 dance supporters.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDancing every 1st, 3rd, and 5th Saturday."
+    links:
+      - "https://cdss.org/event/montpelier-contra-dance-4/"
+    start: "2023-11-18T20:00:00-05:00"
+    end: "2023-11-18T23:00:00-05:00"
+    country: USA
+    state: VT
+    city: Berlin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$20
+    organisation: Montpelier Contra Dance
