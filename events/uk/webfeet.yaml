@@ -1,35 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Oxford Nags in South Zeal
-    links:
-      - "http://www.oxfordnags.co.uk/"
-    start_date: 2023-08-12
-    end_date: 2023-08-12
-    country: UK
-    city: South Zeal
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Oxford Nags
-    callers:
-      - Jane Thomas
-    organisation: Webfeet
-  - name: Whapweasel in Durham
-    links:
-      - "http://www.whapweasel.com/events/"
-    start_date: 2023-08-14
-    end_date: 2023-08-14
-    country: UK
-    city: Durham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Whapweasel
-    organisation: Webfeet
   - name: Oxford Nags in Whitby
     links:
       - "http://www.oxfordnags.co.uk/"
@@ -223,20 +193,6 @@ events:
     bands:
       - Melrose Quartet
     organisation: Webfeet
-  - name: Keel Band in Norwich
-    links:
-      - "http://www.mardles.org/mardles/ceilidhs/"
-    start_date: 2023-10-13
-    end_date: 2023-10-13
-    country: UK
-    city: Norwich
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Keel Band
-    organisation: Webfeet
   - name: "Peeping Tom in Chandler's Ford"
     links:
       - "http://www.shocc.co.uk/"
@@ -331,20 +287,6 @@ events:
     callers:
       - Rhodri Davies
     organisation: Webfeet
-  - name: "Blackbeard's Tea Party in Leeds"
-    links:
-      - "https://www.bandsintown.com/e/104794718-blackbeard&#x27;s-tea-party-at-royal-armouries-museum"
-    start_date: 2023-11-03
-    end_date: 2023-11-03
-    country: UK
-    city: Leeds
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-    organisation: Webfeet
   - name: Whiffeldy in Ledbury
     links:
       - "http://mister.red/dance/ledbury.htm#D.AZ.20231104"
@@ -389,20 +331,6 @@ events:
     bands:
       - live band
     organisation: Webfeet
-  - name: "Blackbeard's Tea Party in Leeds"
-    links:
-      - "https://www.bandsintown.com/e/104794721-blackbeard&#x27;s-tea-party-at-royal-armouries-museum"
-    start_date: 2023-11-05
-    end_date: 2023-11-05
-    country: UK
-    city: Leeds
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-    organisation: Webfeet
   - name: Perfect Cure in Bristol
     links:
       - "http://mister.red/dance/bristol.htm#D.AI.20231106"
@@ -433,10 +361,25 @@ events:
     callers:
       - Mike Spenceley
     organisation: Webfeet
+  - name: regular band in Abergavenny
+    links:
+      - "http://mister.red/dance/abergavenny.htm#D.AD.20231108"
+    start_date: 2023-11-08
+    end_date: 2023-11-08
+    country: UK
+    city: Abergavenny
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - regular band
+    organisation: Webfeet
   - name: Chalktown in Baldock
     links:
       - "http://www.chalktown.co.uk/chalkgigs.html#D.20231110"
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+      - "https://www.areyoudancing.com/dance-event/681214/"
     start_date: 2023-11-10
     end_date: 2023-11-10
     country: UK
@@ -557,6 +500,20 @@ events:
       - Old Time Contra Band
     callers:
       - Lynne Render
+    organisation: Webfeet
+  - name: regular band in Abergavenny
+    links:
+      - "http://mister.red/dance/abergavenny.htm#D.AD.20231115"
+    start_date: 2023-11-15
+    end_date: 2023-11-15
+    country: UK
+    city: Abergavenny
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - regular band
     organisation: Webfeet
   - name: live music in Bath
     links:
@@ -680,6 +637,20 @@ events:
     bands:
       - Mark & Norma
     organisation: Webfeet
+  - name: regular band in Abergavenny
+    links:
+      - "http://mister.red/dance/abergavenny.htm#D.AD.20231122"
+    start_date: 2023-11-22
+    end_date: 2023-11-22
+    country: UK
+    city: Abergavenny
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - regular band
+    organisation: Webfeet
   - name: Nozzy in Bristol
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -726,20 +697,6 @@ events:
     social: true
     bands:
       - Spinach For Norman
-    organisation: Webfeet
-  - name: Sugar Loaf Band in Hurst Green
-    links:
-      - "http://www.sugarloafband.co.uk/"
-    start_date: 2023-11-25
-    end_date: 2023-11-25
-    country: UK
-    city: Hurst Green
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Sugar Loaf Band
     organisation: Webfeet
   - name: Spinach for Norman in Kennford
     links:
@@ -816,6 +773,20 @@ events:
     social: true
     bands:
       - Emily & the Simons
+    organisation: Webfeet
+  - name: regular band in Abergavenny
+    links:
+      - "http://mister.red/dance/abergavenny.htm#D.AD.20231129"
+    start_date: 2023-11-29
+    end_date: 2023-11-29
+    country: UK
+    city: Abergavenny
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - regular band
     organisation: Webfeet
   - name: live music in Bath
     links:
@@ -969,6 +940,20 @@ events:
     bands:
       - Banter
     organisation: Webfeet
+  - name: regular band in Abergavenny
+    links:
+      - "http://mister.red/dance/abergavenny.htm#D.AD.20231206"
+    start_date: 2023-12-06
+    end_date: 2023-12-06
+    country: UK
+    city: Abergavenny
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - regular band
+    organisation: Webfeet
   - name: "Blackbeard's Tea Party in York"
     links:
       - "https://www.bandsintown.com/e/104773262-blackbeard&#x27;s-tea-party-at-the-crescent-community-venue"
@@ -986,6 +971,7 @@ events:
   - name: Diatonics in Baldock
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+      - "https://www.areyoudancing.com/dance-event/681215/"
     start_date: 2023-12-08
     end_date: 2023-12-08
     country: UK
@@ -1136,6 +1122,20 @@ events:
     callers:
       - Vicky Cooper
     organisation: Webfeet
+  - name: regular band in Abergavenny
+    links:
+      - "http://mister.red/dance/abergavenny.htm#D.AD.20231213"
+    start_date: 2023-12-13
+    end_date: 2023-12-13
+    country: UK
+    city: Abergavenny
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - regular band
+    organisation: Webfeet
   - name: live music in Bath
     links:
       - "http://mister.red/dance/bath.htm#D.AO.20231213"
@@ -1196,6 +1196,7 @@ events:
     organisation: Webfeet
   - name: Pair of Shears in Gittisham
     links:
+      - "http://devonfolk.org/events-diary/"
       - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
     start_date: 2023-12-16
     end_date: 2023-12-16
@@ -1360,6 +1361,7 @@ events:
     links:
       - "http://www.oxfordnags.co.uk/"
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+      - "https://www.areyoudancing.com/dance-event/681216/"
     start_date: 2023-12-31
     end_date: 2023-12-31
     country: UK
@@ -1598,6 +1600,7 @@ events:
   - name: Catch the Pigeon in Baldock
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+      - "https://www.areyoudancing.com/dance-event/681217/"
     start_date: 2024-02-09
     end_date: 2024-02-09
     country: UK
@@ -1840,6 +1843,20 @@ events:
     bands:
       - Fiddlechicks
     organisation: Webfeet
+  - name: Keel Band in Norwich
+    links:
+      - "http://www.mardles.org/mardles/ceilidhs/"
+    start_date: 2024-03-15
+    end_date: 2024-03-15
+    country: UK
+    city: Norwich
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Keel Band
+    organisation: Webfeet
   - name: Jigfoot in Cardiff
     links:
       - "https://eceilidh.org.uk/cps/gigs/jigfoot-e779a6.php"
@@ -2012,6 +2029,7 @@ events:
   - name: Crowdy-Kit in Baldock
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+      - "https://www.areyoudancing.com/dance-event/681220/"
     start_date: 2024-05-10
     end_date: 2024-05-10
     country: UK
@@ -2338,6 +2356,22 @@ events:
       - The Linda Game Band
     callers:
       - Mark Elvins
+    organisation: Webfeet
+  - name: Vertical Expression in Leeds
+    links:
+      - "http://www.leedscontra.freeuk.com/specialevents.html"
+    start_date: 2024-11-23
+    end_date: 2024-11-23
+    country: UK
+    city: Leeds
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Vertical Expression
+    callers:
+      - Rhodri Davies
     organisation: Webfeet
   - name: Bosun Higgs in Welshampton
     links:
