@@ -50926,7 +50926,7 @@ events:
       - "https://winterlut.com"
       - "https://www.facebook.com/events/3312576682311137/"
     start: "2023-02-10T17:00:00+01:00"
-    end: "2023-02-13T00:00:00+01:00"
+    end: "2023-02-13T01:00:00+01:00"
     country: France
     city: Strasbourg
     styles:
@@ -50939,7 +50939,7 @@ events:
       - Aniez Eta Zeina
       - La Guêpe
       - Planchée
-    organisation: ~
+    organisation: Winterlüt
     source: events/france/strasbourg.yaml
   - name: "Bal Folk du S'Narreschiff"
     links:
@@ -50992,6 +50992,19 @@ events:
       - Galaad
     price: €8-€12
     organisation: "S'Narreschiff"
+    source: events/france/strasbourg.yaml
+  - name: Winterlüt
+    links:
+      - "https://winterlut.com/"
+    start: "2024-02-23T19:00:00+01:00"
+    end: "2024-02-26T01:00:00+01:00"
+    country: France
+    city: Strasbourg
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Winterlüt
     source: events/france/strasbourg.yaml
   - name: "Bal Folk du S'Narreschiff"
     links:
