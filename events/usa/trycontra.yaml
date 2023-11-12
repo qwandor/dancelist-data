@@ -38,17 +38,17 @@ events:
       - Georges Augustin
       - Nedra McNeil
     organisation: TryContra
-  - name: Ralph Page Dance Legacy Weekend
+  - name: 36th Ralph Page Dance Event
     links:
       - "https://www.neffa.org/ralph-page/rpde/"
-    start_date: 2024-01-12
-    end_date: 2024-01-13
+    start: 2024-01-12T19:30:00-05:00
+    end: 2024-01-13T22:00:00-05:00
     country: USA
-    state: NH
-    city: Durham
+    state: MA
+    city: Worcester
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     bands:
       - Sugar River Band
@@ -57,7 +57,7 @@ events:
       - Tod Whittemore
       - Lisa Greenleaf
       - Dudley Laufman
-    organisation: TryContra
+    organisation: NEFFA
   - name: Contra Carnivale
     links:
       - "https://contracarnivale.org/"
@@ -97,18 +97,6 @@ events:
     callers:
       - Janine Smith
       - Will Mentor
-    organisation: TryContra
-  - name: IVFDF
-    links:
-      - "https://ivfdf2024.org.uk/"
-    start_date: 2024-02-16
-    end_date: 2024-02-18
-    country: UK
-    city: York
-    styles:
-      - contra
-    workshop: true
-    social: true
     organisation: TryContra
   - name: Dancing Fish
     links:
@@ -189,9 +177,12 @@ events:
     city: Saratoa Springs
     styles:
       - contra
+      - ecd
+      - scandi
+      - balfolk
     workshop: true
     social: true
-    organisation: TryContra
+    organisation: DanceFlurry
   - name: Bayou Bedlam
     links:
       - "http://www.bayoubedlam.org/"
@@ -270,23 +261,6 @@ events:
       - contra
     workshop: true
     social: true
-    organisation: TryContra
-  - name: Contra Camp
-    links:
-      - "https://halswaymanor.org.uk/event/contra-camp-2024/"
-    start_date: 2024-04-05
-    end_date: 2024-04-07
-    country: UK
-    city: Halsway
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - WillPower
-    callers:
-      - Louise Siddons
-      - Heather McAslan
     organisation: TryContra
   - name: Dancing Fish
     links:
@@ -388,9 +362,11 @@ events:
     city: Marlborogh
     styles:
       - contra
+      - scandi
+      - balfolk
     workshop: true
     social: true
-    organisation: TryContra
+    organisation: NEFFA
   - name: Hands Four Spring Dance Weekend
     links:
       - "https://www.hands4-berea.com/"
@@ -425,27 +401,6 @@ events:
       - Hot Coffee Breakdown
     callers:
       - Bob Isaacs
-    organisation: TryContra
-  - name: May Heydays
-    links:
-      - "http://mayheydays.org.uk/"
-    start_date: 2024-05-03
-    end_date: 2024-05-06
-    country: UK
-    city: Evesham
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Lighthouse
-      - Contrasaurus
-      - Eclectic Regency
-    callers:
-      - Will Mentor
-      - Charlie Turner
-      - Lynne Render
-      - Rhodri Davies
     organisation: TryContra
   - name: Dancing Fish
     links:
@@ -746,7 +701,9 @@ events:
     state: NY
     city: Silver Bay
     styles:
+      - balfolk
       - contra
+      - ecd
     workshop: true
     social: true
-    organisation: TryContra
+    organisation: DanceFlurry
