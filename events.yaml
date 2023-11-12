@@ -37147,21 +37147,32 @@ events:
     workshop: true
     social: true
     bands:
-      - Lighthouse
       - Contrasaurus
+      - Emily & Simon
       - Eclectic Regency
-      - Keeping Thyme
       - Mollie & Dave
+      - Keeping Thyme
+      - Lighthouse
       - Momentum
+      - Faren
       - Ygra
     callers:
-      - Will Mentor
+      - Andrew Swaine
+      - Brian Stanton
+      - Burt Hunter
       - Charlie Turner
-      - Charlotte Rich-Griffin
+      - Daisy Black
       - Frances Richardson
+      - Jeannie Byron-Williams
+      - Kathryn Wright
+      - David Wright
+      - Keith Wood
       - Lynne Render
+      - Maureen Knight
+      - Paula Evans
       - Rhodri Davies
       - Trevor Monson
+      - Will Mentor
     organisation: May Heydays
     source: events/uk/heydays.yaml
   - name: Bal Étoile
@@ -53384,43 +53395,6 @@ events:
     social: true
     organisation: NEFFA
     source: events/usa/neffa.yaml
-  - name: 36th Ralph Page Dance Event
-    links:
-      - "https://www.neffa.org/ralph-page/rpde/"
-    start_date: 2024-01-12
-    end_date: 2024-01-13
-    country: USA
-    state: MA
-    city: Worcester
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Sugar River Band
-      - Canterbury Country Dance Orchestra
-    callers:
-      - Tod Whittemore
-      - Lisa Greenleaf
-      - Dudley Laufman
-    organisation: NEFFA
-    source: events/usa/neffa.yaml
-  - name: NEFFA
-    links:
-      - "https://www.neffa.org/"
-    start_date: 2024-04-19
-    end_date: 2024-04-21
-    country: USA
-    state: MA
-    city: Marlborough
-    styles:
-      - contra
-      - scandi
-      - balfolk
-    workshop: true
-    social: true
-    organisation: NEFFA
-    source: events/usa/neffa.yaml
   - name: Harvest Moon
     links:
       - "https://www.sbcds.org/hm/"
@@ -54519,6 +54493,23 @@ events:
     social: true
     organisation: Luanne Stiles
     source: events/usa/cdss.yaml
+  - name: Hayward Contra Dance
+    details: "We typically dance on the 2nd & 4th Sunday of each month. \nFor years, the Hayward Contra has drawn dancers from all over the Bay Area and beyond. \nSome of the unique features that have drawn a loyal following are: \nHayward is centrally located and the venue, The Hill and Valley Club, 1808 ‘B’ Street, Hayward, CA, is easy to reach by BART or car. \nAs a weekend dance, we have attracted dancers with busy work schedules. \nMeeting in the afternoon from 4-7pm, dancers coming from greater distances were able to manage the travel time both before and after the dances. \nOur venue, the Hill and Valley Club, is one of the airiest dance halls in the bay area. \nThese features have allowed us to attract a very diverse multigenerational crowd that is comfortable with our gender-neutral atmosphere. \nDetails at our website. \nWe also have a Facebook group."
+    links:
+      - "https://sfbaycontra.org/"
+      - "https://cdss.org/event/hayward-ca-contra-dance/2023-11-12/"
+    start: "2023-11-12T16:00:00-08:00"
+    end: "2023-11-12T19:00:00-08:00"
+    country: USA
+    state: CA
+    city: Hayward
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $15-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
     links:
@@ -54678,6 +54669,26 @@ events:
     social: true
     organisation: CDSS
     source: events/usa/cdss.yaml
+  - name: Pittsburgh Contra Dance
+    details: "Come dance to the music of Aubergine with caller Cindy Harris. Our free beginner lesson begins at 7:30pm. Complete beginners are welcome! Masks are required at this dance, but we also hold a mask-optional dance each month."
+    links:
+      - "https://cdss.org/event/pittsburgh-contra-dance/"
+    start: "2023-11-17T19:30:00-05:00"
+    end: "2023-11-17T23:00:00-05:00"
+    country: USA
+    state: PA
+    city: Pittsburgh
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Aubergine
+    callers:
+      - Cindy Harris
+    organisation: Pittsburgh Contra Dance
+    source: events/usa/cdss.yaml
   - name: Contra Dance
     details: Monthly Contra Dance
     links:
@@ -54729,8 +54740,113 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Calico
+    callers:
+      - Ben Sachs-Hamilton
     price: $5-$20
     organisation: Montpelier Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Contra Dance with Southern Nevada Old-Time Contra Dancers
+    details: "If you haven’t attended any prior SNOCD events, you are in for a treat! We have live bands playing for us and outstanding callers helping us navigate through simple to complex contra figures. \nSubscribe to our monthly email newsletter"
+    links:
+      - "https://cdss.org/event/contra-dance-with-southern-nevada-old-time-contra-dancers-9/"
+    start: "2023-11-19T13:30:00-08:00"
+    end: "2023-11-19T17:30:00-08:00"
+    country: USA
+    state: NV
+    city: Las Vegas
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$15
+    organisation: Southern Nevada Old-Time Contra Dancers (SNOCD)
+    source: events/usa/cdss.yaml
+  - name: TECDA Tuesday Evening English Country Dance
+    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
+    links:
+      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2023-11-21/"
+    start: "2023-11-21T19:00:00-05:00"
+    end: "2023-11-21T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: North York
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
+    links:
+      - "https://cdss.org/event/english-country-dance-asheville-nc/2023-11-22/"
+    start: "2023-11-22T18:40:00-05:00"
+    end: "2023-11-22T21:00:00-05:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: Luanne Stiles
+    source: events/usa/cdss.yaml
+  - name: TECDA Friday Evening Dance
+    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    links:
+      - "https://cdss.org/event/tecda-friday-evening-dance/2023-11-24/"
+    start: "2023-11-24T19:00:00-05:00"
+    end: "2023-11-24T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: Greater Orlando Contra Dance
+    details: "We hold energetic and fun contra dances on 2nd and 4th Fridays near Orlando, Florida, in the beautiful Winter Park Ballroom! Our group loves both traditional and contemporary music, which is usually live. We welcome all ages and have a large contingent of younger dancers. Students and jobless dance FREE! Check the schedule for directions, details, cancellations, and changes. Afterwards, we go next door to Jeremiah’s Italian Ice!"
+    links:
+      - "https://cdss.org/event/greater-orlando-contra-dance/2023-11-24/"
+    start: "2023-11-24T19:00:00-05:00"
+    end: "2023-11-24T22:30:00-05:00"
+    country: USA
+    state: FL
+    city: Winter Park
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Greater Orlando Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
+    links:
+      - "https://cdss.org/event/pcdc-friday-night-english-dance/2023-11-24/"
+    start: "2023-11-24T19:30:00-08:00"
+    end: "2023-11-24T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: CDSS
     source: events/usa/cdss.yaml
   - name: Hands Four Spring Dance Weekend
     links:
@@ -55070,7 +55186,7 @@ events:
     end_date: 2023-10-01
     country: USA
     state: NY
-    city: Albany
+    city: Silver Bay
     styles:
       - balfolk
       - contra
@@ -55080,23 +55196,6 @@ events:
     bands:
       - Red Case Band
     price: $150-$675
-    organisation: DanceFlurry
-    source: events/usa/flurry.yaml
-  - name: Flurry Festival
-    links:
-      - "https://www.flurryfestival.org/"
-    start_date: 2024-02-16
-    end_date: 2024-02-18
-    country: USA
-    state: NY
-    city: Saratoga Springs
-    styles:
-      - contra
-      - ecd
-      - scandi
-      - balfolk
-    workshop: true
-    social: true
     organisation: DanceFlurry
     source: events/usa/flurry.yaml
   - name: BalFolk Workshop & Dance
@@ -55321,6 +55420,757 @@ events:
     price: $195-$350
     organisation: Lady of the Lake
     source: events/usa/lady_of_the_lake.yaml
+  - name: Dancing Fish
+    links:
+      - "https://dancingfish.dance/"
+    start_date: 2024-01-05
+    end_date: 2024-01-06
+    country: USA
+    state: FL
+    city: Melrose
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Audacious
+    callers:
+      - Frannie Marr
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Chambana Jan Jam
+    links:
+      - "http://www.urbana-contra.org/jan_jam.html"
+    start_date: 2024-01-05
+    end_date: 2024-01-07
+    country: USA
+    state: IL
+    city: Urbana
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Eupohr
+      - Turnip the Beet
+      - Meadowhawk
+    callers:
+      - Sarah Kaiser
+      - Georges Augustin
+      - Nedra McNeil
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: 36th Ralph Page Dance Event
+    links:
+      - "https://www.neffa.org/ralph-page/rpde/"
+    start: "2024-01-12T19:30:00-05:00"
+    end: "2024-01-13T22:00:00-05:00"
+    country: USA
+    state: MA
+    city: Worcester
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Sugar River Band
+      - Canturbury Dance Orchestra
+    callers:
+      - Tod Whittemore
+      - Lisa Greenleaf
+      - Dudley Laufman
+    organisation: NEFFA
+    source: events/usa/trycontra.yaml
+  - name: Contra Carnivale
+    links:
+      - "https://contracarnivale.org/"
+    start_date: 2024-01-12
+    end_date: 2024-01-14
+    country: USA
+    state: CA
+    city: San Louis Obispo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Elixir
+      - the Syncopaths
+      - Eloise &co
+    callers:
+      - Nils Fredland
+      - Cis Hinkle
+      - Susan Petrick
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Florida Snow Ball
+    links:
+      - "http://floridasnowball.tampabaycontra.com/"
+    start_date: 2024-01-26
+    end_date: 2024-01-28
+    country: USA
+    state: FL
+    city: Gulfport
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Kingfisher
+      - Nova
+    callers:
+      - Janine Smith
+      - Will Mentor
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Dancing Fish
+    links:
+      - "https://dancingfish.dance/"
+    start_date: 2024-02-02
+    end_date: 2024-02-03
+    country: USA
+    state: FL
+    city: Melrose
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Mary Wesley
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Tropical Dance Vacation
+    links:
+      - "https://www.tropicaldancevacation.com/contra-week.html"
+    start_date: 2024-02-07
+    end_date: 2024-02-14
+    country: US Virgin Islands
+    city: St Croix
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Wild Asparagus
+    callers:
+      - George Marshall
+      - Lisa Greenleaf
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Corvallis Contra Dance Weekend
+    links:
+      - "http://corvallisfolklore.org/ccw/"
+    start_date: 2024-02-16
+    end_date: 2024-02-18
+    country: USA
+    state: OR
+    city: Corvallis
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Riptide
+      - the Fiddle Hellions
+    callers:
+      - Frannie Marr
+      - Julian Blechner
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Cabin Fever
+    links:
+      - "https://www.knoxvillecontra.org/cfschedule"
+    start_date: 2024-02-09
+    end_date: 2024-02-11
+    country: USA
+    state: TN
+    city: Knoxville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Hot Coffee Breakdown
+      - "Baba Yaga's Stew"
+    callers:
+      - Timothy Klein
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Dance Flurry Festival
+    links:
+      - "http://www.flurryfestival.org/"
+    start_date: 2024-02-16
+    end_date: 2024-02-18
+    country: USA
+    state: NY
+    city: Saratoa Springs
+    styles:
+      - contra
+      - ecd
+      - scandi
+      - balfolk
+    workshop: true
+    social: true
+    organisation: DanceFlurry
+    source: events/usa/trycontra.yaml
+  - name: Bayou Bedlam
+    links:
+      - "http://www.bayoubedlam.org/"
+    start_date: 2024-02-09
+    end_date: 2024-02-11
+    country: USA
+    state: TX
+    city: Houston
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - the Dam Beavers
+    callers:
+      - Gaye Fifer
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Fiddling Frog Dance Festival
+    links:
+      - "https://www.caldancecoop.org/special-events/fiddling-frog/"
+    start_date: 2024-02-23
+    end_date: 2024-02-25
+    country: USA
+    state: CA
+    city: Pasadena
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Stomp Rocket
+      - the Engine Room
+    callers:
+      - Lisa Greenleaf
+      - Susan Michaels
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Dancing Fish
+    links:
+      - "https://dancingfish.dance/"
+    start_date: 2024-03-01
+    end_date: 2024-03-02
+    country: USA
+    state: FL
+    city: Melrose
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - the Old-Time Superstars
+    callers:
+      - Will Mentor
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Beantown Stomp
+    links:
+      - "https://www.beantownstomp.com"
+    start_date: 2024-03-15
+    end_date: 2024-03-17
+    country: USA
+    state: MA
+    city: Cambridge
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Hashtag Dance Weekend
+    links:
+      - "https://fsgw.org/hashtag-dance-weekend"
+    start_date: 2024-03-09
+    end_date: 2024-03-10
+    country: USA
+    state: MD
+    city: Glen Echo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Dancing Fish
+    links:
+      - "https://dancingfish.dance/"
+    start_date: 2024-04-05
+    end_date: 2024-04-06
+    country: USA
+    state: FL
+    city: Melrose
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Stomp Rocket
+    callers:
+      - Janine Smith
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Dancing Fish
+    links:
+      - "https://dancingfish.dance/"
+    start_date: 2024-04-19
+    end_date: 2024-04-21
+    country: USA
+    state: FL
+    city: Melrose
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Wild Asparagus
+    callers:
+      - George Marshall
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Epicenter dance weekend
+    links:
+      - "https://nbcds.org/epicenter-2024/"
+    start_date: 2024-04-05
+    end_date: 2024-04-07
+    country: USA
+    state: CA
+    city: Mill Valley
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - the Free Raisins
+      - Genticorum
+    callers:
+      - Seth Tepfer
+      - Alex Deis-Lauby
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: SF Bay Queer Contra Dance Camp
+    links:
+      - "https://www.queercontradance.org/queercamp.html"
+    start_date: 2024-04-12
+    end_date: 2024-04-14
+    country: USA
+    state: CA
+    city: Aptos
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - the Mean Lids
+    callers:
+      - Chris Ricciotti
+      - Maia McCormick
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Call of the Loon Dance Weekend
+    links:
+      - "https://www.tapestryfolkdance.org/call-of-the-loon.html"
+    start_date: 2024-04-12
+    end_date: 2024-04-14
+    country: USA
+    state: MN
+    city: Minneapolis
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Will Mentor
+      - Ted Hodapp
+    callers:
+      - The Stringrays
+      - Northern Aire
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: NEFFA
+    links:
+      - "https://www.neffa.org/"
+    start_date: 2024-04-19
+    end_date: 2024-04-21
+    country: USA
+    state: MA
+    city: Marlborogh
+    styles:
+      - contra
+      - scandi
+      - balfolk
+    workshop: true
+    social: true
+    organisation: NEFFA
+    source: events/usa/trycontra.yaml
+  - name: Hands Four Spring Dance Weekend
+    links:
+      - "https://www.hands4-berea.com/"
+    start_date: 2024-04-26
+    end_date: 2024-04-28
+    country: USA
+    state: KY
+    city: Berea
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Playing with Fyre
+    callers:
+      - Terry Doyle
+      - Sarah Kaiser
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Trillium Twirl
+    links:
+      - "https://michigandanceheritage.org/trilliumtwirl/"
+    start_date: 2024-04-26
+    end_date: 2024-04-28
+    country: USA
+    state: MI
+    city: Dowling
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Hot Coffee Breakdown
+    callers:
+      - Bob Isaacs
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Dancing Fish
+    links:
+      - "https://dancingfish.dance/"
+    start_date: 2024-05-03
+    end_date: 2024-05-04
+    country: USA
+    state: FL
+    city: Melrose
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - River Road
+    callers:
+      - Alex Deis-Lauby
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Whitewater Whirl
+    links:
+      - "https://www.footmad.org/whirl"
+    start_date: 2024-05-03
+    end_date: 2024-05-05
+    country: USA
+    state: WV
+    city: Fayetteville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Spring Dance Romance
+    links:
+      - "https://tcdancers.org/sdr"
+    start_date: 2024-05-24
+    end_date: 2024-05-26
+    country: USA
+    state: NC
+    city: "Carrboro,"
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - the Mean Lids
+      - River Road
+    callers:
+      - Gaye Fifer
+      - Alex Deis-Lauby
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Northwest Folklife
+    links:
+      - "https://nwfolklife.org/festival/home.html"
+    start_date: 2024-05-24
+    end_date: 2024-05-27
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Contradancers Delight Holiday
+    links:
+      - "http://www.contradancersdelight.com/about-summer-cdh-tst/"
+    start_date: 0024-05-10
+    end_date: 0024-05-17
+    country: USA
+    state: TN
+    city: "Mountain City,"
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Dancing Fish
+    links:
+      - "https://dancingfish.dance/"
+    start_date: 2024-06-07
+    end_date: 2024-06-08
+    country: USA
+    state: FL
+    city: Melrose
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Eloise &co.
+    callers:
+      - Steve Zakon-Anderson
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: "Dance, Music & Spice"
+    links:
+      - "https://camp.cdss.org/camp-weeks/dance-music-spice-at-cavell/"
+    start_date: 2024-06-15
+    end_date: 2024-06-22
+    country: USA
+    state: MI
+    city: Lexington
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Dancing Fish
+    links:
+      - "https://dancingfish.dance/"
+    start_date: 2024-07-04
+    end_date: 2024-07-06
+    country: USA
+    state: FL
+    city: Melrose
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - the Dam Beavers
+    callers:
+      - Bob Isaacs
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Cumberland Dance Week
+    links:
+      - "https://camp.cumberlanddanceweek.org/"
+    start_date: 2024-06-30
+    end_date: 2024-07-05
+    country: USA
+    state: TN
+    city: Pleasantville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Pinewoods English-Scottish-Contra
+    links:
+      - "https://rscdsboston.org/pinewoods-esc.html"
+    start_date: 2024-07-01
+    end_date: 2024-07-05
+    country: USA
+    state: MA
+    city: Plymouth
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Ashokan Northern Week
+    links:
+      - "https://ashokancenter.org/product/northern-week-2024/"
+    start_date: 2024-07-14
+    end_date: 2024-07-20
+    country: USA
+    state: NY
+    city: Olivebridge
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: American Dance & Music Week
+    links:
+      - "https://camp.cdss.org/camp-weeks/american-dance-music-week-2/"
+    start_date: 2024-07-20
+    end_date: 2024-07-27
+    country: USA
+    state: MA
+    city: Plymouth
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Harmony of Song & Dance
+    links:
+      - "https://camp.cdss.org/camp-weeks/harmony-of-song-dance-at-pinewoods/"
+    start_date: 2024-07-27
+    end_date: 2024-08-05
+    country: USA
+    state: MA
+    city: Plymouth
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Summergreen
+    links:
+      - "https://bozemanfolklore.org/summergreen/"
+    start_date: 2024-07-19
+    end_date: 2024-07-21
+    country: USA
+    state: MT
+    city: Livingston
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - the Dam Beavers
+      - Drovers Grove
+    callers:
+      - Alex Deis-Lauby
+      - Rab Cummings
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Family Week
+    links:
+      - "https://camp.cdss.org/camp-weeks/family-week-at-agassiz-village-2/"
+    start_date: 2024-08-11
+    end_date: 2024-08-17
+    country: USA
+    state: ME
+    city: Poland
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Cascade of Music & Dance
+    links:
+      - "https://camp.cdss.org/camp-weeks/cascade-of-music-dance-at-louise/"
+    start_date: 2024-08-12
+    end_date: 2024-08-18
+    country: USA
+    state: MD
+    city: Cascade
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Campers’ Week
+    links:
+      - "https://camp.cdss.org/camp-weeks/campers-week-at-pinewoods/"
+    start_date: 2024-08-17
+    end_date: 2024-08-24
+    country: USA
+    state: MA
+    city: Plymouth
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Mentone
+    links:
+      - "http://www.footmadbirmingham.org/mentone.html"
+    start_date: 2024-08-16
+    end_date: 2024-08-18
+    country: USA
+    state: AL
+    city: Mentone
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Dancing Fish
+    links:
+      - "https://dancingfish.dance/"
+    start_date: 2024-09-06
+    end_date: 2024-09-07
+    country: USA
+    state: FL
+    city: Melrose
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Kingfisher
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Squirrel Moon Contra Dance weekend
+    links:
+      - "http://www.squirrelmoon.org/"
+    start_date: 2024-09-20
+    end_date: 2024-09-22
+    country: USA
+    state: WI
+    city: Dodgeville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Boys of the Noise
+    callers:
+      - Bev Bernbaum
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Adirondack Dance Weekend
+    links:
+      - "https://www.danceflurry.org/adirondack-dance-weekend/"
+    start_date: 2024-09-27
+    end_date: 2024-09-29
+    country: USA
+    state: NY
+    city: Silver Bay
+    styles:
+      - balfolk
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    organisation: DanceFlurry
+    source: events/usa/trycontra.yaml
   - name: Hey Days
     links:
       - "https://www.bacds.org/camps/eweek2022/"
