@@ -2554,9 +2554,9 @@ events:
     source: events/belgium/comsibal.yaml
   - name: ComSiBal
     links:
-      - "https://comsibal.be/en/"
-    start_date: 2023-12-23
-    end_date: 2023-12-23
+      - "https://comsibal.be/en/events/folkbal_2023_12_23/"
+    start: "2023-12-23T16:00:00+01:00"
+    end: "2023-12-23T23:00:00+01:00"
     country: Belgium
     city: Leuven
     styles:
@@ -2566,6 +2566,7 @@ events:
     bands:
       - Snaarmaarwaar
       - Aérokorda
+    price: €13-€27
     organisation: ComSiBal
     source: events/belgium/comsibal.yaml
   - name: ComSiBal
@@ -48770,6 +48771,8 @@ events:
     social: true
     bands:
       - Nozzy
+    callers:
+      - Mark Elvins
     price: £6-£15
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
@@ -48836,6 +48839,8 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - WillPower
     callers:
       - Sam Tetley Smith
     price: £6-£15
