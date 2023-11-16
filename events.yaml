@@ -15624,6 +15624,21 @@ events:
     price: donation
     organisation: Dansaarde
     source: events/belgium/folkbalbende.yaml
+  - name: Folk dance class
+    details: Ball
+    links:
+      - "https://www.schoten.be/academie/dans/danslab-folk"
+      - "https://folkbalbende.be/event/1968"
+    start: "2024-06-01T18:00:00+02:00"
+    end: "2024-06-01T22:00:00+02:00"
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Academie van Schoten
+    source: events/belgium/folkbalbende.yaml
   - name: Naragonia 20th anniversary
     links:
       - "https://www.facebook.com/events/1007854126869392/"
@@ -54707,6 +54722,21 @@ events:
     price: $2
     organisation: Colonial Dance Club of Richmond
     source: events/usa/cdss.yaml
+  - name: "Rochester, NY Thursday Night Contras"
+    details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
+    links:
+      - "https://cdss.org/event/rochester-ny-thursday-night-contras/2023-11-16/"
+    start: "2023-11-16T19:30:00-05:00"
+    end: "2023-11-16T22:30:00-05:00"
+    country: USA
+    state: NY
+    city: Rochester
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Country Dancers of Rochester
+    source: events/usa/cdss.yaml
   - name: Berkeley Contra Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
@@ -54930,6 +54960,23 @@ events:
     price: $5-$15
     organisation: Southern Nevada Old-Time Contra Dancers (SNOCD)
     source: events/usa/cdss.yaml
+  - name: Family Dance
+    details: "This is a special dance for anyone else who would enjoy some daytime frolicking with people of all ages! While all our events are family-friendly, this one will feature dances especially well-suited to the youngest members of the community. We will enjoy the energetic and inclusive leadership of Adina Gordon, and the same great live music we have for the Friday dances! \nEveryone is welcome, and all dances are taught, and easily learned, even if you’ve never danced before! Admission is on a sliding scale, $5-10, or you can bring some finger-food refreshments to share at the break; water is provided, or bring your own water bottle. Masks are welcomed but not required, and we’ll have the windows open for ventilation."
+    links:
+      - "https://cdss.org/event/family-dance/"
+      - "https://www.facebook.com/events/1896979900785122/"
+    start: "2023-11-19T14:00:00-05:00"
+    end: "2023-11-19T16:30:00-05:00"
+    country: USA
+    state: VT
+    city: Cabot
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$10
+    organisation: Cabot Community Dance
+    source: events/usa/cdss.yaml
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
     links:
@@ -55045,7 +55092,28 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Mevilish Merry
+    callers:
+      - Rick Szumski
     organisation: Pittsburgh Contra Dance
+    source: events/usa/cdss.yaml
+  - name: "Rochester, NY Double Dance"
+    details: "Will Mentor is calling with River Road for our annual Thanksgiving Double Contra Dance. We hope you can come! \n\n1:00 – 2:00 Open Waltz\n2:30 – 5:30 Advanced Contra\n7:30 – 10:30 Evening Contra "
+    links:
+      - "https://cdss.org/event/rochester-ny-double-dance/"
+    start: "2023-11-25T13:00:00-05:00"
+    end: "2023-11-25T22:30:00-05:00"
+    country: USA
+    state: NY
+    city: Webster
+    styles:
+      - contra
+    workshop: false
+    social: true
+    callers:
+      - Will Mentor
+    organisation: Country Dancers of Rochester
     source: events/usa/cdss.yaml
   - name: Anaheim Contra Dance
     details: "Anaheim Contra Dances are held every 4th Saturday January-November 6:30-9:30pm PST. \nAlways live music! \nFamily-friendly, no partner required. \nEasy introductory lesson for beginners @ 6:30pm.\n\nFree parking."
@@ -55093,6 +55161,22 @@ events:
     bands:
       - Take a Dance
     organisation: Mendocino English Country Dance
+    source: events/usa/cdss.yaml
+  - name: Richmond Saturday Night Contra Dance (TADAMS)
+    details: "Music: TBD\nCaller: TBD\nAdmission: $9 members/students, $12 non-members, 18 & under free.\nBeginner’s Workshop: Arrive early at 6:45pm to learn or review basic steps.\nCOVID: While vaccinations are excellent for preventing disease, TADAMS will no longer require proof of vaccination to participate in our dances.  Wearing a mask remains optional."
+    links:
+      - "https://cdss.org/event/richmond-va-saturday-night-contra-dance-tadams-4/"
+    start: "2023-11-25T18:45:00-05:00"
+    end: "2023-11-25T22:30:00-05:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $9-$12
+    organisation: TADAMS (Traditional American Dance and Music Society)
     source: events/usa/cdss.yaml
   - name: Hands Four Spring Dance Weekend
     links:
@@ -55720,7 +55804,7 @@ events:
     social: true
     bands:
       - Sugar River Band
-      - Canturbury Dance Orchestra
+      - Canterbury Dance Orchestra
     callers:
       - Tod Whittemore
       - Lisa Greenleaf
@@ -55734,7 +55818,7 @@ events:
     end_date: 2024-01-14
     country: USA
     state: CA
-    city: San Louis Obispo
+    city: San Luis Obispo
     styles:
       - contra
     workshop: true
@@ -55849,7 +55933,7 @@ events:
     end_date: 2024-02-18
     country: USA
     state: NY
-    city: Saratoa Springs
+    city: Saratoga Springs
     styles:
       - contra
       - ecd
@@ -56045,7 +56129,7 @@ events:
     end_date: 2024-04-21
     country: USA
     state: MA
-    city: Marlborogh
+    city: Marlborough
     styles:
       - contra
       - scandi
@@ -56130,7 +56214,7 @@ events:
     end_date: 2024-05-26
     country: USA
     state: NC
-    city: "Carrboro,"
+    city: Carrboro
     styles:
       - contra
     workshop: true
@@ -56160,11 +56244,11 @@ events:
   - name: Contradancers Delight Holiday
     links:
       - "http://www.contradancersdelight.com/about-summer-cdh-tst/"
-    start_date: 0024-05-10
-    end_date: 0024-05-17
+    start_date: 2024-05-10
+    end_date: 2024-05-17
     country: USA
     state: TN
-    city: "Mountain City,"
+    city: Mountain City
     styles:
       - contra
     workshop: true
