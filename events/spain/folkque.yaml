@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: XIII Bailando Entre Montañas
+    links:
+      - "https://folquemadrid.wixsite.com/bailando"
+    start: 2023-02-10T19:00:00+01:00
+    end: 2023-02-12T15:00:00+01:00
+    country: Spain
+    city: Cercedilla
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Duo l'Hêtre Heureux
+      - Dadu
+      - Dos
+      - Duo Laigle-Chiapello
+    organisation: Folqué Madrid
+
+  - name: XIV Bailando Entre Montañas
+    links:
+      - "https://folquemadrid.wixsite.com/bailando"
+      - "https://www.facebook.com/events/982911559641140/"
+    start: "2023-09-22T19:00:00+02:00"
+    end: "2023-09-24T17:00:00+02:00"
+    country: Spain
+    city: Madrid
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Bal do Mero
+      - Vegetal Jam
+      - Zaroj
+      - Adriano Sangineto
+    price: €75
+    organisation: Folqué Madrid
+
+  - name: Cenizas Festival
+    links:
+      - "https://folquemadrid.wixsite.com/cenizasfest"
+    start: 2023-10-20T19:00:00+01:00
+    end: 2023-10-22T15:00:00+01:00
+    country: Spain
+    city: Cercedilla
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Arizonà
+      - Yanyk
+    price: €140
+    organisation: Folqué Madrid
+
+  - name: XV Bailando Entre Montañas
+    links:
+      - "https://folquemadrid.wixsite.com/bailando"
+      - "https://www.facebook.com/events/888815985955897/"
+    start: 2024-02-16T19:00:00+01:00
+    end: 2024-02-18T17:00:00+01:00
+    country: Spain
+    city: Cercedilla
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Airboxes
+      - Parapente 700
+      - Lucas Thébaut
+      - Akdeniz
+    price: €95-€145
+    organisation: Folqué Madrid
