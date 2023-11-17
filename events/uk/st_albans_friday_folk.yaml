@@ -62,8 +62,13 @@ events:
     end: 2023-11-25T22:30:00+00:00
     country: UK
     city: St Albans
-    styles: [contra]
+    styles:
+      - ecd
+    bands:
+      - Folkus Pocus
+    callers:
+      - Liam Binley
     social: true
     workshop: false
-    price: £10
+    price: £12
     organisation: Friday Folk
