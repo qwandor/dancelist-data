@@ -12468,6 +12468,7 @@ events:
     social: true
     price: donation
     organisation: Stanistil
+    cancelled: true
   - name: Dansavond
     details: Ball
     links:
@@ -12757,7 +12758,9 @@ events:
   - name: Driekoningenbal
     details: Ball
     links:
+      - "https://muziekmozaiek.be/folk/projecten/driekoningenbal/"
       - "https://folkbalbende.be/event/2007"
+      - "https://www.facebook.com/events/871318034659463"
     start: "2024-01-13T20:00:00+01:00"
     end: "2024-01-13T23:30:00+01:00"
     country: Belgium
@@ -12769,4 +12772,23 @@ events:
     bands:
       - Drøn
       - Kwintet Gestrikt
-    organisation: ~
+    price: €2-€12
+    organisation: Muziekmozaïek
+  - name: Ballucinant
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2008"
+      - "https://www.facebook.com/events/6512532938781791"
+    start: "2023-11-28T19:30:00+01:00"
+    end: "2023-11-29T00:30:00+01:00"
+    country: Belgium
+    city: Gand
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Warmoes
+      - Fête Laweit
+    price: €7-€15
+    organisation: Ballucinant
