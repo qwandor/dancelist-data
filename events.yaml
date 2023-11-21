@@ -15767,6 +15767,7 @@ events:
     social: true
     price: donation
     organisation: Stanistil
+    cancelled: true
     source: events/belgium/folkbalbende.yaml
   - name: Dansavond
     details: Ball
@@ -16057,8 +16058,8 @@ events:
     details: Ball
     links:
       - "https://muziekmozaiek.be/folk/projecten/driekoningenbal/"
-      - "https://www.facebook.com/events/871318034659463/"
       - "https://folkbalbende.be/event/2007"
+      - "https://www.facebook.com/events/871318034659463"
     start: "2024-01-13T20:00:00+01:00"
     end: "2024-01-13T23:30:00+01:00"
     country: Belgium
@@ -16072,6 +16073,26 @@ events:
       - Kwintet Gestrikt
     price: €2-€12
     organisation: Muziekmozaïek
+    source: events/belgium/folkbalbende.yaml
+  - name: Ballucinant
+    details: Ball
+    links:
+      - "https://muziekmozaiek.be/winkel/event/ballucinant/"
+      - "https://folkbalbende.be/event/2008"
+      - "https://www.facebook.com/events/6512532938781791"
+    start: "2023-11-28T19:30:00+01:00"
+    end: "2023-11-29T00:30:00+01:00"
+    country: Belgium
+    city: Gand
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Warmoes
+      - Fête Laweit
+    price: €7-€15
+    organisation: Ballucinant
     source: events/belgium/folkbalbende.yaml
   - name: Boombal at Gentse Feesten
     links:
@@ -45607,7 +45628,7 @@ events:
     social: true
     organisation: CDSS
     source: events/usa/cdss.yaml
-  - name: "Hayward, CA Contra Dance"
+  - name: Hayward Contra Dance
     details: "We typically dance on the 2nd & 4th Sunday of each month. \nFor years, the Hayward Contra has drawn dancers from all over the Bay Area and beyond. \nSome of the unique features that have drawn a loyal following are: \nHayward is centrally located and the venue, The Hill and Valley Club, 1808 ‘B’ Street, Hayward, CA, is easy to reach by BART or car. \nAs a weekend dance, we have attracted dancers with busy work schedules. \nMeeting in the afternoon from 4-7pm, dancers coming from greater distances were able to manage the travel time both before and after the dances. \nOur venue, the Hill and Valley Club, is one of the airiest dance halls in the bay area. \nThese features have allowed us to attract a very diverse multigenerational crowd that is comfortable with our gender-neutral atmosphere. \nDetails at our website. \nWe also have a Facebook group."
     links:
       - "https://sfbaycontra.org/#event=76893451;instance=20231126160000"
@@ -45779,7 +45800,7 @@ events:
     social: true
     organisation: English Dance S.A.
     source: events/usa/cdss.yaml
-  - name: "Old Tyme Contra & Community Dance of Macon County, NC"
+  - name: Old Tyme Contra & Community Dance
     details: "First Saturday of every month: lesson at 6:30, dance 7-9pm.\nLive band and dance caller for contras, squares, round, and fun crazy family dances, too.\nBeginners are welcome! No need to bring a partner, but you are welcome to do so.\nChildren over age 8 who are game to participate may also attend.\nBring a closed water container and a snack if you choose.\nSmooth-soled shoes work best on the Library’s wonderful wood floor.\nPlease do not wear perfume or scents to the dances."
     links:
       - "https://cdss.org/event/old-tyme-contra-community-dance-of-macon-county-nc/2023-12-02/"
