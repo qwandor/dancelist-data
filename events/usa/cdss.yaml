@@ -1,20 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Berkeley Contra and English Dances
-    details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
-    links:
-      - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2023-11-23/"
-    start: "2023-11-23T20:00:00-08:00"
-    end: "2023-11-23T22:30:00-08:00"
-    country: USA
-    state: CA
-    city: Berkeley
-    styles:
-      - contra
-      - ecd
-    workshop: true
-    social: true
-    organisation: CDSS
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
     links:
@@ -401,3 +386,22 @@ events:
     workshop: false
     social: true
     organisation: Ottawa Contra Dance
+  - name: Montpelier Contra Dance
+    details: "Lisa Greenleaf calling to music by River Road (Kristen Planeaux, Sarah-Hadley Yakir, Jesse Ball).\nNewcomers lesson at 7:40 with dancing 8-11.\nEveryone welcome.\nAll dances are taught and gender-neutral role terms are used.\nPlease bring clean soft-soled shoes.\nMasks are optional.\nMore info at Capital City Grange.\n$12 adults, $5 kids/low-income, $20 dance supporters.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDancing every 1st, 3rd, and 5th Saturday."
+    links:
+      - "https://cdss.org/event/montpelier-contra-dance-6/"
+    start: "2023-12-02T20:00:00-05:00"
+    end: "2023-12-02T23:00:00-05:00"
+    country: USA
+    state: VT
+    city: Berlin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - River Road
+    callers:
+      - Lisa Greenleaf
+    price: $5-$20
+    organisation: Montpelier Contra Dance
