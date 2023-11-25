@@ -1,70 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: TECDA Friday Evening Dance
-    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
-    links:
-      - "https://cdss.org/event/tecda-friday-evening-dance/2023-11-24/"
-    start: "2023-11-24T19:00:00-05:00"
-    end: "2023-11-24T21:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: Toronto
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Alan Rosenthal
-      - Cathy Campbell
-      - Dave Berman
-      - Walter Zagorski
-    organisation: Toronto English Country Dance Assembly
-  - name: Greater Orlando Contra Dance
-    details: "We hold energetic and fun contra dances on 2nd and 4th Fridays near Orlando, Florida, in the beautiful Winter Park Ballroom! Our group loves both traditional and contemporary music, which is usually live. We welcome all ages and have a large contingent of younger dancers. Students and jobless dance FREE! Check the schedule for directions, details, cancellations, and changes. Afterwards, we go next door to Jeremiah’s Italian Ice!"
-    links:
-      - "https://cdss.org/event/greater-orlando-contra-dance/2023-11-24/"
-    start: "2023-11-24T19:00:00-05:00"
-    end: "2023-11-24T22:30:00-05:00"
-    country: USA
-    state: FL
-    city: Winter Park
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Greater Orlando Contra Dance
-  - name: Friday Night English Dance
-    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
-    links:
-      - "https://cdss.org/event/pcdc-friday-night-english-dance/2023-11-24/"
-    start: "2023-11-24T19:30:00-08:00"
-    end: "2023-11-24T22:30:00-08:00"
-    country: USA
-    state: OR
-    city: Portland
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: CDSS
-  - name: Pittsburgh Contra Dance
-    details: "Come dance to the music of Mevilish Merry with caller Rick Szumski. Our free beginner lesson begins at 7:30pm. Complete beginners are welcome! At this dance, masks are optional, but we also hold a masks-required dance each month. "
-    links:
-      - "https://cdss.org/event/pittsburgh-contra-dance-masks-optional/"
-    start: "2023-11-24T20:00:00-05:00"
-    end: "2023-11-24T23:00:00-05:00"
-    country: USA
-    state: PA
-    city: Pittsburgh
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Mevilish Merry
-    callers:
-      - Rick Szumski
-    organisation: Pittsburgh Contra Dance
   - name: Rochester Double Dance
     details: "Will Mentor is calling with River Road for our annual Thanksgiving Double Contra Dance. We hope you can come! \n\n1:00 – 2:00 Open Waltz\n2:30 – 5:30 Advanced Contra\n7:30 – 10:30 Evening Contra "
     links:
@@ -405,3 +340,16 @@ events:
       - Lisa Greenleaf
     price: $5-$20
     organisation: Montpelier Contra Dance
+  - name: Playford Ball with Andrew Swaine and the Warleggan Village Band
+    details: "Save the date – join us for live music from the Warleggan Village Band and dancing led by Andrew Swaine. \nRichard Heacock (violin), Matthew Coatsworth (violin and concertina) and Chris Green (guitar) formed the Warleggan Village Band to play for dance sequences in BBC TV’s Poldark, and later in the hugely successful Netflix series Bridgerton. The band is renowned for its exceptionally inventive playing of English country dance music from Playford to Regency times, bringing joy and energy to dancers and listeners alike.  \nAs well as performing for The Dancing Master’s Playford Ball, the Warleggan Village Band have provided audio examples of music displayed in the exhibition. \nAndrew Swaine is one of the most respected callers in the country, whether for ceilidh, American contra or Playford. His research into early Playford dances made him an obvious choice to lead dancers at our Playford Ball. Andrew runs Playford in the Pub, a monthly music and dance session held in The Shakespeare Pub in Sheffield.  \nBooking for the ball will open in autumn 2023."
+    links:
+      - "https://cdss.org/event/playford-ball-with-andrew-swaine-and-the-warleggan-village-band/"
+    start: "2023-12-03T12:30:00Z"
+    end: "2023-12-03T14:30:00Z"
+    country: UK
+    city: Oxford
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: CDSS
