@@ -9540,7 +9540,7 @@ events:
     social: true
     bands:
       - La Rawette
-      - Bal Oli
+      - Olivier Cap
     organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Safari Bal
@@ -28425,8 +28425,8 @@ events:
   - name: Playford Ball
     links:
       - "https://visit.bodleian.ox.ac.uk/event/jan24/the-playford-ball"
-    start_date: 2024-01-13
-    end_date: 2024-01-13
+    start: "2024-01-13T19:30:00Z"
+    end: "2024-01-13T22:30:00Z"
     country: UK
     city: Oxford
     styles:
@@ -45940,6 +45940,106 @@ events:
     price: $5-$20
     organisation: Montpelier Contra Dance
     source: events/usa/cdss.yaml
+  - name: TECDA Tuesday Evening English Country Dance
+    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2023-12-05/"
+    start: "2023-12-05T19:00:00-05:00"
+    end: "2023-12-05T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: North York
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    price: $10
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
+    links:
+      - "https://cdss.org/event/english-country-dance-asheville-nc/2023-12-06/"
+    start: "2023-12-06T18:40:00-05:00"
+    end: "2023-12-06T21:00:00-05:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: Luanne Stiles
+    source: events/usa/cdss.yaml
+  - name: Rochester Thursday Night Contras
+    details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
+    links:
+      - "https://cdrochester.org/events/thursday-night-contra-181/"
+      - "https://cdss.org/event/rochester-ny-thursday-night-contras/2023-12-07/"
+    start: "2023-12-07T19:30:00-05:00"
+    end: "2023-12-07T22:30:00-05:00"
+    country: USA
+    state: NY
+    city: Rochester
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Argula
+    callers:
+      - Bob Nicholson
+    price: $5-$10
+    organisation: Country Dancers of Rochester
+    source: events/usa/cdss.yaml
+  - name: Berkeley Contra Dance
+    details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
+    links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
+      - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2023-12-07/"
+    start: "2023-12-07T20:00:00-08:00"
+    end: "2023-12-07T22:30:00-08:00"
+    country: USA
+    state: CA
+    city: Berkeley
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Whiskey Brothers Trio
+    callers:
+      - Celia Ramsay
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: TECDA Friday Evening Dance
+    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-friday-evening-dance/2023-12-08/"
+    start: "2023-12-08T19:00:00-05:00"
+    end: "2023-12-08T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    price: $10
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
   - name: Fiddlehead Frolic
     links:
       - "http://www.hands4dancers.org/upcoming-dances/2023/4/1/fiddlehead-frolic"
@@ -55021,6 +55121,21 @@ events:
     price: €6
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
+  - name: Ice waltz workshop
+    details: "Hebben jullie ook zo genoten van de IJswals bij de workshop Nederlandse dansen op Cadansa? Of hebben jullie gehoord hoe geweldig de IJswals is? Kom dan naar onze workshop!\nOp vrijdag 8 december om 20.00 uur gaat Lene de cross step waltz van de Nederlandse dans uitleggen bij Balfolk Zeist. Als er tijd over is, kunnen we natuurlijk nog andere dansen doen!\n \nPraat ook mee op onze discord https://discord.gg/PzN6y73n ."
+    links:
+      - "https://www.balfolk.nl/agenda/workshop-over-de-ijswals/"
+    start: "2023-12-08T20:00:00+01:00"
+    end: "2023-12-08T23:00:00+01:00"
+    country: Netherlands
+    city: Zeist
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €5
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
   - name: Midwinter Fair
     details: "Ieder jaar organiseren wij op Museumpark Archeon de Midwinter fair. Het winterse festival voor jong en oud. Vele oeroude gebruiken komen dit weekend tot leven, allemaal rondom de viering van de wederkomst van het licht.\nNieuw dit jaar is dat het klooster helemaal in het teken komt te staan van Balfolk! Met 3 workshops per dag. \nOp zaterdag zullen er ook nog 3, en op zondag 2 balfolk bands te zien zijn! \nZaterdag komen Wim te Groen, Aerokorda en Kelten zonder grenzen. \nZondag komen EmBRUN en Aerokorda. \nUiteraard is er nog veel meer te beleven tijdens het festival. Dus als je even iets anders wilt doen, een show wilt bekijken, een ritueel wilt bijwonen of naar een andere band wilt kijken is dat ook allemaal mogelijk. \n\nHet volledige programma is hier te zien.\n\nVia social media maken we steeds een beetje meer van het programma bekent!"
     links:
@@ -55138,12 +55253,13 @@ events:
     price: €12.50-€20
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
-  - name: Wageningen Junushoff
-    details: "Kruip uit je winterslaap, vergeet het donker en de kou, en begeef je naar de Junushoff, want twee fantastische bands komen onze harten verwarmen!\n\nNøkkenoc bestaat uit Aina Tulier (nyckelharpa, zang) en Sylvain Pool (cister, gitaar, zang) die elkaar in Occitanië ontmoetten. Ze zorgen voor een wonderlijk samenspel van Scandinavische en Occitaanse muziek: ze laten onze voeten dansen dankzij groovy muziek met grenzeloze invloeden, een frisse smaak van Zweden en de sterke smaak van Occitaanse kaas. Op het menu staan de gebruikelijke balfolkdansen, plús rondeau, congo, branle, polska, slängpolska, halling en meer!\n\nL’Air Inconnu is Fabien Bucher (gitaar, mandoline, zang), Dani Velasco (viool, zang) en Sylvain Pool (accordeon, gitaar, kick, zang). De band brengt ons muzikale creaties gebaseerd op hedendaagse en traditionele dans, nieuwsgierige oren, en dieren en planten, zowel wild als getemd. Hun composities en arrangementen van traditionele thema's worden geïnspireerd door emoties en sensaties tijdens de bals en festivals: het plezier van de ontmoeting, intieme poëzie, de aanstekelijkheid van muziek, lichaamsenergie en -beweging, collectieve trans, …. Wij verheugen ons immens op dit trio, dat van elk bal een fantastisch feestje weet te maken.\n\nBen je een nieuwe danser? Om 15:00 beginnen wij met een uurtje dansuitleg! Entree: Regulier €20, korting €15 (indien je minder te besteden hebt). Betalen kan contant of via een QR-code. Reserveren is niet nodig, er zijn altijd genoeg kaartjes beschikbaar.\n\nTijdens het bal is er een gezellige picknick. Neem hiervoor vooral wat lekkers mee, dan delen we dat met z'n allen. Vergeet je bordje, bestek en opscheplepels niet. Een waterfles is ook een aanrader. Neem zelf geen andere dingen mee, de bar verkoopt genoeg lekkere drankjes!\n\nVoorlopig programma:\n\n15:00 Dansinitiatie\n16:00 L'Air Inconnu\n18:00 Potluck\n19:00 Nøkkenoc\n21:00 Einde"
+  - name: Wageningen Junushoff and Basque dance workshop
+    details: "Kruip uit je winterslaap, vergeet het donker en de kou, en begeef je naar de Junushoff, want twee fantastische bands komen onze harten verwarmen!\n\nNB: Voorafgaand aan het bal is er ook nog een bijzondere workshop Baskische dansen in de Superette! Meer info: https://www.balfolk.nl/agenda/workshop-baskische-dansen/\n\nNøkkenoc bestaat uit Aina Tulier (nyckelharpa, zang) en Sylvain Pool (cister, gitaar, zang) die elkaar in Occitanië ontmoetten. Ze zorgen voor een wonderlijk samenspel van Scandinavische en Occitaanse muziek: ze laten onze voeten dansen dankzij groovy muziek met grenzeloze invloeden, een frisse smaak van Zweden en de sterke smaak van Occitaanse kaas. Op het menu staan de gebruikelijke balfolkdansen, plús rondeau, congo, branle, polska, slängpolska, halling en meer!\n\nL’Air Inconnu is Fabien Bucher (gitaar, mandoline, zang), Dani Velasco (viool, zang) en Sylvain Pool (accordeon, gitaar, kick, zang). De band brengt ons muzikale creaties gebaseerd op hedendaagse en traditionele dans, nieuwsgierige oren, en dieren en planten, zowel wild als getemd. Hun composities en arrangementen van traditionele thema's worden geïnspireerd door emoties en sensaties tijdens de bals en festivals: het plezier van de ontmoeting, intieme poëzie, de aanstekelijkheid van muziek, lichaamsenergie en -beweging, collectieve trans, …. Wij verheugen ons immens op dit trio, dat van elk bal een fantastisch feestje weet te maken.\n\nBen je een nieuwe danser? Om 15:00 beginnen wij met een uurtje dansuitleg! Entree: Regulier €20, korting €15 (indien je minder te besteden hebt). Betalen kan contant of via een QR-code. Reserveren is niet nodig, er zijn altijd genoeg kaartjes beschikbaar.\n\nTijdens het bal is er een gezellige picknick. Neem hiervoor vooral wat lekkers mee, dan delen we dat met z'n allen. Vergeet je bordje, bestek en opscheplepels niet. Een waterfles is ook een aanrader. Neem zelf geen andere dingen mee, de bar verkoopt genoeg lekkere drankjes!\n\nVoorlopig programma:\n\n15:00 Dansinitiatie\n16:00 L'Air Inconnu\n18:00 Potluck\n19:00 Nøkkenoc\n21:00 Einde"
     links:
       - "https://www.balfolk.nl/agenda/wageningen-junushoff-11/"
+      - "https://www.balfolk.nl/agenda/workshop-baskische-dansen/"
       - "https://www.facebook.com/events/287649964257655/"
-    start: "2023-12-17T15:00:00+01:00"
+    start: "2023-12-17T13:00:00+01:00"
     end: "2023-12-17T22:00:00+01:00"
     country: Netherlands
     city: Wageningen
@@ -55238,21 +55354,6 @@ events:
     social: true
     bands:
       - Wim te Groen
-    price: €5
-    organisation: balfolk.nl
-    source: events/netherlands/balfolk_nl.yaml
-  - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
-    links:
-      - "https://www.balfolk.nl/agenda/dansavond-2023-12-26/"
-    start: "2023-12-26T19:30:00+01:00"
-    end: "2023-12-26T23:00:00+01:00"
-    country: Netherlands
-    city: Zeist
-    styles:
-      - balfolk
-    workshop: true
-    social: true
     price: €5
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
@@ -55420,6 +55521,24 @@ events:
     workshop: true
     social: true
     price: €5
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk Express Closing Bal
+    details: "Op dinsdag 30 januari 2024 is de laatste les van het seizoen bij Balfolk Express. We sluiten dit af met een openbaar bal. Ook jij bent welkom. Deze keer komt Olivier Cap spelen met zijn solo band: Le p'tit Bal à Oli.\n\nToegang:\n€12,50\n\nReserveren:\nJe kan hier je kaartjes reserveren via de site van Balfolk Express\n\n \n\nOver de band Le p'tit Bal à Oli:\nOlivier Cap is al jaren een grote naam in Wallonië. Het is de eerste keer dat hij speelt in Nederland. Zelf schrijft hij over zijn muziek:\n\n. . . Het leven met zijn mooie momenten, zijn teleurstellingen, verbazingwekkende ontmoetingen, momenten van eenzaamheid, van melancholie, maar ook met momenten van intens geluk. . .\nIk bezorg je dit met de toppen van mijn vingers, met muziek. . .\nMijn eigen melodieën. En misschien is er hier en daar meer te ontdekken. . .\n\nWil je alvast luisteren naar zijn muziek? Klik dan hier.\n\n \n\nTijden:\nDeuren open: 20:15\nStart band: 20:30\nSluiten zaal: 22:45\n\nAdres:\nCafé Tropical\nVerlengde Hooggravenseweg 203, Utrecht\n\nBereikbaarheid:\nEr zijn beperkt aantal plekken vrij op het terrein voor auto’s. Is het vol kan je buiten het terrein ook gratis staan.\nDe locatie is goed bereikbaar met het openbaar vervoer of met de fiets."
+    links:
+      - "https://balfolkexpress.nl/afsluitend-bal"
+      - "https://www.balfolk.nl/agenda/afsluitend-bal-bij-balfolk-express-2/"
+    start: "2024-01-30T20:30:00+01:00"
+    end: "2024-01-30T22:45:00+01:00"
+    country: Netherlands
+    city: Utrecht
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Olivier Cap
+    price: €12.50
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Socialles 289 — Dansetiquette
