@@ -121,6 +121,13 @@
           "type": "string",
           "format": "date"
         },
+        "source": {
+          "description": "The name of the file in which this event is stored.",
+          "type": [
+            "string",
+            "null"
+          ]
+        },
         "state": {
           "type": [
             "string",
