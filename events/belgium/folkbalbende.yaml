@@ -7120,16 +7120,17 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.facebook.com/info.cave.canem"
       - "https://folkbalbende.be/event/1397"
-    start_date: 2023-12-17
-    end_date: 2023-12-17
+    start: 2023-12-17T21:00:00+01:00
+    end: 2023-12-17T16:30:00+01:00
     country: Belgium
     city: Watermaal-Bosvoorde
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Cave Canem
+    price: €5-€10
     organisation: ~
   - name: Interactive Folkdance Workshop
     details: Course
@@ -12109,11 +12110,12 @@ events:
       - Trommelfluit
     price: €14-€16
     organisation: ~
-  - name: Baleynbal
+  - name: Baleynbal Academie Podium
     details: Ball
     links:
       - "https://tey.be/programma/2023/12/16/baleynbal-van-de-folkafdeling"
       - "https://folkbalbende.be/event/1957"
+      - "https://folkbalbende.be/event/2009"
     start: 2023-12-16T20:00:00+01:00
     end: 2023-12-16T23:00:00+01:00
     country: Belgium
@@ -12281,29 +12283,12 @@ events:
       - Fête Laweit
     price: €7-€15
     organisation: Ballucinant
-  - name: BaleynbalAcademie Podium
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.tey.be/"
-      - "https://folkbalbende.be/event/2009"
-    start_date: 2023-12-16
-    end_date: 2023-12-16
-    country: Belgium
-    city: Belsele
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Sint-Niklaas
-    organisation: "Muziekclub 't Ey"
   - name: Practica In De Pianofabriek
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Practica in De Pianofabriek/902/"
+      - "https://frissefolk.be/en/event-en/practica-at-de-pianofabriek/902/"
       - "https://folkbalbende.be/event/2010"
-      - "https://www.facebook.com/events/326484003189340"
+      - "https://www.facebook.com/events/326484003189340/348157754355298/"
     start: "2023-12-19T20:30:00+01:00"
     end: "2023-12-19T22:30:00+01:00"
     country: Belgium
@@ -12313,14 +12298,14 @@ events:
     workshop: true
     social: true
     organisation: Frisse Folk Vzw/asbl
-  - name: Folkdans Voor Beginners - Niveau 1
+  - name: Folk Dance for Beginners - Level 1
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Folkdans voor beginners - niveau 1/907/"
+      - "https://frissefolk.be/en/event-en/folk-dance-for-beginners-level-1/907/"
       - "https://folkbalbende.be/event/2011"
       - "https://www.facebook.com/events/1581979629004270"
-    start_date: 2024-01-20
-    end_date: 2024-01-20
+    start: 2024-01-20T13:15:00+01:00
+    end: 2024-01-20T18:15:00+01:00
     country: Belgium
     city: Mechelen
     styles:
@@ -12329,10 +12314,10 @@ events:
     social: false
     price: €20-€55
     organisation: Frisse Folk Vzw/asbl
-  - name: Danslessen Niveau 4 Mechelen
+  - name: Dance Class Level 4
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Danslessen niveau 4 Mechelen/908/"
+      - "https://frissefolk.be/en/event-en/dance-class-level-4-mechelen/908/"
       - "https://folkbalbende.be/event/2012"
       - "https://www.facebook.com/events/1351743532118924"
     start: "2024-01-08T19:00:00+01:00"
@@ -12345,10 +12330,10 @@ events:
     social: false
     price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Danslessen Niveau 2 Mechelen
+  - name: Dance Class Level 2
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Danslessen niveau 2 Mechelen/909/"
+      - "https://frissefolk.be/en/event-en/dance-class-level-2-mechelen/909/"
       - "https://folkbalbende.be/event/2013"
       - "https://www.facebook.com/events/1351743532118924"
     start: "2024-01-08T20:30:00+01:00"
@@ -12361,12 +12346,11 @@ events:
     social: false
     price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Danslessen Niveau 2
+  - name: Dance Class Level 2
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Danslessen Niveau 2/910/"
+      - "https://frissefolk.be/en/event-en/dance-class-level-2/910/"
       - "https://folkbalbende.be/event/2014"
-      - "https://www.facebook.com/events/923426482429435"
     start: "2023-09-20T19:00:00+02:00"
     end: "2023-09-20T20:30:00+02:00"
     country: Belgium
@@ -12377,12 +12361,11 @@ events:
     social: false
     price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Danslessen Niveau 1
+  - name: Dance Class Level 1
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Danslessen niveau 1/911/"
+      - "https://frissefolk.be/en/event-en/dance-class-level-1/911/"
       - "https://folkbalbende.be/event/2015"
-      - "https://www.facebook.com/events/270681672170087"
     start: "2024-01-10T19:00:00+01:00"
     end: "2024-01-10T20:30:00+01:00"
     country: Belgium
@@ -12391,14 +12374,12 @@ events:
       - balfolk
     workshop: true
     social: false
-    price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Danslessen Niveau 2
+  - name: Dance Class Level 2
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Danslessen niveau 2/912/"
+      - "https://frissefolk.be/en/event-en/dance-class-level-2/912/"
       - "https://folkbalbende.be/event/2016"
-      - "https://www.facebook.com/events/270681672170087"
     start: "2024-01-09T18:00:00+01:00"
     end: "2024-01-09T19:30:00+01:00"
     country: Belgium
@@ -12407,14 +12388,12 @@ events:
       - balfolk
     workshop: true
     social: false
-    price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Danslessen Niveau 2
+  - name: Dance Class Level 2
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Danslessen niveau 2/913/"
+      - "https://frissefolk.be/en/event-en/dance-class-level-2/913/"
       - "https://folkbalbende.be/event/2017"
-      - "https://www.facebook.com/events/270681672170087"
     start: "2024-01-11T20:30:00+01:00"
     end: "2024-01-11T22:00:00+01:00"
     country: Belgium
@@ -12423,12 +12402,11 @@ events:
       - balfolk
     workshop: true
     social: false
-    price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Danslessen Niveau 4
+  - name: Dance Class Level 4
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Danslessen niveau 4/914/"
+      - "https://frissefolk.be/en/event-en/dance-class-level-4/914/"
       - "https://folkbalbende.be/event/2018"
       - "https://www.facebook.com/events/270681672170087"
     start: "2024-01-08T20:30:00+01:00"
@@ -12439,14 +12417,12 @@ events:
       - balfolk
     workshop: true
     social: false
-    price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Danslessen Niveau 5
+  - name: Dance Class Level 5
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Danslessen niveau 5/915/"
+      - "https://frissefolk.be/en/event-en/dance-class-level-5/915/"
       - "https://folkbalbende.be/event/2019"
-      - "https://www.facebook.com/events/270681672170087"
     start: "2024-01-10T20:30:00+01:00"
     end: "2024-01-10T22:00:00+01:00"
     country: Belgium
@@ -12455,14 +12431,12 @@ events:
       - balfolk
     workshop: true
     social: false
-    price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Danslessen Niveau 6
+  - name: Dance Class Level 6
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Danslessen niveau 6/916/"
+      - "https://frissefolk.be/en/event-en/dance-class-level-6/916/"
       - "https://folkbalbende.be/event/2020"
-      - "https://www.facebook.com/events/270681672170087"
     start: "2024-01-11T19:00:00+01:00"
     end: "2024-01-11T20:30:00+01:00"
     country: Belgium
@@ -12471,12 +12445,11 @@ events:
       - balfolk
     workshop: true
     social: false
-    price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Danslessen Niveau 7
+  - name: Dance Class Level 7
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Danslessen niveau 7/917/"
+      - "https://frissefolk.be/en/event-en/dance-class-level-7/917/"
       - "https://folkbalbende.be/event/2021"
       - "https://www.facebook.com/events/270681672170087"
     start: "2024-01-08T19:00:00+01:00"
@@ -12487,14 +12460,12 @@ events:
       - balfolk
     workshop: true
     social: false
-    price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Danslessen Niveau 8
+  - name: Dance Class Level 8
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Danslessen niveau 8/918/"
+      - "https://frissefolk.be/en/event-en/dance-class-level-8/918/"
       - "https://folkbalbende.be/event/2022"
-      - "https://www.facebook.com/events/270681672170087"
     start: "2024-01-09T19:30:00+01:00"
     end: "2024-01-09T21:00:00+01:00"
     country: Belgium
@@ -12503,12 +12474,11 @@ events:
       - balfolk
     workshop: true
     social: false
-    price: donation
     organisation: Frisse Folk Vzw/asbl
   - name: Bal Accords Perdus & Broes @ La Tricoterie
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Bal Accords Perdus & Broes @ La Tricoterie/919/"
+      - "https://frissefolk.be/en/event-en/bal-accords-perdus-&-broes-la-tricoterie/919/"
       - "https://folkbalbende.be/event/2023"
       - "https://www.facebook.com/events/655231840130402"
     start: "2024-01-14T18:00:00+01:00"
@@ -12527,11 +12497,10 @@ events:
   - name: Intensieve Dansstage Folk @AKDT
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Intensieve dansstage folk @AKDT/921/"
+      - "https://frissefolk.be/en/event-en/intensive-folk-dance-summer-school-akdt/921/"
       - "https://folkbalbende.be/event/2024"
-      - "https://www.facebook.com/events/764558311790115"
-    start_date: 2024-07-08
-    end_date: 2024-07-08
+    start: 2024-07-08T09:00:00+02:00
+    end: 2024-07-14T13:00:00+02:00
     country: Belgium
     city: Grandvoir
     styles:
@@ -12539,14 +12508,13 @@ events:
     workshop: true
     social: false
     organisation: Frisse Folk Vzw/asbl
-  - name: Folkdans Voor Beginners - Niveau 1
+  - name: Folk Dance for Beginners - Level 1
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Folkdans voor beginners - niveau 1/922/"
+      - "https://frissefolk.be/en/event-en/folk-dance-for-beginners-level-1/922/"
       - "https://folkbalbende.be/event/2025"
-      - "https://www.facebook.com/events/5889518084471813"
-    start_date: 2024-02-18
-    end_date: 2024-02-18
+    start: 2024-02-18T13:15:00+01:00
+    end: 2024-02-18T18:15:00+01:00
     country: Belgium
     city: Brussels
     styles:
