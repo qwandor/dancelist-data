@@ -1,19 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Catsfield Steamers in Winchelsea
-    links:
-      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
-    start_date: 2023-09-02
-    end_date: 2023-09-02
-    country: UK
-    city: Winchelsea
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Catsfield Steamers
-    organisation: Webfeet
   - name: Chameleons & The Geckoes in Baldock
     links:
       - "http://www.geckoes.co.uk/"
@@ -231,7 +217,6 @@ events:
     links:
       - "http://www.chalktown.co.uk/chalkgigs.html#D.20231110"
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
-      - "https://www.areyoudancing.com/dance-event/681214/"
     start_date: 2023-11-10
     end_date: 2023-11-10
     country: UK
@@ -517,7 +502,6 @@ events:
     organisation: Webfeet
   - name: Red Shed in Sandford
     links:
-      - "http://devonfolk.org/events-diary/"
       - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
     start_date: 2023-11-24
     end_date: 2023-11-24
@@ -549,7 +533,6 @@ events:
   - name: Spinach for Norman in Kennford
     links:
       - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-      - "http://devonfolk.org/events-diary/"
     start_date: 2023-11-25
     end_date: 2023-11-25
     country: UK
@@ -623,9 +606,10 @@ events:
     bands:
       - Folkus Pocus
     organisation: Webfeet
-  - name: Emily & the Simons in Bristol
+  - name: Emily & The Simons in Bristol
     links:
       - "http://mister.red/dance/bristol.htm#D.AV.20231126"
+      - "https://www.facebook.com/events/976950243600174"
     start_date: 2023-11-26
     end_date: 2023-11-26
     country: UK
@@ -635,6 +619,7 @@ events:
     workshop: false
     social: true
     bands:
+      - Emily & The Simons
       - Emily & the Simons
     organisation: Webfeet
   - name: regular band in Abergavenny
@@ -1514,7 +1499,7 @@ events:
     bands:
       - Striding Edge
     organisation: Webfeet
-  - name: The Linda Game Band in Englefield Green
+  - name: Box of Frogs in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
     start_date: 2024-01-14
@@ -1526,7 +1511,7 @@ events:
     workshop: false
     social: true
     bands:
-      - The Linda Game Band
+      - Box of Frogs
     organisation: Webfeet
   - name: David Yeomans in Pucklechurch
     links:
@@ -1742,7 +1727,7 @@ events:
     callers:
       - Lisa Heywood
     organisation: Webfeet
-  - name: The Linda Game Band in Englefield Green
+  - name: Old Time Contra Band in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
     start_date: 2024-02-11
@@ -1754,7 +1739,7 @@ events:
     workshop: false
     social: true
     bands:
-      - The Linda Game Band
+      - Old Time Contra Band
     callers:
       - Nicola Scott
     organisation: Webfeet
@@ -1910,7 +1895,7 @@ events:
     bands:
       - Bandamomnium
     organisation: Webfeet
-  - name: The Linda Game Band in Englefield Green
+  - name: English Contra Dance Band in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
     start_date: 2024-03-10
@@ -1922,7 +1907,7 @@ events:
     workshop: false
     social: true
     bands:
-      - The Linda Game Band
+      - English Contra Dance Band
     callers:
       - Lynne Render
     organisation: Webfeet
@@ -2231,6 +2216,20 @@ events:
     callers:
       - Jo (NOTE 4pm start)
     organisation: Webfeet
+  - name: Chippenham Folk Festival
+    links:
+      - "http://www.random-band.co.uk/#D.20240524-20240527"
+    start_date: 2024-05-24
+    end_date: 2024-05-27
+    country: UK
+    city: Chippenham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Random
+    organisation: Webfeet
   - name: Banned From The Moor in Exeter
     links:
       - "http://mister.red/dance/exeter.htm#D.YH.20240525"
@@ -2273,7 +2272,7 @@ events:
     bands:
       - Catsfield Steamers
     organisation: Webfeet
-  - name: The Linda Game Band in Englefield Green
+  - name: Box of Frogs in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
     start_date: 2024-06-09
@@ -2285,7 +2284,7 @@ events:
     workshop: false
     social: true
     bands:
-      - The Linda Game Band
+      - Box of Frogs
     callers:
       - Victoria Yeomans
     organisation: Webfeet
@@ -2361,6 +2360,20 @@ events:
       - Portland Duo
     callers:
       - Brian Stanton
+    organisation: Webfeet
+  - name: Blackbeards Tea Party in West Acre
+    links:
+      - "http://www.blackbeardsteaparty.com/gigs/"
+    start_date: 2024-07-05
+    end_date: 2024-07-05
+    country: UK
+    city: West Acre
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Blackbeards Tea Party
     organisation: Webfeet
   - name: The Linda Game Band in Englefield Green
     links:
@@ -2452,7 +2465,7 @@ events:
     bands:
       - Portland Drive
     organisation: Webfeet
-  - name: The Linda Game Band in Englefield Green
+  - name: Box of Frogs in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
     start_date: 2024-11-10
@@ -2464,7 +2477,7 @@ events:
     workshop: false
     social: true
     bands:
-      - The Linda Game Band
+      - Box of Frogs
     callers:
       - Mark Elvins
     organisation: Webfeet
