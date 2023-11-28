@@ -121,6 +121,12 @@
           "type": "string",
           "format": "date"
         },
+        "state": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
         "styles": {
           "description": "The dance styles included in the event.",
           "default": [],
