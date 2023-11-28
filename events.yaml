@@ -10596,18 +10596,20 @@ events:
   - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/info.cave.canem"
       - "https://folkbalbende.be/event/1397"
-    start_date: 2023-12-17
-    end_date: 2023-12-17
+    start: "2023-12-17T16:30:00+01:00"
+    end: "2023-12-17T21:00:00+01:00"
     country: Belgium
     city: Watermaal-Bosvoorde
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Cave Canem
+    price: €5-€10
     organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Interactive Folkdance Workshop
@@ -12493,7 +12495,6 @@ events:
     links:
       - "https://www.rzf.be/en_US/event/bal-folk-avec-remi-geffroy-3-4-2023-12-08-58/register"
       - "https://www.facebook.com/events/198549253082027"
-      - "https://folkbalbende.be/event/1646"
     start: "2023-12-08T20:15:00+01:00"
     end: "2023-12-08T20:45:00+01:00"
     country: Belgium
@@ -14220,39 +14221,25 @@ events:
     social: true
     organisation: ~
     source: events/belgium/folkbalbende.yaml
-  - name: Folkbal
+  - name: Nouvel An Folk
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://www.folknammusiquetrad.be/"
-      - "https://folkbalbende.be/event/1849"
-    start: "2023-12-31T20:15:00+01:00"
-    end: "2024-01-01T00:00:00+01:00"
+      - "https://oliviercap.be/nouvelan/"
+      - "https://www.facebook.com/events/1374439659948907/"
+    start: "2023-12-31T17:00:00+01:00"
+    end: "2024-01-01T02:00:00+01:00"
     country: Belgium
     city: Namur
     styles:
       - balfolk
     workshop: true
     social: true
-    organisation: Folknam Musique Trad
-    source: events/belgium/folkbalbende.yaml
-  - name: Boombal
-    details: Ball
-    links:
-      - "https://boombal.be"
-      - "https://folkbalbende.be/event/1851"
-    start: "2024-03-16T20:15:00+01:00"
-    end: "2024-03-17T00:30:00+01:00"
-    country: Belgium
-    city: Denderhoutem
-    styles:
-      - balfolk
-    workshop: true
-    social: true
     bands:
-      - Variomatic
-      - Duo Gestrikt
-    organisation: Boombal
+      - Airboxes
+      - Accords Perdus
+      - Olivier Cap
+    price: €40
+    organisation: "Le p'tit Bal à Oli"
     source: events/belgium/folkbalbende.yaml
   - name: Folkbal
     details: Ball
@@ -14358,9 +14345,7 @@ events:
   - name: Boeuf Folk
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://www.facebook.com/groups/1543588245878404"
-      - "https://folkbalbende.be/event/1868"
+      - "https://www.facebook.com/events/317651164373310/"
     start: "2023-12-03T19:00:00+01:00"
     end: "2023-12-03T22:30:00+01:00"
     country: Belgium
@@ -14369,7 +14354,8 @@ events:
       - balfolk
     workshop: false
     social: true
-    organisation: ~
+    price: €2
+    organisation: Les Boeufs Folk Bruxellois
     source: events/belgium/folkbalbende.yaml
   - name: Folkbal
     details: Ball
@@ -14667,7 +14653,6 @@ events:
     details: Ball
     links:
       - "https://www.folknammusiquetrad.be/event/bal-au-cinex-15/"
-      - "https://folkbalbende.be/event/1901"
     start: "2023-12-01T20:15:00+01:00"
     end: "2023-12-01T20:15:00+01:00"
     country: Belgium
@@ -15844,9 +15829,7 @@ events:
   - name: Boeuf Folk
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
       - "https://www.facebook.com/events/273338631842884/"
-      - "https://folkbalbende.be/event/1950"
     start: "2023-12-14T20:00:00+01:00"
     end: "2023-12-14T23:00:00+01:00"
     country: Belgium
@@ -15856,7 +15839,7 @@ events:
     workshop: false
     social: true
     price: free
-    organisation: ~
+    organisation: Arthur Bauduin
     source: events/belgium/folkbalbende.yaml
   - name: Baleynbal
     details: Ball
@@ -15912,11 +15895,12 @@ events:
     price: €14-€16
     organisation: ~
     source: events/belgium/folkbalbende.yaml
-  - name: Baleynbal
+  - name: Baleynbal Academie Podium
     details: Ball
     links:
       - "https://tey.be/programma/2023/12/16/baleynbal-van-de-folkafdeling"
       - "https://folkbalbende.be/event/1957"
+      - "https://folkbalbende.be/event/2009"
     start: "2023-12-16T20:00:00+01:00"
     end: "2023-12-16T23:00:00+01:00"
     country: Belgium
@@ -16093,6 +16077,262 @@ events:
       - Fête Laweit
     price: €7-€15
     organisation: Ballucinant
+    source: events/belgium/folkbalbende.yaml
+  - name: Practica In De Pianofabriek
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/practica-at-de-pianofabriek/902/"
+      - "https://folkbalbende.be/event/2010"
+      - "https://www.facebook.com/events/326484003189340/348157754355298/"
+    start: "2023-12-19T20:30:00+01:00"
+    end: "2023-12-19T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Folk Dance for Beginners - Level 1
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/folk-dance-for-beginners-level-1/907/"
+      - "https://folkbalbende.be/event/2011"
+      - "https://www.facebook.com/events/1581979629004270"
+    start: "2024-01-20T13:15:00+01:00"
+    end: "2024-01-20T18:15:00+01:00"
+    country: Belgium
+    city: Mechelen
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €20-€55
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Dance Class Level 4
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dance-class-level-4-mechelen/908/"
+      - "https://folkbalbende.be/event/2012"
+      - "https://www.facebook.com/events/1351743532118924"
+    start: "2024-01-08T19:00:00+01:00"
+    end: "2024-01-08T20:30:00+01:00"
+    country: Belgium
+    city: Mechelen
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Dance Class Level 2
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dance-class-level-2-mechelen/909/"
+      - "https://folkbalbende.be/event/2013"
+      - "https://www.facebook.com/events/1351743532118924"
+    start: "2024-01-08T20:30:00+01:00"
+    end: "2024-01-08T22:00:00+01:00"
+    country: Belgium
+    city: Mechelen
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Dance Class Level 2
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dance-class-level-2/910/"
+      - "https://folkbalbende.be/event/2014"
+    start: "2023-09-20T19:00:00+02:00"
+    end: "2023-09-20T20:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Dance Class Level 1
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dance-class-level-1/911/"
+      - "https://folkbalbende.be/event/2015"
+    start: "2024-01-10T19:00:00+01:00"
+    end: "2024-01-10T20:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Dance Class Level 2
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dance-class-level-2/912/"
+      - "https://folkbalbende.be/event/2016"
+    start: "2024-01-09T18:00:00+01:00"
+    end: "2024-01-09T19:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Dance Class Level 2
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dance-class-level-2/913/"
+      - "https://folkbalbende.be/event/2017"
+    start: "2024-01-11T20:30:00+01:00"
+    end: "2024-01-11T22:00:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Dance Class Level 4
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dance-class-level-4/914/"
+      - "https://folkbalbende.be/event/2018"
+      - "https://www.facebook.com/events/270681672170087"
+    start: "2024-01-08T20:30:00+01:00"
+    end: "2024-01-08T22:00:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Dance Class Level 5
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dance-class-level-5/915/"
+      - "https://folkbalbende.be/event/2019"
+    start: "2024-01-10T20:30:00+01:00"
+    end: "2024-01-10T22:00:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Dance Class Level 6
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dance-class-level-6/916/"
+      - "https://folkbalbende.be/event/2020"
+    start: "2024-01-11T19:00:00+01:00"
+    end: "2024-01-11T20:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Dance Class Level 7
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dance-class-level-7/917/"
+      - "https://folkbalbende.be/event/2021"
+      - "https://www.facebook.com/events/270681672170087"
+    start: "2024-01-08T19:00:00+01:00"
+    end: "2024-01-08T20:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Dance Class Level 8
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dance-class-level-8/918/"
+      - "https://folkbalbende.be/event/2022"
+    start: "2024-01-09T19:30:00+01:00"
+    end: "2024-01-09T21:00:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Bal Accords Perdus & Broes @ La Tricoterie
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/bal-accords-perdus-&-broes-la-tricoterie/919/"
+      - "https://folkbalbende.be/event/2023"
+      - "https://www.facebook.com/events/655231840130402"
+    start: "2024-01-14T18:00:00+01:00"
+    end: "2024-01-14T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Accords Perdus
+      - Broes
+    price: €12-€20
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Intensieve Dansstage Folk @AKDT
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/intensive-folk-dance-summer-school-akdt/921/"
+      - "https://folkbalbende.be/event/2024"
+    start: "2024-07-08T09:00:00+02:00"
+    end: "2024-07-14T13:00:00+02:00"
+    country: Belgium
+    city: Grandvoir
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Folk Dance for Beginners - Level 1
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/folk-dance-for-beginners-level-1/922/"
+      - "https://folkbalbende.be/event/2025"
+    start: "2024-02-18T13:15:00+01:00"
+    end: "2024-02-18T18:15:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €20-€55
+    organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
   - name: Boombal at Gentse Feesten
     links:
@@ -45181,6 +45421,7 @@ events:
   - name: Richmond Wednesday English Country Dance
     details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm. \nSave the date for our live music events: a David Millstone workshop/dance on August 26, and the Jefferson Ball on November 4th."
     links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
       - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2023-11-15/"
     start: "2023-11-15T19:30:00-05:00"
     end: "2023-11-15T21:30:00-05:00"
@@ -45784,6 +46025,23 @@ events:
     social: true
     organisation: Luanne Stiles
     source: events/usa/cdss.yaml
+  - name: Richmond Wednesday English Country Dance
+    details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm."
+    links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
+      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2023-11-29/"
+    start: "2023-11-29T19:30:00-05:00"
+    end: "2023-11-29T21:30:00-05:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
+    source: events/usa/cdss.yaml
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
@@ -45960,6 +46218,26 @@ events:
     price: $5-$20
     organisation: Montpelier Contra Dance
     source: events/usa/cdss.yaml
+  - name: Holiday Delights
+    details: "Our festive English country dance is the third of the “trifecta” or “triple crown” weekend, in which Bare Necessities plays for dances in NJ, PA, and NY. Orly Krasner will call a relaxed afternoon of favorites. \nMembers: $25; Non-members: $30."
+    links:
+      - "https://sites.google.com/site/countrydancersofwestchester"
+      - "https://drive.google.com/file/d/1yUedzLaDrhnE69M_LVy8WqvZ6zge1nuV/view"
+      - "https://cdss.org/event/holiday-delights/"
+    start: "2023-12-03T14:00:00-05:00"
+    end: "2023-12-03T17:00:00-05:00"
+    country: USA
+    state: NY
+    city: White Plains
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Bare Necessities
+    price: $25-$30
+    organisation: Country Dancers of Westchester
+    source: events/usa/cdss.yaml
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
     links:
@@ -45996,6 +46274,23 @@ events:
     workshop: true
     social: true
     organisation: Luanne Stiles
+    source: events/usa/cdss.yaml
+  - name: Richmond Wednesday English Country Dance
+    details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm."
+    links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
+      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2023-12-06/"
+    start: "2023-12-06T19:30:00-05:00"
+    end: "2023-12-06T21:30:00-05:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
     source: events/usa/cdss.yaml
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
