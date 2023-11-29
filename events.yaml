@@ -46235,6 +46235,8 @@ events:
     social: true
     bands:
       - Bare Necessities
+    callers:
+      - Orly Krasner
     price: $25-$30
     organisation: Country Dancers of Westchester
     source: events/usa/cdss.yaml
@@ -46259,6 +46261,22 @@ events:
       - Walter Zagorski
     price: $10
     organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: Williamsburg Tuesday Night English Dance
+    details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
+    links:
+      - "https://williamsburgheritagedancers.org/"
+      - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2023-12-05/"
+    start: "2023-12-05T20:00:00-05:00"
+    end: "2023-12-05T22:00:00-05:00"
+    country: USA
+    state: VA
+    city: Williamsburg
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: Williamsburg Heritage Dancers
     source: events/usa/cdss.yaml
   - name: English Country Dance
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
@@ -55533,6 +55551,23 @@ events:
     workshop: true
     social: true
     price: €6
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk Deventer De Fermerie
+    details: "Bal met Wouter Kuyper.\n\nAlweer balfolk in Deventer!\n\nBalfolk Deventer is lekker dansen op live folkmuziek (alleen luisteren kan uiteraard ook)\n\nEntree: vrijwillige donatie, zoals bijvoorbeeld € 15,-/€20,- per persoon. (contant aan de deur of een tikkie)\nGeef ruim, dan kunnen we in de toekomst vaker een bal organiseren in Deventer.\n\nGlobaal tijdschema (tijden onder voorbehoud):\n\n20:00 dansworkshop\n21:00 Bal\n23:00 Einde programma\n23:00 Sessie\n(Tijden onder voorbehoud)\n\nOver de Dansworkshop/dansinstructie:\nIn deze dansuitleg komen de basisprincipes van balfolk aan bod zodat iedereen mee kan doen.\n\nWat is Balfolk?\n\nBalfolk is misschien een beetje te vergelijken met een tango- of salsa-avond, maar dan met de muziek en dansen van hier: de dansen en muziek die traditioneel in West-Europa voorkomen. En er is altijd live muziek! En we starten vaak met een dansuitleg. Iedereen kan mee doen.\n\nOver Wouter Kuyper:\n\nSamenspelen is het mooiste, een dialoog aangaan met je medemuzikanten. Maar soms is het ook gewoon tof om je eigen verhaal te kunnen vertellen.\nNaast alle bands is Wouter ook in te huren als solo-artiest. Met zijn kenmerkende geluid en mooie mix van rustig en swingend balfolkrepertoire kan hij makkelijk een avondvullend programma spelen, alleen en in z'n eentje, op zijn trekzak (of andere instrumenten, je weet maar nooit).\nGewoon op een bal, bij een luisterconcert of als begeleiding op een feestje.\nMaar Wouter kan ook een gezellige dansworkshop geven op bijvoorbeeld een bedrijfsfeestje of huwelijk, alleen of met een dansjuf.\n\n\nEr is een bar met ruime keuze uit drankjes en een kleine keuken met (vegetarische) snacks.\nLet op: op de locatie mag je geen meegebrachte etenswaren nuttigen. Kraanwater drinken/meebrengen is toegestaan."
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-deventer-de-fermerie-2/"
+    start: "2023-12-15T20:00:00+01:00"
+    end: "2023-12-15T23:00:00+01:00"
+    country: Netherlands
+    city: Deventer
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Wouter Kuyper
+    price: €15-€20
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Kerstbal 2023 in Rotterdam
