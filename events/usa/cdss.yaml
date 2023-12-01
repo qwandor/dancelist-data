@@ -1,51 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "Playford Dancing for Beginners with Steph West, Giles Lewin and Matthew Coatsworth"
-    details: "Learn dance steps from the 17th century in these practical workshops\nLearn the English country dances featured in Playford’s 1651 collection, The Dancing Master, and used in modern film and television including Bridgerton, Pride and Prejudice and Poldark. \nThese workshops are designed for those with no experience of Playford dances and are suitable for complete beginners. Caller Steph West will lead dancers through the steps, accompanied by musicians Matthew Coatsworth and Giles Lewin. \nBring your new expertise to the Playford Ball on Saturday 13 January 2024. \nDates & locations\nThe workshops take place on the following dates. The dance content is the same for each workshop. \n\nSunday 5 November 2023, 12pm – 1pm, Blackwell Hall, Weston Library (map)\n\n\nThursday 30 November 2023, 7pm – 8pm, Cherwell School North Site, Marston Ferry Road (map)\n\n\nWednesday 6 December 2023, 7pm – 8pm, Cherwell School North Site, Marston Ferry Road (map)\n\nParking is available at Cherwell School North Site. \nWhat to bring\nPlease wear appropriate non-slip footwear (soft sole shoes or trainers) for dancing. \nAbout the musicians\nSteph West is a musician, educator and caller, best known as a harpist and for her ability to build confidence and enjoyment for beginners. Steph’s current projects include an electroharp, drums and voice duo with Paul Rademeyer, the English Harp Project with Matthew Coatsworth and accordionist Tom Evans, and work with RNS Moves as a performer and composer. \nGiles Lewin specialises in medieval music and the traditional music of Europe and the Middle East. He has played with The Carnival Band, June Tabor, Maddy Prior, Bellowhead and the Dufay Collective amongst many others. His album Time’s Chariot focused on music from Playford’s Dancing Master. \nMatthew Coatsworth is curating The Dancing Master exhibition at the Bodleian Libraries. A former member of Boldwood, he plays with The Warleggan Village Band, First Folio and with Steph West’s English Harp Project."
-    links:
-      - "https://cdss.org/event/playford-dancing-for-beginners-with-steph-west-giles-lewin-and-matthew-coatsworth-2/"
-    start: "2023-11-30T19:00:00Z"
-    end: "2023-11-30T20:00:00Z"
-    country: UK
-    city: Oxford
-    styles:
-      - ecd
-    workshop: true
-    social: true
-    bands:
-      - Warleggan Village Band
-    callers:
-      - Steph West
-    organisation: CDSS
-  - name: Rochester Thursday Night Contras
-    details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
-    links:
-      - "https://cdss.org/event/rochester-ny-thursday-night-contras/2023-11-30/"
-    start: "2023-11-30T19:30:00-05:00"
-    end: "2023-11-30T22:30:00-05:00"
-    country: USA
-    state: NY
-    city: Rochester
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Country Dancers of Rochester
-  - name: Berkeley Contra and English Dances
-    details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
-    links:
-      - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2023-11-30/"
-    start: "2023-11-30T20:00:00-08:00"
-    end: "2023-11-30T22:30:00-08:00"
-    country: USA
-    state: CA
-    city: Berkeley
-    styles:
-      - contra
-      - ecd
-    workshop: true
-    social: true
-    organisation: CDSS
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
     links:
@@ -332,3 +286,31 @@ events:
     workshop: false
     social: true
     organisation: Greater Orlando Contra Dance
+  - name: Tallahassee Contra Dance
+    details: "Join us for great contra dances usually held on the second and fourth Friday of the month (check website for details). \nNOTE: This month there is only one dance due to holidays. No partner or experience needed. Wear comfortable clothing and shoes. This week, Tom Greene calls the dances and the Long Forgotten String Band plays the tunes."
+    links:
+      - "https://cdss.org/event/tallahassee-contra-dance-2/"
+    start: "2023-12-08T19:15:00-05:00"
+    end: "2023-12-08T22:00:00-05:00"
+    country: USA
+    state: FL
+    city: Tallahassee
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Tallahassee Community Friends of Old Time Dance
+  - name: Cabot Community Contra Dance
+    details: "Small monthly community contra dance with guest callers and live music by local musicians. All dances taught, no partner needed, families and beginners enthusiastically welcomed! Gender-neutral calling, short intro session for new folks at 7:15. Masks are welcomed but not required, and the large windows will be open for ventilation."
+    links:
+      - "https://cdss.org/event/cabot-community-contra-dance/2023-12-08/"
+    start: "2023-12-08T19:30:00-05:00"
+    end: "2023-12-08T22:00:00-05:00"
+    country: USA
+    state: VT
+    city: Cabot
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Cabot Community Dance
