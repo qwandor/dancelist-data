@@ -1,38 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: TECDA Friday Evening Dance
-    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
-    links:
-      - "https://cdss.org/event/tecda-friday-evening-dance/2023-12-01/"
-    start: "2023-12-01T19:00:00-05:00"
-    end: "2023-12-01T21:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: Toronto
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Alan Rosenthal
-      - Cathy Campbell
-      - Dave Berman
-      - Walter Zagorski
-    organisation: Toronto English Country Dance Assembly
-  - name: Friday Night English Dance
-    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
-    links:
-      - "https://cdss.org/event/pcdc-friday-night-english-dance/2023-12-01/"
-    start: "2023-12-01T19:30:00-08:00"
-    end: "2023-12-01T22:30:00-08:00"
-    country: USA
-    state: OR
-    city: Portland
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: CDSS
   - name: English Dance S.A.
     details: English Country Dancing in San Antonio for the first time since the pandemic! New location. Recorded music until our band is ready!
     links:
@@ -314,3 +281,31 @@ events:
     workshop: false
     social: true
     organisation: Cabot Community Dance
+  - name: Denver Contra Dance
+    details: "The Denver community contra dance is held on the 2nd Friday of each month. There is a lesson from 7 to 7:30; and dance from 7:30 to 10:30. For more details, see our website."
+    links:
+      - "https://cdss.org/event/denver-contra-dance/2023-12-08/"
+    start: "2023-12-08T19:30:00-07:00"
+    end: "2023-12-08T22:30:00-07:00"
+    country: USA
+    state: Denver
+    city: 690 Colorado Boulevard
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Colorado Friends of Old Time Music and Dance
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
+    links:
+      - "https://cdss.org/event/pcdc-friday-night-english-dance/2023-12-08/"
+    start: "2023-12-08T19:30:00-08:00"
+    end: "2023-12-08T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: CDSS
