@@ -1,81 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: English Dance S.A.
-    details: English Country Dancing in San Antonio for the first time since the pandemic! New location. Recorded music until our band is ready!
-    links:
-      - "https://cdss.org/event/english-dance-s-a/2023-12-02/"
-    start: "2023-12-02T16:00:00-05:00"
-    end: "2023-12-02T18:00:00-05:00"
-    country: USA
-    state: TX
-    city: San Antonio
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: English Dance S.A.
-  - name: Old Tyme Contra & Community Dance
-    details: "First Saturday of every month: lesson at 6:30, dance 7-9pm.\nLive band and dance caller for contras, squares, round, and fun crazy family dances, too.\nBeginners are welcome! No need to bring a partner, but you are welcome to do so.\nChildren over age 8 who are game to participate may also attend.\nBring a closed water container and a snack if you choose.\nSmooth-soled shoes work best on the Library’s wonderful wood floor.\nPlease do not wear perfume or scents to the dances."
-    links:
-      - "https://cdss.org/event/old-tyme-contra-community-dance-of-macon-county-nc/2023-12-02/"
-    start: "2023-12-02T18:30:00-05:00"
-    end: "2023-12-02T21:00:00-05:00"
-    country: USA
-    state: NC
-    city: Franklin
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: Friends of Contra Dance of Macon County
-  - name: Goshen Community Contra Dance
-    details: "Contra Dance with live music and caller. \nThe dance will be held at Goshen First Church, 215 South St., Goshen, IN. \nGeneral Public: Non-members $8, Members $6\nStudents: Non-members $5, Members $3\nChildren under 12: Free\nFamily maximum cost: $18 \nNo experience or partner needed and all dances are led by experienced callers. \nNew dancers are always welcome and are invited to the free beginners workshop at 6:30pm."
-    links:
-      - "https://cdss.org/event/goshen-community-contra-dance-2/2023-12-02/"
-    start: "2023-12-02T19:00:00-05:00"
-    end: "2023-12-02T22:00:00-05:00"
-    country: USA
-    state: IN
-    city: Goshen
-    styles:
-      - contra
-    workshop: true
-    social: true
-    price: $3-$18
-    organisation: Goshen Community Contra Dance
-  - name: Ottawa Contra Dance
-    details: "Join Ottawa Contra Dance every 1st and 3rd Saturday, September – June. Dances are called using Larks and Robins. Admission by sliding scale."
-    links:
-      - "https://cdss.org/event/ottawa-contra-dance/2023-12-02/"
-    start: "2023-12-02T19:30:00-05:00"
-    end: "2023-12-02T23:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: Ottawa
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Ottawa Contra Dance
-  - name: Montpelier Contra Dance
-    details: "Lisa Greenleaf calling to music by River Road (Kristen Planeaux, Sarah-Hadley Yakir, Jesse Ball).\nNewcomers lesson at 7:40 with dancing 8-11.\nEveryone welcome.\nAll dances are taught and gender-neutral role terms are used.\nPlease bring clean soft-soled shoes.\nMasks are optional.\nMore info at Capital City Grange.\n$12 adults, $5 kids/low-income, $20 dance supporters.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDancing every 1st, 3rd, and 5th Saturday."
-    links:
-      - "https://cdss.org/event/montpelier-contra-dance-6/"
-    start: "2023-12-02T20:00:00-05:00"
-    end: "2023-12-02T23:00:00-05:00"
-    country: USA
-    state: VT
-    city: Berlin
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - River Road
-    callers:
-      - Lisa Greenleaf
-    price: $5-$20
-    organisation: Montpelier Contra Dance
   - name: Playford Ball with Andrew Swaine and the Warleggan Village Band
     details: "Save the date – join us for live music from the Warleggan Village Band and dancing led by Andrew Swaine. \nRichard Heacock (violin), Matthew Coatsworth (violin and concertina) and Chris Green (guitar) formed the Warleggan Village Band to play for dance sequences in BBC TV’s Poldark, and later in the hugely successful Netflix series Bridgerton. The band is renowned for its exceptionally inventive playing of English country dance music from Playford to Regency times, bringing joy and energy to dancers and listeners alike.  \nAs well as performing for The Dancing Master’s Playford Ball, the Warleggan Village Band have provided audio examples of music displayed in the exhibition. \nAndrew Swaine is one of the most respected callers in the country, whether for ceilidh, American contra or Playford. His research into early Playford dances made him an obvious choice to lead dancers at our Playford Ball. Andrew runs Playford in the Pub, a monthly music and dance session held in The Shakespeare Pub in Sheffield.  \nBooking for the ball will open in autumn 2023."
     links:
@@ -309,3 +233,74 @@ events:
     workshop: false
     social: true
     organisation: CDSS
+  - name: Dover NH New England Country Dance
+    details: "Traditional New England dance with mostly contras, some squares, circles, couple dances, and occasional English or Scottish dances. No partner nor experience needed, the dances will be taught and called. An introductory session is held at 7:30 to explain the basics. "
+    links:
+      - "https://cdss.org/event/dover-nh-new-england-country-dance/2023-12-08/"
+    start: "2023-12-08T19:30:00-05:00"
+    end: "2023-12-08T22:30:00-05:00"
+    country: USA
+    state: NH
+    city: Dover
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Dave Bateman
+  - name: TECDA Monthly Dance
+    details: "TECDA is hosting a December ECD monthly dance at St. Barnabas Hall on Saturday, December 9, 2023, 2-5. \nDave Smukler calling. \nMusicians: Ben Bolker,  Susanne Maziarz  \nMasks are optional. Please bring your dancing shoes, water bottle. \nPreregistration at info@tecda.ca, but walk ins are welcome.  \nSuggested donation of $20 (to cover costs of approx. $700) for ECD.  This can be paid by etransfer to payments@tecda.ca  or cash at the door. \nSee you on the dance floor."
+    links:
+      - "https://cdss.org/event/tecda-monthly-dance/"
+    start: "2023-12-09T14:00:00-05:00"
+    end: "2023-12-09T17:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $20-$700
+    organisation: Toronto English Country Dance Assembly
+  - name: Southern Nevada Old-Time Contra Dancers
+    details: "If you haven’t attended any prior SNOCD events, you are in for a treat! We have live bands playing for us and outstanding callers helping us navigate through simple to complex contra figures. \nSubscribe to our monthly email newsletter"
+    links:
+      - "https://cdss.org/event/contra-dance-with-southern-nevada-old-time-contra-dancers-8/"
+    start: "2023-12-09T18:00:00-08:00"
+    end: "2023-12-09T22:00:00-08:00"
+    country: USA
+    state: NV
+    city: Las Vegas
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Southern Nevada Old-Time Contra Dancers (SNOCD)
+  - name: Zesty Contra Dance
+    details: The Zesty contra dance is for dancers with some experience with dancing. There is no lesson before the dance; and easier dances may be called with no walk through.
+    links:
+      - "https://cdss.org/event/zesty-contra-dance/2023-12-09/"
+    start: "2023-12-09T19:00:00-07:00"
+    end: "2023-12-09T22:00:00-07:00"
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Colorado Friends of Old Time Music and Dance
+  - name: 2nd Saturdays Contra Dance
+    details: "Our Saturday night series at Fulton Hall continues! Dances called using gender-neutral terms. All folks must be vaxxed, boosted, and masked.  \nIf you have not been to a PCDC event since 2020, you can help expedite the entry process by filling out our contact tracing form. \n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."
+    links:
+      - "https://cdss.org/event/portland-country-dance-community-2nd-saturdays-contra-dance/2023-12-09/"
+    start: "2023-12-09T19:00:00-08:00"
+    end: "2023-12-09T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Portland Country Dance Community
