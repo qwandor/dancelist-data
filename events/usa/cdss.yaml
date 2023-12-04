@@ -1856,6 +1856,7 @@ events:
   - name: Tallahassee Contra Dance
     details: "Join us for great contra dances usually held on the second and fourth Friday of the month (check website for details). \nNOTE: This month there is only one dance due to holidays. No partner or experience needed. Wear comfortable clothing and shoes. This week, Tom Greene calls the dances and the Long Forgotten String Band plays the tunes."
     links:
+      - "http://www.tallydancer.com/"
       - "https://cdss.org/event/tallahassee-contra-dance-2/"
     start: "2023-12-08T19:15:00-05:00"
     end: "2023-12-08T22:00:00-05:00"
@@ -1866,38 +1867,50 @@ events:
       - contra
     workshop: false
     social: true
+    price: $6-$10
     organisation: Tallahassee Community Friends of Old Time Dance
   - name: Cabot Community Contra Dance
     details: "Small monthly community contra dance with guest callers and live music by local musicians. All dances taught, no partner needed, families and beginners enthusiastically welcomed! Gender-neutral calling, short intro session for new folks at 7:15. Masks are welcomed but not required, and the large windows will be open for ventilation."
     links:
       - "https://cdss.org/event/cabot-community-contra-dance/2023-12-08/"
-    start: "2023-12-08T19:30:00-05:00"
+      - "https://www.facebook.com/events/242985861955342/"
+    start: "2023-12-08T19:15:00-05:00"
     end: "2023-12-08T22:00:00-05:00"
     country: USA
     state: VT
     city: Cabot
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    callers:
+      - Don Stratton
+    price: $5-$10
     organisation: Cabot Community Dance
   - name: Denver Contra Dance
     details: "The Denver community contra dance is held on the 2nd Friday of each month. There is a lesson from 7 to 7:30; and dance from 7:30 to 10:30. For more details, see our website."
     links:
+      - "https://www.cfootmad.org/"
       - "https://cdss.org/event/denver-contra-dance/2023-12-08/"
-    start: "2023-12-08T19:30:00-07:00"
+    start: "2023-12-08T19:00:00-07:00"
     end: "2023-12-08T22:30:00-07:00"
     country: USA
-    state: Denver
-    city: 690 Colorado Boulevard
+    state: CO
+    city: Denver
     styles:
       - contra
     workshop: true
     social: true
+    bands:
+      - Deb & the Pariahs
+    callers:
+      - Patricia Danscen
+    price: $8-$15
     organisation: Colorado Friends of Old Time Music and Dance
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5225"
       - "https://cdss.org/event/pcdc-friday-night-english-dance/2023-12-08/"
     start: "2023-12-08T19:30:00-08:00"
     end: "2023-12-08T22:30:00-08:00"
@@ -1908,6 +1921,11 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Fred Nussbaum, George Penk, Laura Kuhlman, Heather Pinney
+    callers:
+      - Nan Evans
+    price: $7-$15
     organisation: CDSS
   - name: Dover NH New England Country Dance
     details: "Traditional New England dance with mostly contras, some squares, circles, couple dances, and occasional English or Scottish dances. No partner nor experience needed, the dances will be taught and called. An introductory session is held at 7:30 to explain the basics. "
@@ -1920,8 +1938,9 @@ events:
     city: Dover
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $5-$10
     organisation: Dave Bateman
   - name: TECDA Monthly Dance
     details: "TECDA is hosting a December ECD monthly dance at St. Barnabas Hall on Saturday, December 9, 2023, 2-5. \nDave Smukler calling. \nMusicians: Ben Bolker,  Susanne Maziarz  \nMasks are optional. Please bring your dancing shoes, water bottle. \nPreregistration at info@tecda.ca, but walk ins are welcome.  \nSuggested donation of $20 (to cover costs of approx. $700) for ECD.  This can be paid by etransfer to payments@tecda.ca  or cash at the door. \nSee you on the dance floor."
@@ -1936,7 +1955,7 @@ events:
       - ecd
     workshop: false
     social: true
-    price: $20-$700
+    price: $20
     organisation: Toronto English Country Dance Assembly
   - name: Southern Nevada Old-Time Contra Dancers
     details: "If you haven’t attended any prior SNOCD events, you are in for a treat! We have live bands playing for us and outstanding callers helping us navigate through simple to complex contra figures. \nSubscribe to our monthly email newsletter"
@@ -1955,6 +1974,7 @@ events:
   - name: Zesty Contra Dance
     details: The Zesty contra dance is for dancers with some experience with dancing. There is no lesson before the dance; and easier dances may be called with no walk through.
     links:
+      - "https://www.cfootmad.org/index.php/node/1156"
       - "https://cdss.org/event/zesty-contra-dance/2023-12-09/"
     start: "2023-12-09T19:00:00-07:00"
     end: "2023-12-09T22:00:00-07:00"
@@ -1963,8 +1983,13 @@ events:
     city: Boulder
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
+    bands:
+      - The Buffleheads
+    callers:
+      - Tina Fields
+    price: $8-$15
     organisation: Colorado Friends of Old Time Music and Dance
   - name: 2nd Saturdays Contra Dance
     details: "Our Saturday night series at Fulton Hall continues! Dances called using gender-neutral terms. All folks must be vaxxed, boosted, and masked.  \nIf you have not been to a PCDC event since 2020, you can help expedite the entry process by filling out our contact tracing form. \n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."
@@ -1984,20 +2009,21 @@ events:
     details: "Music: TBD\nCaller: TBD\nAdmission: $9 members/students, $12 non-members, 18 & under free.\nBeginner’s Workshop: Arrive early at 6:45pm to learn or review basic steps.\nCOVID: While vaccinations are excellent for preventing disease, TADAMS will no longer require proof of vaccination to participate in our dances.  Wearing a mask remains optional."
     links:
       - "https://cdss.org/event/richmond-va-saturday-night-contra-dance-tadams-5/"
-    start: "2023-12-09T19:30:00-05:00"
+    start: "2023-12-09T18:45:00-05:00"
     end: "2023-12-09T22:30:00-05:00"
     country: USA
     state: VA
     city: Henrico
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $9-$12
     organisation: TADAMS (Traditional American Dance and Music Society)
   - name: English Country Dance in Dallas
     details: Monthly English Country Dance
     links:
+      - "https://www.nttds.org/"
       - "https://cdss.org/event/english-country-dance-in-dallas/2023-12-09/"
     start: "2023-12-09T19:30:00-06:00"
     end: "2023-12-09T22:30:00-06:00"
@@ -2009,22 +2035,10 @@ events:
     workshop: false
     social: true
     organisation: North Texas Traditional Dance Society (NTTDS)
-  - name: London Barndance
-    details: London Barndance is the regular monthly contra dance in London. This month we have Rhodri Davies calling and Bearded Dragons playing.
-    links:
-      - "https://cdss.org/event/london-barndance-2/"
-    start: "2023-12-09T20:00:00Z"
-    end: "2023-12-09T23:00:00Z"
-    country: UK
-    city: London
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: CDSS
   - name: Contra Dance in December
     details: This contra dance will have live music. The cost is $10 (cash only).
     links:
+      - "https://www.meetup.com/bay-saint-louis-contra-dance-meetup-group/events/296936675/"
       - "https://cdss.org/event/contra-dance-in-december/"
     start: "2023-12-10T13:45:00Z"
     end: "2023-12-10T16:30:00Z"
