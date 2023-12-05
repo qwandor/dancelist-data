@@ -127,6 +127,23 @@ events:
       - Dave Berman
       - Walter Zagorski
     organisation: Toronto English Country Dance Assembly
+  - name: TECDA Friday Evening Dance Featuring Caller Dave Smukler
+    details: "Come and join us this Friday for an evening of dance with caller Dave Smukler and live music. \nMusician: Susanne Maziarz on piano. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nSee you on the dance floor. \nFor more information, please contact us: info@tecda.ca \nCost $10.00 or pay what you can."
+    links:
+      - "https://cdss.org/event/tecda-friday-evening-dance-featuring-caller-dave-smukler/"
+    start: "2023-12-08T19:00:00-05:00"
+    end: "2023-12-08T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Dave Smukler
+    price: $10
+    organisation: Toronto English Country Dance Assembly
   - name: Orlando Contra Dance
     details: "We hold energetic and fun contra dances on 2nd and 4th Fridays near Orlando, Florida, in the beautiful Winter Park Ballroom! Our group loves both traditional and contemporary music, which is usually live. We welcome all ages and have a large contingent of younger dancers. Students and jobless dance FREE! Check the schedule for directions, details, cancellations, and changes. Afterwards, we go next door to Jeremiah’s Italian Ice!"
     links:
@@ -154,6 +171,10 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Long Forgotten String Band
+    callers:
+      - Tom Greene
     organisation: Tallahassee Community Friends of Old Time Dance
   - name: Cabot Community Contra Dance
     details: "Small monthly community contra dance with guest callers and live music by local musicians. All dances taught, no partner needed, families and beginners enthusiastically welcomed! Gender-neutral calling, short intro session for new folks at 7:15. Masks are welcomed but not required, and the large windows will be open for ventilation."
@@ -197,7 +218,7 @@ events:
     workshop: false
     social: true
     organisation: CDSS
-  - name: Dover NH New England Country Dance
+  - name: Dover New England Country Dance
     details: "Traditional New England dance with mostly contras, some squares, circles, couple dances, and occasional English or Scottish dances. No partner nor experience needed, the dances will be taught and called. An introductory session is held at 7:30 to explain the basics. "
     links:
       - "https://cdss.org/event/dover-nh-new-england-country-dance/2023-12-08/"
@@ -208,9 +229,23 @@ events:
     city: Dover
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     organisation: Dave Bateman
+  - name: Friday Night Contra & Square Dance
+    details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
+    links:
+      - "https://cdss.org/event/friday-night-contra-square-dance/2023-12-08/"
+    start: "2023-12-08T20:00:00-05:00"
+    end: "2023-12-08T23:00:00-05:00"
+    country: USA
+    state: MD
+    city: Glen Echo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Folklore Society of Greater Washington
   - name: TECDA Monthly Dance
     details: "TECDA is hosting a December ECD monthly dance at St. Barnabas Hall on Saturday, December 9, 2023, 2-5. \nDave Smukler calling. \nMusicians: Ben Bolker,  Susanne Maziarz  \nMasks are optional. Please bring your dancing shoes, water bottle. \nPreregistration at info@tecda.ca, but walk ins are welcome.  \nSuggested donation of $20 (to cover costs of approx. $700) for ECD.  This can be paid by etransfer to payments@tecda.ca  or cash at the door. \nSee you on the dance floor."
     links:
@@ -224,6 +259,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Dave Smukler
     price: $20-$700
     organisation: Toronto English Country Dance Assembly
   - name: Southern Nevada Old-Time Contra Dancers
@@ -251,7 +288,7 @@ events:
     city: Boulder
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     organisation: Colorado Friends of Old Time Music and Dance
   - name: 2nd Saturdays Contra Dance
@@ -309,19 +346,4 @@ events:
       - contra
     workshop: false
     social: true
-    organisation: CDSS
-  - name: Contra Dance in December
-    details: This contra dance will have live music. The cost is $10 (cash only).
-    links:
-      - "https://cdss.org/event/contra-dance-in-december/"
-    start: "2023-12-10T13:45:00Z"
-    end: "2023-12-10T16:30:00Z"
-    country: USA
-    state: MS
-    city: Gulfport
-    styles:
-      - contra
-    workshop: false
-    social: true
-    price: $10
     organisation: CDSS
