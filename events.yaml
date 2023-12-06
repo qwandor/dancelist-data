@@ -15699,7 +15699,6 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/practica-with-initiation-mechelen/906/"
       - "https://folkbalbende.be/event/1938"
-      - "https://www.facebook.com/events/282137754742159/295343626754905/"
     start: "2023-12-29T19:30:00+01:00"
     end: "2023-12-29T23:30:00+01:00"
     country: Belgium
@@ -15709,6 +15708,7 @@ events:
     workshop: true
     social: true
     organisation: Frisse Folk Vzw/asbl
+    cancelled: true
     source: events/belgium/folkbalbende.yaml
   - name: Practica with Initiation
     details: Ball
@@ -46543,9 +46543,10 @@ events:
     organisation: CDSS
     source: events/usa/cdss.yaml
   - name: TECDA Friday Evening Dance
-    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    details: "Come and join us this Friday for an evening of dance with caller Dave Smukler and live music. \nMusician: Susanne Maziarz on piano. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nSee you on the dance floor. \nFor more information, please contact us: info@tecda.ca \nCost $10.00 or pay what you can."
     links:
       - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-friday-evening-dance-featuring-caller-dave-smukler/"
       - "https://cdss.org/event/tecda-friday-evening-dance/2023-12-08/"
     start: "2023-12-08T19:00:00-05:00"
     end: "2023-12-08T21:00:00-05:00"
@@ -46557,10 +46558,7 @@ events:
     workshop: false
     social: true
     callers:
-      - Alan Rosenthal
-      - Cathy Campbell
-      - Dave Berman
-      - Walter Zagorski
+      - Dave Smukler
     price: $10
     organisation: Toronto English Country Dance Assembly
     source: events/usa/cdss.yaml
@@ -46600,6 +46598,10 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Long Forgotten String Band
+    callers:
+      - Tom Greene
     price: $6-$10
     organisation: Tallahassee Community Friends of Old Time Dance
     source: events/usa/cdss.yaml
@@ -46664,7 +46666,7 @@ events:
     price: $7-$15
     organisation: CDSS
     source: events/usa/cdss.yaml
-  - name: Dover NH New England Country Dance
+  - name: Dover New England Country Dance
     details: "Traditional New England dance with mostly contras, some squares, circles, couple dances, and occasional English or Scottish dances. No partner nor experience needed, the dances will be taught and called. An introductory session is held at 7:30 to explain the basics. "
     links:
       - "https://cdss.org/event/dover-nh-new-england-country-dance/2023-12-08/"
@@ -46680,6 +46682,21 @@ events:
     price: $5-$10
     organisation: Dave Bateman
     source: events/usa/cdss.yaml
+  - name: Friday Night Contra & Square Dance
+    details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
+    links:
+      - "https://cdss.org/event/friday-night-contra-square-dance/2023-12-08/"
+    start: "2023-12-08T19:30:00-05:00"
+    end: "2023-12-08T23:00:00-05:00"
+    country: USA
+    state: MD
+    city: Glen Echo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Folklore Society of Greater Washington
+    source: events/usa/cdss.yaml
   - name: TECDA Monthly Dance
     details: "TECDA is hosting a December ECD monthly dance at St. Barnabas Hall on Saturday, December 9, 2023, 2-5. \nDave Smukler calling. \nMusicians: Ben Bolker,  Susanne Maziarz  \nMasks are optional. Please bring your dancing shoes, water bottle. \nPreregistration at info@tecda.ca, but walk ins are welcome.  \nSuggested donation of $20 (to cover costs of approx. $700) for ECD.  This can be paid by etransfer to payments@tecda.ca  or cash at the door. \nSee you on the dance floor."
     links:
@@ -46693,6 +46710,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Dave Smukler
     price: $20
     organisation: Toronto English Country Dance Assembly
     source: events/usa/cdss.yaml
