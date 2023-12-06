@@ -1,38 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: TECDA Tuesday Evening English Country Dance
-    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
-    links:
-      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2023-12-05/"
-    start: "2023-12-05T19:00:00-05:00"
-    end: "2023-12-05T21:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: North York
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Alan Rosenthal
-      - Cathy Campbell
-      - Dave Berman
-      - Walter Zagorski
-    organisation: Toronto English Country Dance Assembly
-  - name: Williamsburg (VA) Tuesday Night English Dance
-    details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
-    links:
-      - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2023-12-05/"
-    start: "2023-12-05T20:00:00-05:00"
-    end: "2023-12-05T22:00:00-05:00"
-    country: USA
-    state: VA
-    city: Williamsburg
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: Williamsburg Heritage Dancers
   - name: "Playford Dancing for Beginners with Steph West, Giles Lewin and Matthew Coatsworth"
     details: "Learn dance steps from the 17th century in these practical workshops\nLearn the English country dances featured in Playford’s 1651 collection, The Dancing Master, and used in modern film and television including Bridgerton, Pride and Prejudice and Poldark. \nThese workshops are designed for those with no experience of Playford dances and are suitable for complete beginners. Caller Steph West will lead dancers through the steps, accompanied by musicians Matthew Coatsworth and Giles Lewin. \nBring your new expertise to the Playford Ball on Saturday 13 January 2024. \nDates & locations\nThe workshops take place on the following dates. The dance content is the same for each workshop. \n\nSunday 5 November 2023, 12pm – 1pm, Blackwell Hall, Weston Library (map)\n\n\nThursday 30 November 2023, 7pm – 8pm, Cherwell School North Site, Marston Ferry Road (map)\n\n\nWednesday 6 December 2023, 7pm – 8pm, Cherwell School North Site, Marston Ferry Road (map)\n\nParking is available at Cherwell School North Site. \nWhat to bring\nPlease wear appropriate non-slip footwear (soft sole shoes or trainers) for dancing. \nAbout the musicians\nSteph West is a musician, educator and caller, best known as a harpist and for her ability to build confidence and enjoyment for beginners. Steph’s current projects include an electroharp, drums and voice duo with Paul Rademeyer, the English Harp Project with Matthew Coatsworth and accordionist Tom Evans, and work with RNS Moves as a performer and composer. \nGiles Lewin specialises in medieval music and the traditional music of Europe and the Middle East. He has played with The Carnival Band, June Tabor, Maddy Prior, Bellowhead and the Dufay Collective amongst many others. His album Time’s Chariot focused on music from Playford’s Dancing Master. \nMatthew Coatsworth is curating The Dancing Master exhibition at the Bodleian Libraries. A former member of Boldwood, he plays with The Warleggan Village Band, First Folio and with Steph West’s English Harp Project."
     links:
@@ -334,6 +301,23 @@ events:
     workshop: false
     social: true
     organisation: North Texas Traditional Dance Society (NTTDS)
+  - name: Worcester Contra Dance
+    details: "Time: Dance 7:30-10:30 pm [Intro session 7:15 pm]\nThis is so wicked fun! We dance to the fiddle tunes of Ireland, Scotland, England, France, and Appalachia and we often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time!!\nCaller: Don Heinold. Don has been calling dances for over 14 years. Don is sought for weddings, parties & regular dances! He is known for teaching waltz and still does waltz lessons.\nLive music by Old Bel Air, who are Jenn Wheeler, piano; Steve Hunker, accordion; Dave Fox. fiddle; Jo-Anne Lund, fiddle; Dave Blodgett, guitar; Bill Fisher, mandolin; Joyce Isen, percussion; and Jerry Bellows, recorder. They make a terrific sound you will love to dance to!\nAdmission: (your choice) $10 – $12 p.p., $6 – $8 students, families $25. Donations are gratefully appreciated!\nParking: There is plenty of parking behind the church by driving up State Street or up Gertrude Street.\nFood! Donations of snacks for the break are wanted and gleefully appreciated!\nClothing & Footwear: Clothing is casual. Please wear non-street shoes that move easily on the floor (rubber-soled sneakers are discouraged, but some do wear them even though it makes dancing harder).\nRole Terms are “Women & Men,” but dancers are welcome to choose whatever role that works for them, with no worries."
+    links:
+      - "https://cdss.org/event/worcester-contra-dance/"
+    start: "2023-12-09T19:30:00-05:00"
+    end: "2023-12-09T22:30:00-05:00"
+    country: USA
+    state: MA
+    city: Worcester
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Don Heinold
+    price: $6-$25
+    organisation: CDSS
   - name: London Barndance
     details: London Barndance is the regular monthly contra dance in London. This month we have Rhodri Davies calling and Bearded Dragons playing.
     links:
@@ -346,4 +330,19 @@ events:
       - contra
     workshop: false
     social: true
+    organisation: CDSS
+  - name: Contra Dance in December
+    details: This contra dance will have live music. The cost is $10 (cash only).
+    links:
+      - "https://cdss.org/event/contra-dance-in-december/"
+    start: "2023-12-10T13:45:00Z"
+    end: "2023-12-10T16:30:00Z"
+    country: USA
+    state: MS
+    city: Gulfport
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10
     organisation: CDSS
