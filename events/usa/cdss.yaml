@@ -1,51 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "Playford Dancing for Beginners with Steph West, Giles Lewin and Matthew Coatsworth"
-    details: "Learn dance steps from the 17th century in these practical workshops\nLearn the English country dances featured in Playford’s 1651 collection, The Dancing Master, and used in modern film and television including Bridgerton, Pride and Prejudice and Poldark. \nThese workshops are designed for those with no experience of Playford dances and are suitable for complete beginners. Caller Steph West will lead dancers through the steps, accompanied by musicians Matthew Coatsworth and Giles Lewin. \nBring your new expertise to the Playford Ball on Saturday 13 January 2024. \nDates & locations\nThe workshops take place on the following dates. The dance content is the same for each workshop. \n\nSunday 5 November 2023, 12pm – 1pm, Blackwell Hall, Weston Library (map)\n\n\nThursday 30 November 2023, 7pm – 8pm, Cherwell School North Site, Marston Ferry Road (map)\n\n\nWednesday 6 December 2023, 7pm – 8pm, Cherwell School North Site, Marston Ferry Road (map)\n\nParking is available at Cherwell School North Site. \nWhat to bring\nPlease wear appropriate non-slip footwear (soft sole shoes or trainers) for dancing. \nAbout the musicians\nSteph West is a musician, educator and caller, best known as a harpist and for her ability to build confidence and enjoyment for beginners. Steph’s current projects include an electroharp, drums and voice duo with Paul Rademeyer, the English Harp Project with Matthew Coatsworth and accordionist Tom Evans, and work with RNS Moves as a performer and composer. \nGiles Lewin specialises in medieval music and the traditional music of Europe and the Middle East. He has played with The Carnival Band, June Tabor, Maddy Prior, Bellowhead and the Dufay Collective amongst many others. His album Time’s Chariot focused on music from Playford’s Dancing Master. \nMatthew Coatsworth is curating The Dancing Master exhibition at the Bodleian Libraries. A former member of Boldwood, he plays with The Warleggan Village Band, First Folio and with Steph West’s English Harp Project."
-    links:
-      - "https://cdss.org/event/playford-dancing-for-beginners-with-steph-west-giles-lewin-and-matthew-coatsworth-3/"
-    start: "2023-12-06T19:00:00Z"
-    end: "2023-12-06T20:00:00Z"
-    country: UK
-    city: Oxford
-    styles:
-      - ecd
-    workshop: true
-    social: true
-    bands:
-      - Warleggan Village Band
-    callers:
-      - Steph West
-    organisation: CDSS
-  - name: English Country Dance
-    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
-    links:
-      - "https://cdss.org/event/english-country-dance-asheville-nc/2023-12-06/"
-    start: "2023-12-06T19:00:00-05:00"
-    end: "2023-12-06T21:00:00-05:00"
-    country: USA
-    state: NC
-    city: Asheville
-    styles:
-      - ecd
-    workshop: true
-    social: true
-    organisation: Luanne Stiles
-  - name: Richmond Wednesday English Country Dance
-    details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm."
-    links:
-      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2023-12-06/"
-    start: "2023-12-06T19:30:00-05:00"
-    end: "2023-12-06T21:30:00-05:00"
-    country: USA
-    state: VA
-    city: Henrico
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    price: $2
-    organisation: Colonial Dance Club of Richmond
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
@@ -346,3 +300,32 @@ events:
     social: true
     price: $10
     organisation: CDSS
+  - name: "Dance, Sing, and Jump Around"
+    details: "A family dance for all ages—all dances are taught and called, to live music. Children are free. There is a suggested donation of $5 per adult, but NO ONE is turned away. The location is the Capital City Grange Hall on Rte. 12 in Berlin, Vermont."
+    links:
+      - "https://cdss.org/event/dance-sing-and-jump-around/2023-12-10/"
+    start: "2023-12-10T15:00:00-05:00"
+    end: "2023-12-10T16:30:00-05:00"
+    country: USA
+    state: VT
+    city: Berlin
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5
+    organisation: CDSS
+  - name: English Country Dance
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 3:30 pm. Live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using a combination of positional language and ladies/gents."
+    links:
+      - "https://cdss.org/event/english-country-dance-asheville-nc-2/2023-12-10/"
+    start: "2023-12-10T16:00:00-05:00"
+    end: "2023-12-10T18:15:00-05:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: Luanne Stiles
