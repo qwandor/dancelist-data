@@ -1,63 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Contra Dance in December
-    details: This contra dance will have live music. The cost is $10 (cash only).
-    links:
-      - "https://cdss.org/event/contra-dance-in-december/"
-    start: "2023-12-10T13:45:00Z"
-    end: "2023-12-10T16:30:00Z"
-    country: USA
-    state: MS
-    city: Gulfport
-    styles:
-      - contra
-    workshop: false
-    social: true
-    price: $10
-    organisation: CDSS
-  - name: "Dance, Sing, and Jump Around"
-    details: "A family dance for all ages—all dances are taught and called, to live music. Children are free. There is a suggested donation of $5 per adult, but NO ONE is turned away. The location is the Capital City Grange Hall on Rte. 12 in Berlin, Vermont."
-    links:
-      - "https://cdss.org/event/dance-sing-and-jump-around/2023-12-10/"
-    start: "2023-12-10T15:00:00-05:00"
-    end: "2023-12-10T16:30:00-05:00"
-    country: USA
-    state: VT
-    city: Berlin
-    styles:
-      - contra
-    workshop: false
-    social: true
-    price: $5
-    organisation: CDSS
-  - name: English Country Dance
-    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 3:30 pm. Live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using a combination of positional language and ladies/gents."
-    links:
-      - "https://cdss.org/event/english-country-dance-asheville-nc-2/2023-12-10/"
-    start: "2023-12-10T16:00:00-05:00"
-    end: "2023-12-10T18:15:00-05:00"
-    country: USA
-    state: NC
-    city: Asheville
-    styles:
-      - ecd
-    workshop: true
-    social: true
-    organisation: Luanne Stiles
-  - name: Hayward Contra Dance
-    details: "We typically dance on the 2nd & 4th Sunday of each month. \nFor years, the Hayward Contra has drawn dancers from all over the Bay Area and beyond. \nSome of the unique features that have drawn a loyal following are: \nHayward is centrally located and the venue, The Hill and Valley Club, 1808 ‘B’ Street, Hayward, CA, is easy to reach by BART or car. \nAs a weekend dance, we have attracted dancers with busy work schedules. \nMeeting in the afternoon from 4-7pm, dancers coming from greater distances were able to manage the travel time both before and after the dances. \nOur venue, the Hill and Valley Club, is one of the airiest dance halls in the bay area. \nThese features have allowed us to attract a very diverse multigenerational crowd that is comfortable with our gender-neutral atmosphere. \nDetails at our website. \nWe also have a Facebook group."
-    links:
-      - "https://cdss.org/event/hayward-ca-contra-dance/2023-12-10/"
-    start: "2023-12-10T16:00:00-08:00"
-    end: "2023-12-10T19:00:00-08:00"
-    country: USA
-    state: CA
-    city: Hayward
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: CDSS
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
     links:
@@ -349,3 +291,122 @@ events:
     social: true
     price: $2
     organisation: Colonial Dance Club of Richmond
+  - name: Richmond Wednesday English Country Dance
+    details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm. \n\n\nJoin us for a special holiday dance night which starts with a potluck dinner and finishes with English Country Dancing. This is our last session before we break for the holidays. Note that there will only be two dances in January (1/10 and 1/24). We will return to our normal weekly schedule in February."
+    links:
+      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance-2/"
+    start: "2023-12-20T19:30:00-05:00"
+    end: "2023-12-20T21:30:00-05:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
+  - name: Rochester Thursday Night Contras
+    details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
+    links:
+      - "https://cdss.org/event/rochester-ny-thursday-night-contras/2023-12-21/"
+    start: "2023-12-21T19:30:00-05:00"
+    end: "2023-12-21T22:30:00-05:00"
+    country: USA
+    state: NY
+    city: Rochester
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Country Dancers of Rochester
+  - name: Berkeley Contra and English Dances
+    details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
+    links:
+      - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2023-12-21/"
+    start: "2023-12-21T20:00:00-08:00"
+    end: "2023-12-21T22:30:00-08:00"
+    country: USA
+    state: CA
+    city: Berkeley
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    organisation: CDSS
+  - name: TECDA Friday Evening Dance
+    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    links:
+      - "https://cdss.org/event/tecda-friday-evening-dance/2023-12-22/"
+    start: "2023-12-22T19:00:00-05:00"
+    end: "2023-12-22T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
+  - name: Orlando Contra Dance
+    details: "We hold energetic and fun contra dances on 2nd and 4th Fridays near Orlando, Florida, in the beautiful Winter Park Ballroom! Our group loves both traditional and contemporary music, which is usually live. We welcome all ages and have a large contingent of younger dancers. Students and jobless dance FREE! Check the schedule for directions, details, cancellations, and changes. Afterwards, we go next door to Jeremiah’s Italian Ice!"
+    links:
+      - "https://cdss.org/event/orlando-contra-dance/2023-12-22/"
+    start: "2023-12-22T19:00:00-05:00"
+    end: "2023-12-22T22:30:00-05:00"
+    country: USA
+    state: FL
+    city: Winter Park
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Greater Orlando Contra Dance
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
+    links:
+      - "https://cdss.org/event/pcdc-friday-night-english-dance/2023-12-22/"
+    start: "2023-12-22T19:30:00-08:00"
+    end: "2023-12-22T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: CDSS
+  - name: Pittsburgh Contra Dance
+    details: "Come dance to the music of Good Intentions with caller River Abel. Our free beginner lesson begins at 7:30pm. Complete beginners are welcome! Masks are required this dance, but we also hold a mask-optional dance each month. "
+    links:
+      - "https://cdss.org/event/pittsburgh-contra-dance-2/"
+    start: "2023-12-22T20:00:00-05:00"
+    end: "2023-12-22T23:00:00-05:00"
+    country: USA
+    state: PA
+    city: Pittsburgh
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Pittsburgh Contra Dance
+  - name: Friday Night Contra & Square Dance
+    details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
+    links:
+      - "https://cdss.org/event/friday-night-contra-square-dance/2023-12-22/"
+    start: "2023-12-22T20:00:00-05:00"
+    end: "2023-12-22T23:00:00-05:00"
+    country: USA
+    state: MD
+    city: Glen Echo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Folklore Society of Greater Washington
