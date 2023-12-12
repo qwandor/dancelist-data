@@ -2321,6 +2321,7 @@ events:
   - name: Baton Rouge Contra Dance
     details: Monthly contra dance. $10.00; $5.00 students.
     links:
+      - "https://louisianacontrasandsquares.com/"
       - "https://cdss.org/event/baton-rouge-contra-dance/"
     start: "2023-12-16T15:30:00-06:00"
     end: "2023-12-16T18:30:00-06:00"
@@ -2329,8 +2330,12 @@ events:
     city: Baton Rouge
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - High Cotton
+    callers:
+      - Charlene Heaton
     price: $5-$10
     organisation: Charlene Heaton & David Porter
   - name: Contra Dance
