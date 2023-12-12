@@ -15451,15 +15451,22 @@ events:
   - name: Nieuwjaarsbal@herk
     details: Ball
     links:
+      - "https://www.nieuwjaarsbal-herk.be/en/index.php"
       - "https://folkbalbende.be/event/1832"
+      - "https://www.facebook.com/events/865677254921244"
     start: "2023-12-31T20:00:00+01:00"
-    end: "2024-01-01T01:30:00+01:00"
+    end: "2024-01-01T03:00:00+01:00"
     country: Belgium
     city: Herk-de-Stad
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Hartwin Dhoore Trio
+      - Floris & The Flames
+      - Fyndus
+    price: €22-€33
     organisation: Volksmuziek Limburg Vzw
     source: events/belgium/folkbalbende.yaml
   - name: Bal@herk
@@ -15483,9 +15490,10 @@ events:
   - name: Bal@herk
     details: Ball
     links:
+      - "http://www.folkinlimburg.be/agenda/beschrijving.php?id=707"
       - "https://folkbalbende.be/event/1834"
-    start: "2024-04-13T20:00:00+02:00"
-    end: "2024-04-13T23:30:00+02:00"
+    start: "2024-04-06T20:00:00+02:00"
+    end: "2024-04-06T23:30:00+02:00"
     country: Belgium
     city: Herk-de-Stad
     styles:
@@ -15494,7 +15502,7 @@ events:
     social: true
     bands:
       - Duo Clercx
-      - Te Bepalen
+      - Warmoes
     price: €10-€16
     organisation: Folk In Limburg
     source: events/belgium/folkbalbende.yaml
@@ -15512,7 +15520,7 @@ events:
     social: true
     bands:
       - Samenspelgroepen Van De Folkafdeling Van De Genkse Academie
-      - Te Bepalen
+      - DDSS – Bamako Express
     price: €10-€16
     organisation: Folk In Limburg
     source: events/belgium/folkbalbende.yaml
@@ -15982,12 +15990,12 @@ events:
     price: €1
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
-  - name: Practica At De Pianofabriek
+  - name: Practica at the Pianofabriek
     details: Ball
     links:
       - "https://frissefolk.be/nl/event-nl/Practica at De Pianofabriek/895/"
       - "https://folkbalbende.be/event/1894"
-      - "https://www.facebook.com/events/326484003189340"
+      - "https://www.facebook.com/events/326484003189340/348157751021965/"
     start: "2023-11-07T20:30:00+01:00"
     end: "2023-11-07T22:30:00+01:00"
     country: Belgium
@@ -16157,12 +16165,11 @@ events:
     price: donation
     organisation: Stanistil
     source: events/belgium/folkbalbende.yaml
-  - name: Practica At De Pianofabriek
+  - name: Practica at the Pianofabriek
     details: Ball
     links:
       - "https://frissefolk.be/nl/event-nl/bal-de-pianofabriek/896/"
       - "https://folkbalbende.be/event/1904"
-      - "https://www.facebook.com/events/1468057910674561"
     start: "2023-10-10T20:30:00+02:00"
     end: "2023-10-10T22:30:00+02:00"
     country: Belgium
@@ -16281,9 +16288,9 @@ events:
     workshop: true
     social: true
     bands:
-      - Airboxes
       - Warmoes
-    price: €14-€18
+      - Airboxes
+    price: €16-€18
     organisation: CaBal
     source: events/belgium/folkbalbende.yaml
   - name: Balfolk Classes @Sportcentrum Leuven
@@ -16829,7 +16836,7 @@ events:
     price: €14-€25
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
-  - name: Practica At De Pianofabriek
+  - name: Practica at the Pianofabriek
     details: Ball
     links:
       - "https://frissefolk.be/en/event-en/practica-at-de-pianofabriek/900/"
@@ -17534,7 +17541,7 @@ events:
     price: €7-€15
     organisation: Ballucinant
     source: events/belgium/folkbalbende.yaml
-  - name: Practica In De Pianofabriek
+  - name: Practica at the Pianofabriek
     details: Ball
     links:
       - "https://frissefolk.be/en/event-en/practica-at-de-pianofabriek/902/"
@@ -17918,6 +17925,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/turning-variations-for-scottish/937/"
       - "https://folkbalbende.be/event/2033"
+      - "https://folkbalbende.be/event/2034"
       - "https://www.facebook.com/events/742751914369588/"
     start: "2024-02-03T13:00:00+01:00"
     end: "2024-02-03T18:00:00+01:00"
@@ -17929,6 +17937,79 @@ events:
     social: false
     price: €20-€55
     organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Bal & Basta!
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/bal-&-basta!/920/"
+      - "https://frissefolk.be/en/event-en/dances-from-the-south-of-italy/927/"
+      - "https://folkbalbende.be/event/2035"
+      - "https://www.facebook.com/events/880458580479557/"
+    start: "2024-02-17T10:00:00+01:00"
+    end: "2024-02-17T22:00:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+      - italian
+    workshop: true
+    social: true
+    bands:
+      - Nisia Trio
+      - Hartwin Dhoore Trio
+    price: €17-€67
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Practica at the Pianofabriek
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/practica-at-de-pianofabriek/938/"
+      - "https://folkbalbende.be/event/2036"
+      - "https://www.facebook.com/events/326484003189340/382246957613044/"
+    start: "2024-01-16T20:30:00+01:00"
+    end: "2024-01-16T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Practica at the Pianofabriek
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/practica-at-de-pianofabriek/939/"
+      - "https://folkbalbende.be/event/2037"
+      - "https://www.facebook.com/events/326484003189340/382246960946377/"
+    start: "2024-02-06T20:30:00+01:00"
+    end: "2024-02-06T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://www.folkinlimburg.be/agenda/beschrijving.php?id=706"
+      - "https://folkbalbende.be/event/2038"
+    start: "2024-02-10T20:00:00+01:00"
+    end: "2024-02-10T23:30:00+01:00"
+    country: Belgium
+    city: Herk-de-Stad
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Terrafolk
+      - DiaTon
+    price: €10-€16
+    organisation: Folk In Limburg
     source: events/belgium/folkbalbende.yaml
   - name: "Le Petit Bal #4"
     links:
@@ -21412,11 +21493,11 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Balfolk workshop at Fantasy Event
-    details: "Houd je van fantasy, dansen, cosplay, gothic, anime en manga? Kom op vrijdag 15 december naar het Fantasy Event in Purmerend. Je kunt je dan onderdompelen in - games, films en boeken, dans, muziek en kostuum creatie. Balfolk Amsterdam geeft om 20:30 een leuke Balfolk workshop voor beginners.\n\nAANMELDEN\nGratis aanmelden voor het Fantasy Event kan via https://bibliotheekwaterland.op-shop.nl/365/fantasy-event\nPROGRAMMA\n19:30 Start Fantasy Event\n20:30 Workshop Balfolk\n23:30 Einde Fantasy Event\n\nMEER INFORMATIE\nDit kan je verwachten:\n- Cosplay\n- Visagie\n- Balfolk\n- Demonstratie kostuum onderdelen maken in Worbla\n- Botanische tekeningen Art & Magic van Nynke van Zwol\n- Kruidenreading\n- Fantasy kostuums kraam\n- Dungeons & Dragons spelen\n\nBalfolk\nOp een bal gaat het om gezellig met elkaar te dansen. Plezier hebben is dus belangrijker dan de juiste danspasjes. Je hebt geen vaste partner nodig, op een bal kan je iedereen ten dans vragen en door iedereen gevraagd worden. En soms dans je met z'n allen. Balfolk is interactie tussen muzikanten en dansers. Je zult dansen in een kring of als koppel, maar altijd met veel improvisatie en variatie, zodat iedereen kan meedoen en plezier kan hebben.\n\nWorbla\nWorbla is een thermoplastische kunststof die wordt verhit, zodat het buigzaam, klevend en kneedbaar wordt. Dan kan het in de gewenste vorm gekneed worden en afkoelen. Worbla kunststoffen kunnen eindeloos worden verhit met een heteluchtpistool en hebben geen houdbaarheid of verwerkingstijd. Zo kunnen er de meest fantastische sieraden, veren, vleugels of wapens gemaakt worden met Worbla.\n\nBotanische tekeningen van Nynke van Zwol\nNynke heeft een fascinatie voor oude, niet-ontcijferde scripts, wat geleid heeft tot de constructie van haar eigen asemische (betekenisloze) tekens. De kalligrafische vormen en symbolen gebruikt ze in haar aquarelschilderijen en tekeningen. Vooral kleurpotlood is een favoriet materiaal van haar en zorgvuldig getekende botanische en dierlijke onderwerpen, zijn daar een bewijs van.\n\nKruidenreading\nBij de stand van Made by Kracht, kun je een gratis kruidenreading ontvangen van Karin Ovinge. Zij vult een schattenzakje of krachtzakje met kruiden. Dit kan op een bepaald onderwerp maar ze kan ook afstemmen op jouw energie en de kruiden uitzoeken waarvan zij denkt dat je op dat moment nodig hebt. Daar krijg je een korte omschrijving bij.\n\nArtemis Fantasy kostuumsInge en Larissa van Artemis Fantasy maken al jaren historische en fantasy kostuums. Ze zijn dol op historische outfits, korsetten, fantasie kleding en vintage kleding. Ze laten je graag zien wat ze zoal maken aan kostuums maar ze maken ook sieraden, kroontjes en borduurwerk om het hele plaatje compleet te maken.\n\nWorkshop Fantasy tekenen\nFreelance cartoonist en illustrator Sterre Richards geeft deze workshop Fantasy tekenen. Ze tekent bloedige en gepassioneerde verhalen, droevige, vrolijke verhalen, totdat het woord 'verhaal' niet langer op een woord lijkt.\n\nDungeons and Dragons spelen\nAltijd al meer willen leren van Dungeon and Dragons het spel met veel regels en variaties? Kom dan ook.\nXavier, een ervaren Dungeon and Dragons master neemt je graag mee door het spel en legt je het uit.\nOok ervaren spelers zijn welkom.\n\nFotocredit: Bibliotheek Purmerend"
+    details: "Houd je van fantasy, dansen, cosplay, gothic, anime en manga? Kom op vrijdag 15 december naar het Fantasy Event in Purmerend. Je kunt je dan onderdompelen in - games, films en boeken, dans, muziek en kostuum creatie. Balfolk Amsterdam geeft om 20:30 een leuke Balfolk workshop voor beginners.\n\nAANMELDEN\nGratis aanmelden voor het Fantasy Event kan via https://bibliotheekwaterland.op-shop.nl/365/fantasy-event\nPROGRAMMA\n19:30 Start Fantasy Event\n21:15 Workshop Balfolk\n23:30 Einde Fantasy Event\n\nMEER INFORMATIE\nDit kan je verwachten:\n- Cosplay\n- Visagie\n- Balfolk\n- Demonstratie kostuum onderdelen maken in Worbla\n- Botanische tekeningen Art & Magic van Nynke van Zwol\n- Kruidenreading\n- Fantasy kostuums kraam\n- Dungeons & Dragons spelen\n\nBalfolk\nOp een bal gaat het om gezellig met elkaar te dansen. Plezier hebben is dus belangrijker dan de juiste danspasjes. Je hebt geen vaste partner nodig, op een bal kan je iedereen ten dans vragen en door iedereen gevraagd worden. En soms dans je met z'n allen. Balfolk is interactie tussen muzikanten en dansers. Je zult dansen in een kring of als koppel, maar altijd met veel improvisatie en variatie, zodat iedereen kan meedoen en plezier kan hebben.\n\nWorbla\nWorbla is een thermoplastische kunststof die wordt verhit, zodat het buigzaam, klevend en kneedbaar wordt. Dan kan het in de gewenste vorm gekneed worden en afkoelen. Worbla kunststoffen kunnen eindeloos worden verhit met een heteluchtpistool en hebben geen houdbaarheid of verwerkingstijd. Zo kunnen er de meest fantastische sieraden, veren, vleugels of wapens gemaakt worden met Worbla.\n\nBotanische tekeningen van Nynke van Zwol\nNynke heeft een fascinatie voor oude, niet-ontcijferde scripts, wat geleid heeft tot de constructie van haar eigen asemische (betekenisloze) tekens. De kalligrafische vormen en symbolen gebruikt ze in haar aquarelschilderijen en tekeningen. Vooral kleurpotlood is een favoriet materiaal van haar en zorgvuldig getekende botanische en dierlijke onderwerpen, zijn daar een bewijs van.\n\nKruidenreading\nBij de stand van Made by Kracht, kun je een gratis kruidenreading ontvangen van Karin Ovinge. Zij vult een schattenzakje of krachtzakje met kruiden. Dit kan op een bepaald onderwerp maar ze kan ook afstemmen op jouw energie en de kruiden uitzoeken waarvan zij denkt dat je op dat moment nodig hebt. Daar krijg je een korte omschrijving bij.\n\nArtemis Fantasy kostuumsInge en Larissa van Artemis Fantasy maken al jaren historische en fantasy kostuums. Ze zijn dol op historische outfits, korsetten, fantasie kleding en vintage kleding. Ze laten je graag zien wat ze zoal maken aan kostuums maar ze maken ook sieraden, kroontjes en borduurwerk om het hele plaatje compleet te maken.\n\nWorkshop Fantasy tekenen\nFreelance cartoonist en illustrator Sterre Richards geeft deze workshop Fantasy tekenen. Ze tekent bloedige en gepassioneerde verhalen, droevige, vrolijke verhalen, totdat het woord 'verhaal' niet langer op een woord lijkt.\n\nDungeons and Dragons spelen\nAltijd al meer willen leren van Dungeon and Dragons het spel met veel regels en variaties? Kom dan ook.\nXavier, een ervaren Dungeon and Dragons master neemt je graag mee door het spel en legt je het uit.\nOok ervaren spelers zijn welkom.\n\nFotocredit: Bibliotheek Purmerend"
     links:
       - "https://www.balfolk.nl/agenda/balfolkworkshop-bij-fantasy-event/"
-    start: "2023-12-15T20:30:00+01:00"
-    end: "2023-12-15T21:30:00+01:00"
+    start: "2023-12-15T21:15:00+01:00"
+    end: "2023-12-15T22:15:00+01:00"
     country: Netherlands
     city: Purmerend
     styles:
@@ -21483,7 +21564,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Balfolk Utrecht — MiniBal
-    details: "** English below **\n\n\nWe gaan de band binnenkort aankondigen!\nProgramma\n19:15 – Inloop voor het bal\n20:00 – Band\n21:30 – Eind bal\n21:45 – Sluiting\nReserveren en Prijzen\nVoor dit minibal hoef je niet te reserveren. Let op! Je betaalt contant aan de kassa bij de deur. Mocht je geen contant bij je hebben, dan kun je met de Albert Heijn aan de Voorstraat pinnen. Bij ons kun je helaas niet pinnen. Prijzen:\n\n \t€13,- (Normaaltarief),\n \t€15,- (Fair-Trade),\n \t€10,- (Kortingstarief).\n\nFair Trade\nVind jij het belangrijk dat docenten en muzikanten eerlijk betaald worden? En, wil je dat Balfolk Utrecht kwaliteit levert? Neem dan Fair Trade! Want, goede docenten en muzikanten verdienen meer dan basic theebiscuits bij hun koffie. Verleid ze naar onze events met galettes. Daarom Fair Trade :)\nOverig\nWe hebben een garderobe waar je je spullen kunt achterlaten. Laat je spullen niet op de banken liggen. De bar van de Moira is gesloten. Voel je vrij om je eigen drank mee te nemen. We vragen je om na het einde van het bal, de Moira stilletjes te verlaten en geen geluid voor het gebouw te maken. \nRichtlijnen\nWij willen graag dat iedereen bij Balfolk zich vrij voelt om zichzelf te zijn en zich veilig voelt om aan te geven wat ze nodig hebben. We vinden het daarom belangrijk dat iedereen die naar onze bals komt op de hoogte is van een aantal richtlijnen waar we ons aan houden. Zo maken we de community voor iedereen zo veilig en fijn mogelijk. De richtlijnen voor onze bals: Dansrichtlijnen.\nLocatie\nHet bal vindt plaats in de Moira, een fijne zaal in het centrum van Utrecht. Het adres is Wolvenstraat 10 (aan het einde van de Plompetorengracht). Je moet de blauwe deur hebben aan de rechterkant. Dan kom je via de trap naar beneden in de zaal.\n\n\n** English **\n\n\nWe'll announce the band soon!\nProgramme\n19:15 – Walk-in for the ball\n20:00 – Band\n21:30 – End of the ball\n21:45 - Closure\nReservation and Prices\nYou do not need to make a reservation for this mini ball. You choose at the door which rate you want to pay. NB! You pay cash  at the door. If you do not have cash with you, there is an ATM at Albert Heijn on Voorstraat. There is no pin option at our cash register. Prices:\n\n \t€13,- (normal rate),\n \t€15,- (Fair Trade),\n \t€10,- (discount rate).\n\nFair Trade\nDo you think it is important that teachers and musicians are paid fairly? And, do you want Balfolk Utrecht to deliver quality? Pay Fair Trade! Because, good teachers and musicians earn more than basic tea biscuits with their coffee. Seduce them to our events with galettes. Therefore Fair Trade :)\nRemainder\nWe have a cloakroom where you can leave your belongings. Do not leave your belongings on the couches. The bar of Moira is closed. Feel free to bring your own drinks. We ask you to leave the Moira quietly after the end of the ball and not to make any noise in front of the building.\nGuidelines\nWe want everyone at Balfolk to feel free to be themselves and feel safe to express their needs. We therefore think it is important that everyone who comes to our balls is aware of a number of guidelines that we adhere to. In this way we make the community as safe and pleasant as possible for everyone. The guidelines for our balls: Guidelines.\nLocation\nThe ball takes place in the Moira, a nice hall in the center of Utrecht. The address is Wolvenstraat 10 (at the end of Plompetorengracht). Take the blue door on the right and go down the stairs into the hall."
+    details: "** English below **\n\n\n\nWe gaan de band binnenkort aankondigen!\nProgramma\n19:15 – Inloop voor het bal\n20:00 – Band\n21:30 – Eind bal\n21:45 – Sluiting\nReserveren en Prijzen\nVoor dit minibal hoef je niet te reserveren. Let op! Je betaalt contant aan de kassa bij de deur. Mocht je geen contant bij je hebben, dan kun je bij de Albert Heijn aan de Voorstraat pinnen. Bij ons kun je helaas niet pinnen. Prijzen:\n\n \t€13,- (Normaaltarief),\n \t€15,- (Fair-Trade),\n \t€10,- (Kortingstarief).\n\nFair Trade\nVind jij het belangrijk dat docenten en muzikanten eerlijk betaald worden? En, wil je dat Balfolk Utrecht kwaliteit levert? Neem dan Fair Trade! Want, goede docenten en muzikanten verdienen meer dan basic theebiscuits bij hun koffie. Verleid ze naar onze events met galettes. Daarom Fair Trade :)\nOverig\nWe hebben een garderobe waar je je spullen kunt achterlaten. Laat je spullen niet op de banken liggen. De bar van de Moira is gesloten. Voel je vrij om je eigen drank mee te nemen. We vragen je om na het einde van het bal, de Moira stilletjes te verlaten en geen geluid voor het gebouw te maken.\nRichtlijnen\nWij willen graag dat iedereen bij Balfolk zich vrij voelt om zichzelf te zijn en zich veilig voelt om aan te geven wat ze nodig hebben. We vinden het daarom belangrijk dat iedereen die naar onze bals komt op de hoogte is van een aantal richtlijnen waar we ons aan houden. Zo maken we de community voor iedereen zo veilig en fijn mogelijk. De richtlijnen voor onze bals: Dansrichtlijnen.\nLocatie\nHet bal vindt plaats in de Moira, een fijne zaal in het centrum van Utrecht. Het adres is Wolvenstraat 10 (aan het einde van de Plompetorengracht). Je moet de blauwe deur hebben aan de rechterkant. Dan kom je via de trap naar beneden in de zaal.\n\n\n\n** English **\n\n\n\nWe'll announce the band soon!\nProgramme\n19:15 – Walk-in for the ball\n20:00 – Band\n21:30 – End of the ball\n21:45 - Closure\nReservation and Prices\nYou do not need to make a reservation for this mini ball. You choose at the door which rate you want to pay. NB! You pay cash at the door. If you do not have cash with you, there is an ATM at Albert Heijn on Voorstraat. There is no pin option at our cash register. Prices:\n\n \t€13,- (normal rate),\n \t€15,- (Fair Trade),\n \t€10,- (discount rate).\n\nFair Trade\nDo you think it is important that teachers and musicians are paid fairly? And, do you want Balfolk Utrecht to deliver quality? Pay Fair Trade! Because, good teachers and musicians earn more than basic tea biscuits with their coffee. Seduce them to our events with galettes. Therefore Fair Trade :)\nRemainder\nWe have a cloakroom where you can leave your belongings. Do not leave your belongings on the couches. The bar of Moira is closed. Feel free to bring your own drinks. We ask you to leave the Moira quietly after the end of the ball and not to make any noise in front of the building.\nGuidelines\nWe want everyone at Balfolk to feel free to be themselves and feel safe to express their needs. We therefore think it is important that everyone who comes to our balls is aware of a number of guidelines that we adhere to. In this way we make the community as safe and pleasant as possible for everyone. The guidelines for our balls: Guidelines.\nLocation\nThe ball takes place in the Moira, a nice hall in the center of Utrecht. The address is Wolvenstraat 10 (at the end of Plompetorengracht). Take the blue door on the right and go down the stairs into the hall."
     links:
       - "https://www.balfolk.nl/agenda/minibal1/"
     start: "2023-12-18T19:15:00+01:00"
@@ -62071,7 +62152,7 @@ events:
     price: $10
     organisation: Toronto English Country Dance Assembly
     source: events/usa/cdss.yaml
-  - name: Williamsburg (VA) Tuesday Night English Dance
+  - name: Williamsburg Tuesday Night English Dance
     details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
     links:
       - "https://williamsburgheritagedancers.org/"
@@ -62212,6 +62293,8 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Lackawanna Longnecks
     callers:
       - Gaye Fifer
     price: $15
@@ -62233,6 +62316,27 @@ events:
     social: true
     price: $15
     organisation: Folklore Society of Greater Washington
+    source: events/usa/cdss.yaml
+  - name: Baton Rouge Contra Dance
+    details: Monthly contra dance. $10.00; $5.00 students.
+    links:
+      - "https://louisianacontrasandsquares.com/"
+      - "https://cdss.org/event/baton-rouge-contra-dance/"
+    start: "2023-12-16T15:30:00-06:00"
+    end: "2023-12-16T18:30:00-06:00"
+    country: USA
+    state: LA
+    city: Baton Rouge
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - High Cotton
+    callers:
+      - Charlene Heaton
+    price: $5-$10
+    organisation: Charlene Heaton & David Porter
     source: events/usa/cdss.yaml
   - name: Contra Dance
     details: Monthly Contra Dance
@@ -62285,6 +62389,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Red Case Band
+    callers:
+      - Mary Wesley
     price: $5-$20
     organisation: Montpelier Contra Dance
     source: events/usa/cdss.yaml
@@ -62346,7 +62454,7 @@ events:
     price: $10
     organisation: Toronto English Country Dance Assembly
     source: events/usa/cdss.yaml
-  - name: Williamsburg (VA) Tuesday Night English Dance
+  - name: Williamsburg Tuesday Night English Dance
     details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
     links:
       - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2023-12-19/"
@@ -62510,6 +62618,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Good Intentions
+    callers:
+      - River Abel
     organisation: Pittsburgh Contra Dance
     source: events/usa/cdss.yaml
   - name: Friday Night Contra & Square Dance
