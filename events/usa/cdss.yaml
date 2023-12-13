@@ -1,38 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: TECDA Tuesday Evening English Country Dance
-    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
-    links:
-      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2023-12-12/"
-    start: "2023-12-12T19:00:00-05:00"
-    end: "2023-12-12T21:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: North York
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Alan Rosenthal
-      - Cathy Campbell
-      - Dave Berman
-      - Walter Zagorski
-    organisation: Toronto English Country Dance Assembly
-  - name: Williamsburg Tuesday Night English Dance
-    details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
-    links:
-      - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2023-12-12/"
-    start: "2023-12-12T20:00:00-05:00"
-    end: "2023-12-12T22:00:00-05:00"
-    country: USA
-    state: VA
-    city: Williamsburg
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: Williamsburg Heritage Dancers
   - name: English Country Dance
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
     links:
@@ -421,3 +388,47 @@ events:
     callers:
       - River Abel
     organisation: Pittsburgh Contra Dance
+  - name: Friday Night Contra & Square Dance
+    details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
+    links:
+      - "https://cdss.org/event/friday-night-contra-square-dance/2023-12-22/"
+    start: "2023-12-22T20:00:00-05:00"
+    end: "2023-12-22T23:00:00-05:00"
+    country: USA
+    state: MD
+    city: Glen Echo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Folklore Society of Greater Washington
+  - name: 4th Saturdays Contra Dance
+    details: "Mark your calendars now for the next Saturday night dance at Fulton Hall. Dances are called using gender-neutral terms. \n\n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome!"
+    links:
+      - "https://cdss.org/event/portland-country-dance-community-4th-saturdays-contra-dance/2023-12-23/"
+    start: "2023-12-23T19:00:00-08:00"
+    end: "2023-12-23T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Portland Country Dance Community
+  - name: Mendocino English Country Dance
+    details: "Fourth Saturday of every month (check our calendar for occasional date changes). \nLive music with Take a Dance, the Mendocino English Country Dance Orchestra. \nDances taught and prompted by alternating local and guest callers.  \nFun and friendly dancers welcome newcomers in an inclusive and enjoyable environment. Everyone gets to dance!"
+    links:
+      - "https://cdss.org/event/mendocino-english-country-dance/2023-12-23/"
+    start: "2023-12-23T19:30:00-05:00"
+    end: "2023-12-23T22:00:00-05:00"
+    country: USA
+    state: CA
+    city: Caspar
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Take a Dance
+    organisation: Mendocino English Country Dance
