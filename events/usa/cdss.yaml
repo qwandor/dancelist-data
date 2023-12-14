@@ -1,34 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: English Country Dance
-    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
-    links:
-      - "https://cdss.org/event/english-country-dance-asheville-nc/2023-12-13/"
-    start: "2023-12-13T19:00:00-05:00"
-    end: "2023-12-13T21:00:00-05:00"
-    country: USA
-    state: NC
-    city: Asheville
-    styles:
-      - ecd
-    workshop: true
-    social: true
-    organisation: Luanne Stiles
-  - name: Richmond Wednesday English Country Dance
-    details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm."
-    links:
-      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2023-12-13/"
-    start: "2023-12-13T19:30:00-05:00"
-    end: "2023-12-13T21:30:00-05:00"
-    country: USA
-    state: VA
-    city: Henrico
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    price: $2
-    organisation: Colonial Dance Club of Richmond
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
@@ -217,6 +188,21 @@ events:
       - Eloise & Co.
     price: $12-$25
     organisation: Brattleboro Bal Folk
+  - name: "Community \"Soup-er Sunday\" Dance!"
+    details: "It’s last seasons “Barn Dance” but with a twist – now serving SOUP! \n\nThis is so much fun! We dance to the fiddle tunes of Ireland, Scotland, England, France, and Appalachia and we often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time!!\n6:30 pm (Intro session 6:15 pm)\nIn the gallery at Warwick Center for the Arts, 3259 Post Road, Warwick. On-street parking and additional parking behind the building (enter next to City Hall).\nOffering expanded concessions – Homemade Soup & Cornbread, lemonade & fresh brewed tea.\nLive music by: First Time Stringband. At the core are melodic clawhammer banjo player, Howie Bursen, rhythm guitar player and singer, Sally Rogers (they sing their waltzes!), and harmonica, bones and foot stomper, Deck Nieforth (he also builds remarkable fiddles!).\nCaller: Paul Wilde – from RI.\nAdmission: Your choice $15 – $20 per person / WCFA Members $12 / Students (with ID) $10. Contributions are always encouraged and accepted.\nFood: We will be serving a special homemade SOUP and CORNBREAD @ $3 a bowl & all for the benefit of the band and caller!\nClothing & Footwear: Clothing is casual, layers are best for this invigorating exercise. Please wear non-street shoes that move easily on the floor (rubber-soled sneakers are ok but harder to dance with).\nRole Terms: Traditional – “ladies & gents” or “women & men” but all are welcome to choose the role term that works for them!"
+    links:
+      - "https://cdss.org/event/community-soup-er-sunday-dance/"
+    start: "2023-12-17T18:30:00-05:00"
+    end: "2023-12-17T21:30:00-05:00"
+    country: USA
+    state: RI
+    city: Warwick
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $3-$20
+    organisation: Warwick Center for the Arts
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
     links:
