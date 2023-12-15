@@ -1,34 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Rochester Thursday Night Contras
-    details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
-    links:
-      - "https://cdss.org/event/rochester-ny-thursday-night-contras/2023-12-14/"
-    start: "2023-12-14T19:30:00-05:00"
-    end: "2023-12-14T22:30:00-05:00"
-    country: USA
-    state: NY
-    city: Rochester
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Country Dancers of Rochester
-  - name: Berkeley Contra and English Dances
-    details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
-    links:
-      - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2023-12-14/"
-    start: "2023-12-14T20:00:00-08:00"
-    end: "2023-12-14T22:30:00-08:00"
-    country: USA
-    state: CA
-    city: Berkeley
-    styles:
-      - contra
-      - ecd
-    workshop: true
-    social: true
-    organisation: CDSS
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
     links:
@@ -199,8 +170,12 @@ events:
     city: Warwick
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - First Time Stringband
+    callers:
+      - Paul Wilde
     price: $3-$20
     organisation: Warwick Center for the Arts
   - name: TECDA Tuesday Evening English Country Dance
@@ -418,3 +393,17 @@ events:
     bands:
       - Take a Dance
     organisation: Mendocino English Country Dance
+  - name: Hayward Contra Dance
+    details: "We typically dance on the 2nd & 4th Sunday of each month. \nFor years, the Hayward Contra has drawn dancers from all over the Bay Area and beyond. \nSome of the unique features that have drawn a loyal following are: \nHayward is centrally located and the venue, The Hill and Valley Club, 1808 ‘B’ Street, Hayward, CA, is easy to reach by BART or car. \nAs a weekend dance, we have attracted dancers with busy work schedules. \nMeeting in the afternoon from 4-7pm, dancers coming from greater distances were able to manage the travel time both before and after the dances. \nOur venue, the Hill and Valley Club, is one of the airiest dance halls in the bay area. \nThese features have allowed us to attract a very diverse multigenerational crowd that is comfortable with our gender-neutral atmosphere. \nDetails at our website. \nWe also have a Facebook group."
+    links:
+      - "https://cdss.org/event/hayward-ca-contra-dance/2023-12-24/"
+    start: "2023-12-24T16:00:00-08:00"
+    end: "2023-12-24T19:00:00-08:00"
+    country: USA
+    state: CA
+    city: Hayward
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: CDSS
