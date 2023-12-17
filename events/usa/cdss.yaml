@@ -1,67 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Baton Rouge Contra Dance
-    details: Monthly contra dance. $10.00; $5.00 students.
-    links:
-      - "https://cdss.org/event/baton-rouge-contra-dance/"
-    start: "2023-12-16T15:30:00-06:00"
-    end: "2023-12-16T18:30:00-06:00"
-    country: USA
-    state: LA
-    city: Baton Rouge
-    styles:
-      - contra
-    workshop: false
-    social: true
-    price: $5-$10
-    organisation: Charlene Heaton &amp%3B David Porter
-  - name: "Contra Dance in Carrollton, TX"
-    details: Monthly Contra Dance
-    links:
-      - "https://cdss.org/event/contra-dance-2/2023-12-16/"
-    start: "2023-12-16T19:30:00-06:00"
-    end: "2023-12-16T22:30:00-06:00"
-    country: USA
-    state: TX
-    city: Carrollton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: North Texas Traditional Dance Society (NTTDS)
-  - name: Ottawa Contra Dance
-    details: "Join Ottawa Contra Dance every 1st and 3rd Saturday, September – June. Dances are called using Larks and Robins. Admission by sliding scale."
-    links:
-      - "https://cdss.org/event/ottawa-contra-dance/2023-12-16/"
-    start: "2023-12-16T19:30:00-05:00"
-    end: "2023-12-16T23:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: Ottawa
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Ottawa Contra Dance
-  - name: Montpelier Contra Dance
-    details: "Mary Wesley calling to music by the Red Case Band (Clara Stickney, Alex Cumming, Stuart Kenney). \n\nNewcomers lesson at 7:40 with dancing 8-11.\nEveryone welcome.\nAll dances are taught and gender-neutral role terms are used.\nPlease bring clean soft-soled shoes.\nMasks are optional.\nMore info at Capital City Grange.\n$12 adults, $5 kids/low-income, $20 dance supporters.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDancing every 1st, 3rd, and 5th Saturday."
-    links:
-      - "https://cdss.org/event/montpelier-contra-dance-7/"
-    start: "2023-12-16T20:00:00-05:00"
-    end: "2023-12-16T23:00:00-05:00"
-    country: USA
-    state: VT
-    city: Berlin
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Red Case Band
-    callers:
-      - Mary Wesley
-    price: $5-$20
-    organisation: Montpelier Contra Dance
   - name: Richmond Sunday Afternoon Contra Dance (TADAMS)
     details: "Music: To Be Announced\nCaller: To Be Announced\nAdmission: $9 members/students, $12 non-members, 18 & under free.\nBeginner’s Workshop: Arrive early at 1:45pm to learn or review basic steps.\nCOVID: While vaccinations are excellent for preventing disease, TADAMS will no longer require proof of vaccination to participate in our dances.  Wearing a mask remains optional."
     links:
@@ -404,3 +342,65 @@ events:
     social: true
     price: $2
     organisation: Colonial Dance Club of Richmond
+  - name: Rochester Thursday Night Contras
+    details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
+    links:
+      - "https://cdss.org/event/rochester-ny-thursday-night-contras/2023-12-28/"
+    start: "2023-12-28T19:30:00-05:00"
+    end: "2023-12-28T22:30:00-05:00"
+    country: USA
+    state: NY
+    city: Rochester
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Country Dancers of Rochester
+  - name: Berkeley Contra and English Dances
+    details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
+    links:
+      - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2023-12-28/"
+    start: "2023-12-28T20:00:00-08:00"
+    end: "2023-12-28T22:30:00-08:00"
+    country: USA
+    state: CA
+    city: Berkeley
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    organisation: CDSS
+  - name: TECDA Friday Evening Dance
+    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    links:
+      - "https://cdss.org/event/tecda-friday-evening-dance/2023-12-29/"
+    start: "2023-12-29T19:00:00-05:00"
+    end: "2023-12-29T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
+    links:
+      - "https://cdss.org/event/pcdc-friday-night-english-dance/2023-12-29/"
+    start: "2023-12-29T19:30:00-08:00"
+    end: "2023-12-29T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: CDSS
