@@ -156,7 +156,7 @@ events:
       - "L'air Inconnu"
       - La Réveilleuse
       - Marie Paulette
-      - Duo Decombel en Van Mierlo
+      - Maarten Decombel & Toon Van Mierlo
       - Itchy Fingers
       - Naragonia Quartet
     price: €105-€165
@@ -4152,6 +4152,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Duo Clercx
     price: €10
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
@@ -22165,13 +22167,13 @@ events:
       - Geronimo
     organisation: Boombal
     source: events/belgium/folkbalbende.yaml
-  - name: Boombal
+  - name: Bal Final
     details: Ball
     links:
-      - "https://boombal.be"
+      - "https://www.boombal.be/balfinal/"
       - "https://folkbalbende.be/event/1772"
     start: "2023-12-31T20:00:00+01:00"
-    end: "2023-12-31T23:00:00+01:00"
+    end: "2024-01-01T04:00:00+01:00"
     country: Belgium
     city: Gent
     styles:
@@ -22179,7 +22181,10 @@ events:
     workshop: false
     social: true
     bands:
-      - Aurélia
+      - Tom & Aurélie
+      - Tribal Jâze
+      - Triple-X
+    price: €25-€30
     organisation: Boombal
     source: events/belgium/folkbalbende.yaml
   - name: Boombal
@@ -22695,6 +22700,7 @@ events:
     links:
       - "http://www.folkinlimburg.be/agenda/beschrijving.php?id=707"
       - "https://folkbalbende.be/event/1834"
+      - "https://folkbalbende.be/event/2070"
     start: "2024-04-06T20:00:00+02:00"
     end: "2024-04-06T23:30:00+02:00"
     country: Belgium
@@ -25230,6 +25236,385 @@ events:
     social: false
     price: €20-€55
     organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Kettingbal
+    details: Ball
+    links:
+      - "https://tsmiske.be/programma/kettingbal-tandem"
+      - "https://folkbalbende.be/event/2046"
+    start: "2024-01-28T15:00:00+01:00"
+    end: "2024-01-28T17:30:00+01:00"
+    country: Belgium
+    city: Asse
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Tandem
+    price: €10
+    organisation: "'t Smiske"
+    source: events/belgium/folkbalbende.yaml
+  - name: Folk Dance for Beginners - Level 1
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/folk-dance-for-beginners-level-1/943/"
+      - "https://folkbalbende.be/event/2047"
+    start: "2024-05-18T13:15:00+02:00"
+    end: "2024-05-18T18:15:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €20-€55
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Bal Folk De Noël
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/guus.herremans/"
+      - "https://folkbalbende.be/event/2051"
+    start: "2024-12-19T19:00:00+01:00"
+    end: "2024-12-19T22:00:00+01:00"
+    country: Belgium
+    city: Gerpinnes
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Guus Herremans
+    price: €10
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Bal De Noël
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://pirlouette.fr/"
+      - "https://folkbalbende.be/event/2052"
+    start: "2023-12-22T18:00:00+01:00"
+    end: "2023-12-22T21:00:00+01:00"
+    country: Belgium
+    city: Tournai
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Pirlouette
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/bal-duo-bottasso-cellule/931/"
+      - "https://www.facebook.com/events/861515072136172/"
+      - "https://folkbalbende.be/event/2053"
+    start: "2024-01-06T20:00:00+01:00"
+    end: "2024-01-07T01:00:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Bottasso
+    price: €14-€25
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Danscafé
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.danskedoen.be/"
+      - "https://folkbalbende.be/event/2054"
+    start_date: 2024-01-07
+    end_date: 2024-01-07
+    country: Belgium
+    city: Bruges
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Driekoningenbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://muziekmozaiek.be/winkel/event/driekoningenbal2024/"
+      - "https://folkbalbende.be/event/2055"
+    start: "2024-01-13T20:00:00+01:00"
+    end: "2024-01-13T23:00:00+01:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Qwintet Gestrikt
+      - Drøn
+    price: €7-€12
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Balhalla
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://balhalla.be/"
+      - "https://folkbalbende.be/event/2056"
+    start: "2024-01-25T19:00:00+01:00"
+    end: "2024-01-25T23:00:00+01:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €10-€15
+    organisation: Balhalla
+    source: events/belgium/folkbalbende.yaml
+  - name: Balhalla
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://balhalla.be/"
+      - "https://folkbalbende.be/event/2057"
+    start: "2024-02-15T19:00:00+01:00"
+    end: "2024-02-15T23:00:00+01:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo du Balcon
+    price: €10-€15
+    organisation: Balhalla
+    source: events/belgium/folkbalbende.yaml
+  - name: Balhalla
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://balhalla.be/"
+      - "https://folkbalbende.be/event/2058"
+    start: "2024-03-07T19:00:00+01:00"
+    end: "2024-03-07T23:00:00+01:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Balbuzar
+    price: €10-€15
+    organisation: Balhalla
+    source: events/belgium/folkbalbende.yaml
+  - name: CaBal
+    details: Ball
+    links:
+      - "https://www.cabalfolk.be/"
+      - "https://folkbalbende.be/event/2059"
+    start: "2024-03-08T19:15:00+01:00"
+    end: "2024-03-09T00:00:00+01:00"
+    country: Belgium
+    city: Kortrijk
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Bamako Express
+      - Krosmos
+    price: €16-€18
+    organisation: CaBal
+    source: events/belgium/folkbalbende.yaml
+  - name: Danscafé
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.danskedoen.be/"
+      - "https://folkbalbende.be/event/2060"
+    start_date: 2024-03-10
+    end_date: 2024-03-10
+    country: Belgium
+    city: Bruges
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/bal-snaarmaarwaar-cellule/936/"
+      - "https://www.facebook.com/events/911678620384172/"
+      - "https://folkbalbende.be/event/2061"
+    start: "2024-03-10T14:30:00+01:00"
+    end: "2024-03-10T19:00:00+01:00"
+    country: Belgium
+    city: Deinze
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Snaarmaarwaar
+    price: €14-€25
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://tey.be/programma/2024/03/15/bamako-express"
+      - "https://www.facebook.com/events/378150754646187/"
+      - "https://folkbalbende.be/event/2062"
+    start: "2024-03-15T21:00:00+01:00"
+    end: "2024-03-16T00:00:00+01:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Bamako Express
+    price: €12-€15
+    organisation: "Muziekclub 't Ey"
+    source: events/belgium/folkbalbende.yaml
+  - name: Ol Da Folk
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.oldafolk.be/"
+      - "https://folkbalbende.be/event/2063"
+    start_date: 2024-03-17
+    end_date: 2024-03-17
+    country: Belgium
+    city: Bruges
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Bal Experience
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.muziekcentrumdranouter.be/en/node/1408"
+      - "https://folkbalbende.be/event/2064"
+    start: "2024-04-13T13:30:00+01:00"
+    end: "2024-04-13T23:30:00+01:00"
+    country: Belgium
+    city: Dranouter
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Witloof
+      - Marie Paulette
+    price: €15-€33
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Balhalla
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://balhalla.be/"
+      - "https://folkbalbende.be/event/2065"
+    start_date: 2024-04-26
+    end_date: 2024-04-26
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Maarten Decombel & Toon Van Mierlo
+    organisation: Balhalla
+    source: events/belgium/folkbalbende.yaml
+  - name: CaBal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.cabalfolk.be/"
+      - "https://folkbalbende.be/event/2066"
+    start: "2024-06-14T19:15:00+02:00"
+    end: "2024-06-15T00:00:00+02:00"
+    country: Belgium
+    city: Kortrijk
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Clercx
+      - Phlox
+    organisation: CaBal
+    source: events/belgium/folkbalbende.yaml
+  - name: Danscafé
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.danskedoen.be/"
+      - "https://folkbalbende.be/event/2067"
+    start_date: 2024-06-23
+    end_date: 2024-06-23
+    country: Belgium
+    city: Bruges
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Bal Experience
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.dranoutercentrum.be/"
+      - "https://folkbalbende.be/event/2068"
+    start_date: 2024-06-28
+    end_date: 2024-06-28
+    country: Belgium
+    city: Dranouter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Bargainatt
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Ol Da Folk
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.oldafolk.be/"
+      - "https://folkbalbende.be/event/2069"
+    start_date: 2024-09-20
+    end_date: 2024-09-20
+    country: Belgium
+    city: Bruges
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Naragonia Quartet
+    organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Bal Folk
     links:
@@ -30285,6 +30670,23 @@ events:
     social: true
     organisation: Williamsburg Heritage Dancers
     source: events/usa/cdss.yaml
+  - name: Richmond Wednesday English Country Dance
+    details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm. \n\n\nPlease join us for a holiday potluck at 6:30 pm followed by an evening of English Country Dancing. This is our last session before we break for the holidays. Note that there will only be two dances in January (1/10 and 1/24). We will return to our normal weekly schedule in February."
+    links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
+      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance-2/"
+    start: "2023-12-20T18:30:00-05:00"
+    end: "2023-12-20T21:30:00-05:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
+    source: events/usa/cdss.yaml
   - name: English Country Dance
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
     links:
@@ -30299,24 +30701,6 @@ events:
     workshop: true
     social: true
     organisation: Luanne Stiles
-    source: events/usa/cdss.yaml
-  - name: Richmond Wednesday English Country Dance
-    details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm. \n\n\nJoin us for a special holiday dance night which starts with a potluck dinner and finishes with English Country Dancing. This is our last session before we break for the holidays. Note that there will only be two dances in January (1/10 and 1/24). We will return to our normal weekly schedule in February."
-    links:
-      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
-      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance-2/"
-      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2023-12-20/"
-    start: "2023-12-20T18:30:00-05:00"
-    end: "2023-12-20T21:30:00-05:00"
-    country: USA
-    state: VA
-    city: Henrico
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    price: $2
-    organisation: Colonial Dance Club of Richmond
     source: events/usa/cdss.yaml
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
@@ -30570,7 +30954,6 @@ events:
     details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm."
     links:
       - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
-      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2023-12-27/"
     start: "2023-12-27T19:30:00-05:00"
     end: "2023-12-27T21:30:00-05:00"
     country: USA
@@ -30723,10 +31106,51 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Spintuition
     callers:
       - Nils Fredland
     price: $5-$20
     organisation: Montpelier Contra Dance
+    source: events/usa/cdss.yaml
+  - name: TECDA New Years Eve Day Dance
+    details: "TECDA is hosting a New Year’s Eve Day dance 2-5 at, St. Barnabas Hall on Sunday December 31, 2023  \nWalter Zagorski and Cathy Campbell calling, \nMusicians: Daev Clydesdale on flute and accordion and TBA  \nMasks are optional. Please bring your dancing shoes, water bottle. \nPreregistration at info@tecda.ca, but walk ins are welcome.  \nSuggested donation of $20-$25 (to cover costs of approx. $700) for ECD.  This can be paid by etransfer to  payments@tecda.ca  or cash at the door. \nSee you on the dance floor."
+    links:
+      - "https://cdss.org/event/tecda-new-years-eve-day-dance/"
+    start: "2023-12-31T14:00:00-05:00"
+    end: "2023-12-31T17:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Cathy Campbell
+      - Walter Zagorski
+    price: $20-$700
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: TECDA NEW Years Eve Day Dance
+    details: "TECDA is hosting a New Years Eve Day ECD dance at St. Barnabas Hall on Sunday December 31, 2023, 2-5 pm, with Cathy Campbell and Walter Zagorski calling. \nMusic by Daev Clysdale on accordion and flute,  and Elena Spanu on fiddle.  \nCost is $20.00 \nFestive dress or colors encouraged but not mandatory. Please bring your dancing shoes and water bottle. \nMasking is optional \nSee you on the Dance Floor."
+    links:
+      - "https://www.tecda.ca/special_dances.html"
+      - "https://cdss.org/event/tecda-new-years-eve-day-dance-2/"
+    start: "2023-12-31T14:00:00-05:00"
+    end: "2023-12-31T17:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Cathy Campbell
+      - Walter Zagorski
+    price: $20
+    organisation: Toronto English Country Dance Assembly
     source: events/usa/cdss.yaml
   - name: Brattleboro Bal Folk
     links:
@@ -62446,7 +62870,7 @@ events:
     bands:
       - Naragonia Trio
       - Topette
-      - Duo Decombel-Van Mierlo
+      - Maarten Decombel & Toon Van Mierlo
     price: €18-€25
     organisation: Spielkurs Torgau
     source: events/germany/torgau.yaml
