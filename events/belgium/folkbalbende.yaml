@@ -10363,6 +10363,7 @@ events:
     links:
       - "http://www.folkinlimburg.be/agenda/beschrijving.php?id=707"
       - "https://folkbalbende.be/event/1834"
+      - "https://folkbalbende.be/event/2070"
     start: "2024-04-06T20:00:00+02:00"
     end: "2024-04-06T23:30:00+02:00"
     country: Belgium
@@ -12754,6 +12755,7 @@ events:
   - name: Kettingbal
     details: Ball
     links:
+      - "https://tsmiske.be/programma/kettingbal-tandem"
       - "https://folkbalbende.be/event/2046"
     start: "2024-01-28T15:00:00+01:00"
     end: "2024-01-28T17:30:00+01:00"
@@ -12767,14 +12769,13 @@ events:
       - Tandem
     price: €10
     organisation: "'t Smiske"
-  - name: Folkdans Voor Beginners - Niveau 1
+  - name: Folk Dance for Beginners - Level 1
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Folkdans voor beginners - niveau 1/943/"
+      - "https://frissefolk.be/en/event-en/folk-dance-for-beginners-level-1/943/"
       - "https://folkbalbende.be/event/2047"
-      - "https://www.facebook.com/events/5889518084471813"
-    start_date: 2024-05-18
-    end_date: 2024-05-18
+    start: 2024-05-18T13:15:00+02:00
+    end: 2024-05-18T18:15:00+02:00
     country: Belgium
     city: Brussels
     styles:
@@ -12789,8 +12790,8 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.facebook.com/guus.herremans/"
       - "https://folkbalbende.be/event/2051"
-    start_date: 2024-12-19
-    end_date: 2024-12-19
+    start: 2024-12-19T19:00:00+01:00
+    end: 2024-12-19T22:00:00+01:00
     country: Belgium
     city: Gerpinnes
     styles:
@@ -12798,8 +12799,8 @@ events:
     workshop: false
     social: true
     bands:
-      - Bal Sur Musiques EnregistréEs
       - Guus Herremans
+    price: €10
     organisation: ~
   - name: Bal De Noël
     details: Ball
@@ -12807,8 +12808,8 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://pirlouette.fr/"
       - "https://folkbalbende.be/event/2052"
-    start_date: 2023-12-22
-    end_date: 2023-12-22
+    start: 2023-12-22T18:00:00+01:00
+    end: 2023-12-22T21:00:00+01:00
     country: Belgium
     city: Tournai
     styles:
@@ -12821,11 +12822,11 @@ events:
   - name: Folkbal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://frissefolk.be/fr/civicrm/event/register/?id=931&reset=1"
+      - "https://frissefolk.be/en/event-en/bal-duo-bottasso-cellule/931/"
+      - "https://www.facebook.com/events/861515072136172/"
       - "https://folkbalbende.be/event/2053"
-    start_date: 2024-01-06
-    end_date: 2024-01-06
+    start: 2024-01-06T20:00:00+01:00
+    end: 2024-01-07T01:00:00+01:00
     country: Belgium
     city: Brussels
     styles:
@@ -12834,6 +12835,7 @@ events:
     social: true
     bands:
       - Duo Bottasso
+    price: €14-€25
     organisation: Frisse Folk Vzw/asbl
   - name: Danscafé
     details: Ball
@@ -12849,17 +12851,15 @@ events:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - Internationales)
     organisation: ~
   - name: Driekoningenbal
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://muziekmozaiek.be/winkel/event/driekoningenbal2024/?fbclid=IwAR2lT1Gf7SuymzVIhIE1Tegu4plnllpSIXQMUvDBP8TjXQecWhsggS0_l3E"
+      - "https://muziekmozaiek.be/winkel/event/driekoningenbal2024/"
       - "https://folkbalbende.be/event/2055"
-    start_date: 2024-01-13
-    end_date: 2024-01-13
+    start: 2024-01-13T20:00:00+01:00
+    end: 2024-01-13T23:00:00+01:00
     country: Belgium
     city: Gooik
     styles:
@@ -12869,6 +12869,7 @@ events:
     bands:
       - Qwintet Gestrikt
       - Drøn
+    price: €7-€12
     organisation: ~
   - name: Balhalla
     details: Ball
@@ -12876,14 +12877,15 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://balhalla.be/"
       - "https://folkbalbende.be/event/2056"
-    start_date: 2024-01-25
-    end_date: 2024-01-25
+    start: 2024-01-25T19:00:00+01:00
+    end: 2024-01-25T23:00:00+01:00
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    price: €10-€15
     organisation: Balhalla
   - name: Balhalla
     details: Ball
@@ -12891,8 +12893,8 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://balhalla.be/"
       - "https://folkbalbende.be/event/2057"
-    start_date: 2024-02-15
-    end_date: 2024-02-15
+    start: 2024-02-15T19:00:00+01:00
+    end: 2024-02-15T23:00:00+01:00
     country: Belgium
     city: Gent
     styles:
@@ -12900,7 +12902,8 @@ events:
     workshop: false
     social: true
     bands:
-      - Duo Du Balcon
+      - Duo du Balcon
+    price: €10-€15
     organisation: Balhalla
   - name: Balhalla
     details: Ball
@@ -12908,8 +12911,8 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://balhalla.be/"
       - "https://folkbalbende.be/event/2058"
-    start_date: 2024-03-07
-    end_date: 2024-03-07
+    start: 2024-03-07T19:00:00+01:00
+    end: 2024-03-07T23:00:00+01:00
     country: Belgium
     city: Gent
     styles:
@@ -12918,25 +12921,25 @@ events:
     social: true
     bands:
       - Balbuzar
+    price: €10-€15
     organisation: Balhalla
-  - name: Bal
+  - name: CaBal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.cabalfolk.be/"
       - "https://folkbalbende.be/event/2059"
-    start_date: 2024-03-08
-    end_date: 2024-03-08
+    start: 2024-03-08T19:15:00+01:00
+    end: 2024-03-09T00:00:00+01:00
     country: Belgium
     city: Kortrijk
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
-      - Bamako
-      - Express
+      - Bamako Express
       - Krosmos
+    price: €16-€18
     organisation: CaBal
   - name: Danscafé
     details: Ball
@@ -12952,34 +12955,33 @@ events:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - Internationales)
     organisation: ~
   - name: Folkbal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://frissefolk.be/fr/civicrm/event/register/?id=931&reset=1"
+      - "https://frissefolk.be/en/event-en/bal-snaarmaarwaar-cellule/936/"
+      - "https://www.facebook.com/events/911678620384172/"
       - "https://folkbalbende.be/event/2061"
-    start_date: 2024-03-10
-    end_date: 2024-03-10
+    start: 2024-03-10T14:30:00+01:00
+    end: 2024-03-10T19:00:00+01:00
     country: Belgium
     city: Deinze
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Snaarmaarwaar
+    price: €14-€25
     organisation: Frisse Folk Vzw/asbl
   - name: Baleynbal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.tey.be/"
+      - "https://tey.be/programma/2024/03/15/bamako-express"
+      - "https://www.facebook.com/events/378150754646187/"
       - "https://folkbalbende.be/event/2062"
-    start_date: 2024-03-15
-    end_date: 2024-03-15
+    start: 2024-03-15T21:00:00+01:00
+    end: 2024-03-16T00:00:00+01:00
     country: Belgium
     city: Belsele
     styles:
@@ -12988,8 +12990,9 @@ events:
     social: true
     bands:
       - Bamako Express
+    price: €12-€15
     organisation: "Muziekclub 't Ey"
-  - name: Ol Da FolkHET BRABANTS VOLKSORKEST
+  - name: Ol Da Folk
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -13001,26 +13004,27 @@ events:
     city: Bruges
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     organisation: ~
   - name: Bal Experience
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.dranoutercentrum.be/"
+      - "https://www.muziekcentrumdranouter.be/en/node/1408"
       - "https://folkbalbende.be/event/2064"
-    start_date: 2024-04-13
-    end_date: 2024-04-13
+    start: 2024-04-13T13:30:00+01:00
+    end: 2024-04-13T23:30:00+01:00
     country: Belgium
     city: Dranouter
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Witloof
       - Marie Paulette
+    price: €15-€33
     organisation: ~
   - name: Balhalla
     details: Ball
@@ -13037,21 +13041,21 @@ events:
     workshop: false
     social: true
     bands:
-      - Maarten Decombel/Toon Van Mierlo
+      - Maarten Decombel & Toon Van Mierlo
     organisation: Balhalla
-  - name: Bal
+  - name: CaBal
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.cabalfolk.be/"
       - "https://folkbalbende.be/event/2066"
-    start_date: 2024-06-14
-    end_date: 2024-06-14
+    start: 2024-06-14T19:15:00+02:00
+    end: 2024-06-15T00:00:00+02:00
     country: Belgium
     city: Kortrijk
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Duo Clercx
@@ -13071,10 +13075,8 @@ events:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - Internationales)
     organisation: ~
-  - name: Bal ExperienceBARGAINATT (France)
+  - name: Bal Experience
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -13088,8 +13090,10 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Bargainatt
     organisation: ~
-  - name: Ol Da Folk- NARAGONIA
+  - name: Ol Da Folk
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -13105,21 +13109,4 @@ events:
     social: true
     bands:
       - Naragonia Quartet
-    organisation: ~
-  - name: Bal@herk
-    details: Ball
-    links:
-      - "https://warmoesmusic.be/"
-      - "https://folkbalbende.be/event/2070"
-    start_date: 2024-04-06
-    end_date: 2024-04-06
-    country: Belgium
-    city: Herk-de-Stad
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Warmoes
-      - Duo Clerckx
     organisation: ~
