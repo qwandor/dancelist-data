@@ -1,38 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: TECDA Tuesday Evening English Country Dance
-    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
-    links:
-      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2023-12-19/"
-    start: "2023-12-19T19:00:00-05:00"
-    end: "2023-12-19T21:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: North York
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Alan Rosenthal
-      - Cathy Campbell
-      - Dave Berman
-      - Walter Zagorski
-    organisation: Toronto English Country Dance Assembly
-  - name: Williamsburg Tuesday Night English Dance
-    details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
-    links:
-      - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2023-12-19/"
-    start: "2023-12-19T20:00:00-05:00"
-    end: "2023-12-19T22:00:00-05:00"
-    country: USA
-    state: VA
-    city: Williamsburg
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: Williamsburg Heritage Dancers
   - name: Richmond Wednesday English Country Dance
     details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm. \n\n\nPlease join us for a holiday potluck at 6:30 pm followed by an evening of English Country Dancing. This is our last session before we break for the holidays. Note that there will only be two dances in January (1/10 and 1/24). We will return to our normal weekly schedule in February."
     links:
@@ -406,3 +373,53 @@ events:
       - Walter Zagorski
     price: $20
     organisation: Toronto English Country Dance Assembly
+  - name: Las Vegas Contra Dance
+    details: Monthly Contra dance. Beginners welcome. Beginner teaching first 30 minutes. Live music.
+    links:
+      - "https://cdss.org/event/las-vegas-contra-dance/2023-12-31/"
+    start: "2023-12-31T15:00:00-05:00"
+    end: "2023-12-31T18:00:00-05:00"
+    country: USA
+    state: NV
+    city: Las Vegas
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: CDSS
+  - name: New Year’s Eve at the Ashokan Center
+    details: "A Dinner and Dance \nCheck-in opens at 5:30 p.m. Dinner 6 p.m., sing-along 7 p.m., dancing 8 p.m. – 1 a.m. \nRing in 2024 with great live dance music, sumptuous snacks and fun-loving folks. Music by Jay Ungar and Molly Mason with Swingology; Wheels of the World; and Pont Ondulé. Get ready for vintage swing, country, contras, squares, zydeco, waltzes and freestyles. Callers: John Krumm and Bob Isaacs. \nCash bar featuring local beers and wines and coffee, tea, lemonade and ice water all night. And a bountiful snack table 11 p.m.-1 a.m. \nThis event may sell out. We strongly recommend buying your tickets in advance. \nDance (adult) – $30\nDance (ages 5 – 25) – $15 \nAdd dinner (gluten-free and vegan options) – $30"
+    links:
+      - "https://cdss.org/event/new-years-eve-at-the-ashokan-center/"
+    start: "2023-12-31T17:30:00-05:00"
+    end: "2024-01-01T01:00:00-05:00"
+    country: USA
+    state: NY
+    city: Olivebridge
+    styles:
+      - contra
+    workshop: false
+    social: true
+    callers:
+      - Bob Isaacs
+    price: $15-$30
+    organisation: The Ashokan Center
+  - name: "FSGW New Year's Eve Contra Dance Ball"
+    details: "The Folklore Society of Greater Washington is thrilled to return to the Woman’s Club of Chevy Chase in Maryland for another fantastic New Year’s celebration. We plan a full evening of fun dances to amazing musicians. \nDoors open at 7:15, and the Grand March starts at 8. There will be a toast at midnight, followed by Auld Lang Syne, then some final dancing. \nCaller: Lisa Greenleaf  \nBand: Stomp Rocket (Glen Loper on mandolin, Dave Langford on fiddle, and Bethany Waickman on guitar) \nCome join us for the end-of-year festivities! \nDetails and updates can be found on our New Year’s Eve Contra Dance Ball page. \nGeneral admission is $60, Students or low income is $28."
+    links:
+      - "https://cdss.org/event/fsgw-new-years-eve-contra-dance-ball/"
+    start: "2023-12-31T20:00:00-05:00"
+    end: "2023-12-31T20:00:00-05:00"
+    country: USA
+    state: Chevy Chase
+    city: 7931 Connecticut Ave
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Stomp Rocket
+    callers:
+      - Lisa Greenleaf
+    price: $28-$60
+    organisation: Folklore Society of Greater Washington
