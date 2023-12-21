@@ -10363,7 +10363,6 @@ events:
     links:
       - "http://www.folkinlimburg.be/agenda/beschrijving.php?id=707"
       - "https://folkbalbende.be/event/1834"
-      - "https://folkbalbende.be/event/2070"
     start: "2024-04-06T20:00:00+02:00"
     end: "2024-04-06T23:30:00+02:00"
     country: Belgium
@@ -12156,7 +12155,7 @@ events:
       - EmBRUN
     price: €15-€17
     organisation: ~
-  - name: Puis Podium Libre
+  - name: Folkbal
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -12718,11 +12717,10 @@ events:
     workshop: true
     social: true
     organisation: Frisse Folk Vzw/asbl
-  - name: Folkbal
+  - name: Bal@herk
     details: Ball
     links:
       - "http://www.folkinlimburg.be/agenda/beschrijving.php?id=706"
-      - "https://folkbalbende.be/event/2038"
     start: "2024-02-10T20:00:00+01:00"
     end: "2024-02-10T23:30:00+01:00"
     country: Belgium
@@ -12783,6 +12781,57 @@ events:
     workshop: true
     social: false
     price: €20-€55
+    organisation: Frisse Folk Vzw/asbl
+  - name: CaBal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2048"
+      - "https://www.facebook.com/events/297985403209372"
+    start: "2024-03-08T19:30:00+01:00"
+    end: "2024-03-09T00:00:00+01:00"
+    country: Belgium
+    city: Kortrijk
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - DDSS – Bamako Express
+      - Krosmos
+    price: €16
+    organisation: CaBal
+  - name: Folkdans Voor Beginners - Niveau 2
+    details: Course
+    links:
+      - "https://frissefolk.be/nl/event-nl/Folkdans voor beginners - niveau 2/944/"
+      - "https://folkbalbende.be/event/2049"
+      - "https://www.facebook.com/events/684404363797308"
+    start_date: 2024-03-16
+    end_date: 2024-03-16
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €20-€55
+    organisation: Frisse Folk Vzw/asbl
+  - name: Queimada
+    details: Ball
+    links:
+      - "https://frissefolk.be/nl/event-nl/Queimada/945/"
+      - "https://folkbalbende.be/event/2050"
+    start: "2024-01-27T19:00:00+01:00"
+    end: "2024-01-27T23:59:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Les Kickeuses
+      - Man Encantada
     organisation: Frisse Folk Vzw/asbl
   - name: Bal Folk De Noël
     details: Ball
@@ -12857,7 +12906,6 @@ events:
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://muziekmozaiek.be/winkel/event/driekoningenbal2024/"
-      - "https://folkbalbende.be/event/2055"
     start: 2024-01-13T20:00:00+01:00
     end: 2024-01-13T23:00:00+01:00
     country: Belgium
@@ -13110,3 +13158,36 @@ events:
     bands:
       - Naragonia Quartet
     organisation: ~
+  - name: Branle Béarnais & Rondeau En Chaîne
+    details: Course
+    links:
+      - "https://frissefolk.be/nl/event-nl/Branle béarnais & Rondeau en chaîne/946/"
+      - "https://folkbalbende.be/event/2071"
+      - "https://www.facebook.com/events/982482846344033"
+    start_date: 2024-03-23
+    end_date: 2024-03-23
+    country: Belgium
+    city: Mechelen
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €20-€55
+    organisation: Frisse Folk Vzw/asbl
+  - name: Practica In De Pianofabriek
+    details: Ball
+    links:
+      - "https://frissefolk.be/nl/event-nl/Practica in De Pianofabriek/947/"
+      - "https://folkbalbende.be/event/2072"
+      - "https://www.facebook.com/events/326484003189340"
+    start: "2024-02-20T20:30:00+01:00"
+    end: "2024-02-20T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - DJ Sophie & Valérie
+    organisation: Frisse Folk Vzw/asbl
