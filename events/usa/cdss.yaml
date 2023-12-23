@@ -1,84 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: TECDA Friday Evening Dance
-    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
-    links:
-      - "https://cdss.org/event/tecda-friday-evening-dance/2023-12-22/"
-    start: "2023-12-22T19:00:00-05:00"
-    end: "2023-12-22T21:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: Toronto
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Alan Rosenthal
-      - Cathy Campbell
-      - Dave Berman
-      - Walter Zagorski
-    organisation: Toronto English Country Dance Assembly
-  - name: Orlando Contra Dance
-    details: "We hold energetic and fun contra dances on 2nd and 4th Fridays near Orlando, Florida, in the beautiful Winter Park Ballroom! Our group loves both traditional and contemporary music, which is usually live. We welcome all ages and have a large contingent of younger dancers. Students and jobless dance FREE! Check the schedule for directions, details, cancellations, and changes. Afterwards, we go next door to Jeremiah’s Italian Ice!"
-    links:
-      - "https://cdss.org/event/orlando-contra-dance/2023-12-22/"
-    start: "2023-12-22T19:00:00-05:00"
-    end: "2023-12-22T22:30:00-05:00"
-    country: USA
-    state: FL
-    city: Winter Park
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Greater Orlando Contra Dance
-  - name: Friday Night English Dance
-    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
-    links:
-      - "https://cdss.org/event/pcdc-friday-night-english-dance/2023-12-22/"
-    start: "2023-12-22T19:30:00-08:00"
-    end: "2023-12-22T22:30:00-08:00"
-    country: USA
-    state: OR
-    city: Portland
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: CDSS
-  - name: Pittsburgh Contra Dance
-    details: "Come dance to the music of Good Intentions with caller River Abel. Our free beginner lesson begins at 7:30pm. Complete beginners are welcome! Masks are required this dance, but we also hold a mask-optional dance each month. "
-    links:
-      - "https://cdss.org/event/pittsburgh-contra-dance-2/"
-    start: "2023-12-22T20:00:00-05:00"
-    end: "2023-12-22T23:00:00-05:00"
-    country: USA
-    state: PA
-    city: Pittsburgh
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Good Intentions
-    callers:
-      - River Abel
-    organisation: Pittsburgh Contra Dance
-  - name: Friday Night Contra & Square Dance
-    details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
-    links:
-      - "https://cdss.org/event/friday-night-contra-square-dance/2023-12-22/"
-    start: "2023-12-22T20:00:00-05:00"
-    end: "2023-12-22T23:00:00-05:00"
-    country: USA
-    state: MD
-    city: Glen Echo
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: Folklore Society of Greater Washington
   - name: 4th Saturdays Contra Dance
     details: "Mark your calendars now for the next Saturday night dance at Fulton Hall. Dances are called using gender-neutral terms. \n\n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome!"
     links:
@@ -408,3 +329,50 @@ events:
       - Orly Krasner
     price: $25-$30
     organisation: Country Dancers of Westchester
+  - name: TECDA Tuesday Evening English Country Dance
+    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
+    links:
+      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2024-01-02/"
+    start: "2024-01-02T19:00:00-05:00"
+    end: "2024-01-02T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: North York
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
+  - name: Williamsburg Tuesday Night English Dance
+    details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
+    links:
+      - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2024-01-02/"
+    start: "2024-01-02T20:00:00-05:00"
+    end: "2024-01-02T22:00:00-05:00"
+    country: USA
+    state: VA
+    city: Williamsburg
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: Williamsburg Heritage Dancers
+  - name: English Country Dance
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
+    links:
+      - "https://cdss.org/event/english-country-dance-asheville-nc/2024-01-03/"
+    start: "2024-01-03T19:00:00-05:00"
+    end: "2024-01-03T21:00:00-05:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: Luanne Stiles
