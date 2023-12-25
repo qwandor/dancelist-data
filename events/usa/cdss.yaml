@@ -1,19 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Hayward Contra Dance
-    details: "We typically dance on the 2nd & 4th Sunday of each month. \nFor years, the Hayward Contra has drawn dancers from all over the Bay Area and beyond. \nSome of the unique features that have drawn a loyal following are: \nHayward is centrally located and the venue, The Hill and Valley Club, 1808 ‘B’ Street, Hayward, CA, is easy to reach by BART or car. \nAs a weekend dance, we have attracted dancers with busy work schedules. \nMeeting in the afternoon from 4-7pm, dancers coming from greater distances were able to manage the travel time both before and after the dances. \nOur venue, the Hill and Valley Club, is one of the airiest dance halls in the bay area. \nThese features have allowed us to attract a very diverse multigenerational crowd that is comfortable with our gender-neutral atmosphere. \nDetails at our website. \nWe also have a Facebook group."
-    links:
-      - "https://cdss.org/event/hayward-ca-contra-dance/2023-12-24/"
-    start: "2023-12-24T16:00:00-08:00"
-    end: "2023-12-24T19:00:00-08:00"
-    country: USA
-    state: CA
-    city: Hayward
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: CDSS
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
     links:
@@ -373,5 +359,38 @@ events:
       - contra
       - ecd
     workshop: true
+    social: true
+    organisation: CDSS
+  - name: TECDA Friday Evening Dance
+    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    links:
+      - "https://cdss.org/event/tecda-friday-evening-dance/2024-01-05/"
+    start: "2024-01-05T19:00:00-05:00"
+    end: "2024-01-05T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
+    links:
+      - "https://cdss.org/event/pcdc-friday-night-english-dance/2024-01-05/"
+    start: "2024-01-05T19:30:00-08:00"
+    end: "2024-01-05T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
     social: true
     organisation: CDSS
