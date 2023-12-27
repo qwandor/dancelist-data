@@ -1,38 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: TECDA Tuesday Evening English Country Dance
-    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
-    links:
-      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2023-12-26/"
-    start: "2023-12-26T19:00:00-05:00"
-    end: "2023-12-26T21:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: North York
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Alan Rosenthal
-      - Cathy Campbell
-      - Dave Berman
-      - Walter Zagorski
-    organisation: Toronto English Country Dance Assembly
-  - name: Williamsburg Tuesday Night English Dance
-    details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
-    links:
-      - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2023-12-26/"
-    start: "2023-12-26T20:00:00-05:00"
-    end: "2023-12-26T22:00:00-05:00"
-    country: USA
-    state: VA
-    city: Williamsburg
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: Williamsburg Heritage Dancers
   - name: English Country Dance
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
     links:
@@ -394,3 +361,48 @@ events:
     workshop: false
     social: true
     organisation: CDSS
+  - name: Friday Night Contra & Square Dance
+    details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
+    links:
+      - "https://cdss.org/event/friday-night-contra-square-dance/2024-01-05/"
+    start: "2024-01-05T20:00:00-05:00"
+    end: "2024-01-05T23:00:00-05:00"
+    country: USA
+    state: MD
+    city: Glen Echo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Folklore Society of Greater Washington
+  - name: Montpelier Contra Dance
+    details: "Steve Zakon-Anderson calling to tunes by The Turning Stile (Joanne Garton and Aaron Marcus). \n\nBeginners, singles, and all ages are welcome; all dances are taught. \nGender-neutral role terms. \nNewcomers’ lesson 7:40 pm. Dancing 8-11pm. \nPlease bring clean soft-soled shoes. \nMore info on our website. \n$12 adults, $5 kids/low-income, $20 dance supporters. \nQuestions? 802-225-8921 or cdu.tim@gmail.com \nDancing every 1st, 3rd, and 5th Saturday."
+    links:
+      - "https://cdss.org/event/montpelier-contra-dance-2/"
+    start: "2024-01-06T08:00:00-05:00"
+    end: "2024-01-06T23:00:00-05:00"
+    country: USA
+    state: VT
+    city: Berlin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Steve Zakon-Anderson
+    price: $5-$20
+    organisation: Montpelier Contra Dance
+  - name: English Dance S.A.
+    details: English Country Dancing in San Antonio for the first time since the pandemic! New location. Recorded music until our band is ready!
+    links:
+      - "https://cdss.org/event/english-dance-s-a/2024-01-06/"
+    start: "2024-01-06T16:00:00-05:00"
+    end: "2024-01-06T18:00:00-05:00"
+    country: USA
+    state: TX
+    city: San Antonio
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: English Dance S.A.
