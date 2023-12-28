@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfolk im Alten Casino
+    details: Balfolk
+    links:
+      - "http://balfolk-bonn.de/balfolk/Aktuell.html"
+    start: "2024-01-27T15:00:00+01:00"
+    end: "2024-01-27T22:00:00+01:00"
+    country: Germany
+    city: Euskirchen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Bargainatt
+    price: donation
+    organisation: Balfolk Bonn e.V.
