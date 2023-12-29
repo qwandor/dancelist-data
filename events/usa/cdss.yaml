@@ -1,34 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Rochester Thursday Night Contras
-    details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
-    links:
-      - "https://cdss.org/event/rochester-ny-thursday-night-contras/2023-12-28/"
-    start: "2023-12-28T19:30:00-05:00"
-    end: "2023-12-28T22:30:00-05:00"
-    country: USA
-    state: NY
-    city: Rochester
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Country Dancers of Rochester
-  - name: Berkeley Contra and English Dances
-    details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
-    links:
-      - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2023-12-28/"
-    start: "2023-12-28T20:00:00-08:00"
-    end: "2023-12-28T22:30:00-08:00"
-    country: USA
-    state: CA
-    city: Berkeley
-    styles:
-      - contra
-      - ecd
-    workshop: true
-    social: true
-    organisation: CDSS
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
     links:
@@ -347,6 +318,21 @@ events:
     workshop: false
     social: true
     organisation: CDSS
+  - name: Quiet Corner Contra Dance
+    details: "New Time: Dance 7:30-10:30pm [basics session 7:15 pm]\nThis is so wicked fun! We dance to the fiddle tunes of Ireland, Scotland, England, France, and Appalachia and we often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time! So come enjoy the friendly camaraderie, dance to live music and see everyone’s smiling faces!!\nClothing & Footwear: Clothing is casual, layers are best for this invigorating exercise. Please wear non-street shoes that move easily on the floor (rubber soled sneaker are discouraged).\nFood: Some snacks offered at the break and contributions are welcome and needed!\nCaller: Jim Gregory. Jim of West Hartford, CT, works with bands from CT, MA, and NY. So most of the Northeast is within their accustomed range of travel. The private lessons are available more locally, from Central CT to Springfield, MA. When you contact us we can talk over rates and dates. \nLive Music: Kingfischer! An energetic Boston-based contra dance duo, consisting of Cecilia Vacanti (fiddle) and Jeff Kaufman (piano, mandolin, drums, synths). They fuse New England roots with a modern groove. They promise a versatile mix of supremely danceable tunes!\nAdmission: $12.00 per person OR students (with ID, please) are asked to pay $6. *Donations are greatly appreciated and encouraged!\nFree Parking: There is plenty of free parking right in front of the hall.\nRole Terms: “Ladies & Gents,” but all dancers are welcome to dance whichever role their heart desires."
+    links:
+      - "https://cdss.org/event/quiet-corner-contra-dance/"
+    start: "2024-01-05T19:30:00-05:00"
+    end: "2024-01-05T22:30:00-05:00"
+    country: USA
+    state: CT
+    city: Coventry
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $6-$12
+    organisation: Hartford Community Dance
   - name: Friday Night Contra & Square Dance
     details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
     links:
@@ -392,3 +378,17 @@ events:
     workshop: false
     social: true
     organisation: English Dance S.A.
+  - name: Old Tyme Contra & Community Dance
+    details: "First Saturday of every month: lesson at 6:30, dance 7-9pm.\nLive band and dance caller for contras, squares, round, and fun crazy family dances, too.\nBeginners are welcome! No need to bring a partner, but you are welcome to do so.\nChildren over age 8 who are game to participate may also attend.\nBring a closed water container and a snack if you choose.\nSmooth-soled shoes work best on the Library’s wonderful wood floor.\nPlease do not wear perfume or scents to the dances."
+    links:
+      - "https://cdss.org/event/old-tyme-contra-community-dance-of-macon-county-nc/2024-01-06/"
+    start: "2024-01-06T18:30:00-05:00"
+    end: "2024-01-06T21:00:00-05:00"
+    country: USA
+    state: NC
+    city: Franklin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Friends of Contra Dance of Macon County
