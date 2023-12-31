@@ -1,38 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: 5th Saturdays Open Mike/Open Band Contra Dance
-    details: "Our Saturday night Open Mike Open Band dance at Fulton Hall. \nTwo local musicians will organize the music. Please contact them in advance so that you can learn about their musical plans. \nA local caller will lead the callers’ Open Mike. You can contact them in advance or show up and sign up for a calling slot. \nIf you have not been to a PCDC event since 2020, you can help expedite the entry process by filling out our contact tracing form. \n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome!"
-    links:
-      - "https://cdss.org/event/pcdc-5th-saturdays-open-mike-open-band-contra-dance/2023-12-30/"
-    start: "2023-12-30T19:00:00-08:00"
-    end: "2023-12-30T22:30:00-08:00"
-    country: USA
-    state: OR
-    city: Portland
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: Portland Country Dance Community
-  - name: Montpelier Contra Dance
-    details: "Nils Fredland calling to music by Spintuition (Silas Hamilton, Willy Clemetson, Samuel Foucher). Festive clothing encouraged!  \n\nNewcomers lesson at 7:40 with dancing 8-11.\nEveryone welcome.\nAll dances are taught and gender-neutral role terms are used.\nPlease bring clean soft-soled shoes.\nMasks are optional.\nMore info at Capital City Grange.\n$12 adults, $5 kids/low-income, $20 dance supporters.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDancing every 1st, 3rd, and 5th Saturday."
-    links:
-      - "https://cdss.org/event/montpelier-contra-dance/"
-    start: "2023-12-30T20:00:00-05:00"
-    end: "2023-12-30T23:00:00-05:00"
-    country: USA
-    state: VT
-    city: Berlin
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Spintuition
-    callers:
-      - Nils Fredland
-    price: $5-$20
-    organisation: Montpelier Contra Dance
   - name: TECDA New Years Eve Day Dance
     details: "TECDA is hosting a New Year’s Eve Day dance 2-5 at, St. Barnabas Hall on Sunday December 31, 2023  \nWalter Zagorski and Cathy Campbell calling, \nMusicians: Daev Clydesdale on flute and accordion and TBA  \nMasks are optional. Please bring your dancing shoes, water bottle. \nPreregistration at info@tecda.ca, but walk ins are welcome.  \nSuggested donation of $20-$25 (to cover costs of approx. $700) for ECD.  This can be paid by etransfer to  payments@tecda.ca  or cash at the door. \nSee you on the dance floor."
     links:
@@ -162,6 +129,21 @@ events:
       - Orly Krasner
     price: $25-$30
     organisation: Country Dancers of Westchester
+  - name: "Nelson New Year's Day"
+    details: "Yes, we are dancing on New Year’s Day. Only $3!! What better way to start the New Year? Besides, it’s Monday, and we (almost) always dance on Monday."
+    links:
+      - "https://cdss.org/event/nelson-new-years-day/"
+    start: "2024-01-01T19:30:00-05:00"
+    end: "2024-01-01T22:00:00-05:00"
+    country: USA
+    state: NH
+    city: Nelson
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $3
+    organisation: CDSS
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
     links:
@@ -389,3 +371,18 @@ events:
     workshop: false
     social: true
     organisation: Ottawa Contra Dance
+  - name: Contra Dance in Mississippi
+    details: This dance will have live music! It’s $10 for adults and $5 for kids.
+    links:
+      - "https://cdss.org/event/contra-dance-in-mississippi/"
+    start: "2024-01-07T13:30:00-06:00"
+    end: "2024-01-07T16:30:00-06:00"
+    country: USA
+    state: MS
+    city: Gulfport
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$10
+    organisation: CDSS
