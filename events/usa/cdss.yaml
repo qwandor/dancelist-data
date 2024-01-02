@@ -1,20 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "Nelson New Year's Day"
-    details: "Yes, we are dancing on New Year’s Day. Only $3!! What better way to start the New Year? Besides, it’s Monday, and we (almost) always dance on Monday."
-    links:
-      - "https://cdss.org/event/nelson-new-years-day/"
-    start: "2024-01-01T19:30:00-05:00"
-    end: "2024-01-01T22:00:00-05:00"
-    country: USA
-    state: NH
-    city: Nelson
-    styles:
-      - contra
-    workshop: false
-    social: true
-    price: $3
-    organisation: CDSS
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
     links:
@@ -363,3 +348,22 @@ events:
     workshop: true
     social: true
     organisation: CDSS
+  - name: TECDA Friday Evening Dance
+    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    links:
+      - "https://cdss.org/event/tecda-friday-evening-dance/2024-01-12/"
+    start: "2024-01-12T19:00:00-05:00"
+    end: "2024-01-12T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
