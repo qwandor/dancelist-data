@@ -8425,6 +8425,35 @@ events:
     price: €10
     organisation: Maximilian Ohmacht
     source: events/austria/vienna-other.yaml
+  - name: Breton dance workshop
+    details: Workshop with Yves Defrance (Rennes). Anmeldung via Email an Martina Krammer (krammer@mdw.ac.at)
+    links: []
+    start: "2024-01-11T19:00:00+01:00"
+    end: "2024-01-11T21:00:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: free
+    organisation: MdW
+    source: events/austria/vienna-other.yaml
+  - name: "Dance Workshop: Marinette Bonnert"
+    details: "Leicht zugängliche Tänze des Bal Folk, wie Rundtänze, Kettentänze oder Mixer, und begleitet die Tanzenden am Diatonischen Knopfakkordeon."
+    links:
+      - "https://akkordeonfestival.at/events/tanzworkshop-mit-marinette-bonnert/"
+    start: "2024-03-09T15:00:00+01:00"
+    end: "2024-03-09T18:00:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €40
+    organisation: Akkordeonfestival
+    source: events/austria/vienna-other.yaml
   - name: Polska workshop
     links:
       - "https://www.facebook.com/events/530578591766366/"
@@ -8658,6 +8687,21 @@ events:
       - "https://www.facebook.com/events/1841501806365560"
     start: "2023-12-01T19:00:00+01:00"
     end: "2023-12-01T23:00:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: donation
+    organisation: MuwiFolxTanz
+    source: events/austria/vienna-muwifolxtanz.yaml
+  - name: MuwiFolxTanz Vol.20
+    details: Folk dance at the university. Open stage. May also contain other folk styles.
+    links:
+      - "https://www.facebook.com/events/324129500406256"
+    start: "2024-01-12T19:00:00+01:00"
+    end: "2024-01-12T23:00:00+01:00"
     country: Austria
     city: Vienna
     styles:
@@ -9147,6 +9191,23 @@ events:
     social: true
     bands:
       - Lyranten
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/1768376720297510"
+    start: "2024-03-10T16:00:00+01:00"
+    end: "2024-03-10T22:30:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Marinette Bonnert
+    price: €10-€14
     organisation: Manu & Steffi
     source: events/austria/vienna-fta.yaml
   - name: FolkTanz-Abend
@@ -9160,6 +9221,7 @@ events:
       - balfolk
     workshop: true
     social: true
+    price: €10-€14
     organisation: Manu & Steffi
     source: events/austria/vienna-fta.yaml
   - name: FolkTanz-Abend
@@ -9175,6 +9237,22 @@ events:
     social: true
     bands:
       - Trio WHA
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links: []
+    start: "2024-05-12T16:00:00+02:00"
+    end: "2024-05-12T22:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Johannes G. Schwarz & Anna Breger
+    price: €10-€14
     organisation: Manu & Steffi
     source: events/austria/vienna-fta.yaml
   - name: Hof3-Folk
@@ -9397,6 +9475,51 @@ events:
     social: true
     bands:
       - Duo Härtel Wascher & Friends
+    organisation: Simon Wascher
+    source: events/austria/vienna-organic-dancefloor.yaml
+  - name: Dance Concert
+    details: "Tanzkonzert: Duo Haertel Wascher mit Patrik Andersson Tidman (SE) Vivien Zeller (D) & Jim Penny (UK)"
+    links:
+      - "https://www.wienervolksliedwerk.at/veranstaltungen.php?sid=27#329"
+    start: "2024-02-02T18:45:00+01:00"
+    end: "2024-02-02T22:00:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Härtel Wascher & Friends
+    price: €11-€16.50
+    organisation: Simon Wascher
+    source: events/austria/vienna-organic-dancefloor.yaml
+  - name: Dance Workshop with Simon Wascher (1/2)
+    details: Grundlagen und Vertiefung des traditionellen Tanzens und um Tänze des Bal Folk
+    links:
+      - "https://grundsubstanz.tradmus.org"
+    start_date: 2024-02-16
+    end_date: 2024-02-16
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Simon Wascher
+    source: events/austria/vienna-organic-dancefloor.yaml
+  - name: Dance Workshop with Simon Wascher (2/2)
+    details: Grundlagen und Vertiefung des traditionellen Tanzens und um Tänze des Bal Folk
+    links:
+      - "https://grundsubstanz.tradmus.org"
+    start_date: 2024-02-23
+    end_date: 2024-02-23
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: false
     organisation: Simon Wascher
     source: events/austria/vienna-organic-dancefloor.yaml
   - name: Organic Dancefloor
