@@ -1,38 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: TECDA Tuesday Evening English Country Dance
-    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
-    links:
-      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2024-01-02/"
-    start: "2024-01-02T19:00:00-05:00"
-    end: "2024-01-02T21:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: North York
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Alan Rosenthal
-      - Cathy Campbell
-      - Dave Berman
-      - Walter Zagorski
-    organisation: Toronto English Country Dance Assembly
-  - name: Williamsburg Tuesday Night English Dance
-    details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
-    links:
-      - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2024-01-02/"
-    start: "2024-01-02T20:00:00-05:00"
-    end: "2024-01-02T22:00:00-05:00"
-    country: USA
-    state: VA
-    city: Williamsburg
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: Williamsburg Heritage Dancers
   - name: English Country Dance
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
     links:
@@ -198,6 +165,21 @@ events:
     social: true
     price: $3-$18
     organisation: Goshen Community Contra Dance
+  - name: "First Saturday Contra Dance in Peterborough, NH"
+    details: "The Monadnock Folklore Society presents the Peterborough, NH First Saturday Contra Dance on the first Saturday with different musicians and callers every month.  \nThe dancing begins at 8:00 PM, with an introductory workshop beginning at 7:30. Sliding scale admission is  $12 – 20. \nWe also host an open jam session for beginning and intermediate musicians from 6:45 – 7:30 PM. \nThe Monadnock Folklore Society has presented contra dances and concerts of traditional music since 1982."
+    links:
+      - "https://cdss.org/event/first-saturday-contra-dance-in-peterborough-nh/2024-01-06/"
+    start: "2024-01-06T19:30:00-05:00"
+    end: "2024-01-06T22:00:00-05:00"
+    country: USA
+    state: NH
+    city: Peterborough
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $12
+    organisation: CDSS
   - name: Worcester Potluck & Contra Dance
     details: "One-time change to 1st Saturday, not 2nd Saturday!\nPotluck 6:00 – 7:00 Bring food to share!\nDance 7:30-10:30 pm [Intro session 7:15 pm]\nThis is so wicked fun! We dance to the fiddle tunes of Ireland, Scotland, England, France, and Appalachia and we often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time!\nCaller: Jordan Kammeyer\nLive Music by The Fiddling Thomsons, who are winners of the 2023 New Hampshire Governor’s Arts Award!\nAdmission: (your choice) $10 – $12 p.p., $6 – $8 students, families $25. Donations are gratefully appreciated!\nParking: There is plenty of parking behind the church by driving up State Street or up Gertrude Street.\nFood: Donations of snacks for the break are wanted and gleefully appreciated!\nClothing & Footwear: Clothing is casual. Please wear non-street shoes that move easily on the floor (rubber-soled sneakers are discouraged, but some do wear them even though it makes dancing harder).\nRole Terms are “Women & Men,” but dancers are welcome to choose whatever role that works for them with no worries."
     links:
@@ -367,3 +349,31 @@ events:
       - Dave Berman
       - Walter Zagorski
     organisation: Toronto English Country Dance Assembly
+  - name: Orlando Contra Dance
+    details: "We hold energetic and fun contra dances on 2nd and 4th Fridays near Orlando, Florida, in the beautiful Winter Park Ballroom! Our group loves both traditional and contemporary music, which is usually live. We welcome all ages and have a large contingent of younger dancers. Students and jobless dance FREE! Check the schedule for directions, details, cancellations, and changes. Afterwards, we go next door to Jeremiah’s Italian Ice!"
+    links:
+      - "https://cdss.org/event/orlando-contra-dance/2024-01-12/"
+    start: "2024-01-12T19:00:00-05:00"
+    end: "2024-01-12T22:30:00-05:00"
+    country: USA
+    state: FL
+    city: Winter Park
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Greater Orlando Contra Dance
+  - name: Cabot Community Contra Dance
+    details: "Small monthly community contra dance with guest callers and live music by local musicians. All dances taught, no partner needed, families and beginners enthusiastically welcomed! Gender-neutral calling, short intro session for new folks at 7:15. Masks are welcomed but not required, and the large windows will be open for ventilation."
+    links:
+      - "https://cdss.org/event/cabot-community-contra-dance/2024-01-12/"
+    start: "2024-01-12T19:30:00-05:00"
+    end: "2024-01-12T22:00:00-05:00"
+    country: USA
+    state: VT
+    city: Cabot
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Cabot Community Dance
