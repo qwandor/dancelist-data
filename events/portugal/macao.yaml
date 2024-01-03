@@ -28,15 +28,18 @@ events:
 
   - name: Dançarão
     links:
-      - "http://www.dancarao.pt/pt-pt"
-      - "https://www.facebook.com/events/1288117291897295"
-    start_date: 2024-07-12
-    end_date: 2024-07-14
+      - "http://www.dancarao.pt/en"
+      - "https://www.facebook.com/events/1288117291897295/"
+    start: 2024-07-12T09:00:00+01:00
+    end: 2024-07-14T11:59:00+01:00
     country: Portugal
-    city: "Ortiga, Mação"
+    city: Mação
     styles:
       - balfolk
     workshop: false
     social: true
-    price: 50-65€
+    bands:
+      - Duo Absynthe
+      - Geronimo & Luís Peixoto
+    price: €50-€65
     organisation: Dançarém
