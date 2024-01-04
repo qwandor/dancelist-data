@@ -209,8 +209,9 @@ events:
 
   - name: Contrabridge
     links:
-      - "https://contrabridge.org/events"
-    start: 2024-01-20T19:45:00+00:00
+      - "https://contrabridge.org/events/2024-01/"
+      - "https://www.facebook.com/events/2128658230818052/"
+    start: 2024-01-20T19:30:00+00:00
     end: 2024-01-20T23:00:00+00:00
     country: UK
     city: Cambridge
@@ -221,24 +222,47 @@ events:
     price: £7-£15
     organisation: Contrabridge
 
+  - name: Contrabridge Workshop
+    details: How Contra Works
+    links:
+      - "https://contrabridge.org/events/2024-02-workshop/"
+    start: 2024-02-24T13:45:00+00:00
+    end: 2024-02-24T17:00:00+00:00
+    country: UK
+    city: Cambridge
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Flying Cat
+    callers:
+      - Bob Morgan
+      - Charlie Turner
+    organisation: Contrabridge
+
   - name: Contrabridge
     links:
-      - "https://contrabridge.org/events"
-    start: 2024-02-24T19:45:00+00:00
-    end: 2024-02-24T23:00:00+00:00
+      - "https://contrabridge.org/events/2024-02/"
+    start: 2024-02-24T19:00:00+00:00
+    end: 2024-02-24T22:00:00+00:00
     country: UK
     city: Cambridge
     styles:
       - contra
     workshop: false
     social: true
+    bands:
+      - Bluejay
+    callers:
+      - Bob Morgan
     price: £7-£15
     organisation: Contrabridge
 
   - name: Contrabridge
     links:
-      - "https://contrabridge.org/events"
-    start: 2024-03-16T19:45:00+00:00
+      - "https://contrabridge.org/events/2024-03/"
+    start: 2024-03-16T19:30:00+00:00
     end: 2024-03-16T23:00:00+00:00
     country: UK
     city: Cambridge
@@ -246,27 +270,36 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Vicki Swan & Jonny Dyer
+    callers:
+      - Rachel Shapiro-Wallace
     price: £7-£15
     organisation: Contrabridge
 
   - name: Contrabridge
     links:
-      - "https://contrabridge.org/events"
-    start: 2024-04-27T19:45:00+01:00
-    end: 2024-04-27T23:00:00+01:00
+      - "https://contrabridge.org/events/2024-04/"
+    start: 2024-04-27T19:00:00+01:00
+    end: 2024-04-27T22:00:00+01:00
     country: UK
     city: Cambridge
     styles:
       - contra
     workshop: false
     social: true
+    bands:
+      - Trip Hazard
+    callers:
+      - Sarah Trop
+      - Rob Humphrey
     price: £7-£15
     organisation: Contrabridge
 
   - name: Contrabridge
     links:
-      - "https://contrabridge.org/events"
-    start: 2024-05-18T19:45:00+01:00
+      - "https://contrabridge.org/events/2024-05/"
+    start: 2024-05-18T19:30:00+01:00
     end: 2024-05-18T23:00:00+01:00
     country: UK
     city: Cambridge
@@ -275,16 +308,16 @@ events:
     workshop: false
     social: true
     bands:
-      - Lighthouse
+      - Audrey Jaber, Alan Brunier & Adam Rich-Griffin
     callers:
-      - Will Mentor
+      - Daisy Black
     price: £7-£15
     organisation: Contrabridge
 
   - name: Contrabridge
     links:
-      - "https://contrabridge.org/events"
-    start: 2024-06-22T19:45:00+01:00
+      - "https://contrabridge.org/events/2024-06/"
+    start: 2024-06-22T19:30:00+01:00
     end: 2024-06-22T23:00:00+01:00
     country: UK
     city: Cambridge
@@ -292,13 +325,17 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Contrary Faeries
+    callers:
+      - Charlie Turner
     price: £7-£15
     organisation: Contrabridge
 
   - name: Contrabridge
     links:
-      - "https://contrabridge.org/events"
-    start: 2024-08-31T19:45:00+01:00
+      - "https://contrabridge.org/events/2024-08/"
+    start: 2024-08-31T19:30:00+01:00
     end: 2024-08-31T23:00:00+01:00
     country: UK
     city: Cambridge
@@ -306,13 +343,18 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Box of Frogs
+    callers:
+      - Lauren Catlin
+      - Sally Vernon
     price: £7-£15
     organisation: Contrabridge
 
   - name: Contrabridge
     links:
-      - "https://contrabridge.org/events"
-    start: 2024-09-28T19:45:00+01:00
+      - "https://contrabridge.org/events/2024-09/"
+    start: 2024-09-28T19:30:00+01:00
     end: 2024-09-28T23:00:00+01:00
     country: UK
     city: Cambridge
@@ -320,13 +362,17 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Nozzy
+    callers:
+      - Nicola Scott
     price: £7-£15
     organisation: Contrabridge
 
   - name: Contrabridge
     links:
-      - "https://contrabridge.org/events"
-    start: 2024-10-26T19:45:00+01:00
+      - "https://contrabridge.org/events/2024-10/"
+    start: 2024-10-26T19:30:00+01:00
     end: 2024-10-26T23:00:00+01:00
     country: UK
     city: Cambridge
@@ -334,13 +380,17 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - King Kontra
+    callers:
+      - Rob Humphrey
     price: £7-£15
     organisation: Contrabridge
 
   - name: Contrabridge
     links:
-      - "https://contrabridge.org/events"
-    start: 2024-11-30T19:45:00+00:00
+      - "https://contrabridge.org/events/2024-11/"
+    start: 2024-11-30T19:30:00+00:00
     end: 2024-11-30T23:00:00+00:00
     country: UK
     city: Cambridge
@@ -348,5 +398,9 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Fiddlechicks
+    callers:
+      - Adam Hughes
     price: £7-£15
     organisation: Contrabridge
