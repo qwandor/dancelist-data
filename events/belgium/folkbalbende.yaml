@@ -13330,26 +13330,28 @@ events:
   - name: Balhalla
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://balhalla.be/"
       - "https://folkbalbende.be/event/2056"
-    start_date: 2024-01-25
-    end_date: 2024-01-25
+      - "https://www.facebook.com/events/649492650668437"
+    start: "2024-01-25T19:00:00+01:00"
+    end: "2024-01-25T23:00:00+01:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Parapante700
     organisation: Balhalla
   - name: Balhalla
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://balhalla.be/"
       - "https://balhalla.be/"
       - "https://folkbalbende.be/event/2057"
-    start_date: 2024-02-15
-    end_date: 2024-02-15
+    start: "2024-02-15T20:00:00+01:00"
+    end: "2024-02-15T23:30:00+01:00"
     country: Belgium
     city: Gent
     styles:
@@ -13362,9 +13364,10 @@ events:
   - name: Balhalla
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://balhalla.be/"
       - "https://balhalla.be/"
       - "https://folkbalbende.be/event/2058"
+      - "https://www.facebook.com/events/903947683945844"
     start_date: 2024-03-07
     end_date: 2024-03-07
     country: Belgium
@@ -13761,6 +13764,21 @@ events:
     bands:
       - Airboxes
     price: donation
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2080"
+    start: "2024-01-31T20:00:00+01:00"
+    end: "2024-01-31T22:00:00+01:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Geert En Oswald
     organisation: ~
   - name: Folkdansavond Op Opgenomen Muziek
     details: Ball
