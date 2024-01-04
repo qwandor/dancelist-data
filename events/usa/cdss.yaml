@@ -1,19 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: English Country Dance
-    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
-    links:
-      - "https://cdss.org/event/english-country-dance-asheville-nc/2024-01-03/"
-    start: "2024-01-03T19:00:00-05:00"
-    end: "2024-01-03T21:00:00-05:00"
-    country: USA
-    state: NC
-    city: Asheville
-    styles:
-      - ecd
-    workshop: true
-    social: true
-    organisation: Luanne Stiles
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
@@ -377,3 +363,17 @@ events:
     workshop: true
     social: true
     organisation: Cabot Community Dance
+  - name: Denver Contra Dance
+    details: "The Denver community contra dance is held on the 2nd Friday of each month. There is a lesson from 7 to 7:30; and dance from 7:30 to 10:30. For more details, see our website."
+    links:
+      - "https://cdss.org/event/denver-contra-dance/2024-01-12/"
+    start: "2024-01-12T19:30:00-07:00"
+    end: "2024-01-12T22:30:00-07:00"
+    country: USA
+    state: Denver
+    city: 690 Colorado Boulevard
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Colorado Friends of Old Time Music and Dance
