@@ -1,34 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Rochester Thursday Night Contras
-    details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
-    links:
-      - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-01-04/"
-    start: "2024-01-04T19:30:00-05:00"
-    end: "2024-01-04T22:30:00-05:00"
-    country: USA
-    state: NY
-    city: Rochester
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Country Dancers of Rochester
-  - name: Berkeley Contra and English Dances
-    details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
-    links:
-      - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-01-04/"
-    start: "2024-01-04T20:00:00-08:00"
-    end: "2024-01-04T22:30:00-08:00"
-    country: USA
-    state: CA
-    city: Berkeley
-    styles:
-      - contra
-      - ecd
-    workshop: true
-    social: true
-    organisation: CDSS
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
     links:
@@ -377,3 +348,59 @@ events:
     workshop: true
     social: true
     organisation: Colorado Friends of Old Time Music and Dance
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
+    links:
+      - "https://cdss.org/event/pcdc-friday-night-english-dance/2024-01-12/"
+    start: "2024-01-12T19:30:00-08:00"
+    end: "2024-01-12T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: CDSS
+  - name: Dover New England Country Dance
+    details: "Traditional New England dance with mostly contras, some squares, circles, couple dances, and occasional English or Scottish dances. No partner nor experience needed, the dances will be taught and called. An introductory session is held at 7:30 to explain the basics. "
+    links:
+      - "https://cdss.org/event/dover-nh-new-england-country-dance/2024-01-12/"
+    start: "2024-01-12T19:30:00-05:00"
+    end: "2024-01-12T22:30:00-05:00"
+    country: USA
+    state: NH
+    city: Dover
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Dave Bateman
+  - name: Friday Night Contra & Square Dance
+    details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
+    links:
+      - "https://cdss.org/event/friday-night-contra-square-dance/2024-01-12/"
+    start: "2024-01-12T20:00:00-05:00"
+    end: "2024-01-12T23:00:00-05:00"
+    country: USA
+    state: MD
+    city: Glen Echo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Folklore Society of Greater Washington
+  - name: English Country Dance Lessons
+    details: "Series of 5 classes in preparation for a Valentine’s ECD demo on Feb 10, 2024."
+    links:
+      - "https://cdss.org/event/english-country-dance-lessons/2024-01-13/"
+    start: "2024-01-13T16:00:00-05:00"
+    end: "2024-01-13T17:00:00-05:00"
+    country: USA
+    state: VA
+    city: Lorton
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: CDSS
