@@ -20140,7 +20140,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Oswald En Geert
+      - Geert En Oswald
     organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Dance Class Level 1
@@ -22950,6 +22950,7 @@ events:
     links:
       - "http://www.folkinlimburg.be/agenda/beschrijving.php?id=707"
       - "https://folkbalbende.be/event/1834"
+      - "https://folkbalbende.be/event/2086"
     start: "2024-04-06T20:00:00+02:00"
     end: "2024-04-06T23:30:00+02:00"
     country: Belgium
@@ -24554,14 +24555,20 @@ events:
       - "https://www.rzf.be/en_US/event/15e-nuit-du-trad-2024-04-13-2024-04-14-65/register"
       - "https://folkbalbende.be/event/1935"
     start: "2024-04-13T20:00:00+02:00"
-    end: "2024-04-14T03:30:00+02:00"
+    end: "2024-04-14T03:00:00+02:00"
     country: Belgium
     city: Alleur
     styles:
       - balfolk
     workshop: false
     social: true
-    price: €19-€22
+    bands:
+      - KV Express
+      - La Machine
+      - Grégory Jolivet
+      - Julien Barbances
+      - Emily & The Simons
+    price: €20-€25
     organisation: "Rif Zans L'Fiesse"
     source: events/belgium/folkbalbende.yaml
   - name: Lets Dance
@@ -25583,7 +25590,6 @@ events:
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.facebook.com/guus.herremans/"
-      - "https://folkbalbende.be/event/2051"
     start: "2024-12-19T19:00:00+01:00"
     end: "2024-12-19T22:00:00+01:00"
     country: Belgium
@@ -25620,7 +25626,6 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/bal-duo-bottasso-cellule/931/"
       - "https://www.facebook.com/events/861515072136172/"
-      - "https://folkbalbende.be/event/2053"
     start: "2024-01-06T20:00:00+01:00"
     end: "2024-01-07T01:00:00+01:00"
     country: Belgium
@@ -25634,7 +25639,7 @@ events:
     price: €14-€25
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
-  - name: Danscafé
+  - name: NieuwjaarDanscafé
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -25675,6 +25680,7 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://balhalla.be/"
       - "https://folkbalbende.be/event/2056"
+      - "https://www.facebook.com/events/649492650668437"
     start: "2024-01-25T19:00:00+01:00"
     end: "2024-01-25T23:00:00+01:00"
     country: Belgium
@@ -25683,6 +25689,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Parapente700
     price: €10-€15
     organisation: Balhalla
     source: events/belgium/folkbalbende.yaml
@@ -25692,13 +25700,14 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://balhalla.be/"
       - "https://folkbalbende.be/event/2057"
+      - "https://www.facebook.com/events/1672185989974037/"
     start: "2024-02-15T19:00:00+01:00"
-    end: "2024-02-15T23:00:00+01:00"
+    end: "2024-02-15T23:30:00+01:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Duo du Balcon
@@ -25711,13 +25720,14 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://balhalla.be/"
       - "https://folkbalbende.be/event/2058"
+      - "https://www.facebook.com/events/903947683945844"
     start: "2024-03-07T19:00:00+01:00"
     end: "2024-03-07T23:00:00+01:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Balbuzar
@@ -25820,13 +25830,14 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://balhalla.be/"
       - "https://folkbalbende.be/event/2065"
-    start_date: 2024-04-26
-    end_date: 2024-04-26
+      - "https://www.facebook.com/events/3427752184205321/"
+    start: "2024-04-26T19:00:00+02:00"
+    end: "2024-04-26T23:00:00+02:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Maarten Decombel & Toon Van Mierlo
@@ -25935,6 +25946,302 @@ events:
     bands:
       - DJ Sophie
     organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Lets Dance
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2073"
+    start: "2023-12-22T19:30:00+01:00"
+    end: "2023-12-22T21:30:00+01:00"
+    country: Belgium
+    city: Waregem
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Lets Leie
+    source: events/belgium/folkbalbende.yaml
+  - name: Lets Dance
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2073"
+    start: "2024-01-26T19:30:00+01:00"
+    end: "2024-01-26T21:30:00+01:00"
+    country: Belgium
+    city: Waregem
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Lets Leie
+    source: events/belgium/folkbalbende.yaml
+  - name: Lets Dance
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2073"
+    start: "2024-02-23T19:30:00+01:00"
+    end: "2024-02-23T21:30:00+01:00"
+    country: Belgium
+    city: Waregem
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Lets Leie
+    source: events/belgium/folkbalbende.yaml
+  - name: Lets Dance
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2073"
+    start: "2024-03-29T19:30:00+01:00"
+    end: "2024-03-29T21:30:00+01:00"
+    country: Belgium
+    city: Waregem
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Lets Leie
+    source: events/belgium/folkbalbende.yaml
+  - name: Lets Dance
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2073"
+    start: "2024-04-26T19:30:00+02:00"
+    end: "2024-04-26T21:30:00+02:00"
+    country: Belgium
+    city: Waregem
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Lets Leie
+    source: events/belgium/folkbalbende.yaml
+  - name: Lets Dance
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2073"
+    start: "2024-05-24T19:30:00+02:00"
+    end: "2024-05-24T21:30:00+02:00"
+    country: Belgium
+    city: Waregem
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Lets Leie
+    source: events/belgium/folkbalbende.yaml
+  - name: Lets Dance
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2073"
+    start: "2024-06-28T19:30:00+02:00"
+    end: "2024-06-28T21:30:00+02:00"
+    country: Belgium
+    city: Waregem
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Lets Leie
+    source: events/belgium/folkbalbende.yaml
+  - name: Lets Dance
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2073"
+    start: "2024-08-30T19:30:00+02:00"
+    end: "2024-08-30T21:30:00+02:00"
+    country: Belgium
+    city: Waregem
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Lets Leie
+    source: events/belgium/folkbalbende.yaml
+  - name: Dances from South Italy
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dances-from-the-south-of-italy/927/"
+      - "https://folkbalbende.be/event/2074"
+      - "https://www.facebook.com/events/880458580479557"
+    start: "2024-02-17T10:00:00+01:00"
+    end: "2024-02-17T14:00:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - italian
+    workshop: true
+    social: false
+    price: €15-€42
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkpractica
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2076"
+      - "https://www.facebook.com/events/2550626471762377/"
+    start: "2024-01-12T20:00:00+01:00"
+    end: "2024-01-12T23:00:00+01:00"
+    country: Belgium
+    city: Bouwel
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Netefolk
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkpractica
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2077"
+      - "https://facebook.com/events/219116467817453/"
+    start: "2024-02-09T20:00:00+01:00"
+    end: "2024-02-09T23:00:00+01:00"
+    country: Belgium
+    city: Bouwel
+    styles:
+      - balfolk
+      - scandi
+    workshop: true
+    social: true
+    bands:
+      - Sydskane
+    price: donation
+    organisation: Netefolk
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkpractica
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2078"
+    start: "2024-04-19T20:00:00+02:00"
+    end: "2024-04-19T23:00:00+02:00"
+    country: Belgium
+    city: Bouwel
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: donation
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkpractica
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2079"
+    start: "2024-06-08T20:00:00+02:00"
+    end: "2024-06-08T23:00:00+02:00"
+    country: Belgium
+    city: Bouwel
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Airboxes
+    price: donation
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2080"
+    start: "2024-01-31T20:00:00+01:00"
+    end: "2024-01-31T22:00:00+01:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Geert En Oswald
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkdansavond Op Opgenomen Muziek
+    details: Ball
+    links:
+      - "https://stanistil.be/event/10"
+      - "https://folkbalbende.be/event/2081"
+      - "https://www.facebook.com/events/3374862602658856"
+    start: "2024-01-10T20:30:00+01:00"
+    end: "2024-01-10T22:00:00+01:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: donation
+    organisation: Stanistil
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/2082"
+    start: "2024-03-16T16:30:00+01:00"
+    end: "2024-03-16T23:00:00+01:00"
+    country: Belgium
+    city: Grandmenil
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Findus
+      - "Tout Bout D'chants"
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://www.folknammusiquetrad.be/"
+      - "https://folkbalbende.be/event/2083"
+    start_date: 2024-10-04
+    end_date: 2024-10-04
+    country: Belgium
+    city: Namur
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Folknam Musique Trad
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://www.folknammusiquetrad.be/"
+      - "https://folkbalbende.be/event/2084"
+    start_date: 2024-11-01
+    end_date: 2024-11-01
+    country: Belgium
+    city: Namur
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Folknam Musique Trad
+    source: events/belgium/folkbalbende.yaml
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://tey.be/programma/2024/02/25/variomatic"
+      - "https://folkbalbende.be/event/2085"
+    start: "2024-02-25T15:00:00+01:00"
+    end: "2024-02-25T18:00:00+01:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Variomatic
+    price: €15
+    organisation: "Muziekclub 't Ey"
     source: events/belgium/folkbalbende.yaml
   - name: Bal Folk
     links:
