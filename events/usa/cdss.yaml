@@ -3,6 +3,7 @@ events:
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
     links:
+      - "https://www.tecda.ca/weekly_dances.html"
       - "https://cdss.org/event/tecda-friday-evening-dance/2024-01-05/"
     start: "2024-01-05T19:00:00-05:00"
     end: "2024-01-05T21:00:00-05:00"
@@ -36,6 +37,7 @@ events:
   - name: Quiet Corner Contra Dance
     details: "New Time: Dance 7:30-10:30pm [basics session 7:15 pm]\nThis is so wicked fun! We dance to the fiddle tunes of Ireland, Scotland, England, France, and Appalachia and we often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time! So come enjoy the friendly camaraderie, dance to live music and see everyone’s smiling faces!!\nClothing & Footwear: Clothing is casual, layers are best for this invigorating exercise. Please wear non-street shoes that move easily on the floor (rubber soled sneaker are discouraged).\nFood: Some snacks offered at the break and contributions are welcome and needed!\nCaller: Jim Gregory. Jim of West Hartford, CT, works with bands from CT, MA, and NY. So most of the Northeast is within their accustomed range of travel. The private lessons are available more locally, from Central CT to Springfield, MA. When you contact us we can talk over rates and dates. \nLive Music: Kingfischer! An energetic Boston-based contra dance duo, consisting of Cecilia Vacanti (fiddle) and Jeff Kaufman (piano, mandolin, drums, synths). They fuse New England roots with a modern groove. They promise a versatile mix of supremely danceable tunes!\nAdmission: $12.00 per person OR students (with ID, please) are asked to pay $6. *Donations are greatly appreciated and encouraged!\nFree Parking: There is plenty of free parking right in front of the hall.\nRole Terms: “Ladies & Gents,” but all dancers are welcome to dance whichever role their heart desires."
     links:
+      - "http://www.hcdance.org/quiet-corner-contra/"
       - "https://cdss.org/event/quiet-corner-contra-dance/"
     start: "2024-01-05T19:30:00-05:00"
     end: "2024-01-05T22:30:00-05:00"
@@ -51,6 +53,7 @@ events:
   - name: Friday Night Contra & Square Dance
     details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
     links:
+      - "https://fsgw.org/Friday-contra-square-dance"
       - "https://cdss.org/event/friday-night-contra-square-dance/2024-01-05/"
     start: "2024-01-05T20:00:00-05:00"
     end: "2024-01-05T23:00:00-05:00"
@@ -65,6 +68,7 @@ events:
   - name: Montpelier Contra Dance
     details: "Steve Zakon-Anderson calling to tunes by The Turning Stile (Joanne Garton and Aaron Marcus). \n\nBeginners, singles, and all ages are welcome; all dances are taught. \nGender-neutral role terms. \nNewcomers’ lesson 7:40 pm. Dancing 8-11pm. \nPlease bring clean soft-soled shoes. \nMore info on our website. \n$12 adults, $5 kids/low-income, $20 dance supporters. \nQuestions? 802-225-8921 or cdu.tim@gmail.com \nDancing every 1st, 3rd, and 5th Saturday."
     links:
+      - "https://capitalcitygrange.org/dancing/contradancing/"
       - "https://cdss.org/event/montpelier-contra-dance-2/"
     start: "2024-01-06T08:00:00-05:00"
     end: "2024-01-06T23:00:00-05:00"
@@ -75,6 +79,8 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - The Turning Stile
     callers:
       - Steve Zakon-Anderson
     price: $5-$20
@@ -110,6 +116,7 @@ events:
   - name: Goshen Community Contra Dance
     details: "Contra Dance with live music and caller. \nThe dance will be held at Goshen First Church, 215 South St., Goshen, IN. \nGeneral Public: Non-members $8, Members $6\nStudents: Non-members $5, Members $3\nChildren under 12: Free\nFamily maximum cost: $18 \nNo experience or partner needed and all dances are led by experienced callers. \nNew dancers are always welcome and are invited to the free beginners workshop at 6:30pm."
     links:
+      - "http://godancing.org/"
       - "https://cdss.org/event/goshen-community-contra-dance-2/2024-01-06/"
     start: "2024-01-06T19:00:00-05:00"
     end: "2024-01-06T22:00:00-05:00"
@@ -120,9 +127,9 @@ events:
       - contra
     workshop: true
     social: true
-    price: $3-$18
+    price: $3-$8
     organisation: Goshen Community Contra Dance
-  - name: "First Saturday Contra Dance in Peterborough, NH"
+  - name: First Saturday Contra Dance
     details: "The Monadnock Folklore Society presents the Peterborough, NH First Saturday Contra Dance on the first Saturday with different musicians and callers every month.  \nThe dancing begins at 8:00 PM, with an introductory workshop beginning at 7:30. Sliding scale admission is  $12 – 20. \nWe also host an open jam session for beginning and intermediate musicians from 6:45 – 7:30 PM. \nThe Monadnock Folklore Society has presented contra dances and concerts of traditional music since 1982."
     links:
       - "https://cdss.org/event/first-saturday-contra-dance-in-peterborough-nh/2024-01-06/"
@@ -133,7 +140,7 @@ events:
     city: Peterborough
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $12
     organisation: CDSS
@@ -150,11 +157,16 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - The Fiddling Thomsons
+    callers:
+      - Jordan Kammeyer
     price: $6-$25
     organisation: CDSS
   - name: Ottawa Contra Dance
     details: "Join Ottawa Contra Dance every 1st and 3rd Saturday, September – June. Dances are called using Larks and Robins. Admission by sliding scale."
     links:
+      - "https://ottawacontra.ca/"
       - "https://cdss.org/event/ottawa-contra-dance/2024-01-06/"
     start: "2024-01-06T19:30:00-05:00"
     end: "2024-01-06T23:00:00-05:00"
@@ -181,7 +193,7 @@ events:
     social: true
     price: $5-$10
     organisation: CDSS
-  - name: "Monday Contra Dance in Nelson, NH"
+  - name: Monday Contra Dance
     details: "What better way to start the week? Only $3! It’s Monday, and we (almost) always dance on Monday."
     links:
       - "https://cdss.org/event/monday-contra-dance-in-nelson-nh/2024-01-08/"
@@ -199,6 +211,7 @@ events:
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
     links:
+      - "https://www.tecda.ca/weekly_dances.html"
       - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2024-01-09/"
     start: "2024-01-09T19:00:00-05:00"
     end: "2024-01-09T21:00:00-05:00"
@@ -218,6 +231,7 @@ events:
   - name: Williamsburg Tuesday Night English Dance
     details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
     links:
+      - "https://williamsburgheritagedancers.org/"
       - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2024-01-09/"
     start: "2024-01-09T20:00:00-05:00"
     end: "2024-01-09T22:00:00-05:00"
@@ -246,6 +260,7 @@ events:
   - name: Richmond Wednesday English Country Dance
     details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm."
     links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
       - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2024-01-10/"
     start: "2024-01-10T19:30:00-05:00"
     end: "2024-01-10T21:30:00-05:00"
@@ -290,6 +305,7 @@ events:
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
     links:
+      - "https://www.tecda.ca/weekly_dances.html"
       - "https://cdss.org/event/tecda-friday-evening-dance/2024-01-12/"
     start: "2024-01-12T19:00:00-05:00"
     end: "2024-01-12T21:00:00-05:00"
@@ -337,6 +353,7 @@ events:
   - name: Denver Contra Dance
     details: "The Denver community contra dance is held on the 2nd Friday of each month. There is a lesson from 7 to 7:30; and dance from 7:30 to 10:30. For more details, see our website."
     links:
+      - "https://www.cfootmad.org/"
       - "https://cdss.org/event/denver-contra-dance/2024-01-12/"
     start: "2024-01-12T19:30:00-07:00"
     end: "2024-01-12T22:30:00-07:00"
@@ -379,6 +396,7 @@ events:
   - name: Friday Night Contra & Square Dance
     details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
     links:
+      - "https://fsgw.org/Friday-contra-square-dance"
       - "https://cdss.org/event/friday-night-contra-square-dance/2024-01-12/"
     start: "2024-01-12T20:00:00-05:00"
     end: "2024-01-12T23:00:00-05:00"
