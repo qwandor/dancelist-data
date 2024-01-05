@@ -7713,7 +7713,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Oswald En Geert
+      - Geert En Oswald
     organisation: ~
   - name: Dance Class Level 1
     details: Course
@@ -10363,6 +10363,7 @@ events:
     links:
       - "http://www.folkinlimburg.be/agenda/beschrijving.php?id=707"
       - "https://folkbalbende.be/event/1834"
+      - "https://folkbalbende.be/event/2086"
     start: "2024-04-06T20:00:00+02:00"
     end: "2024-04-06T23:30:00+02:00"
     country: Belgium
@@ -11884,7 +11885,8 @@ events:
     bands:
       - KV Express
       - La Machine
-      - Grégory Jolivet  Solo Et Julien Barbances Solo
+      - Grégory Jolivet
+      - Julien Barbances
       - Emily & The Simons
     price: €20-€25
     organisation: "Rif Zans L'Fiesse"
@@ -13289,18 +13291,18 @@ events:
     workshop: true
     social: false
     organisation: Lets Leie
-  - name: Dansen Uit Zuid-Italië
+  - name: Dances from South Italy
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Dansen uit Zuid-Italië/927/"
+      - "https://frissefolk.be/en/event-en/dances-from-the-south-of-italy/927/"
       - "https://folkbalbende.be/event/2074"
       - "https://www.facebook.com/events/880458580479557"
-    start_date: 2024-02-17
-    end_date: 2024-02-17
+    start: 2024-02-17T10:00:00+01:00
+    end: 2024-02-17T14:00:00+01:00
     country: Belgium
     city: Brussels
     styles:
-      - balfolk
+      - italian
     workshop: true
     social: false
     price: €15-€42
@@ -13309,6 +13311,7 @@ events:
     details: Ball
     links:
       - "https://folkbalbende.be/event/2076"
+      - "https://www.facebook.com/events/2550626471762377/"
     start: "2024-01-12T20:00:00+01:00"
     end: "2024-01-12T23:00:00+01:00"
     country: Belgium
@@ -13317,25 +13320,23 @@ events:
       - balfolk
     workshop: true
     social: true
-    bands:
-      - DJ NETEFOLK
-    organisation: ~
-  - name: Folkbal
+    organisation: Netefolk
+  - name: Folkpractica
     details: Ball
     links:
       - "https://folkbalbende.be/event/2077"
-      - "https://facebook.com/events/s/folkpractica-in-bouwel-met-zwe/219116467817453/"
+      - "https://facebook.com/events/219116467817453/"
     start: "2024-02-09T20:00:00+01:00"
     end: "2024-02-09T23:00:00+01:00"
     country: Belgium
     city: Bouwel
     styles:
       - balfolk
+      - scandi
     workshop: true
     social: true
     bands:
       - Sydskane
-      - DJ NETEFOLK
     price: donation
     organisation: Netefolk
   - name: Folkpractica
@@ -13350,8 +13351,6 @@ events:
       - balfolk
     workshop: true
     social: true
-    bands:
-      - DJ NETEFOLK
     price: donation
     organisation: ~
   - name: Folkpractica
@@ -13405,16 +13404,18 @@ events:
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://www.canardfolk.be/groupes/tout-bout-dchants/"
       - "https://folkbalbende.be/event/2082"
-    start_date: 2024-03-16
-    end_date: 2024-03-16
+    start: 2024-03-16T16:30:00+01:00
+    end: 2024-03-16T23:00:00+01:00
     country: Belgium
     city: Grandmenil
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Findus
+      - Tout Bout D'chants
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -13446,35 +13447,20 @@ events:
     workshop: false
     social: true
     organisation: Folknam Musique Trad
-  - name: BaleynbalVARIOMATIC
+  - name: Baleynbal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.tey.be/"
+      - "https://tey.be/programma/2024/02/25/variomatic"
       - "https://folkbalbende.be/event/2085"
-    start_date: 2024-02-25
-    end_date: 2024-02-25
+    start: 2024-02-25T15:00:00+01:00
+    end: 2024-02-25T18:00:00+01:00
     country: Belgium
     city: Belsele
     styles:
       - balfolk
     workshop: false
     social: true
-    organisation: "Muziekclub 't Ey"
-  - name: Bal@herk
-    details: Ball
-    links:
-      - "https://warmoesmusic.be/"
-      - "https://folkbalbende.be/event/2086"
-    start_date: 2024-04-06
-    end_date: 2024-04-06
-    country: Belgium
-    city: Herk-de-Stad
-    styles:
-      - balfolk
-    workshop: false
-    social: true
     bands:
-      - Warmoes
-      - Duo Clerckx
-    organisation: ~
+      - Variomatic
+    price: €15
+    organisation: "Muziekclub 't Ey"
