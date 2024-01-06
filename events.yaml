@@ -39410,6 +39410,22 @@ events:
     price: $5
     organisation: Le Grand Bal de Chidlow
     source: events/australia/chidlow.yaml
+  - name: Grand Bal de Chidlow
+    links:
+      - "https://www.facebook.com/events/730366292384901/"
+    start: "2024-01-27T17:30:00+08:00"
+    end: "2024-01-27T21:00:00+08:00"
+    country: Australia
+    city: Chidlow
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Bal Éternel
+    price: $5
+    organisation: Le Grand Bal de Chidlow
+    source: events/australia/chidlow.yaml
   - name: Halloween Balfolk Party
     details: "Join us for a Spooktacular Halloween Balfolk Party! 🎃🦇🕸️\r\n📅 Date: October 27th\r\n🕢 Time: 19:30 - 22:00\r\nGet ready for a night of enchantment and eerie delight! Come dressed in your best black, orange, grey, or spooktacular attire to celebrate this Halloween Balfolk evening. Whether you're a witch, a ghost, or a creature of the night, your presence will only add to the enchantment.\r\n🍽️ Feel free to bring some food and/or drinks to share with fellow ghouls and other creatures in the room. Let's feast together and keep the spirits high!\r\n🎶🎻👻 The evening begins with a spine-tingling dance workshop, where you'll learn the tricks and treats of traditional Balfolk dances. From there, we'll glide seamlessly into the main dances, so you can show off your newly acquired moves with other partygoers. And to keep the night going strong, we'll wrap up with a shuffle music party that will have you dancing 'til the witching hour!\r\nDon't miss out on the chance to revel in the magic of Halloween with friends and kindred spirits. It's going to be a night to remember, filled with chills, thrills, and spine-tingling delights.\r\nMark your calendars, summon your friends, and let's make this Halloween Balfolk Party a night to remember!\r\nWe can't wait to see you there! 🎃🦇🕸️🎶💃🕺🧙‍♀️🧛‍♂️🎉\r\nEntrance: 10 bgn /cardholders-5bgn/"
     links:
@@ -45710,20 +45726,21 @@ events:
   - name: Black Mountain Balfolk
     links:
       - "https://www.facebook.com/groups/670540084748885/posts/721195359683357"
-    start: "2024-01-07T16:00:00Z"
+    start: "2024-01-07T15:00:00Z"
     end: "2024-01-07T18:00:00Z"
     country: UK
     city: Hay-on-Wye
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    price: £5-£7
     organisation: Black Mountain Balfolk
     source: events/uk/hay_on_wye.yaml
   - name: Black Mountain Balfolk
     links:
       - "https://www.facebook.com/groups/670540084748885/posts/721195359683357"
-    start: "2024-01-21T16:00:00Z"
+    start: "2024-01-21T15:00:00Z"
     end: "2024-01-21T18:00:00Z"
     country: UK
     city: Hay-on-Wye
@@ -45731,6 +45748,7 @@ events:
       - balfolk
     workshop: false
     social: true
+    price: £5-£7
     organisation: Black Mountain Balfolk
     source: events/uk/hay_on_wye.yaml
   - name: Norwich RSCDS
@@ -54772,9 +54790,9 @@ events:
     price: £5
     organisation: Badby Bals
     source: events/uk/badby_bals.yaml
-  - name: Weedon BalFolk
+  - name: La Fête des Rois
     links:
-      - "https://www.facebook.com/groups/272983599425727/posts/6882237815166906/"
+      - "https://www.facebook.com/events/7443381449019394/"
     start: "2024-01-07T14:00:00Z"
     end: "2024-01-07T17:00:00Z"
     country: UK
@@ -54783,7 +54801,9 @@ events:
       - balfolk
     workshop: false
     social: true
-    price: £5
+    bands:
+      - Sawney White Bird
+    price: £6
     organisation: Badby Bals
     source: events/uk/badby_bals.yaml
   - name: Bal Étoile
