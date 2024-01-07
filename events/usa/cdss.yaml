@@ -1,183 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: TECDA Friday Evening Dance
-    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
-    links:
-      - "https://www.tecda.ca/weekly_dances.html"
-      - "https://cdss.org/event/tecda-friday-evening-dance/2024-01-05/"
-    start: "2024-01-05T19:00:00-05:00"
-    end: "2024-01-05T21:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: Toronto
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Alan Rosenthal
-      - Cathy Campbell
-      - Dave Berman
-      - Walter Zagorski
-    organisation: Toronto English Country Dance Assembly
-  - name: Friday Night English Dance
-    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
-    links:
-      - "https://cdss.org/event/pcdc-friday-night-english-dance/2024-01-05/"
-    start: "2024-01-05T19:30:00-08:00"
-    end: "2024-01-05T22:30:00-08:00"
-    country: USA
-    state: OR
-    city: Portland
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: CDSS
-  - name: Quiet Corner Contra Dance
-    details: "New Time: Dance 7:30-10:30pm [basics session 7:15 pm]\nThis is so wicked fun! We dance to the fiddle tunes of Ireland, Scotland, England, France, and Appalachia and we often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time! So come enjoy the friendly camaraderie, dance to live music and see everyone’s smiling faces!!\nClothing & Footwear: Clothing is casual, layers are best for this invigorating exercise. Please wear non-street shoes that move easily on the floor (rubber soled sneaker are discouraged).\nFood: Some snacks offered at the break and contributions are welcome and needed!\nCaller: Jim Gregory. Jim of West Hartford, CT, works with bands from CT, MA, and NY. So most of the Northeast is within their accustomed range of travel. The private lessons are available more locally, from Central CT to Springfield, MA. When you contact us we can talk over rates and dates. \nLive Music: Kingfischer! An energetic Boston-based contra dance duo, consisting of Cecilia Vacanti (fiddle) and Jeff Kaufman (piano, mandolin, drums, synths). They fuse New England roots with a modern groove. They promise a versatile mix of supremely danceable tunes!\nAdmission: $12.00 per person OR students (with ID, please) are asked to pay $6. *Donations are greatly appreciated and encouraged!\nFree Parking: There is plenty of free parking right in front of the hall.\nRole Terms: “Ladies & Gents,” but all dancers are welcome to dance whichever role their heart desires."
-    links:
-      - "http://www.hcdance.org/quiet-corner-contra/"
-      - "https://cdss.org/event/quiet-corner-contra-dance/"
-    start: "2024-01-05T19:30:00-05:00"
-    end: "2024-01-05T22:30:00-05:00"
-    country: USA
-    state: CT
-    city: Coventry
-    styles:
-      - contra
-    workshop: true
-    social: true
-    price: $6-$12
-    organisation: Hartford Community Dance
-  - name: Friday Night Contra & Square Dance
-    details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
-    links:
-      - "https://fsgw.org/Friday-contra-square-dance"
-      - "https://cdss.org/event/friday-night-contra-square-dance/2024-01-05/"
-    start: "2024-01-05T20:00:00-05:00"
-    end: "2024-01-05T23:00:00-05:00"
-    country: USA
-    state: MD
-    city: Glen Echo
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: Folklore Society of Greater Washington
-  - name: Montpelier Contra Dance
-    details: "Steve Zakon-Anderson calling to tunes by The Turning Stile (Joanne Garton and Aaron Marcus). \n\nBeginners, singles, and all ages are welcome; all dances are taught. \nGender-neutral role terms. \nNewcomers’ lesson 7:40 pm. Dancing 8-11pm. \nPlease bring clean soft-soled shoes. \nMore info on our website. \n$12 adults, $5 kids/low-income, $20 dance supporters. \nQuestions? 802-225-8921 or cdu.tim@gmail.com \nDancing every 1st, 3rd, and 5th Saturday."
-    links:
-      - "https://capitalcitygrange.org/dancing/contradancing/"
-      - "https://cdss.org/event/montpelier-contra-dance-2/"
-    start: "2024-01-06T08:00:00-05:00"
-    end: "2024-01-06T23:00:00-05:00"
-    country: USA
-    state: VT
-    city: Berlin
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - The Turning Stile
-    callers:
-      - Steve Zakon-Anderson
-    price: $5-$20
-    organisation: Montpelier Contra Dance
-  - name: English Dance S.A.
-    details: English Country Dancing in San Antonio for the first time since the pandemic! New location. Recorded music until our band is ready!
-    links:
-      - "https://cdss.org/event/english-dance-s-a/2024-01-06/"
-    start: "2024-01-06T16:00:00-05:00"
-    end: "2024-01-06T18:00:00-05:00"
-    country: USA
-    state: TX
-    city: San Antonio
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: English Dance S.A.
-  - name: Old Tyme Contra & Community Dance
-    details: "First Saturday of every month: lesson at 6:30, dance 7-9pm.\nLive band and dance caller for contras, squares, round, and fun crazy family dances, too.\nBeginners are welcome! No need to bring a partner, but you are welcome to do so.\nChildren over age 8 who are game to participate may also attend.\nBring a closed water container and a snack if you choose.\nSmooth-soled shoes work best on the Library’s wonderful wood floor.\nPlease do not wear perfume or scents to the dances."
-    links:
-      - "https://cdss.org/event/old-tyme-contra-community-dance-of-macon-county-nc/2024-01-06/"
-    start: "2024-01-06T18:30:00-05:00"
-    end: "2024-01-06T21:00:00-05:00"
-    country: USA
-    state: NC
-    city: Franklin
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: Friends of Contra Dance of Macon County
-  - name: Goshen Community Contra Dance
-    details: "Contra Dance with live music and caller. \nThe dance will be held at Goshen First Church, 215 South St., Goshen, IN. \nGeneral Public: Non-members $8, Members $6\nStudents: Non-members $5, Members $3\nChildren under 12: Free\nFamily maximum cost: $18 \nNo experience or partner needed and all dances are led by experienced callers. \nNew dancers are always welcome and are invited to the free beginners workshop at 6:30pm."
-    links:
-      - "http://godancing.org/"
-      - "https://cdss.org/event/goshen-community-contra-dance-2/2024-01-06/"
-    start: "2024-01-06T19:00:00-05:00"
-    end: "2024-01-06T22:00:00-05:00"
-    country: USA
-    state: IN
-    city: Goshen
-    styles:
-      - contra
-    workshop: true
-    social: true
-    price: $3-$8
-    organisation: Goshen Community Contra Dance
-  - name: First Saturday Contra Dance
-    details: "The Monadnock Folklore Society presents the Peterborough, NH First Saturday Contra Dance on the first Saturday with different musicians and callers every month.  \nThe dancing begins at 8:00 PM, with an introductory workshop beginning at 7:30. Sliding scale admission is  $12 – 20. \nWe also host an open jam session for beginning and intermediate musicians from 6:45 – 7:30 PM. \nThe Monadnock Folklore Society has presented contra dances and concerts of traditional music since 1982."
-    links:
-      - "https://cdss.org/event/first-saturday-contra-dance-in-peterborough-nh/2024-01-06/"
-    start: "2024-01-06T19:30:00-05:00"
-    end: "2024-01-06T22:00:00-05:00"
-    country: USA
-    state: NH
-    city: Peterborough
-    styles:
-      - contra
-    workshop: true
-    social: true
-    price: $12
-    organisation: CDSS
-  - name: Worcester Potluck & Contra Dance
-    details: "One-time change to 1st Saturday, not 2nd Saturday!\nPotluck 6:00 – 7:00 Bring food to share!\nDance 7:30-10:30 pm [Intro session 7:15 pm]\nThis is so wicked fun! We dance to the fiddle tunes of Ireland, Scotland, England, France, and Appalachia and we often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time!\nCaller: Jordan Kammeyer\nLive Music by The Fiddling Thomsons, who are winners of the 2023 New Hampshire Governor’s Arts Award!\nAdmission: (your choice) $10 – $12 p.p., $6 – $8 students, families $25. Donations are gratefully appreciated!\nParking: There is plenty of parking behind the church by driving up State Street or up Gertrude Street.\nFood: Donations of snacks for the break are wanted and gleefully appreciated!\nClothing & Footwear: Clothing is casual. Please wear non-street shoes that move easily on the floor (rubber-soled sneakers are discouraged, but some do wear them even though it makes dancing harder).\nRole Terms are “Women & Men,” but dancers are welcome to choose whatever role that works for them with no worries."
-    links:
-      - "https://cdss.org/event/worcester-potluck-contra-dance/"
-    start: "2024-01-06T19:30:00-05:00"
-    end: "2024-01-06T22:30:00-05:00"
-    country: USA
-    state: MA
-    city: Worcester
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - The Fiddling Thomsons
-    callers:
-      - Jordan Kammeyer
-    price: $6-$25
-    organisation: CDSS
-  - name: Ottawa Contra Dance
-    details: "Join Ottawa Contra Dance every 1st and 3rd Saturday, September – June. Dances are called using Larks and Robins. Admission by sliding scale."
-    links:
-      - "https://ottawacontra.ca/"
-      - "https://cdss.org/event/ottawa-contra-dance/2024-01-06/"
-    start: "2024-01-06T19:30:00-05:00"
-    end: "2024-01-06T23:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: Ottawa
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Ottawa Contra Dance
   - name: Contra Dance in Mississippi
     details: This dance will have live music! It’s $10 for adults and $5 for kids.
     links:
@@ -302,6 +124,22 @@ events:
     workshop: true
     social: true
     organisation: CDSS
+  - name: "NEFFA's Ralph Page Dance Weekend"
+    details: "The NEFFA’s Ralph Page Dance Weekend registration is open! \nMark January 12th and 13th on your calendar for the 36th Ralph Page Dance Event! The 2024 RPDE will be held at the Wesley United Methodist Church in Worcester (where the monthly Worcester dance takes place). \nThis year we will begin on Friday January 12th, an evening with Tod Whittemore calling to the music of the Sugar River Band. \nThen on Saturday, January 13th, Lisa Greenleaf and Dudley Laufman will lead us in dance, music and levity with the Canterbury Country Dance Orchestra, Jordan Tirrell-Wysocki, Vince O’Donnell and Sue Hunt providing the music. As always, it will be a grand time (with a Grand March!) with a special tribute to the lifetime achievements of Dudley Laufman and Vince O’Donnell. Watch for details in future emails, the Ralph Page Section on the NEFFA website and on Facebook – Ralph Page Dance Weekend. \nWhy Worcester? After an extensive search, the Wesley United Methodist Church in Worcester met all our criteria (excellent dance and workshop spaces, easy access to major roads) and, most importantly, the Wesley United Methodist Church is enthusiastically embracing the event. \nWhile RPDE may be changing locations, it is still focused on what we do best: preserving our heritage of New England dance and fostering a community of dancers eager to keep these traditions alive."
+    links:
+      - "https://cdss.org/event/neffas-ralph-page-dance-weekend/2024-01-12/1/"
+    start: "2024-01-12T08:00:00-05:00"
+    end: "2024-01-13T17:00:00-05:00"
+    country: USA
+    state: MA
+    city: Worcester
+    styles:
+      - contra
+    workshop: false
+    social: true
+    callers:
+      - Lisa Greenleaf
+    organisation: Ralph Page Organizing Team
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
     links:
@@ -393,6 +231,22 @@ events:
     workshop: true
     social: true
     organisation: Dave Bateman
+  - name: "NEFFA's Ralph Page Dance Weekend"
+    details: "The NEFFA’s Ralph Page Dance Weekend registration is open! \nMark January 12th and 13th on your calendar for the 36th Ralph Page Dance Event! The 2024 RPDE will be held at the Wesley United Methodist Church in Worcester (where the monthly Worcester dance takes place). \nThis year we will begin on Friday January 12th, an evening with Tod Whittemore calling to the music of the Sugar River Band. \nThen on Saturday, January 13th, Lisa Greenleaf and Dudley Laufman will lead us in dance, music and levity with the Canterbury Country Dance Orchestra, Jordan Tirrell-Wysocki, Vince O’Donnell and Sue Hunt providing the music. As always, it will be a grand time (with a Grand March!) with a special tribute to the lifetime achievements of Dudley Laufman and Vince O’Donnell. Watch for details in future emails, the Ralph Page Section on the NEFFA website and on Facebook – Ralph Page Dance Weekend. \nWhy Worcester? After an extensive search, the Wesley United Methodist Church in Worcester met all our criteria (excellent dance and workshop spaces, easy access to major roads) and, most importantly, the Wesley United Methodist Church is enthusiastically embracing the event. \nWhile RPDE may be changing locations, it is still focused on what we do best: preserving our heritage of New England dance and fostering a community of dancers eager to keep these traditions alive."
+    links:
+      - "https://cdss.org/event/neffas-ralph-page-dance-weekend/2024-01-12/2/"
+    start: "2024-01-12T19:30:00-05:00"
+    end: "2024-01-12T22:30:00-05:00"
+    country: USA
+    state: MA
+    city: Worcester
+    styles:
+      - contra
+    workshop: false
+    social: true
+    callers:
+      - Lisa Greenleaf
+    organisation: Ralph Page Organizing Team
   - name: Friday Night Contra & Square Dance
     details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
     links:
@@ -408,6 +262,38 @@ events:
     workshop: true
     social: true
     organisation: Folklore Society of Greater Washington
+  - name: Ralph Page Dance Weekend (Saturday)
+    details: "A day of dance, workshops & fun. \nLisa Greenleaf and Dudley Laufman will lead us in dance, music and levity with the Canterbury Country Dance Orchestra, Jordan Tirrell-Wysocki, Vince O’Donnell and Sue Hunt providing the music. As always, it will be a grand time (with a Grand March!) with a special tribute to the lifetime achievements of Dudley Laufman and Vince O’Donnell.  \nRegister here until Monday evening, January 8th. \nWeekend schedule is here."
+    links:
+      - "https://cdss.org/event/ralph-page-dance-weekend-saturday/"
+    start: "2024-01-13T10:00:00-05:00"
+    end: "2024-01-13T22:00:00-05:00"
+    country: USA
+    state: MA
+    city: Worcester
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Lisa Greenleaf
+    organisation: CDSS
+  - name: "NEFFA's Ralph Page Dance Weekend"
+    details: "The NEFFA’s Ralph Page Dance Weekend registration is open! \nMark January 12th and 13th on your calendar for the 36th Ralph Page Dance Event! The 2024 RPDE will be held at the Wesley United Methodist Church in Worcester (where the monthly Worcester dance takes place). \nThis year we will begin on Friday January 12th, an evening with Tod Whittemore calling to the music of the Sugar River Band. \nThen on Saturday, January 13th, Lisa Greenleaf and Dudley Laufman will lead us in dance, music and levity with the Canterbury Country Dance Orchestra, Jordan Tirrell-Wysocki, Vince O’Donnell and Sue Hunt providing the music. As always, it will be a grand time (with a Grand March!) with a special tribute to the lifetime achievements of Dudley Laufman and Vince O’Donnell. Watch for details in future emails, the Ralph Page Section on the NEFFA website and on Facebook – Ralph Page Dance Weekend. \nWhy Worcester? After an extensive search, the Wesley United Methodist Church in Worcester met all our criteria (excellent dance and workshop spaces, easy access to major roads) and, most importantly, the Wesley United Methodist Church is enthusiastically embracing the event. \nWhile RPDE may be changing locations, it is still focused on what we do best: preserving our heritage of New England dance and fostering a community of dancers eager to keep these traditions alive."
+    links:
+      - "https://cdss.org/event/neffas-ralph-page-dance-weekend/2024-01-13/"
+    start: "2024-01-13T10:00:00-05:00"
+    end: "2024-01-13T22:00:00-05:00"
+    country: USA
+    state: MA
+    city: Worcester
+    styles:
+      - contra
+    workshop: false
+    social: true
+    callers:
+      - Lisa Greenleaf
+    organisation: Ralph Page Organizing Team
   - name: English Country Dance Lessons
     details: "Series of 5 classes in preparation for a Valentine’s ECD demo on Feb 10, 2024."
     links:
@@ -421,4 +307,91 @@ events:
       - ecd
     workshop: false
     social: true
+    organisation: CDSS
+  - name: Zesty Contra Dance
+    details: The Zesty contra dance is for dancers with some experience with dancing. There is no lesson before the dance; and easier dances may be called with no walk through.
+    links:
+      - "https://cdss.org/event/zesty-contra-dance/2024-01-13/"
+    start: "2024-01-13T19:00:00-07:00"
+    end: "2024-01-13T22:00:00-07:00"
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Colorado Friends of Old Time Music and Dance
+  - name: 2nd Saturdays Contra Dance
+    details: "Our Saturday night series at Fulton Hall continues! Dances called using gender-neutral terms. All folks must be vaxxed, boosted, and masked.  \nIf you have not been to a PCDC event since 2020, you can help expedite the entry process by filling out our contact tracing form. \n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."
+    links:
+      - "https://cdss.org/event/portland-country-dance-community-2nd-saturdays-contra-dance/2024-01-13/"
+    start: "2024-01-13T19:00:00-08:00"
+    end: "2024-01-13T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Portland Country Dance Community
+  - name: English Country Dance in Dallas
+    details: Monthly English Country Dance
+    links:
+      - "https://cdss.org/event/english-country-dance-in-dallas/2024-01-13/"
+    start: "2024-01-13T19:30:00-06:00"
+    end: "2024-01-13T22:30:00-06:00"
+    country: USA
+    state: TX
+    city: Dallas
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: North Texas Traditional Dance Society (NTTDS)
+  - name: North Alabama Country Dance Society - Contra Dance
+    details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
+    links:
+      - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2024-01-13/"
+    start: "2024-01-13T19:30:00-06:00"
+    end: "2024-01-13T23:00:00-06:00"
+    country: USA
+    state: AL
+    city: Huntsville
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10-$15
+    organisation: CDSS
+  - name: TADAMS 2nd Sunday Afternoon Contra Dance
+    details: "Join the Richmond VA contra dance, hosted by TADAMS, in the beautiful historic Ginter Hall on 2nd Sunday afternoons. Beginner lesson at 1:45pm; dance from 2:30-5:30. Check our full calendar for caller and band details. Admission is $15 non-members, $10 members and students, children under 13 are free.  \n "
+    links:
+      - "https://cdss.org/event/tadams-2nd-sunday-afternoon-contra-dance/2024-01-14/"
+    start: "2024-01-14T14:30:00-05:00"
+    end: "2024-01-14T17:30:00-05:00"
+    country: USA
+    state: VA
+    city: Richmond
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: TADAMS (Traditional American Dance and Music Society)
+  - name: "Dance, Sing, and Jump Around"
+    details: "A family dance for all ages—all dances are taught and called, to live music. Children are free. There is a suggested donation of $5 per adult, but NO ONE is turned away. The location is the Capital City Grange Hall on Rte. 12 in Berlin, Vermont."
+    links:
+      - "https://cdss.org/event/dance-sing-and-jump-around/2024-01-14/"
+    start: "2024-01-14T15:00:00-05:00"
+    end: "2024-01-14T16:30:00-05:00"
+    country: USA
+    state: VT
+    city: Berlin
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5
     organisation: CDSS
