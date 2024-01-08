@@ -1,20 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Nieuwjaarsbal(folk)
-    details: "Gott Folk! (Jos Koning & Leo de Kruis) organiseert en Nijmegen-Noord een nieuwjaarsbal.\nGott Folk!  is sinds kort ook actief als balfolk-duo.\n\nDe toegang is gratis, maar een gulle gift voor de muzikanten is uiterst welkom."
-    links:
-      - "https://www.balfolk.nl/agenda/nieuwjaarsbalfolk/"
-    start: "2024-01-07T19:45:00+01:00"
-    end: "2024-01-07T22:00:00+01:00"
-    country: Netherlands
-    city: Lent
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Gott Folk!
-    organisation: balfolk.nl
   - name: Proefles 🇳🇱/🇬🇧 — Balfolk Utrecht — Winter Classes
     details: "Voor de proefles hoef je niet te registreren. Voor registreren en meer informatie, klik op 'Meer info' boven. De voorjaarslessen voor beginners en begonners (pre-intermediairs) starten op 8 of 15 april.\n\nYou do not have to register for the trial lesson. For registration and more information, click on 'Meer info' above. Spring classes for beginners and pre-intermediates will start at 8th or 15th of april."
     links:
@@ -339,7 +324,7 @@ events:
     social: true
     organisation: balfolk.nl
   - name: Afsluitend bal bij Balfolk Express
-    details: "Op dinsdag 30 januari 2024 is de laatste les van het seizoen bij Balfolk Express. We sluiten dit af met een openbaar bal. Ook jij bent welkom. Deze keer komt Olivier Cap spelen met zijn solo band: Le p'tit Bal à Oli.\n\nToegang:\n€12,50\n\nReserveren:\nJe kan hier je kaartjes reserveren via de site van Balfolk Express\n\n \n\nOver de band Le p'tit Bal à Oli:\nOlivier Cap is al jaren een grote naam in Wallonië. Het is de eerste keer dat hij speelt in Nederland. Zelf schrijft hij over zijn muziek:\n\n. . . Het leven met zijn mooie momenten, zijn teleurstellingen, verbazingwekkende ontmoetingen, momenten van eenzaamheid, van melancholie, maar ook met momenten van intens geluk. . .\nIk bezorg je dit met de toppen van mijn vingers, met muziek. . .\nMijn eigen melodieën. En misschien is er hier en daar meer te ontdekken. . .\n\nWil je alvast luisteren naar zijn muziek? Klik dan hier.\n\n \n\nTijden:\nDeuren open: 20:15\nStart band: 20:30\nSluiten zaal: 22:45\n\nAdres:\nCafé Tropical\nVerlengde Hooggravenseweg 203, Utrecht\n\nBereikbaarheid:\nEr zijn beperkt aantal plekken vrij op het terrein voor auto’s. Is het vol kan je buiten het terrein ook gratis staan.\nDe locatie is goed bereikbaar met het openbaar vervoer of met de fiets."
+    details: "Op dinsdag 30 januari 2024 is de laatste les van het seizoen bij Balfolk Express. We sluiten dit af met een openbaar bal. Ook jij bent welkom. Deze keer komt Olivier Cap spelen met zijn solo band: Le p'tit Bal à Oli.\n\nToegang:\n€12,50\n\nKaartjes:\nJe kan hier je kaartjes kopen via de site van Balfolk Express\n\n \n\nOver de band Le p'tit Bal à Oli:\nOlivier Cap is al jaren een grote naam in Wallonië. Het is de eerste keer dat hij speelt in Nederland. Zelf schrijft hij over zijn muziek:\n\n. . . Het leven met zijn mooie momenten, zijn teleurstellingen, verbazingwekkende ontmoetingen, momenten van eenzaamheid, van melancholie, maar ook met momenten van intens geluk. . .\nIk bezorg je dit met de toppen van mijn vingers, met muziek. . .\nMijn eigen melodieën. En misschien is er hier en daar meer te ontdekken. . .\n\nWil je alvast luisteren naar zijn muziek? Klik dan hier.\n\n \n\nTijden:\nDeuren open: 20:15\nStart band: 20:30\nSluiten zaal: 22:45\n\nAdres:\nCafé Tropical\nVerlengde Hooggravenseweg 203, Utrecht\n\nBereikbaarheid:\nEr zijn beperkt aantal plekken vrij op het terrein voor auto’s. Is het vol kan je buiten het terrein ook gratis staan.\nDe locatie is goed bereikbaar met het openbaar vervoer of met de fiets."
     links:
       - "https://www.balfolk.nl/agenda/afsluitend-bal-bij-balfolk-express-2/"
     start: "2024-01-30T20:30:00+01:00"
@@ -669,6 +654,21 @@ events:
       - balfolk
     workshop: true
     social: true
+    organisation: balfolk.nl
+  - name: Mazurka Legitima
+    details: "Details volgen, maar zorg dat deze in je agenda staat!\n\n \n\nLine-up: Rémi Geffroy en Geronimo (Jeroen Geerinck)\n\nLocatie: Weer op de prachtige vloer van Dans Hotspot Zaandam"
+    links:
+      - "https://www.balfolk.nl/agenda/mazurka-legitima/"
+    start_date: 2024-03-09
+    end_date: 2024-03-09
+    country: Netherlands
+    city: Zaandam
+    styles:
+      - balfolk
+    workshop: false
+    social: false
+    bands:
+      - Geronimo
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
