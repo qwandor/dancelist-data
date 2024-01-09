@@ -1,20 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Monday Contra Dance
-    details: "What better way to start the week? Only $3! It’s Monday, and we (almost) always dance on Monday."
-    links:
-      - "https://cdss.org/event/monday-contra-dance-in-nelson-nh/2024-01-08/"
-    start: "2024-01-08T19:30:00-05:00"
-    end: "2024-01-08T22:00:00-05:00"
-    country: USA
-    state: NH
-    city: Nelson
-    styles:
-      - contra
-    workshop: false
-    social: true
-    price: $3
-    organisation: CDSS
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
     links:
@@ -407,4 +392,19 @@ events:
       - contra
     workshop: false
     social: true
+    organisation: CDSS
+  - name: Monday Contra Dance
+    details: "What better way to start the week? Only $3! It’s Monday, and we (almost) always dance on Monday."
+    links:
+      - "https://cdss.org/event/monday-contra-dance-in-nelson-nh/2024-01-15/"
+    start: "2024-01-15T19:30:00-05:00"
+    end: "2024-01-15T22:00:00-05:00"
+    country: USA
+    state: NH
+    city: Nelson
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $3
     organisation: CDSS
