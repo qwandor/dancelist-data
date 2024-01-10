@@ -5001,7 +5001,7 @@ events:
     bands:
       - Nebel
     price: €8
-    organisation: ~
+    organisation: Ol Da Folk Brugge
   - name: Queimada
     details: Ball
     links:
@@ -13019,7 +13019,7 @@ events:
       - balfolk
     workshop: true
     social: true
-    organisation: ~
+    organisation: Ol Da Folk Brugge
   - name: Bal Experience
     details: Ball
     links:
@@ -13106,7 +13106,7 @@ events:
     social: true
     bands:
       - Naragonia Quartet
-    organisation: ~
+    organisation: Ol Da Folk Brugge
   - name: Branle Béarnais & Rondeau En Chaîne
     details: Course
     links:
@@ -13463,14 +13463,14 @@ events:
     social: false
     price: donation
     organisation: Stanistil
-  - name: Folkbal
+  - name: Carnabal
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://fb.me/e/34szDQGgO"
+      - "https://www.facebook.com/events/341882461956488/"
       - "https://folkbalbende.be/event/2091"
-    start_date: 2024-02-17
-    end_date: 2024-02-17
+    start: 2024-02-17T15:00:00+01:00
+    end: 2024-02-17T18:00:00+01:00
     country: Belgium
     city: Namur
     styles:
@@ -13478,39 +13478,41 @@ events:
     workshop: false
     social: true
     organisation: ~
-  - name: Bal
+  - name: Swedish dance workshop and bal
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://duo-noordwest.nl/"
+      - "http://duo-noordwest.nl/NL/NWnl-nws%2020240204%2077%20N.htm"
       - "https://folkbalbende.be/event/2093"
-    start_date: 2024-02-04
-    end_date: 2024-02-04
+    start: 2024-02-04T13:30:00+01:00
+    end: 2024-02-04T19:30:00+01:00
     country: Belgium
     city: Watermael-Boitsfort
     styles:
-      - balfolk
-    workshop: false
+      - scandi
+    workshop: true
     social: true
     bands:
-      - SuéDois      Duo Noordwest
-    organisation: ~
+      - Duo Noordwest
+    price: €25
+    organisation: Duo Noordwest
   - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://oliviercap.be/"
       - "https://folkbalbende.be/event/2094"
-    start_date: 2024-02-18
-    end_date: 2024-02-18
+    start: 2024-02-18T16:30:00+01:00
+    end: 2024-02-18T21:00:00+01:00
     country: Belgium
     city: Watermaal-Bosvoorde
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Olivier Cap
+    price: €10
     organisation: ~
   - name: Baleynbal
     details: Ball
@@ -13535,33 +13537,34 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.facebook.com/BamakoXpress/"
       - "https://folkbalbende.be/event/2096"
-    start_date: 2024-03-17
-    end_date: 2024-03-17
+    start: 2024-03-17T16:30:00+01:00
+    end: 2024-03-17T21:00:00+01:00
     country: Belgium
     city: Watermaal-Bosvoorde
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Bamako Express
+    price: €10
     organisation: ~
   - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.facebook.com/groups/691175229682313/"
       - "https://folkbalbende.be/event/2097"
-    start_date: 2024-04-21
-    end_date: 2024-04-21
+    start: 2024-04-21T16:30:00+02:00
+    end: 2024-04-21T21:00:00+02:00
     country: Belgium
     city: Watermaal-Bosvoorde
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Flic Flac Folk
+    price: €10
     organisation: ~
   - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
@@ -13569,16 +13572,17 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.facebook.com/toutboutdchant/"
       - "https://folkbalbende.be/event/2098"
-    start_date: 2024-05-26
-    end_date: 2024-05-26
+    start: 2024-05-26T16:30:00+02:00
+    end: 2024-05-26T21:00:00+02:00
     country: Belgium
     city: Watermaal-Bosvoorde
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - "Tout Bout D'Chants"
+    price: €10
     organisation: ~
   - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
@@ -13586,31 +13590,17 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.facebook.com/profile.php?id=100082530321424"
       - "https://folkbalbende.be/event/2099"
-    start_date: 2024-06-23
-    end_date: 2024-06-23
+    start: 2024-06-23T16:30:00+02:00
+    end: 2024-06-23T21:00:00+02:00
     country: Belgium
     city: Watermaal-Bosvoorde
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Caminarem
-    organisation: ~
-  - name: Boombal Festival
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.boombalfestival.be/"
-      - "https://folkbalbende.be/event/2100"
-    start_date: 2024-08-22
-    end_date: 2024-08-22
-    country: Belgium
-    city: Dranouter
-    styles:
-      - balfolk
-    workshop: false
-    social: true
+    price: €10
     organisation: ~
   - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
@@ -13618,13 +13608,13 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.accordart.be/bouton"
       - "https://folkbalbende.be/event/2101"
-    start_date: 2024-10-20
-    end_date: 2024-10-20
+    start: 2024-10-20T16:30:00+02:00
+    end: 2024-10-20T21:00:00+02:00
     country: Belgium
     city: Watermaal-Bosvoorde
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Bouton
@@ -13635,13 +13625,13 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://lesentetes.com/tralala-lovers/"
       - "https://folkbalbende.be/event/2102"
-    start_date: 2024-11-17
-    end_date: 2024-11-17
+    start: 2024-11-17T16:30:00+01:00
+    end: 2024-11-17T21:00:00+01:00
     country: Belgium
     city: Watermaal-Bosvoorde
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Tralala Lovers
@@ -13652,13 +13642,13 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.facebook.com/people/Les-Kickeuses/100073524888492/"
       - "https://folkbalbende.be/event/2103"
-    start_date: 2024-12-15
-    end_date: 2024-12-15
+    start: 2024-12-15T16:30:00+01:00
+    end: 2024-12-15T21:00:00+01:00
     country: Belgium
     city: Watermaal-Bosvoorde
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Les Kickeuses
