@@ -1,35 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: English Country Dance
-    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
-    links:
-      - "https://cdss.org/event/english-country-dance-asheville-nc/2024-01-10/"
-    start: "2024-01-10T19:00:00-05:00"
-    end: "2024-01-10T21:00:00-05:00"
-    country: USA
-    state: NC
-    city: Asheville
-    styles:
-      - ecd
-    workshop: true
-    social: true
-    organisation: Luanne Stiles
-  - name: Richmond Wednesday English Country Dance
-    details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm."
-    links:
-      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
-      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2024-01-10/"
-    start: "2024-01-10T19:30:00-05:00"
-    end: "2024-01-10T21:30:00-05:00"
-    country: USA
-    state: VA
-    city: Henrico
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    price: $2
-    organisation: Colonial Dance Club of Richmond
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
@@ -409,3 +379,17 @@ events:
     workshop: false
     social: true
     organisation: Williamsburg Heritage Dancers
+  - name: English Country Dance
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
+    links:
+      - "https://cdss.org/event/english-country-dance-asheville-nc/2024-01-17/"
+    start: "2024-01-17T19:00:00-05:00"
+    end: "2024-01-17T21:00:00-05:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: Luanne Stiles
