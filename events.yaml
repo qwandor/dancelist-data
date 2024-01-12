@@ -11180,6 +11180,20 @@ events:
     price: 80kr
     organisation: Skönborgs Folkdanslag
     source: events/sweden/sundsvall.yaml
+  - name: Hovrastämman
+    links:
+      - "https://www.hovrastamman.com/"
+      - "https://www.facebook.com/events/1055460388803392/"
+    start: "2024-05-09T12:00:00+02:00"
+    end: "2024-05-12T10:00:00+02:00"
+    country: Sweden
+    city: Korskrogen
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    organisation: Hovrastämman
+    source: events/sweden/korskrogen.yaml
   - name: Ransätersstämman
     links:
       - "https://ransatersstamman.se/"
