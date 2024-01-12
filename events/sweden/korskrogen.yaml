@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Hovrastämman
+    links:
+      - "https://www.hovrastamman.com/"
+      - "https://www.facebook.com/events/1055460388803392/"
+    start: "2024-05-09T12:00:00+02:00"
+    end: "2024-05-12T10:00:00+02:00"
+    country: Sweden
+    city: Korskrogen
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    organisation: Hovrastämman
