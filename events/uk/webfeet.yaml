@@ -1,37 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "Peeping Tom in Chandler's Ford"
-    links:
-      - "http://www.shocc.co.uk/"
-    start_date: 2023-10-14
-    end_date: 2023-10-14
-    country: UK
-    city: "Chandler's Ford"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Peeping Tom
-    callers:
-      - Fee Lock
-    organisation: Webfeet
-  - name: "Granny's Attic in Kennington"
-    links:
-      - "http://www.oxfolk.org.uk/"
-    start_date: 2023-10-14
-    end_date: 2023-10-14
-    country: UK
-    city: Kennington
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Granny's Attic"
-    callers:
-      - Erin Mansfield
-    organisation: Webfeet
   - name: Arish Mel in Corfe Castle
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -77,20 +45,6 @@ events:
     social: true
     bands:
       - Arish Mel
-    organisation: Webfeet
-  - name: Stumpy Oak in Kennington
-    links:
-      - "http://www.oxfolk.org.uk/"
-    start_date: 2023-11-11
-    end_date: 2023-11-11
-    country: UK
-    city: Kennington
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Stumpy Oak
     organisation: Webfeet
   - name: "Cat's Claw in Cardiff"
     links:
@@ -204,7 +158,6 @@ events:
   - name: Chalktown in Kennington
     links:
       - "http://www.chalktown.co.uk/chalkgigs.html#D.20231209"
-      - "http://www.oxfolk.org.uk/"
     start_date: 2023-12-09
     end_date: 2023-12-09
     country: UK
@@ -217,7 +170,6 @@ events:
       - Chalktown
     callers:
       - Caller Nick Walden
-      - Nick Walden
     organisation: Webfeet
   - name: "Melrose Quintet in Chandler's Ford"
     links:
@@ -254,7 +206,6 @@ events:
     links:
       - "http://www.oxfordnags.co.uk/"
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
-      - "https://www.areyoudancing.com/dance-event/681216/"
     start_date: 2023-12-31
     end_date: 2023-12-31
     country: UK
@@ -297,19 +248,19 @@ events:
     bands:
       - Catsfield Steamers
     organisation: Webfeet
-  - name: Oggle Band in Great Torrington
+  - name: Bof! in Saxmundham
     links:
-      - "http://devonfolk.org/events-diary/"
+      - "https://www.facebook.com/events/1994652477572273"
     start_date: 2024-01-06
     end_date: 2024-01-06
     country: UK
-    city: Great Torrington
+    city: Saxmundham
     styles:
-      - e-ceilidh
+      - balfolk
     workshop: false
     social: true
     bands:
-      - Oggle Band
+      - Bof!
     organisation: Webfeet
   - name: "sessionista in Bath French, Bath"
     links:
@@ -324,20 +275,6 @@ events:
     social: true
     bands:
       - sessionista
-    organisation: Webfeet
-  - name: Striding Edge in Penrith
-    links:
-      - "http://www.striding-edge.org/diary/"
-    start_date: 2024-01-07
-    end_date: 2024-01-07
-    country: UK
-    city: Penrith
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Striding Edge
     organisation: Webfeet
   - name: regular band in Abergavenny
     links:
@@ -447,6 +384,7 @@ events:
     organisation: Webfeet
   - name: Melobo in Kennington
     links:
+      - "http://www.oxfolk.org.uk/"
       - "http://mister.red/dance/oxford.htm#D.FR.20240113"
     start_date: 2024-01-13
     end_date: 2024-01-13
@@ -463,6 +401,7 @@ events:
     organisation: Webfeet
   - name: Seend Community Centre Ceilidh
     links:
+      - "https://eceilidh.org.uk/cps/gigs/random-42f72e.php"
       - "http://www.random-band.co.uk/#D.20240113"
     start_date: 2024-01-13
     end_date: 2024-01-13
@@ -589,6 +528,7 @@ events:
     links:
       - "https://www.areyoudancing.com/dance-event/677186/"
       - "https://www.efdss.org/calendar-events/13393-7d3010c11d08cf990b7614d2c2ca9098"
+      - "https://www.poyntonceilidh.co.uk/dates/"
     start_date: 2024-01-20
     end_date: 2024-01-20
     country: UK
@@ -601,6 +541,20 @@ events:
       - The Barber Band
     callers:
       - Martyn Harvey
+    organisation: Webfeet
+  - name: "Mrs Midnight's in Topsham"
+    links:
+      - "http://devonfolk.org/events-diary/"
+    start_date: 2024-01-20
+    end_date: 2024-01-20
+    country: UK
+    city: Topsham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Mrs Midnight's"
     organisation: Webfeet
   - name: sessionista in Bristol
     links:
@@ -1021,6 +975,7 @@ events:
   - name: 3 Sticks in Kennington
     links:
       - "http://mister.red/dance/oxford.htm#D.FR.20240210"
+      - "http://www.oxfolk.org.uk/"
     start_date: 2024-02-10
     end_date: 2024-02-10
     country: UK
@@ -1296,6 +1251,7 @@ events:
     links:
       - "https://www.areyoudancing.com/dance-event/677187/"
       - "https://www.efdss.org/calendar-events/13394-7417744a2bac776fabe5a09b21c707a2"
+      - "https://www.poyntonceilidh.co.uk/dates/"
     start_date: 2024-02-24
     end_date: 2024-02-24
     country: UK
@@ -1511,6 +1467,7 @@ events:
     organisation: Webfeet
   - name: This Way Up in Poynton
     links:
+      - "https://www.poyntonceilidh.co.uk/dates/"
       - "https://www.areyoudancing.com/dance-event/677188/"
       - "https://www.efdss.org/calendar-events/13395-a71378c0f8d76dbf90feeecd095d0ed9"
     start_date: 2024-03-16
@@ -1557,6 +1514,62 @@ events:
       - The Ironmasters
     callers:
       - Baz Parkes
+    organisation: Webfeet
+  - name: Banter in Woodbridge
+    links:
+      - "https://www.banter.band/gigs/"
+    start_date: 2024-03-24
+    end_date: 2024-03-24
+    country: UK
+    city: Woodbridge
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Banter
+    organisation: Webfeet
+  - name: Banter in Leicester
+    links:
+      - "https://www.banter.band/gigs/"
+    start_date: 2024-03-27
+    end_date: 2024-03-27
+    country: UK
+    city: Leicester
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Banter
+    organisation: Webfeet
+  - name: Banter in Bourne
+    links:
+      - "https://www.banter.band/gigs/"
+    start_date: 2024-03-28
+    end_date: 2024-03-28
+    country: UK
+    city: Bourne
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Banter
+    organisation: Webfeet
+  - name: Banter in Croydon
+    links:
+      - "https://www.banter.band/gigs/"
+    start_date: 2024-03-29
+    end_date: 2024-03-29
+    country: UK
+    city: Croydon
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Banter
     organisation: Webfeet
   - name: Chris Toyne in Exeter
     links:
@@ -1606,6 +1619,20 @@ events:
       - Downfielders
     callers:
       - Elaine Gillett
+    organisation: Webfeet
+  - name: Banter in Abingdon
+    links:
+      - "https://www.banter.band/gigs/"
+    start_date: 2024-04-04
+    end_date: 2024-04-04
+    country: UK
+    city: Abingdon
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Banter
     organisation: Webfeet
   - name: WillPower in Halsway Manor
     links:
@@ -1701,6 +1728,7 @@ events:
     links:
       - "https://www.areyoudancing.com/dance-event/677189/"
       - "https://www.efdss.org/calendar-events/13396-808e53023ea4a8a9d6ecbc1290580f72"
+      - "https://www.poyntonceilidh.co.uk/dates/"
     start_date: 2024-04-20
     end_date: 2024-04-20
     country: UK
@@ -1852,6 +1880,7 @@ events:
     organisation: Webfeet
   - name: Out of Hand in Kennington
     links:
+      - "http://www.oxfolk.org.uk/"
       - "http://mister.red/dance/oxford.htm#D.FR.20240511"
     start_date: 2024-05-11
     end_date: 2024-05-11
@@ -1882,6 +1911,7 @@ events:
     organisation: Webfeet
   - name: Blowzabella in Kennington
     links:
+      - "http://www.oxfolk.org.uk/"
       - "http://mister.red/dance/oxford.htm#D.FR.20240519"
     start_date: 2024-05-19
     end_date: 2024-05-19
