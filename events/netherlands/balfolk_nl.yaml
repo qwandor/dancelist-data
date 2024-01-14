@@ -1,31 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Netwerkdag Balfolkfabriek
-    details: "Op 13 januari houden we weer een netwerkdag voor alle balfolkies die zich actief voor Balfolk inzetten of een actieve rol willen spelen als vrijwilliger. De dag staat in het teken van elkaar leren kennen en ervaringen uitwisselen.\n\n12.30 - 13.00 inloop\n13:00 - 14:00 ronde 1\n14.00 - 14.30 livemuziek\n14:30 - 15:15 ronde 2\n15:15 - 15:30 pauze\n15:30 - 16:30 ronde 3 + afronding\n16:30 Borrel\n\nGeef je op via reserveren dan weten we wie er komt. Heb je specifieke verzoeken qua programma, praat mee op Discord https://discord.gg/JEr6bPHMrs of mail ons op stichting@balfolk.nl je input."
-    links:
-      - "https://www.balfolk.nl/agenda/netwerkdag-balfolkfabriek/"
-    start: "2024-01-13T12:30:00+01:00"
-    end: "2024-01-13T17:30:00+01:00"
-    country: Netherlands
-    city: Zeist
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    organisation: balfolk.nl
-  - name: Workshop Bourrée Auvergnate
-    details: "Workshop Bourrée Auvergnate met Max en Isolde, samen Trad'ici.\n\n>>Tickets<<\n\nProgramma\n\n13:45 Deur open\n14:00 Workshop\n15:00 Pauze\n15:30 Workshop\n16:30 Einde"
-    links:
-      - "https://www.balfolk.nl/agenda/workshop-bourree-auvergnate/"
-    start: "2024-01-13T14:00:00+01:00"
-    end: "2024-01-13T16:30:00+01:00"
-    country: Netherlands
-    city: Amsterdam
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    organisation: balfolk.nl
   - name: Nieuwjaarsconcert en BalFolk met MADLOT/De Trekvogels
     details: "Hallo,\n\nWij zijn Phoenix-Apeldoorn, een vereniging voor internationale dans, zang en muziek.\n\nWij zouden het heel leuk vinden als mensen die van balfolk houden op ons nieuwjaarsconcert met Bal willen komen in ons fijne danshuis De Veste. De entree is slechts 2,50.\n\nZie verder de aankondiging op onze website:\n\nhttps://www.phoenix-apeldoorn.nl/agenda/nieuwjaarsconcert-en-bal-2/\n\nVriendelijke groeten\n\nPeggy Baan"
     links:
@@ -675,6 +649,22 @@ events:
     workshop: true
     social: true
     organisation: balfolk.nl
+  - name: Balfolk Wilde Wereld Wageningen
+    details: "Balfolk in De Wilde Wereld, met huisband Madlot en strijkersgroep De Houtzagerij\nGastband deze avond is Folie du Nord, met dansmuziek uit Zweden, Frankrijk en alles daar tussen in.\nMet Els (accordeon, fluiten, viool, trombone, nyckelharpa en zang), Thomas( doedelzak, viool, trekharmonika, säckpipa, chabrette) en  Wilco (draailier, zang, doedelzak, fluiten, schalmei).\n\nWe beginnen de avond om 19.00 uur met een dansuitleg. Om 20.00 uur start het bal.\nTraditiegetrouw sluiten we het bal af met een sessie."
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-wilde-wereld-wageningen-5/"
+    start: "2024-03-16T19:00:00+01:00"
+    end: "2024-03-16T23:55:00+01:00"
+    country: Netherlands
+    city: Wageningen
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    bands:
+      - De Houtzagerij
+      - Madlot
+    organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
     links:
@@ -1174,6 +1164,19 @@ events:
     end: "2024-06-27T22:00:00+02:00"
     country: Netherlands
     city: Rotterdam
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: balfolk.nl
+  - name: DenneFeest
+    details: "DenneFeest staat weer op de planning!\n\nDe eerste gesprekken met bands en workshopdocent hebben reeds plaats gevonden maar zijn nog niet klaar om te publiceren. Binnenkort meer info!\n\nKaartverkoop verloopt via de website van Hoessenbosch theater. De kaartverkoop is op dit moment nog gesloten."
+    links:
+      - "https://www.balfolk.nl/agenda/dennefeest-5/"
+    start_date: 2024-06-29
+    end_date: 2024-06-29
+    country: Netherlands
+    city: Berghem
     styles:
       - balfolk
     workshop: true
