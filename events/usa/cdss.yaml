@@ -818,10 +818,12 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5501"
       - "https://cdss.org/event/pcdc-friday-night-english-dance/2024-01-19/"
     start: "2024-01-19T19:30:00-08:00"
     end: "2024-01-19T22:30:00-08:00"
@@ -832,13 +834,14 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $7-$15
     organisation: CDSS
   - name: Friday Night Contra & Square Dance
     details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
     links:
       - "https://fsgw.org/Friday-contra-square-dance"
       - "https://cdss.org/event/friday-night-contra-square-dance/2024-01-19/"
-    start: "2024-01-19T20:00:00-05:00"
+    start: "2024-01-19T19:30:00-05:00"
     end: "2024-01-19T23:00:00-05:00"
     country: USA
     state: MD
@@ -847,6 +850,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Folklore Society of Greater Washington
   - name: Pittsburgh Contra Dance
     details: "Come dance to the music of Amarillis and Anders with caller Bob Frederking. Complete beginners are welcome. Our free beginners lesson is at 7:30. At this dance masks are optional, but we also hold a mask-required dance each month. "
@@ -861,10 +865,15 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Amarillis & Anders
+    callers:
+      - Bob Frederking
     organisation: Pittsburgh Contra Dance
   - name: English Country Dance Lessons
     details: "Series of 5 classes in preparation for a Valentine’s ECD demo on Feb 10, 2024."
     links:
+      - "https://app.arketa.co/iframe/artofmovement/schedule/checkout/f3bzkoipJlGZ2HuxHj8B"
       - "https://cdss.org/event/english-country-dance-lessons/2024-01-20/"
     start: "2024-01-20T16:00:00-05:00"
     end: "2024-01-20T17:00:00-05:00"
@@ -873,14 +882,16 @@ events:
     city: Lorton
     styles:
       - ecd
-    workshop: false
-    social: true
+    workshop: true
+    social: false
+    price: $20
     organisation: CDSS
-  - name: "Lancaster, PA Contra Dance"
+  - name: Lancaster Contra Dance
     details: "All ages are welcome! Bring the whole family, or come on your own! No partner or prior dance experience necessary! \nBringing a water bottle is encouraged. \nCost: sliding scale $12-20+ cash only \nChildren 13 or younger dance FREE! \nA practice lesson is included in admission and takes place at 6:15pm before each dance. If you can count to 4 and walk, you can do this dance!"
     links:
+      - "https://lancastercontra.org/"
       - "https://cdss.org/event/lancaster-pa-contra-dance/2024-01-20/"
-    start: "2024-01-20T19:00:00-05:00"
+    start: "2024-01-20T18:15:00-05:00"
     end: "2024-01-20T22:00:00-05:00"
     country: USA
     state: PA
@@ -889,11 +900,12 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    price: $12-$20
     organisation: Lancaster Contra Dance
-  - name: "Contra Dance in Carrollton, TX"
+  - name: Contra Dance
     details: Monthly Contra Dance
     links:
+      - "https://www.nttds.org/"
       - "https://cdss.org/event/contra-dance-2/2024-01-20/"
     start: "2024-01-20T19:30:00-06:00"
     end: "2024-01-20T22:30:00-06:00"
@@ -904,6 +916,11 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Sibling Revelry
+    callers:
+      - Barb Smith
+    price: $5-$10
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Ottawa Contra Dance
     details: "Join Ottawa Contra Dance every 1st and 3rd Saturday, September – June. Dances are called using Larks and Robins. Admission by sliding scale."
@@ -917,14 +934,19 @@ events:
     city: Ottawa
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Odds and Sods
+    callers:
+      -  Nicholas Smith
+    price: $10-$25
     organisation: Ottawa Contra Dance
-  - name: Montpelier Contra Dance with The Gaslight Tinkers
+  - name: Montpelier Contra Dance
     details: "The Gaslight Tinkers and Adina Gordon!  \n\nBeginners, singles, and all ages are welcome; all dances are taught. \nGender-neutral role terms. \nNewcomers’ lesson 7:40 pm. Dancing 8-11pm. \nPlease bring clean soft-soled shoes. \nMore info at our website. \n$12 adults, $5 kids/low-income, $20 dance supporters. \nQuestions? 802-225-8921 or cdu.tim@gmail.com \nDancing every 1st, 3rd, and 5th Saturday."
     links:
       - "https://cdss.org/event/montpelier-contra-dance-with-the-gaslight-tinkers/"
-    start: "2024-01-20T20:00:00-05:00"
+    start: "2024-01-20T19:40:00-05:00"
     end: "2024-01-20T23:00:00-05:00"
     country: USA
     state: VT
@@ -933,28 +955,16 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - The Gaslight Tinkers
     callers:
       - Adina Gordon
     price: $5-$20
     organisation: Montpelier Contra Dance
-  - name: Third Sunday English Regency Dancing in Van Nuys
+  - name: Third Sunday English Regency Dancing
     details: "Time:  2:30 p.m. – 5:30 p.m., seated tea at 3:30 – 4:30 p.m.\nCaller:  Laura Beraha\nMusic:  Recorded Music of Mozart, Beethoven, and Traditional Tunes\nFood: Light refreshments provided; donations of snacks gratefully accepted\nWater: Please bring your own\nPartner: Don’t need one – you’ll always get one in these social mixer dances\nCostumes: Admired but never required\nCost:  $15:  PREFERRED Prepaid on PayPal (Friend) or Zelle or email us for an address to send a check.\nParking: Plenty in lot and street.  Dance entrance = PARKING LOT IN REAR\nCovid Protocol: Observing current Los Angeles County guidelines – Masks Optional"
     links:
-      - "https://cdss.org/event/third-sunday-english-regency-dancing-in-van-nuys/"
-    start: "2024-01-21T08:00:00-08:00"
-    end: "2024-01-21T17:00:00-08:00"
-    country: USA
-    state: CA
-    city: Van Nuys
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    price: $15
-    organisation: Valley Area English Regency Society
-  - name: Third Sunday English Regency Dancing in Van Nuys
-    details: "Time:  2:30 p.m. – 5:30 p.m., seated tea at 3:30 – 4:30 p.m.\nCaller:  Laura Beraha\nMusic:  Recorded Music of Mozart, Beethoven, and Traditional Tunes\nFood: Light refreshments provided; donations of snacks gratefully accepted\nWater: Please bring your own\nPartner: Don’t need one – you’ll always get one in these social mixer dances\nCostumes: Admired but never required\nCost:  $15:  PREFERRED Prepaid on PayPal (Friend) or Zelle or email us for an address to send a check.\nParking: Plenty in lot and street.  Dance entrance = PARKING LOT IN REAR\nCovid Protocol: Observing current Los Angeles County guidelines – Masks Optional"
-    links:
+      - "https://www.valleyareaenglishregencysociety.org/"
       - "https://cdss.org/event/third-sunday-english-regency-dancing-in-van-nuys/"
     start: "2024-01-21T14:30:00-08:00"
     end: "2024-01-21T17:30:00-08:00"
@@ -986,6 +996,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly
   - name: Williamsburg Tuesday Night English Dance
     details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
@@ -1006,7 +1017,7 @@ events:
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
     links:
       - "https://cdss.org/event/english-country-dance-asheville-nc/2024-01-24/"
-    start: "2024-01-24T19:00:00-05:00"
+    start: "2024-01-24T18:40:00-05:00"
     end: "2024-01-24T21:00:00-05:00"
     country: USA
     state: NC
@@ -1035,6 +1046,7 @@ events:
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-188/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-01-25/"
     start: "2024-01-25T19:30:00-05:00"
     end: "2024-01-25T22:30:00-05:00"
@@ -1045,25 +1057,32 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Lake Effect
+    callers:
+      - Katy Heine
+    price: $5-$10
     organisation: Country Dancers of Rochester
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley English Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://bacds.org/series/english/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-01-25/"
-    start: "2024-01-25T20:00:00-08:00"
-    end: "2024-01-25T22:30:00-08:00"
+    start: "2024-01-25T19:15:00-08:00"
+    end: "2024-01-25T22:00:00-08:00"
     country: USA
     state: CA
     city: Berkeley
     styles:
-      - contra
       - ecd
     workshop: true
     social: true
+    price: $6-$25
     organisation: CDSS
   - name: Snow Ball Dance Weekend
     details: "We will be dancing January 26th, 27th and 28th in Gulfport, Florida to the music of two fabulous bands – Kingfisher, the eclectic duo of Cecilia Vacanti and Jeff Kaufman; and Nova, a neo-trad trio from New England featuring Kathleen Fownes, Everest Whitman, and Guillermo Sparrow-Pepin. Our callers will be Janine Smith and Will Mentor. \nRegistration opens October 15, and tickets are $120. After December 20, the price is $135."
     links:
+      - "http://floridasnowball.tampabaycontra.com/"
       - "https://cdss.org/event/snow-ball-dance-weekend/"
     start: "2024-01-26T18:00:00-05:00"
     end: "2024-01-28T14:00:00-05:00"
@@ -1072,8 +1091,11 @@ events:
     city: Gulfport
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Kingfisher
+      - Nova
     callers:
       - Janine Smith
       - Will Mentor
@@ -1098,6 +1120,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly
   - name: Orlando Contra Dance
     details: "We hold energetic and fun contra dances on 2nd and 4th Fridays near Orlando, Florida, in the beautiful Winter Park Ballroom! Our group loves both traditional and contemporary music, which is usually live. We welcome all ages and have a large contingent of younger dancers. Students and jobless dance FREE! Check the schedule for directions, details, cancellations, and changes. Afterwards, we go next door to Jeremiah’s Italian Ice!"
@@ -1112,4 +1135,5 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Greater Orlando Contra Dance
