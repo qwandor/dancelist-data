@@ -1,21 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Sommerbordunale
-    details: "festival: balfolk, workshops, get-together"
-    links:
-      - "https://bordun.de/kurse/sommerbordunale/"
-      - "https://eveeno.com/sommerbordunale2024"
-    start_date: 2024-05-09
-    end_date: 2024-05-12
-    country: Germany
-    city: Krefeld
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: €20-€240
-    organisation: Bordun e.V.
-
   - name: Balfolk
     links:
       - "https://werkhaus-krefeld.de/skald-3/"
@@ -32,4 +16,20 @@ events:
       - SkALD
       - Duo Rudi Winkler & Alexander Loch
     price: €8.50-€14
-    organisation: ~
+    organisation: Werkhaus e.V.
+
+  - name: Sommerbordunale
+    details: "festival: balfolk, workshops, get-together"
+    links:
+      - "https://bordun.de/kurse/sommerbordunale/"
+      - "https://eveeno.com/sommerbordunale2024"
+    start_date: 2024-05-09
+    end_date: 2024-05-12
+    country: Germany
+    city: Krefeld
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €20-€240
+    organisation: Bordun e.V.
