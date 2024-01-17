@@ -8607,6 +8607,20 @@ events:
     price: free
     organisation: MdW
     source: events/austria/vienna-other.yaml
+  - name: French Chain Dances
+    links:
+      - "https://www.facebook.com/groups/510634288975263/posts/7223430237695601/"
+    start: "2024-01-21T15:00:00+01:00"
+    end: "2024-01-21T17:00:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €10
+    organisation: Maximilian Ohmacht
+    source: events/austria/vienna-other.yaml
   - name: "Dance Workshop: Marinette Bonnert"
     details: "Leicht zugängliche Tänze des Bal Folk, wie Rundtänze, Kettentänze oder Mixer, und begleitet die Tanzenden am Diatonischen Knopfakkordeon."
     links:
@@ -9010,6 +9024,22 @@ events:
     bands:
       - Sebastian Slameczka
     price: €80-€160
+    organisation: Anton Hacker
+    source: events/austria/vienna-toni.yaml
+  - name: Swedish Dances
+    links:
+      - "https://www.facebook.com/groups/510634288975263/posts/7245647012140590/"
+    start: "2024-01-27T14:00:00+01:00"
+    end: "2024-01-27T19:00:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    bands:
+      - Lauge Dideriksen
+    price: €25-€50
     organisation: Anton Hacker
     source: events/austria/vienna-toni.yaml
   - name: Tanzhaus Innsbruck
