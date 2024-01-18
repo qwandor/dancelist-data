@@ -1,19 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: English Country Dance
-    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
-    links:
-      - "https://cdss.org/event/english-country-dance-asheville-nc/2024-01-17/"
-    start: "2024-01-17T19:00:00-05:00"
-    end: "2024-01-17T21:00:00-05:00"
-    country: USA
-    state: NC
-    city: Asheville
-    styles:
-      - ecd
-    workshop: true
-    social: true
-    organisation: Luanne Stiles
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
@@ -43,6 +29,21 @@ events:
     workshop: true
     social: true
     organisation: CDSS
+  - name: English Country Dance
+    details: "Dance to wonderful music by Will Patton (tenor guitar), Susan Reid (violin), and Linda Young (harp); calling by Martha Kent & Barrett Grimm. 6:30pm – basics/review; 7pm to 9pm – dancing to live music. \nNewcomers welcome! Attend on your own or with a friend/partner. Ability to walk briskly required. Casual dress. BYO water bottle & clean soft-soled shoes. We use terms/words that refer to roles or positions, not gender.  \n$10-$15 sliding scale."
+    links:
+      - "https://cdss.org/event/english-country-dance/"
+    start: "2024-01-19T18:30:00-05:00"
+    end: "2024-01-19T21:00:00-05:00"
+    country: USA
+    state: VT
+    city: Richmond
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $10-$15
+    organisation: Burlington Country Dancers
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
     links:
@@ -433,3 +434,20 @@ events:
     workshop: true
     social: true
     organisation: Folklore Society of Greater Washington
+  - name: Pittsburgh Contra Dance
+    details: "Come dance to the music of the Snappin’ Bug Stringband with caller Gaye Fifer. Our free beginner lesson begins at 7:30. Complete beginners are welcome! At this dance masks are required, but we also have a mask-optional dance each month. "
+    links:
+      - "https://pittsburghcontra.org/"
+      - "https://cdss.org/event/pittsburgh-contra-dance/"
+    start: "2024-01-26T20:00:00-05:00"
+    end: "2024-01-26T23:00:00-05:00"
+    country: USA
+    state: PA
+    city: Pittsburgh
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Gaye Fifer
+    organisation: Pittsburgh Contra Dance
