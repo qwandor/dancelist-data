@@ -802,6 +802,7 @@ events:
   - name: English Country Dance
     details: "Dance to wonderful music by Will Patton (tenor guitar), Susan Reid (violin), and Linda Young (harp); calling by Martha Kent & Barrett Grimm. 6:30pm – basics/review; 7pm to 9pm – dancing to live music. \nNewcomers welcome! Attend on your own or with a friend/partner. Ability to walk briskly required. Casual dress. BYO water bottle & clean soft-soled shoes. We use terms/words that refer to roles or positions, not gender.  \n$10-$15 sliding scale."
     links:
+      - "http://burlingtoncountrydancers.org/wp-content/uploads/2024/01/Richmond-ECD-2024-Jan-May-Flyer-Revised-1724.pdf"
       - "https://cdss.org/event/english-country-dance/"
     start: "2024-01-19T18:30:00-05:00"
     end: "2024-01-19T21:00:00-05:00"
@@ -810,8 +811,10 @@ events:
     city: Richmond
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Will Patton, Susan Reid & Linda Young
     price: $10-$15
     organisation: Burlington Country Dancers
   - name: TECDA Friday Evening Dance
@@ -980,21 +983,7 @@ events:
   - name: Ease & Elegance
     details: "Country Dancers of Westchester presents Ease & Elegance, its renowned style workshop and dance party for experienced English country dancers. \nThis year’s session, The Hands Are Dancing, presents an anatomy of how the hands and arms work best to enhance our dancing pleasure. Teacher Paul Ross lays out the fundamentals of good handwork with 10 Tips for Good Hand Turns. Musicians Pali Matej, violin; Sue Polansky, clarinet; and Robin Russell, piano, will raise our spirits and quicken our steps with their matchless music. \nWe open with the workshop, then a short break, and end with a joyful dance party, in which one good turn deserves another (and another, and another. . .). \n$20 (members), $25 (nonmembers)"
     links:
-      - "https://cdss.org/event/ease-elegance/"
-    start: "2024-01-21T08:00:00-05:00"
-    end: "2024-01-21T17:00:00-05:00"
-    country: USA
-    state: NY
-    city: White Plains
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    price: $20-$25
-    organisation: Country Dancers of Westchester
-  - name: Ease & Elegance
-    details: "Country Dancers of Westchester presents Ease & Elegance, its renowned style workshop and dance party for experienced English country dancers. \nThis year’s session, The Hands Are Dancing, presents an anatomy of how the hands and arms work best to enhance our dancing pleasure. Teacher Paul Ross lays out the fundamentals of good handwork with 10 Tips for Good Hand Turns. Musicians Pali Matej, violin; Sue Polansky, clarinet; and Robin Russell, piano, will raise our spirits and quicken our steps with their matchless music. \nWe open with the workshop, then a short break, and end with a joyful dance party, in which one good turn deserves another (and another, and another. . .). \n$20 (members), $25 (nonmembers)"
-    links:
+      - "https://sites.google.com/site/countrydancersofwestchester/special-events-2021-22/012124_ease-elegance"
       - "https://cdss.org/event/ease-elegance/"
     start: "2024-01-21T14:00:00-05:00"
     end: "2024-01-21T17:00:00-05:00"
@@ -1003,7 +992,7 @@ events:
     city: White Plains
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     price: $20-$25
     organisation: Country Dancers of Westchester
@@ -1207,7 +1196,7 @@ events:
     links:
       - "https://fsgw.org/Friday-contra-square-dance"
       - "https://cdss.org/event/friday-night-contra-square-dance/2024-01-26/"
-    start: "2024-01-26T20:00:00-05:00"
+    start: "2024-01-26T19:30:00-05:00"
     end: "2024-01-26T23:00:00-05:00"
     country: USA
     state: MD
@@ -1216,13 +1205,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Folklore Society of Greater Washington
   - name: Pittsburgh Contra Dance
     details: "Come dance to the music of the Snappin’ Bug Stringband with caller Gaye Fifer. Our free beginner lesson begins at 7:30. Complete beginners are welcome! At this dance masks are required, but we also have a mask-optional dance each month. "
     links:
       - "https://pittsburghcontra.org/"
       - "https://cdss.org/event/pittsburgh-contra-dance/"
-    start: "2024-01-26T20:00:00-05:00"
+    start: "2024-01-26T19:30:00-05:00"
     end: "2024-01-26T23:00:00-05:00"
     country: USA
     state: PA
@@ -1231,6 +1221,8 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Snappin' Bug Stringband
     callers:
       - Gaye Fifer
     organisation: Pittsburgh Contra Dance
