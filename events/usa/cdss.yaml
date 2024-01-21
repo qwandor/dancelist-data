@@ -1,101 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: English Country Dance Lessons
-    details: "Series of 5 classes in preparation for a Valentine’s ECD demo on Feb 10, 2024."
-    links:
-      - "https://cdss.org/event/english-country-dance-lessons/2024-01-20/"
-    start: "2024-01-20T16:00:00-05:00"
-    end: "2024-01-20T17:00:00-05:00"
-    country: USA
-    state: VA
-    city: Lorton
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: CDSS
-  - name: Lancaster Contra Dance
-    details: "All ages are welcome! Bring the whole family, or come on your own! No partner or prior dance experience necessary! \nBringing a water bottle is encouraged. \nCost: sliding scale $12-20+ cash only \nChildren 13 or younger dance FREE! \nA practice lesson is included in admission and takes place at 6:15pm before each dance. If you can count to 4 and walk, you can do this dance!"
-    links:
-      - "https://lancastercontra.org/"
-      - "https://cdss.org/event/lancaster-pa-contra-dance/2024-01-20/"
-    start: "2024-01-20T19:00:00-05:00"
-    end: "2024-01-20T22:00:00-05:00"
-    country: USA
-    state: PA
-    city: Lancaster
-    styles:
-      - contra
-    workshop: true
-    social: true
-    price: $12
-    organisation: Lancaster Contra Dance
-  - name: "Community \"Soup-er Saturday\" Dance!"
-    details: "It is our recent Soup-er Sunday Dance, but now 3rd Saturdays, and still serving homemade soup and cornbread!\n7:00 pm (basics session 6:45 pm)\nThis is the most fun you can have with your clothes on!\nWe dance to the fiddle tunes of Ireland, Scotland, England, France, and Appalachia and we often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time!\nParking: at Warwick Center for the Arts. On-street parking and additional parking behind the building (enter next to City hall). \nLive music by Mickey Koth on fiddle and flute, John Kalinowski on accordion and concertina! Their eclectic blend of old and new has been described as ‘St. Patrick at a Hoedown,’ or, as one fan put it, Mickey & John will change your O’Doul’s to Guinness!\nCaller: Don Heinold. Don has been calling at weddings, parties and dances all over New England for over 14 years. One has said of him “Professional and fun! Don creates original calls as well as wide variety of calls for all abilities.”\nAdmission: Your choice $15 – $20 per person / WCFA Members $12 / Students (with ID) $10. Contributions are always encouraged.\nFood/Concessions: Homemade soup. homemade cornbread, lemonade, and fresh-brewed tea at $3 a bowl, all for the benefit of the band and caller!\nClothing & Footwear: Clothing is casual, layers are best for this invigorating exercise. Please wear non-street shoes that move easily on the floor (rubber soled sneakers are ok but harder to dance with).\nRole Terms: Traditional – “ladies & gents” or “women & men” but all are welcome to choose the role term that works for them!"
-    links:
-      - "https://cdss.org/event/community-soup-er-saturday-dance/"
-    start: "2024-01-20T19:00:00-05:00"
-    end: "2024-01-20T22:00:00-05:00"
-    country: USA
-    state: RI
-    city: Warwick
-    styles:
-      - contra
-    workshop: false
-    social: true
-    callers:
-      - Don Heinold
-    price: $3-$20
-    organisation: Warwick Center for the Arts
-  - name: Contra Dance
-    details: Monthly Contra Dance
-    links:
-      - "https://www.nttds.org/"
-      - "https://cdss.org/event/contra-dance-2/2024-01-20/"
-    start: "2024-01-20T19:30:00-06:00"
-    end: "2024-01-20T22:30:00-06:00"
-    country: USA
-    state: TX
-    city: Carrollton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: North Texas Traditional Dance Society (NTTDS)
-  - name: Ottawa Contra Dance
-    details: "Join Ottawa Contra Dance every 1st and 3rd Saturday, September – June. Dances are called using Larks and Robins. Admission by sliding scale."
-    links:
-      - "https://ottawacontra.ca/"
-      - "https://cdss.org/event/ottawa-contra-dance/2024-01-20/"
-    start: "2024-01-20T19:30:00-05:00"
-    end: "2024-01-20T23:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: Ottawa
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Ottawa Contra Dance
-  - name: Montpelier Contra Dance with The Gaslight Tinkers
-    details: "The Gaslight Tinkers and Adina Gordon!  \n\nBeginners, singles, and all ages are welcome; all dances are taught. \nGender-neutral role terms. \nNewcomers’ lesson 7:40 pm. Dancing 8-11pm. \nPlease bring clean soft-soled shoes. \nMore info at our website. \n$12 adults, $5 kids/low-income, $20 dance supporters. \nQuestions? 802-225-8921 or cdu.tim@gmail.com \nDancing every 1st, 3rd, and 5th Saturday."
-    links:
-      - "https://cdss.org/event/montpelier-contra-dance-with-the-gaslight-tinkers/"
-    start: "2024-01-20T20:00:00-05:00"
-    end: "2024-01-20T23:00:00-05:00"
-    country: USA
-    state: VT
-    city: Berlin
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - The Gaslight Tinkers
-    callers:
-      - Adina Gordon
-    price: $5-$20
-    organisation: Montpelier Contra Dance
   - name: Third Sunday English Regency Dancing
     details: "Time:  2:30 p.m. – 5:30 p.m., seated tea at 3:30 – 4:30 p.m.\nCaller:  Laura Beraha\nMusic:  Recorded Music of Mozart, Beethoven, and Traditional Tunes\nFood: Light refreshments provided; donations of snacks gratefully accepted\nWater: Please bring your own\nPartner: Don’t need one – you’ll always get one in these social mixer dances\nCostumes: Admired but never required\nCost:  $15:  PREFERRED Prepaid on PayPal (Friend) or Zelle or email us for an address to send a check.\nParking: Plenty in lot and street.  Dance entrance = PARKING LOT IN REAR\nCovid Protocol: Observing current Los Angeles County guidelines – Masks Optional"
     links:
@@ -433,3 +337,94 @@ events:
     workshop: true
     social: true
     organisation: The Living Tradition
+  - name: San Antonio Contra Dance
+    details: "Fun, friendly dance on 4th Saturdays. Live music by Lone Star Pirates. Calling by various local and regional callers."
+    links:
+      - "https://cdss.org/event/san-antonio-contra-dance/2024-01-27/"
+    start: "2024-01-27T19:00:00-05:00"
+    end: "2024-01-27T22:00:00-05:00"
+    country: USA
+    state: TX
+    city: San Antonio
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Lone Star Pirates
+    organisation: San Antonio Contra Dancers
+  - name: 4th Saturdays Contra Dance
+    details: "Mark your calendars now for the next Saturday night dance at Fulton Hall. Dances are called using gender-neutral terms. \n\n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome!"
+    links:
+      - "https://cdss.org/event/portland-country-dance-community-4th-saturdays-contra-dance/2024-01-27/"
+    start: "2024-01-27T19:00:00-08:00"
+    end: "2024-01-27T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Portland Country Dance Community
+  - name: Mendocino English Country Dance
+    details: "Fourth Saturday of every month (check our calendar for occasional date changes). \nLive music with Take a Dance, the Mendocino English Country Dance Orchestra. \nDances taught and prompted by alternating local and guest callers.  \nFun and friendly dancers welcome newcomers in an inclusive and enjoyable environment. Everyone gets to dance!"
+    links:
+      - "https://cdss.org/event/mendocino-english-country-dance/2024-01-27/"
+    start: "2024-01-27T19:30:00-05:00"
+    end: "2024-01-27T22:00:00-05:00"
+    country: USA
+    state: CA
+    city: Caspar
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Take a Dance
+    organisation: Mendocino English Country Dance
+  - name: "Richmond, VA Saturday Night Contra Dance"
+    details: "Join the Richmond, VA, contra dance, hosted by TADAMS at the West End Ballroom for a Saturday evening dance. Beginner lesson at 6:45pm, dance from 7:30-10:30pm. Admission is $15 non-members, $10 members and students, children under 13 are free. Please check our full website calendar for caller and band details. "
+    links:
+      - "https://cdss.org/event/richmond-va-saturday-night-contra-dance/2024-01-27/"
+    start: "2024-01-27T19:30:00-05:00"
+    end: "2024-01-27T22:30:00-05:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: TADAMS (Traditional American Dance and Music Society)
+  - name: "Mystic Contra Dance \"The Pie Dance\""
+    details: "Time: Dance 7:30-10:30 pm [short basics session @ 7:15 pm]\nThis is the most fun you can have with your clothes on! We dance to the fiddle tunes of Ireland, Scotland, England, France, and Appalachia and we often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time!\nCaller: Tod Whittemore from Connecticut, Tod has been calling dances for forty years, having been lucky enough to begin his career at the time when famous callers Ralph Page and Duke Miller were still active in the Monadnock Region. Tod has called dances all over the world, and is known for his humor, energy, and infectious love of dancing!\nLive Music by Dogtown, featuring Becky Miller (fiddle), Norb Spencer (accordion), and Avi Randall (keyboards). They play a mix of New England, French Canadian, Scottish, and Quebecois dance tunes, as well as old time southern dance tunes and sung calls. They are a highly desired band to play at contra dances!\nAdmission: $10 adults, $7 students. Donations gratefully accepted!\nHomemade pie slices! This month we offer pumpkin pie and other kinds of fall pies! These delicious pie slices are offered at the break for $3/slice to help support the band and caller.\nRole Terms are “Ladies & Gents” (or Women & Men), but dancers are welcome to choose whatever role their heart desires.\nClothing & Footwear: Clothing is casual; layers are best for this invigorating exercise. Please wear non-street shoes that move easily on the floor (rubber-soled sneakers are discouraged, but some do wear them even though it makes dancing harder).\nParking: Plenty of parking in the large parking area next to the building!"
+    links:
+      - "https://cdss.org/event/mystic-contra-dance-the-pie-dance/"
+    start: "2024-01-27T19:30:00-05:00"
+    end: "2024-01-27T22:30:00-05:00"
+    country: USA
+    state: CT
+    city: CT
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $3-$10
+    organisation: Mystic Contra Dance
+  - name: North Alabama Country Dance Society - Contra Dance
+    details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
+    links:
+      - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2024-01-27/"
+    start: "2024-01-27T19:30:00-06:00"
+    end: "2024-01-27T23:00:00-06:00"
+    country: USA
+    state: AL
+    city: Huntsville
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10-$15
+    organisation: CDSS
