@@ -35,7 +35,7 @@ jobs:
         run: echo "HEAD=$(git ls-remote https://github.com/qwandor/dancelist HEAD|cut -f1)" >> $GITHUB_OUTPUT
         id: version
       - name: Cache .cargo and target
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: |
             ~/.cargo/bin
