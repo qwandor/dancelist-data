@@ -615,7 +615,7 @@ events:
     workshop: false
     social: true
     organisation: North Texas Traditional Dance Society (NTTDS)
-  - name: North Alabama Country Dance Society - Contra Dance
+  - name: North Alabama Country Dance Society
     details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
     links:
       - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2024-01-13/"
@@ -1064,15 +1064,16 @@ events:
     workshop: true
     social: true
     organisation: Luanne Stiles
-  - name: Second/Fourth Wednesday English Country Dance at Guiding Star Grange
+  - name: English Country Dance at Guiding Star Grange
     details: "Join us in Greenfield for an evening of English Country Dancing. Lively, elegant, and fun: English country dances from 1650 to today, with a rotating cast of stellar musicians and callers.  \nCost: $10-$20, sliding scale. \nNote: Each dance series now has its own COVID protocol. We hope every dancer will feel comfortable at one or more dances."
     links:
+      - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/second-fourth-wednesday-english-country-dance-at-guiding-star-grange/2024-01-24/"
     start: "2024-01-24T19:00:00-05:00"
     end: "2024-01-24T21:30:00-05:00"
     country: USA
-    state: Greenfield
-    city: 401 Chapman St
+    state: MA
+    city: Greenfield
     styles:
       - ecd
     workshop: false
@@ -1241,15 +1242,16 @@ events:
     callers:
       - Gaye Fifer
     organisation: Pittsburgh Contra Dance
-  - name: Fourth Friday Experienced Contra at Guiding Star Grange
+  - name: Experienced Contra at Guiding Star Grange
     details: "This series is geared to experienced dancers and will feature challenging dances, plus some no-walk-throughs and medleys. “Experienced” means: \n\nYou know how to do a roll away, California twirl, pass through to a wave, contra corners, and basic moves without teaching\nYou know where to be at the start of each dance phrase and how to recover from a lapse\nYou assist your partner and neighbor to the next move\nYou execute flourishes safely and on time without disturbing others\nYou respond to confusion and missteps by others with grace, encouragement and good humor\n\nCost: $15-10 sliding scale / $8 for full-time students \nNote: Each dance series now has its own COVID protocol. We hope every dancer will feel comfortable at one or more dances."
     links:
       - "https://cdss.org/event/fourth-friday-experienced-contra-at-guiding-star-grange/2024-01-26/"
+      - "https://www.guidingstargrange.org/events.html"
     start: "2024-01-26T20:00:00-05:00"
     end: "2024-01-26T23:15:00-05:00"
     country: USA
-    state: Greenfield
-    city: 401 Chapman St
+    state: MA
+    city: Greenfield
     styles:
       - contra
     workshop: false
@@ -1259,6 +1261,7 @@ events:
   - name: English Country Dance Lessons
     details: "Series of 5 classes in preparation for a Valentine’s ECD demo on Feb 10, 2024."
     links:
+      - "https://app.arketa.co/iframe/artofmovement/schedule/checkout/f3bzkoipJlGZ2HuxHj8B"
       - "https://cdss.org/event/english-country-dance-lessons/2024-01-27/"
     start: "2024-01-27T16:00:00-05:00"
     end: "2024-01-27T17:00:00-05:00"
@@ -1269,12 +1272,14 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $20
     organisation: CDSS
   - name: Anaheim Contra Dance
     details: "Anaheim Contra Dances are held every 4th Saturday January-November 6:30-9:30pm PST. \nAlways live music! \nFamily-friendly, no partner required. \nEasy introductory lesson for beginners @ 6:30pm.\n\nFree parking."
     links:
+      - "https://www.thelivingtradition.org/tltbodydance.html"
       - "https://cdss.org/event/anaheim-contra-dance/2024-01-27/"
-    start: "2024-01-27T18:30:00-08:00"
+    start: "2024-01-27T17:30:00-08:00"
     end: "2024-01-27T21:30:00-08:00"
     country: USA
     state: CA
@@ -1283,6 +1288,11 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Kira Ott, Liam Lewis, Jeffrey Spero
+    callers:
+      - Susie Kendig
+    price: $12-$18
     organisation: The Living Tradition
   - name: San Antonio Contra Dance
     details: "Fun, friendly dance on 4th Saturdays. Live music by Lone Star Pirates. Calling by various local and regional callers."
@@ -1303,6 +1313,7 @@ events:
   - name: 4th Saturdays Contra Dance
     details: "Mark your calendars now for the next Saturday night dance at Fulton Hall. Dances are called using gender-neutral terms. \n\n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome!"
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5430"
       - "https://cdss.org/event/portland-country-dance-community-4th-saturdays-contra-dance/2024-01-27/"
     start: "2024-01-27T19:00:00-08:00"
     end: "2024-01-27T22:30:00-08:00"
@@ -1313,10 +1324,16 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Northwest Stomp
+    callers:
+      - Laurel Thomas
+    price: $6-$20
     organisation: Portland Country Dance Community
   - name: Mendocino English Country Dance
     details: "Fourth Saturday of every month (check our calendar for occasional date changes). \nLive music with Take a Dance, the Mendocino English Country Dance Orchestra. \nDances taught and prompted by alternating local and guest callers.  \nFun and friendly dancers welcome newcomers in an inclusive and enjoyable environment. Everyone gets to dance!"
     links:
+      - "https://www.mendoecd.org/event/monthly-2022-05-28-2022-06-25-2022-07-23-2022-08-27-2022-09-24-2022-10-22-2022-11-26-2022-12-24-2023-05-27-2023-06-24-2023-12-23-2024-01-27/"
       - "https://cdss.org/event/mendocino-english-country-dance/2024-01-27/"
     start: "2024-01-27T19:30:00-05:00"
     end: "2024-01-27T22:00:00-05:00"
@@ -1329,12 +1346,16 @@ events:
     social: true
     bands:
       - Take a Dance
+    callers:
+      - Lise Dyckman
+    price: $15
     organisation: Mendocino English Country Dance
   - name: "Richmond, VA Saturday Night Contra Dance"
     details: "Join the Richmond, VA, contra dance, hosted by TADAMS at the West End Ballroom for a Saturday evening dance. Beginner lesson at 6:45pm, dance from 7:30-10:30pm. Admission is $15 non-members, $10 members and students, children under 13 are free. Please check our full website calendar for caller and band details. "
     links:
+      - "https://tadamsva.org/dance/saturday-contra-dance-web-1-27-2023/"
       - "https://cdss.org/event/richmond-va-saturday-night-contra-dance/2024-01-27/"
-    start: "2024-01-27T19:30:00-05:00"
+    start: "2024-01-27T18:45:00-05:00"
     end: "2024-01-27T22:30:00-05:00"
     country: USA
     state: VA
@@ -1343,28 +1364,34 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Petrichord
+    callers:
+      - Virginia Varland
     price: $10-$15
     organisation: TADAMS (Traditional American Dance and Music Society)
   - name: 'Mystic Contra Dance "The Pie Dance"'
     details: "Time: Dance 7:30-10:30 pm [short basics session @ 7:15 pm]\nThis is the most fun you can have with your clothes on! We dance to the fiddle tunes of Ireland, Scotland, England, France, and Appalachia and we often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time!\nCaller: Tod Whittemore from Connecticut, Tod has been calling dances for forty years, having been lucky enough to begin his career at the time when famous callers Ralph Page and Duke Miller were still active in the Monadnock Region. Tod has called dances all over the world, and is known for his humor, energy, and infectious love of dancing!\nLive Music by Dogtown, featuring Becky Miller (fiddle), Norb Spencer (accordion), and Avi Randall (keyboards). They play a mix of New England, French Canadian, Scottish, and Quebecois dance tunes, as well as old time southern dance tunes and sung calls. They are a highly desired band to play at contra dances!\nAdmission: $10 adults, $7 students. Donations gratefully accepted!\nHomemade pie slices! This month we offer pumpkin pie and other kinds of fall pies! These delicious pie slices are offered at the break for $3/slice to help support the band and caller.\nRole Terms are “Ladies & Gents” (or Women & Men), but dancers are welcome to choose whatever role their heart desires.\nClothing & Footwear: Clothing is casual; layers are best for this invigorating exercise. Please wear non-street shoes that move easily on the floor (rubber-soled sneakers are discouraged, but some do wear them even though it makes dancing harder).\nParking: Plenty of parking in the large parking area next to the building!"
     links:
+      - "https://patch.com/connecticut/groton/calendar/event/20240127/66f769ed-4c6e-4339-abb1-53f062387147/mystic-contra-dance-the-pie-dance-sat-01-27-2024"
       - "https://cdss.org/event/mystic-contra-dance-the-pie-dance/"
-    start: "2024-01-27T19:30:00-05:00"
+    start: "2024-01-27T19:15:00-05:00"
     end: "2024-01-27T22:30:00-05:00"
     country: USA
     state: CT
-    city: CT
+    city: Groton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
-    price: $3-$10
+    price: $7-$10
     organisation: Mystic Contra Dance
-  - name: North Alabama Country Dance Society - Contra Dance
+  - name: North Alabama Country Dance Society
     details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
     links:
       - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2024-01-27/"
-    start: "2024-01-27T19:30:00-06:00"
+      - "https://www.facebook.com/events/264100226526895/"
+    start: "2024-01-27T18:30:00-06:00"
     end: "2024-01-27T23:00:00-06:00"
     country: USA
     state: AL
@@ -1407,6 +1434,7 @@ events:
   - name: Monday Contra Dance
     details: "What better way to start the week? Only $3! It’s Monday, and we (almost) always dance on Monday."
     links:
+      - "https://www.monadnockfolk.org/?tribe_event_series=monday-night-dance"
       - "https://cdss.org/event/monday-contra-dance-in-nelson-nh/2024-01-29/"
     start: "2024-01-29T19:30:00-05:00"
     end: "2024-01-29T22:00:00-05:00"
@@ -1438,4 +1466,5 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly
