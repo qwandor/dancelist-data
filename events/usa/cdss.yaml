@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
   - name: "Nelson New Year's Day"
-    details: "Yes, we are dancing on New Year’s Day. Only $3!! What better way to start the New Year? Besides, it’s Monday, and we (almost) always dance on Monday."
+    details: "Yes, we are dancing on New Year's Day. Only $3!! What better way to start the New Year? Besides, it’s Monday, and we (almost) always dance on Monday."
     links:
       - "https://cdss.org/event/nelson-new-years-day/"
     start: "2024-01-01T19:30:00-05:00"
@@ -1504,6 +1504,7 @@ events:
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-189/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-02-01/"
     start: "2024-02-01T19:30:00-05:00"
     end: "2024-02-01T22:30:00-05:00"
@@ -1514,10 +1515,16 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Meg, Laurel & Cat
+    callers:
+      - David Smukler
+    price: $5-$10
     organisation: Country Dancers of Rochester
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley Contra Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-02-01/"
     start: "2024-02-01T20:00:00-08:00"
     end: "2024-02-01T22:30:00-08:00"
@@ -1529,4 +1536,9 @@ events:
       - ecd
     workshop: true
     social: true
+    bands:
+      - The Cain Raisers
+    callers:
+      - Ric Goldman
+    price: $6-$25
     organisation: CDSS
