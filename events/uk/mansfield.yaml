@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Live and Local
+    links:
+      - "https://www.liveandlocal.org.uk/event/?id=8399&title=cri-du-canard"
+    start: "2024-02-24T19:30:00Z"
+    end: "2024-02-24T21:30:00Z"
+    country: UK
+    city: Mansfield
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    bands:
+      - Cri du Canard
+    organisation: ~
