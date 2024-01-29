@@ -1,83 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Snow Ball Dance Weekend
-    details: "We will be dancing January 26th, 27th and 28th in Gulfport, Florida to the music of two fabulous bands – Kingfisher, the eclectic duo of Cecilia Vacanti and Jeff Kaufman; and Nova, a neo-trad trio from New England featuring Kathleen Fownes, Everest Whitman, and Guillermo Sparrow-Pepin. Our callers will be Janine Smith and Will Mentor. \nRegistration opens October 15, and tickets are $120. After December 20, the price is $135."
-    links:
-      - "https://cdss.org/event/snow-ball-dance-weekend/"
-    start: "2024-01-26T18:00:00-05:00"
-    end: "2024-01-28T14:00:00-05:00"
-    country: USA
-    state: FL
-    city: Gulfport
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Kingfisher
-      - Nova
-    callers:
-      - Janine Smith
-      - Will Mentor
-    price: $120-$135
-    organisation: Tampa Friends of Old Time Dance
-  - name: Asheville Sunday Afternoon English Country Dance
-    details: "All are welcome to join us for another very fine afternoon of English Country Dance. Spread the word and bring all your friends, family and neighbors! \n3:30pm-4:00pm, Newcomers’ Session\n4:00pm-6:15-ish pm, Dance \nLeaders:\nBob Thompson & Luanne Stiles \nLive Music:\nCathy Arps, Violin; Tory Horner, Violin;\nLinda Block, Recorder & Hand Percussion; Karen Gaughan, Piano \nBring a snack to share during the Break out in the Parlor. \nWear comfortable clothes and non-marking shoes. \nWe are deeply grateful to be a part of our community dance organization, The Old Farmers Ball, and for their promotion and support of area traditional dance and music.  The Old Farmers Ball is a proud member of CDSS. \nFor schedule updates, visit the Old Farmers Ball website. \nFree of charge."
-    links:
-      - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance/"
-    start: "2024-01-28T08:00:00-05:00"
-    end: "2024-01-28T17:00:00-05:00"
-    country: USA
-    state: NC
-    city: Asheville
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: CDSS
-  - name: Las Vegas Contra Dance
-    details: Monthly Contra dance. Beginners welcome. Beginner teaching first 30 minutes. Live music.
-    links:
-      - "https://cdss.org/event/las-vegas-contra-dance/2024-01-28/"
-    start: "2024-01-28T15:00:00-05:00"
-    end: "2024-01-28T18:00:00-05:00"
-    country: USA
-    state: NV
-    city: Las Vegas
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: CDSS
-  - name: Asheville Sunday Afternoon English Country Dance
-    details: "All are welcome to join us for another very fine afternoon of English Country Dance. Spread the word and bring all your friends, family and neighbors! \n3:30pm-4:00pm, Newcomers’ Session\n4:00pm-6:15-ish pm, Dance \nLeaders:\nBob Thompson & Luanne Stiles \nLive Music:\nCathy Arps, Violin; Tory Horner, Violin;\nLinda Block, Recorder & Hand Percussion; Karen Gaughan, Piano \nBring a snack to share during the Break out in the Parlor. \nWear comfortable clothes and non-marking shoes. \nWe are deeply grateful to be a part of our community dance organization, The Old Farmers Ball, and for their promotion and support of area traditional dance and music.  The Old Farmers Ball is a proud member of CDSS. \nFor schedule updates, visit the Old Farmers Ball website. \nFree of charge."
-    links:
-      - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance/"
-    start: "2024-01-28T16:00:00-05:00"
-    end: "2024-01-28T18:15:00-05:00"
-    country: USA
-    state: NC
-    city: Asheville
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: CDSS
-  - name: Hayward Contra Dance
-    details: "We typically dance on the 2nd & 4th Sunday of each month. \nFor years, the Hayward Contra has drawn dancers from all over the Bay Area and beyond. \nSome of the unique features that have drawn a loyal following are: \nHayward is centrally located and the venue, The Hill and Valley Club, 1808 ‘B’ Street, Hayward, CA, is easy to reach by BART or car. \nAs a weekend dance, we have attracted dancers with busy work schedules. \nMeeting in the afternoon from 4-7pm, dancers coming from greater distances were able to manage the travel time both before and after the dances. \nOur venue, the Hill and Valley Club, is one of the airiest dance halls in the bay area. \nThese features have allowed us to attract a very diverse multigenerational crowd that is comfortable with our gender-neutral atmosphere. \nDetails at our website. \nWe also have a Facebook group."
-    links:
-      - "https://sfbaycontra.org/"
-      - "https://cdss.org/event/hayward-ca-contra-dance/2024-01-28/"
-    start: "2024-01-28T16:00:00-08:00"
-    end: "2024-01-28T19:00:00-08:00"
-    country: USA
-    state: CA
-    city: Hayward
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: CDSS
   - name: Monday Contra Dance
     details: "What better way to start the week? Only $3! It’s Monday, and we (almost) always dance on Monday."
     links:
@@ -343,3 +265,85 @@ events:
     workshop: true
     social: true
     organisation: Friends of Contra Dance of Macon County
+  - name: Goshen Community Contra Dance
+    details: "Contra Dance with live music and caller. \nThe dance will be held at Goshen First Church, 215 South St., Goshen, IN. \nGeneral Public: Non-members $8, Members $6\nStudents: Non-members $5, Members $3\nChildren under 12: Free\nFamily maximum cost: $18 \nNo experience or partner needed and all dances are led by experienced callers. \nNew dancers are always welcome and are invited to the free beginners workshop at 6:30pm."
+    links:
+      - "http://godancing.org/"
+      - "https://cdss.org/event/goshen-community-contra-dance-2/2024-02-03/"
+    start: "2024-02-03T19:00:00-05:00"
+    end: "2024-02-03T22:00:00-05:00"
+    country: USA
+    state: IN
+    city: Goshen
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $3-$8
+    organisation: Goshen Community Contra Dance
+  - name: Montpelier Contra Dance with Pre-dance Waltzing
+    details: "Liz Nelson calling with music by Starling (Mo Brachfeld and Jared Kirkpatrick). \n\nBeginners, singles, and all ages are welcome; all dances are taught.\nGender-neutral role terms.\nWaltzing 7 – 7:40 (additional $5 requested). Newcomers’ contra dance lesson at 7:45 pm. Contra dancing 8-11 pm.\nPlease bring clean soft-soled shoes.\nMore info at our website.\n$12 adults, $5 kids/low-income, $20 dance supporters; plus $5 for waltzing.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDances every 1st, 3rd, and 5th Saturday."
+    links:
+      - "https://cdss.org/event/montpelier-contra-dance-with-pre-dance-waltzing/"
+    start: "2024-02-03T19:00:00-05:00"
+    end: "2024-02-03T23:00:00-05:00"
+    country: USA
+    state: VT
+    city: Berlin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Starling
+    callers:
+      - Liz Nelson
+    price: $5-$20
+    organisation: Montpelier Contra Dance
+  - name: First Saturday Contra Dance
+    details: "The Monadnock Folklore Society presents the Peterborough, NH First Saturday Contra Dance on the first Saturday with different musicians and callers every month.  \nThe dancing begins at 8:00 PM, with an introductory workshop beginning at 7:30. Sliding scale admission is  $12 – 20. \nWe also host an open jam session for beginning and intermediate musicians from 6:45 – 7:30 PM. \nThe Monadnock Folklore Society has presented contra dances and concerts of traditional music since 1982."
+    links:
+      - "https://cdss.org/event/first-saturday-contra-dance-in-peterborough-nh/2024-02-03/"
+    start: "2024-02-03T19:30:00-05:00"
+    end: "2024-02-03T22:00:00-05:00"
+    country: USA
+    state: NH
+    city: Peterborough
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $12
+    organisation: CDSS
+  - name: Ottawa Contra Dance
+    details: "Join Ottawa Contra Dance every 1st and 3rd Saturday, September – June. Dances are called using Larks and Robins. Admission by sliding scale."
+    links:
+      - "https://ottawacontra.ca/"
+      - "https://cdss.org/event/ottawa-contra-dance/2024-02-03/"
+    start: "2024-02-03T19:30:00-05:00"
+    end: "2024-02-03T23:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Ottawa
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Ottawa Contra Dance
+  - name: First Saturday Contra at Guiding Star Grange
+    details: "Wild Asparagus with George Marshall, David Cantieni, Becky Tracy, Ann Percival and guests. Please check the Guiding Star Grange website for details. \nSchedule: 7:30-8:00 beginners’ workshop, 8:00-11:00 contra dance \nCost: $12 – $20 sliding scale \nSee venue website for this month’s details and Covid policy."
+    links:
+      - "https://cdss.org/event/first-saturday-contra-at-guiding-star-grange/2024-02-03/"
+    start: "2024-02-03T19:30:00-05:00"
+    end: "2024-02-03T23:00:00-05:00"
+    country: USA
+    state: MA
+    city: Greenfield
+    styles:
+      - contra
+    workshop: false
+    social: true
+    callers:
+      - George Marshall
+    price: $12-$20
+    organisation: George Marshall
