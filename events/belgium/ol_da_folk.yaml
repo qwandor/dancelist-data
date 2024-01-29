@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Ol da Folk
+    links:
+      - "https://www.facebook.com/events/1310957106228203/"
+    start: "2024-05-31T20:00:00+02:00"
+    end: "2024-05-31T23:00:00+02:00"
+    country: Belgium
+    city: Bruges
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Threo
+    price: €10
+    organisation: Ol Da Folk Brugge
