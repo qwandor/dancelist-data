@@ -1,18 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Dansstage 2024
-    details: "De Dansstage is een weekend vol met Balfolk dansen in Enschede. Er zijn overdag workshops voor ieder niveau, dus iedereen die van dansen houdt, van beginner tot gevorderde, is van harte welkom op dit weekend.\n\nElke dag van workshops wordt vervolgens afgesloten met een bal in één van de fijnste Danszalen van Nederland!\n\nVoor het bal op de zondag geldt dat je alleen mee kunt dansen als je je inschrijft voor het weekend via de Dansstage website."
-    links:
-      - "https://www.balfolk.nl/agenda/dansstage-2024/"
-    start: "2024-01-28T13:30:00+01:00"
-    end: "2024-01-28T15:30:00+01:00"
-    country: Netherlands
-    city: Enschede
-    styles:
-      - balfolk
-    workshop: false
-    social: false
-    organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
     links:
@@ -291,6 +278,25 @@ events:
       - balfolk
     workshop: true
     social: true
+    organisation: balfolk.nl
+  - name: BalFolk met Wouter Kuyper op zondagmiddag
+    details: "BalFolk met Wouter Kuyper\n\nOp het Balfolk van 18 februari in Enkhuizen kunnen we heerlijk dansen op de prachtige muziek van Wouter Kuyper. Wouter speelt in Lirio, Wouter en de Draak, BmB, Laroux en Androneda, maar in Enkhuizen komt hij solo. Wanneer hij solo speelt, bespeelt hij voornamelijk de trekharmonica en brengt hij voor een groot deel zijn eigen composities; van opzwepend tot bijzonder intiem, swingende scottishes, romantische mazurka's, een verstilde gavotte de 'l Aven en dynamische cercle's. Wouter houdt van bals en van dansen en heeft in de loop der jaren een geweldig balrepertoire opgebouwd.\n\nEn natuurlijk is ons vertrouwde Adhoc Orkest (de huisband van het Enkhuizer Balfolk) ook weer van de partij. Hun repertoire bestaat voornamelijk uit enerverende Franse en Vlaamse dansmuziek. \n\nWanneer nodig zullen er tijdens het bal enkele korte instructies gegeven worden voor o.a. de Maclotte, Gavotte de l’Aven en Suite de maraîchines.\n\nHet bal is zoals altijd weer in de sfeervolle zaal van het hotel-restaurant Die Port van Cleve, waar ook een prachtige houten vloer ligt die heerlijk is om op te dansen. Dijk 74-76 te Enkhuizen.\nEntree is 7,00 euro. Reserveren is niet nodig."
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-met-wouter-kuyper-op-zondagmiddag/"
+    start: "2024-02-18T14:00:00+01:00"
+    end: "2024-02-18T17:00:00+01:00"
+    country: Netherlands
+    city: Enkhuizen
+    styles:
+      - balfolk
+    workshop: false
+    social: false
+    bands:
+      - AdHoc Orkest
+      - Androneda
+      - BmB
+      - Wouter en de Draak
+      - Wouter Kuyper
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
