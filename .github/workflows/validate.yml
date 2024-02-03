@@ -61,4 +61,4 @@ jobs:
       - name: Concatenate old events
         run: dancelist cat events/ > old_events.yaml
       - name: Diff
-        run: dancelist diff old_events.yaml new_events.yaml
+        run: dancelist diff old_events.yaml new_events.yaml > $GITHUB_STEP_SUMMARY
