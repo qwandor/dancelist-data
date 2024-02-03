@@ -1,35 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Chalktown in Baldock
-    links:
-      - "http://www.chalktown.co.uk/chalkgigs.html#D.20231110"
-    start_date: 2023-11-10
-    end_date: 2023-11-10
-    country: UK
-    city: Baldock
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Chalktown
-    callers:
-      - Caller Sheena Masson
-    organisation: Webfeet
-  - name: Arish Mel in Kimmeridge
-    links:
-      - "http://www.earwicker.org/about_arish_mel.htm"
-    start_date: 2023-11-10
-    end_date: 2023-11-10
-    country: UK
-    city: Kimmeridge
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Arish Mel
-    organisation: Webfeet
   - name: "Cat's Claw in Cardiff"
     links:
       - "http://ruffceilidhs.org/coming/"
@@ -361,20 +331,6 @@ events:
     bands:
       - Melrose Quartet
     organisation: Webfeet
-  - name: regular band in Abergavenny
-    links:
-      - "http://mister.red/dance/abergavenny.htm#D.AD.20240131"
-    start_date: 2024-01-31
-    end_date: 2024-01-31
-    country: UK
-    city: Abergavenny
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - regular band
-    organisation: Webfeet
   - name: Jigfoot in Banbury
     details: "[Postponed]"
     links:
@@ -479,36 +435,6 @@ events:
     social: true
     bands:
       - Airboxes
-    organisation: Webfeet
-  - name: ceased in Radstock
-    links:
-      - "http://mister.red/dance/radstock.htm#D.AK.20240206"
-    start_date: 2024-02-06
-    end_date: 2024-02-06
-    country: UK
-    city: Radstock
-    styles:
-      - irish-set
-    workshop: false
-    social: true
-    bands:
-      - ceased
-    callers:
-      - Val Knight
-    organisation: Webfeet
-  - name: regular band in Abergavenny
-    links:
-      - "http://mister.red/dance/abergavenny.htm#D.AD.20240207"
-    start_date: 2024-02-07
-    end_date: 2024-02-07
-    country: UK
-    city: Abergavenny
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - regular band
     organisation: Webfeet
   - name: live music in Bath
     links:
@@ -698,20 +624,6 @@ events:
     callers:
       - Ray Goodswen
     organisation: Webfeet
-  - name: regular band in Abergavenny
-    links:
-      - "http://mister.red/dance/abergavenny.htm#D.AD.20240214"
-    start_date: 2024-02-14
-    end_date: 2024-02-14
-    country: UK
-    city: Abergavenny
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - regular band
-    organisation: Webfeet
   - name: Dampiers in Sytchampton
     links:
       - "http://mister.red/dance/worcester.htm#D.AF.20240214"
@@ -815,22 +727,6 @@ events:
     social: true
     bands:
       - Mark & Norma
-    organisation: Webfeet
-  - name: ceased in Radstock
-    links:
-      - "http://mister.red/dance/radstock.htm#D.AK.20240220"
-    start_date: 2024-02-20
-    end_date: 2024-02-20
-    country: UK
-    city: Radstock
-    styles:
-      - irish-set
-    workshop: false
-    social: true
-    bands:
-      - ceased
-    callers:
-      - Val Knight
     organisation: Webfeet
   - name: live music in Bath
     links:
@@ -1057,22 +953,6 @@ events:
     social: true
     bands:
       - Perfect Cure
-    organisation: Webfeet
-  - name: ceased in Radstock
-    links:
-      - "http://mister.red/dance/radstock.htm#D.AK.20240305"
-    start_date: 2024-03-05
-    end_date: 2024-03-05
-    country: UK
-    city: Radstock
-    styles:
-      - irish-set
-    workshop: false
-    social: true
-    bands:
-      - ceased
-    callers:
-      - Val Knight
     organisation: Webfeet
   - name: live music in Bath
     links:
@@ -1962,6 +1842,38 @@ events:
       - Out of Hand
     callers:
       - "callers from Callers' Day"
+    organisation: Webfeet
+  - name: Lighthouse in Englefield Green
+    links:
+      - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
+    start_date: 2024-05-12
+    end_date: 2024-05-12
+    country: UK
+    city: Englefield Green
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Lighthouse
+    callers:
+      - Will Mentor
+    organisation: Webfeet
+  - name: Lighthouse in Bristol
+    links:
+      - "https://bristolcontra.wordpress.com/"
+    start_date: 2024-05-17
+    end_date: 2024-05-17
+    country: UK
+    city: Bristol
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Lighthouse
+    callers:
+      - Will Mentor
     organisation: Webfeet
   - name: This Way Up in Cardiff
     links:
