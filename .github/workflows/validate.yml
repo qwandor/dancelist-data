@@ -32,3 +32,33 @@ jobs:
         run: cargo install --git https://github.com/qwandor/dancelist
       - name: Validate
         run: dancelist validate events/
+  diff:
+    name: Diff
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Get dancelist version
+        run: echo "HEAD=$(git ls-remote https://github.com/qwandor/dancelist HEAD|cut -f1)" >> $GITHUB_OUTPUT
+        id: version
+      - name: Cache .cargo and target
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/bin
+            ~/.cargo/git
+            ~/.cargo/registry
+            ~/.cargo/.crates.toml
+            ~/.cargo/.crates2.json
+          key: ${{ runner.os }}-cargo-install-${{ steps.version.outputs.HEAD }}
+      - name: Install dancelist
+        run: cargo install --git https://github.com/qwandor/dancelist
+      - name: Concatenate new events
+        run: dancelist cat events/ > new_events.yaml
+      - name: Checkout base version
+        run: git checkout ${{ github.event.pull_request.base.sha }}
+      - name: Concatenate old events
+        run: dancelist cat events/ > old_events.yaml
+      - name: Diff
+        run: dancelist diff old_events.yaml new_events.yaml > $GITHUB_STEP_SUMMARY
