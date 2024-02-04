@@ -5,52 +5,52 @@ events:
       - "https://thenestcollective.co.uk/events/halloween-ceilidh-2022/"
       - "https://www.facebook.com/events/2031973217010527/"
       - "https://www.eventbrite.co.uk/e/halloween-ceilidh-tickets-366799546317"
-    start: 2022-10-29T19:00:00+01:00
-    end: 2022-10-29T22:30:00+01:00
+    start: "2022-10-29T19:00:00+01:00"
+    end: "2022-10-29T22:30:00+01:00"
     country: UK
     city: London
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
       - Ceilidh Liberation Front
     price: £10-£15
     organisation: Nest Collective
-
   - name: Burns Night Ceilidh
     links:
       - "https://www.facebook.com/events/438008261762577/438008271762576/"
       - "https://thenestcollective.co.uk/events/burns-night-ceilidh-2023/"
       - "https://www.eventbrite.co.uk/e/burns-night-ceilidh-tickets-423945952757"
-    start: 2023-01-27T19:00:00+00:00
-    end: 2023-01-27T22:30:00+00:00
+    start: "2023-01-27T19:00:00+00:00"
+    end: "2023-01-27T22:30:00+00:00"
     country: UK
     city: London
-    styles: [s-ceilidh]
+    styles:
+      - s-ceilidh
     workshop: false
     social: true
     bands:
       - Ceilidh Liberation Front
     price: £16-£22
     organisation: Nest Collective
-
   - name: Burns Night Ceilidh
     links:
       - "https://www.facebook.com/events/438008261762577/438008265095910/"
       - "https://thenestcollective.co.uk/events/burns-night-ceilidh-2023/"
       - "https://www.eventbrite.co.uk/e/burns-night-ceilidh-tickets-423945952757"
-    start: 2023-01-28T19:00:00+00:00
-    end: 2023-01-28T22:30:00+00:00
+    start: "2023-01-28T19:00:00+00:00"
+    end: "2023-01-28T22:30:00+00:00"
     country: UK
     city: London
-    styles: [s-ceilidh]
+    styles:
+      - s-ceilidh
     workshop: false
     social: true
     bands:
       - Ceilidh Liberation Front
     price: £16-£22
     organisation: Nest Collective
-
   - name: Spring Ceilidh
     links:
       - "https://thenestcollective.co.uk/events/spring-ceilidh-2023/"
@@ -67,4 +67,34 @@ events:
     bands:
       - Ceilidh Liberation Front
     price: £12-£18
+    organisation: Nest Collective
+  - name: Spring Ceilidh
+    links:
+      - "https://www.eventbrite.co.uk/e/spring-ceilidh-tickets-760572862907"
+    start: "2024-03-15T19:00:00+00:00"
+    end: "2024-03-15T22:30:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Ceilidh Liberation Front
+    price: £15-£20
+    organisation: Nest Collective
+  - name: Spring Ceilidh
+    links:
+      - "https://www.eventbrite.co.uk/e/spring-ceilidh-tickets-760573113657"
+    start: "2024-03-16T19:00:00+00:00"
+    end: "2024-03-16T22:30:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Ceilidh Liberation Front
+    price: £15-£20
     organisation: Nest Collective
