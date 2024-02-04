@@ -3,15 +3,16 @@ events:
   - name: 8° Mazurka Klandestina di Konfine
     links:
       - "https://www.facebook.com/events/8207499075942681/"
-    start: 2022-06-01T22:00:00+02:00
-    end: 2022-06-02T03:00:00+02:00
+    start: "2022-06-01T22:00:00+02:00"
+    end: "2022-06-02T03:00:00+02:00"
     country: Italy
     city: Gorizia
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     price: free
-
+    organisation: ~
   - name: Balfolk live
     links:
       - "https://www.facebook.com/events/1386931578808385/"
@@ -26,7 +27,6 @@ events:
     bands:
       - Maurizio
     organisation: Go Folk
-
   - name: Ferragosto Balfolk
     links:
       - "https://www.facebook.com/events/254234077216463/"
@@ -41,7 +41,6 @@ events:
     bands:
       - "Gatti 'n' Folk"
     organisation: Go Folk
-
   - name: Venerdì Balfolk
     links:
       - "https://www.facebook.com/events/255582160885899/"
@@ -55,7 +54,6 @@ events:
     social: true
     price: €10
     organisation: Go Folk
-
   - name: Masquerade Ball
     links:
       - "https://www.facebook.com/events/1361157107863005/"
@@ -70,3 +68,17 @@ events:
     social: true
     price: €10
     organisation: Go Folk
+  - name: Concert and workshop
+    links:
+      - "https://www.facebook.com/events/1040580813694107/"
+    start: "2024-03-02T15:30:00+01:00"
+    end: "2024-03-02T20:00:00+01:00"
+    country: Italy
+    city: Gorizia
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Le Driadi
+    organisation: Alessia Ferk
