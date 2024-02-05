@@ -1,38 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Asheville Mid-Winter ECD Weekend
-    details: "Mara Shea, Julie Gorka and Dean Herrington join Bruce Hamilton for a weekend of English Country Dancing at the beautiful downtown Masonic Temple in Asheville, North Carolina. Some English Country Dance experience is helpful for this event, and the weekend is intended for all levels of dancers.  Please come join us! See the website for weekend workshops and evening dancing details.  "
-    links:
-      - "https://cdss.org/event/asheville-mid-winter-ecd-weekend/"
-    start: "2024-02-02T19:30:00-05:00"
-    end: "2024-02-04T13:30:00-05:00"
-    country: USA
-    state: NC
-    city: Asheville
-    styles:
-      - ecd
-    workshop: true
-    social: true
-    organisation: CDSS
-  - name: Capital English Country Dancers
-    details: "English Country Dance on the first Sundays of the month, October – May. Dance to live music. All dances are taught and prompted. The schedule of callers and musicians is below. Beginners, singles & couples are welcome! Doors open at 1:30, beginner workshop at 1:40 pm, dancing starts at 2pm. Please wear clean, flat, soft-soled dance shoes. \nSchedule of Events \n\nFeb 4: Orly Krasner with our Early Music Ensemble with Harpsichord (Larry Wallach, Tricia van Oers and Eric Buddington)\nMar 3: Elizabeth Freedman with Vonnie Estes, Charles Fisher and Nancy Bakemeier\nApr 7: Val Medve with Pat McPherson and Dough Creighton\nMay 5: Ice Cream Sunday – Melanie Axel-Lute, Elizabeth Stehl, Don Bell with Spare Parts and Britany Orlebeke\n\nOur COVID Policy \n\nWearing a mask is recommended.\nPlease stay home if you feel sick or have symptoms of Covid or flu.\nCECD will notify all attendees if someone reports a Covid diagnosis within a week after a dance.\n\nRegular Dances: $15, $12 CECD Members (Membership: $15) \nIce Cream Sunday: $17, $14 CECD Members (includes ice cream sundaes)"
-    links:
-      - "https://www.danceflurry.org/series/capital-english-country-dancers/"
-      - "https://cdss.org/event/capital-english-country-dancers/2024-02-04/"
-    start: "2024-02-04T13:30:00-05:00"
-    end: "2024-02-04T17:00:00-05:00"
-    country: USA
-    state: NY
-    city: Albany
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Orly Krasner
-      - Val Medve
-    price: $12-$17
-    organisation: Capital English Country Dancers
   - name: Monday Contra Dance
     details: "What better way to start the week? Only $3! It’s Monday, and we (almost) always dance on Monday."
     links:
@@ -387,3 +354,48 @@ events:
     workshop: false
     social: true
     organisation: Colorado Friends of Old Time Music and Dance
+  - name: 2nd Saturdays Contra Dance
+    details: "Our Saturday night series at Fulton Hall continues! Dances called using gender-neutral terms. All folks must be vaxxed, boosted, and masked.  \nIf you have not been to a PCDC event since 2020, you can help expedite the entry process by filling out our contact tracing form. \n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."
+    links:
+      - "https://cdss.org/event/portland-country-dance-community-2nd-saturdays-contra-dance/2024-02-10/"
+    start: "2024-02-10T19:00:00-08:00"
+    end: "2024-02-10T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Portland Country Dance Community
+  - name: English Country Dance in Dallas
+    details: Monthly English Country Dance
+    links:
+      - "https://cdss.org/event/english-country-dance-in-dallas/2024-02-10/"
+    start: "2024-02-10T19:30:00-06:00"
+    end: "2024-02-10T22:30:00-06:00"
+    country: USA
+    state: TX
+    city: Dallas
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: North Texas Traditional Dance Society (NTTDS)
+  - name: Worcester Contra Dance!
+    details: "Time: Dance 7:30-10:30 pm [Intro session 7:15 pm]\nThis is so wicked fun! It is the most fun you can have with your clothes on!\nDancing is to live fiddle tunes of Ireland, Scotland, England, France, and Appalachia! We often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time!\nLive music by Truffle Creek from Boston. They are Lillian Chase on the fiddle, Jonah Spear on guitar and foot percussion, and Cecily Mills on the cello. They draw heavily from the old time genre for their tune selections, but certainly don’t limit themselves to a singular tradition for repertoire selection. Together these three bring creativity, variety, tradition, and joy to any room they find themselves making music in.\nCaller: Paul Wilde from Rhode Island.\nAdmission (your choice): $10 – $12 p.p., $6 – $8 students, families $25. Donations are gratefully appreciated!\nParking: There is plenty of parking behind the church. Drive up State Street, take a left behind the church, and walk down Gertrude Street to enter the hall.\nFood! Donations of snacks for the break are wanted and gleefully appreciated!\nClothing & Footwear: Clothing is casual. Please wear non-street shoes that move easily on the floor (rubber-soled sneakers are discouraged, but some do wear them even though it makes dancing harder).\nRole Terms are: “Women & Men” but dancers are welcome to choose whatever role that works for them. with no worries.\nMasks: Masks are *no longer* required, but still welcome."
+    links:
+      - "https://cdss.org/event/worcester-contra-dance/"
+    start: "2024-02-10T19:30:00-05:00"
+    end: "2024-02-10T22:30:00-05:00"
+    country: USA
+    state: MA
+    city: Worcester
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Paul Wilde
+    price: $6-$25
+    organisation: CDSS
