@@ -1,5 +1,19 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
+  - name: Tobotorsdag
+    links:
+      - "https://esitobo.org/evenemang/tobotorsdag/"
+    start: "2024-02-15T19:00:00+01:00"
+    end: "2024-02-15T22:00:00+01:00"
+    country: Sweden
+    city: Uppsala
+    styles:
+      - scandi
+    workshop: false
+    social: true
+    bands:
+      - Österby Spelmän
+    organisation: Eric Sahlström Institutet
   - name: Dans i Tobo
     links:
       - "https://esitobo.org/evenemang/dans-i-tobo-festival/"
