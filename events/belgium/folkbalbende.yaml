@@ -13777,9 +13777,10 @@ events:
     bands:
       - Academie Lebbeke En Sint-Niklaas
     organisation: ~
-  - name: Folkbal
+  - name: Kettingbal
     details: Ball
     links:
+      - "https://tsmiske.be/programma/kettingbal-findus-thomas-en-emma"
       - "https://folkbalbende.be/event/2116"
     start: "2024-03-31T15:00:00+02:00"
     end: "2024-03-31T17:30:00+02:00"
@@ -13791,11 +13792,12 @@ events:
     social: true
     bands:
       - Fyndus
-    organisation: ~
+    price: €10
+    organisation: "'t Smiske"
   - name: Bal @ De Pianofabriek
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Bal Dani Padpé @ De Pianofabriek/958/"
+      - "https://frissefolk.be/en/event-en/bal-dani-padp%C3%A9-de-pianofabriek/958/"
       - "https://folkbalbende.be/event/2117"
       - "https://www.facebook.com/events/1337245963600560"
     start: "2024-03-26T19:30:00+01:00"
@@ -13813,7 +13815,8 @@ events:
   - name: Queimada
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Queimada/959/"
+      - "https://muziekpublique.be/concerts/20240316_queimada_turbobal_ballsyswing/?lang=en"
+      - "https://frissefolk.be/en/event-en/queimada/959/"
       - "https://folkbalbende.be/event/2118"
       - "https://www.facebook.com/events/1055995318988155"
     start: "2024-03-16T19:00:00+01:00"
@@ -13827,4 +13830,5 @@ events:
     bands:
       - Turbobal
       - Ballsy Swing
+    price: €15
     organisation: Frisse Folk Vzw/asbl
