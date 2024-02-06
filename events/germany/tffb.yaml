@@ -4,11 +4,12 @@ events:
     links:
       - "https://www.tff-b.de/"
       - "https://www.facebook.com/events/345217240850095/"
-    start: 2022-09-02T19:30:00+02:00
-    end: 2022-09-04T17:30:00+02:00
+    start: "2022-09-02T19:30:00+02:00"
+    end: "2022-09-04T17:30:00+02:00"
     country: Germany
     city: Trebnitz
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -19,22 +20,22 @@ events:
       - Chablis
       - Familie Gerstenberg
     organisation: TFFB
-
   - name: Tanz & Folk Festival Berlin
     links:
       - "https://www.tff-b.de/"
       - "https://www.facebook.com/events/546945243559532/"
-    start: 2023-04-14T17:30:00+02:00
-    end: 2023-04-16T16:15:00+02:00
+    start: "2023-04-14T17:30:00+02:00"
+    end: "2023-04-16T16:15:00+02:00"
     country: Germany
     city: Berlin
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
       - TFFB Festivalband
       - Knopfgemurmel
-      - L'air Inconnu
+      - "L'air Inconnu"
       - Fior
       - Rémi Geffroy
       - Duo Moore & Moss
@@ -42,15 +43,30 @@ events:
       - Stefano Baldan
     price: €10-€100
     organisation: Spreefolk eV
-
+  - name: Folk & Dance at Schäfersee
+    links:
+      - "https://spreefolk.de/events/2402-tanz-m5"
+    start: "2024-02-11T15:00:00+01:00"
+    end: "2024-02-11T18:00:00+01:00"
+    country: Germany
+    city: Berlin
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Kördeböf
+    price: free
+    organisation: Spreefolk eV
   - name: Tanz & Folk Festival Berlin
     links:
       - "https://spreefolk.de/tanz-folk-festival-berlin"
-    start: 2024-04-12T17:30:00+02:00
-    end: 2024-04-14T16:30:00+02:00
+    start: "2024-04-12T17:30:00+02:00"
+    end: "2024-04-14T16:30:00+02:00"
     country: Germany
     city: Berlin
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
