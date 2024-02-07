@@ -1,56 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: TECDA Tuesday Evening English Country Dance
-    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
-    links:
-      - "https://www.tecda.ca/weekly_dances.html"
-      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2024-02-06/"
-    start: "2024-02-06T19:00:00-05:00"
-    end: "2024-02-06T21:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: North York
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Alan Rosenthal
-      - Cathy Campbell
-      - Dave Berman
-      - Walter Zagorski
-    organisation: Toronto English Country Dance Assembly
-  - name: Indy Contra Dance
-    details: "We dance on the first Tuesday of the month, 7-9 pm ET. \nThere’s no smoking or drinking, and anyone’s welcome to dance together, regardless of age, experience, gender, preference for dogs or cats, etc. \nWe provide a brief new dancer intro / refresher / warm-up starting at 6:40, with dancing for everybody 7:00 – 9:00 pm Eastern Time. Venue is Englewood Christian Church, 57 N. Rural St., Indianapolis, Indiana. \nSliding scale, generally $5-$20. However, if you do not have enough money, ask for assistance."
-    links:
-      - "https://www.indycontra.org/"
-      - "https://cdss.org/event/indy-contra-dance/2024-02-06/"
-    start: "2024-02-06T19:00:00-05:00"
-    end: "2024-02-06T21:00:00-05:00"
-    country: USA
-    state: IN
-    city: Indianapolis
-    styles:
-      - contra
-    workshop: false
-    social: true
-    price: $5-$20
-    organisation: Indy Contra
-  - name: Williamsburg Tuesday Night English Dance
-    details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
-    links:
-      - "https://williamsburgheritagedancers.org/"
-      - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2024-02-06/"
-    start: "2024-02-06T20:00:00-05:00"
-    end: "2024-02-06T22:00:00-05:00"
-    country: USA
-    state: VA
-    city: Williamsburg
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: Williamsburg Heritage Dancers
   - name: English Country Dance
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
     links:
@@ -319,8 +268,8 @@ events:
     details: "Community Shindig: In the tradition of New England’s earliest settlers, Vineyard Preservation Trust and Circuit Arts invite you to a contra dance to celebrate the traditions of the Grange Hall as part of the fundraising campaign launch to restore/rejuvenate the historic Hall. No experience necessary!\nThis is so wicked fun! It is the most fun you can have with your clothes on!\nLive Music by The Flying Elbows, Martha’s Vineyard’s favorite string band: a community tradition! They are: Nancy Jephcote, fiddle, Bob Hammond, fiddle and banjo, Paul Thurlow, bass, Brian Weiland, percussion and mandolin, Tom Hodgson guitar.\nCaller: Don Heinold. Hailing from Rhode Island, Don has been calling at dances, weddings, and parties all over New England for over 14 years. Don is also known for teaching the Rotary (country) Waltz.\nAdmission is free, but donations are gratefully appreciated and accepted!\nParking: on-site.\nClothing & Footwear: Clothing is casual. Please wear shoes that move easily on the floor (rubber-soled sneakers are discouraged, but some do wear them even though it makes dancing harder).\nRole Terms are “Women & Men,” but dancers are welcome to choose whatever role that works for them. with no worries."
     links:
       - "https://cdss.org/event/grange-hall-contra-dance/"
-    start: "2024-02-10T17:00:00-05:00"
-    end: "2024-02-10T20:00:00-05:00"
+    start: "2024-02-10T18:30:00-05:00"
+    end: "2024-02-10T20:30:00-05:00"
     country: USA
     state: MA
     city: West Tisbury
@@ -364,6 +313,7 @@ events:
   - name: CDK Contra Dance
     details: "Contra & Square Dance – beginner workshop 7:00pm, Dancing 7:30 – 10:30pm \n\nFebruary 10: Tunes by Brook Farm String Band; calls by Marlin Whitaker.\nMarch 9: Big Fun with Darlene Underwood (English dance in the afternoon 2p-5p)\nApril 13: Smith, Campeau & Nelson with Ken Gall calling\nMay 11: Liberty String Band with Maeve Devlin calling\nJune 8: River Music with various local callers – Open Mic Night\n\nSuggested donation $5-$20"
     links:
+      - "https://www.countrydancinginkalamazoo.com/"
       - "https://cdss.org/event/cdk-contra-dance/2024-02-10/"
     start: "2024-02-10T19:00:00-05:00"
     end: "2024-02-10T22:30:00-05:00"
@@ -372,11 +322,22 @@ events:
     city: Kalamazoo
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Big Fun
+      - Brook Farm String Band
+      - Liberty String Band
+      - River Music
+      - "Smith, Campeau & Nelson"
+    callers:
+      - Darlene Underwood
+      - Ken Gall
+      - Maeve Devlin
+      - Marlin Whitaker
     price: $5-$20
     organisation: CDSS
-  - name: English Country Dance in Dallas
+  - name: English Country Dance
     details: Monthly English Country Dance
     links:
       - "https://cdss.org/event/english-country-dance-in-dallas/2024-02-10/"
@@ -421,4 +382,78 @@ events:
     workshop: false
     social: true
     price: $10-$15
+    organisation: CDSS
+  - name: Second Saturday TopHill Music Contradance Party at Guiding Star Grange
+    details: "Please check the Guiding Star Grange website for details. \nSchedule: There will be a newcomers workshop at 7:45pm. Please come early to help our new dancing friends! All are welcome! \nCost: $12-20 sliding scale \n\nHigh-level masks are mandated for this dance.\nPlease bring your own water bottle.\nUp-to-date vaccinations are encouraged but not required.\nIf you are not feeling well, please do not attend, but rather care for yourself and others and join us next time!\n\nSee venue website for this month’s details and Covid policy."
+    links:
+      - "https://cdss.org/event/second-saturday-tophill-music-contradance-party-at-guiding-star-grange/2024-02-10/"
+    start: "2024-02-10T20:00:00-05:00"
+    end: "2024-02-10T23:00:00-05:00"
+    country: USA
+    state: MA
+    city: Greenfield
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $12
+    organisation: Alice Kenney
+  - name: TADAMS 2nd Sunday Afternoon Contra Dance
+    details: "Join the Richmond VA contra dance, hosted by TADAMS, in the beautiful historic Ginter Hall on 2nd Sunday afternoons. Beginner lesson at 1:45pm; dance from 2:30-5:30. Check our full calendar for caller and band details. Admission is $15 non-members, $10 members and students, children under 13 are free.  \n "
+    links:
+      - "https://cdss.org/event/tadams-2nd-sunday-afternoon-contra-dance/2024-02-11/"
+    start: "2024-02-11T14:30:00-05:00"
+    end: "2024-02-11T17:30:00-05:00"
+    country: USA
+    state: VA
+    city: Richmond
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: TADAMS (Traditional American Dance and Music Society)
+  - name: "Dance, Sing, and Jump Around"
+    details: "a family dance for all ages\ncircle and line dances and singing games\nall dances taught and called by Liz Benjamin and Stan Carlson\n live traditional music by Joanne Garton and her young musicians\nCapital City Grange 6612 Vermont Route 12, with lots of free, safe parking\nFree for kids, $5 suggested donation for adults, but no one is turned away!\n(see the website for how to make a tax-deductible donation!)\nfmi: 802-223-1509"
+    links:
+      - "https://cdss.org/event/dance-sing-and-jump-around/2024-02-11/"
+    start: "2024-02-11T15:00:00-05:00"
+    end: "2024-02-11T16:30:00-05:00"
+    country: USA
+    state: VT
+    city: Berlin
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5
+    organisation: CDSS
+  - name: English Country Dance
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 3:30 pm. Live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using a combination of positional language and ladies/gents."
+    links:
+      - "https://cdss.org/event/english-country-dance-asheville-nc-2/2024-02-11/"
+    start: "2024-02-11T16:00:00-05:00"
+    end: "2024-02-11T18:15:00-05:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: Luanne Stiles
+  - name: Hayward Contra Dance
+    details: "We typically dance on the 2nd & 4th Sunday of each month. \nFor years, the Hayward Contra has drawn dancers from all over the Bay Area and beyond. \nSome of the unique features that have drawn a loyal following are: \nHayward is centrally located and the venue, The Hill and Valley Club, 1808 ‘B’ Street, Hayward, CA, is easy to reach by BART or car. \nAs a weekend dance, we have attracted dancers with busy work schedules. \nMeeting in the afternoon from 4-7pm, dancers coming from greater distances were able to manage the travel time both before and after the dances. \nOur venue, the Hill and Valley Club, is one of the airiest dance halls in the bay area. \nThese features have allowed us to attract a very diverse multigenerational crowd that is comfortable with our gender-neutral atmosphere. \nDetails at our website. \nWe also have a Facebook group."
+    links:
+      - "https://sfbaycontra.org/"
+      - "https://cdss.org/event/hayward-ca-contra-dance/2024-02-11/"
+    start: "2024-02-11T16:00:00-08:00"
+    end: "2024-02-11T19:00:00-08:00"
+    country: USA
+    state: CA
+    city: Hayward
+    styles:
+      - contra
+    workshop: false
+    social: true
     organisation: CDSS
