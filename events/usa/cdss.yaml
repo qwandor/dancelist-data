@@ -1,50 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Rochester Thursday Night Contras
-    details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
-    links:
-      - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-02-08/"
-    start: "2024-02-08T19:30:00-05:00"
-    end: "2024-02-08T22:30:00-05:00"
-    country: USA
-    state: NY
-    city: Rochester
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Country Dancers of Rochester
-  - name: Thursday Contra Dance
-    details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing \n$5 to $20 sliding scale \nOur role terms are Larks and Robins \nMasks are required on the 1st, 3rd and 5th Thursdays."
-    links:
-      - "https://thursdaycontra.com/"
-      - "https://cdss.org/event/thursday-contra-dance-in-philadelphia/2024-02-08/"
-    start: "2024-02-08T19:30:00-05:00"
-    end: "2024-02-08T22:30:00-05:00"
-    country: USA
-    state: PA
-    city: Philadelphia
-    styles:
-      - contra
-    workshop: true
-    social: true
-    price: $5-$20
-    organisation: PATMAD
-  - name: Berkeley Contra and English Dances
-    details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
-    links:
-      - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-02-08/"
-    start: "2024-02-08T20:00:00-08:00"
-    end: "2024-02-08T22:30:00-08:00"
-    country: USA
-    state: CA
-    city: Berkeley
-    styles:
-      - contra
-      - ecd
-    workshop: true
-    social: true
-    organisation: CDSS
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
     links:
@@ -124,20 +79,6 @@ events:
     workshop: true
     social: true
     organisation: Colorado Friends of Old Time Music and Dance
-  - name: Friday Night English Dance
-    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
-    links:
-      - "https://cdss.org/event/pcdc-friday-night-english-dance/2024-02-09/"
-    start: "2024-02-09T19:30:00-08:00"
-    end: "2024-02-09T22:30:00-08:00"
-    country: USA
-    state: OR
-    city: Portland
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: CDSS
   - name: Dover New England Country Dance
     details: "Traditional New England dance with mostly contras, some squares, circles, couple dances, and occasional English or Scottish dances. No partner nor experience needed, the dances will be taught and called. An introductory session is held at 7:30 to explain the basics. "
     links:
@@ -152,6 +93,35 @@ events:
     workshop: true
     social: true
     organisation: Dave Bateman
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
+    links:
+      - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2024-02-09/"
+    start: "2024-02-09T19:30:00-08:00"
+    end: "2024-02-09T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $7-$20
+    organisation: CDSS
+  - name: ContraATL Weekly Dance
+    details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
+    links:
+      - "https://cdss.org/event/contra-atl-weekly-dance/2024-02-09/"
+    start: "2024-02-09T19:30:00-05:00"
+    end: "2024-02-09T22:30:00-05:00"
+    country: USA
+    state: GA
+    city: Decatur
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: ContraATL
   - name: Bayou Bedlam
     details: "Contra dance weekend with Gaye Fifer calling to The Dam Beavers in Houston, TX."
     links:
@@ -267,7 +237,7 @@ events:
     social: true
     organisation: Colorado Friends of Old Time Music and Dance
   - name: 2nd Saturdays Contra Dance
-    details: "Our Saturday night series at Fulton Hall continues! Dances called using gender-neutral terms. All folks must be vaxxed, boosted, and masked.  \nIf you have not been to a PCDC event since 2020, you can help expedite the entry process by filling out our contact tracing form. \n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."
+    details: "Covid precautions are suspended indefinitely! We will continue to monitor potential exposures at PCDC events and adjust policies as needed. Refer to the PCDC Covid policy for details. \n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."
     links:
       - "https://cdss.org/event/portland-country-dance-community-2nd-saturdays-contra-dance/2024-02-10/"
     start: "2024-02-10T19:00:00-08:00"
@@ -442,3 +412,23 @@ events:
     social: true
     price: $3
     organisation: CDSS
+  - name: TECDA Tuesday Evening English Country Dance
+    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2024-02-13/"
+    start: "2024-02-13T19:00:00-05:00"
+    end: "2024-02-13T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: North York
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
