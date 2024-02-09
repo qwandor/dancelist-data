@@ -4676,6 +4676,23 @@ events:
       - KV Express
     organisation: Gugelhupf
     source: events/germany/dresden.yaml
+  - name: "Folk'N'Wald"
+    links:
+      - "https://fnwsite.wordpress.com/"
+    start: "2024-02-24T15:00:00+01:00"
+    end: "2024-02-24T23:00:00+01:00"
+    country: Germany
+    city: Fürstenwalde
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Mara Menzel
+      - Familie Gerstenberg
+    price: €20-€30
+    organisation: "Folk'N'Wald"
+    source: events/germany/frstenwalde.yaml
   - name: The Agora Ceilidh
     links:
       - "https://www.facebook.com/events/922710612182295/"
