@@ -59791,7 +59791,7 @@ events:
       - Karamaus
     organisation: Neapolis Balfolk
     source: events/italy/naples.yaml
-  - name: Dance concert
+  - name: Dance concert and workshop
     links:
       - "https://www.facebook.com/events/1140604960677498/"
     start: "2024-02-10T21:30:00+01:00"
@@ -59800,10 +59800,56 @@ events:
     city: Naples
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Geronimo
+    organisation: Neapolis Balfolk
+    source: events/italy/naples.yaml
+  - name: Dance concert and workshop
+    links:
+      - "https://www.facebook.com/events/888493592268197/"
+    start: "2024-03-16T19:30:00+01:00"
+    end: "2024-03-17T00:00:00+01:00"
+    country: Italy
+    city: Naples
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Joachim Montbord
+    organisation: Neapolis Balfolk
+    source: events/italy/naples.yaml
+  - name: Il Weekend di NAIF
+    links:
+      - "https://www.facebook.com/events/3745369689057509"
+    start: "2024-05-03T19:00:00+02:00"
+    end: "2024-05-05T00:00:00+02:00"
+    country: Italy
+    city: Naples
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Trio Loubelya
+      - Duo Le Tron/Laloy
+    organisation: Neapolis Balfolk
+    source: events/italy/naples.yaml
+  - name: Dance concert
+    links:
+      - "https://www.facebook.com/events/861023415687659"
+    start: "2024-05-25T21:00:00+02:00"
+    end: "2024-05-26T00:00:00+02:00"
+    country: Italy
+    city: Naples
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Oblique
     organisation: Neapolis Balfolk
     source: events/italy/naples.yaml
   - name: Festa a ballo
