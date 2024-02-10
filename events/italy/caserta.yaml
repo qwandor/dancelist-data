@@ -1,8 +1,10 @@
-    - name: Dance concert
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Dance concert
     links:
       - "https://www.facebook.com/events/1598331020907137"
-    start: "2024-06-15T19:30+01:00"
-    end: "2024-06-15T23:30:00+01:00"
+    start: "2024-06-15T19:30:00+02:00"
+    end: "2024-06-15T23:30:00+02:00"
     country: Italy
     city: Caserta
     styles:
