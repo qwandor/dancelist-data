@@ -2066,26 +2066,6 @@ events:
     social: true
     price: $8-$15
     organisation: Colorado Friends of Old Time Music and Dance
-  - name: Friday Night English Dance
-    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org"
-    links:
-      - "https://portlandcountrydance.org/calendar/?mc_id=5504"
-      - "https://cdss.org/event/pcdc-friday-night-english-dance/2024-02-09/"
-    start: "2024-02-09T19:30:00-08:00"
-    end: "2024-02-09T22:30:00-08:00"
-    country: USA
-    state: OR
-    city: Portland
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Fine Companions
-    callers:
-      - Ric Goldman
-    price: $7-$20
-    organisation: CDSS
   - name: Dover New England Country Dance
     details: "Traditional New England dance with mostly contras, some squares, circles, couple dances, and occasional English or Scottish dances. No partner nor experience needed, the dances will be taught and called. An introductory session is held at 7:30 to explain the basics."
     links:
@@ -2101,6 +2081,40 @@ events:
     social: true
     price: $5-$10
     organisation: Dave Bateman
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
+    links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5504"
+      - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2024-02-09/"
+    start: "2024-02-09T19:30:00-08:00"
+    end: "2024-02-09T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Fine Companions
+    callers:
+      - Ric Goldman
+    price: $7-$20
+    organisation: CDSS
+  - name: ContraATL Weekly Dance
+    details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
+    links:
+      - "https://cdss.org/event/contra-atl-weekly-dance/2024-02-09/"
+    start: "2024-02-09T19:30:00-05:00"
+    end: "2024-02-09T22:30:00-05:00"
+    country: USA
+    state: GA
+    city: Decatur
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: ContraATL
   - name: Friday Night Contra & Square Dance
     details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
     links:
@@ -2211,7 +2225,7 @@ events:
     price: $10-$15
     organisation: Colorado Friends of Old Time Music and Dance
   - name: 2nd Saturdays Contra Dance
-    details: "Our Saturday night series at Fulton Hall continues! Dances called using gender-neutral terms. All folks must be vaxxed, boosted, and masked.  \nIf you have not been to a PCDC event since 2020, you can help expedite the entry process by filling out our contact tracing form. \n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."
+    details: "Covid precautions are suspended indefinitely! We will continue to monitor potential exposures at PCDC events and adjust policies as needed. Refer to the PCDC Covid policy for details. \n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."
     links:
       - "https://portlandcountrydance.org/calendar/?mc_id=5431"
       - "https://cdss.org/event/portland-country-dance-community-2nd-saturdays-contra-dance/2024-02-10/"
@@ -2374,3 +2388,38 @@ events:
     workshop: false
     social: true
     organisation: CDSS
+  - name: Monday Contra Dance
+    details: "What better way to start the week? Only $3! It’s Monday, and we (almost) always dance on Monday."
+    links:
+      - "https://cdss.org/event/monday-contra-dance-in-nelson-nh/2024-02-12/"
+    start: "2024-02-12T19:30:00-05:00"
+    end: "2024-02-12T22:00:00-05:00"
+    country: USA
+    state: NH
+    city: Nelson
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $3
+    organisation: CDSS
+  - name: TECDA Tuesday Evening English Country Dance
+    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2024-02-13/"
+    start: "2024-02-13T19:00:00-05:00"
+    end: "2024-02-13T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: North York
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
