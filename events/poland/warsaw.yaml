@@ -1,5 +1,255 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
+  - name: Bal folk workshop
+    links:
+      - "https://www.facebook.com/events/963376321050850"
+    start_date: 2022-02-23
+    end_date: 2022-02-23
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Bal folk workshop
+    links:
+      - "https://www.facebook.com/events/5066607246728716/"
+    start_date: 2022-03-09
+    end_date: 2022-03-09
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Bal folk workshop
+    links:
+      - "https://www.facebook.com/events/537081304502520"
+    start_date: 2022-03-30
+    end_date: 2022-03-30
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Hajda Banda
+    links:
+      - "https://www.facebook.com/events/707332333945237"
+    start_date: 2022-04-03
+    end_date: 2022-04-03
+    country: Poland
+    city: Warsaw
+    styles:
+      - polish
+    workshop: false
+    social: true
+    bands:
+      - Hajda Banda
+    price: donation
+    organisation: Folkowisko
+  - name: Bal folk / fest noz with Duo Thomas/Faure
+    links:
+      - "https://www.facebook.com/events/3129443180655434/"
+    start_date: 2022-04-06
+    end_date: 2022-04-06
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Thomas/Faure
+    price: 20 PLN
+    organisation: Numinosum
+  - name: Warszawsko-Lubelska Orkiestra Dęta
+    links:
+      - "https://www.facebook.com/events/1083605735523738"
+    start_date: 2022-05-09
+    end_date: 2022-05-09
+    country: Poland
+    city: Warsaw
+    styles:
+      - polish
+    workshop: true
+    social: true
+    bands:
+      - Warszawsko-Lubelska Orkiestra Dęta
+    price: PWYW
+    organisation: Dom Tańca
+  - name: May Bal Folk
+    links:
+      - "https://www.facebook.com/events/378286280980767/"
+    start_date: 2022-05-11
+    end_date: 2022-05-11
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Kapela Odloty
+    links:
+      - "https://www.facebook.com/events/1414868612351286"
+    start_date: 2022-05-21
+    end_date: 2022-05-21
+    country: Poland
+    city: Warsaw
+    styles:
+      - polish
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Kapela Odloty
+    price: 20 PLN
+    organisation: ~
+  - name: Balfolk before Blues Exchange
+    links:
+      - "https://www.facebook.com/events/459813985597841/"
+    start: "2022-07-13T20:00:00+02:00"
+    end: "2022-07-13T23:45:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Bal folk before Balfolk summer weekend Warsaw
+    links:
+      - "https://www.facebook.com/events/5203268343124644/"
+    start: "2022-07-20T20:00:00+02:00"
+    end: "2022-07-20T23:45:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Balfolk summer weekend
+    links:
+      - "https://docs.google.com/forms/d/e/1FAIpQLSeEVhIMASK77TC0l1QkPQhaVr-AXyyf5n9D1dznR9d_gYti2Q/viewform"
+      - "https://www.facebook.com/events/402766374760784/"
+    start: "2022-07-22T20:00:00+02:00"
+    end: "2022-07-24T02:00:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Geronimo
+      - Hartwin Dhoore
+      - Viorel
+    price: 95 PLN
+    organisation: Numinosum
+  - name: Bal folk before Numinosum
+    links:
+      - "https://www.facebook.com/events/383746257242728/"
+    start: "2022-09-07T20:00:00+02:00"
+    end: "2022-09-07T23:45:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Wszystkie Mazurki Świata
+    links:
+      - "http://www.festivalmazurki.pl"
+    start_date: 2022-11-25
+    end_date: 2022-11-27
+    country: Poland
+    city: Warsaw
+    styles:
+      - polish
+    workshop: true
+    social: true
+    organisation: Wszystkie Mazurki Świata
+  - name: Bal Folk class
+    links:
+      - "https://www.facebook.com/events/680319843464592/680319853464591/"
+    start: "2022-12-01T19:45:00+01:00"
+    end: "2022-12-01T21:15:00+01:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: 200 PLN
+    organisation: Polish Academy of Traditional Dance
+  - name: Bal Folk class
+    links:
+      - "https://www.facebook.com/events/680319843464592/680319856797924/"
+    start: "2022-12-08T19:45:00+01:00"
+    end: "2022-12-08T21:15:00+01:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: 200 PLN
+    organisation: Polish Academy of Traditional Dance
+  - name: Bal Folk class
+    links:
+      - "https://www.facebook.com/events/680319843464592/680319860131257/"
+    start: "2022-12-15T19:45:00+01:00"
+    end: "2022-12-15T21:15:00+01:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: 200 PLN
+    organisation: Polish Academy of Traditional Dance
+  - name: Bal Folk class
+    links:
+      - "https://www.facebook.com/events/680319843464592/680319846797925/"
+    start: "2022-12-29T19:45:00+01:00"
+    end: "2022-12-29T21:15:00+01:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: 200 PLN
+    organisation: Polish Academy of Traditional Dance
+  - name: "New Year's Dance"
+    links:
+      - "https://www.facebook.com/events/865698571477307/"
+      - "https://forms.gle/Bb8QcPt6ERvUKkXK6"
+    start: "2022-12-31T20:00:00+01:00"
+    end: "2023-01-01T03:00:00+01:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Balladum
+    price: 130 PLN
+    organisation: Numinosum
   - name: 1001 Mazurkas
     links:
       - "https://www.facebook.com/events/737256741304950/"
@@ -14,7 +264,37 @@ events:
     social: true
     price: 50 PLN
     organisation: Bal Folk Warszawa
-
+  - name: Jubilee balfolk
+    links:
+      - "https://www.facebook.com/events/1599250670555604/"
+    start: "2023-06-14T20:00:00+02:00"
+    end: "2023-06-14T23:45:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Balladum
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Polka workshop and Bal Folk
+    links:
+      - "https://www.facebook.com/events/983458609539864/"
+      - "https://www.facebook.com/events/282967750830552/"
+    start: "2023-07-06T18:30:00+02:00"
+    end: "2023-07-06T23:00:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - ŠakarMakar
+    price: 20-30 PLN
+    organisation: Numinosum
   - name: (Rund)polska & slängpolska
     links:
       - "https://www.facebook.com/events/693319195709539/"

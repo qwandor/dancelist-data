@@ -1,0 +1,101 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal Folk at KIPISZ
+    links:
+      - "https://www.facebook.com/events/1112546652859942"
+    start_date: 2022-04-22
+    end_date: 2022-04-22
+    country: Poland
+    city: Łódź
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: 5 PLN
+    organisation: ~
+  - name: Bal Folk at KIPISZ
+    links:
+      - "https://www.facebook.com/events/3088104521443420"
+    start_date: 2022-05-20
+    end_date: 2022-05-20
+    country: Poland
+    city: Łódź
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: 5 PLN
+    organisation: KIPISZ
+  - name: Spontan
+    links:
+      - "https://www.facebook.com/events/1639466833092209/"
+    start_date: 2022-06-11
+    end_date: 2022-06-11
+    country: Poland
+    city: Łódź
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: Balfolk Łódź
+  - name: III Potańcówka na Cygance // Cucimy Cygankę
+    links:
+      - "https://www.facebook.com/events/1368669916974255"
+    start: "2022-07-20T19:00:00+02:00"
+    end: "2022-07-21T00:00:00+02:00"
+    country: Poland
+    city: Łódź
+    styles:
+      - polish
+    workshop: false
+    social: true
+    price: donation
+    organisation: Po Staremu
+  - name: Bal Folk at KIPISZ
+    links:
+      - "https://www.plug.events/event/kipi-taniec-kipi-folk8"
+    start: "2022-11-11T19:00:00+01:00"
+    end: "2022-11-12T00:00:00+01:00"
+    country: Poland
+    city: Łódź
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: 5 PLN
+    organisation: ~
+  - name: Boatfolk
+    links:
+      - "https://www.facebook.com/events/167101119481484/"
+    start: "2023-07-08T19:00:00+02:00"
+    end: "2023-07-08T22:00:00+02:00"
+    country: Poland
+    city: Łódź
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Potoczny-Bartczak-Hołoga
+      - Mr Folxlide
+      - Stefano Baldan
+    price: 100 PLN
+    organisation: Balfolk Łódź
+  - name: Winter Boatfolk
+    links:
+      - "https://www.facebook.com/events/815579923391686/"
+    start: "2024-01-27T19:00:00+01:00"
+    end: "2024-01-28T00:00:00+01:00"
+    country: Poland
+    city: Łódź
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Florian de Schepper
+      - "Duo l'Hêtre Heureux"
+      - OMGDude
+    price: 110-120 PLN
+    organisation: Balfolk Łódź
