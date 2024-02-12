@@ -56339,50 +56339,6 @@ events:
     price: 10 PLN
     organisation: Numinosum
     source: events/poland/poland.yaml
-  - name: Bal folk workshop
-    links:
-      - "https://www.facebook.com/events/5066607246728716/"
-    start_date: 2022-03-09
-    end_date: 2022-03-09
-    country: Poland
-    city: Warsaw
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: 10 PLN
-    organisation: Numinosum
-    source: events/poland/poland.yaml
-  - name: Bal folk / fest noz with Duo Thomas/Faure
-    links:
-      - "https://www.facebook.com/events/3129443180655434/"
-    start_date: 2022-04-06
-    end_date: 2022-04-06
-    country: Poland
-    city: Warsaw
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Duo Thomas/Faure
-    price: 20 PLN
-    organisation: Numinosum
-    source: events/poland/poland.yaml
-  - name: Shrovetide dance
-    links:
-      - "https://www.facebook.com/events/3233279463562523/"
-    start_date: 2022-02-28
-    end_date: 2022-02-28
-    country: Poland
-    city: Wrocław
-    styles:
-      - polish
-    workshop: false
-    social: true
-    price: 40-60 PLN
-    organisation: ~
-    source: events/poland/poland.yaml
   - name: February Dance
     links:
       - "https://www.facebook.com/events/2625233657610859"
@@ -56398,6 +56354,34 @@ events:
     social: true
     price: 20 PLN
     organisation: n obrotów
+    source: events/poland/poland.yaml
+  - name: Shrovetide dance
+    links:
+      - "https://www.facebook.com/events/3233279463562523/"
+    start_date: 2022-02-28
+    end_date: 2022-02-28
+    country: Poland
+    city: Wrocław
+    styles:
+      - polish
+    workshop: false
+    social: true
+    price: 40-60 PLN
+    organisation: ~
+    source: events/poland/poland.yaml
+  - name: Bal folk workshop
+    links:
+      - "https://www.facebook.com/events/5066607246728716/"
+    start_date: 2022-03-09
+    end_date: 2022-03-09
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
     source: events/poland/poland.yaml
   - name: Bal folk workshop
     links:
@@ -56443,6 +56427,36 @@ events:
     price: donation
     organisation: Folkowisko
     source: events/poland/poland.yaml
+  - name: Bal folk / fest noz with Duo Thomas/Faure
+    links:
+      - "https://www.facebook.com/events/3129443180655434/"
+    start_date: 2022-04-06
+    end_date: 2022-04-06
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Thomas/Faure
+    price: 20 PLN
+    organisation: Numinosum
+    source: events/poland/poland.yaml
+  - name: Bal Folk at KIPISZ
+    links:
+      - "https://www.facebook.com/events/1112546652859942"
+    start_date: 2022-04-22
+    end_date: 2022-04-22
+    country: Poland
+    city: Łódź
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: 5 PLN
+    organisation: ~
+    source: events/poland/poland.yaml
   - name: Folktańcówka
     links:
       - "https://www.facebook.com/events/668171691111107"
@@ -56476,51 +56490,6 @@ events:
     price: 50 PLN
     organisation: ~
     source: events/poland/poland.yaml
-  - name: Bal Folk at KIPISZ
-    links:
-      - "https://www.facebook.com/events/1112546652859942"
-    start_date: 2022-04-22
-    end_date: 2022-04-22
-    country: Poland
-    city: Łódź
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: 5 PLN
-    organisation: ~
-    source: events/poland/poland.yaml
-  - name: Folktańcówka
-    links:
-      - "https://www.facebook.com/events/709956493792631"
-    start_date: 2022-05-20
-    end_date: 2022-05-20
-    country: Poland
-    city: Poznań
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: free
-    organisation: Bal Folk Poznań
-    source: events/poland/poland.yaml
-  - name: Kapela Odloty
-    links:
-      - "https://www.facebook.com/events/1414868612351286"
-    start_date: 2022-05-21
-    end_date: 2022-05-21
-    country: Poland
-    city: Warsaw
-    styles:
-      - polish
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Kapela Odloty
-    price: 20 PLN
-    organisation: ~
-    source: events/poland/poland.yaml
   - name: Warszawsko-Lubelska Orkiestra Dęta
     links:
       - "https://www.facebook.com/events/1083605735523738"
@@ -56536,20 +56505,6 @@ events:
       - Warszawsko-Lubelska Orkiestra Dęta
     price: PWYW
     organisation: Dom Tańca
-    source: events/poland/poland.yaml
-  - name: Bal Folk at KIPISZ
-    links:
-      - "https://www.facebook.com/events/3088104521443420"
-    start_date: 2022-05-20
-    end_date: 2022-05-20
-    country: Poland
-    city: Łódź
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: 5 PLN
-    organisation: KIPISZ
     source: events/poland/poland.yaml
   - name: May Bal Folk
     links:
@@ -56578,6 +56533,51 @@ events:
     social: true
     price: free
     organisation: Balfolk Bydgoszcz
+    source: events/poland/poland.yaml
+  - name: Folktańcówka
+    links:
+      - "https://www.facebook.com/events/709956493792631"
+    start_date: 2022-05-20
+    end_date: 2022-05-20
+    country: Poland
+    city: Poznań
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: Bal Folk Poznań
+    source: events/poland/poland.yaml
+  - name: Bal Folk at KIPISZ
+    links:
+      - "https://www.facebook.com/events/3088104521443420"
+    start_date: 2022-05-20
+    end_date: 2022-05-20
+    country: Poland
+    city: Łódź
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: 5 PLN
+    organisation: KIPISZ
+    source: events/poland/poland.yaml
+  - name: Kapela Odloty
+    links:
+      - "https://www.facebook.com/events/1414868612351286"
+    start_date: 2022-05-21
+    end_date: 2022-05-21
+    country: Poland
+    city: Warsaw
+    styles:
+      - polish
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Kapela Odloty
+    price: 20 PLN
+    organisation: ~
     source: events/poland/poland.yaml
   - name: Folk summer
     links:
@@ -56667,6 +56667,20 @@ events:
     price: free
     organisation: Bal Folk Poznań
     source: events/poland/poland.yaml
+  - name: III Potańcówka na Cygance // Cucimy Cygankę
+    links:
+      - "https://www.facebook.com/events/1368669916974255"
+    start: "2022-07-20T19:00:00+02:00"
+    end: "2022-07-21T00:00:00+02:00"
+    country: Poland
+    city: Łódź
+    styles:
+      - polish
+    workshop: false
+    social: true
+    price: donation
+    organisation: Po Staremu
+    source: events/poland/poland.yaml
   - name: Bal folk before Balfolk summer weekend Warsaw
     links:
       - "https://www.facebook.com/events/5203268343124644/"
@@ -56680,6 +56694,24 @@ events:
     social: true
     price: 10 PLN
     organisation: Numinosum
+    source: events/poland/poland.yaml
+  - name: POKtańcówka & warsztaty & koncert
+    links:
+      - "https://www.facebook.com/events/401216308716396/401216312049729/"
+    start: "2022-07-21T18:00:00+02:00"
+    end: "2022-07-24T16:00:00+02:00"
+    country: Poland
+    city: Białystok
+    styles:
+      - polish
+    workshop: true
+    social: true
+    bands:
+      - Wowakin Trio
+      - Kapela Dejcie Pozór
+      - Smetonos Usai
+    price: free
+    organisation: Podlaski Instytut Kultury
     source: events/poland/poland.yaml
   - name: Balfolk summer weekend
     links:
@@ -56770,52 +56802,6 @@ events:
     price: 25 PLN
     organisation: EtnoBalans
     source: events/poland/poland.yaml
-  - name: III Potańcówka na Cygance // Cucimy Cygankę
-    links:
-      - "https://www.facebook.com/events/1368669916974255"
-    start: "2022-07-20T19:00:00+02:00"
-    end: "2022-07-21T00:00:00+02:00"
-    country: Poland
-    city: Łódź
-    styles:
-      - polish
-    workshop: false
-    social: true
-    price: donation
-    organisation: Po Staremu
-    source: events/poland/poland.yaml
-  - name: POKtańcówka & warsztaty & koncert
-    links:
-      - "https://www.facebook.com/events/401216308716396/401216312049729/"
-    start: "2022-07-21T18:00:00+02:00"
-    end: "2022-07-24T16:00:00+02:00"
-    country: Poland
-    city: Białystok
-    styles:
-      - polish
-    workshop: true
-    social: true
-    bands:
-      - Wowakin Trio
-      - Kapela Dejcie Pozór
-      - Smetonos Usai
-    price: free
-    organisation: Podlaski Instytut Kultury
-    source: events/poland/poland.yaml
-  - name: Bal folk before Numinosum
-    links:
-      - "https://www.facebook.com/events/383746257242728/"
-    start: "2022-09-07T20:00:00+02:00"
-    end: "2022-09-07T23:45:00+02:00"
-    country: Poland
-    city: Warsaw
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: 10 PLN
-    organisation: Numinosum
-    source: events/poland/poland.yaml
   - name: Bal Łazarski | 7
     links:
       - "https://www.facebook.com/events/416358377256166/"
@@ -56859,6 +56845,20 @@ events:
     social: true
     organisation: Wrocławskie Potupajki Bal Folkowe
     source: events/poland/poland.yaml
+  - name: Bal folk before Numinosum
+    links:
+      - "https://www.facebook.com/events/383746257242728/"
+    start: "2022-09-07T20:00:00+02:00"
+    end: "2022-09-07T23:45:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+    source: events/poland/poland.yaml
   - name: Fest-noz with Trio Hamon/Martin/Ebrel
     links:
       - "https://www.facebook.com/events/601481494970560"
@@ -56874,6 +56874,20 @@ events:
       - Trio Hamon/Martin/Ebrel
     price: 30 PLN
     organisation: Dom Bretanii
+    source: events/poland/poland.yaml
+  - name: Bal Folk at KIPISZ
+    links:
+      - "https://www.plug.events/event/kipi-taniec-kipi-folk8"
+    start: "2022-11-11T19:00:00+01:00"
+    end: "2022-11-12T00:00:00+01:00"
+    country: Poland
+    city: Łódź
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: 5 PLN
+    organisation: ~
     source: events/poland/poland.yaml
   - name: Folktańcówka
     links:
@@ -56901,20 +56915,6 @@ events:
     workshop: true
     social: true
     organisation: Wszystkie Mazurki Świata
-    source: events/poland/poland.yaml
-  - name: Bal Folk at KIPISZ
-    links:
-      - "https://www.plug.events/event/kipi-taniec-kipi-folk8"
-    start: "2022-11-11T19:00:00+01:00"
-    end: "2022-11-12T00:00:00+01:00"
-    country: Poland
-    city: Łódź
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: 5 PLN
-    organisation: ~
     source: events/poland/poland.yaml
   - name: Bal Folk class
     links:
@@ -57003,20 +57003,6 @@ events:
     price: 130 PLN
     organisation: Numinosum
     source: events/poland/poland.yaml
-  - name: Scottish cèilidh
-    links:
-      - "https://taniec.info.pl/zajecia/taniec-wroclaw/ceilidih/"
-    start: "2023-01-13T20:00:00+01:00"
-    end: "2023-01-13T22:00:00+01:00"
-    country: Poland
-    city: Wrocław
-    styles:
-      - s-ceilidh
-    workshop: true
-    social: false
-    price: 30 PLN
-    organisation: 11 Dom
-    source: events/poland/poland.yaml
   - name: Folktańcówka
     links:
       - "https://www.facebook.com/events/1292913878220667"
@@ -57046,6 +57032,20 @@ events:
     social: false
     price: free
     organisation: Bal Folk Kraków
+    source: events/poland/poland.yaml
+  - name: Scottish cèilidh
+    links:
+      - "https://taniec.info.pl/zajecia/taniec-wroclaw/ceilidih/"
+    start: "2023-01-13T20:00:00+01:00"
+    end: "2023-01-13T22:00:00+01:00"
+    country: Poland
+    city: Wrocław
+    styles:
+      - s-ceilidh
+    workshop: true
+    social: false
+    price: 30 PLN
+    organisation: 11 Dom
     source: events/poland/poland.yaml
   - name: Folktańcówka
     links:
@@ -57166,21 +57166,6 @@ events:
     price: 10 PLN
     organisation: Dom Bretanii
     source: events/poland/poland.yaml
-  - name: Bal na szczycie
-    links:
-      - "https://www.facebook.com/events/1261254381457098/"
-      - "https://docs.google.com/forms/d/e/1FAIpQLSekHw8KFW9XR0D0P76-WfG02swbQNEJyUpNe9ChbDlPXJnMxA/viewform"
-    start: "2023-05-12T09:30:00+02:00"
-    end: "2023-05-14T15:00:00+02:00"
-    country: Poland
-    city: Wisła
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: 270 PLN
-    organisation: Balfolk Łódź
-    source: events/poland/poland.yaml
   - name: Anniversary fest-noz with Skolvan band
     details: Anniversary fest-noz with Skolvan band to celebrate the 30th anniversary of Dom Bretanii
     links:
@@ -57212,6 +57197,21 @@ events:
     social: false
     price: 30 PLN
     organisation: 11 Dom
+    source: events/poland/poland.yaml
+  - name: Bal na szczycie
+    links:
+      - "https://www.facebook.com/events/1261254381457098/"
+      - "https://docs.google.com/forms/d/e/1FAIpQLSekHw8KFW9XR0D0P76-WfG02swbQNEJyUpNe9ChbDlPXJnMxA/viewform"
+    start: "2023-05-12T09:30:00+02:00"
+    end: "2023-05-14T15:00:00+02:00"
+    country: Poland
+    city: Wisła
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: 270 PLN
+    organisation: Balfolk Łódź
     source: events/poland/poland.yaml
   - name: Jubilee balfolk
     links:
@@ -57264,6 +57264,20 @@ events:
     price: 100 PLN
     organisation: Balfolk Łódź
     source: events/poland/poland.yaml
+  - name: Scottish cèilidh
+    links:
+      - "https://taniec.info.pl/zajecia/taniec-wroclaw/ceilidih/"
+    start: "2023-10-13T20:00:00+02:00"
+    end: "2023-10-13T22:30:00+02:00"
+    country: Poland
+    city: Wrocław
+    styles:
+      - s-ceilidh
+    workshop: true
+    social: false
+    price: 30 PLN
+    organisation: 11 Dom
+    source: events/poland/poland.yaml
   - name: "Folk Autumn: Balfolk x Céilí"
     details: Concert of music group Copernicéilidh that plays traditional irish and scottish songs. An event will be a marriage between balfolk and ceili dances. There will be workshops at the beginning to refresh certain ceili sets and less common balfolk dances.
     links:
@@ -57283,43 +57297,26 @@ events:
     price: 20 PLN
     organisation: Balfolk Bydgoszcz
     source: events/poland/poland.yaml
-  - name: Scottish cèilidh
+  - name: Cèilidh
     links:
       - "https://taniec.info.pl/zajecia/taniec-wroclaw/ceilidih/"
-    start: "2023-10-13T20:00:00+02:00"
-    end: "2023-10-13T22:30:00+02:00"
+    start: "2023-12-15T19:30:00+01:00"
+    end: "2023-12-15T22:30:00+01:00"
     country: Poland
     city: Wrocław
     styles:
+      - balfolk
       - s-ceilidh
     workshop: true
     social: false
     price: 30 PLN
     organisation: 11 Dom
     source: events/poland/poland.yaml
-  - name: Winter Boatfolk
-    links:
-      - "https://www.facebook.com/events/815579923391686/"
-    start: "2024-01-27T19:00:00+01:00"
-    end: "2024-01-28T00:00:00+01:00"
-    country: Poland
-    city: Łódź
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Florian de Schepper
-      - "Duo l'Hêtre Heureux"
-      - OMGDude
-    price: 110-120 PLN
-    organisation: Balfolk Łódź
-    source: events/poland/poland.yaml
-  - name: Cèilidh
+  - name: Scottish cèilidh
     links:
       - "https://taniec.info.pl/zajecia/taniec-wroclaw/ceilidih/"
-    start: "2023-12-15T19:30:00+01:00"
-    end: "2023-12-15T22:30:00+01:00"
+    start: "2024-01-19T20:00:00+01:00"
+    end: "2024-01-19T22:30:00+01:00"
     country: Poland
     city: Wrocław
     styles:
@@ -57343,6 +57340,24 @@ events:
     social: false
     price: 100-150 PLN
     organisation: Polish Academy of Traditional Dance
+    source: events/poland/poland.yaml
+  - name: Winter Boatfolk
+    links:
+      - "https://www.facebook.com/events/815579923391686/"
+    start: "2024-01-27T19:00:00+01:00"
+    end: "2024-01-28T00:00:00+01:00"
+    country: Poland
+    city: Łódź
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Florian de Schepper
+      - "Duo l'Hêtre Heureux"
+      - OMGDude
+    price: 110-120 PLN
+    organisation: Balfolk Łódź
     source: events/poland/poland.yaml
   - name: 1001 Mazurkas
     links:
