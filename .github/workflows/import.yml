@@ -32,6 +32,8 @@ jobs:
         run: dancelist import balfolknl events/netherlands/balfolk_nl.yaml
       - name: Import cdss
         run: dancelist import cdss events/usa/cdss.yaml
+      - name: Import spreefolk
+        run: dancelist import spreefolk events/germany/spreefolk.yaml
       - name: Commit if changed
         run: |
           git add events/netherlands/balfolk_nl.yaml events/usa/cdss.yaml
