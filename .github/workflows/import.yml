@@ -36,7 +36,7 @@ jobs:
         run: dancelist import spreefolk events/germany/spreefolk.yaml
       - name: Commit if changed
         run: |
-          git add events/netherlands/balfolk_nl.yaml events/usa/cdss.yaml
+          git add events/netherlands/balfolk_nl.yaml events/usa/cdss.yaml events/germany/spreefolk.yaml
           git config user.name "Automatic import"
           git config user.email "dancelist-import@users.noreply.github.com"
           if git commit -m "Update import."
