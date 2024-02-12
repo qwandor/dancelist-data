@@ -47,7 +47,7 @@ jobs:
       - name: Install dancelist
         run: cargo install --git https://github.com/qwandor/dancelist
       - name: Import
-        run: dancelist import ${{ matrix.name }} > ${{ matrix.file }}
+        run: dancelist import ${{ matrix.name }} ${{ matrix.file }}
       - name: Commit if changed
         run: |
           git add ${{ matrix.file }}
