@@ -39103,6 +39103,27 @@ events:
     social: true
     organisation: NEFFA
     source: events/usa/trycontra.yaml
+  - name: Fiddlehead Frolic
+    links:
+      - "http://www.hands4dancers.org/upcoming-dances/2024/3/30/fiddlehead-frolic"
+    start: "2024-03-30T12:30:00-04:00"
+    end: "2024-03-30T22:00:00-04:00"
+    country: USA
+    state: NY
+    city: Ithaca
+    styles:
+      - balfolk
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Eloise & Co.
+      - Metku
+    callers:
+      - Mary Wesley
+    price: $18-$35
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
   - name: Hands Four Spring Dance Weekend
     links:
       - "https://www.hands4-berea.com/"
@@ -39120,6 +39141,27 @@ events:
     callers:
       - Terry Doyle
       - Sarah Kaiser
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Dandelion Romp
+    links:
+      - "https://advance.oberlin.edu/events/2024/04/19/dandelion-romp-2024"
+    start: "2024-04-19T19:30:00-04:00"
+    end: "2024-04-21T16:00:00-04:00"
+    country: USA
+    state: OH
+    city: Oberlin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Elixir
+      - Engine Room
+    callers:
+      - Adina Gordon
+      - Nils Fredland
+    price: $30-$65
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Trillium Twirl
@@ -39210,6 +39252,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Hot Coffee Breakdown
+      - Brazenkeys
+    callers:
+      - Gaye Fifer
+      - Janine Smith
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Spring Dance Romance
@@ -39244,6 +39292,25 @@ events:
       - contra
     workshop: true
     social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: "Moulin d'Andé Weekend"
+    links:
+      - "https://sites.google.com/site/americancontradanceinparis/"
+      - "https://www.facebook.com/events/1889585761472902/"
+    start: "2024-05-24T19:00:00+02:00"
+    end: "2024-05-26T18:00:00+02:00"
+    country: France
+    city: Val-de-Reuil
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Nozzy
+    callers:
+      - Kappy Lanning
+      - Janine Smith
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Contradancers Delight Holiday
@@ -68116,7 +68183,6 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/bal-snaarmaarwaar-cellule/936/"
       - "https://www.facebook.com/events/911678620384172/"
-      - "https://folkbalbende.be/event/2061"
     start: "2024-03-10T14:30:00+01:00"
     end: "2024-03-10T19:00:00+01:00"
     country: Belgium
