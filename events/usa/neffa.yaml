@@ -8,7 +8,10 @@ events:
     country: USA
     state: MA
     city: Marlborough
-    styles: [contra, scandi, balfolk]
+    styles:
+      - contra
+      - scandi
+      - balfolk
     workshop: true
     social: true
     organisation: NEFFA
