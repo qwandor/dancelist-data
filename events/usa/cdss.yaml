@@ -760,6 +760,8 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - The English Muffins
     price: $10-$25
     organisation: Nashville Country Dancers
   - name: Orlando Contra Dance
@@ -780,6 +782,7 @@ events:
   - name: ContraATL Weekly Dance
     details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
     links:
+      - "https://contradance.org/"
       - "https://cdss.org/event/contra-atl-weekly-dance/2024-02-23/"
     start: "2024-02-23T19:30:00-05:00"
     end: "2024-02-23T22:30:00-05:00"
@@ -788,7 +791,7 @@ events:
     city: Decatur
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     organisation: ContraATL
   - name: Friday Night Contra & Square Dance
@@ -838,6 +841,10 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Holiday Ball Orchestra
+    callers:
+      - Ron Buchanan
     organisation: Pittsburgh Contra Dance
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
@@ -868,9 +875,11 @@ events:
     workshop: false
     social: true
     bands:
+      - Engine Room
       - Stomp Rocket
     callers:
       - Lisa Greenleaf
+      - Susan Michaels
     organisation: California Dance Co-Operative
   - name: Valley Contra Dance Double Dance
     details: "Alex Deis-Lauby calling to Kingfisher\nSpecial Event: Afternoon Challenging Contras \nPotluck Supper 6-7:00\nBeginner lesson 7 PM\nEvening Dance 7:30-10:30 PM\n$15/ Students $7\nDance clothing exchange—bring gently used dance clothes and take something new home."
@@ -887,6 +896,8 @@ events:
     social: true
     bands:
       - Kingfisher
+    callers:
+      - Alex Deis-Lauby
     price: $7-$15
     organisation: Valley Contra Dance Society
   - name: Carolina English Country Dancers
@@ -932,6 +943,8 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - A Fine Kettle of Fish
     callers:
       - Vicki Morrison
     price: $5-$10
