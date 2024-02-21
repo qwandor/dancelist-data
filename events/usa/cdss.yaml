@@ -3445,6 +3445,7 @@ events:
   - name: CDK Contra & Square Dance
     details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \n4th Saturday Schedule: \n\nFebruary 24: Contra & Squares with Hawks and Owls String Band, calls by Karin Neils & Friends \nMarch 23: Contra & Squares with Soltre, calls by Mike Clark\nJune 22: Contra & Squares – ADVANCED Dance  Brook Farm, calls by Laurie Pietravalle\n\nSuggested donation $5-$20"
     links:
+      - "https://www.countrydancinginkalamazoo.com/"
       - "https://cdss.org/event/cdk-contra-square-dance/2024-02-24/"
     start: "2024-02-24T19:00:00-05:00"
     end: "2024-02-24T22:30:00-05:00"
@@ -3453,8 +3454,12 @@ events:
     city: Kalamazoo
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Hawks and Owls String Band
+    callers:
+      - Karin Neils
     price: $5-$20
     organisation: CDSS
   - name: San Antonio Contra Dance
@@ -3476,6 +3481,7 @@ events:
   - name: Mendocino English Country Dance
     details: "Fourth Saturday of every month (check our calendar for occasional date changes). \nLive music with Take a Dance, the Mendocino English Country Dance Orchestra. \nDances taught and prompted by alternating local and guest callers.  \nFun and friendly dancers welcome newcomers in an inclusive and enjoyable environment. Everyone gets to dance!"
     links:
+      - "https://www.mendoecd.org/event/monthly-2022-05-28-2022-06-25-2022-07-23-2022-08-27-2022-09-24-2022-10-22-2022-11-26-2022-12-24-2023-05-27-2023-06-24-2023-12-23-2024-02-24/"
       - "https://cdss.org/event/mendocino-english-country-dance/2024-02-24/"
     start: "2024-02-24T19:30:00-05:00"
     end: "2024-02-24T22:00:00-05:00"
@@ -3488,12 +3494,14 @@ events:
     social: true
     bands:
       - Take a Dance
+    price: $15
     organisation: Mendocino English Country Dance
   - name: Richmond Saturday Night Contra Dance
     details: "Join the Richmond, VA, contra dance, hosted by TADAMS at the West End Ballroom for a Saturday evening dance. Beginner lesson at 6:45pm, dance from 7:30-10:30pm. Admission is $15 non-members, $10 members and students, children under 13 are free. Please check our full website calendar for caller and band details."
     links:
+      - "https://tadamsva.org/dance/saturday-contra-dance-web-2-24-2023/"
       - "https://cdss.org/event/richmond-va-saturday-night-contra-dance/2024-02-24/"
-    start: "2024-02-24T19:30:00-05:00"
+    start: "2024-02-24T18:45:00-05:00"
     end: "2024-02-24T22:30:00-05:00"
     country: USA
     state: VA
@@ -3502,6 +3510,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Stay All Night
+    callers:
+      - Jack Maus
     price: $10-$15
     organisation: TADAMS (Traditional American Dance and Music Society)
   - name: Anaheim Contra Dance
@@ -3540,20 +3552,25 @@ events:
     details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $12 for adults; $8 for college students with ID; $5 for dancers under 18; $25 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
     links:
       - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays/2024-02-24/"
-    start: "2024-02-24T19:00:00-08:00"
+    start: "2024-02-24T18:30:00-08:00"
     end: "2024-02-24T22:00:00-08:00"
     country: USA
     state: CA
     city: Sacramento
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
-    price: $5-$25
+    bands:
+      - The Cain Raisers
+    callers:
+      - Dane Wallinga
+    price: $5-$12
     organisation: Sacramento Country Dance Society
   - name: Seattle English Country Ball
     details: "English Country Dance Ball Weekend. Dancing Master: David Macemon; Musicians: Anita Anderson, Dave Bartley, and Susan Larkin"
     links:
+      - "https://seattleball.org/ballDesc.php"
       - "https://cdss.org/event/seattle-english-country-ball/"
     start: "2024-02-24T19:00:00-08:00"
     end: "2024-02-24T23:00:00-08:00"
@@ -3564,4 +3581,9 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Anita Anderson, Dave Bartley, Susan Larkin
+    callers:
+      - David Macemon
+    price: $50
     organisation: CDSS
