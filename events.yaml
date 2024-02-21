@@ -7386,7 +7386,7 @@ events:
     social: true
     bands:
       - Rum Ram Ruff
-      - Blackbeards Tea Party
+      - "Blackbeard's Tea Party"
       - "Filkin's Ensemble"
     organisation: Webfeet
     source: events/uk/webfeet_2022.yaml
@@ -7526,7 +7526,7 @@ events:
     social: true
     bands:
       - English Dulcimer Duo
-      - Blackbeards Tea Party
+      - "Blackbeard's Tea Party"
     organisation: FolkEast
     source: events/uk/webfeet_2022.yaml
   - name: Threepenny Bit in Wareham
@@ -11510,7 +11510,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Karen Hanna & Friends
+      - Karen Hanna & friends
     callers:
       - Bob Morgan
     price: £2
@@ -11964,7 +11964,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Karen & friends
+      - Karen Hanna & friends
     callers:
       - Paul Andrews
     price: £2
@@ -19040,7 +19040,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Deux sans Frontières
+      - Deux Sans Frontières
     organisation: Dansez Français
     source: events/uk/dansez_francais.yaml
   - name: Dansez Français
@@ -33200,7 +33200,7 @@ events:
       - Tref
       - Lunesk
       - Swedenquell
-      - Diaton
+      - DiaTon
       - "L'air Inconnu"
     price: €38-€90
     organisation: TanzhausFolk
@@ -43505,6 +43505,27 @@ events:
     price: $5-$10
     organisation: Lisa Lowell
     source: events/usa/cdss.yaml
+  - name: CDK Contra & Square Dance
+    details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \n4th Saturday Schedule: \n\nFebruary 24: Contra & Squares with Hawks and Owls String Band, calls by Karin Neils & Friends \nMarch 23: Contra & Squares with Soltre, calls by Mike Clark\nJune 22: Contra & Squares – ADVANCED Dance  Brook Farm, calls by Laurie Pietravalle\n\nSuggested donation $5-$20"
+    links:
+      - "https://www.countrydancinginkalamazoo.com/"
+      - "https://cdss.org/event/cdk-contra-square-dance/2024-02-24/"
+    start: "2024-02-24T19:00:00-05:00"
+    end: "2024-02-24T22:30:00-05:00"
+    country: USA
+    state: MI
+    city: Kalamazoo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Hawks and Owls String Band
+    callers:
+      - Karin Neils
+    price: $5-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: San Antonio Contra Dance
     details: "Fun, friendly dance on 4th Saturdays. Live music by Lone Star Pirates. Calling by various local and regional callers."
     links:
@@ -43521,6 +43542,46 @@ events:
     bands:
       - Lone Star Pirates
     organisation: San Antonio Contra Dancers
+    source: events/usa/cdss.yaml
+  - name: Mendocino English Country Dance
+    details: "Fourth Saturday of every month (check our calendar for occasional date changes). \nLive music with Take a Dance, the Mendocino English Country Dance Orchestra. \nDances taught and prompted by alternating local and guest callers.  \nFun and friendly dancers welcome newcomers in an inclusive and enjoyable environment. Everyone gets to dance!"
+    links:
+      - "https://www.mendoecd.org/event/monthly-2022-05-28-2022-06-25-2022-07-23-2022-08-27-2022-09-24-2022-10-22-2022-11-26-2022-12-24-2023-05-27-2023-06-24-2023-12-23-2024-02-24/"
+      - "https://cdss.org/event/mendocino-english-country-dance/2024-02-24/"
+    start: "2024-02-24T19:30:00-05:00"
+    end: "2024-02-24T22:00:00-05:00"
+    country: USA
+    state: CA
+    city: Caspar
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Take a Dance
+    price: $15
+    organisation: Mendocino English Country Dance
+    source: events/usa/cdss.yaml
+  - name: Richmond Saturday Night Contra Dance
+    details: "Join the Richmond, VA, contra dance, hosted by TADAMS at the West End Ballroom for a Saturday evening dance. Beginner lesson at 6:45pm, dance from 7:30-10:30pm. Admission is $15 non-members, $10 members and students, children under 13 are free. Please check our full website calendar for caller and band details."
+    links:
+      - "https://tadamsva.org/dance/saturday-contra-dance-web-2-24-2023/"
+      - "https://cdss.org/event/richmond-va-saturday-night-contra-dance/2024-02-24/"
+    start: "2024-02-24T18:45:00-05:00"
+    end: "2024-02-24T22:30:00-05:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Stay All Night
+    callers:
+      - Jack Maus
+    price: $10-$15
+    organisation: TADAMS (Traditional American Dance and Music Society)
     source: events/usa/cdss.yaml
   - name: Anaheim Contra Dance
     details: "Anaheim Contra Dances are held every 4th Saturday January-November 6:30-9:30pm PST. \nAlways live music! \nFamily-friendly, no partner required. \nEasy introductory lesson for beginners @ 6:30pm.\n\nFree parking."
@@ -43554,6 +43615,48 @@ events:
     workshop: true
     social: true
     price: $6-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Sacramento Contra Dance
+    details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $12 for adults; $8 for college students with ID; $5 for dancers under 18; $25 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
+    links:
+      - "https://sactocds.wordpress.com/"
+      - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays/2024-02-24/"
+    start: "2024-02-24T18:30:00-08:00"
+    end: "2024-02-24T22:00:00-08:00"
+    country: USA
+    state: CA
+    city: Sacramento
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Cain Raisers
+    callers:
+      - Dane Wallinga
+    price: $5-$12
+    organisation: Sacramento Country Dance Society
+    source: events/usa/cdss.yaml
+  - name: Seattle English Country Ball
+    details: "English Country Dance Ball Weekend. Dancing Master: David Macemon; Musicians: Anita Anderson, Dave Bartley, and Susan Larkin"
+    links:
+      - "https://seattleball.org/ballDesc.php"
+      - "https://cdss.org/event/seattle-english-country-ball/"
+    start: "2024-02-24T19:00:00-08:00"
+    end: "2024-02-24T23:00:00-08:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - "Anita Anderson, Dave Bartley, Susan Larkin"
+    callers:
+      - David Macemon
+    price: $50
     organisation: CDSS
     source: events/usa/cdss.yaml
   - name: River Rendezvous
@@ -48703,7 +48806,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-02-27/"
     start: "2024-02-27T19:30:00+01:00"
@@ -48768,6 +48871,21 @@ events:
     price: €21.50-€25
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
+  - name: Beginners trial lesson
+    details: "De les zal zijn van 19:00 tot 21:30 met een korte pauze tussendoor\nInloop is gratis en hoeft niet voor worden op gegeven.\n\n \n\nMeer info volgt"
+    links:
+      - "https://www.balfolk.nl/agenda/proefles-begonners-hoorn-2/"
+    start: "2024-03-04T19:00:00+01:00"
+    end: "2024-03-04T21:30:00+01:00"
+    country: Netherlands
+    city: Hoorn
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: free
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
   - name: Free trial lesson
     details: "Vanaf maandag 4 maar start een nieuwe cursus balfolkdansen onder leiding van Anke Veens (Dancing Bodies).\n\nBalfolk is een sociale dansstijl op moderne folk muziek. De verschillende soorten dansen vinden plaats in koppels, rijen, kring of sliert. Een vaste danspartner is niet vereist.\nIn de lessen leren we leiden, volgen en verschillende groepsdansen. Geen danservaring nodig, dansers van alle niveaus en leeftijden welkom. Kom het proberen in een gratis proefles! Meld ja aan via een berichtje aan: [ cathie @ mhjhoek.com ]\n\nDe lessen worden gegeven op maandagavonden (tweewekelijks*) in het Stadshuus, Markt 3 Lochem, van 19:30 tot 21:30 uur\n\n*feestdagen slaan we over\n\nData worden 4 maart gecorrespondeerd."
     links:
@@ -48784,7 +48902,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-03-05/"
     start: "2024-03-05T19:30:00+01:00"
@@ -48902,7 +49020,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-03-12/"
     start: "2024-03-12T19:30:00+01:00"
@@ -48987,7 +49105,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-03-19/"
     start: "2024-03-19T19:30:00+01:00"
@@ -49052,7 +49170,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-03-26/"
     start: "2024-03-26T19:30:00+01:00"
@@ -49115,7 +49233,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-04-02/"
     start: "2024-04-02T19:30:00+02:00"
@@ -49195,7 +49313,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-04-09/"
     start: "2024-04-09T19:30:00+02:00"
@@ -49278,7 +49396,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-04-16/"
     start: "2024-04-16T19:30:00+02:00"
@@ -49343,7 +49461,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-04-23/"
     start: "2024-04-23T19:30:00+02:00"
@@ -49405,7 +49523,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-04-30/"
     start: "2024-04-30T19:30:00+02:00"
@@ -49436,7 +49554,7 @@ events:
     cancelled: true
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-05-07/"
     start: "2024-05-07T19:30:00+02:00"
@@ -49468,7 +49586,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-05-14/"
     start: "2024-05-14T19:30:00+02:00"
@@ -49530,7 +49648,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-05-21/"
     start: "2024-05-21T19:30:00+02:00"
@@ -49577,7 +49695,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-05-28/"
     start: "2024-05-28T19:30:00+02:00"
@@ -49621,7 +49739,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-06-04/"
     start: "2024-06-04T19:30:00+02:00"
@@ -49668,7 +49786,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-06-11/"
     start: "2024-06-11T19:30:00+02:00"
@@ -49717,7 +49835,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-06-18/"
     start: "2024-06-18T19:30:00+02:00"
@@ -49762,7 +49880,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-06-25/"
     start: "2024-06-25T19:30:00+02:00"
@@ -49824,7 +49942,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-07-02/"
     start: "2024-07-02T19:30:00+02:00"
@@ -49871,7 +49989,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-07-09/"
     start: "2024-07-09T19:30:00+02:00"
@@ -49886,7 +50004,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-07-16/"
     start: "2024-07-16T19:30:00+02:00"
@@ -49901,7 +50019,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-07-23/"
     start: "2024-07-23T19:30:00+02:00"
@@ -49916,7 +50034,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-07-30/"
     start: "2024-07-30T19:30:00+02:00"
@@ -49931,7 +50049,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-08-06/"
     start: "2024-08-06T19:30:00+02:00"
@@ -49946,7 +50064,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-08-13/"
     start: "2024-08-13T19:30:00+02:00"
@@ -49961,7 +50079,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-08-20/"
     start: "2024-08-20T19:30:00+02:00"
@@ -49976,7 +50094,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-08-27/"
     start: "2024-08-27T19:30:00+02:00"
@@ -49991,7 +50109,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-09-03/"
     start: "2024-09-03T19:30:00+02:00"
@@ -50006,7 +50124,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-09-10/"
     start: "2024-09-10T19:30:00+02:00"
@@ -50038,7 +50156,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-09-17/"
     start: "2024-09-17T19:30:00+02:00"
@@ -50053,7 +50171,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-09-24/"
     start: "2024-09-24T19:30:00+02:00"
@@ -50068,7 +50186,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-10-01/"
     start: "2024-10-01T19:30:00+02:00"
@@ -50083,7 +50201,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-10-08/"
     start: "2024-10-08T19:30:00+02:00"
@@ -50115,7 +50233,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-10-15/"
     start: "2024-10-15T19:30:00+02:00"
@@ -50130,7 +50248,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-10-22/"
     start: "2024-10-22T19:30:00+02:00"
@@ -50145,7 +50263,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-10-29/"
     start: "2024-10-29T19:30:00+01:00"
@@ -50160,7 +50278,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-11-05/"
     start: "2024-11-05T19:30:00+01:00"
@@ -50175,7 +50293,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-11-12/"
     start: "2024-11-12T19:30:00+01:00"
@@ -50223,7 +50341,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-11-19/"
     start: "2024-11-19T19:30:00+01:00"
@@ -50238,7 +50356,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-11-26/"
     start: "2024-11-26T19:30:00+01:00"
@@ -50253,7 +50371,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-12-03/"
     start: "2024-12-03T19:30:00+01:00"
@@ -50268,7 +50386,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-12-10/"
     start: "2024-12-10T19:30:00+01:00"
@@ -50300,7 +50418,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-12-17/"
     start: "2024-12-17T19:30:00+01:00"
@@ -50315,7 +50433,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-12-24/"
     start: "2024-12-24T19:30:00+01:00"
@@ -50330,7 +50448,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-12-31/"
     start: "2024-12-31T19:30:00+01:00"
@@ -50345,7 +50463,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2025-01-07/"
     start: "2025-01-07T19:30:00+01:00"
@@ -50360,7 +50478,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2025-01-14/"
     start: "2025-01-14T19:30:00+01:00"
@@ -50375,7 +50493,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2025-01-21/"
     start: "2025-01-21T19:30:00+01:00"
@@ -50390,7 +50508,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2025-01-28/"
     start: "2025-01-28T19:30:00+01:00"
@@ -50405,7 +50523,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2025-02-04/"
     start: "2025-02-04T19:30:00+01:00"
@@ -50420,7 +50538,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2025-02-11/"
     start: "2025-02-11T19:30:00+01:00"
@@ -50435,7 +50553,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2025-02-18/"
     start: "2025-02-18T19:30:00+01:00"
@@ -50450,7 +50568,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2025-02-25/"
     start: "2025-02-25T19:30:00+01:00"
@@ -50465,7 +50583,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2025-03-04/"
     start: "2025-03-04T19:30:00+01:00"
@@ -50480,7 +50598,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/jtWXCEjH ."
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2025-03-11/"
     start: "2025-03-11T19:30:00+01:00"
@@ -50510,7 +50628,7 @@ events:
     social: true
     bands:
       - Bargainatt
-      - Diaton
+      - DiaTon
       - Duo du Balcon
       - Duo Rodriguez-Franceschini
       - Fahrenheit
@@ -65478,7 +65596,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo GrandLoup
+      - GrandLoup
       - AurieL duo
     price: €12-€42
     organisation: Le Bal Des Libellules
@@ -66083,7 +66201,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Flor De Zinc
+      - Flor de Zinc
       - Phlox
       - Duo Clercx
       - Aghoea
@@ -68046,7 +68164,7 @@ events:
     social: true
     bands:
       - Naragonia
-      - Aurélien Claranbaux
+      - Aurélien Claranbaux
       - Airboxes XL
     organisation: ~
     source: events/belgium/folkbalbende.yaml
@@ -69711,7 +69829,7 @@ events:
     workshop: true
     social: true
     bands:
-      - "Tout Bout D'Chants"
+      - "Tout Bout D'chants"
     price: €10
     organisation: ~
     source: events/belgium/folkbalbende.yaml
@@ -70121,7 +70239,7 @@ events:
     social: true
     bands:
       - Aérokorda
-      - Trio Thézé Vandenabeele
+      - Trio Thézé-Vandenabeele
     price: €13-€25
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
@@ -70213,6 +70331,161 @@ events:
       - Bart Praet
     price: €8
     organisation: "'t Smiske"
+    source: events/belgium/folkbalbende.yaml
+  - name: Lessenreeks Folkbaldansen
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2137"
+      - "https://choronde.be/"
+      - "https://www.facebook.com/events/945893187104190/945893210437521/"
+    start: "2024-03-06T19:30:00+01:00"
+    end: "2024-03-06T22:00:00+01:00"
+    country: Belgium
+    city: Roeselare
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €40-€100
+    organisation: Dansgroep Choronde
+    source: events/belgium/folkbalbende.yaml
+  - name: Lessenreeks Folkbaldansen
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2137"
+      - "https://choronde.be/"
+      - "https://www.facebook.com/events/945893187104190/945893203770855/"
+    start: "2024-03-13T19:30:00+01:00"
+    end: "2024-03-13T22:00:00+01:00"
+    country: Belgium
+    city: Roeselare
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €40-€100
+    organisation: Dansgroep Choronde
+    source: events/belgium/folkbalbende.yaml
+  - name: Lessenreeks Folkbaldansen
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2137"
+      - "https://choronde.be/"
+      - "https://www.facebook.com/events/945893187104190/945893207104188/"
+    start: "2024-03-20T19:30:00+01:00"
+    end: "2024-03-20T22:00:00+01:00"
+    country: Belgium
+    city: Roeselare
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €40-€100
+    organisation: Dansgroep Choronde
+    source: events/belgium/folkbalbende.yaml
+  - name: Lessenreeks Folkbaldansen
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2137"
+      - "https://choronde.be/"
+      - "https://www.facebook.com/events/945893187104190/945893200437522/"
+    start: "2024-03-27T19:30:00+01:00"
+    end: "2024-03-27T22:00:00+01:00"
+    country: Belgium
+    city: Roeselare
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €40-€100
+    organisation: Dansgroep Choronde
+    source: events/belgium/folkbalbende.yaml
+  - name: Lessenreeks Folkbaldansen
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2137"
+      - "https://choronde.be/"
+      - "https://www.facebook.com/events/945893187104190/945893197104189/"
+    start: "2024-04-03T19:30:00+02:00"
+    end: "2024-04-03T22:00:00+02:00"
+    country: Belgium
+    city: Roeselare
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €40-€100
+    organisation: Dansgroep Choronde
+    source: events/belgium/folkbalbende.yaml
+  - name: Lessenreeks Folkbaldansen
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2137"
+      - "https://choronde.be/"
+      - "https://www.facebook.com/events/945893187104190/945893190437523/"
+    start: "2024-04-10T19:30:00+02:00"
+    end: "2024-04-10T22:00:00+02:00"
+    country: Belgium
+    city: Roeselare
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €40-€100
+    organisation: Dansgroep Choronde
+    source: events/belgium/folkbalbende.yaml
+  - name: Lessenreeks Folkbaldansen
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2137"
+      - "https://choronde.be/"
+      - "https://www.facebook.com/events/945893187104190/945893193770856/"
+    start: "2024-04-17T19:30:00+02:00"
+    end: "2024-04-17T22:00:00+02:00"
+    country: Belgium
+    city: Roeselare
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €40-€100
+    organisation: Dansgroep Choronde
+    source: events/belgium/folkbalbende.yaml
+  - name: Lessenreeks Folkbaldansen
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2137"
+      - "https://choronde.be/"
+      - "https://www.facebook.com/events/945893187104190/945893217104187/"
+    start: "2024-04-24T19:30:00+02:00"
+    end: "2024-04-24T22:00:00+02:00"
+    country: Belgium
+    city: Roeselare
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €40-€100
+    organisation: Dansgroep Choronde
+    source: events/belgium/folkbalbende.yaml
+  - name: Ithaka Folkbal
+    details: Ball
+    links:
+      - "https://stanistil.be/event/24"
+      - "https://folkbalbende.be/event/2138"
+      - "https://www.facebook.com/events/4051730671743145"
+    start: "2024-03-01T20:00:00+01:00"
+    end: "2024-03-01T23:00:00+01:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Jaro De Roose
+    price: free
+    organisation: Stanistil
     source: events/belgium/folkbalbende.yaml
   - name: Bals et Roses
     links:
@@ -70766,7 +71039,7 @@ events:
       - La Machine
       - Renaud Garcia-Fons
       - Artús
-      - KKC Orchestra / Collectif Passatges en Coserans
+      - KKC Orchestra - CPC
       - CentralBal
       - Jérémie Congrega & Friends
       - Duo Meunier-Buteau
@@ -72499,7 +72772,7 @@ events:
       - Patates Sound System
       - Cam&Léo
       - Plume
-      - Grand Loup
+      - GrandLoup
       - Duo Augendre Fradin
     price: €36-€170
     organisation: Balistik
