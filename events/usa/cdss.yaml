@@ -1420,7 +1420,7 @@ events:
     city: Las Vegas
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     organisation: CDSS
   - name: Hayward Contra Dance
@@ -3637,6 +3637,11 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Reelplay
+    callers:
+      - Laura Hudlow
+    price: $9
     organisation: CDSS
   - name: Las Vegas Contra Dance
     details: Monthly Contra dance. Beginners welcome. Beginner teaching first 30 minutes. Live music.
@@ -3649,14 +3654,15 @@ events:
     city: Las Vegas
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     organisation: CDSS
   - name: Asheville Sunday Afternoon English Country Dance
     details: "All are welcome to join us for another very fine afternoon of English Country Dance. Spread the word and bring all your friends, family and neighbors! \n\n3:30pm-4:00pm, Newcomers’ Session\n4:00pm-6:15-ish pm, Dance\nLeader: TBA\nLive Music: TBA\nBring a snack to share during the break-out in the parlor.\nWear comfortable clothes and non-marking shoes.\n\nWe are deeply grateful to be a part of our community dance organization, The Old Farmers Ball, and for their promotion and support of area traditional dance and music. \nFor schedule updates, visit the Old Farmers Ball website."
     links:
+      - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance-2/"
-    start: "2024-02-25T16:00:00-05:00"
+    start: "2024-02-25T15:30:00-05:00"
     end: "2024-02-25T18:15:00-05:00"
     country: USA
     state: NC
