@@ -42542,7 +42542,7 @@ events:
     city: Las Vegas
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     organisation: CDSS
     source: events/usa/cdss.yaml
@@ -44871,6 +44871,58 @@ events:
     callers:
       - David Macemon
     price: $50
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: ECD Atlanta Regular Dance
+    details: "How do I love ECD? Let me count the ways….\nThere is something for everyone!\nSome people love ECD for the music—we dance to beautiful tunes taken from classical arrangements, old ballads, and the modern era. Others love ECD for its uncomplicated moves that are chained together to form intricate, lyrical patterns. And almost everyone loves ECD for the communal dance experience, which can be energizing, mesmerizing, and just plain fun! \nNo dance partner necessary!\nDon’t have a dance partner to bring with you? No problem! Just come alone. ECDA culture is that couples change partners at the end of every dance and no one sits out unless they want to. \nNo experience necessary!\nNever tried this before? No problem! Unlike in the movies, every ECDA dance starts with a walkthrough, during which the caller teaches the dancers what to do, and then continues to “Call” (give instruction and prompt the moves) throughout the entire dance. And, like other new skills, the terminology and moves used in ECD get easier with time and practice. Regular ECDA dances are beginner friendly and the atmosphere is supportive of new dancers. \nNo fancy uniforms!\nYou may have seen ECD on TV before but English Country Dance in the 21st century is not all Regency Balls and period costumes (although there is certainly a time and a place for that—check out these suggestions for the Saturday night Ball at each year’s Fandango! dance weekend). No special clothing is needed for our regular ECDA dances other than clean, soft-soled shoes that won’t scruff up the dance floor. \nSee for yourself. Here are clips of a group of ECDA dancers practicing in advance for the Saturday night Ball to be held during Fandango! 2015. Clips show the “walk through” and then the dance itself with calling by Everett Lunsford and music by ‘Round Robbin: Robbin Marcus (piano), Dave Marcus (concertina), and Meredith Doster (flute)."
+    links:
+      - "https://ecdatlanta.org/schedule.htm"
+      - "https://cdss.org/event/ecd-atlanta-regular-dance/2024-02-25/"
+    start: "2024-02-25T14:30:00-05:00"
+    end: "2024-02-25T17:30:00-05:00"
+    country: USA
+    state: GA
+    city: Atlanta
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Reelplay
+    callers:
+      - Laura Hudlow
+    price: $9
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Las Vegas Contra Dance
+    details: Monthly Contra dance. Beginners welcome. Beginner teaching first 30 minutes. Live music.
+    links:
+      - "https://cdss.org/event/las-vegas-contra-dance/2024-02-25/"
+    start: "2024-02-25T15:00:00-05:00"
+    end: "2024-02-25T18:00:00-05:00"
+    country: USA
+    state: NV
+    city: Las Vegas
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Asheville Sunday Afternoon English Country Dance
+    details: "All are welcome to join us for another very fine afternoon of English Country Dance. Spread the word and bring all your friends, family and neighbors! \n\n3:30pm-4:00pm, Newcomers’ Session\n4:00pm-6:15-ish pm, Dance\nLeader: TBA\nLive Music: TBA\nBring a snack to share during the break-out in the parlor.\nWear comfortable clothes and non-marking shoes.\n\nWe are deeply grateful to be a part of our community dance organization, The Old Farmers Ball, and for their promotion and support of area traditional dance and music. \nFor schedule updates, visit the Old Farmers Ball website."
+    links:
+      - "https://oldfarmersball.com/english-country-dance/"
+      - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance-2/"
+    start: "2024-02-25T15:30:00-05:00"
+    end: "2024-02-25T18:15:00-05:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: false
+    social: true
     organisation: CDSS
     source: events/usa/cdss.yaml
   - name: River Rendezvous
@@ -51399,6 +51451,21 @@ events:
     price: €5
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk café Nijmegen
+    details: "Balfolk Cafe is livemuziek, tussendoor fijne balfolkhitjes en natuurlijk sessie: dus neem ook je instrumenten mee!\n\n\nEntree: € 15,-  (of € 10,- voor mensen die kortingstarief nodig hebben)\nGeef ruim, alles gaat 100% naar de muzikanten.\n\n20:00 dans uitleg\n21:00 Livemuziek (2 sets)\n23:00 Sessie!\n(Tijden onder voorbehoud)"
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-38/"
+    start: "2024-09-25T20:00:00+02:00"
+    end: "2024-09-25T23:59:00+02:00"
+    country: Netherlands
+    city: Nijmegen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €10-€15
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
@@ -51489,6 +51556,21 @@ events:
     workshop: true
     social: true
     price: €5
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk café Nijmegen
+    details: "Balfolk Cafe is livemuziek, tussendoor fijne balfolkhitjes en natuurlijk sessie: dus neem ook je instrumenten mee!\n\n\nEntree: € 15,-  (of € 10,- voor mensen die kortingstarief nodig hebben)\nGeef ruim, alles gaat 100% naar de muzikanten.\n\n20:00 dans uitleg\n21:00 Livemuziek (2 sets)\n23:00 Sessie!\n(Tijden onder voorbehoud)"
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-39/"
+    start: "2024-10-30T20:00:00+01:00"
+    end: "2024-10-30T23:59:00+01:00"
+    country: Netherlands
+    city: Nijmegen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €10-€15
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
@@ -51584,6 +51666,21 @@ events:
     price: €5
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk café Nijmegen
+    details: "Balfolk Cafe is livemuziek, tussendoor fijne balfolkhitjes en natuurlijk sessie: dus neem ook je instrumenten mee!\n\n\nEntree: € 15,-  (of € 10,- voor mensen die kortingstarief nodig hebben)\nGeef ruim, alles gaat 100% naar de muzikanten.\n\n20:00 dans uitleg\n21:00 Livemuziek (2 sets)\n23:00 Sessie!\n(Tijden onder voorbehoud)"
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-40/"
+    start: "2024-11-27T20:00:00+01:00"
+    end: "2024-11-27T23:59:00+01:00"
+    country: Netherlands
+    city: Nijmegen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €10-€15
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
@@ -51644,6 +51741,21 @@ events:
     workshop: true
     social: true
     price: €5
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk café Nijmegen
+    details: "Balfolk Cafe is livemuziek, tussendoor fijne balfolkhitjes en natuurlijk sessie: dus neem ook je instrumenten mee!\n\n\nEntree: € 15,-  (of € 10,- voor mensen die kortingstarief nodig hebben)\nGeef ruim, alles gaat 100% naar de muzikanten.\n\n20:00 dans uitleg\n21:00 Livemuziek (2 sets)\n23:00 Sessie!\n(Tijden onder voorbehoud)"
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-41/"
+    start: "2024-12-18T20:00:00+01:00"
+    end: "2024-12-18T23:59:00+01:00"
+    country: Netherlands
+    city: Nijmegen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €10-€15
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
@@ -51721,6 +51833,21 @@ events:
     price: €5
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk café Nijmegen
+    details: "Balfolk Cafe is livemuziek, tussendoor fijne balfolkhitjes en natuurlijk sessie: dus neem ook je instrumenten mee!\n\n\nEntree: € 15,-  (of € 10,- voor mensen die kortingstarief nodig hebben)\nGeef ruim, alles gaat 100% naar de muzikanten.\n\n20:00 dans uitleg\n21:00 Livemuziek (2 sets)\n23:00 Sessie!\n(Tijden onder voorbehoud)"
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-42/"
+    start: "2025-01-22T20:00:00+01:00"
+    end: "2025-01-22T23:59:00+01:00"
+    country: Netherlands
+    city: Nijmegen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €10-€15
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
@@ -51796,6 +51923,21 @@ events:
     price: €5
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk café Nijmegen
+    details: "Balfolk Cafe is livemuziek, tussendoor fijne balfolkhitjes en natuurlijk sessie: dus neem ook je instrumenten mee!\n\n\nEntree: € 15,-  (of € 10,- voor mensen die kortingstarief nodig hebben)\nGeef ruim, alles gaat 100% naar de muzikanten.\n\n20:00 dans uitleg\n21:00 Livemuziek (2 sets)\n23:00 Sessie!\n(Tijden onder voorbehoud)"
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-43/"
+    start: "2025-02-26T20:00:00+01:00"
+    end: "2025-02-26T23:59:00+01:00"
+    country: Netherlands
+    city: Nijmegen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €10-€15
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
@@ -51824,6 +51966,66 @@ events:
     workshop: true
     social: true
     price: €5
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk café Nijmegen
+    details: "Balfolk Cafe is livemuziek, tussendoor fijne balfolkhitjes en natuurlijk sessie: dus neem ook je instrumenten mee!\n\n\nEntree: € 15,-  (of € 10,- voor mensen die kortingstarief nodig hebben)\nGeef ruim, alles gaat 100% naar de muzikanten.\n\n20:00 dans uitleg\n21:00 Livemuziek (2 sets)\n23:00 Sessie!\n(Tijden onder voorbehoud)"
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-44/"
+    start: "2025-03-26T20:00:00+01:00"
+    end: "2025-03-26T23:59:00+01:00"
+    country: Netherlands
+    city: Nijmegen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €10-€15
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk café Nijmegen
+    details: "Balfolk Cafe is livemuziek, tussendoor fijne balfolkhitjes en natuurlijk sessie: dus neem ook je instrumenten mee!\n\n\nEntree: € 15,-  (of € 10,- voor mensen die kortingstarief nodig hebben)\nGeef ruim, alles gaat 100% naar de muzikanten.\n\n20:00 dans uitleg\n21:00 Livemuziek (2 sets)\n23:00 Sessie!\n(Tijden onder voorbehoud)"
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-45/"
+    start: "2025-04-23T20:00:00+02:00"
+    end: "2025-04-23T23:59:00+02:00"
+    country: Netherlands
+    city: Nijmegen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €10-€15
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk café Nijmegen
+    details: "Balfolk Cafe is livemuziek, tussendoor fijne balfolkhitjes en natuurlijk sessie: dus neem ook je instrumenten mee!\n\n\nEntree: € 15,-  (of € 10,- voor mensen die kortingstarief nodig hebben)\nGeef ruim, alles gaat 100% naar de muzikanten.\n\n20:00 dans uitleg\n21:00 Livemuziek (2 sets)\n23:00 Sessie!\n(Tijden onder voorbehoud)"
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-46/"
+    start: "2025-05-28T20:00:00+02:00"
+    end: "2025-05-28T23:59:00+02:00"
+    country: Netherlands
+    city: Nijmegen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €10-€15
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk café Nijmegen
+    details: "Balfolk Cafe is livemuziek, tussendoor fijne balfolkhitjes en natuurlijk sessie: dus neem ook je instrumenten mee!\n\n\nEntree: € 15,-  (of € 10,- voor mensen die kortingstarief nodig hebben)\nGeef ruim, alles gaat 100% naar de muzikanten.\n\n20:00 dans uitleg\n21:00 Livemuziek (2 sets)\n23:00 Sessie!\n(Tijden onder voorbehoud)"
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-cafe-nijmegen-47/"
+    start: "2025-06-25T20:00:00+02:00"
+    end: "2025-06-25T23:59:00+02:00"
+    country: Netherlands
+    city: Nijmegen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €10-€15
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: CaDansa
