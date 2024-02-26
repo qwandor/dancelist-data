@@ -14162,7 +14162,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Academie Lebbeke En Sint-Niklaas
+      - Academie Lebbeke En Bornem + ROOTS
+    price: €8
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -14553,3 +14554,36 @@ events:
     bands:
       - Jaro De Roose
     organisation: Stanistil
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2154"
+    start: "2024-03-17T14:00:00+01:00"
+    end: "2024-03-17T17:30:00+01:00"
+    country: Belgium
+    city: Bruges
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Brabants Volksorkest
+    price: €10
+    organisation: Ol Da Folk Brugge
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2156"
+      - "https://www.facebook.com/events/285288697176332/"
+    start: "2024-03-16T20:30:00+01:00"
+    end: "2024-03-17T00:00:00+01:00"
+    country: Belgium
+    city: Denderhoutem
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Variomatic
+      - Duo Gestrikt
+    organisation: Boombal
