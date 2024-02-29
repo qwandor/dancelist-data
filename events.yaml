@@ -14409,6 +14409,34 @@ events:
     price: £17-£23
     organisation: London Ceilidh Club
     source: events/uk/ceilidh_club.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-15-6-24-queens-gate-house/"
+    start: "2024-06-15T20:00:00+01:00"
+    end: "2024-06-15T23:00:00+01:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £17-£23
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-28-6-24-cecil-sharp-house/"
+    start: "2024-06-28T20:00:00+01:00"
+    end: "2024-06-28T23:00:00+01:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £17-£23
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
   - name: Hekety with Ian Nichols
     links:
       - "https://www.facebook.com/events/3540815029484623/"
@@ -33361,9 +33389,9 @@ events:
     organisation: Spreefolk eV
     source: events/germany/spreefolk.yaml
   - name: Folk & Dance at Schäfersee
-    details: Weitere Informationen folgen bald.
+    details: "Tanznachmittag mit Live-Musik\nSo 21.4.2024  15-17 Uhr\nTraditionelle und zeitgenössische Folkmusik mit Paar-, Ketten- und Kreistänzen\n \nAntanjo – Foto: Christina Popovic\nBei Antanjo haben passionierte Tänzerinnen und Tänzer einfach die Seiten gewechselt und spielen seit 2010 regelmäßig in Berlin und außerhalb. Zum Repertoire gehören Tänze aus unterschiedlichen Ecken Europas: von Frankreich, England und Irland über Finnland und Schweden, Deutschland, Italien bis zum Balkan.\nOrt: M5 am Franz-Neumann-Platz, Markstraße 5, 13409 Berlin\nDer Eintritt ist kostenlos – Spenden für Tanz und Musik sind aber willkommen.\nBei den Tanzabenden übernehmen Irene und Matthias die Tanzanleitung, um auch völlig Ungeübten einen leichten Einstieg in die Tänze zu ermöglichen."
     links:
-      - "https://spreefolk.de/events/2403-tanz-m5-671"
+      - "https://spreefolk.de/events/2404-tanz-m5"
     start: "2024-04-21T15:00:00+02:00"
     end: "2024-04-21T17:00:00+02:00"
     country: Germany
@@ -33377,7 +33405,7 @@ events:
     organisation: Spreefolk eV
     source: events/germany/spreefolk.yaml
   - name: Folk & Dance at Lietzensee
-    details: Weitere Informationen folgen bald.
+    details: "Folk aus dem hohen Norden \nmit JORMSONS KAPELL\n\n \nJormsons Kapell – Foto: Frank Beckmann\nJormsons Kapell, das ist kernige Tanzmusik von Über(Ost)see:\nein erfrischendes Musikvergnügen zum Lauschen, Schnipsen oder Abtanzen.\nDie Bandmitglieder bringen ihre Liebe zur nordischen Musik und jede Menge Erfahrung aus europäischem Folk und Jazz sehr spontan auf die Bühne. Egal ob verträumter Vals, stampfende Polkka, hüpfiger Schottis oder abgedrehte Polska: Die Spielfreude der Berliner Band ist zu hören und zu spüren.\n \nEs wirken mit:\nBarbara – Geige und blockflöte\nFrank – Geige\nRalf – Akkordeon\nJörg – Kontrabaß und Ukulele"
     links:
       - "https://spreefolk.de/events/2404-lietzensee"
     start: "2024-04-27T19:00:00+02:00"
@@ -33388,6 +33416,8 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Jormsons Kapell
     organisation: Spreefolk eV
     source: events/germany/spreefolk.yaml
   - name: Balfolk
@@ -33423,7 +33453,7 @@ events:
     organisation: Spreefolk eV
     source: events/germany/spreefolk.yaml
   - name: Folk & Dance at Lietzensee
-    details: Weitere Informationen folgen bald.
+    details: "meet the\nTTUN TTUN*\nBourrée Party Crackers – Foto: Christina Glanz\n \n Fête du Rondeau\nEin Abend mit Tänzen aus dem französischen Südwesten:\nRondeau en Couple und Rondeau en Chaine\numrahmt von weiteren Folk-Tänzen\nOrt: Nachbarschaftshaus am Lietzensee, Herbartstraße 25, 14057 Berlin\nDer Eintritt ist kostenlos – Spenden für Tanz und Musik sind aber willkommen.\nEs wirken mit:   Am TTUN-TTUN (Tambourin à Cordes):   Christoph Keller\nTanzerklärungen:           Noemi Wiest und Christoph Keller\n* Das Ttun-Ttun zu spielen, bedeutet wahres Multitasking: Mit einer Hand wird eine Flöte mit drei Löchern bespielt, mit der anderen mit einem Stock auf ein Psalterium oder Hackbrett, das mit mindestens vier Seiten bespannt ist, geschlagen."
     links:
       - "https://spreefolk.de/events/2405-lietzensee"
     start: "2024-05-25T19:00:00+02:00"
@@ -40370,10 +40400,11 @@ events:
     workshop: true
     social: true
     bands:
-      - The Mean Lids
+      - Nimbus
+      - River Road
     callers:
-      - Chris Ricciotti
-      - Maia McCormick
+      - Andy Shore
+      - Isaac Banner
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Call of the Loon Dance Weekend
@@ -40553,6 +40584,28 @@ events:
       - River Rainbowface
     organisation: TryContra
     source: events/usa/trycontra.yaml
+  - name: Palmetto Bug Stomp
+    links:
+      - "http://charlestonfolk.weebly.com/palmetto-bug-stomp.html"
+      - "https://www.facebook.com/events/862125718804871/"
+    start: "2024-04-26T19:00:00-04:00"
+    end: "2024-04-28T15:30:00-04:00"
+    country: USA
+    state: SC
+    city: Charleston
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Wild Asparagus
+      - Contraforce
+    callers:
+      - George Marshall
+      - Seth Tepfer
+    price: $140-$155
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
   - name: Dancing Fish
     links:
       - "https://dancingfish.dance/"
@@ -40589,6 +40642,68 @@ events:
     callers:
       - Gaye Fifer
       - Janine Smith
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Meet Me in St Louis
+    links:
+      - "https://childgrove.org/stl-dance-weekends/meetmeinstlouis"
+      - "https://www.facebook.com/events/871111018094385/"
+    start: "2024-05-24T18:00:00-05:00"
+    end: "2024-05-27T15:00:00-05:00"
+    country: USA
+    state: MO
+    city: Kirkwood
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Audacious
+      - Roger Wilco
+    callers:
+      - Bob Isaacs
+    price: $50-$110
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: FolkMADness Music & Dance Camp
+    links:
+      - "http://folkmads.org/events/camps/folkmadness/"
+    start_date: 2024-05-24
+    end_date: 2024-05-27
+    country: USA
+    state: NM
+    city: Soccoro
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Whirlwing
+      - Toss the Possum
+    callers:
+      - Jeremy Korr
+      - Lo Peckman
+    price: $175-$460
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Dancing Bear Dance Camp
+    links:
+      - "http://www.thedancingbears.com/Dance-Camp.html"
+    start_date: 2024-05-24
+    end_date: 2024-05-27
+    country: USA
+    state: AK
+    city: Wasilla
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Stringrays
+      - The Sail Away Ladies
+    callers:
+      - George Marshall
+      - Louise Siddons
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Spring Dance Romance
@@ -40646,9 +40761,9 @@ events:
     source: events/usa/trycontra.yaml
   - name: Contradancers Delight Holiday
     links:
-      - "http://www.contradancersdelight.com/about-summer-cdh-tst/"
-    start_date: 2024-05-10
-    end_date: 2024-05-17
+      - "https://www.contradancersdelight.com/"
+    start: "2024-05-10T20:00:00-04:00"
+    end: "2024-05-17T12:00:00-04:00"
     country: USA
     state: TN
     city: Mountain City
@@ -40656,6 +40771,16 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Toss the Possum
+      - Drive Train
+      - Buzz Band
+      - George Paul
+    callers:
+      - Bob Isaacs
+      - Terry Doyle
+      - Devin Pohly
+      - Warren Doyle
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Summer Soiree
@@ -40699,6 +40824,25 @@ events:
       - Steve Zakon-Anderson
     organisation: TryContra
     source: events/usa/trycontra.yaml
+  - name: Gender-Free Dance Camp
+    links:
+      - "https://www.lcfd.org/spring-camp-2024.html"
+    start: "2024-06-07T15:00:00-04:00"
+    end: "2024-06-09T16:00:00-04:00"
+    country: USA
+    state: MA
+    city: Plymouth
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    callers:
+      - Maia McCormick
+      - Scott Higgs
+    price: $150-$400
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
   - name: Flamingo Fling Weekend
     links:
       - "http://scissortail.org/special-events/flamingo-fling/"
@@ -40717,6 +40861,68 @@ events:
       - Seth Tepfer
     organisation: TryContra
     source: events/usa/trycontra.yaml
+  - name: Swing into Summer
+    links:
+      - "http://www.swingintosummer.org/"
+    start_date: 2024-06-14
+    end_date: 2024-06-16
+    country: USA
+    state: MA
+    city: Plymouth
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Countercurrent
+      - "Miranda Weinberg, Aaron Marcus, & Carrie Rose"
+    callers:
+      - Gaye Fifer
+      - Adina Gordon
+    price: $100-$260
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Lady of the Lake June Week
+    links:
+      - "http://www.ladyofthelake.org/june-week/"
+    start: "2024-06-23T15:00:00-07:00"
+    end: "2024-06-29T11:00:00-07:00"
+    country: USA
+    state: ID
+    city: Harrison
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Constellation
+      - Countercurrent
+      - The Canote Brothers
+    callers:
+      - Susan Petrick
+      - Wendy Graham
+    price: $595-$995
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: BACDS Family Week
+    links:
+      - "https://www.bacds.org/familyweek/"
+    start_date: 2024-06-23
+    end_date: 2024-06-29
+    country: USA
+    state: CA
+    city: La Honda
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    callers:
+      - Yoyo Zhou
+    price: $300-$975
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
   - name: "Dance, Music & Spice"
     links:
       - "https://camp.cdss.org/camp-weeks/dance-music-spice-at-cavell/"
@@ -40729,6 +40935,8 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Will Mentor
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Dancing Fish
@@ -40761,6 +40969,28 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - The Cosmic Otters
+    callers:
+      - Seth Tepfer
+      - Wendy Graham Settle
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: July Fourth
+    links:
+      - "https://cds-boston-j4weekend.weebly.com/"
+    start_date: 2024-06-27
+    end_date: 2024-07-01
+    country: USA
+    state: MA
+    city: Plymouth
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    callers:
+      - Lisa Greenleaf
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Pinewoods English-Scottish-Contra
@@ -40773,8 +41003,56 @@ events:
     city: Plymouth
     styles:
       - contra
+      - ecd
+      - scd
     workshop: true
     social: true
+    bands:
+      - River Road
+    callers:
+      - Michael Karcher
+    price: $335-$453
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Roanoke Railroader
+    links:
+      - "http://www.roanokerailroader.com/"
+    start_date: 2024-07-04
+    end_date: 2024-07-07
+    country: USA
+    state: VA
+    city: Salem
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Toss the Possum
+      - The Latter Day Lizards
+    callers:
+      - Will Mentor
+      - Gaye Fifer
+    price: $95-$160
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: River Rendezvous
+    links:
+      - "http://www.riverrendezvous.com/"
+    start_date: 2024-07-12
+    end_date: 2024-07-14
+    country: USA
+    state: OH
+    city: Coshocton
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Toss the Possum
+      - Drive Train
+    callers:
+      - Terry Doyle
+      - Devin Pohly
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Ashokan Northern Week
@@ -40789,6 +41067,10 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Will Mentor
+      - Susan Kevra
+      - John Krumm
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: American Dance & Music Week
@@ -40803,6 +41085,9 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Lisa Greenleaf
+      - Will Mentor
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Harmony of Song & Dance
@@ -40817,6 +41102,9 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Lisa Greenleaf
+      - Seth Tepfer
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Summergreen
@@ -40909,6 +41197,26 @@ events:
     social: true
     bands:
       - Kingfisher
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Rendezvous Dance Weekend
+    links:
+      - "https://cfootmad.org/rendezvous"
+    start_date: 2024-08-30
+    end_date: 2024-09-02
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Nova
+      - The Dam Beavers
+    callers:
+      - Gaye Fifer
+      - Will Mentor
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Squirrel Moon Contra Dance weekend
@@ -44519,7 +44827,7 @@ events:
     links:
       - "https://fsgw.org/Friday-contra-square-dance"
       - "https://cdss.org/event/friday-night-contra-square-dance/2024-02-23/"
-    start: "2024-02-23T20:00:00-05:00"
+    start: "2024-02-23T19:30:00-05:00"
     end: "2024-02-23T23:00:00-05:00"
     country: USA
     state: MD
@@ -44924,6 +45232,488 @@ events:
     workshop: false
     social: true
     organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Brattleboro Bal Folk
+    details: "Fun, accessible French and European traditional dances.  \nNo experience or partner necessary. \nLive music & dance instruction by Eloise & Co.: Becky Tracy (fiddle) & Rachel Bell (accordion) \nPlease bring a clean pair of shoes to change into, or clean your shoes off thoroughly once you get inside, before you step onto the dance floor. We want to protect that beautiful wood floor! \nDances range from beautiful to raucous. Even if you’ve never tried anything like this before, come on over! Feel free to listen and watch from the sidelines or jump in. We’ll teach you everything you need to know, and the crowd has a reputation for being welcoming, eager  to draw newcomers into the fun. We will continue to offer variations and new dances to keep the experienced dancers engaged! \nShare our video with friends to whet their appetite!  \nMasks are welcome but not required. Please stay home if you feel ill or are testing positive for Covid-19. \nSliding scale $12-$25"
+    links:
+      - "https://cdss.org/event/brattleboro-bal-folk/2024-02-25/"
+    start: "2024-02-25T18:30:00-05:00"
+    end: "2024-02-25T21:00:00-05:00"
+    country: USA
+    state: VT
+    city: Guilford
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Eloise & Co.
+    price: $12-$25
+    organisation: Brattleboro Bal Folk
+    source: events/usa/cdss.yaml
+  - name: Hayward Contra Dance
+    details: "We typically dance on the 2nd & 4th Sunday of each month. \nFor years, the Hayward Contra has drawn dancers from all over the Bay Area and beyond. \nSome of the unique features that have drawn a loyal following are: \nHayward is centrally located and the venue, The Hill and Valley Club, 1808 ‘B’ Street, Hayward, CA, is easy to reach by BART or car. \nAs a weekend dance, we have attracted dancers with busy work schedules. \nMeeting in the afternoon from 4-7pm, dancers coming from greater distances were able to manage the travel time both before and after the dances. \nOur venue, the Hill and Valley Club, is one of the airiest dance halls in the bay area. \nThese features have allowed us to attract a very diverse multigenerational crowd that is comfortable with our gender-neutral atmosphere. \nDetails at our website. \nWe also have a Facebook group."
+    links:
+      - "https://sfbaycontra.org/"
+      - "https://cdss.org/event/hayward-ca-contra-dance/2024-02-25/"
+    start: "2024-02-25T16:00:00-08:00"
+    end: "2024-02-25T19:00:00-08:00"
+    country: USA
+    state: CA
+    city: Hayward
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Monday Contra Dance
+    details: "What better way to start the week? Only $3! It’s Monday, and we (almost) always dance on Monday."
+    links:
+      - "https://www.monadnockfolk.org/?tribe_event_series=monday-night-dance"
+      - "https://cdss.org/event/monday-contra-dance-in-nelson-nh/2024-02-26/"
+    start: "2024-02-26T19:30:00-05:00"
+    end: "2024-02-26T22:00:00-05:00"
+    country: USA
+    state: NH
+    city: Nelson
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $3
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: TECDA Tuesday Evening English Country Dance
+    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2024-02-27/"
+    start: "2024-02-27T19:00:00-05:00"
+    end: "2024-02-27T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: North York
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: Williamsburg Tuesday Night English Dance
+    details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
+    links:
+      - "https://williamsburgheritagedancers.org/"
+      - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2024-02-27/"
+    start: "2024-02-27T20:00:00-05:00"
+    end: "2024-02-27T22:00:00-05:00"
+    country: USA
+    state: VA
+    city: Williamsburg
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: Williamsburg Heritage Dancers
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
+    links:
+      - "https://oldfarmersball.com/english-country-dance/"
+      - "https://cdss.org/event/english-country-dance-asheville-nc/2024-02-28/"
+    start: "2024-02-28T18:40:00-05:00"
+    end: "2024-02-28T21:00:00-05:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: Luanne Stiles
+    source: events/usa/cdss.yaml
+  - name: English Country Dance at Guiding Star Grange
+    details: "Join us in Greenfield for an evening of English Country Dancing. Lively, elegant, and fun: English country dances from 1650 to today, with a rotating cast of stellar musicians and callers.  \nCost: $10-$20, sliding scale. \nSee venue website for this month’s details and Covid policy."
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+      - "https://cdss.org/event/second-fourth-wednesday-english-country-dance-at-guiding-star-grange/2024-02-28/"
+    start: "2024-02-28T19:00:00-05:00"
+    end: "2024-02-28T21:30:00-05:00"
+    country: USA
+    state: MA
+    city: Greenfield
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $10-$20
+    organisation: Graham Christian
+    source: events/usa/cdss.yaml
+  - name: Richmond Wednesday English Country Dance
+    details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm."
+    links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
+      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2024-02-28/"
+    start: "2024-02-28T19:30:00-05:00"
+    end: "2024-02-28T21:30:00-05:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
+    source: events/usa/cdss.yaml
+  - name: Thursday Contra Dance
+    details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing \n$5 to $20 sliding scale \nOur role terms are Larks and Robins \nMasks are required on the 1st, 3rd and 5th Thursdays."
+    links:
+      - "https://thursdaycontra.com/"
+      - "https://cdss.org/event/thursday-contra-dance-in-philadelphia/2024-02-29/"
+    start: "2024-02-29T19:30:00-05:00"
+    end: "2024-02-29T22:30:00-05:00"
+    country: USA
+    state: PA
+    city: Philadelphia
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$20
+    organisation: PATMAD
+    source: events/usa/cdss.yaml
+  - name: Rochester Thursday Night Contras
+    details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
+    links:
+      - "https://cdrochester.org/events/thursday-night-contra-195/"
+      - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-02-29/"
+    start: "2024-02-29T19:30:00-05:00"
+    end: "2024-02-29T22:30:00-05:00"
+    country: USA
+    state: NY
+    city: Rochester
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Country Dancers of Rochester
+    cancelled: true
+    source: events/usa/cdss.yaml
+  - name: Berkeley Contra Dance
+    details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
+    links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
+      - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-02-29/"
+    start: "2024-02-29T20:00:00-08:00"
+    end: "2024-02-29T22:30:00-08:00"
+    country: USA
+    state: CA
+    city: Berkeley
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Leap Frogs
+    callers:
+      - Deanna Rubin
+    price: $6-$25
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "It’s our annual Tropical Dance Party! Show off your Aloha shirt and/or bright colored clothing in our festive island-decorated hall. Dance to wonderful music by Peter Macfarlane (violin) and Aaron Marcus (piano); calling by Martha Kent and Barrett Grimm. \nNewcomers welcome! Attend on your own or with a friend/partner. Ability to walk briskly required. Casual dress. BYO water bottle & clean soft-soled shoes. Masks are optional. We use terms/words that refer to roles or positions, not gender.  \n$10-$15 sliding scale."
+    links:
+      - "http://burlingtoncountrydancers.org/dance/english-country-dance-richmond-vt-11/"
+      - "https://cdss.org/event/english-country-dance-4/"
+    start: "2024-03-01T18:30:00-05:00"
+    end: "2024-03-01T21:00:00-05:00"
+    country: USA
+    state: VT
+    city: Richmond
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Peter Macfarlane & Aaron Marcus
+    callers:
+      - Barrett Grimm
+      - Martha Kent
+    price: $10-$15
+    organisation: Val Medve
+    source: events/usa/cdss.yaml
+  - name: TECDA Friday Evening Dance
+    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-friday-evening-dance/2024-03-01/"
+    start: "2024-03-01T19:00:00-05:00"
+    end: "2024-03-01T21:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: Quiet Corner Contra Dance
+    details: "Time: Dance 7:30-10:30pm [short basics session 7:15 pm]\nThis is so wicked fun! We dance to the fiddle tunes of Ireland, Scotland, England, France, Appalachia & America! We often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time! So come enjoy the friendly camaraderie, dance to live music and see everyone’s smiling faces!\nClothing & Footwear: Clothing is casual; layers are best for this invigorating exercise. Please wear non-street shoes that move easily on the floor (rubber-soled sneakers are discouraged).\nFood: Some snacks offered at the break and contributions are welcome and needed!\nCaller: George Thomson. George is a traditional New England dance leader, calling fun, easy, and family-friendly circles dances, squares, and longways sets for barn and contra dances. He enjoys calling singing squares in the style of the late Ralph Sweet. He also plays the great highland bagpipes!.\nLive Music: The Dead Sea Squirrels. Don’t be fooled by the unlikely name: You’re gonna love dancing to Cathy Mason on fiddle; Craig Edwards on fiddle, banjo, and mandolin (but not all at the same time!); and Henry Yoshimura on guitar. They play widely for contra dances and are known for their danceable tunes arranged in medleys designed to closely match and enhance the movements of the particular contra dance being taught/called. They tend to push the boundaries of the southern style with fiddle and fiddle/guitar harmonies!\nAdmission: $13.00 per person OR students (with ID, please) pay $6. Donations are greatly appreciated and encouraged!\nFree Parking: There is plenty of free parking right in front of the hall.\nRole Terms: “Ladies & Gents” but all dancers are welcome to dance whichever role their heart desires."
+    links:
+      - "http://www.hcdance.org/quiet-corner-contra/"
+      - "https://cdss.org/event/quiet-corner-contra-dance/"
+    start: "2024-03-01T19:15:00-05:00"
+    end: "2024-03-01T22:30:00-05:00"
+    country: USA
+    state: CT
+    city: Coventry
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Dead Sea Squirrels
+    callers:
+      - George Thompson
+    price: $6-$13
+    organisation: Hartford Community Dance
+    source: events/usa/cdss.yaml
+  - name: ContraATL Weekly Dance
+    details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
+    links:
+      - "https://contradance.org/"
+      - "https://cdss.org/event/contra-atl-weekly-dance/2024-03-01/"
+    start: "2024-03-01T19:30:00-05:00"
+    end: "2024-03-01T22:30:00-05:00"
+    country: USA
+    state: GA
+    city: Decatur
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $7-$15
+    organisation: ContraATL
+    source: events/usa/cdss.yaml
+  - name: Friday Night Contra & Square Dance
+    details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
+    links:
+      - "https://fsgw.org/Friday-contra-square-dance"
+      - "https://cdss.org/event/friday-night-contra-square-dance/2024-03-01/"
+    start: "2024-03-01T19:30:00-05:00"
+    end: "2024-03-01T23:00:00-05:00"
+    country: USA
+    state: MD
+    city: Glen Echo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: Folklore Society of Greater Washington
+    source: events/usa/cdss.yaml
+  - name: Friday Contra Dance
+    details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$5 – $25, pay what you can."
+    links:
+      - "https://www.nashvillecountrydancers.org/contra-dances"
+      - "https://cdss.org/event/friday-contra-dance-nashville-tn/2024-03-01/"
+    start: "2024-03-01T19:30:00-06:00"
+    end: "2024-03-01T22:30:00-06:00"
+    country: USA
+    state: TN
+    city: Nashville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$25
+    organisation: Nashville Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
+    links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5507"
+      - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2024-03-01/"
+    start: "2024-03-01T19:30:00-08:00"
+    end: "2024-03-01T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $7-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: York Region English Country Dancers
+    details: "English Country Dance in central York Region (Ontario, Canada)! Beginners welcome; all dances taught; you don’t need to bring a partner. Admission by donation; your first class is free. Join us on the first, third, and (when there is one) fifth Saturday of the month from 2:00 to 4:00. (Please check the website for possible last-minute changes.)"
+    links:
+      - "http://www.yrecd.ca/"
+      - "https://cdss.org/event/york-region-english-country-dancers/2024-03-02/"
+    start: "2024-03-02T14:00:00-05:00"
+    end: "2024-03-02T16:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Newmarket
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: York Region English Country Dancers
+    source: events/usa/cdss.yaml
+  - name: English Dance S.A.
+    details: English Country Dancing in San Antonio for the first time since the pandemic! New location. Recorded music until our band is ready!
+    links:
+      - "https://www.meetup.com/english-dance-sanantonio/"
+      - "https://cdss.org/event/english-dance-s-a/2024-03-02/"
+    start: "2024-03-02T16:00:00-05:00"
+    end: "2024-03-02T18:00:00-05:00"
+    country: USA
+    state: TX
+    city: San Antonio
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: English Dance S.A.
+    source: events/usa/cdss.yaml
+  - name: Old Tyme Contra & Community Dance
+    details: "First Saturday of every month: lesson at 6:30, dance 7-9pm.\nLive band and dance caller for contras, squares, round, and fun crazy family dances, too.\nBeginners are welcome! No need to bring a partner, but you are welcome to do so.\nChildren over age 8 who are game to participate may also attend.\nBring a closed water container and a snack if you choose.\nSmooth-soled shoes work best on the Library’s wonderful wood floor.\nPlease do not wear perfume or scents to the dances."
+    links:
+      - "https://cdss.org/event/old-tyme-contra-community-dance-of-macon-county-nc/2024-03-02/"
+    start: "2024-03-02T18:30:00-05:00"
+    end: "2024-03-02T21:00:00-05:00"
+    country: USA
+    state: NC
+    city: Franklin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Friends of Contra Dance of Macon County
+    source: events/usa/cdss.yaml
+  - name: Goshen Community Contra Dance
+    details: "Contra Dance with live music and caller. \nThe dance will be held at Goshen First Church, 215 South St., Goshen, IN. \nGeneral Public: Non-members $8, Members $6\nStudents: Non-members $5, Members $3\nChildren under 12: Free\nFamily maximum cost: $18 \nNo experience or partner needed and all dances are led by experienced callers. \nNew dancers are always welcome and are invited to the free beginners workshop at 6:30pm."
+    links:
+      - "http://godancing.org/"
+      - "https://cdss.org/event/goshen-community-contra-dance-2/2024-03-02/"
+    start: "2024-03-02T19:00:00-05:00"
+    end: "2024-03-02T22:00:00-05:00"
+    country: USA
+    state: IN
+    city: Goshen
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $3-$8
+    organisation: Goshen Community Contra Dance
+    source: events/usa/cdss.yaml
+  - name: George Washington Ball
+    details: "Come join us for our annual ball!  We’ll be dancing in Kaplan Parish Hall to the wonderful music of Hot Toddy (Anna Rain, Melissa Running, and Edith Coakley Stowe).  A review session will be held at the same location on the afternoon of the ball from 1-3:30pm. \nThe dances: Dancing Across the Atlantic, Europe’s Revels, The Flying Sorceress, Fourpence Ha’penny Farthing, Hambleton’s Round-O, Heidenroslein, The Hop Ground, Indian Princess, Jack by the Hedge, Kneeland Romp, Leather Lake House, The Lord Mayor’s Delight, Mile of Smiles, Mr. Beveridge’s Maggot, Peace Be With You, Portsmouth, Prince William, Punch Bowl, Treasure of the Big Woods, Vivaldi in Paradise \nMore information—including videos, instructions, and registration information—can be found on our website. \nCovid policy: Masking against Covid is encouraged but not required.  We ask that attendees be vaccinated; you should not attend if you have a fever, symptoms of or recent exposure to covid-19, or other obvious signs of illness. If you are unable to attend due to covid or other illness, full refunds will be issued.  Attending this in-person dance event carries inherent risk of exposure; by attending the Ball you accept personal responsibility for this risk."
+    links:
+      - "https://williamsburgheritagedancers.org/special-events/george-washington-ball/"
+      - "https://cdss.org/event/george-washington-ball-williamsburg-va/"
+    start: "2024-03-02T19:00:00-05:00"
+    end: "2024-03-02T23:00:00-05:00"
+    country: USA
+    state: VA
+    city: Williamsburg
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Hot Toddy
+    price: $35
+    organisation: Williamsburg Heritage Dancers
+    source: events/usa/cdss.yaml
+  - name: Ottawa Contra Dance
+    details: "Join Ottawa Contra Dance every 1st and 3rd Saturday, September – June. Dances are called using Larks and Robins. Admission by sliding scale."
+    links:
+      - "https://ottawacontra.ca/"
+      - "https://cdss.org/event/ottawa-contra-dance/2024-03-02/"
+    start: "2024-03-02T19:30:00-05:00"
+    end: "2024-03-02T23:00:00-05:00"
+    country: Canada
+    state: Ontario
+    city: Ottawa
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10-$25
+    organisation: Ottawa Contra Dance
+    source: events/usa/cdss.yaml
+  - name: First Saturday Contra at Guiding Star Grange
+    details: "Wild Asparagus with George Marshall, David Cantieni, Becky Tracy, Ann Percival and guests. Please check the Guiding Star Grange website for details. \nSchedule: 7:30-8:00 beginners’ workshop, 8:00-11:00 contra dance \nCost: $12 – $20 sliding scale \nSee venue website for this month’s details and Covid policy."
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+      - "https://cdss.org/event/first-saturday-contra-at-guiding-star-grange/2024-03-02/"
+    start: "2024-03-02T19:30:00-05:00"
+    end: "2024-03-02T23:00:00-05:00"
+    country: USA
+    state: MA
+    city: Greenfield
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Wild Asparagus
+    price: $12-$20
+    organisation: George Marshall
+    source: events/usa/cdss.yaml
+  - name: First Saturday Contra Dance
+    details: "The Monadnock Folklore Society presents the Peterborough, NH First Saturday Contra Dance on the first Saturday with different musicians and callers every month.  \nThe dancing begins at 8:00 PM, with an introductory workshop beginning at 7:30. Sliding scale admission is  $12 – 20. \nWe also host an open jam session for beginning and intermediate musicians from 6:45 – 7:30 PM. \nThe Monadnock Folklore Society has presented contra dances and concerts of traditional music since 1982."
+    links:
+      - "https://www.monadnockfolk.org/?tribe_events=peterborough-first-saturday-contra-dance-2-8"
+      - "https://cdss.org/event/first-saturday-contra-dance-in-peterborough-nh/2024-03-02/"
+    start: "2024-03-02T19:30:00-05:00"
+    end: "2024-03-02T22:00:00-05:00"
+    country: USA
+    state: NH
+    city: Peterborough
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $12-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Monterey Spring Bling Contra Dance
+    details: "March 2nd: Rescheduled, now our Spring Bling! Contra Dance\nwith The Little Big Band, and Kelsey Hartman calling! \nDrag out those fancy togs and don that glitter and glitz, it’s time to step lively, and put on the Ritz! Marta Lynch and Bob Silberstein playing the tunes, and Kelsey’s calling, will definitely get us in the mood to dance! \nMonterey Country Dance Community holds contra dances most first and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \nLessons at 6:40; dance starts at 7 PM. \n​Prices: \n\n$12 General\n​$10 Members of MCDC, BACDS, CDSS or other sister organizations\n$5 active military & full-time students, with ID\nFREE! for children 12 & under ​"
+    links:
+      - "https://montereycontradance.org/index.html"
+      - "https://cdss.org/event/monterey-contra-dance-3/"
+    start: "2024-03-02T18:40:00-08:00"
+    end: "2024-03-02T22:00:00-08:00"
+    country: USA
+    state: CA
+    city: Monterey
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Little Big Band
+    callers:
+      - Kelsey Hartman
+    price: $5-$12
+    organisation: Monterey Country Dance Community
     source: events/usa/cdss.yaml
   - name: River Rendezvous
     links:
@@ -50267,6 +51057,24 @@ events:
       - Rémi Geffroy
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk op zondagmiddag
+    details: "Balfolk op Zondagmiddag in Enkhuizen van 2 tot 5 uur\nOp het Balfolk van 10 maart kunnen we dit keer heerlijk dansen op de dynamische muziek van de groep ‘Madlot’. De naam Madlot komt van een Nederlandse dans die in de negentiende eeuw populair was. Nu kun je daar een cercle op dansen. Madlot is een dynamisch collectief van muzikanten rond Judica Lookman en Bert Lotz. Elkaar ontmoeten en inspireren vanuit verschillende muziektradities, is een nieuw thema geworden: van jong tot oud, en vanuit allerlei streken. En hoe dat klinkt wil Madlot deze middag laten horen.  Zij spelen folk uit Nederland en Frankrijk: scottisch, wals, polka, mazurka, rondeau, andro, hanterdro, enz. enz.\nJudica Lookman - trekharmonica’s\nBert Lotz - doedelzakken, koeienhoorn, blokfluit, schalmei\nWouter Koenders - doedelzakken, fluit\nCorentin Clot - banjo\nZie voor meer informatie www.madlot.nl\n\nDaarnaast zal ook het vertrouwde Adhoc Orkest (huisband van het Enkhuizer Balfolk) spelen. Het AdHoc speelt vooral traditionele franse en vlaamse Balfolk muziek. Er zullen tijdens het bal enkele korte instructies geven voor o.a. de Maclotte, Gavotte de l’Aven en Suite de maraîchines.\n\nHet bal is zoals altijd weer in de sfeervolle zaal van het hotel-restaurant Die Port van Cleve, waar ook een prachtige houten vloer ligt die heerlijk is om op te dansen.\n\nEntree is 7,00 euro. Reserveren is niet nodig."
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-op-zondagmiddag-met-madlot/"
+    start: "2024-03-10T14:00:00+01:00"
+    end: "2024-03-10T17:00:00+01:00"
+    country: Netherlands
+    city: Enkhuizen
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - AdHoc Orkest
+      - Madlot
+    price: €7
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
   - name: Wageningen Junushoff
     details: "Na een winterslaapje kan er eindelijk weer gedanst worden in de Junushoff. Dus trek je winterjas uit en kom genieten van fijne muziek die je meeneemt naar warmere oorden!\nLes Bottines Artistiques is ontstaan in het najaar van 2014. Beiden actief op vele muzikale wegen, besloten Guus en Pavel om hun pad te laten kruisen en daaruit ontstond Les Bottines Artistiques. De combinatie Pavels levendige vioolspel met Bulgaarse roots in combinatie met Guus' feilloze Franse en Italiaanse accordeonspel zorgt voor een warme, kleurrijke en verrassende dynamiek.\nBamako Express, bestaande uit Florian De Schepper (gitaar), Anouk Sanczuk (viool), Joël Diarra (balafoon & calabash) & Jonathan Dembélé (bas & zang) is geen gewone band; het is een smeltkroes van werelden, een ontmoeting van culturen en een explosie van muzikale schittering. Dit kwartet, bestaande uit twee getalenteerde Belgische muzikanten en twee virtuoze artiesten uit Mali, heeft de handen in elkaar geslagen om iets buitengewoons te creëren: een fusie van folk en West-Afrikaanse magie! Ontdek de unieke bezetting van Bamako Express, waar de zoete klanken van de gitaar samensmelten met de diepe resonantie van de bas, de betoverende tonen van de viool en de magische melodieën van de balafoon. Elk instrument speelt een cruciale rol bij het vormgeven van het kenmerkende sonische palet van de band.\nBen je een nieuwe danser? Om 15:00 beginnen wij met een uurtje dansuitleg! Entree: Regulier €20, korting €15. Betalen kan contant of via een QR-code. Reserveren is niet nodig, er zijn altijd genoeg kaartjes beschikbaar.\nTijdens het bal is er een gezellige picknick. Neem hiervoor vooral wat lekkers mee, dan delen we dat met z'n allen. Vergeet je bordje, bestek en opscheplepels niet. Een waterflesje om de dorst te lessen tijdens het bal is ook aangeraden. Neem zelf geen andere dingen mee, de bar verkoopt genoeg lekkere drankjes!\nVoorlopige planning:\n15:00 Dansinitiatie\n16:00 Les Bottines Artistiques\n18:00 Potluck diner\n19:00 Bamako Express\n21:00 Einde"
     links:
@@ -50645,7 +51453,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Season closing and Workshop
-    details: "** English below **\n\n\n\nWe eindigen het seizoen met Duo Chabenat / Heiderich met hakenharp, draailier en zang. Met daaraan een workshop vooraf waarvan we het onderwerp nog gaan aankondigen.\n\nGilles Chabenat is zonder twijfel een van de meest gerenommeerde draailierspelers. Hij maakt deel uit van de muzikanten die een belangrijke rol spelen in de nieuwe en verdere ontwikkeling van dit instrument in de hedendaagse muziek. Als componist zijn veel van zijn stukken standaardmateriaal geworden in de Franse balfolk scene.\n\nMet de haakharp, de Franse doedelzak en haar stem creëert Daniela Heiderich veelzijdige klankwerelden. Daniela studeerde haar instrumenten in traditionele muziek aan het Centre d'Etudes Supérieures Musique et Danse (CESMD) in Poitiers/Frankrijk. Ze hield zich intensief bezig met de geschiedenis en het spel van de rondtrekkende harpspelers die de afgelopen eeuwen door Europa en de wereldbol reisden. In de regio Limousin specialiseerde ze zich in het bespelen van verschillende soorten doedelzakken die daar en in aangrenzende regio's voorkomen, zoals de Cabrette, de Chabrette of de Cornemuse du Centre.\n\nhttps://youtu.be/vJ-TvB7HWZs\nhttps://youtu.be/Xi6Opq-r0q4\nProgramma\n19:00 – inloop\n19:10 – begin workshop\n20:10 – einde workshop\n20:15 – Duo Chabenat / Heiderich\n21:45 – Einde\n22:00 – Sluiting\nReserveren en Prijzen\nVoor de seizoensafsluiting hoef je niet te reserveren. Let op! Je betaalt contant aan de kassa bij de deur. Mocht je geen contant bij je hebben, dan kun je bij de Albert Heijn aan de Voorstraat pinnen. Bij ons kun je helaas niet pinnen. Workshop kost €5. Prijzen voor het bal:\n\n \t€13,- (Normaaltarief),\n \t€15,- (Fair-Trade),\n \t€10,- (Kortingstarief).\n\nFair Trade\nVind jij het belangrijk dat docenten en muzikanten eerlijk betaald worden? En, wil je dat Balfolk Utrecht kwaliteit levert? Neem dan Fair Trade! Want, goede docenten en muzikanten verdienen meer dan basic theebiscuits bij hun koffie. Verleid ze naar onze events met galettes. Daarom Fair Trade :)\nOverig\nWe hebben een garderobe waar je je spullen kunt achterlaten. Laat je spullen niet op de banken liggen. De bar van de Moira is gesloten. Voel je vrij om je eigen drank mee te nemen. We vragen je om na het einde, de Moira stilletjes te verlaten en geen geluid te maken voor het gebouw.\nRichtlijnen\nWij willen graag dat iedereen bij Balfolk zich vrij voelt om zichzelf te zijn en zich veilig voelt om aan te geven wat ze nodig hebben. We vinden het daarom belangrijk dat iedereen die naar onze bals komt op de hoogte is van een aantal richtlijnen waar we ons aan houden. Zo maken we de community voor iedereen zo veilig en fijn mogelijk. De richtlijnen voor onze bals: Dansrichtlijnen.\nLocatie\nHet vindt plaats in de Moira, een fijne zaal in het centrum van Utrecht. Het adres is Wolvenstraat 10 (aan het einde van de Plompetorengracht). Je moet de blauwe deur hebben aan de rechterkant. Dan kom je via de trap naar beneden in de zaal. Er is geen lift.\n\n\n\n** English **\n\n\n\nWe end the season with Duo Chabenat / Heiderich with hook harp, hurdy-gurdy and singing. This will be preceded by a workshop, the subject of which we will announce later.\n\nGilles Chabenat is without a doubt one of the most renowned hurdy-gurdy players. He is one of the musicians who play an important role in the new and further development of this instrument in contemporary music. As a composer, many of his pieces have become standard material in the French balfolk scene.\n\nWith the hook harp, french bagpipe and her voice, Daniela Heiderich creates multifaceted sound worlds. Daniela studied her instruments in traditional music at the Center d'Etudes Supérieures Musique et Danse (CESMD) in Poitiers/France. She dealt intensively with the history and playing of the itinerant harp players who have traveled through Europe and across the globe over the past centuries. In the Limousin region she specialized in playing various types of bagpipes native there and in neighboring regions, such as the Cabrette, the Chabrette or the Cornemuse du Centre.\n\nhttps://youtu.be/vJ-TvB7HWZs\nhttps://youtu.be/Xi6Opq-r0q4\nProgramme\n19:00 – Walk-in\n19:10 – start workshop\n20:10 – end workshop\n20:15 – Duo Chabenat / Heiderich\n21:45 – End\n22:00 – Closure\nReservation and Prices\nYou do not need to make a reservation. You choose at the door which rate you want to pay. NB! You pay cash at the door. If you do not have cash with you, there is an ATM at Albert Heijn on Voorstraat. There is no pin option at our cash register. Workshop costs €5. Prices for the ball:\n\n \t€13,- (normal rate),\n \t€15,- (Fair Trade),\n \t€10,- (discount rate).\n\nFair Trade\nDo you think it is important that teachers and musicians are paid fairly? And, do you want Balfolk Utrecht to deliver quality? Pay Fair Trade! Because, good teachers and musicians earn more than basic tea biscuits with their coffee. Seduce them to our events with galettes. Therefore Fair Trade :)\nRemainder\nWe have a cloakroom where you can leave your belongings. Do not leave your belongings on the couches. The bar of Moira is closed. Feel free to bring your own drinks. We ask you to leave the Moira quietly after the end and not to make any noise in front of the building.\nGuidelines\nWe want everyone at Balfolk to feel free to be themselves and feel safe to express their needs. We therefore think it is important that everyone who comes to our balls is aware of a number of guidelines that we adhere to. In this way we make the community as safe and pleasant as possible for everyone. The guidelines for our balls: Guidelines.\nLocation\nIt takes place in the Moira, a nice hall in the center of Utrecht. The address is Wolvenstraat 10 (at the end of Plompetorengracht). Take the blue door on the right and go down the stairs into the hall. There is no elevator."
+    details: "** English below **\n\n\n\nWe eindigen het seizoen met Duo Chabenat / Heiderich met hakenharp, draailier en zang. Met daaraan een losse les vooraf waarvan we het onderwerp nog gaan aankondigen.\n\nGilles Chabenat is zonder twijfel een van de meest gerenommeerde draailierspelers. Hij maakt deel uit van de muzikanten die een belangrijke rol spelen in de nieuwe en verdere ontwikkeling van dit instrument in de hedendaagse muziek. Als componist zijn veel van zijn stukken standaardmateriaal geworden in de Franse balfolk scene.\n\nMet de haakharp, de Franse doedelzak en haar stem creëert Daniela Heiderich veelzijdige klankwerelden. Daniela studeerde haar instrumenten in traditionele muziek aan het Centre d'Etudes Supérieures Musique et Danse (CESMD) in Poitiers/Frankrijk. Ze hield zich intensief bezig met de geschiedenis en het spel van de rondtrekkende harpspelers die de afgelopen eeuwen door Europa en de wereldbol reisden. In de regio Limousin specialiseerde ze zich in het bespelen van verschillende soorten doedelzakken die daar en in aangrenzende regio's voorkomen, zoals de Cabrette, de Chabrette of de Cornemuse du Centre.\n\nhttps://youtu.be/vJ-TvB7HWZs\nhttps://youtu.be/Xi6Opq-r0q4\nProgramma\n19:00 – inloop\n19:10 – begin losse les\n20:10 – einde losse les\n20:15 – Duo Chabenat / Heiderich\n21:45 – Einde\n22:00 – Sluiting\nReserveren en Prijzen\nVoor de seizoensafsluiting hoef je niet te reserveren. Let op! Je betaalt contant aan de kassa bij de deur. Mocht je geen contant bij je hebben, dan kun je bij de Albert Heijn aan de Voorstraat pinnen. Bij ons kun je helaas niet pinnen. Losse les kost €5. Prijzen voor het bal:\n\n \t€13,- (Normaaltarief),\n \t€15,- (Fair-Trade),\n \t€10,- (Kortingstarief).\n\nFair Trade\nVind jij het belangrijk dat docenten en muzikanten eerlijk betaald worden? En, wil je dat Balfolk Utrecht kwaliteit levert? Neem dan Fair Trade! Want, goede docenten en muzikanten verdienen meer dan basic theebiscuits bij hun koffie. Verleid ze naar onze events met galettes. Daarom Fair Trade :)\nOverig\nWe hebben een garderobe waar je je spullen kunt achterlaten. Laat je spullen niet op de banken liggen. De bar van de Moira is gesloten. Voel je vrij om je eigen drank mee te nemen. We vragen je om na het einde, de Moira stilletjes te verlaten en geen geluid te maken voor het gebouw.\nRichtlijnen\nWij willen graag dat iedereen bij Balfolk zich vrij voelt om zichzelf te zijn en zich veilig voelt om aan te geven wat ze nodig hebben. We vinden het daarom belangrijk dat iedereen die naar onze bals komt op de hoogte is van een aantal richtlijnen waar we ons aan houden. Zo maken we de community voor iedereen zo veilig en fijn mogelijk. De richtlijnen voor onze bals: Dansrichtlijnen.\nLocatie\nHet vindt plaats in de Moira, een fijne zaal in het centrum van Utrecht. Het adres is Wolvenstraat 10 (aan het einde van de Plompetorengracht). Je moet de blauwe deur hebben aan de rechterkant. Dan kom je via de trap naar beneden in de zaal. Er is geen lift.\n\n\n\n** English **\n\n\n\nWe end the season with Duo Chabenat / Heiderich with hook harp, hurdy-gurdy and singing. This will be preceded by a single lesson, the subject of which we will announce later.\n\nGilles Chabenat is without a doubt one of the most renowned hurdy-gurdy players. He is one of the musicians who play an important role in the new and further development of this instrument in contemporary music. As a composer, many of his pieces have become standard material in the French balfolk scene.\n\nWith the hook harp, french bagpipe and her voice, Daniela Heiderich creates multifaceted sound worlds. Daniela studied her instruments in traditional music at the Center d'Etudes Supérieures Musique et Danse (CESMD) in Poitiers/France. She dealt intensively with the history and playing of the itinerant harp players who have traveled through Europe and across the globe over the past centuries. In the Limousin region she specialized in playing various types of bagpipes native there and in neighboring regions, such as the Cabrette, the Chabrette or the Cornemuse du Centre.\n\nhttps://youtu.be/vJ-TvB7HWZs\nhttps://youtu.be/Xi6Opq-r0q4\nProgramme\n19:00 – Walk-in\n19:10 – start single lesson\n20:10 – end single lesson\n20:15 – Duo Chabenat / Heiderich\n21:45 – End\n22:00 – Closure\nReservation and Prices\nYou do not need to make a reservation. You choose at the door which rate you want to pay. NB! You pay cash at the door. If you do not have cash with you, there is an ATM at Albert Heijn on Voorstraat. There is no pin option at our cash register. Single lesson costs €5. Prices for the ball:\n\n \t€13,- (normal rate),\n \t€15,- (Fair Trade),\n \t€10,- (discount rate).\n\nFair Trade\nDo you think it is important that teachers and musicians are paid fairly? And, do you want Balfolk Utrecht to deliver quality? Pay Fair Trade! Because, good teachers and musicians earn more than basic tea biscuits with their coffee. Seduce them to our events with galettes. Therefore Fair Trade :)\nRemainder\nWe have a cloakroom where you can leave your belongings. Do not leave your belongings on the couches. The bar of Moira is closed. Feel free to bring your own drinks. We ask you to leave the Moira quietly after the end and not to make any noise in front of the building.\nGuidelines\nWe want everyone at Balfolk to feel free to be themselves and feel safe to express their needs. We therefore think it is important that everyone who comes to our balls is aware of a number of guidelines that we adhere to. In this way we make the community as safe and pleasant as possible for everyone. The guidelines for our balls: Guidelines.\nLocation\nIt takes place in the Moira, a nice hall in the center of Utrecht. The address is Wolvenstraat 10 (at the end of Plompetorengracht). Take the blue door on the right and go down the stairs into the hall. There is no elevator."
     links:
       - "https://www.balfolk.nl/agenda/minibaljanma2024/"
     start: "2024-04-15T19:10:00+02:00"
@@ -50958,6 +51766,23 @@ events:
     workshop: true
     social: true
     price: €6
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk Groningen
+    details: "Er komt opnieuw een balfolk in Groningen!\n\nErik de Jong en Martijn Versteeg bij Balfolk Groningen op vrijdag 24 mei 2024\n\nAanvang: 19:30-22:30\nEntree: Vrijwillige bijdrage, geef gul voor de band! Bijvoorbeeld €15 per persoon\nLocatie: Theater De Kapel in het Oude Rooms Katholiek Ziekenhuis (ORKZ),\nEmmastraat 15, 9722 EW Groningen\nInstructies: Ja, om 19.30 uur\n\nBalfolk Groningen is dansen op live folkmuziek en natuurlijk sessie na afloop: dus neem ook je instrumenten mee!\nEntree: vrijwillige donatie, zoals bijvoorbeeld € 15,- Geef ruim, want alles gaat 100% naar muzikanten.\n\nGlobaal tijdschema (onder voorbehoud):\n19:30 dansworkshop\n20:30 Bal\n22:30 sessie\n23:00 einde programma\n\nOver de Dansuitleg\nIn deze dansuitleg komen de basisprincipes van balfolk aan bod zodat iedereen mee kan doen. In de tweede helft van de dansuitleg gaan ze dieper op één dans in.\n\nWat is Balfolk?\nBalfolk is misschien een beetje te vergelijken met een tango- of salsa-avond, maar dan met de muziek en dansen van hier: de dansen en muziek die traditioneel in West-Europa voorkomen. En er is altijd live muziek! En we starten altijd met een dansuitleg. Iedereen kan meedoen.\n\nOver Erik en Martijn\nErik de Jong is een veelzijdig folk muzikant die vooral actief is in de Ierse/Schotse scene, maar ook binnen andere folkstijlen zoals balfolk en Balkan-muziek. Instrumenten die hij daarbij bespeelt zijn accordeon (als hoofdinstrument), whistles, bodhrán en draailier.\nVoor dansers spelen heeft Erik altijd het leukste gevonden om te doen. Daar is hij mee begonnen in de Nederlandse balfolkband ‘De Gonnagles’. Later is hij samen met Carieke Pol veel ceilidh-workshops gaan doen (Schotse dansworkshops) op bruiloften, feesten en festivals, zoals de Celtic & Balfolk Night in De Doelen in Rotterdam, en de Elf Fantasy Fairs in Arcen en Haarzuilens. Naast Ierse/Schotse muziek speelt Erik ook nog steeds graag balfolk, bijvoorbeeld met de duo’s Itchy Fingers (met Tijn Berends) en Exqueezit (met Bert Leemans), waarmee hij o.a. op balfolkfestival Cadansa heeft gespeeld. Voor meer informatie over Eriks muzikale activiteiten, zie www.folkmuzikant.nl.\nMartijn speelt klarinet en is bekend van de balfolkband Sidaro.\n\nDe kapel is te vinden als je naar het Oude RKZ (ORKZ) komt in de Emmastraat 15. Wanneer je binnenkomt loop je naar de bar, en rechts van de bar bevindt zich de deur naar de kapel."
+    links:
+      - "https://www.balfolk.nl/agenda/balfolk-groningen-met-erik-de-jong-en-martijn-versteeg/"
+    start: "2024-05-24T19:30:00+02:00"
+    end: "2024-05-24T23:00:00+02:00"
+    country: Netherlands
+    city: Groningen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Erik en Martijn
+    price: €15
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
@@ -71497,7 +72322,10 @@ events:
     workshop: true
     social: true
     bands:
-      - Academie Lebbeke En Sint-Niklaas
+      - Academie Lebbeke
+      - Academie Bornem
+      - Roots
+    price: €8-€10
     organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Kettingbal
@@ -71922,6 +72750,58 @@ events:
       - Jaro De Roose
     price: free
     organisation: Stanistil
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2154"
+    start: "2024-03-17T14:00:00+01:00"
+    end: "2024-03-17T17:30:00+01:00"
+    country: Belgium
+    city: Bruges
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Brabants Volksorkest
+    price: €10
+    organisation: Ol Da Folk Brugge
+    source: events/belgium/folkbalbende.yaml
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2156"
+      - "https://www.facebook.com/events/285288697176332/"
+    start: "2024-03-16T20:30:00+01:00"
+    end: "2024-03-17T00:00:00+01:00"
+    country: Belgium
+    city: Denderhoutem
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Variomatic
+      - Duo Gestrikt
+    organisation: Boombal
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2157"
+    start: "2024-05-31T20:00:00+02:00"
+    end: "2024-05-31T23:00:00+02:00"
+    country: Belgium
+    city: Bruges
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Threo
+    price: €10
+    organisation: Ol Da Folk Brugge
     source: events/belgium/folkbalbende.yaml
   - name: Bals et Roses
     links:
