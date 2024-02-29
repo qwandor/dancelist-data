@@ -3288,7 +3288,7 @@ events:
     links:
       - "https://fsgw.org/Friday-contra-square-dance"
       - "https://cdss.org/event/friday-night-contra-square-dance/2024-02-23/"
-    start: "2024-02-23T20:00:00-05:00"
+    start: "2024-02-23T19:30:00-05:00"
     end: "2024-02-23T23:00:00-05:00"
     country: USA
     state: MD
@@ -3707,6 +3707,7 @@ events:
   - name: Monday Contra Dance
     details: "What better way to start the week? Only $3! It’s Monday, and we (almost) always dance on Monday."
     links:
+      - "https://www.monadnockfolk.org/?tribe_event_series=monday-night-dance"
       - "https://cdss.org/event/monday-contra-dance-in-nelson-nh/2024-02-26/"
     start: "2024-02-26T19:30:00-05:00"
     end: "2024-02-26T22:00:00-05:00"
@@ -3759,7 +3760,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/english-country-dance-asheville-nc/2024-02-28/"
-    start: "2024-02-28T19:00:00-05:00"
+    start: "2024-02-28T18:40:00-05:00"
     end: "2024-02-28T21:00:00-05:00"
     country: USA
     state: NC
@@ -3820,6 +3821,7 @@ events:
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-195/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-02-29/"
     start: "2024-02-29T19:30:00-05:00"
     end: "2024-02-29T22:30:00-05:00"
@@ -3831,9 +3833,11 @@ events:
     workshop: false
     social: true
     organisation: Country Dancers of Rochester
-  - name: Berkeley Contra and English Dances
+    cancelled: true
+  - name: Berkeley Contra Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-02-29/"
     start: "2024-02-29T20:00:00-08:00"
     end: "2024-02-29T22:30:00-08:00"
@@ -3842,13 +3846,18 @@ events:
     city: Berkeley
     styles:
       - contra
-      - ecd
     workshop: true
     social: true
+    bands:
+      - The Leap Frogs
+    callers:
+      - Deanna Rubin
+    price: $6-$25
     organisation: CDSS
   - name: English Country Dance
     details: "It’s our annual Tropical Dance Party! Show off your Aloha shirt and/or bright colored clothing in our festive island-decorated hall. Dance to wonderful music by Peter Macfarlane (violin) and Aaron Marcus (piano); calling by Martha Kent and Barrett Grimm. \nNewcomers welcome! Attend on your own or with a friend/partner. Ability to walk briskly required. Casual dress. BYO water bottle & clean soft-soled shoes. Masks are optional. We use terms/words that refer to roles or positions, not gender.  \n$10-$15 sliding scale."
     links:
+      - "http://burlingtoncountrydancers.org/dance/english-country-dance-richmond-vt-11/"
       - "https://cdss.org/event/english-country-dance-4/"
     start: "2024-03-01T18:30:00-05:00"
     end: "2024-03-01T21:00:00-05:00"
@@ -3859,6 +3868,8 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Peter Macfarlane & Aaron Marcus
     callers:
       - Barrett Grimm
       - Martha Kent
@@ -3889,17 +3900,19 @@ events:
     links:
       - "http://www.hcdance.org/quiet-corner-contra/"
       - "https://cdss.org/event/quiet-corner-contra-dance/"
-    start: "2024-03-01T19:30:00-05:00"
+    start: "2024-03-01T19:15:00-05:00"
     end: "2024-03-01T22:30:00-05:00"
     country: USA
     state: CT
     city: Coventry
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Dead Sea Squirrels
+    callers:
+      - George Thompson
     price: $6-$13
     organisation: Hartford Community Dance
   - name: ContraATL Weekly Dance
@@ -3916,13 +3929,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Friday Night Contra & Square Dance
     details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
     links:
       - "https://fsgw.org/Friday-contra-square-dance"
       - "https://cdss.org/event/friday-night-contra-square-dance/2024-03-01/"
-    start: "2024-03-01T20:00:00-05:00"
+    start: "2024-03-01T19:30:00-05:00"
     end: "2024-03-01T23:00:00-05:00"
     country: USA
     state: MD
@@ -3931,6 +3945,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Folklore Society of Greater Washington
   - name: Friday Contra Dance
     details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$5 – $25, pay what you can."
@@ -3951,6 +3966,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5507"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2024-03-01/"
     start: "2024-03-01T19:30:00-08:00"
     end: "2024-03-01T22:30:00-08:00"
@@ -3981,6 +3997,7 @@ events:
   - name: English Dance S.A.
     details: English Country Dancing in San Antonio for the first time since the pandemic! New location. Recorded music until our band is ready!
     links:
+      - "https://www.meetup.com/english-dance-sanantonio/"
       - "https://cdss.org/event/english-dance-s-a/2024-03-02/"
     start: "2024-03-02T16:00:00-05:00"
     end: "2024-03-02T18:00:00-05:00"
@@ -4022,9 +4039,10 @@ events:
     social: true
     price: $3-$8
     organisation: Goshen Community Contra Dance
-  - name: "George Washington Ball (Williamsburg, VA)"
+  - name: George Washington Ball
     details: "Come join us for our annual ball!  We’ll be dancing in Kaplan Parish Hall to the wonderful music of Hot Toddy (Anna Rain, Melissa Running, and Edith Coakley Stowe).  A review session will be held at the same location on the afternoon of the ball from 1-3:30pm. \nThe dances: Dancing Across the Atlantic, Europe’s Revels, The Flying Sorceress, Fourpence Ha’penny Farthing, Hambleton’s Round-O, Heidenroslein, The Hop Ground, Indian Princess, Jack by the Hedge, Kneeland Romp, Leather Lake House, The Lord Mayor’s Delight, Mile of Smiles, Mr. Beveridge’s Maggot, Peace Be With You, Portsmouth, Prince William, Punch Bowl, Treasure of the Big Woods, Vivaldi in Paradise \nMore information—including videos, instructions, and registration information—can be found on our website. \nCovid policy: Masking against Covid is encouraged but not required.  We ask that attendees be vaccinated; you should not attend if you have a fever, symptoms of or recent exposure to covid-19, or other obvious signs of illness. If you are unable to attend due to covid or other illness, full refunds will be issued.  Attending this in-person dance event carries inherent risk of exposure; by attending the Ball you accept personal responsibility for this risk."
     links:
+      - "https://williamsburgheritagedancers.org/special-events/george-washington-ball/"
       - "https://cdss.org/event/george-washington-ball-williamsburg-va/"
     start: "2024-03-02T19:00:00-05:00"
     end: "2024-03-02T23:00:00-05:00"
@@ -4035,6 +4053,9 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Hot Toddy
+    price: $35
     organisation: Williamsburg Heritage Dancers
   - name: Ottawa Contra Dance
     details: "Join Ottawa Contra Dance every 1st and 3rd Saturday, September – June. Dances are called using Larks and Robins. Admission by sliding scale."
@@ -4050,10 +4071,12 @@ events:
       - contra
     workshop: false
     social: true
+    price: $10-$25
     organisation: Ottawa Contra Dance
   - name: First Saturday Contra at Guiding Star Grange
     details: "Wild Asparagus with George Marshall, David Cantieni, Becky Tracy, Ann Percival and guests. Please check the Guiding Star Grange website for details. \nSchedule: 7:30-8:00 beginners’ workshop, 8:00-11:00 contra dance \nCost: $12 – $20 sliding scale \nSee venue website for this month’s details and Covid policy."
     links:
+      - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/first-saturday-contra-at-guiding-star-grange/2024-03-02/"
     start: "2024-03-02T19:30:00-05:00"
     end: "2024-03-02T23:00:00-05:00"
@@ -4062,17 +4085,16 @@ events:
     city: Greenfield
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Wild Asparagus
-    callers:
-      - George Marshall
     price: $12-$20
     organisation: George Marshall
   - name: First Saturday Contra Dance
     details: "The Monadnock Folklore Society presents the Peterborough, NH First Saturday Contra Dance on the first Saturday with different musicians and callers every month.  \nThe dancing begins at 8:00 PM, with an introductory workshop beginning at 7:30. Sliding scale admission is  $12 – 20. \nWe also host an open jam session for beginning and intermediate musicians from 6:45 – 7:30 PM. \nThe Monadnock Folklore Society has presented contra dances and concerts of traditional music since 1982."
     links:
+      - "https://www.monadnockfolk.org/?tribe_events=peterborough-first-saturday-contra-dance-2-8"
       - "https://cdss.org/event/first-saturday-contra-dance-in-peterborough-nh/2024-03-02/"
     start: "2024-03-02T19:30:00-05:00"
     end: "2024-03-02T22:00:00-05:00"
@@ -4083,13 +4105,14 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    price: $12-$20
     organisation: CDSS
-  - name: Monterey Spring Bling Contra Dance with The Little Big Band and Kelsey Hartman
+  - name: Monterey Spring Bling Contra Dance
     details: "March 2nd: Rescheduled, now our Spring Bling! Contra Dance\nwith The Little Big Band, and Kelsey Hartman calling! \nDrag out those fancy togs and don that glitter and glitz, it’s time to step lively, and put on the Ritz! Marta Lynch and Bob Silberstein playing the tunes, and Kelsey’s calling, will definitely get us in the mood to dance! \nMonterey Country Dance Community holds contra dances most first and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \nLessons at 6:40; dance starts at 7 PM. \n​Prices: \n\n$12 General\n​$10 Members of MCDC, BACDS, CDSS or other sister organizations\n$5 active military & full-time students, with ID\nFREE! for children 12 & under ​"
     links:
+      - "https://montereycontradance.org/index.html"
       - "https://cdss.org/event/monterey-contra-dance-3/"
-    start: "2024-03-02T19:00:00-08:00"
+    start: "2024-03-02T18:40:00-08:00"
     end: "2024-03-02T22:00:00-08:00"
     country: USA
     state: CA
@@ -4098,5 +4121,9 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - The Little Big Band
+    callers:
+      - Kelsey Hartman
     price: $5-$12
     organisation: Monterey Country Dance Community

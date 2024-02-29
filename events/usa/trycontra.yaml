@@ -616,8 +616,9 @@ events:
   - name: Palmetto Bug Stomp
     links:
       - "http://charlestonfolk.weebly.com/palmetto-bug-stomp.html"
-    start_date: 2024-04-26
-    end_date: 2024-04-28
+      - "https://www.facebook.com/events/862125718804871/"
+    start: 2024-04-26T19:00:00-04:00
+    end: 2024-04-28T15:30:00-04:00
     country: USA
     state: SC
     city: Charleston
@@ -631,6 +632,7 @@ events:
     callers:
       - George Marshall
       - Seth Tepfer
+    price: $140-$155
     organisation: TryContra
   - name: Dancing Fish
     links:
@@ -668,11 +670,12 @@ events:
       - Gaye Fifer
       - Janine Smith
     organisation: TryContra
-  - name: Meet Me in St Louis Dance Weekend
+  - name: Meet Me in St Louis
     links:
       - "https://childgrove.org/stl-dance-weekends/meetmeinstlouis"
-    start_date: 2024-04-25
-    end_date: 2024-05-27
+      - "https://www.facebook.com/events/871111018094385/"
+    start: 2024-05-24T18:00:00-05:00
+    end: 2024-05-27T15:00:00-05:00
     country: USA
     state: MO
     city: Kirkwood
@@ -685,6 +688,7 @@ events:
       - Roger Wilco
     callers:
       - Bob Isaacs
+    price: $50-$110
     organisation: TryContra
   - name: FolkMADness Music & Dance Camp
     links:
@@ -704,6 +708,7 @@ events:
     callers:
       - Jeremy Korr
       - Lo Peckman
+    price: $175-$460
     organisation: TryContra
   - name: Dancing Bear Dance Camp
     links:
@@ -718,7 +723,7 @@ events:
     workshop: true
     social: true
     bands:
-      - The Stringrays
+      - Stringrays
       - The Sail Away Ladies
     callers:
       - George Marshall
@@ -777,8 +782,8 @@ events:
   - name: Contradancers Delight Holiday
     links:
       - "https://www.contradancersdelight.com/"
-    start_date: 2024-05-10
-    end_date: 2024-05-17
+    start: 2024-05-10T20:00:00-04:00
+    end: 2024-05-17T12:00:00-04:00
     country: USA
     state: TN
     city: Mountain City
@@ -792,7 +797,7 @@ events:
       - Buzz Band
       - George Paul
     callers:
-      - Bob isaacs
+      - Bob Isaacs
       - Terry Doyle
       - Devin Pohly
       - Warren Doyle
@@ -839,18 +844,20 @@ events:
   - name: Gender-Free Dance Camp
     links:
       - "https://www.lcfd.org/spring-camp-2024.html"
-    start_date: 2024-06-07
-    end_date: 2024-06-09
+    start: 2024-06-07T15:00:00-04:00
+    end: 2024-06-09T16:00:00-04:00
     country: USA
     state: MA
     city: Plymouth
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     callers:
       - Maia McCormick
       - Scott Higgs
+    price: $150-$400
     organisation: TryContra
   - name: Flamingo Fling Weekend
     links:
@@ -879,21 +886,25 @@ events:
     city: Plymouth
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
       - Countercurrent
+      - Miranda Weinberg, Aaron Marcus, & Carrie Rose
     callers:
       - Gaye Fifer
+      - Adina Gordon
+    price: $100-$260
     organisation: TryContra
   - name: Lady of the Lake June Week
     links:
       - "http://www.ladyofthelake.org/june-week/"
-    start_date: 2024-06-23
-    end_date: 2024-06-29
+    start: 2024-06-23T15:00:00-07:00
+    end: 2024-06-29T11:00:00-07:00
     country: USA
     state: ID
-    city: "Harrison,"
+    city: Harrison
     styles:
       - contra
     workshop: true
@@ -905,6 +916,7 @@ events:
     callers:
       - Susan Petrick
       - Wendy Graham
+    price: $595-$995
     organisation: TryContra
   - name: BACDS Family Week
     links:
@@ -916,10 +928,12 @@ events:
     city: La Honda
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     callers:
       - Yoyo Zhou
+    price: $300-$975
     organisation: TryContra
   - name: "Dance, Music & Spice"
     links:
@@ -981,6 +995,7 @@ events:
     city: Plymouth
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     callers:
@@ -996,12 +1011,15 @@ events:
     city: Plymouth
     styles:
       - contra
+      - ecd
+      - scd
     workshop: true
     social: true
     bands:
       - River Road
     callers:
       - Michael Karcher
+    price: $335-$453
     organisation: TryContra
   - name: Roanoke Railroader
     links:
@@ -1021,6 +1039,7 @@ events:
     callers:
       - Will Mentor
       - Gaye Fifer
+    price: $95-$160
     organisation: TryContra
   - name: River Rendezvous
     links:
