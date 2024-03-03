@@ -7,11 +7,11 @@ events:
     end_date: 2022-03-05
     country: Poland
     city: Kraków
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     organisation: Balfolks
-
   - name: Irregular waltz workshop + dance
     links:
       - "https://www.facebook.com/events/298035442440139"
@@ -19,12 +19,12 @@ events:
     end_date: 2022-04-09
     country: Poland
     city: Kraków
-    styles: [balfolk]
-    social: true
+    styles:
+      - balfolk
     workshop: true
-    organisation: Balfolks
+    social: true
     price: 10-50 PLN
-
+    organisation: Balfolks
   - name: Urban Balfolk
     links:
       - "https://www.facebook.com/events/545415717017102"
@@ -32,108 +32,110 @@ events:
     end_date: 2022-06-11
     country: Poland
     city: Kraków
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
-    organisation: Balfolks
     price: free
-
+    organisation: Balfolks
   - name: Weekly Balfolk
     links:
       - "https://www.facebook.com/events/583032589779713/"
-    start: 2022-07-14T20:00:00+02:00
-    end: 2022-07-14T23:00:00+02:00
+    start: "2022-07-14T20:00:00+02:00"
+    end: "2022-07-14T23:00:00+02:00"
     country: Poland
     city: Kraków
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
-    organisation: Balfolks
     price: 15 PLN
-
+    organisation: Balfolks
   - name: Weekly Balfolk
     links:
       - "https://www.facebook.com/events/583032599779712/"
-    start: 2022-07-21T20:00:00+02:00
-    end: 2022-07-21T23:00:00+02:00
+    start: "2022-07-21T20:00:00+02:00"
+    end: "2022-07-21T23:00:00+02:00"
     country: Poland
     city: Kraków
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
-    organisation: Balfolks
     price: 15 PLN
-
-  - name: Weekly Balfolk
-    links:
-      - "https://www.facebook.com/events/583032603113045/"
-    start: 2022-07-28T20:00:00+02:00
-    end: 2022-07-28T23:00:00+02:00
-    country: Poland
-    city: Kraków
-    styles: [balfolk]
-    workshop: true
-    social: true
     organisation: Balfolks
-    price: 15 PLN
-
-  - name: Weekly Balfolk
-    links:
-      - "https://www.facebook.com/events/583032576446381/"
-    start: 2022-08-04T20:00:00+02:00
-    end: 2022-08-04T23:00:00+02:00
-    country: Poland
-    city: Kraków
-    styles: [balfolk]
-    workshop: true
-    social: true
-    organisation: Balfolks
-    price: 15 PLN
-
   - name: Muzyka za miedzę. Charity concert for Ukraine
     links:
       - "https://www.facebook.com/events/756344132276061/"
-    start: 2022-07-22T20:00:00+02:00
-    end: 2022-07-22T21:30:00+02:00
+    start: "2022-07-22T20:00:00+02:00"
+    end: "2022-07-22T21:30:00+02:00"
     country: Poland
     city: Kraków
-    styles: [balfolk, scandi]
+    styles:
+      - balfolk
+      - scandi
     workshop: false
     social: true
     bands:
       - Dola
       - Daj Ognia
       - G3
-    organisation: Centrum Kultury Dworek Białoprądnicki
     price: donation
-
+    organisation: Centrum Kultury Dworek Białoprądnicki
+  - name: Weekly Balfolk
+    links:
+      - "https://www.facebook.com/events/583032603113045/"
+    start: "2022-07-28T20:00:00+02:00"
+    end: "2022-07-28T23:00:00+02:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 15 PLN
+    organisation: Balfolks
+  - name: Weekly Balfolk
+    links:
+      - "https://www.facebook.com/events/583032576446381/"
+    start: "2022-08-04T20:00:00+02:00"
+    end: "2022-08-04T23:00:00+02:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 15 PLN
+    organisation: Balfolks
   - name: Banais Scottish-Irish balfolk wedding
     links:
       - "https://www.facebook.com/events/453917936558119"
-    start: 2022-11-05T19:00:00+01:00
-    end: 2022-11-05T23:59:00+01:00
+    start: "2022-11-05T19:00:00+01:00"
+    end: "2022-11-05T23:59:00+01:00"
     country: Poland
     city: Kraków
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
-    organisation: Balfolks
     bands:
       - Trio G3
     price: 35 PLN
-
+    organisation: Balfolks
   - name: January and Carnival Fest-noz
     links:
       - "https://www.facebook.com/events/1185736332150959"
-    start: 2023-01-20T19:30:00+01:00
-    end: 2023-01-21T02:00:00+01:00
+    start: "2023-01-20T19:30:00+01:00"
+    end: "2023-01-21T02:00:00+01:00"
     country: Poland
     city: Kraków
-    styles: [balfolk]
+    styles:
+      - balfolk
+    workshop: false
     social: true
-    organisation: Bal Folk Kraków
     price: free
-
+    organisation: Bal Folk Kraków
   - name: Czwartkowe Wprawki Balfolkowe
     links:
       - "https://www.facebook.com/events/604523521598476/604523538265141"
@@ -147,7 +149,6 @@ events:
     social: true
     price: 15 PLN
     organisation: Balfolks
-
   - name: Czwartkowe Wprawki Balfolkowe
     links:
       - "https://www.facebook.com/events/604523521598476/604523531598475"
@@ -161,7 +162,6 @@ events:
     social: true
     price: 15 PLN
     organisation: Balfolks
-
   - name: Pre-festival exercises
     links:
       - "https://www.facebook.com/events/900700717826506/900700724493172/"
@@ -174,39 +174,41 @@ events:
     workshop: true
     social: true
     organisation: Balfolks
-
   - name: BalMostFolk pre-party
-    start: "2023-04-27T20:00:00+02:00"
-    end: "2023-04-27T23:00:00+02:00"
     links:
       - "https://www.facebook.com/events/900700717826506/900700727826505/"
+    start: "2023-04-27T20:00:00+02:00"
+    end: "2023-04-27T23:00:00+02:00"
     country: Poland
     city: Kraków
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     organisation: Balfolks
   - name: BalMostFolk 2023
     links:
       - "https://www.facebook.com/events/633779078095731/"
-    start: 2023-04-28T18:00:00+02:00
-    end: 2023-04-30T23:55:00+02:00
+    start: "2023-04-28T18:00:00+02:00"
+    end: "2023-04-30T23:55:00+02:00"
     country: Poland
     city: Kraków
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     organisation: Balfolks
   - name: BalMostFolk afterparty
+    links: []
     start_date: 2023-05-01
     end_date: 2023-05-01
     country: Poland
     city: Kraków
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     organisation: Balfolks
-
   - name: Shapes of Balfolk
     links:
       - "https://www.facebook.com/events/227217233141096/"
@@ -221,7 +223,205 @@ events:
     social: false
     price: 90 PLN
     organisation: Balfolks
-
+  - name: Halloween Balfolk Party
+    details: "Attention! This is a Halloween costume party.\r\nWiślna 5, Kraków, Poland"
+    links:
+      - "https://www.facebook.com/events/332516645966077"
+    start: "2023-10-19T20:00:00+02:00"
+    end: "2023-10-19T23:59:00+02:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Paracetamol
+    price: 50 PLN
+    organisation: Balfolks
+  - name: Christmas balfolk
+    links:
+      - "https://www.facebook.com/events/876087760906739/"
+    start: "2023-12-14T20:00:00+01:00"
+    end: "2023-12-14T23:00:00+01:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Balfolks
+  - name: Thursday Balfolk Practice
+    links:
+      - "https://www.facebook.com/events/1055599489057059/1055599505723724/"
+    start: "2024-01-18T20:00:00+01:00"
+    end: "2024-01-18T23:00:00+01:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 20 PLN
+    organisation: Balfolks
+  - name: Thursday Balfolk Practice
+    links:
+      - "https://www.facebook.com/events/1055599489057059/1055599509057057/"
+    start: "2024-01-25T20:00:00+01:00"
+    end: "2024-01-25T23:00:00+01:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 20 PLN
+    organisation: Balfolks
+  - name: Concert with live music
+    links:
+      - "https://www.facebook.com/events/216973741404448/"
+    start: "2024-01-29T20:00:00+01:00"
+    end: "2024-01-29T23:00:00+01:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - "Duo l'Hêtre Heureux"
+    organisation: Balfolks
+  - name: Thursday Balfolk Practice
+    links:
+      - "https://www.facebook.com/events/1055599489057059/1055599525723722/"
+    start: "2024-02-01T20:00:00+01:00"
+    end: "2024-02-01T23:00:00+01:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 20 PLN
+    organisation: Balfolks
+  - name: Thursday Balfolk Practice
+    links:
+      - "https://www.facebook.com/events/1055599489057059/1055599512390390/"
+    start: "2024-02-08T20:00:00+01:00"
+    end: "2024-02-08T23:00:00+01:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 20 PLN
+    organisation: Balfolks
+  - name: Folkmetal Carnival Balfolk
+    links:
+      - "https://www.facebook.com/events/1019395766034552/"
+    start: "2024-02-10T18:18:00+01:00"
+    end: "2024-02-10T21:30:00+01:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Balfolks
+  - name: Thursday Balfolk Practice
+    links:
+      - "https://www.facebook.com/events/1055599489057059/1055599529057055/"
+    start: "2024-02-15T20:00:00+01:00"
+    end: "2024-02-15T23:00:00+01:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 20 PLN
+    organisation: Balfolks
+  - name: Thursday Balfolk Practice
+    links:
+      - "https://www.facebook.com/events/1055599489057059/1055599515723723/"
+    start: "2024-02-22T20:00:00+01:00"
+    end: "2024-02-22T23:00:00+01:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 20 PLN
+    organisation: Balfolks
+  - name: Thursday Balfolk Practice
+    links:
+      - "https://www.facebook.com/events/1055599489057059/1055599532390388/"
+    start: "2024-02-29T20:00:00+01:00"
+    end: "2024-02-29T23:00:00+01:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 20 PLN
+    organisation: Balfolks
+  - name: Workshop and concert
+    links:
+      - "https://www.facebook.com/events/1655955738492559/"
+    start: "2024-03-07T19:00:00+01:00"
+    end: "2024-03-07T23:00:00+01:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Augustas Černiauskas
+    price: 30-50 PLN
+    organisation: Balfolks
+  - name: Thursday Balfolk Practice
+    links:
+      - "https://www.facebook.com/events/1055599489057059/1055599535723721/"
+    start: "2024-03-07T20:00:00+01:00"
+    end: "2024-03-07T23:00:00+01:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 20 PLN
+    organisation: Balfolks
+  - name: Thursday Balfolk Practice
+    links:
+      - "https://www.facebook.com/events/1055599489057059/1055599522390389/"
+    start: "2024-03-14T20:00:00+01:00"
+    end: "2024-03-14T23:00:00+01:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 20 PLN
+    organisation: Balfolks
+  - name: Thursday Balfolk Practice
+    links:
+      - "https://www.facebook.com/events/1055599489057059/1055599499057058/"
+    start: "2024-03-21T20:00:00+01:00"
+    end: "2024-03-21T23:00:00+01:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 20 PLN
+    organisation: Balfolks
   - name: BalMostFolk
     links:
       - "https://www.facebook.com/events/208137062251153/"
@@ -241,202 +441,4 @@ events:
       - Kapela Fedaków
       - Vincent Laine
       - Monsieur Fruits
-    organisation: Balfolks
-
-  - name: Halloween Balfolk Party
-    details: "Attention! This is a Halloween costume party.\r\nWiślna 5, Kraków, Poland"
-    links:
-      - "https://www.facebook.com/events/332516645966077"
-    start: "2023-10-19T20:00:00+02:00"
-    end: "2023-10-19T23:59:00+02:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Paracetamol
-    price: 50 PLN
-    organisation: Balfolks
-
-  - name: Christmas balfolk
-    links:
-      - "https://www.facebook.com/events/876087760906739/"
-    start: "2023-12-14T20:00:00+01:00"
-    end: "2023-12-14T23:00:00+01:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Balfolks
-
-  - name: Thursday Balfolk Practice
-    links:
-      - "https://www.facebook.com/events/1055599489057059/1055599505723724/"
-    start: "2024-01-18T20:00:00+01:00"
-    end: "2024-01-18T23:00:00+01:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: 20 PLN
-    organisation: Balfolks
-
-  - name: Thursday Balfolk Practice
-    links:
-      - "https://www.facebook.com/events/1055599489057059/1055599509057057/"
-    start: "2024-01-25T20:00:00+01:00"
-    end: "2024-01-25T23:00:00+01:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: 20 PLN
-    organisation: Balfolks
-
-  - name: Concert with live music
-    links:
-      - "https://www.facebook.com/events/216973741404448/"
-    start: "2024-01-29T20:00:00+01:00"
-    end: "2024-01-29T23:00:00+01:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - "Duo l'Hêtre Heureux"
-    organisation: Balfolks
-
-  - name: Thursday Balfolk Practice
-    links:
-      - "https://www.facebook.com/events/1055599489057059/1055599525723722/"
-    start: "2024-02-01T20:00:00+01:00"
-    end: "2024-02-01T23:00:00+01:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: 20 PLN
-    organisation: Balfolks
-
-  - name: Thursday Balfolk Practice
-    links:
-      - "https://www.facebook.com/events/1055599489057059/1055599512390390/"
-    start: "2024-02-08T20:00:00+01:00"
-    end: "2024-02-08T23:00:00+01:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: 20 PLN
-    organisation: Balfolks
-
-  - name: Folkmetal Carnival Balfolk
-    links:
-      - "https://www.facebook.com/events/1019395766034552/"
-    start: "2024-02-10T18:18:00+01:00"
-    end: "2024-02-10T21:30:00+01:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Balfolks
-
-  - name: Thursday Balfolk Practice
-    links:
-      - "https://www.facebook.com/events/1055599489057059/1055599529057055/"
-    start: "2024-02-15T20:00:00+01:00"
-    end: "2024-02-15T23:00:00+01:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: 20 PLN
-    organisation: Balfolks
-
-  - name: Thursday Balfolk Practice
-    links:
-      - "https://www.facebook.com/events/1055599489057059/1055599515723723/"
-    start: "2024-02-22T20:00:00+01:00"
-    end: "2024-02-22T23:00:00+01:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: 20 PLN
-    organisation: Balfolks
-
-  - name: Thursday Balfolk Practice
-    links:
-      - "https://www.facebook.com/events/1055599489057059/1055599532390388/"
-    start: "2024-02-29T20:00:00+01:00"
-    end: "2024-02-29T23:00:00+01:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: 20 PLN
-    organisation: Balfolks
-
-  - name: Thursday Balfolk Practice
-    links:
-      - "https://www.facebook.com/events/1055599489057059/1055599535723721/"
-    start: "2024-03-07T20:00:00+01:00"
-    end: "2024-03-07T23:00:00+01:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: 20 PLN
-    organisation: Balfolks
-
-  - name: Thursday Balfolk Practice
-    links:
-      - "https://www.facebook.com/events/1055599489057059/1055599522390389/"
-    start: "2024-03-14T20:00:00+01:00"
-    end: "2024-03-14T23:00:00+01:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: 20 PLN
-    organisation: Balfolks
-
-  - name: Thursday Balfolk Practice
-    links:
-      - "https://www.facebook.com/events/1055599489057059/1055599499057058/"
-    start: "2024-03-21T20:00:00+01:00"
-    end: "2024-03-21T23:00:00+01:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: 20 PLN
     organisation: Balfolks
