@@ -29290,6 +29290,25 @@ events:
     price: 15 PLN
     organisation: Balfolks
     source: events/poland/krakow.yaml
+  - name: Muzyka za miedzę. Charity concert for Ukraine
+    links:
+      - "https://www.facebook.com/events/756344132276061/"
+    start: "2022-07-22T20:00:00+02:00"
+    end: "2022-07-22T21:30:00+02:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+      - scandi
+    workshop: false
+    social: true
+    bands:
+      - Dola
+      - Daj Ognia
+      - G3
+    price: donation
+    organisation: Centrum Kultury Dworek Białoprądnicki
+    source: events/poland/krakow.yaml
   - name: Weekly Balfolk
     links:
       - "https://www.facebook.com/events/583032603113045/"
@@ -29317,25 +29336,6 @@ events:
     social: true
     price: 15 PLN
     organisation: Balfolks
-    source: events/poland/krakow.yaml
-  - name: Muzyka za miedzę. Charity concert for Ukraine
-    links:
-      - "https://www.facebook.com/events/756344132276061/"
-    start: "2022-07-22T20:00:00+02:00"
-    end: "2022-07-22T21:30:00+02:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-      - scandi
-    workshop: false
-    social: true
-    bands:
-      - Dola
-      - Daj Ognia
-      - G3
-    price: donation
-    organisation: Centrum Kultury Dworek Białoprądnicki
     source: events/poland/krakow.yaml
   - name: Banais Scottish-Irish balfolk wedding
     links:
@@ -29459,27 +29459,6 @@ events:
     workshop: true
     social: false
     price: 90 PLN
-    organisation: Balfolks
-    source: events/poland/krakow.yaml
-  - name: BalMostFolk
-    links:
-      - "https://www.facebook.com/events/208137062251153/"
-    start: "2024-05-03T18:00:00+02:00"
-    end: "2024-05-05T23:00:00+02:00"
-    country: Poland
-    city: Kraków
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - ba.fnu
-      - Yanyk
-      - Feather and Fox
-      - Emelie Waldken
-      - Kapela Fedaków
-      - Vincent Laine
-      - Monsieur Fruits
     organisation: Balfolks
     source: events/poland/krakow.yaml
   - name: Halloween Balfolk Party
@@ -29638,10 +29617,11 @@ events:
     price: 20 PLN
     organisation: Balfolks
     source: events/poland/krakow.yaml
-  - name: Thursday Balfolk Practice
+  - name: Workshop and concert
     links:
+      - "https://www.facebook.com/events/1655955738492559/"
       - "https://www.facebook.com/events/1055599489057059/1055599535723721/"
-    start: "2024-03-07T20:00:00+01:00"
+    start: "2024-03-07T19:00:00+01:00"
     end: "2024-03-07T23:00:00+01:00"
     country: Poland
     city: Kraków
@@ -29649,7 +29629,9 @@ events:
       - balfolk
     workshop: true
     social: true
-    price: 20 PLN
+    bands:
+      - Augustas Černiauskas
+    price: 30-50 PLN
     organisation: Balfolks
     source: events/poland/krakow.yaml
   - name: Thursday Balfolk Practice
@@ -29678,6 +29660,27 @@ events:
     workshop: true
     social: true
     price: 20 PLN
+    organisation: Balfolks
+    source: events/poland/krakow.yaml
+  - name: BalMostFolk
+    links:
+      - "https://www.facebook.com/events/208137062251153/"
+    start: "2024-05-03T18:00:00+02:00"
+    end: "2024-05-05T23:00:00+02:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - ba.fnu
+      - Yanyk
+      - Feather and Fox
+      - Emelie Waldken
+      - Kapela Fedaków
+      - Vincent Laine
+      - Monsieur Fruits
     organisation: Balfolks
     source: events/poland/krakow.yaml
   - name: Bal folk workshop
