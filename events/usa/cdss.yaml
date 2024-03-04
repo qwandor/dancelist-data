@@ -2038,7 +2038,7 @@ events:
     links:
       - "https://cdss.org/event/cabot-community-contra-dance/2024-02-09/"
       - "https://www.facebook.com/events/707435438209406/"
-    start: "2024-02-09T19:30:00-05:00"
+    start: "2024-02-09T19:15:00-05:00"
     end: "2024-02-09T22:00:00-05:00"
     country: USA
     state: VT
@@ -4231,11 +4231,11 @@ events:
     social: true
     price: $3-$15
     organisation: North Bay Country Dance Society
-  - name: Gainesville Florida English Country Dance
+  - name: Gainesville English Country Dance
     details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
     links:
       - "https://cdss.org/event/gainesville-florida-english-country-dance/2024-03-04/"
-    start: "2024-03-04T18:30:00-05:00"
+    start: "2024-03-04T18:10:00-05:00"
     end: "2025-03-04T20:30:00-05:00"
     country: USA
     state: FL
@@ -4244,7 +4244,7 @@ events:
       - ecd
     workshop: true
     social: true
-    price: $5
+    price: $10
     organisation: Gainesville English Country Dance
   - name: Monday Contra Dance
     details: "What better way to start the week? Only $3! It’s Monday, and we (almost) always dance on Monday."
@@ -4313,11 +4313,11 @@ events:
     workshop: false
     social: true
     organisation: Williamsburg Heritage Dancers
-  - name: Asheville Wednesday Evening English Country Dance
+  - name: English Country Dance
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
     links:
       - "https://cdss.org/event/english-country-dance-asheville-nc-3/2024-03-06/"
-    start: "2024-03-06T19:00:00-05:00"
+    start: "2024-03-06T18:40:00-05:00"
     end: "2024-03-06T21:00:00-05:00"
     country: USA
     state: NC
@@ -4362,6 +4362,7 @@ events:
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-193/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-03-07/"
     start: "2024-03-07T19:30:00-05:00"
     end: "2024-03-07T22:30:00-05:00"
@@ -4372,12 +4373,14 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: Country Dancers of Rochester
   - name: "Salem's First Thursday Contra Dance"
     details: "Our Salem First Thursdays dances are very welcoming to both new and experienced dancers. We always dance to live music and callers come from around our area. All dances are taught and no partner needed. We strive for gender-neutral dances using the terms Lark and Robins. However, for the benefit of the less experienced dancers, we ask all the Larks (traditionally referred to as gents) to wear the provided blue ribbons. The VFW Hall has a lovely wooden dance floor.  \n\nMasks are optional.\nBeginner workshop starts at 6pm\nAdmission on a sliding scale\nWater only allowed in the hall"
     links:
       - "https://cdss.org/event/salems-first-thursday-contra-dance/2024-03-07/"
-    start: "2024-03-07T18:30:00-08:00"
+      - "https://www.facebook.com/events/1827790280976207/"
+    start: "2024-03-07T18:00:00-08:00"
     end: "2024-03-07T21:00:00-08:00"
     country: USA
     state: OR
@@ -4386,10 +4389,12 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: Salem Folklore Community
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley Contra Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-03-07/"
     start: "2024-03-07T20:00:00-08:00"
     end: "2024-03-07T22:30:00-08:00"
@@ -4401,20 +4406,9 @@ events:
       - ecd
     workshop: true
     social: true
-    organisation: CDSS
-  - name: Carolina Meltdown
-    details: "Charlotte’s Annual Contradance Weekend. \nFor Charlotte Contra dancing in general, see the Charlotte Contra Dance Facebook group! \nThis year we have the Syncopaths and Ed Howe’s Drive Train. Callers are Seth Tepfer and Diane Silver!"
-    links:
-      - "https://cdss.org/event/carolina-meltdown/"
-    start: "2024-03-08T16:00:00-05:00"
-    end: "2024-03-10T16:00:00-04:00"
-    country: USA
-    state: SC
-    city: Lake Wylie
-    styles:
-      - contra
-    workshop: false
-    social: true
+    callers:
+      - Erik Hoffman
+    price: $6-$25
     organisation: CDSS
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
@@ -4435,41 +4429,8 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly
-  - name: "#Dance Weekend"
-    details: "#Dance Weekend is an ultra challenging urban dance weekend featuring mind-bending figures, non-gendered calling, and phenomenal music. Two days of amazing workshops, dancing, community, fun, and food in the fabulous open air, covered Bumper Car Pavilion; workshops throughout Glen Echo Park, Glen Echo, MD \nCalling by Will Mentor and Alex Deis-Lauby with music from River Road (Kristen Planeaux, Sarah Hadley-Yakir, and Jesse Ball) and the Ice Cream Truckers (Audrey Leigh Jaber, Kelsey Wells, Yann Falquet). \n Register or learn more."
-    links:
-      - "https://cdss.org/event/dance-weekend/"
-    start_date: 2024-03-09
-    end_date: 2024-03-10
-    country: USA
-    state: MD
-    city: Glen Echo
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - River Road
-    callers:
-      - Alex Deis-Lauby
-      - Will Mentor
-    organisation: Folklore Society of Greater Washington
-  - name: Second Friday Bread & Roses Fusion Dance at Guiding Star Grange
-    details: "Bread & Roses is a monthly fusion dance committed to collective liberation and interdependence. Please read our Statement of Values and Code of Conduct before attending. \nPlease check the Guiding Star Grange website for details. \nSchedule: Please arrive by 7:00. \nCost: $5-20 sliding scale \nSee venue website for this month’s details and Covid policy."
-    links:
-      - "https://cdss.org/event/second-friday-bread-roses-fusion-dance-at-guiding-star-grange/2024-03-08/"
-    start: "2024-03-08T19:00:00-05:00"
-    end: "2024-03-08T22:00:00-05:00"
-    country: USA
-    state: MA
-    city: Greenfield
-    styles:
-      - contra
-    workshop: false
-    social: true
-    price: $5
-    organisation: Bread & Roses
   - name: Orlando Contra Dance
     details: "We hold energetic and fun contra dances on 2nd and 4th Fridays near Orlando, Florida, in the beautiful Winter Park Ballroom! Our group loves both traditional and contemporary music, which is usually live. We welcome all ages and have a large contingent of younger dancers. Students and jobless dance FREE! Check the schedule for directions, details, cancellations, and changes. Afterwards, we go next door to Jeremiah’s Italian Ice!"
     links:
@@ -4484,12 +4445,14 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Greater Orlando Contra Dance
   - name: Cabot Community Contra Dance
     details: "Small monthly community contra dance with guest callers and live music by local musicians. All dances taught, no partner needed, families and beginners enthusiastically welcomed! Gender-neutral calling, short intro session for new folks at 7:15. Masks are welcomed but not required, and the large windows will be open for ventilation."
     links:
       - "https://cdss.org/event/cabot-community-contra-dance/2024-03-08/"
-    start: "2024-03-08T19:30:00-05:00"
+      - "https://www.facebook.com/events/2142436049439563/"
+    start: "2024-03-08T19:15:00-05:00"
     end: "2024-03-08T22:00:00-05:00"
     country: USA
     state: VT
@@ -4498,6 +4461,9 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Erin Smith
+    price: $5-$10
     organisation: Cabot Community Dance
   - name: ContraATL Weekly Dance
     details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
@@ -4513,6 +4479,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Dover New England Country Dance
     details: "Traditional New England dance with mostly contras, some squares, circles, couple dances, and occasional English or Scottish dances. No partner nor experience needed, the dances will be taught and called. An introductory session is held at 7:30 to explain the basics."
@@ -4527,13 +4494,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: Dave Bateman
   - name: Friday Night Contra & Square Dance
     details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
     links:
       - "https://fsgw.org/Friday-contra-square-dance"
       - "https://cdss.org/event/friday-night-contra-square-dance/2024-03-08/"
-    start: "2024-03-08T20:00:00-05:00"
+    start: "2024-03-08T19:30:00-05:00"
     end: "2024-03-08T23:00:00-05:00"
     country: USA
     state: MD
@@ -4542,13 +4510,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Folklore Society of Greater Washington
   - name: Denver Contra Dance
     details: "The Denver community contra dance is held on the 2nd Friday of each month. There is a lesson from 7 to 7:30; and dance from 7:30 to 10:30. For more details, see our website."
     links:
       - "https://www.cfootmad.org/"
       - "https://cdss.org/event/denver-contra-dance/2024-03-08/"
-    start: "2024-03-08T19:30:00-07:00"
+    start: "2024-03-08T19:00:00-07:00"
     end: "2024-03-08T22:30:00-07:00"
     country: USA
     state: CO
@@ -4557,6 +4526,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $8-$15
     organisation: Colorado Friends of Old Time Music and Dance
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
@@ -4576,6 +4546,7 @@ events:
   - name: Sun Assembly Spring DanceFest
     details: "A weekend of English country dances and workshops led by Melissa Running! Live music by Mara Shea, Dean Herington, Joey O’Donnell and friends! Located at the Shared Visions Retreat Center in Durham, NC. For more information, visit our website."
     links:
+      - "https://sunassembly.org/spring-dancefest/"
       - "https://cdss.org/event/sun-assembly-spring-dancefest/"
     start: "2024-03-09T10:00:00-05:00"
     end: "2024-03-10T12:30:00-04:00"
@@ -4586,11 +4557,13 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $80
     organisation: Sun Assembly
   - name: TECDA March Monthly Dance
     details: "TECDA is hosting an ECD monthly dance at St. Barnabas Hall with Bev Birnbaum calling. \nMusicians: Susanne Maziarz and Dave Clysdale  \nMasks are optional. Please bring your dancing shoes, water bottle. \nPreregistration at info@tecda.ca, but walk-ins are welcome.  \nSuggested donation of $25 (or PWYC).  This can be paid by e-transfer to payments@tecda.ca or cash at the door. \nSee you on the dance floor. \nThere will be a group meal after the dance, with you bringing your main course, and TECDA providing dessert, fruit, cheese, teas to complement. Some of us will stay for the contra dance after the meal. Both dances are mask optional, scent free."
     links:
       - "https://cdss.org/event/tecda-march-monthly-dance/"
+      - "https://www.tecda.ca/special_dances.html"
     start: "2024-03-09T14:00:00-05:00"
     end: "2024-03-09T17:00:00-05:00"
     country: Canada
@@ -4600,6 +4573,10 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Susanne Maziarz & Dave Clysdale
+    callers:
+      - Bev Birnbaum
     price: $25
     organisation: Toronto English Country Dance Assembly
   - name: Carolina English Country Dancers
@@ -4616,6 +4593,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5-$10
     organisation: The Carolina English Country Dancers
   - name: NACDS Contra Dance
     details: "We meet in the gym at Faith Presbyterian Church (corner of Airport & Whitesburg), on the 2nd and 4th Saturdays of the month. Park along Airport because we enter the gym on that side.   \nYou need to be there by 6:30pm for the Newcomers Workshop. Dance is 7-10pm. \nYou will need soft-soled shoes (sneakers are okay). We don’t want to hurt the gym floor. Clothing—be prepared to sweat. You do not need a partner. Bring a resealable container of water. \n$15 non-members."

@@ -261,8 +261,9 @@ events:
   - name: Carolina Meltdown
     links:
       - "https://www.charlottecontradance.org/carolina-meltdown"
-    start_date: 2024-03-08
-    end_date: 2024-03-10
+      - "https://cdss.org/event/carolina-meltdown/"
+    start: "2024-03-08T16:00:00-05:00"
+    end: "2024-03-10T16:00:00-04:00"
     country: USA
     state: SC
     city: Lake Wylie
@@ -356,6 +357,7 @@ events:
   - name: Hash Dance Weekend
     links:
       - "https://fsgw.org/hashtag-dance-weekend"
+      - "https://cdss.org/event/dance-weekend/"
     start_date: 2024-03-09
     end_date: 2024-03-10
     country: USA
@@ -371,7 +373,7 @@ events:
     callers:
       - Will Mentor
       - Alex Deis-Lauby
-    organisation: TryContra
+    organisation: Folklore Society of Greater Washington
   - name: Dancing Fish
     links:
       - "https://dancingfish.dance/"
