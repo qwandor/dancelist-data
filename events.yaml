@@ -41589,6 +41589,26 @@ events:
       - Bev Bernbaum
     organisation: TryContra
     source: events/usa/trycontra.yaml
+  - name: Echo Summit
+    links:
+      - "https://sactocds.wordpress.com/echo-summit-dance-camp-2024/"
+    start_date: 2024-09-13
+    end_date: 2024-09-15
+    country: USA
+    state: CA
+    city: Sacramento
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Figments
+      - Toss the Possum
+    callers:
+      - Jessee Edgarton
+      - Wendy Graham
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
   - name: Adirondack Dance Weekend
     links:
       - "https://www.danceflurry.org/adirondack-dance-weekend/"
@@ -41604,6 +41624,26 @@ events:
     workshop: true
     social: true
     organisation: DanceFlurry
+    source: events/usa/trycontra.yaml
+  - name: Dance in the Desert
+    links:
+      - "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2023/"
+    start_date: 2024-11-08
+    end_date: 2024-11-10
+    country: USA
+    state: AZ
+    city: Oracle
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Playing with Fyre
+      - Stomp Rocket
+    callers:
+      - Lisa Greenleaf
+      - Susan Petrick
+    organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Whitewater Whirl
     links:
@@ -46578,6 +46618,23 @@ events:
     social: true
     price: $15
     organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Zesty Contra Dance
+    details: The Zesty contra dance is for dancers with some experience with dancing. There is no lesson before the dance; and easier dances may be called with no walk through.
+    links:
+      - "https://www.cfootmad.org/index.php/node/1267"
+      - "https://cdss.org/event/zesty-contra-dance/2024-03-09/"
+    start: "2024-03-09T19:00:00-07:00"
+    end: "2024-03-09T22:00:00-07:00"
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10-$15
+    organisation: Colorado Friends of Old Time Music and Dance
     source: events/usa/cdss.yaml
   - name: River Rendezvous
     links:
