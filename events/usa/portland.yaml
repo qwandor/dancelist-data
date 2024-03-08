@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Nordic Dance Lesson
+    links:
+      - "http://www.norskerunddansere.org/dance-lessons.html"
+    start: "2024-03-11T19:00:00-07:00"
+    end: "2024-03-11T21:15:00-07:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    price: $10
+    organisation: Norske Runddansere
