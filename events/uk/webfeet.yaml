@@ -1,21 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Chalktown in Kennington
-    links:
-      - "http://www.chalktown.co.uk/chalkgigs.html#D.20231209"
-    start_date: 2023-12-09
-    end_date: 2023-12-09
-    country: UK
-    city: Kennington
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Chalktown
-    callers:
-      - Caller Nick Walden
-    organisation: Webfeet
   - name: "Melrose Quintet in Chandler's Ford"
     links:
       - "http://www.shocc.co.uk/"
@@ -223,20 +207,6 @@ events:
     bands:
       - Melrose Quartet
     organisation: Webfeet
-  - name: Airboxes in Hoole
-    links:
-      - "https://www.facebook.com/events/224352464057960"
-    start_date: 2024-02-05
-    end_date: 2024-02-05
-    country: UK
-    city: Hoole
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Airboxes
-    organisation: Webfeet
   - name: Catch the Pigeon in Baldock
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
@@ -360,68 +330,6 @@ events:
     social: true
     bands:
       - Sugar Loaf Band
-    organisation: Webfeet
-  - name: own music in Pucklechurch
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AB.20240227"
-    start_date: 2024-02-27
-    end_date: 2024-02-27
-    country: UK
-    city: Pucklechurch
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - own music
-    callers:
-      - Rob Dawson
-    organisation: Webfeet
-  - name: Patchwork in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20240228"
-    start_date: 2024-02-28
-    end_date: 2024-02-28
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Patchwork
-    callers:
-      - Nicola Scott
-    organisation: Webfeet
-  - name: "Confluence, Helen Gentile & Lewis Wood, Sawney White Bird, Shivelight in Bristol"
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AX.20240302"
-    start_date: 2024-03-02
-    end_date: 2024-03-02
-    country: UK
-    city: Bristol
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - "Confluence, Helen Gentile & Lewis Wood, Sawney White Bird, Shivelight"
-    organisation: Webfeet
-  - name: Cowshed Ceilidh Collective in Swindon
-    links:
-      - "http://mister.red/dance/swindon..htm#D.A1.20240302"
-    start_date: 2024-03-02
-    end_date: 2024-03-02
-    country: UK
-    city: Swindon
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Cowshed Ceilidh Collective
-    callers:
-      - Val Foster
     organisation: Webfeet
   - name: "sessionista in Bath French, Bath"
     links:
@@ -612,7 +520,7 @@ events:
     organisation: Webfeet
   - name: All At Sea Celidh Collective in Bristol
     links:
-      - "http://mister.red/dance/bristol.htm#D.A3.20240310"
+      - "http://mister.red/dance/bristol.htm#D.A2.20240310"
     start_date: 2024-03-10
     end_date: 2024-03-10
     country: UK
@@ -755,6 +663,7 @@ events:
   - name: Dawntreader in Marldon
     links:
       - "http://devonfolk.org/events-diary/"
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
     start_date: 2024-03-16
     end_date: 2024-03-16
     country: UK
@@ -839,6 +748,22 @@ events:
     social: true
     bands:
       - live music
+    organisation: Webfeet
+  - name: by Brian McMinn & Mike Green in Frenchay
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AC.20240320"
+    start_date: 2024-03-20
+    end_date: 2024-03-20
+    country: UK
+    city: Frenchay
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - by Brian McMinn & Mike Green
+    callers:
+      - Pat Hicks
     organisation: Webfeet
   - name: Karen and friends in Sytchampton
     details: "[To Be Confirmed]"
@@ -1074,6 +999,36 @@ events:
     bands:
       - live music
     organisation: Webfeet
+  - name: Deo Volente in Frenchay
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AC.20240403"
+    start_date: 2024-04-03
+    end_date: 2024-04-03
+    country: UK
+    city: Frenchay
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Deo Volente
+    callers:
+      - Ludbrook
+    organisation: Webfeet
+  - name: Folk Salad in Norwich
+    links:
+      - "https://www.facebook.com/events/1443579629906757"
+    start_date: 2024-04-03
+    end_date: 2024-04-03
+    country: UK
+    city: Norwich
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Folk Salad
+    organisation: Webfeet
   - name: Dampiers in Sytchampton
     links:
       - "http://mister.red/dance/worcester.htm#D.AF.20240403"
@@ -1300,6 +1255,22 @@ events:
     bands:
       - live music
     organisation: Webfeet
+  - name: Chris Toyne in Frenchay
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AC.20240417"
+    start_date: 2024-04-17
+    end_date: 2024-04-17
+    country: UK
+    city: Frenchay
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Chris Toyne
+    callers:
+      - Ray Goodswen
+    organisation: Webfeet
   - name: Dave Byett in Witcombe
     links:
       - "http://mister.red/dance/gloucester.htm#D.VE.20240417"
@@ -1485,8 +1456,8 @@ events:
   - name: Steve Turner and Helena Torpy in Stroud
     links:
       - "https://balfolkstroud.uk/cps/gigs/confluence-6da95c.php"
-      - "http://mister.red/dance/stroud.htm#D.AV.20240427"
-      - "http://mister.red/dance/stroud.htm#D.A5.20240427"
+      - "http://mister.red/dance/stroud.htm#D.AU.20240427"
+      - "http://mister.red/dance/stroud.htm#D.A4.20240427"
     start_date: 2024-04-27
     end_date: 2024-04-27
     country: UK
@@ -1498,6 +1469,22 @@ events:
     bands:
       - Confluence
       - Steve Turner and Helena Torpy
+    organisation: Webfeet
+  - name: Dave Byett in Frenchay
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AC.20240501"
+    start_date: 2024-05-01
+    end_date: 2024-05-01
+    country: UK
+    city: Frenchay
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Dave Byett
+    callers:
+      - Jean & Friends
     organisation: Webfeet
   - name: David Bradley in Witcombe
     links:
@@ -1684,6 +1671,22 @@ events:
     callers:
       - Will Mentor
     organisation: Webfeet
+  - name: Dave Yeomans in Frenchay
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AC.20240515"
+    start_date: 2024-05-15
+    end_date: 2024-05-15
+    country: UK
+    city: Frenchay
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Dave Yeomans
+    callers:
+      - Victoria Yeomans
+    organisation: Webfeet
   - name: AGM + Reely Good Band in Witcombe
     links:
       - "http://mister.red/dance/gloucester.htm#D.VG.20240515"
@@ -1790,6 +1793,20 @@ events:
     social: true
     bands:
       - Banned From The Moor
+    organisation: Webfeet
+  - name: Oggle Band in Great Torrington
+    links:
+      - "http://devonfolk.org/events-diary/"
+    start_date: 2024-05-25
+    end_date: 2024-05-25
+    country: UK
+    city: Great Torrington
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Oggle Band
     organisation: Webfeet
   - name: Banter in Kelsall
     links:
@@ -1954,6 +1971,21 @@ events:
     callers:
       - Pete North
     organisation: Webfeet
+  - name: Blowzabella in Stroud
+    links:
+      - "https://balfolkstroud.uk/cps/gigs/blowzabella-ca9d85.php"
+      - "http://mister.red/dance/stroud.htm#D.A6.20240608"
+    start_date: 2024-06-08
+    end_date: 2024-06-08
+    country: UK
+    city: Stroud
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Blowzabella
+    organisation: Webfeet
   - name: Banter in Weobley Castle
     details: "[To Be Confirmed]"
     links:
@@ -2015,7 +2047,7 @@ events:
     organisation: Webfeet
   - name: Topette!! in Topsham
     links:
-      - "http://mister.red/dance/topsham.htm#D.AZ.20240614"
+      - "http://mister.red/dance/topsham.htm#D.AY.20240614"
     start_date: 2024-06-14
     end_date: 2024-06-14
     country: UK
@@ -2029,7 +2061,7 @@ events:
     organisation: Webfeet
   - name: Topette!! in Bristol
     links:
-      - "http://mister.red/dance/bristol.htm#D.AY.20240615"
+      - "http://mister.red/dance/bristol.htm#D.AX.20240615"
     start_date: 2024-06-15
     end_date: 2024-06-15
     country: UK
@@ -2043,7 +2075,7 @@ events:
     organisation: Webfeet
   - name: Topette!! in Faringdon
     links:
-      - "http://mister.red/dance/faringdon.htm#D.A0.20240616"
+      - "http://mister.red/dance/faringdon.htm#D.AZ.20240616"
     start_date: 2024-06-16
     end_date: 2024-06-16
     country: UK
@@ -2068,6 +2100,20 @@ events:
     social: true
     bands:
       - Blackbeards Tea Party
+    organisation: Webfeet
+  - name: Skermish in Great Torrington
+    links:
+      - "http://devonfolk.org/events-diary/"
+    start_date: 2024-06-22
+    end_date: 2024-06-22
+    country: UK
+    city: Great Torrington
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Skermish
     organisation: Webfeet
   - name: Brian McMinn in Witcombe
     links:
@@ -2330,7 +2376,7 @@ events:
     organisation: Webfeet
   - name: Cock & Bull Band in Grove
     links:
-      - "http://mister.red/dance/wantage.htm#D.A2.20240817"
+      - "http://mister.red/dance/wantage.htm#D.A1.20240817"
     start_date: 2024-08-17
     end_date: 2024-08-17
     country: UK
@@ -2505,7 +2551,7 @@ events:
   - name: Shivelight in Stroud
     links:
       - "https://balfolkstroud.uk/cps/gigs/shivelight-479bca.php"
-      - "http://mister.red/dance/stroud.htm#D.A4.20240928"
+      - "http://mister.red/dance/stroud.htm#D.A3.20240928"
     start_date: 2024-09-28
     end_date: 2024-09-28
     country: UK
