@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Beginner Scandinavian Dance class
+    links:
+      - "https://skandia-folkdance.org/classes.html"
+    start: "2024-03-25T19:00:00-07:00"
+    end: "2024-03-25T21:00:00-07:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: free
+    organisation: Skandia Folkdance Society
