@@ -3,18 +3,18 @@ events:
   - name: Balfolk Monday Night
     links:
       - "https://www.facebook.com/events/2422222901249464/"
-    start: 2022-11-07T19:00:00+02:00
-    end: 2022-11-07T22:30:00+02:00
+    start: "2022-11-07T19:00:00+02:00"
+    end: "2022-11-07T22:30:00+02:00"
     country: Canada
     state: Ontario
     city: Toronto
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
       - Alison & Emilyn
     organisation: Balfolk Toronto
-
   - name: Balfolk Toronto Spring Bal
     links:
       - "https://www.facebook.com/events/226541439862984/"
@@ -30,7 +30,6 @@ events:
     social: true
     price: $20
     organisation: Balfolk Toronto
-
   - name: Big Branch Balfolk Gathering
     links:
       - "https://www.thebigbranchfestival.com/about-3"
@@ -45,6 +44,24 @@ events:
     workshop: true
     social: true
     bands:
-      - "Eloise & Co."
+      - Eloise & Co.
     price: $125-$225
+    organisation: Balfolk Toronto
+  - name: Equinox Bal
+    links:
+      - "https://www.balfolktoronto.com/"
+      - "https://www.facebook.com/events/364024276457312/"
+      - "https://docs.google.com/forms/d/e/1FAIpQLSdMGUlOtsXOJP7eG7gDMzSyFSKnDUfnWsVvLwPcoG0aRMEL-Q/viewform"
+    start: "2024-03-22T18:00:00-04:00"
+    end: "2024-03-22T23:30:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Gowan Stam
+    price: $20-$50
     organisation: Balfolk Toronto
