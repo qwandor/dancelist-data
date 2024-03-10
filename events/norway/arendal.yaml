@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Nordlek
+    links:
+      - "https://www.nordlek2024.no/en"
+    start_date: 2024-07-16
+    end_date: 2024-07-21
+    country: Norway
+    city: Arendal
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    price: 1165-2830 NOK
+    organisation: Nordlek
