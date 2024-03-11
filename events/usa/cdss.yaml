@@ -4969,11 +4969,11 @@ events:
     workshop: false
     social: true
     organisation: Williamsburg Heritage Dancers
-  - name: Asheville Wednesday Evening English Country Dance
+  - name: Wednesday Evening English Country Dance
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
     links:
       - "https://cdss.org/event/english-country-dance-asheville-nc-3/2024-03-13/"
-    start: "2024-03-13T19:00:00-04:00"
+    start: "2024-03-13T18:40:00-04:00"
     end: "2024-03-13T21:00:00-04:00"
     country: USA
     state: NC
@@ -5034,6 +5034,7 @@ events:
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-196/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-03-14/"
     start: "2024-03-14T19:30:00-04:00"
     end: "2024-03-14T22:30:00-04:00"
@@ -5044,21 +5045,27 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Sister Haggis
+    callers:
+      - Katy Heine
+    price: $5-$10
     organisation: Country Dancers of Rochester
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley English Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://bacds.org/series/english/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-03-14/"
-    start: "2024-03-14T20:00:00-07:00"
-    end: "2024-03-14T22:30:00-07:00"
+    start: "2024-03-14T19:15:00-07:00"
+    end: "2024-03-14T22:00:00-07:00"
     country: USA
     state: CA
     city: Berkeley
     styles:
-      - contra
       - ecd
     workshop: true
     social: true
+    price: $6-$25
     organisation: CDSS
   - name: English Country Dance
     details: "Dance to wonderful music by Peter Macfarlane (violin), Aaron Marcus (piano), Sarah Babbitt Spaeth (viola, violin); calling by Martha Kent & Barrett Grimm. \nNewcomers welcome! Attend on your own or with a friend/partner. Ability to walk briskly required. Casual dress. BYO water bottle & clean soft-soled shoes. Masks are optional. We use terms/words that refer to roles or positions, not gender.  \n$10-$15 sliding scale."
@@ -5112,10 +5119,12 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$20
     organisation: ContraATL
   - name: Spring Breakdown Dance Weekend
     details: "A full weekend of dancing, workshops, and social events featuring music by Nova and calling by Emily Rush! Our dance venue is the beautifully restored 1930s Kimball Ballroom on the Stephens College campus in Columbia, Missouri.  \nFeatured band and caller: A well-known and loved band, Nova is a neo-trad trio hailing from New England and featuring Kathleen Fownes on fiddle, Everest Witman on guitar and mandolin, and Guillaume Sparrow-Pepin on accordion and piano. Nova draws from both traditional repertoire and original compositions to create high-energy music for concerts and dancing. Emily Rush is one of the most sought-after callers in the business, calling with energy and skill: “Contra dancing has always been about connection, inclusivity, joy, and play; as a caller I make that my goal for each gig.” \nTickets: Early Bird pricing available through March 1! Weekend passes good for all weekend events are $105, and $115 after March 1. Register online at Eventbrite or at our website for a la carte pricing for individual dances and workshops, and discounts for students. Registration forms can be printed from the website and returned by mail. Registration is also available at the door. \nCOVID policy: All attendees are required to present a negative COVID test for admittance upon arrival for the weekend. See website or Eventbrite for details.  \nFinancial assistance for this project has been provided by the Missouri Arts Council, a state agency, and the City of Columbia, Office of Cultural Affairs."
     links:
+      - "https://mmtd.wordpress.com/dance-weekend-2024/"
       - "https://cdss.org/event/spring-breakdown-dance-weekend/"
     start: "2024-03-15T19:00:00-05:00"
     end: "2024-03-17T15:00:00-05:00"
@@ -5128,6 +5137,8 @@ events:
     social: true
     bands:
       - Nova
+    callers:
+      - Emily Rush
     price: $105-$115
     organisation: Mid-Missouri Traditional Dancers
   - name: Friday Night Contra & Square Dance
@@ -5135,7 +5146,7 @@ events:
     links:
       - "https://fsgw.org/Friday-contra-square-dance"
       - "https://cdss.org/event/friday-night-contra-square-dance/2024-03-15/"
-    start: "2024-03-15T20:00:00-04:00"
+    start: "2024-03-15T19:30:00-04:00"
     end: "2024-03-15T23:00:00-04:00"
     country: USA
     state: MD
@@ -5144,6 +5155,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Folklore Society of Greater Washington
   - name: Third Friday Contra at Guiding Star Grange
     details: "Caller and featured musicians vary each month; please check the Guiding Star Grange website for details. \nOther musicians are welcome to come and be part of the amorphous “Back Row Band.” \nSchedule: 8:00 PM: Contra Dancing for All; often a beginner session at 7:45. \nCost: $10 or barter equivalent \nSee venue website for this month’s details and Covid policy."
@@ -5181,6 +5193,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5509"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2024-03-15/"
     start: "2024-03-15T19:30:00-07:00"
     end: "2024-03-15T22:30:00-07:00"
@@ -5211,6 +5224,7 @@ events:
   - name: Celebration of Spring Ball
     details: "In honor of the 50th anniversary year of CDW and of the 50th anniversary of Pat Shaw’s visit to Pinewoods, Country Dancers of Westchester are pleased to present our annual Celebration of Spring Ball, with many dances written or reconstructed by Pat and by our founders Fried de Metz Herman and Christine Helwig. \nPlease join us for this festive afternoon, with outstanding music by the renowned Flying Romanos and calling by Paul Ross, Orly Krasner, and Judi Rivkin. \nOurs is a mask-recommended event, held at St Thomas Episcopal Church in Mamaroneck, NY, close to the train station and to many appealing eateries for after-the-ball socializing if you so choose. More information is on the flyer posted to our website, including a full list of videos appropriate for learning the dances. \n$30 members ($35 nonmembers)."
     links:
+      - "https://sites.google.com/site/countrydancersofwestchester/"
       - "https://cdss.org/event/celebration-of-spring-ball/"
     start: "2024-03-16T14:00:00-04:00"
     end: "2024-03-16T17:30:00-04:00"
@@ -5221,8 +5235,12 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Flying Romanos
     callers:
+      - Judi Rivkin
       - Orly Krasner
+      - Paul Ross
     price: $30-$35
     organisation: Country Dancers of Westchester
   - name: Southern Illinois Community Contra Dance
@@ -5245,7 +5263,7 @@ events:
     links:
       - "https://lancastercontra.org/"
       - "https://cdss.org/event/lancaster-pa-contra-dance/2024-03-16/"
-    start: "2024-03-16T19:00:00-04:00"
+    start: "2024-03-16T18:15:00-04:00"
     end: "2024-03-16T22:00:00-04:00"
     country: USA
     state: PA
@@ -5254,21 +5272,21 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    price: $12-$20
     organisation: Lancaster Contra Dance
   - name: 3rd Saturday Contra Dance
     details: "Every 3rd Saturday from September through May. See our website for this month’s band and caller. \nWe use gender neutral role terms at all dances. \nProud Associate member of PATMAD and CDSS. \n$5 to $20, sliding scale."
     links:
       - "https://3rdsaturday.thursdaycontra.com/"
       - "https://cdss.org/event/3rd-saturday-contra-dance-in-philadelphia/2024-03-16/"
-    start: "2024-03-16T19:30:00-04:00"
+    start: "2024-03-16T19:15:00-04:00"
     end: "2024-03-16T22:30:00-04:00"
     country: USA
     state: PA
     city: Philadelphia
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $5-$20
     organisation: PATMAD
@@ -5286,12 +5304,13 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \nLessons at 6:40; dance starts at 7 PM. \n​Prices: \n\n$12 General\n​$10 Members of MCDC, BACDS, CDSS or other sister organizations\n$5 active military & full-time students, with ID\nFREE! for children 12 & under ​"
     links:
       - "https://cdss.org/event/monterey-contra-dance/2024-03-16/"
-    start: "2024-03-16T19:00:00-07:00"
+    start: "2024-03-16T18:40:00-07:00"
     end: "2024-03-16T22:00:00-07:00"
     country: USA
     state: CA
