@@ -24602,12 +24602,12 @@ events:
       - Trinculo
     organisation: Webfeet
     source: events/uk/webfeet.yaml
-  - name: Jigfoot in Cardiff
+  - name: Ruff Ceilidh
     links:
-      - "http://mister.red/dance/cardiff.htm#D.HD.20240316"
       - "http://ruffceilidhs.org/coming/"
-    start_date: 2024-03-16
-    end_date: 2024-03-16
+      - "https://cdss.org/event/ruffceilidh/2024-03-16/"
+    start: "2024-03-16T19:30:00+00:00"
+    end: "2024-03-16T23:00:00+00:00"
     country: UK
     city: Cardiff
     styles:
@@ -24618,6 +24618,7 @@ events:
       - Jigfoot
     callers:
       - Ian Nichols
+    price: £5-£12
     organisation: Webfeet
     source: events/uk/webfeet.yaml
   - name: "The Ironmasters in Chandler's Ford"
@@ -40800,7 +40801,7 @@ events:
       - Flic Flac Folk
     organisation: ~
     source: events/belgium/folkbalbende.yaml
-  - name: Dance class level 1
+  - name: Dance Class Level 1
     details: Course
     links:
       - "https://frissefolk.be/en/event-en/Danslessen Niveau 1/784/"
@@ -41637,7 +41638,7 @@ events:
       - La Bastoche
     organisation: "Kasteel D'Ursel"
     source: events/belgium/folkbalbende.yaml
-  - name: Dance class level 2
+  - name: Dance Class Level 2
     details: Course
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-2/834/"
@@ -41654,7 +41655,7 @@ events:
     price: donation
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
-  - name: Dance class level 3
+  - name: Dance Class Level 3
     details: Course
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-2/835/"
@@ -41671,7 +41672,7 @@ events:
     price: donation
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
-  - name: Dance class level 3
+  - name: Dance Class Level 3
     details: Course
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-3/836/"
@@ -43173,7 +43174,7 @@ events:
     start: "2023-10-07T16:00:00+02:00"
     end: "2023-10-08T01:00:00+02:00"
     country: Belgium
-    city: Gand
+    city: Gent
     styles:
       - balfolk
     workshop: true
@@ -45042,7 +45043,7 @@ events:
     start: "2023-11-28T19:30:00+01:00"
     end: "2023-11-29T00:30:00+01:00"
     country: Belgium
-    city: Gand
+    city: Gent
     styles:
       - balfolk
     workshop: true
@@ -76160,6 +76161,9 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Barbara Finney
+      - Brad Foster
     price: $15-$25
     organisation: Amherst Area English Country Dancers
     source: events/usa/cdss.yaml
@@ -76252,9 +76256,10 @@ events:
     price: $10-$25
     organisation: Ottawa Contra Dance
     source: events/usa/cdss.yaml
-  - name: Third Saturday Contra at Guiding Star Grange
+  - name: Contra at Guiding Star Grange
     details: "The Moving Violations are: Van Kaynor (fiddle, feet), Ron Grosslein (fiddle, mandolin, percussion), and Eric Eid-Reiner (piano). Caller varies each month; please check the Guiding Star Grange website for details. \nSchedule: Newcomers workshop 7:30-8:00 p.m. Contra dance 8:00-11:00 p.m. \nCost: $12-20 sliding scale ($10 for students and children, $8 for under 13) at the door. \nCalling terms: Gender-neutral terms (usually larks and robins) are used at the 3rd Saturday dance. \nThere is no preregistration or verified dancer list for the 3rd Sat. dance. There is also no attendance cap. \nSee venue website for this month’s details and Covid policy."
     links:
+      - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/third-saturday-contra-at-guiding-star-grange/2024-03-16/"
     start: "2024-03-16T19:30:00-04:00"
     end: "2024-03-16T23:00:00-04:00"
@@ -76286,6 +76291,23 @@ events:
     social: true
     price: $5-$20
     organisation: PATMAD
+    source: events/usa/cdss.yaml
+  - name: Montpelier Contra Dance
+    details: "Montpelier Contra Dance with Dereck Kalish calling and music by Atlantic Crossing. \nBeginners, singles, and all ages are welcome; all dances are taught. \nGender-neutral role terms. \nNewcomers lesson 7:40 pm. Dancing 8-11pm. \nPlease bring clean soft-soled shoes. \nMasks optional. \nMore info at our website. $12 adults, $5 kids/low-income, $20 dance supporters. \nQuestions? 802-225-8921 or cdu.tim@gmail.com \nDancing every 1st, 3rd, and 5th Saturday."
+    links:
+      - "https://capitalcitygrange.org/dancing/contradancing/"
+      - "https://cdss.org/event/montpelier-contra-dance-4/"
+    start: "2024-03-16T19:40:00-04:00"
+    end: "2024-03-16T23:00:00-04:00"
+    country: USA
+    state: VT
+    city: Berlin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$20
+    organisation: Montpelier Contra Dance
     source: events/usa/cdss.yaml
   - name: Contra Dance
     details: Monthly Contra Dance
@@ -76319,6 +76341,39 @@ events:
     social: true
     price: $5-$12
     organisation: Monterey Country Dance Community
+    source: events/usa/cdss.yaml
+  - name: Brownsville English Country Dance
+    details: "Brownsville ECD is held in the Town Hall of West Windsor (Brownsville), Vermont. \n\n1:00 Dances for more experienced dancers*\n1:45 Beginners introduction to terms and movements – Everyone welcome!\n2:00 General Dance – Everyone welcome!\n\nPotluck snack table. Enjoy. \n\nGeneral admission – $10\nFirst Time Dancers – FREE\nUnder 15 – FREE\n\n* These dancers will need to know different types of heys, mirror B2B, poussettes and other basic figures without teaching the movements."
+    links:
+      - "https://cdss.org/event/brownsville-english-country-dance/2024-03-17/"
+    start: "2024-03-17T13:00:00-04:00"
+    end: "2024-03-17T16:00:00-04:00"
+    country: USA
+    state: VT
+    city: West Windsor
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: "St. Patrick's Day Contra Dance"
+    details: "This dance will have a live band. The cost is $10 for adults, $5 for children."
+    links:
+      - "https://cdss.org/event/st-patricks-day-contra-dance/"
+      - "https://www.meetup.com/bay-saint-louis-contra-dance-meetup-group/events/299405326/"
+    start: "2024-03-17T13:30:00-04:00"
+    end: "2024-03-17T16:30:00-04:00"
+    country: USA
+    state: MS
+    city: Gulfport
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$10
+    organisation: CDSS
     source: events/usa/cdss.yaml
   - name: Folk Dance for Adults
     links:
