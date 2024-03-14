@@ -5236,6 +5236,9 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Barbara Finney
+      - Brad Foster
     price: $15-$25
     organisation: Amherst Area English Country Dancers
   - name: York Region English Country Dancers
@@ -5275,6 +5278,19 @@ events:
       - Paul Ross
     price: $30-$35
     organisation: Country Dancers of Westchester
+  - name: ruffCeilidh
+    details: "Ruff Ceilidhs – what are they? Well, we always have a live band with a caller who explains the dances. \nOther names for this kind of event include Twmpath, Barn-dance, Country dance and also sometimes e-Ceilidh. \nWhy RUFF? Well it has been described as short for ‘Roll Up For Folk’, but its really just a misspelling of Rough. Dave Parsons was once asked to create a display dance side very quickly, ‘What are you called?’ ‘Well it’s going to be rough…’ \nWhat we do is essentially traditional folk dancing. This does include new dances based on that tradition. You may have read of something like it in Jane Austen or Thomas Hardy.  Nowadays these dances are often seen at weddings, birthdays, PTA fundraisers or even at school. The reason some of these dances have survived for hundreds of years is that they are infectious and great fun. \nIt’s a wonderful way to meet people, mix the generations, get some exercise, laugh a lot and enjoy some really exciting live music."
+    links:
+      - "https://cdss.org/event/ruffceilidh/2024-03-16/"
+    start: "2024-03-16T19:30:00+00:00"
+    end: "2024-03-16T23:00:00+00:00"
+    country: UK
+    city: Wales
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: ruffCeilidhs
   - name: Southern Illinois Community Contra Dance
     details: "Our monthly dance is “Blue Zone” living in a war zone world. Connect with neighbors, move your body, eat healthy(ish) food, give your social media a downtime. Southern Illinois Community Contra Dance might just help you live to age 100. \n$5 or pay what you can."
     links:
@@ -5322,9 +5338,10 @@ events:
     social: true
     price: $10-$25
     organisation: Ottawa Contra Dance
-  - name: Third Saturday Contra at Guiding Star Grange
+  - name: Contra at Guiding Star Grange
     details: "The Moving Violations are: Van Kaynor (fiddle, feet), Ron Grosslein (fiddle, mandolin, percussion), and Eric Eid-Reiner (piano). Caller varies each month; please check the Guiding Star Grange website for details. \nSchedule: Newcomers workshop 7:30-8:00 p.m. Contra dance 8:00-11:00 p.m. \nCost: $12-20 sliding scale ($10 for students and children, $8 for under 13) at the door. \nCalling terms: Gender-neutral terms (usually larks and robins) are used at the 3rd Saturday dance. \nThere is no preregistration or verified dancer list for the 3rd Sat. dance. There is also no attendance cap. \nSee venue website for this month’s details and Covid policy."
     links:
+      - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/third-saturday-contra-at-guiding-star-grange/2024-03-16/"
     start: "2024-03-16T19:30:00-04:00"
     end: "2024-03-16T23:00:00-04:00"
@@ -5355,6 +5372,22 @@ events:
     social: true
     price: $5-$20
     organisation: PATMAD
+  - name: Montpelier Contra Dance
+    details: "Montpelier Contra Dance with Dereck Kalish calling and music by Atlantic Crossing. \nBeginners, singles, and all ages are welcome; all dances are taught. \nGender-neutral role terms. \nNewcomers lesson 7:40 pm. Dancing 8-11pm. \nPlease bring clean soft-soled shoes. \nMasks optional. \nMore info at our website. $12 adults, $5 kids/low-income, $20 dance supporters. \nQuestions? 802-225-8921 or cdu.tim@gmail.com \nDancing every 1st, 3rd, and 5th Saturday."
+    links:
+      - "https://capitalcitygrange.org/dancing/contradancing/"
+      - "https://cdss.org/event/montpelier-contra-dance-4/"
+    start: "2024-03-16T19:40:00-04:00"
+    end: "2024-03-16T23:00:00-04:00"
+    country: USA
+    state: VT
+    city: Berlin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$20
+    organisation: Montpelier Contra Dance
   - name: Contra Dance
     details: Monthly Contra Dance
     links:
@@ -5386,3 +5419,33 @@ events:
     social: true
     price: $5-$12
     organisation: Monterey Country Dance Community
+  - name: Brownsville English Country Dance
+    details: "Brownsville ECD is held in the Town Hall of West Windsor (Brownsville), Vermont. \n\n1:00 Dances for more experienced dancers*\n1:45 Beginners introduction to terms and movements – Everyone welcome!\n2:00 General Dance – Everyone welcome!\n\nPotluck snack table. Enjoy. \n\nGeneral admission – $10\nFirst Time Dancers – FREE\nUnder 15 – FREE\n\n* These dancers will need to know different types of heys, mirror B2B, poussettes and other basic figures without teaching the movements."
+    links:
+      - "https://cdss.org/event/brownsville-english-country-dance/2024-03-17/"
+    start: "2024-03-17T13:00:00-04:00"
+    end: "2024-03-17T16:00:00-04:00"
+    country: USA
+    state: VT
+    city: West Windsor
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10
+    organisation: CDSS
+  - name: "St. Patrick's Day Contra Dance"
+    details: "This dance will have a live band. The cost is $10 for adults, $5 for children."
+    links:
+      - "https://cdss.org/event/st-patricks-day-contra-dance/"
+    start: "2024-03-17T13:30:00-04:00"
+    end: "2024-03-17T16:30:00-04:00"
+    country: USA
+    state: MS
+    city: Gulfport
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$10
+    organisation: CDSS
