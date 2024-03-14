@@ -2600,9 +2600,9 @@ events:
     source: events/italy/gaia_terra.yaml
   - name: Balfolk at Gaia Terra
     links:
-      - "https://www.facebook.com/progettogaiaterra/posts/pfbid02SyiJcNdjqVdM9VBgqwt4raPzUXiAzCxK3J1osZsbmEPKU6TXj5GT5KaYq5TvcvyQl"
-    start_date: 2024-04-05
-    end_date: 2024-04-05
+      - "https://www.facebook.com/events/249459644904362/"
+    start: "2024-04-05T19:30:00+02:00"
+    end: "2024-04-06T00:00:00+02:00"
     country: Italy
     city: Flambruzzo
     styles:
@@ -2611,6 +2611,7 @@ events:
     social: true
     bands:
       - Airboxes
+    price: €12
     organisation: Gaia Terra
     source: events/italy/gaia_terra.yaml
   - name: Gaia Folk Fest
@@ -31809,6 +31810,22 @@ events:
       - "https://www.facebook.com/events/927285482304736/"
     start: "2024-02-24T17:30:00+08:00"
     end: "2024-02-24T21:30:00+08:00"
+    country: Australia
+    city: Chidlow
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Bal Éternel
+    price: $5
+    organisation: Le Grand Bal de Chidlow
+    source: events/australia/chidlow.yaml
+  - name: Grand Bal de Chidlow
+    links:
+      - "https://www.facebook.com/events/1067139341047482/"
+    start: "2024-03-23T17:30:00+08:00"
+    end: "2024-03-23T21:30:00+08:00"
     country: Australia
     city: Chidlow
     styles:
@@ -83827,6 +83844,23 @@ events:
       - Hartwin Dhoore
     organisation: Folkclub Marburg
     source: events/germany/marburg.yaml
+  - name: Bal Folk
+    links:
+      - "https://www.facebook.com/events/419960610691943/"
+    start: "2024-03-14T19:15:00+01:00"
+    end: "2024-03-14T23:00:00+01:00"
+    country: Germany
+    city: Frankfurt
+    styles:
+      - balfolk
+      - scandi
+    workshop: true
+    social: true
+    bands:
+      - Selma
+      - Andreas Neumann
+    organisation: Folkclub Frankfurt
+    source: events/germany/frankfurt.yaml
   - name: Rudolstadt Festival
     links:
       - "https://www.rudolstadt-festival.de/"
