@@ -47626,6 +47626,25 @@ events:
       - Tanara
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Folkbal 2024
+    details: Ball
+    links:
+      - "https://www.facebook.com/events/1722901201566951/"
+      - "https://docs.google.com/forms/d/e/1FAIpQLScEy47A0j11TjIKb0EdxNGDUsO1Jq9501VTisEdzVSrrd6KsA/viewform"
+      - "https://folkbalbende.be/event/2184"
+    start: "2024-03-21T20:00:00+01:00"
+    end: "2024-03-21T23:00:00+01:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - West Rim
+    price: €7-€9
+    organisation: Sint-Michielsbeweging Leuven
+    source: events/belgium/folkbalbende.yaml
   - name: Folk Festival Leuven - ComSiBal
     details: The 2nd edition of the Folk Festival Leuven.
     links:
@@ -48369,21 +48388,6 @@ events:
     bands:
       - Naragonia
     organisation: 30CC
-    source: events/belgium/leuven.yaml
-  - name: Folkbal 2024
-    links:
-      - "https://www.facebook.com/events/1722901201566951/"
-      - "https://docs.google.com/forms/d/e/1FAIpQLScEy47A0j11TjIKb0EdxNGDUsO1Jq9501VTisEdzVSrrd6KsA/viewform"
-    start: "2024-03-21T20:00:00+01:00"
-    end: "2024-03-21T23:00:00+01:00"
-    country: Belgium
-    city: Leuven
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: €7-€9
-    organisation: Sint-Michielsbeweging Leuven
     source: events/belgium/leuven.yaml
   - name: Bal Folk
     links:
@@ -61564,7 +61568,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Avondbal bij de Muziekstage
-    details: "Jaarlijks is er in Sint-Michielsgestel een interessant muziekweekend met workshops over balfolk en dansmuziek. Overdag zijn er cursussen, vanaf 19:30 begint het avondprogramma met concerten, bal en sessie.\nProgramma\nWaarschijnlijk wordt het tijdschema als volgt, wijzigingen onder voorbehoud\n\n19:30  aanvang\n20:00 concert\n21:00  Bal\n00:00jamsessie\nFoto's van het workshopweekend 2019:\n• Foto's van de Workshops 2023\n• Foto's van de Avonden 2022\n• video's van het weekend in 2018"
+    details: "Jaarlijks is er in Sint-Michielsgestel een interessant muziekweekend met workshops over balfolk en dansmuziek. Overdag zijn er cursussen, vanaf 19:30 begint het avondprogramma met concerten, bal en sessie.\nProgramma\nWaarschijnlijk wordt het tijdschema als volgt, wijzigingen onder voorbehoud\n\n19:30  aanvang\n20:00 concert\n21:00  Bal\n00:00jamsessie\n\"Bal & Bed\"\nOp vrijdagavond is het mogelijk om een bed te reserveren. Je hebt dan het avondprogramma + overnachting op 6 persoonskamer + ontbijt: Dit kost 55 euro.\nUitchecken kan voorafgaand aan de start van de muziekworkshops op zaterdagochtend (9:30). Opgeven voor de \"bal & bed\" gaat via dit inschrijfformulier.\nFoto's van het workshopweekend:\n• Foto's van de Workshops 2023\n• Foto's van de Avonden 2022\n• video's van het weekend in 2018"
     links:
       - "https://www.balfolk.nl/agenda/avondbal-muziekstage2024-vrijdag/"
     start: "2024-04-12T19:30:00+02:00"
@@ -62148,6 +62152,21 @@ events:
     workshop: true
     social: true
     price: free
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk Utrecht Season Closing
+    details: "** English below **\n\n\n\nVerdere informatie volgt nog.\n\n\n\n** English **\n\n\n\nFurther information will follow."
+    links:
+      - "https://www.balfolk.nl/agenda/minibalapju2024/"
+    start: "2024-06-24T19:00:00+02:00"
+    end: "2024-06-24T21:45:00+02:00"
+    country: Netherlands
+    city: Utrecht
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €10-€15
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
@@ -76739,6 +76758,425 @@ events:
     price: $8
     organisation: AACTMAD
     source: events/usa/cdss.yaml
+  - name: Williamsburg Tuesday Night English Dance
+    details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
+    links:
+      - "https://williamsburgheritagedancers.org/"
+      - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2024-03-19/"
+    start: "2024-03-19T20:00:00-04:00"
+    end: "2024-03-19T22:00:00-04:00"
+    country: USA
+    state: VA
+    city: Williamsburg
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: Williamsburg Heritage Dancers
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
+    links:
+      - "https://cdss.org/event/english-country-dance-asheville-nc-3/2024-03-20/"
+    start: "2024-03-20T18:40:00-04:00"
+    end: "2024-03-20T21:00:00-04:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: Luanne Stiles
+    source: events/usa/cdss.yaml
+  - name: Richmond Wednesday English Country Dance
+    details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm."
+    links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
+      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2024-03-20/"
+    start: "2024-03-20T19:30:00-04:00"
+    end: "2024-03-20T21:30:00-04:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
+    source: events/usa/cdss.yaml
+  - name: Thursday Contra Dance
+    details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing \n$5 to $20 sliding scale \nOur role terms are Larks and Robins \nMasks are required on the 1st, 3rd and 5th Thursdays."
+    links:
+      - "https://thursdaycontra.com/"
+      - "https://cdss.org/event/thursday-contra-dance-in-philadelphia/2024-03-21/"
+    start: "2024-03-21T19:30:00-04:00"
+    end: "2024-03-21T22:30:00-04:00"
+    country: USA
+    state: PA
+    city: Philadelphia
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$20
+    organisation: PATMAD
+    source: events/usa/cdss.yaml
+  - name: Rochester Thursday Night Contras
+    details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
+    links:
+      - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-03-21/"
+    start: "2024-03-21T19:30:00-04:00"
+    end: "2024-03-21T22:30:00-04:00"
+    country: USA
+    state: NY
+    city: Rochester
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Country Dancers of Rochester
+    source: events/usa/cdss.yaml
+  - name: Berkeley Contra Dance
+    details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
+    links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
+      - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-03-21/"
+    start: "2024-03-21T20:00:00-07:00"
+    end: "2024-03-21T22:30:00-07:00"
+    country: USA
+    state: CA
+    city: Berkeley
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Corn Likkers
+    callers:
+      - Eric Black
+    price: $6-$25
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Flint Hills Contra Dance
+    details: "Contra dance in Manhattan, Kansas. Open to everyone!"
+    links:
+      - "https://www.facebook.com/events/377371501774250/"
+      - "https://cdss.org/event/flint-hills-contra-dance/2024-03-22/"
+    start: "2024-03-22T18:15:00-04:00"
+    end: "2024-03-22T21:30:00-04:00"
+    country: USA
+    state: KS
+    city: Manhattan
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Kaw Creek
+    callers:
+      - Derrick Doty
+    price: $5-$10
+    organisation: Flint Hills Contradance and Music Society
+    source: events/usa/cdss.yaml
+  - name: TECDA Friday Evening Dance
+    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-friday-evening-dance/2024-03-22/"
+    start: "2024-03-22T19:00:00-04:00"
+    end: "2024-03-22T21:00:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: Orlando Contra Dance
+    details: "We hold energetic and fun contra dances on 2nd and 4th Fridays near Orlando, Florida, in the beautiful Winter Park Ballroom! Our group loves both traditional and contemporary music, which is usually live. We welcome all ages and have a large contingent of younger dancers. Students and jobless dance FREE! Check the schedule for directions, details, cancellations, and changes. Afterwards, we go next door to Jeremiah’s Italian Ice!"
+    links:
+      - "https://orlandocontra.org/dances-and-events/"
+      - "https://cdss.org/event/orlando-contra-dance/2024-03-22/"
+    start: "2024-03-22T19:00:00-04:00"
+    end: "2024-03-22T22:30:00-04:00"
+    country: USA
+    state: FL
+    city: Winter Park
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $15
+    organisation: Greater Orlando Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Melt Into Spring Ball weekend
+    details: "Friday Welcome English Dance 7:30-10:30 pm\nSaturday events (please preregister) \nBall practice 1-3:30 pm\nBall 7:30-11:00 pm\nDetails when they become available."
+    links:
+      - "https://aactmad.org/melt-into-spring"
+      - "https://cdss.org/event/melt-into-spring-ball-weekend-2/"
+    start: "2024-03-22T19:30:00-04:00"
+    end: "2024-03-23T23:00:00-04:00"
+    country: USA
+    state: MI
+    city: Ann Arbor
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    callers:
+      - Gene Murrow
+    price: $37-$75
+    organisation: AACTMAD
+    source: events/usa/cdss.yaml
+  - name: Pigtown Fling
+    details: "Happy news!\nPigtown Fling is back! We are so thrilled and hope you will be able to join us for this awesome contra dance weekend!\nOnline registration is open—register early and make sure you get a spot! \nFriday: music by Trillium with caller Darlene Underwood.\nSaturday and Sunday: music by Elixir with caller Nils Fredland.\nPlease join us for great music, great people, and great dancing! \nEarly Bird $110 until Jan. 22nd; $130 after Jan 22nd."
+    links:
+      - "http://www.cincinnaticontradance.org/pigtown.htm"
+      - "https://cdss.org/event/pigtown-fling/"
+      - "https://cdss.org/event/pigtown-fling-2/"
+    start: "2024-03-22T18:00:00-04:00"
+    end: "2024-03-24T15:00:00-04:00"
+    country: USA
+    state: OH
+    city: Cincinnati
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Elixir
+      - Trillium
+    callers:
+      - Darlene Underwood
+      - Nils Fredland
+    price: $110-$130
+    organisation: Cincinnati Contra Dance
+    source: events/usa/cdss.yaml
+  - name: ContraATL Weekly Dance
+    details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
+    links:
+      - "https://contradance.org/"
+      - "https://cdss.org/event/contra-atl-weekly-dance/2024-03-22/"
+    start: "2024-03-22T19:30:00-04:00"
+    end: "2024-03-22T22:30:00-04:00"
+    country: USA
+    state: GA
+    city: Decatur
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $7-$20
+    organisation: ContraATL
+    source: events/usa/cdss.yaml
+  - name: Friday Night Contra & Square Dance
+    details: "Come dance at the historical Glen Echo Park! Intro lesson at 7:30, dance starts at 8. \nNewcomers; bring a water bottle, wear comfortable shoes, and weather-appropriate attire as the venue at Glen Echo is not heated or cooled! We encourage masking."
+    links:
+      - "https://fsgw.org/Friday-contra-square-dance"
+      - "https://cdss.org/event/friday-night-contra-square-dance/2024-03-22/"
+    start: "2024-03-22T19:30:00-04:00"
+    end: "2024-03-22T23:00:00-04:00"
+    country: USA
+    state: MD
+    city: Glen Echo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: Folklore Society of Greater Washington
+    source: events/usa/cdss.yaml
+  - name: Experienced Contra at Guiding Star Grange
+    details: "The dances in this series are open to all but will be geared toward experienced dancers. “Experienced” means: \n\nYou know how to do a roll away, California twirl, pass through to a wave, contra corners, and basic moves without teaching\nYou know where to be at the start of each dance phrase and how to recover from a lapse\nYou assist your partner and neighbor to the next move\nYou execute flourishes safely and on time without disturbing others\nYou respond to confusion and missteps by others with grace, encouragement and good humor\n\nAdmission: $12-20 \nPlease help us make this a scent-free and substance-free event. \nSee venue website for this month’s details and Covid policy. \nQuestions: Steve Zakon-Anderson or Katie Olmstead."
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+      - "https://cdss.org/event/fourth-friday-experienced-contra-at-guiding-star-grange/2024-03-22/"
+    start: "2024-03-22T20:00:00-04:00"
+    end: "2024-03-22T23:15:00-04:00"
+    country: USA
+    state: MA
+    city: Greenfield
+    styles:
+      - contra
+    workshop: false
+    social: true
+    callers:
+      - Steve Zakon-Anderson
+    price: $12-$20
+    organisation: Steve Zakon-Anderson
+    source: events/usa/cdss.yaml
+  - name: Nashville Playford Ball
+    details: "Nashville Country Dancers’ 41st Playford Ball \nBrooke Friendly calling, with music by Shira Kammen and Karen Axelrod \nRegistration is now open! \n$65 to $165 sliding scale."
+    links:
+      - "https://www.nashvillecountrydancers.org/playford-ball"
+      - "https://cdss.org/event/nashville-playford-ball/"
+    start: "2024-03-22T19:30:00-04:00"
+    end: "2024-03-24T13:00:00-04:00"
+    country: USA
+    state: TN
+    city: Nashville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Shira Kammen & Karen Axelrod
+    callers:
+      - Brooke Friendly
+    price: $65-$165
+    organisation: Nashville Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Pittsburgh Contra Dance
+    details: "Come dance to the music of Unbowed with caller River Abel. Our free beginner lesson begins at 7:30pm. Complete beginners are welcome! At this dance masks are required, but we also hold a mask-optional dance each month."
+    links:
+      - "https://pittsburghcontra.org/"
+      - "https://cdss.org/event/pittsburgh-contra-dance-4/"
+    start: "2024-03-22T19:30:00-04:00"
+    end: "2024-03-22T23:00:00-04:00"
+    country: USA
+    state: PA
+    city: Pittsburgh
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Unbowed
+    callers:
+      - River Abel
+    price: $15
+    organisation: Pittsburgh Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
+    links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5510"
+      - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2024-03-22/"
+    start: "2024-03-22T19:30:00-07:00"
+    end: "2024-03-22T22:30:00-07:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $7-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Carolina English Country Dancers
+    details: English Country Dance
+    links:
+      - "https://carolinaenglishcountrydance.com/"
+      - "https://cdss.org/event/carolina-english-country-dancers-saturday-dance/2024-03-23/"
+    start: "2024-03-23T18:30:00-04:00"
+    end: "2024-03-23T21:00:00-04:00"
+    country: USA
+    state: SC
+    city: Greenville
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $5-$10
+    organisation: The Carolina English Country Dancers
+    source: events/usa/cdss.yaml
+  - name: NACDS Contra Dance
+    details: "We meet in the gym at Faith Presbyterian Church (corner of Airport & Whitesburg), on the 2nd and 4th Saturdays of the month. Park along Airport because we enter the gym on that side.   \nYou need to be there by 6:30pm for the Newcomers Workshop. Dance is 7-10pm. \nYou will need soft-soled shoes (sneakers are okay). We don’t want to hurt the gym floor. Clothing—be prepared to sweat. You do not need a partner. Bring a resealable container of water. \n$15 non-members."
+    links:
+      - "https://cdss.org/event/north-alabama-country-dance-society-nacds-contra-dance/2024-03-23/"
+    start: "2024-03-23T18:30:00-04:00"
+    end: "2024-03-23T22:00:00-04:00"
+    country: USA
+    state: AL
+    city: Huntsville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Jax Contra Dance
+    details: "Monthly contra dance, occurring on the 4th Saturday of the month in Jacksonville, Florida (Riverside area). \n$10 adult, $5 child."
+    links:
+      - "https://jaxcontra.org/"
+      - "https://cdss.org/event/jax-contra-dance/2024-03-23/"
+    start: "2024-03-23T18:30:00-04:00"
+    end: "2024-03-23T22:00:00-04:00"
+    country: USA
+    state: FL
+    city: Jacksonville
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$10
+    organisation: Lisa Lowell
+    source: events/usa/cdss.yaml
+  - name: New England Country Dance
+    details: "Learn to Contra Dance Or Bring Your Expert Moves!\nJoin The Family Fun Ministry for a special evening in our historic 1729 Parish House for A New England Country Dance with The Black Cat Quadrille. \nLearn to Contra Dance, bring your expertise, or just come and have fun. \nDesserts & Sherbet Punch served. \nAll ages welcome. Profits from dance will support our church and mission.  \nTickets available at door, but this event may sell out, so purchase below in advance to secure your boot scootin’ spot!"
+    links:
+      - "https://www.kitterypointucc.org/dance"
+      - "https://cdss.org/event/new-england-country-dance-2/"
+    start: "2024-03-23T18:30:00-04:00"
+    end: "2024-03-23T21:00:00-04:00"
+    country: USA
+    state: ME
+    city: Kittery Point
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - The Black Cat Quadrille
+    price: $12-$17
+    organisation: First Congregational Church Of Kittery Point
+    source: events/usa/cdss.yaml
+  - name: San Antonio Contra Dance
+    details: "Fun, friendly dance on 4th Saturdays. Live music by Lone Star Pirates. Calling by various local and regional callers."
+    links:
+      - "https://www.satxcontra.org/"
+      - "https://cdss.org/event/san-antonio-contra-dance/2024-03-23/"
+    start: "2024-03-23T19:00:00-04:00"
+    end: "2024-03-23T22:00:00-04:00"
+    country: USA
+    state: TX
+    city: San Antonio
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Lone Star Pirates
+    organisation: San Antonio Contra Dancers
+    source: events/usa/cdss.yaml
+  - name: Anaheim Contra Dance
+    details: "Anaheim Contra Dances are held every 4th Saturday January-November 6:30-9:30pm PST. \nAlways live music! \nFamily-friendly, no partner required. \nEasy introductory lesson for beginners @ 6:30pm.\n\nFree parking."
+    links:
+      - "https://www.thelivingtradition.org/tltbodydance.html"
+      - "https://cdss.org/event/anaheim-contra-dance/2024-03-23/"
+    start: "2024-03-23T18:30:00-07:00"
+    end: "2024-03-23T21:30:00-07:00"
+    country: USA
+    state: CA
+    city: Anaheim
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $12-$18
+    organisation: The Living Tradition
+    source: events/usa/cdss.yaml
   - name: Folk Dance for Adults
     links:
       - "https://tockify.com/poulsbosons/detail/164/1709605800000"
@@ -77269,26 +77707,6 @@ events:
     callers:
       - Seth Tepfer
       - Diane Silver
-    organisation: TryContra
-    source: events/usa/trycontra.yaml
-  - name: Pigtown Fling
-    links:
-      - "http://www.cincinnaticontradance.org/pigtown.htm"
-    start_date: 2024-03-22
-    end_date: 2024-03-24
-    country: USA
-    state: OH
-    city: Cincinattia
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Elixir
-      - Trillium
-    callers:
-      - Nils Fredland
-      - Darlene Underwood
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Beantown Stomp
