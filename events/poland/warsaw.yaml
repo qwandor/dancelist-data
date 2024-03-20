@@ -309,13 +309,12 @@ events:
     social: false
     price: 110 PLN
     organisation: Krystyna Kupiszewska
-
   - name: Balfolk.pl Festival
     links:
       - "https://www.festival.balfolk.pl/"
       - "https://www.facebook.com/events/482871267338295/"
-    start: 2024-02-23T18:00:00+01:00
-    end: 2024-02-26T01:00:00+01:00
+    start: "2024-02-23T18:00:00+01:00"
+    end: "2024-02-26T01:00:00+01:00"
     country: Poland
     city: Warsaw
     styles:
@@ -325,7 +324,7 @@ events:
     bands:
       - Bargainatt
       - Duo du Balcon
-      - Duo l'Hêtre Heureux
+      - "Duo l'Hêtre Heureux"
       - Fahrenheit
       - Light Migrations
       - Lucas Thébaut
@@ -333,3 +332,17 @@ events:
       - Wings & Tales
       - ZiRP
     organisation: balfolk.pl
+  - name: Festiwal Wszystkie Mazurki Świata
+    details: "Festiwal Wszystkie Mazurki Świata (Mazurkas of the World) is a \"carnival in the heart of Warsaw\" we celebrate twice a year (Spring & Autumn), a celebration of traditional music, dance, songs and music instruments. It provides concerts and dance parties with the participation of the best folk bands – renowned musicians and their students. There are also workshops, children’s activities, instrument building shows and meetings with more than one hundred craftsmen from Poland and abroad. Finally, there is also the Dance Night – ten hours of great music with 20 bands and dance craze until dawn."
+    links:
+      - "https://www.festivalmazurki.pl/en/home/"
+      - "https://www.facebook.com/festivalmazurki"
+    start: "2024-04-17T10:00:00+02:00"
+    end: "2024-04-21T05:00:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - polish
+    workshop: true
+    social: true
+    organisation: ~
