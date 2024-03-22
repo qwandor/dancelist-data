@@ -5978,6 +5978,8 @@ events:
     social: true
     bands:
       - Dead Sea Squirrels
+    callers:
+      - Greg Frock
     price: $7-$15
     organisation: Valley Contra Dance Society
   - name: "Jonesborough Contra"
@@ -5994,6 +5996,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Marbelous Daves
+    callers:
+      - Earl McGill
     price: $8-$12
     organisation: Historic Jonesborough Dance Society
   - name: CDK Contra & Square Dance
@@ -6036,6 +6042,7 @@ events:
   - name: Queen City Contra
     details: "Queen City Contras invite you to our contra dance, Saturday, March 23 at the beautiful Shelburne Town Hall. \nDoors open at 6:30, beginner lesson at 6:45, dancing from 7 to 10. \nAdina Gordon will call. Our band will be Atlantic Crossing.\nAll are welcome; all dances are taught; no partner or experience necessary. Beginner’s session at 6:45pm.  \n$12 adults, $5 kids/low-income, donations welcome. Please bring a pair of clean, soft-soled shoes to dance in. Masks welcome but optional. Please stay home if you have symptoms."
     links:
+      - "https://queencitycontras.com/schedule"
       - "https://cdss.org/event/contra-dance-in-shelburne-vt/"
     start: "2024-03-23T18:45:00-04:00"
     end: "2024-03-23T22:00:00-04:00"
@@ -6091,6 +6098,36 @@ events:
       - Take a Dance
     price: $15
     organisation: Mendocino English Country Dance
+  - name: Richmond Saturday Night Contra Dance
+    details: "Join the Richmond, VA, contra dance, hosted by TADAMS at the West End Ballroom for a Saturday evening dance. Beginner lesson at 6:45pm, dance from 7:30-10:30pm. Admission is $15 non-members, $10 members and students, children under 13 are free. Please check our full website calendar for caller and band details."
+    links:
+      - "https://cdss.org/event/richmond-va-saturday-night-contra-dance/2024-03-23/"
+    start: "2024-03-23T19:30:00-04:00"
+    end: "2024-03-23T22:30:00-04:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: TADAMS (Traditional American Dance and Music Society)
+  - name: NACDS Contra Dance
+    details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
+    links:
+      - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2024-03-23/"
+    start: "2024-03-23T19:30:00-05:00"
+    end: "2024-03-23T23:00:00-05:00"
+    country: USA
+    state: AL
+    city: Huntsville
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10-$15
+    organisation: CDSS
   - name: Anaheim Contra Dance
     details: "Anaheim Contra Dances are held every 4th Saturday January-November 6:30-9:30pm PST. \nAlways live music! \nFamily-friendly, no partner required. \nEasy introductory lesson for beginners @ 6:30pm.\n\nFree parking."
     links:
