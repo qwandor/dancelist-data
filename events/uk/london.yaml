@@ -16,7 +16,6 @@ events:
       - Helen Gentile & Lewis Wood
     price: £12
     organisation: Folkandroots
-
   - name: Quebec / Breton night
     links:
       - "https://www.jamboreevenue.co.uk/events/club-debris-cri-du-canard/"
@@ -35,7 +34,52 @@ events:
       - Cri du Canard
     price: £11-£22
     organisation: Jamboree
-
+  - name: Ealing Country Dance Club
+    links:
+      - "http://www.ealingcountrydanceclub.org.uk"
+    start: "2023-12-04T20:00:00+00:00"
+    end: "2023-12-04T22:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Andrea Stodell
+    price: £10
+    organisation: Ealing Country Dance Club
+  - name: Mosh Pit at the Cockpit
+    links:
+      - "https://www.thecockpit.org.uk/show/mosh_pit_at_the_cockpit_-_ceilidh_cult"
+    start: "2024-02-02T19:30:00+00:00"
+    end: "2024-02-02T23:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Ceilidh Cult
+    price: £11.30-£13.36
+    organisation: The Ceilidh Cult
+  - name: Concert with space to dance
+    links:
+      - "https://folkandroots.co.uk/airboxes/"
+      - "https://www.facebook.com/events/387311633748770/"
+    start: "2024-02-06T19:30:00+00:00"
+    end: "2024-02-06T22:30:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Airboxes
+    price: £12-£14
+    organisation: Folkandroots
   - name: Spring Celebration Dance
     links:
       - "https://www.facebook.com/events/1363573847606723/"
@@ -53,19 +97,3 @@ events:
       - Rachel Bending
     price: £7-£10
     organisation: Thomas Bending
-
-  - name: Ealing Country Dance Club
-    links:
-      - "http://www.ealingcountrydanceclub.org.uk"
-    start: "2023-12-04T20:00:00Z"
-    end: "2023-12-04T22:00:00Z"
-    country: UK
-    city: London
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Andrea Stodell
-    price: £10
-    organisation: Ealing Country Dance Club

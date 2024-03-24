@@ -3,18 +3,18 @@ events:
   - name: Balfolk Monday Night
     links:
       - "https://www.facebook.com/events/2422222901249464/"
-    start: 2022-11-07T19:00:00+02:00
-    end: 2022-11-07T22:30:00+02:00
+    start: "2022-11-07T19:00:00-04:00"
+    end: "2022-11-07T22:30:00-04:00"
     country: Canada
     state: Ontario
     city: Toronto
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
       - Alison & Emilyn
     organisation: Balfolk Toronto
-
   - name: Balfolk Toronto Spring Bal
     links:
       - "https://www.facebook.com/events/226541439862984/"
@@ -30,7 +30,6 @@ events:
     social: true
     price: $20
     organisation: Balfolk Toronto
-
   - name: Big Branch Balfolk Gathering
     links:
       - "https://www.thebigbranchfestival.com/about-3"
@@ -45,6 +44,172 @@ events:
     workshop: true
     social: true
     bands:
-      - "Eloise & Co."
+      - Eloise & Co.
     price: $125-$225
+    organisation: Balfolk Toronto
+  - name: Nordic Takeover
+    links:
+      - "https://www.balfolktoronto.com/events"
+      - "https://www.facebook.com/events/376209362006598/"
+    start: "2024-03-11T19:30:00-04:00"
+    end: "2024-03-11T22:30:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - balfolk
+      - scandi
+    workshop: true
+    social: true
+    price: $10-$20
+    organisation: Balfolk Toronto
+  - name: Nordic Takeover
+    links:
+      - "https://www.balfolktoronto.com/events"
+      - "https://www.facebook.com/events/844160394389333/"
+    start: "2024-03-18T19:30:00-04:00"
+    end: "2024-03-18T22:30:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - balfolk
+      - scandi
+    workshop: true
+    social: true
+    price: $10-$20
+    organisation: Balfolk Toronto
+  - name: Equinox Bal
+    links:
+      - "https://www.balfolktoronto.com/"
+      - "https://www.facebook.com/events/364024276457312/"
+      - "https://docs.google.com/forms/d/e/1FAIpQLSdMGUlOtsXOJP7eG7gDMzSyFSKnDUfnWsVvLwPcoG0aRMEL-Q/viewform"
+    start: "2024-03-22T18:00:00-04:00"
+    end: "2024-03-22T23:30:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Gowan Stam
+    price: $20-$50
+    organisation: Balfolk Toronto
+  - name: Nordic Takeover
+    links:
+      - "https://www.balfolktoronto.com/events"
+      - "https://www.facebook.com/events/1087774928941497/"
+    start: "2024-03-25T19:30:00-04:00"
+    end: "2024-03-25T22:30:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - balfolk
+      - scandi
+    workshop: true
+    social: true
+    price: $10-$20
+    organisation: Balfolk Toronto
+  - name: Mini-bal
+    links:
+      - "https://www.balfolktoronto.com/events"
+    start: "2024-04-01T19:30:00-04:00"
+    end: "2024-04-01T22:30:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: $10-$20
+    organisation: Balfolk Toronto
+  - name: Mini-bal
+    links:
+      - "https://www.balfolktoronto.com/events"
+    start: "2024-04-08T19:30:00-04:00"
+    end: "2024-04-08T22:30:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: $10-$20
+    organisation: Balfolk Toronto
+  - name: Mini-bal
+    links:
+      - "https://www.balfolktoronto.com/events"
+    start: "2024-04-15T19:30:00-04:00"
+    end: "2024-04-15T22:30:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: $10-$20
+    organisation: Balfolk Toronto
+  - name: Fest Noz
+    links:
+      - "https://www.balfolktoronto.com/events"
+    start_date: 2024-04-20
+    end_date: 2024-04-20
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Kavaz
+    organisation: Balfolk Toronto
+  - name: Mini-bal
+    links:
+      - "https://www.balfolktoronto.com/events"
+    start: "2024-04-22T19:30:00-04:00"
+    end: "2024-04-22T22:30:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: $10-$20
+    organisation: Balfolk Toronto
+  - name: Mini-bal
+    links:
+      - "https://www.balfolktoronto.com/events"
+    start: "2024-04-29T19:30:00-04:00"
+    end: "2024-04-29T22:30:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: $10-$20
+    organisation: Balfolk Toronto
+  - name: Spring Bal
+    links:
+      - "https://www.balfolktoronto.com/events"
+    start_date: 2024-05-18
+    end_date: 2024-05-18
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Medusa
     organisation: Balfolk Toronto

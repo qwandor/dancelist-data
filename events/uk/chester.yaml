@@ -3,16 +3,16 @@ events:
   - name: Rondez Vous Christmas Party
     links:
       - "https://www.facebook.com/events/431869552470447/"
-    start: 2022-12-05T19:30:00+00:00
-    end: 2022-12-05T22:30:00+00:00
+    start: "2022-12-05T19:30:00+00:00"
+    end: "2022-12-05T22:30:00+00:00"
     country: UK
     city: Chester
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     price: £3
     organisation: Rondez Vous
-
   - name: Evening bal and workshops
     links:
       - "https://www.facebook.com/events/3529258513956512/"
@@ -30,4 +30,42 @@ events:
       - The Waite Collective
       - Dave Vaughan
     price: £22-£27.50
+    organisation: Rondez Vous
+  - name: February Session
+    links:
+      - "https://www.facebook.com/events/224352464057960/"
+      - "https://www.wegottickets.com/event/606371"
+    start: "2024-02-05T17:45:00+00:00"
+    end: "2024-02-05T22:30:00+00:00"
+    country: UK
+    city: Chester
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Airboxes
+      - The Waite Collective
+      - Dave Vaughan
+    price: £13.20-£22
+    organisation: Rondez Vous
+  - name: Rondez Vous DIY Bal
+    links:
+      - "https://www.facebook.com/events/933674754826352/"
+      - "https://www.wegottickets.com/event/612529/"
+    start: "2024-04-19T16:30:00+01:00"
+    end: "2024-04-19T22:30:00+01:00"
+    country: UK
+    city: Chester
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Helianthus
+      - The Waite Collective
+      - Sue Jones & John Neilson
+      - Notes pour Potes
+      - Samnaðr
+    price: £6-£8.80
     organisation: Rondez Vous

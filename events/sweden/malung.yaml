@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Trad i Malung
+    links:
+      - "http://www.tradimalung.se/"
+    start_date: 2024-05-17
+    end_date: 2024-05-18
+    country: Sweden
+    city: Malung
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    organisation: Malung Folkhögskola

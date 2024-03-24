@@ -4,11 +4,12 @@ events:
     links:
       - "https://www.tickettailor.com/events/oxfolkceilidhs/626900/"
       - "http://www.oxfolk.org.uk/"
-    start: 2022-02-12T19:30:00+00:00
-    end: 2022-02-12T23:00:00+00:00
+    start: "2022-02-12T19:30:00+00:00"
+    end: "2022-02-12T23:00:00+00:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -17,16 +18,16 @@ events:
       - Mary Panton
     price: £2-£13
     organisation: Oxfolk
-
   - name: Oxfolk Ceilidh
     links:
       - "https://www.tickettailor.com/events/oxfolkceilidhs/626903/"
       - "http://www.oxfolk.org.uk/"
-    start: 2022-03-12T19:30:00+00:00
-    end: 2022-03-12T23:00:00+00:00
+    start: "2022-03-12T19:30:00+00:00"
+    end: "2022-03-12T23:00:00+00:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -35,7 +36,6 @@ events:
       - Aidan Hansell
     price: £2-£13
     organisation: Oxfolk
-
   - name: Folk Weekend Oxford
     links:
       - "https://www.folkweekendoxford.co.uk/2022-ceilidhs"
@@ -45,7 +45,10 @@ events:
     end_date: 2022-04-23
     country: UK
     city: Oxford
-    styles: [e-ceilidh, s-ceilidh, balfolk]
+    styles:
+      - e-ceilidh
+      - s-ceilidh
+      - balfolk
     workshop: false
     social: true
     bands:
@@ -57,15 +60,15 @@ events:
       - Jane Bird
       - Ian Nichols
     organisation: Oxfolk
-
   - name: Oxfolk Ceilidh with Jane Bird and New Bees
     links:
       - "http://www.oxfolk.org.uk/"
-    start: 2022-05-14T19:30:00+01:00
-    end: 2022-05-14T23:00:00+01:00
+    start: "2022-05-14T19:30:00+01:00"
+    end: "2022-05-14T23:00:00+01:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -74,33 +77,33 @@ events:
       - Jane Bird
     price: £2-£13
     organisation: Oxfolk
-
   - name: Topette!! Tea-Bal
     links:
       - "https://www.facebook.com/events/591805629192786/"
       - "https://www.tickettailor.com/events/oxfolkceilidhs/730142"
-    start: 2022-09-11T16:30:00+01:00
-    end: 2022-09-11T19:00:00+01:00
+    start: "2022-09-11T16:30:00+01:00"
+    end: "2022-09-11T19:00:00+01:00"
     country: UK
     city: Oxford
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     bands:
       - Topette
     price: £9.50-£15
     organisation: Oxfolk
-
   - name: Oxfolk Ceilidh
     links:
       - "https://www.tickettailor.com/events/oxfolkceilidhs/752642/"
       - "http://www.oxfolk.org.uk/"
       - "https://www.facebook.com/events/589625066030847/"
-    start: 2022-10-08T19:30:00+01:00
-    end: 2022-10-08T23:00:00+01:00
+    start: "2022-10-08T19:30:00+01:00"
+    end: "2022-10-08T23:00:00+01:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -109,16 +112,16 @@ events:
       - Lisa Heywood
     price: £2-£14
     organisation: Oxfolk
-
   - name: Oxfolk Ceilidh
     links:
       - "http://www.oxfolk.org.uk/"
       - "https://www.facebook.com/events/5614032081961452/"
-    start: 2022-11-12T19:30:00+00:00
-    end: 2022-11-12T23:00:00+00:00
+    start: "2022-11-12T19:30:00+00:00"
+    end: "2022-11-12T23:00:00+00:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -127,33 +130,33 @@ events:
       - Barry Goodman
     price: £2-£14
     organisation: Oxfolk
-
   - name: Blowzabella at Oxfolk
     links:
       - "https://blowzabella.co.uk/event/4336299/565913704/blowzabella-oxfolk"
       - "https://www.tickettailor.com/events/oxfolkceilidhs/704184/"
       - "https://www.facebook.com/events/1235871143820743/"
-    start: 2022-11-27T16:30:00+00:00
-    end: 2022-11-27T19:00:00+00:00
+    start: "2022-11-27T16:30:00+00:00"
+    end: "2022-11-27T19:00:00+00:00"
     country: UK
     city: Oxford
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     bands:
       - Blowzabella
     price: £6-£16
     organisation: Oxfolk
-
   - name: Oxfolk Christmas Ceilidh
     links:
       - "http://www.oxfolk.org.uk/"
       - "https://www.facebook.com/events/546443447243503/"
-    start: 2022-12-10T19:30:00+00:00
-    end: 2022-12-10T23:00:00+00:00
+    start: "2022-12-10T19:30:00+00:00"
+    end: "2022-12-10T23:00:00+00:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -162,16 +165,17 @@ events:
       - Fee Lock
     price: £2-£14
     organisation: Oxfolk
-
   - name: Oxfolk Contra-Ceilidh
     links:
       - "https://www.tickettailor.com/events/oxfolkceilidhs/785360/"
       - "https://www.facebook.com/events/2374461839424305/"
-    start: 2023-01-14T19:30:00+00:00
-    end: 2023-01-14T23:00:00+00:00
+    start: "2023-01-14T19:30:00+00:00"
+    end: "2023-01-14T23:00:00+00:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh, contra]
+    styles:
+      - e-ceilidh
+      - contra
     workshop: false
     social: true
     bands:
@@ -180,16 +184,16 @@ events:
       - Charlotte Rich-Griffin
     price: £3-£14
     organisation: Oxfolk
-
   - name: Oxfolk Ceilidh
     links:
       - "http://www.oxfolk.org.uk/"
       - "https://www.facebook.com/events/557085683142420/"
-    start: 2023-02-11T19:30:00+00:00
-    end: 2023-02-11T23:00:00+00:00
+    start: "2023-02-11T19:30:00+00:00"
+    end: "2023-02-11T23:00:00+00:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -198,16 +202,16 @@ events:
       - Hannah Moore
     price: £2-£14
     organisation: Oxfolk
-
   - name: Oxfolk Ceilidh
     links:
       - "http://www.oxfolk.org.uk/"
       - "https://www.facebook.com/events/1930539693978035/"
-    start: 2023-03-11T19:30:00+00:00
-    end: 2023-03-11T23:00:00+00:00
+    start: "2023-03-11T19:30:00+00:00"
+    end: "2023-03-11T23:00:00+00:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -216,17 +220,18 @@ events:
       - Steph West
     price: £2-£14
     organisation: Oxfolk
-
   - name: Folk Weekend Oxford
     links:
       - "https://www.folkweekendoxford.co.uk/"
       - "http://www.oxfolk.org.uk/2023/04/16/folk-weekend-oxford.html"
       - "https://www.facebook.com/events/181408710962324/"
-    start: 2023-04-14T10:00:00+01:00
-    end: 2023-04-17T01:30:00+01:00
+    start: "2023-04-14T10:00:00+01:00"
+    end: "2023-04-17T01:30:00+01:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh, balfolk]
+    styles:
+      - e-ceilidh
+      - balfolk
     workshop: false
     social: true
     bands:
@@ -239,45 +244,45 @@ events:
       - Jo Freya
       - Fi Fraser
     organisation: Oxfolk
-
   - name: Oxfolk Ceilidh
     links:
       - "http://oxfolk.org.uk/2023/05/13/no-ceilidh.html"
-    start: 2023-05-13T19:30:00+01:00
-    end: 2023-05-13T23:00:00+01:00
+    start: "2023-05-13T19:30:00+01:00"
+    end: "2023-05-13T23:00:00+01:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     organisation: Oxfolk
     cancelled: true
-
   - name: Oxfolk Ceilidh
     links:
       - "http://www.oxfolk.org.uk/"
-    start: 2023-10-14T19:30:00+01:00
-    end: 2023-10-14T23:00:00+01:00
+    start: "2023-10-14T19:30:00+01:00"
+    end: "2023-10-14T23:00:00+01:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
-      - Granny's Attic
+      - "Granny's Attic"
     callers:
       - Erin Mansfield
     price: £3-£14
     organisation: Oxfolk
-
   - name: Oxfolk Ceilidh
     links:
       - "http://www.oxfolk.org.uk/"
-    start: 2023-11-11T19:30:00+00:00
-    end: 2023-11-11T23:00:00+00:00
+    start: "2023-11-11T19:30:00+00:00"
+    end: "2023-11-11T23:00:00+00:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -286,15 +291,15 @@ events:
       - Sarah Petts
     price: £3-£14
     organisation: Oxfolk
-
   - name: Oxfolk Ceilidh
     links:
       - "http://www.oxfolk.org.uk/"
-    start: 2023-12-09T19:30:00+00:00
-    end: 2023-12-09T23:00:00+00:00
+    start: "2023-12-09T19:30:00+00:00"
+    end: "2023-12-09T23:00:00+00:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -303,15 +308,15 @@ events:
       - Nick Walden
     price: £3-£14
     organisation: Oxfolk
-
   - name: Oxfolk Ceilidh
     links:
       - "http://www.oxfolk.org.uk/"
-    start: 2024-01-13T19:30:00+00:00
-    end: 2024-01-13T23:00:00+00:00
+    start: "2024-01-13T19:30:00+00:00"
+    end: "2024-01-13T23:00:00+00:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -320,15 +325,15 @@ events:
       - Pete North
     price: £3-£14
     organisation: Oxfolk
-
   - name: Oxfolk Ceilidh
     links:
       - "http://www.oxfolk.org.uk/"
-    start: 2024-02-10T19:30:00+00:00
-    end: 2024-02-10T23:00:00+00:00
+    start: "2024-02-10T19:30:00+00:00"
+    end: "2024-02-10T23:00:00+00:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -337,15 +342,15 @@ events:
       - Lisa Heywood
     price: £3-£14
     organisation: Oxfolk
-
   - name: Oxfolk Ceilidh
     links:
       - "http://www.oxfolk.org.uk/"
-    start: 2024-03-09T19:30:00+00:00
-    end: 2024-03-09T23:00:00+00:00
+    start: "2024-03-09T19:30:00+00:00"
+    end: "2024-03-09T23:00:00+00:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -354,18 +359,61 @@ events:
       - Hannah Moore
     price: £3-£14
     organisation: Oxfolk
-
+  - name: Oxford Folk Festival
+    links:
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/1143403"
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/1162016"
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/1162024"
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/1162028"
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/1162008"
+    start: "2024-04-19T19:15:00+01:00"
+    end: "2024-04-20T22:00:00+01:00"
+    country: UK
+    city: Oxford
+    styles:
+      - balfolk
+      - e-ceilidh
+    workshop: true
+    social: true
+    bands:
+      - Brown Boots Boogie Band
+      - Sarah Matthews & Doug Eunson
+      - Dirty Big Canal Dance Band
+    callers:
+      - Ollie Simons
+      - Mary Panton
+    organisation: Oxfolk
   - name: Oxfolk Ceilidh
     links:
       - "http://www.oxfolk.org.uk/"
-    start: 2024-05-11T19:30:00+01:00
-    end: 2024-05-11T23:00:00+01:00
+    start: "2024-05-11T19:30:00+01:00"
+    end: "2024-05-11T23:00:00+01:00"
     country: UK
     city: Oxford
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
       - Out of Hand
     price: £3-£14
+    organisation: Oxfolk
+  - name: Dance concert
+    links:
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/991830"
+    start: "2024-05-19T16:00:00+01:00"
+    end: "2024-05-19T20:00:00+01:00"
+    country: UK
+    city: Oxford
+    styles:
+      - balfolk
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Blowzabella
+    callers:
+      - Jo Freya
+      - Dave Shepherd
+    price: £8-£18
     organisation: Oxfolk

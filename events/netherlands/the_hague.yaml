@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: "St. Andrew's Charity Ball"
+    links:
+      - "https://standrewsnl.wordpress.com/celidhs-and-balls/st-andrews-charity-ball-2/"
+    start: "2024-11-23T18:30:00+01:00"
+    end: "2024-11-24T01:00:00+01:00"
+    country: Netherlands
+    city: The Hague
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: €99
+    organisation: "St. Andrew's Society of the Netherlands"
+
+  - name: Burns Night Ceilidh
+    links:
+      - "https://standrewsnl.wordpress.com/celidhs-and-balls/burns-supper/"
+    start: "2025-01-24T18:30:00+01:00"
+    end: "2025-01-24T22:00:00+01:00"
+    country: Netherlands
+    city: The Hague
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    organisation: "St. Andrew's Society of the Netherlands"

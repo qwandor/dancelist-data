@@ -1,0 +1,98 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Le Festival De La Pouméane
+    links:
+      - "https://balistik.jeremiebt.com/poumeane-2022/"
+      - "https://www.facebook.com/events/1052818818968681/"
+    start: 2022-06-24T18:00:00+02:00
+    end: 2022-06-26T17:00:00+02:00
+    country: France
+    city: Combovin
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Bal O'Gadjo
+      - Le Mange Bal
+      - DiaTao
+      - La Chimère
+      - Eric Thézé
+      - Nokkenoc
+    price: €31-€52
+    organisation: Balistik
+
+  - name: Le Festival Balalalune 2022
+    links:
+      - "http://balistik.jeremiebt.com/balalalune-2022/"
+      - "https://www.facebook.com/events/530197032115480/"
+    start_date: 2022-07-05
+    end_date: 2022-07-10
+    country: France
+    city: Saint Maurice
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Cabanes
+      - Soluna
+      - Duo Michaud-Guérin
+      - Kaz Kan Zie
+      - Mara Des Bois
+      - Eva Parmenter
+      - Valsaviris
+      - Folksy Groove
+      - Plume
+      - Amzéom
+      - Dekolaz
+      - La Chimère
+      - Escale Ordinaire
+      - La Roulotte
+      - Rhizottome
+      - La Sylva
+      - La Mêche
+    price: €69-€156
+    organisation: Balistik
+
+  - name: Balactée 2024
+    links:
+      - "https://balistik.jeremiebt.com/balactee-2024/"
+    start: 2024-01-26T19:00:00+01:00
+    end: 2024-01-28T13:30:00+01:00
+    country: France
+    city: Saint-Donat-sur-l'Herbasse
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Guilhem Desq
+      - Patates Sound System
+      - Cam&Léo
+      - Plume
+      - GrandLoup
+      - Duo Augendre Fradin
+    price: €36-€170
+    organisation: Balistik
+
+  - name: Le Festival De La Pouméane
+    links:
+      - "https://balistik.jeremiebt.com/"
+    start_date: 2024-06-21
+    end_date: 2024-06-23
+    country: France
+    city: Combovin
+    styles: [balfolk]
+    workshop: true
+    social: true
+    organisation: Balistik
+
+  - name: Balalalune
+    links:
+      - "https://balistik.jeremiebt.com/"
+    start_date: 2024-07-24
+    end_date: 2024-07-28
+    country: France
+    city: Trièves
+    styles: [balfolk]
+    workshop: true
+    social: true
+    organisation: Balistik

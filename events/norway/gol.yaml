@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Landskappleiken
+    links:
+      - "https://www.landskappleiken.no/"
+    start_date: 2024-06-26
+    end_date: 2024-06-30
+    country: Norway
+    city: Gol
+    styles:
+      - scandi
+    workshop: false
+    social: true
+    organisation: Landskappleiken

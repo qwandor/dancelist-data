@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Burlington Balfolk
+    details: "An evening of Balfolk dancing with Triton and Mary Wesley.  There will be a 30min introductory workshop for newcomers, from 7.30-8pm. The bal will run from 8-10pm."
+    links:
+      - "https://www.facebook.com/events/330064919913531/"
+      - "https://www.tritontrad.com/schedule/"
+    start: "2024-01-12T19:30:00-05:00"
+    end: "2024-01-12T22:00:00-05:00"
+    country: USA
+    state: VT
+    city: Burlington
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Triton
+    price: $5-$20
+    organisation: Triton & Mary Wesley

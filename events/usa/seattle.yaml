@@ -1,0 +1,73 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Nordic dance class
+    links:
+      - "https://skandia-folkdance.org/classes.html"
+    start: "2024-03-13T19:15:00-07:00"
+    end: "2024-03-13T21:00:00-07:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: $10-$12
+    organisation: Skandia Folkdance Society
+  - name: Skandia Dance
+    links:
+      - "https://skandia-folkdance.org/activities.html"
+    start: "2024-03-15T19:30:00-07:00"
+    end: "2024-03-15T22:30:00-07:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    bands:
+      - Sprida Ut
+    price: $10-$15
+    organisation: Skandia Folkdance Society
+  - name: Nordic dance class
+    links:
+      - "https://skandia-folkdance.org/classes.html"
+    start: "2024-03-20T19:15:00-07:00"
+    end: "2024-03-20T21:00:00-07:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: $10-$12
+    organisation: Skandia Folkdance Society
+  - name: Beginner Scandinavian Dance class
+    links:
+      - "https://skandia-folkdance.org/classes.html"
+    start: "2024-03-25T19:00:00-07:00"
+    end: "2024-03-25T21:00:00-07:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: free
+    organisation: Skandia Folkdance Society
+  - name: Springdans Northwest
+    links:
+      - "https://skandia-folkdance.org/springdans.html"
+    start_date: 2024-04-12
+    end_date: 2024-04-15
+    country: USA
+    state: WA
+    city: Seabeck
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    organisation: Skandia Folkdance Society

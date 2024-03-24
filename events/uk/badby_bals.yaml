@@ -80,9 +80,9 @@ events:
     price: £5
     organisation: Badby Bals
 
-  - name: Weedon BalFolk
+  - name: La Fête des Rois
     links:
-      - "https://www.facebook.com/groups/272983599425727/posts/6882237815166906/"
+      - "https://www.facebook.com/events/7443381449019394/"
     start: 2024-01-07T14:00:00+00:00
     end: 2024-01-07T17:00:00+00:00
     country: UK
@@ -90,5 +90,56 @@ events:
     styles: [balfolk]
     workshop: false
     social: true
-    price: £5
+    bands:
+      - Sawney White Bird
+    price: £6
     organisation: Badby Bals
+
+  - name: Evening Bal
+    links:
+      - "https://www.facebook.com/events/910472260744760/"
+      - "https://www.tickettailor.com/events/weedonbalfolk/1136513"
+    start: "2024-02-02T19:00:00Z"
+    end: "2024-02-02T22:30:00Z"
+    country: UK
+    city: Weedon Bec
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Airboxes
+    price: £10
+    organisation: Weedon Balfolk
+
+  - name: Spring Barn Dance
+    links:
+      - "https://www.tickettailor.com/events/northantsceilidhs/1128953"
+    start: "2024-03-15T20:00:00Z"
+    end: "2024-03-15T23:00:00Z"
+    country: UK
+    city: Weedon Bec
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Doug Eunson and Sarah Matthews
+    price: £12
+    organisation: ~
+
+  - name: Weedon Balfolk
+    links:
+      - "https://www.weedonbalfolk.co.uk/"
+      - "https://www.facebook.com/events/1662831224247195/"
+    start: 2024-03-24T14:00:00+00:00
+    end: 2024-03-24T17:00:00+00:00
+    country: UK
+    city: Weedon Bec
+    styles: [balfolk]
+    workshop: false
+    social: true
+    bands:
+      - Dave Shepherd & Anna Pack
+    price: £10
+    organisation: Weedon Balfolk

@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Sundays at the Bal
+    links:
+      - "https://www.facebook.com/events/348949498034376/"
+      - "https://www.ccstp.be/agenda/un-bal-bizarre-dans-le-blizzard-non-un-bal-avec-balbuzar-initiation-a-la-danse/"
+      - "https://www.ccstp.be/agenda/un-bal-bizarre-dans-le-blizzard-non-un-bal-avec-balbuzar/"
+    start: "2024-03-03T14:00:00+01:00"
+    end: "2024-03-03T19:30:00+01:00"
+    country: Belgium
+    city: Trois-Ponts
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Balbuzar
+    price: €10-€20
+    organisation: "Trad'Tonic"

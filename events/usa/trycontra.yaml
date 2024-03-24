@@ -41,6 +41,11 @@ events:
   - name: 36th Ralph Page Dance Event
     links:
       - "https://www.neffa.org/ralph-page/rpde/"
+      - "https://cdss.org/event/neffas-ralph-page-dance-weekend/2024-01-12/1/"
+      - "https://cdss.org/event/neffas-ralph-page-dance-weekend/2024-01-12/2/"
+      - "https://cdss.org/event/ralph-page-dance-weekend-saturday/"
+      - "https://cdss.org/event/ralph-page-dance-weekend-friday-evening/"
+      - "https://cdss.org/event/neffas-ralph-page-dance-weekend/2024-01-13/"
     start: 2024-01-12T19:30:00-05:00
     end: 2024-01-13T22:00:00-05:00
     country: USA
@@ -48,7 +53,7 @@ events:
     city: Worcester
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Sugar River Band
@@ -57,6 +62,7 @@ events:
       - Tod Whittemore
       - Lisa Greenleaf
       - Dudley Laufman
+    price: $40-$65
     organisation: NEFFA
   - name: Contra Carnivale
     links:
@@ -73,47 +79,52 @@ events:
     bands:
       - Elixir
       - The Syncopaths
-      - Eloise &co
+      - Eloise & Co.
     callers:
       - Nils Fredland
       - Cis Hinkle
       - Susan Petrick
     organisation: TryContra
-  - name: Florida Snow Ball
+  - name: Contra Swing Shift Weekend
     links:
-      - "http://floridasnowball.tampabaycontra.com/"
+      - "https://www.swingshift.ltda.us/"
     start_date: 2024-01-26
-    end_date: 2024-01-28
+    end_date: 2024-01-27
     country: USA
-    state: FL
-    city: Gulfport
+    state: KY
+    city: Berea
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
-      - Kingfisher
-      - Nova
+      - Meadowhawk
     callers:
-      - Janine Smith
-      - Will Mentor
+      - Charley Harvey
+    price: $32-$55
     organisation: TryContra
-  - name: Phoenix Winter Frolic
+  - name: Peterbough Snow Ball
     links:
-      - "https://phxtmd.org/winter-frolic-2024"
-    start_date: 2024-02-09
-    end_date: 2024-02-10
+      - "https://www.monadnockfolk.org/?p=11577"
+    start_date: 2024-01-20
+    end_date: 2024-01-20
     country: USA
-    state: AZ
-    city: Mesa
+    state: NH
+    city: Peterborough
     styles:
       - contra
     workshop: true
     social: true
     bands:
-      - Joyance
+      - The Moving Violations
+      - Stomp Rocket
     callers:
-      - Christine Merryman
+      - Mary Wesley
+      - Will Mentor
+      - Lisa Greenleaf
+      - Steve Zakon-Anderson
+    price: $28
     organisation: TryContra
   - name: Dancing Fish
     links:
@@ -187,8 +198,9 @@ events:
   - name: Dance Flurry Festival
     links:
       - "http://www.flurryfestival.org/"
-    start_date: 2024-02-16
-    end_date: 2024-02-18
+      - "https://cdss.org/event/the-2024-flurry-festival/"
+    start: "2024-02-16T19:00:00-05:00"
+    end: "2024-02-18T19:00:00-05:00"
     country: USA
     state: NY
     city: Saratoga Springs
@@ -199,12 +211,24 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Countercurrent
+      - Engine Room
+      - River Road
+      - Supertrad
+    callers:
+      - Adina Gordon
+      - Bob Isaacs
+      - Liz Nelson
+      - Isaac Banner
+      - Lisa Greenleaf
     organisation: DanceFlurry
   - name: Bayou Bedlam
     links:
       - "http://www.bayoubedlam.org/"
-    start_date: 2024-02-09
-    end_date: 2024-02-11
+      - "https://cdss.org/event/bayou-bedlam/"
+    start: "2024-02-09T19:30:00-06:00"
+    end: "2024-02-11T19:30:00-06:00"
     country: USA
     state: TX
     city: Houston
@@ -216,26 +240,7 @@ events:
       - The Dam Beavers
     callers:
       - Gaye Fifer
-    organisation: TryContra
-  - name: Fiddling Frog Dance Festival
-    links:
-      - "https://www.caldancecoop.org/special-events/fiddling-frog/"
-    start_date: 2024-02-23
-    end_date: 2024-02-25
-    country: USA
-    state: CA
-    city: Pasadena
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Stomp Rocket
-      - Engine Room
-    callers:
-      - Lisa Greenleaf
-      - Susan Michaels
-    organisation: TryContra
+    organisation: Houston Area Traditional Dance Society
   - name: Dancing Fish
     links:
       - "https://dancingfish.dance/"
@@ -256,8 +261,9 @@ events:
   - name: Carolina Meltdown
     links:
       - "https://www.charlottecontradance.org/carolina-meltdown"
-    start_date: 2024-03-08
-    end_date: 2024-03-10
+      - "https://cdss.org/event/carolina-meltdown/"
+    start: "2024-03-08T16:00:00-05:00"
+    end: "2024-03-10T16:00:00-04:00"
     country: USA
     state: SC
     city: Lake Wylie
@@ -271,25 +277,6 @@ events:
     callers:
       - Seth Tepfer
       - Diane Silver
-    organisation: TryContra
-  - name: Pigtown Fling
-    links:
-      - "http://www.cincinnaticontradance.org/pigtown.htm"
-    start_date: 2024-03-22
-    end_date: 2024-03-24
-    country: USA
-    state: OH
-    city: Cincinattia
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Elixir
-      - Trillium
-    callers:
-      - Nils Fredland
-      - Darlene Underwood
     organisation: TryContra
   - name: Beantown Stomp
     links:
@@ -310,9 +297,31 @@ events:
       - Maia McCormick
       - Will Mentor
     organisation: TryContra
+  - name: Spring @ Sautee
+    links:
+      - "https://www.snca.org/contra/danceWeekend/page.php"
+    start: 2024-03-22T16:30:00-04:00
+    end: 2024-03-24T15:00:00-04:00
+    country: USA
+    state: GA
+    city: Helena
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Hot Coffee Breakdown
+      - Contraforce
+      - DJ TacoShel
+    callers:
+      - Terry Doyle
+      - Seth Tepfer
+    price: $100-$135
+    organisation: TryContra
   - name: Hash Dance Weekend
     links:
       - "https://fsgw.org/hashtag-dance-weekend"
+      - "https://cdss.org/event/dance-weekend/"
     start_date: 2024-03-09
     end_date: 2024-03-10
     country: USA
@@ -322,7 +331,13 @@ events:
       - contra
     workshop: true
     social: true
-    organisation: TryContra
+    bands:
+      - River Road
+      - The Ice Cream Truckers
+    callers:
+      - Will Mentor
+      - Alex Deis-Lauby
+    organisation: Folklore Society of Greater Washington
   - name: Dancing Fish
     links:
       - "https://dancingfish.dance/"
@@ -390,10 +405,11 @@ events:
     workshop: true
     social: true
     bands:
-      - The Mean Lids
+      - Nimbus
+      - River Road
     callers:
-      - Chris Ricciotti
-      - Maia McCormick
+      - Andy Shore
+      - Isaac Banner
     organisation: TryContra
   - name: Call of the Loon Dance Weekend
     links:
@@ -408,7 +424,7 @@ events:
     workshop: true
     social: true
     bands:
-      - The Stringrays
+      - Stringrays
       - Northern Aire
     callers:
       - Will Mentor
@@ -432,20 +448,57 @@ events:
       - Gaye Fifer
     organisation: TryContra
   - name: NEFFA
+    details: "13 parallel stages, Friday thru Sunday."
     links:
-      - "https://www.neffa.org/"
-    start_date: 2024-04-19
-    end_date: 2024-04-21
+      - "https://www.neffa.org/festival-home/"
+    start: "2024-04-19T19:00:00-04:00"
+    end: "2024-04-21T17:30:00-04:00"
     country: USA
     state: MA
     city: Marlborough
     styles:
-      - contra
-      - scandi
       - balfolk
+      - contra
+      - e-ceilidh
+      - ecd
+      - scd
+      - scandi
     workshop: true
     social: true
+    bands:
+      - Live Wire
+      - Kingfisher
+      - Torrent
+      - Good Company
+      - Dogtown
+    callers:
+      - Alex Deis-Lauby
+      - Rick Mohr
+      - Ben Sachs-Hamilton
+      - Bob Isaacs
+      - Michael Karcher
+      - Dereck Kalish
     organisation: NEFFA
+  - name: Fiddlehead Frolic
+    links:
+      - "http://www.hands4dancers.org/upcoming-dances/2024/3/30/fiddlehead-frolic"
+    start: 2024-03-30T12:30:00-04:00
+    end: 2024-03-30T22:00:00-04:00
+    country: USA
+    state: NY
+    city: Ithaca
+    styles:
+      - balfolk
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Eloise & Co.
+      - Metku
+    callers:
+      - Mary Wesley
+    price: $18-$35
+    organisation: TryContra
   - name: Hands Four Spring Dance Weekend
     links:
       - "https://www.hands4-berea.com/"
@@ -463,6 +516,26 @@ events:
     callers:
       - Terry Doyle
       - Sarah Kaiser
+    organisation: TryContra
+  - name: Dandelion Romp
+    links:
+      - "https://advance.oberlin.edu/events/2024/04/19/dandelion-romp-2024"
+    start: 2024-04-19T19:30:00-04:00
+    end: 2024-04-21T16:00:00-04:00
+    country: USA
+    state: OH
+    city: Oberlin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Elixir
+      - Engine Room
+    callers:
+      - Adina Gordon
+      - Nils Fredland
+    price: $30-$65
     organisation: TryContra
   - name: Trillium Twirl
     links:
@@ -495,10 +568,50 @@ events:
     social: true
     bands:
       - Drive Train
-      - The Stringrays
+      - Stringrays
     callers:
       - Lisa Greenleaf
       - Will Mentor
+    organisation: TryContra
+  - name: NexGen Contra Weekend
+    links:
+      - "https://aactmad.org/nexgen-contra"
+    start_date: 2024-04-12
+    end_date: 2024-04-14
+    country: USA
+    state: MI
+    city: Ann Arbor
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Starling
+      - Pimento Mori
+    callers:
+      - Katie Zanders
+      - River Rainbowface
+    organisation: TryContra
+  - name: Palmetto Bug Stomp
+    links:
+      - "http://charlestonfolk.weebly.com/palmetto-bug-stomp.html"
+      - "https://www.facebook.com/events/862125718804871/"
+    start: 2024-04-26T19:00:00-04:00
+    end: 2024-04-28T15:30:00-04:00
+    country: USA
+    state: SC
+    city: Charleston
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Wild Asparagus
+      - Contraforce
+    callers:
+      - George Marshall
+      - Seth Tepfer
+    price: $140-$155
     organisation: TryContra
   - name: Dancing Fish
     links:
@@ -529,6 +642,87 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Hot Coffee Breakdown
+      - Brazenkeys
+    callers:
+      - Gaye Fifer
+      - Janine Smith
+    organisation: TryContra
+  - name: Lake Eden Arts Festival - Spring
+    links:
+      - "https://theleaf.org/"
+    start_date: 2024-05-10
+    end_date: 2024-05-11
+    country: USA
+    state: NC
+    city: Black Mountain
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Playing with Fyre
+    callers:
+      - Claire Takemori
+    organisation: TryContra
+  - name: Meet Me in St Louis
+    links:
+      - "https://childgrove.org/stl-dance-weekends/meetmeinstlouis"
+      - "https://www.facebook.com/events/871111018094385/"
+    start: 2024-05-24T18:00:00-05:00
+    end: 2024-05-27T15:00:00-05:00
+    country: USA
+    state: MO
+    city: Kirkwood
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Audacious
+      - Roger Wilco
+    callers:
+      - Bob Isaacs
+    price: $50-$110
+    organisation: TryContra
+  - name: FolkMADness Music & Dance Camp
+    links:
+      - "http://folkmads.org/events/camps/folkmadness/"
+    start_date: 2024-05-24
+    end_date: 2024-05-27
+    country: USA
+    state: NM
+    city: Soccoro
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Toss the Possum
+    callers:
+      - Jeremy Korr
+      - Lo Peckman
+    price: $175-$460
+    organisation: TryContra
+  - name: Dancing Bear Dance Camp
+    links:
+      - "http://www.thedancingbears.com/Dance-Camp.html"
+    start_date: 2024-05-24
+    end_date: 2024-05-27
+    country: USA
+    state: AK
+    city: Wasilla
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Stringrays
+      - The Sail Away Ladies
+    callers:
+      - George Marshall
+      - Louise Siddons
     organisation: TryContra
   - name: Spring Dance Romance
     links:
@@ -562,11 +756,29 @@ events:
     workshop: true
     social: true
     organisation: TryContra
+  - name: Moulin d'Andé Weekend
+    links:
+      - "https://sites.google.com/site/americancontradanceinparis/"
+      - "https://www.facebook.com/events/1889585761472902/"
+    start: 2024-05-24T19:00:00+02:00
+    end: 2024-05-26T18:00:00+02:00
+    country: France
+    city: Val-de-Reuil
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Nozzy
+    callers:
+      - Kappy Lanning
+      - Janine Smith
+    organisation: TryContra
   - name: Contradancers Delight Holiday
     links:
-      - "http://www.contradancersdelight.com/about-summer-cdh-tst/"
-    start_date: 2024-05-10
-    end_date: 2024-05-17
+      - "https://www.contradancersdelight.com/"
+    start: 2024-05-10T20:00:00-04:00
+    end: 2024-05-17T12:00:00-04:00
     country: USA
     state: TN
     city: Mountain City
@@ -574,6 +786,38 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Toss the Possum
+      - Drive Train
+      - Buzz Band
+      - George Paul
+    callers:
+      - Bob Isaacs
+      - Terry Doyle
+      - Devin Pohly
+      - Warren Doyle
+    organisation: TryContra
+  - name: Summer Soiree
+    links:
+      - "https://ashevillecontra.wixsite.com/summer-soiree-2024"
+    start_date: 2024-06-14
+    end_date: 2024-06-16
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Supertrad
+      - The Ice Cream Truckers
+      - Rushfest
+      - Playing with Fyre
+    callers:
+      - Nils Fredland
+      - Cis Hinkle
+      - Emily Rush
     organisation: TryContra
   - name: Dancing Fish
     links:
@@ -588,9 +832,122 @@ events:
     workshop: true
     social: true
     bands:
-      - Eloise &co.
+      - Eloise & Co.
     callers:
       - Steve Zakon-Anderson
+    organisation: TryContra
+  - name: Gender-Free Dance Camp
+    links:
+      - "https://www.lcfd.org/spring-camp-2024.html"
+    start: 2024-06-07T15:00:00-04:00
+    end: 2024-06-09T16:00:00-04:00
+    country: USA
+    state: MA
+    city: Plymouth
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    callers:
+      - Maia McCormick
+      - Scott Higgs
+    price: $150-$400
+    organisation: TryContra
+  - name: Flamingo Fling Weekend
+    links:
+      - "http://scissortail.org/special-events/flamingo-fling/"
+    start_date: 2024-06-07
+    end_date: 2024-06-09
+    country: USA
+    state: OK
+    city: Oklahoma City
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Playing with Fyre
+    callers:
+      - Seth Tepfer
+    organisation: TryContra
+  - name: Swing into Summer
+    links:
+      - "http://www.swingintosummer.org/"
+    start_date: 2024-06-14
+    end_date: 2024-06-16
+    country: USA
+    state: MA
+    city: Plymouth
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Countercurrent
+      - Miranda Weinberg, Aaron Marcus, & Carrie Rose
+    callers:
+      - Gaye Fifer
+      - Adina Gordon
+    price: $100-$260
+    organisation: TryContra
+  - name: Lady of the Lake June Week
+    links:
+      - "http://www.ladyofthelake.org/june-week/"
+    start: 2024-06-23T15:00:00-07:00
+    end: 2024-06-29T11:00:00-07:00
+    country: USA
+    state: ID
+    city: Harrison
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Constellation
+      - Countercurrent
+      - The Canote Brothers
+    callers:
+      - Susan Petrick
+      - Wendy Graham
+    price: $595-$995
+    organisation: TryContra
+  - name: Old Songs Festival
+    links:
+      - "http://festival.oldsongs.org/"
+    start_date: 2024-06-28
+    end_date: 2024-06-30
+    country: USA
+    state: NY
+    city: Voorheesville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Moving Violations
+      - Stove Dragon
+    callers:
+      - Dave Eisenstadter
+      - Adina Gordon
+    organisation: TryContra
+  - name: BACDS Family Week
+    links:
+      - "https://www.bacds.org/familyweek/"
+    start_date: 2024-06-23
+    end_date: 2024-06-29
+    country: USA
+    state: CA
+    city: La Honda
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    callers:
+      - Yoyo Zhou
+    price: $300-$975
     organisation: TryContra
   - name: "Dance, Music & Spice"
     links:
@@ -604,6 +961,8 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Will Mentor
     organisation: TryContra
   - name: Dancing Fish
     links:
@@ -634,6 +993,27 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - The Cosmic Otters
+    callers:
+      - Seth Tepfer
+      - Wendy Graham Settle
+    organisation: TryContra
+  - name: July Fourth
+    links:
+      - "https://cds-boston-j4weekend.weebly.com/"
+    start_date: 2024-06-27
+    end_date: 2024-07-01
+    country: USA
+    state: MA
+    city: Plymouth
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    callers:
+      - Lisa Greenleaf
     organisation: TryContra
   - name: Pinewoods English-Scottish-Contra
     links:
@@ -645,8 +1025,54 @@ events:
     city: Plymouth
     styles:
       - contra
+      - ecd
+      - scd
     workshop: true
     social: true
+    bands:
+      - River Road
+    callers:
+      - Michael Karcher
+    price: $335-$453
+    organisation: TryContra
+  - name: Roanoke Railroader
+    links:
+      - "http://www.roanokerailroader.com/"
+    start_date: 2024-07-04
+    end_date: 2024-07-07
+    country: USA
+    state: VA
+    city: Salem
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Toss the Possum
+      - The Latter Day Lizards
+    callers:
+      - Will Mentor
+      - Gaye Fifer
+    price: $95-$160
+    organisation: TryContra
+  - name: River Rendezvous
+    links:
+      - "http://www.riverrendezvous.com/"
+    start_date: 2024-07-12
+    end_date: 2024-07-14
+    country: USA
+    state: OH
+    city: Coshocton
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Toss the Possum
+      - Drive Train
+    callers:
+      - Terry Doyle
+      - Devin Pohly
     organisation: TryContra
   - name: Ashokan Northern Week
     links:
@@ -660,6 +1086,10 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Will Mentor
+      - Susan Kevra
+      - John Krumm
     organisation: TryContra
   - name: American Dance & Music Week
     links:
@@ -673,6 +1103,9 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Lisa Greenleaf
+      - Will Mentor
     organisation: TryContra
   - name: Harmony of Song & Dance
     links:
@@ -686,6 +1119,9 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Lisa Greenleaf
+      - Brooke Friendly
     organisation: TryContra
   - name: Summergreen
     links:
@@ -773,6 +1209,25 @@ events:
     bands:
       - Kingfisher
     organisation: TryContra
+  - name: Rendezvous Dance Weekend
+    links:
+      - "https://cfootmad.org/rendezvous"
+    start_date: 2024-08-30
+    end_date: 2024-09-02
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Nova
+      - The Dam Beavers
+    callers:
+      - Gaye Fifer
+      - Will Mentor
+    organisation: TryContra
   - name: Squirrel Moon Contra Dance weekend
     links:
       - "http://www.squirrelmoon.org/"
@@ -790,6 +1245,25 @@ events:
     callers:
       - Bev Bernbaum
     organisation: TryContra
+  - name: Echo Summit
+    links:
+      - "https://sactocds.wordpress.com/echo-summit-dance-camp-2024/"
+    start_date: 2024-09-13
+    end_date: 2024-09-15
+    country: USA
+    state: CA
+    city: Sacramento
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Figments
+      - Toss the Possum
+    callers:
+      - Jessee Edgarton
+      - Wendy Graham
+    organisation: TryContra
   - name: Adirondack Dance Weekend
     links:
       - "https://www.danceflurry.org/adirondack-dance-weekend/"
@@ -805,3 +1279,78 @@ events:
     workshop: true
     social: true
     organisation: DanceFlurry
+  - name: Lake Eden Arts Festival - Fall
+    links:
+      - "https://theleaf.org/"
+    start_date: 2024-10-17
+    end_date: 2024-10-20
+    country: USA
+    state: NC
+    city: Black Mountain
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Red Dog
+      - Spintuition
+    callers:
+      - Bob Isaacs
+      - Sarah Kaiser
+    organisation: TryContra
+  - name: Hey Fever Dance Weekend
+    links:
+      - "http://www.ottawacontra.ca/heyFever/"
+    start_date: 2024-11-01
+    end_date: 2024-11-03
+    country: Canada
+    state: Ontario
+    city: Ottawa
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Elixir
+    callers:
+      - Alex Deis-Lauby
+      - Nils Fredland
+    organisation: TryContra
+  - name: Dance in the Desert
+    links:
+      - "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2023/"
+    start_date: 2024-11-08
+    end_date: 2024-11-10
+    country: USA
+    state: AZ
+    city: Oracle
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Playing with Fyre
+      - Stomp Rocket
+    callers:
+      - Lisa Greenleaf
+      - Susan Petrick
+    organisation: TryContra
+  - name: Atlanta Dance Weekend
+    links:
+      - "https://adw.contradance.org/"
+    start_date: 2024-11-08
+    end_date: 2024-11-10
+    country: USA
+    state: GA
+    city: Atlanta
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Faux Paws
+      - Drive Train
+    callers:
+      - Will Mentor
+      - Seth Tepfer
+    organisation: TryContra

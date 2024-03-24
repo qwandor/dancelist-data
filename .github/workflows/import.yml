@@ -1,10 +1,54 @@
 name: Update imports
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "37 11 * * *"
 
 jobs:
+  import-icalendar:
+    name: Update iCalendar imports
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: icalendar
+      - name: Get dancelist version
+        run: echo "HEAD=$(git ls-remote https://github.com/qwandor/dancelist HEAD|cut -f1)" >> $GITHUB_OUTPUT
+        id: version
+      - name: Cache .cargo and target
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/bin
+            ~/.cargo/git
+            ~/.cargo/registry
+            ~/.cargo/.crates.toml
+            ~/.cargo/.crates2.json
+          key: ${{ runner.os }}-cargo-install-${{ steps.version.outputs.HEAD }}
+      - name: Install dancelist
+        run: cargo install --git https://github.com/qwandor/dancelist
+      - name: Import balfolknl
+        run: dancelist import balfolknl events/netherlands/balfolk_nl.yaml
+      - name: Import cdss
+        run: dancelist import cdss events/usa/cdss.yaml
+      - name: Import spreefolk
+        run: dancelist import spreefolk events/germany/spreefolk.yaml
+      - name: Import ceilidh-club
+        run: dancelist import ceilidh-club events/uk/ceilidh_club.yaml
+      - name: Import lancaster-contra
+        run: dancelist import lancaster-contra events/uk/lancaster.yaml
+      - name: Import boulder
+        run: dancelist import boulder events/usa/boulder.yaml
+      - name: Commit if changed
+        run: |
+          git add events
+          git config user.name "Automatic import"
+          git config user.email "dancelist-import@users.noreply.github.com"
+          if git commit -m "Update import."
+          then
+            git push
+          fi
   import:
     name: Update imports
     runs-on: ubuntu-latest
@@ -12,12 +56,6 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - branch: balfolknl
-            name: balfolknl
-            file: events/netherlands/balfolk_nl.yaml
-          - branch: cdss
-            name: cdss
-            file: events/usa/cdss.yaml
           - branch: folkbalbende
             name: balbende
             file: events/belgium/folkbalbende.yaml
@@ -35,7 +73,7 @@ jobs:
         run: echo "HEAD=$(git ls-remote https://github.com/qwandor/dancelist HEAD|cut -f1)" >> $GITHUB_OUTPUT
         id: version
       - name: Cache .cargo and target
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: |
             ~/.cargo/bin
@@ -47,7 +85,7 @@ jobs:
       - name: Install dancelist
         run: cargo install --git https://github.com/qwandor/dancelist
       - name: Import
-        run: dancelist ${{ matrix.name }} > ${{ matrix.file }}
+        run: dancelist import ${{ matrix.name }} ${{ matrix.file }}
       - name: Commit if changed
         run: |
           git add ${{ matrix.file }}

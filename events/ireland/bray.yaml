@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfolk Bray
+    links:
+      - "https://www.commongroundbray.com/?page_id=2600"
+    start: "2024-01-26T19:00:00Z"
+    end: "2024-01-26T21:00:00Z"
+    country: Ireland
+    city: Bray
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: donation
+    organisation: Balfolk Bray

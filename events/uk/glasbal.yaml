@@ -3,21 +3,8 @@ events:
   - name: Balfolk Dance Session
     links:
       - "https://www.facebook.com/events/1115329515844276/"
-    start: 2023-01-28T15:00:00+00:00
-    end: 2023-01-28T18:00:00+00:00
-    country: UK
-    city: Glasgow
-    styles: [balfolk]
-    workshop: false
-    social: true
-    price: £2-£5
-    organisation: GlasBal
-
-  - name: Balfolk dance session
-    links:
-      - "https://www.facebook.com/events/1154154875244552/"
-    start: 2023-03-18T15:00:00+00:00
-    end: 2023-03-18T18:00:00+00:00
+    start: "2023-01-28T15:00:00+00:00"
+    end: "2023-01-28T18:00:00+00:00"
     country: UK
     city: Glasgow
     styles:
@@ -26,7 +13,19 @@ events:
     social: true
     price: £2-£5
     organisation: GlasBal
-
+  - name: Balfolk dance session
+    links:
+      - "https://www.facebook.com/events/1154154875244552/"
+    start: "2023-03-18T15:00:00+00:00"
+    end: "2023-03-18T18:00:00+00:00"
+    country: UK
+    city: Glasgow
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: £2-£5
+    organisation: GlasBal
   - name: Fest Deiz and Bal Folk
     links:
       - "https://www.facebook.com/events/263309209396869/"
@@ -40,13 +39,12 @@ events:
     social: true
     price: free
     organisation: GlasBal
-
   - name: Balfolk workshop and social dance
     links:
       - "https://glasbal.neocities.org/"
       - "https://www.facebook.com/events/1001542457838274/"
-    start: 2023-09-23T14:00:00+01:00
-    end: 2023-09-23T16:30:00+01:00
+    start: "2023-09-23T14:00:00+01:00"
+    end: "2023-09-23T16:30:00+01:00"
     country: UK
     city: Glasgow
     styles:
@@ -55,13 +53,54 @@ events:
     social: true
     price: £2-£5
     organisation: GlasBal
-
   - name: Balfolk workshop and social
     links:
       - "https://www.facebook.com/events/327495073294432/"
       - "https://glasbal.neocities.org/"
-    start: "2023-11-19T14:00:00Z"
-    end: "2023-11-19T17:00:00Z"
+    start: "2023-11-19T14:00:00+00:00"
+    end: "2023-11-19T17:00:00+00:00"
+    country: UK
+    city: Glasgow
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: £2-£5
+    organisation: GlasBal
+  - name: Balfolk Workshop and Social
+    links:
+      - "https://www.facebook.com/events/1431130117789531/"
+      - "https://glasbal.neocities.org/"
+    start: "2024-02-25T15:00:00+00:00"
+    end: "2024-02-25T17:00:00+00:00"
+    country: UK
+    city: Glasgow
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: £2-£5
+    organisation: GlasBal
+  - name: Balfolk Workshop and Social
+    links:
+      - "https://www.facebook.com/events/414266187613107/"
+      - "https://glasbal.neocities.org/"
+    start: "2024-03-24T15:00:00+00:00"
+    end: "2024-03-24T17:00:00+00:00"
+    country: UK
+    city: Glasgow
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: £2-£5
+    organisation: GlasBal
+  - name: Balfolk Workshop and Social
+    links:
+      - "https://www.facebook.com/events/376095681809705/"
+      - "https://glasbal.neocities.org/"
+    start: "2024-04-28T15:00:00+01:00"
+    end: "2024-04-28T17:00:00+01:00"
     country: UK
     city: Glasgow
     styles:

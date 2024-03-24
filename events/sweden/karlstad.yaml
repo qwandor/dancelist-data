@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Ransätersstämman
+    links:
+      - "https://ransatersstamman.se/"
+    start: "2024-06-06T20:00:00+02:00"
+    end: "2024-06-09T15:00:00+02:00"
+    country: Sweden
+    city: Karlstad
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    organisation: Ransätersstäterman
