@@ -1944,7 +1944,8 @@ events:
     details: "DenneFeest is een kleinschalig Balfolk festival van 1 dag in een openlucht theater midden in het bos!\n\nDe bands die dit jaar op het hoofdpodium komen optreden zijn:\n- Wouter Kuyper Solo\n- Geronimo\n- Qui Vive\n- Broes\n- Cardboard Cabin\n\nTijdens het eten zal er op het kleine podium muziek zijn van Vandiekomsa.\n\nVoordat het muzikale programma van start gaat (14.00 uur) is er de mogelijkheid om deel te nemen aan een workshop. \nLouise Marius geeft om 11.30 een workshop mazurka voor begonners. Deze duurt één of anderhalf uur.\nDus worstel je met de mazurka, dit is de mogelijkheid om je verder te verdiepen in deze fijne maar soms ook lastige koppeldans. Wouter Kuyper zal de workshop muzikaal begeleiden.\n\nKaartverkoop verloopt via de website van Hoessenbosch theater.\nKaarten kosten:\nBal € 36,00\nBal met korting € 33,50\nWorkshop € 16,00\nCamping € 18,50"
     links:
       - "https://www.balfolk.nl/agenda/dennefeest-5/"
-    start: "2024-06-29T14:00:00+02:00"
+      - "https://www.hoessenbosch.nl/programma/~220_dennefeest/"
+    start: "2024-06-29T11:30:00+02:00"
     end: "2024-06-29T23:59:00+02:00"
     country: Netherlands
     city: Berghem
@@ -1955,7 +1956,11 @@ events:
     bands:
       - Geronimo
       - Wouter Kuyper
-    price: €16-€36
+      - QuiVive
+      - Broes
+      - Cardboard Cabin
+      - Vandiekomsa
+    price: €33.50-€52
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
@@ -2267,11 +2272,12 @@ events:
     city: Wageningen
     styles:
       - balfolk
-    workshop: false
-    social: false
+    workshop: true
+    social: true
     bands:
       - De Houtzagerij
       - Madlot
+    price: €7.50
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
@@ -2708,11 +2714,12 @@ events:
     city: Wageningen
     styles:
       - balfolk
-    workshop: false
-    social: false
+    workshop: true
+    social: true
     bands:
       - De Houtzagerij
       - Madlot
+    price: €7.50
     organisation: balfolk.nl
   - name: Balfolk café Nijmegen
     details: "Balfolk Cafe is livemuziek, tussendoor fijne balfolkhitjes en natuurlijk sessie: dus neem ook je instrumenten mee!\n\n\nEntree: € 15,-  (of € 10,- voor mensen die kortingstarief nodig hebben)\nGeef ruim, alles gaat 100% naar de muzikanten.\n\n20:00 dans uitleg\n21:00 Livemuziek (2 sets)\n23:00 Sessie!\n(Tijden onder voorbehoud)"

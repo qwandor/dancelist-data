@@ -1197,8 +1197,8 @@ events:
   - name: TradMaD
     links:
       - "http://minstrelrecords.com/tradmad/"
-    start_date: 2024-08-24
-    end_date: 2024-08-30
+    start: 2024-08-24T15:00:00-04:00
+    end: 2024-08-30T10:00:00-04:00
     country: USA
     state: MA
     city: Plymouth
@@ -1206,6 +1206,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $980
     organisation: TryContra
   - name: Dancing Fish
     links:
