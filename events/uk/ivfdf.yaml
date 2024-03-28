@@ -9,7 +9,13 @@ events:
     end_date: 2022-02-27
     country: UK
     city: Sheffield
-    styles: [balfolk, contra, e-ceilidh, s-ceilidh, ecd, scd]
+    styles:
+      - balfolk
+      - contra
+      - e-ceilidh
+      - s-ceilidh
+      - ecd
+      - scd
     workshop: true
     social: true
     bands:
@@ -32,17 +38,20 @@ events:
       - Nisha Lall
     price: £19-£50
     organisation: IVFDF
-
   - name: IVFDF 2023
     details: The Inter-Varsity Folk Dance Festival.
     links:
       - "https://ivfdf2023.wordpress.com/"
       - "https://www.facebook.com/IVFDF-2023-101175758757822/"
-    start: 2023-02-03T16:30:00+00:00
-    end: 2023-02-05T17:00:00+00:00
+    start: "2023-02-03T16:30:00+00:00"
+    end: "2023-02-05T17:00:00+00:00"
     country: UK
     city: Exeter
-    styles: [balfolk, contra, e-ceilidh, ecd]
+    styles:
+      - balfolk
+      - contra
+      - e-ceilidh
+      - ecd
     workshop: true
     social: true
     bands:
@@ -55,14 +64,13 @@ events:
       - Louise Siddons
     price: £15-£60
     organisation: IVFDF
-
   - name: IVFDF 2024
     details: The Inter-Varsity Folk Dance Festival.
     links:
       - "https://ivfdf2024.org.uk/"
       - "https://www.facebook.com/events/1574298923068330/"
-    start: 2024-02-16T20:30:00+00:00
-    end: 2024-02-18T17:00:00+00:00
+    start: "2024-02-16T20:30:00+00:00"
+    end: "2024-02-18T17:00:00+00:00"
     country: UK
     city: York
     styles:
@@ -76,7 +84,7 @@ events:
     bands:
       - Matt & Ali
       - Bearded Dragons
-      - Blackbeard's Tea Party
+      - "Blackbeard's Tea Party"
       - Contrary Faeries
       - Emily & Simon
       - FiddlersWreck
@@ -93,4 +101,22 @@ events:
       - Michael Jary
       - Rhodri Davies
       - Sam Smith
+    organisation: IVFDF
+  - name: IVFDF 2025
+    links:
+      - "https://sheffield-ivfdf.org.uk/"
+      - "https://www.facebook.com/permalink.php?story_fbid=pfbid0Leq1eMKDNDjcN3gCWJYP85NiybMTMXjsQ4xmtFoGHHoAZuMj4nJDXANz3dZVWTRyl&id=61556458347712"
+    start_date: 2025-02-28
+    end_date: 2025-03-02
+    country: UK
+    city: Sheffield
+    styles:
+      - balfolk
+      - contra
+      - e-ceilidh
+      - ecd
+      - s-ceilidh
+      - scd
+    workshop: true
+    social: true
     organisation: IVFDF
