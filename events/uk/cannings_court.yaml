@@ -3,11 +3,12 @@ events:
   - name: Cannings Court French and Breton Dance
     links:
       - "https://www.facebook.com/events/1030532541184614/"
-    start: 2022-08-20T18:00:00+01:00
-    end: 2022-08-21T12:00:00+01:00
+    start: "2022-08-20T18:00:00+01:00"
+    end: "2022-08-21T12:00:00+01:00"
     country: UK
     city: Dorchester
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -16,7 +17,6 @@ events:
       - Fell
     price: £15
     organisation: Cannings Court
-
   - name: Cannings Court French and Breton Dance
     links:
       - "https://www.facebook.com/events/210817401685578/"
@@ -32,4 +32,19 @@ events:
       - Dave Faulkner & Steve Turner
       - Wod
     price: £17
+    organisation: Cannings Court
+  - name: Cannings Court French and Breton Dance
+    links:
+      - "https://www.facebook.com/groups/168937573442983/posts/2115843372085717/"
+    start_date: 2024-08-30
+    end_date: 2024-09-01
+    country: UK
+    city: Dorchester
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Red Dog Green Dog
+      - Wod
     organisation: Cannings Court
