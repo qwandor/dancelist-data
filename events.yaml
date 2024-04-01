@@ -80570,6 +80570,18 @@ events:
     price: €40
     organisation: Akkordeonfestival
     source: events/austria/vienna-other.yaml
+  - name: Schwedischer Abend
+    links: []
+    start: "2024-04-30T19:00:00+02:00"
+    end: "2024-04-30T23:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    organisation: Steffi
+    source: events/austria/vienna-other.yaml
   - name: Balfolk
     links:
       - "https://www.facebook.com/events/193281173871775/"
@@ -80758,9 +80770,10 @@ events:
     organisation: Simon Wascher
     source: events/austria/vienna-organic-dancefloor.yaml
   - name: Organic Dancefloor
-    links: []
-    start: "2024-03-27T22:00:00+01:00"
-    end: "2024-03-27T23:30:00+01:00"
+    links:
+      - "https://fraumayer.at/event/haertel-wascher-duo-and-friends-organic-dancefloor-8/"
+    start: "2024-03-27T19:30:00+01:00"
+    end: "2024-03-27T22:00:00+01:00"
     country: Austria
     city: Vienna
     styles:
@@ -80772,9 +80785,10 @@ events:
     organisation: Simon Wascher
     source: events/austria/vienna-organic-dancefloor.yaml
   - name: Organic Dancefloor
-    links: []
-    start: "2024-04-24T22:00:00+02:00"
-    end: "2024-04-24T23:30:00+02:00"
+    links:
+      - "https://fraumayer.at/event/haertel-wascher-duo-and-friends-organic-dancefloor-9/"
+    start: "2024-04-24T19:30:00+02:00"
+    end: "2024-04-24T22:00:00+02:00"
     country: Austria
     city: Vienna
     styles:
@@ -80786,9 +80800,10 @@ events:
     organisation: Simon Wascher
     source: events/austria/vienna-organic-dancefloor.yaml
   - name: Organic Dancefloor
-    links: []
-    start: "2024-05-29T22:00:00+02:00"
-    end: "2024-05-29T23:30:00+02:00"
+    links:
+      - "https://fraumayer.at/event/haertel-wascher-duo-and-friends-organic-dancefloor-11/"
+    start: "2024-05-29T19:30:00+02:00"
+    end: "2024-05-29T22:00:00+02:00"
     country: Austria
     city: Vienna
     styles:
@@ -80878,6 +80893,38 @@ events:
       - "https://www.facebook.com/events/324129500406256"
     start: "2024-01-12T19:00:00+01:00"
     end: "2024-01-12T23:00:00+01:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: donation
+    organisation: MuwiFolxTanz
+    source: events/austria/vienna-muwifolxtanz.yaml
+  - name: MuwiFolxTanz Vol.21
+    details: Folk dance at the university. Open stage. May also contain other folk styles.
+    links:
+      - "https://www.facebook.com/events/962732828540911/"
+      - "https://tradivarium.at/event/2024-04-12-190000-to-2024-04-12-230000/muwifolxtanz-vol-21"
+    start: "2024-04-12T19:00:00+02:00"
+    end: "2024-04-12T23:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: donation
+    organisation: MuwiFolxTanz
+    source: events/austria/vienna-muwifolxtanz.yaml
+  - name: MuwiFolxTanz Vol.22
+    details: Folk dance at the university. Open stage. May also contain other folk styles.
+    links:
+      - "https://www.facebook.com/events/1484343365847229"
+      - "https://tradivarium.at/event/2024-05-03-190000-to-2024-05-03-230000/muwifolxtanz-vol-22"
+    start: "2024-05-03T19:00:00+02:00"
+    end: "2024-05-03T23:00:00+02:00"
     country: Austria
     city: Vienna
     styles:
@@ -81337,6 +81384,7 @@ events:
     social: true
     bands:
       - Marinette Bonnert
+      - Jamie & Irma
     price: €10-€14
     organisation: Manu & Steffi
     source: events/austria/vienna-fta.yaml
@@ -81351,6 +81399,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Trio Toxico
     price: €10-€14
     organisation: Manu & Steffi
     source: events/austria/vienna-fta.yaml
@@ -81371,7 +81421,8 @@ events:
     organisation: Manu & Steffi
     source: events/austria/vienna-fta.yaml
   - name: FolkTanz-Abend
-    links: []
+    links:
+      - "https://www.facebook.com/events/2112348462477216/"
     start: "2024-05-12T16:00:00+02:00"
     end: "2024-05-12T22:30:00+02:00"
     country: Austria
@@ -81382,6 +81433,39 @@ events:
     social: true
     bands:
       - Johannes Schwarz & Anna Breger
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/788243876506547/"
+    start: "2024-06-09T16:00:00+02:00"
+    end: "2024-06-09T22:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Johannes Schwarz & Wanda Leben
+      - Wanda Leben & Simone Singh-Sondi
+    price: €10-€14
+    organisation: Manu & Steffi
+    source: events/austria/vienna-fta.yaml
+  - name: FolkTanz-Abend
+    links:
+      - "https://www.facebook.com/events/2112348462477216/"
+    start: "2024-09-08T16:00:00+02:00"
+    end: "2024-09-08T22:30:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Edentia
     price: €10-€14
     organisation: Manu & Steffi
     source: events/austria/vienna-fta.yaml
@@ -81920,6 +82004,20 @@ events:
     workshop: true
     social: false
     price: €60
+    organisation: Judith Benkö
+    source: events/austria/vienna-judith.yaml
+  - name: Polska-Grundlagen
+    links:
+      - "https://cloud.zwirbeltier.at/index.php/s/d6NtnXgPL8ZTY3f/download/2024-05-05-Polska-Grundlagen.pdf"
+    start: "2023-05-05T10:00:00+02:00"
+    end: "2023-05-05T16:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: €40-€60
     organisation: Judith Benkö
     source: events/austria/vienna-judith.yaml
   - name: Balfolk Monday Night
