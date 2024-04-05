@@ -6395,22 +6395,6 @@ events:
     bands:
       - Viorel
     organisation: ~
-  - name: Blowzabella workshop festival
-    details: Ball
-    links:
-      - "https://blowzabella.co.uk/event/4952511/628547327/blowzabella-workshop-festival-2023-dranouter-centrum-belgie-belgique"
-      - "https://www.muziekcentrumdranouter.be/en/node/1277"
-    start: 2024-10-04T20:30:00+02:00
-    end: 2024-10-06T17:30:00+01:00
-    country: Belgium
-    city: Dranouter
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Blowzabella
-    organisation: ~
   - name: Folkbal
     details: Ball
     links:
@@ -6643,7 +6627,7 @@ events:
     social: true
     bands:
       - Wouter en de Draak
-      - Rond De Sorcières
+      - Rond de Sorcière
     organisation: Folknam Musique Trad
   - name: Folkbal
     details: Ball
@@ -13327,14 +13311,26 @@ events:
       - Findus
       - Tout Bout D'chants
     organisation: ~
-  - name: Folkbal
+  - name: Balfolk at Cinex
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://www.folknammusiquetrad.be/"
+      - "https://www.folknammusiquetrad.be/event/bal-folk-au-cinex-2/"
       - "https://folkbalbende.be/event/2083"
-    start_date: 2024-10-04
-    end_date: 2024-10-04
+    start: 2024-10-04T20:15:00+02:00
+    end: 2024-10-04T23:59:00+02:00
+    country: Belgium
+    city: Namur
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Folknam Musique Trad
+  - name: Balfolk at Cinex
+    details: Ball
+    links:
+      - "https://www.folknammusiquetrad.be/event/bal-folk-au-cinex-3/"
+    start: 2024-11-01T20:15:00+01:00
+    end: 2024-11-01T23:59:00+01:00
     country: Belgium
     city: Namur
     styles:
@@ -13493,7 +13489,7 @@ events:
       - Bamako Express
     price: €10
     organisation: ~
-  - name: Bal De La Cabane Du Bout Du
+  - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -13507,11 +13503,10 @@ events:
     workshop: true
     social: true
     bands:
-      - Monde
       - Flic Flac Folk
     price: €10
     organisation: ~
-  - name: Bal De La Cabane Du Bout Du
+  - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -13529,7 +13524,7 @@ events:
       - "Tout Bout D'chants"
     price: €10
     organisation: ~
-  - name: Bal De La Cabane Du Bout Du
+  - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -13544,26 +13539,10 @@ events:
     workshop: true
     social: true
     bands:
-      - Monde
       - Caminarem
     price: €10
     organisation: ~
-  - name: Boombal Festival
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.boombalfestival.be/"
-      - "https://folkbalbende.be/event/2100"
-    start_date: 2024-08-22
-    end_date: 2024-08-22
-    country: Belgium
-    city: Lovendegem
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
-  - name: Bal De La Cabane Du Bout Du
+  - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -13578,10 +13557,9 @@ events:
     workshop: true
     social: true
     bands:
-      - Monde
       - Bouton
     organisation: ~
-  - name: Bal De La Cabane Du Bout Du
+  - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -13596,7 +13574,6 @@ events:
     workshop: true
     social: true
     bands:
-      - Monde
       - Tralala Lovers
     organisation: ~
   - name: Bal De La Cabane Du Bout Du Monde
@@ -14674,21 +14651,22 @@ events:
   - name: Folk En Fête
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.facebook.com/zimboumtrad"
+      - "https://www.gerpinnes.tv/"
+      - "https://www.facebook.com/events/767058248175789/"
       - "https://folkbalbende.be/event/2198"
-    start_date: 2024-04-06
-    end_date: 2024-04-06
+    start: 2024-04-06T14:00:00+02:00
+    end: 2024-04-06T23:50:00+02:00
     country: Belgium
     city: Gerpinnes
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - "Zim Boum Trad'"
-      - Bal Pour Tous - Calamalys
-      - Rond De Sorcieres
+      - Calamalys
+      - Rond de Sorcière
+    price: €12-€37
     organisation: ~
   - name: Folkdansles
     details: Course
@@ -14703,20 +14681,24 @@ events:
     workshop: true
     social: false
     organisation: ~
-  - name: Folkbal
+  - name: Folk voor Volk
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://www.facebook.com/dagenvandehuismuziek"
+      - "https://www.facebook.com/events/927276971855218/"
       - "https://folkbalbende.be/event/2200"
-    start_date: 2024-04-20
-    end_date: 2024-04-20
+    start: 2024-04-20T17:00:00+02:00
+    end: 2024-04-20T22:30:00+02:00
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - DVDH Folkband
+      - Marasc
+      - Cardboard Cabin
+    price: €15-€20
     organisation: ~
   - name: Volksdansbal
     details: Ball
@@ -14735,11 +14717,11 @@ events:
     bands:
       - Lieven Lepeer & Amis
     organisation: ~
-  - name: DUO BOTTASSO (Italie)
+  - name: Concert
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.tey.be/"
+      - "https://tey.be/programma/2024/05/03/duo-bottasso"
+      - "https://www.facebook.com/events/1305799896753687/"
       - "https://folkbalbende.be/event/2202"
     start_date: 2024-05-03
     end_date: 2024-05-03
@@ -14749,15 +14731,16 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Duo Bottasso
     organisation: "Muziekclub 't Ey"
-  - name: Folkbal
+  - name: Bal @ Cellule
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://frissefolk.be/fr/civicrm/event/register/?id=952&reset=1"
+      - "https://frissefolk.be/en/event-en/bal-kv-express-cellule/952/"
       - "https://folkbalbende.be/event/2203"
-    start_date: 2024-05-24
-    end_date: 2024-05-24
+    start: 2024-05-24T20:00:00+02:00
+    end: 2024-05-25T01:00:00+02:00
     country: Belgium
     city: Brussels
     styles:
@@ -14765,16 +14748,16 @@ events:
     workshop: false
     social: true
     bands:
-      - Duo Kv Express
+      - KV Express
     organisation: Frisse Folk Vzw/asbl
   - name: Gooikoorts
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.gooikoorts.be"
+      - "http://www.gooikoorts.be/"
+      - "https://www.facebook.com/events/922383716232144/"
       - "https://folkbalbende.be/event/2204"
-    start_date: 2024-07-06
-    end_date: 2024-07-06
+    start: 2024-07-05T19:00:00+02:00
+    end: 2024-07-07T23:45:00+02:00
     country: Belgium
     city: Gooik
     styles:
@@ -14782,9 +14765,10 @@ events:
     workshop: false
     social: true
     bands:
-      - Entre Autres
+      - Geronimo
       - Boreas
-    organisation: ~
+      - Variomatic
+    organisation: Gooikoorts Folkfestival
   - name: Zilleghem Folk
     details: Ball
     links:
@@ -14802,20 +14786,22 @@ events:
     bands:
       - "Donder In 't Hooi"
     organisation: ~
-  - name: BLOWZABELLA (Grande-Bretagne)
+  - name: Blowzabella workshop festival
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.dranoutercentrum.be"
+      - "https://blowzabella.co.uk/event/4952511/628547327/blowzabella-workshop-festival-2023-dranouter-centrum-belgie-belgique"
+      - "https://www.muziekcentrumdranouter.be/en/node/1277"
       - "https://folkbalbende.be/event/2206"
-    start_date: 2024-10-05
-    end_date: 2024-10-05
+    start: 2024-10-04T20:30:00+02:00
+    end: 2024-10-06T17:30:00+01:00
     country: Belgium
     city: Dranouter
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Blowzabella
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -14823,8 +14809,8 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.donderinthooi.be/"
       - "https://folkbalbende.be/event/2207"
-    start_date: 2024-10-19
-    end_date: 2024-10-19
+    start: 2024-10-19T18:00:00+02:00
+    end: 2024-10-19T20:00:00+02:00
     country: Belgium
     city: Bekegem
     styles:
@@ -14840,8 +14826,8 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.donderinthooi.be/"
       - "https://folkbalbende.be/event/2208"
-    start_date: 2024-10-26
-    end_date: 2024-10-26
+    start: 2024-10-26T20:00:00+02:00
+    end: 2024-10-26T22:00:00+02:00
     country: Belgium
     city: Aalter
     styles:
@@ -14854,7 +14840,7 @@ events:
   - name: Bal Tropical
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Bal Tropical/986/"
+      - "https://frissefolk.be/en/event-en/bal-tropical/986/"
       - "https://folkbalbende.be/event/2210"
     start: "2024-06-25T19:30:00+02:00"
     end: "2024-06-25T22:30:00+02:00"
@@ -14867,29 +14853,3 @@ events:
     bands:
       - Ensemble Folk De Muziekpublique
     organisation: Frisse Folk Vzw/asbl
-  - name: Waltz Wonderland Weekend With Alena Bialova
-    details: Course
-    links:
-      - "https://folkbalbende.be/event/2211"
-    start: "2024-04-27T10:00:00+02:00"
-    end: "2024-04-27T18:00:00+02:00"
-    country: Belgium
-    city: Holsbeek
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    organisation: ~
-  - name: Waltz Wonderland Weekend With Alena Bialova
-    details: Course
-    links:
-      - "https://folkbalbende.be/event/2211"
-    start: "2024-04-28T10:00:00+02:00"
-    end: "2024-04-28T18:00:00+02:00"
-    country: Belgium
-    city: Holsbeek
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    organisation: ~
