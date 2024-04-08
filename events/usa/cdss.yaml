@@ -7374,7 +7374,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/english-country-dance-asheville-nc-3/2024-04-10/"
-    start: "2024-04-10T19:00:00-04:00"
+    start: "2024-04-10T18:40:00-04:00"
     end: "2024-04-10T21:00:00-04:00"
     country: USA
     state: NC
@@ -7385,7 +7385,7 @@ events:
     social: true
     organisation: Luanne Stiles
   - name: English Country Dance at Guiding Star Grange
-    details: "Join us in Greenfield for an evening of English Country Dancing. Lively, elegant, and fun: English country dances from 1650 to today, with a rotating cast of stellar musicians and callers.   \nCost: $10-$20, sliding scale. \nSee venue website for this month’s details and Covid policy."
+    details: "Join us in Greenfield for an evening of English Country Dancing. Lively, elegant, and fun: English country dances from 1650 to today, with a rotating cast of stellar musicians and callers.  \nCost: $10-$20, sliding scale. \nSee venue website for this month’s details and Covid policy."
     links:
       - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/second-fourth-wednesday-english-country-dance-at-guiding-star-grange/2024-04-10/"
@@ -7435,6 +7435,7 @@ events:
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-200/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-04-11/"
     start: "2024-04-11T19:30:00-04:00"
     end: "2024-04-11T22:30:00-04:00"
@@ -7445,10 +7446,16 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Ostara
+    callers:
+      - Margaret Mathews
+    price: $5-$10
     organisation: Country Dancers of Rochester
-  - name: "Call of the Loon - Contra Dance Weekend, Minneapolis, MN"
+  - name: Call of the Loon
     details: "Welcome Spring Back To Minnesota! Tapestry Folkdance Center invites you to the 11th Annual Call of the Loon – Contra Dance Weekend! \nJoin us and a fabulous line-up of talent with live music from Stringrays and Northern Aire, and dynamic callers Will Mentor and Ted Hodapp! \nIt’s a fun weekend featuring an active schedule and many dancing opportunities. Visit our website for online registration and more information!"
     links:
+      - "https://www.tapestryfolkdance.org/call-of-the-loon.html"
       - "https://cdss.org/event/call-of-the-loon-contra-dance-weekend-minneapolis-mn/"
     start_date: 2024-04-12
     end_date: 2024-04-14
@@ -7457,43 +7464,57 @@ events:
     city: Minneapolis
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Stringrays
+      - Northern Aire
     callers:
       - Will Mentor
+      - Ted Hodapp
     organisation: Tapestry Folkdance Center
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley English Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://bacds.org/series/english/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-04-11/"
-    start: "2024-04-11T20:00:00-07:00"
-    end: "2024-04-11T22:30:00-07:00"
+    start: "2024-04-11T19:15:00-07:00"
+    end: "2024-04-11T22:00:00-07:00"
     country: USA
     state: CA
     city: Berkeley
     styles:
-      - contra
       - ecd
     workshop: true
     social: true
+    price: $6-$25
     organisation: CDSS
   - name: Queer Contra Dance Camp
     details: Queer Contra Dance Camp is a queer-normative contra dance weekend in the California redwoods with incredible talent and an enthusiastic and friendly community.
     links:
+      - "https://www.queercontradance.org/queercamp.html"
       - "https://cdss.org/event/queer-contra-dance-camp/2024-04-12/"
-    start: "2024-04-12T18:00:00-04:00"
-    end: "2024-04-14T15:00:00-04:00"
+    start: "2024-04-12T18:00:00-07:00"
+    end: "2024-04-14T15:00:00-07:00"
     country: USA
     state: CA
     city: Aptos
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Nimbus
+      - River Road
+    callers:
+      - Andy Shore
+      - Isaac Banner
+    price: $125-$500
     organisation: San Francisco Bay Queer Contra Dance
   - name: English Country Dance
     details: "Musicians: Will Patton (mandolin) and Larks in the Attic (Pam Bockes – guitar, Susan Reid – violin, Linda Young – harp). \nCallers: Barrett Grimm, Val Medve. \nFirst half hour (6:30-7pm) is a basics/review session. \n\nNewcomers welcome! Attend on your own or with a friend/partner. Ability to walk briskly required. Casual dress. BYO water bottle & clean soft-soled shoes. Masks are optional. We use terms/words that refer to roles or positions, not gender.  \n$10-$15 sliding scale."
     links:
+      - "http://burlingtoncountrydancers.org/english-country-dance-series/"
       - "https://cdss.org/event/english-country-dance-richmond-vt/"
     start: "2024-04-12T18:30:00-04:00"
     end: "2024-04-12T21:00:00-04:00"
@@ -7502,7 +7523,7 @@ events:
     city: Richmond
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Larks in the Attic
@@ -7534,6 +7555,7 @@ events:
   - name: NexGen Contra Weekend
     details: "Three days of contra and techno contra with some waltzing and a flourishes and dips workshop! \n\nCalling by Katie Zanders & River Rainbowface\nTerminology: Larks & Robins and Positional\nMusic by Starling & Pimento Mori\nTechno DJ: Talya Raitzyk\n\nThree meals provided throughout the weekend."
     links:
+      - "https://aactmad.org/nexgen-contra"
       - "https://cdss.org/event/nexgen-contra-weekend/"
     start: "2024-04-12T19:00:00-04:00"
     end: "2024-04-14T13:30:00-04:00"
@@ -7542,29 +7564,19 @@ events:
     city: Ann Arbor
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Starling
+      - Pimento Mori
+    callers:
+      - Katie Zanders
+      - River Rainbowface
     organisation: AACTMAD
-  - name: Second Friday Bread & Roses Fusion Dance at Guiding Star Grange
-    details: "Bread & Roses is a monthly fusion dance committed to collective liberation and interdependence. Please read our Statement of Values and Code of Conduct before attending. \nPlease check the Guiding Star Grange website for details. \nSchedule: Please arrive by 7:00. \nCost: $5-20 sliding scale \nSee venue website for this month’s details and Covid policy."
-    links:
-      - "https://cdss.org/event/second-friday-bread-roses-fusion-dance-at-guiding-star-grange/2024-04-12/"
-    start: "2024-04-12T19:00:00-04:00"
-    end: "2024-04-12T22:00:00-04:00"
-    country: USA
-    state: MA
-    city: Greenfield
-    styles:
-      - contra
-    workshop: false
-    social: true
-    price: $5
-    organisation: Bread & Roses
   - name: Springforth Ball and Dance Weekend
     details: "The Traditional American Dance and Music Society\ninvites you to the\n27th Annual Springforth Ball & Dance Weekend\nApril 12-13-14, 2024 \nFeaturing\nDrive Train\nEd Howe (fiddle)\nBennett Konesni (guitar), and\nNoah Fishman (bass, mandolin & bouzouki) \nwith Gaye Fifer calling \nJoin us for a high energy weekend of food, dance, music, and workshops."
     links:
+      - "https://tadamsva.org/springforth-2024/"
       - "https://cdss.org/event/springforth-ball-and-dance-weekend/"
     start: "2024-04-12T19:00:00-04:00"
     end: "2024-04-14T15:00:00-04:00"
@@ -7594,11 +7606,13 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Greater Orlando Contra Dance
   - name: Cabot Community Contra Dance
     details: "Small monthly community contra dance with guest callers and live music by local musicians. All dances taught, no partner needed, families and beginners enthusiastically welcomed! Gender-neutral calling, short intro session for new folks at 7:15. Masks are welcomed but not required, and the large windows will be open for ventilation."
     links:
       - "https://cdss.org/event/cabot-community-contra-dance/2024-04-12/"
+      - "https://www.facebook.com/events/794818009175051/"
     start: "2024-04-12T19:30:00-04:00"
     end: "2024-04-12T22:00:00-04:00"
     country: USA
@@ -7608,6 +7622,9 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Luke Donforth
+    price: $5-$10
     organisation: Cabot Community Dance
   - name: ContraATL Weekly Dance
     details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
@@ -7623,6 +7640,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Dover New England Country Dance
     details: "Traditional New England dance with mostly contras, some squares, circles, couple dances, and occasional English or Scottish dances. No partner nor experience needed, the dances will be taught and called. An introductory session is held at 7:30 to explain the basics."
@@ -7643,7 +7661,7 @@ events:
     links:
       - "https://fsgw.org/Friday-contra-square-dance"
       - "https://cdss.org/event/friday-night-contra-square-dance/2024-04-12/"
-    start: "2024-04-12T20:00:00-04:00"
+    start: "2024-04-12T19:30:00-04:00"
     end: "2024-04-12T23:00:00-04:00"
     country: USA
     state: MD
@@ -7652,13 +7670,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Folklore Society of Greater Washington
   - name: Denver Contra Dance
     details: "The Denver community contra dance is held on the 2nd Friday of each month. There is a lesson from 7 to 7:30; and dance from 7:30 to 10:30. For more details, see our website."
     links:
       - "https://www.cfootmad.org/"
       - "https://cdss.org/event/denver-contra-dance/2024-04-12/"
-    start: "2024-04-12T19:30:00-06:00"
+    start: "2024-04-12T19:00:00-06:00"
     end: "2024-04-12T22:30:00-06:00"
     country: USA
     state: CO
@@ -7667,6 +7686,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $8-$15
     organisation: Colorado Friends of Old Time Music and Dance
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
@@ -7686,6 +7706,7 @@ events:
   - name: New York Playford Ball
     details: "This year’s New York Playford Ball’s emcees, Paul Ross and Daniel Popowich, are delighted to invite you to an evening of outstanding music and an enticing program nicely balanced between modern and historical selections. This year being the 50th anniversary of Pat Shaw’s visit to the US, we are particularly pleased to note the inclusion of three of Pat’s classics: Miss de Jersey’s Memorial, Mr Ganiford’s Maggot, and Long Pond. Music by Cynthia Shaw, piano; Eric Martin, violin and viola; and Gene Murrow, concertina and recorders, will lift our spirits and enliven our steps. \nAn afternoon practice from 2-4PM is followed by a dinner break, with the Ball itself running from 7-11PM. Registration is now open. Pack your festive finery, and please do join us for this premier event! \n$40 ($22 full-time students)"
     links:
+      - "https://cdny.org/cdny-playford-ball-2024/"
       - "https://cdss.org/event/new-york-playford-ball/"
     start: "2024-04-13T14:00:00-04:00"
     end: "2024-04-13T23:00:00-04:00"
@@ -7703,6 +7724,7 @@ events:
   - name: Vancouver English Country Dance Ball
     details: "Join us for a weekend of English Country Dancing, led by Joanna Reiner Wilkinson, with music by Wergleyberg (Dave Bartley, Claude Ginsburg & Terry Wergeland) in the dance hall of the Scottish Cultural Centre in South Vancouver. A pre-ball workshop will be held from 12:30–3:00pm, followed by the ECD Ball from 7:00–11:00pm. \n$75 CAD, $60 US."
     links:
+      - "https://www.vcn.bc.ca/vanecd/index-ball.html"
       - "https://cdss.org/event/vancouver-english-country-dance-ball/"
     start: "2024-04-13T12:30:00-07:00"
     end: "2024-04-13T23:00:00-07:00"
@@ -7715,5 +7737,5 @@ events:
     social: true
     callers:
       - Joanna Reiner Wilkinson
-    price: $60-$75
+    price: $75
     organisation: Vancouver ECD
