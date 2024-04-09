@@ -74868,9 +74868,9 @@ events:
     source: events/usa/trycontra.yaml
   - name: Dancing Fish
     links:
-      - "https://dancingfish.dance/"
-    start_date: 2024-09-06
-    end_date: 2024-09-07
+      - "https://dancingfish.dance/event/sept-6-7-2024-kingfisher/"
+    start: "2024-09-06T19:00:00-04:00"
+    end: "2024-09-07T21:00:00-04:00"
     country: USA
     state: FL
     city: Melrose
@@ -74915,9 +74915,9 @@ events:
     workshop: true
     social: true
     bands:
-      - Boys of the Noise
+      - Hillbilly Diaspora
     callers:
-      - Bev Bernbaum
+      - Alex Deis-Lauby
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Echo Summit
@@ -74938,6 +74938,26 @@ events:
     callers:
       - Jessee Edgarton
       - Wendy Graham
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Youth Dance Weekend
+    links:
+      - "http://youthdanceweekend.org/"
+    start_date: 2024-09-06
+    end_date: 2024-09-08
+    country: USA
+    state: VT
+    city: Weston
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Calico
+    callers:
+      - Alex Deis-Lauby
+      - Lindsey Dono
+    price: $105-$285
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Adirondack Dance Weekend
@@ -87468,8 +87488,8 @@ events:
       - Stringrays
       - Northern Aire
     callers:
-      - Will Mentor
       - Ted Hodapp
+      - Will Mentor
     organisation: Tapestry Folkdance Center
     source: events/usa/cdss.yaml
   - name: Berkeley English Dance
@@ -87570,8 +87590,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Starling
       - Pimento Mori
+      - Starling
     callers:
       - Katie Zanders
       - River Rainbowface
@@ -87748,10 +87768,45 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Wergleyberg
     callers:
       - Joanna Reiner Wilkinson
     price: $75
     organisation: Vancouver ECD
+    source: events/usa/cdss.yaml
+  - name: NACDS Contra Dance
+    details: "We meet in the gym at Faith Presbyterian Church (corner of Airport & Whitesburg), on the 2nd and 4th Saturdays of the month. Park along Airport because we enter the gym on that side.   \nYou need to be there by 6:30pm for the Newcomers Workshop. Dance is 7-10pm. \nYou will need soft-soled shoes (sneakers are okay). We don’t want to hurt the gym floor. Clothing—be prepared to sweat. You do not need a partner. Bring a resealable container of water. \n$15 non-members."
+    links:
+      - "https://cdss.org/event/north-alabama-country-dance-society-nacds-contra-dance/2024-04-13/"
+    start: "2024-04-13T18:30:00-04:00"
+    end: "2024-04-13T22:00:00-04:00"
+    country: USA
+    state: AL
+    city: Huntsville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: San Luis Obispo Monthly Contra Dance
+    details: "Live music and gender-neutral calling at the monthly contra dance in San Luis Obispo, CA. Dances are monthly on the 2nd Saturday. 6:30 lesson, dancing until 9:30."
+    links:
+      - "https://www.cccds.org/schedule/"
+      - "https://cdss.org/event/san-luis-obispo-monthly-contra-dance/2024-04-13/"
+    start: "2024-04-13T18:30:00-07:00"
+    end: "2024-04-13T21:30:00-07:00"
+    country: USA
+    state: CA
+    city: San Luis Obispo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10
+    organisation: Central Coast Country Dance Society
     source: events/usa/cdss.yaml
   - name: 24th Annual Autumn Harvest Ball
     links:
