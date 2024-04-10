@@ -7771,32 +7771,11 @@ events:
     workshop: true
     social: true
     bands:
-      - Big Fun
-      - Brook Farm String Band
-      - Liberty String Band
-      - River Music
       - "Smith, Campeau & Nelson"
     callers:
-      - Darlene Underwood
       - Ken Gall
-      - Maeve Devlin
-      - Marlin Whitaker
     price: $5-$20
     organisation: CDSS
-  - name: Zesty Contra Dance
-    details: The Zesty contra dance is for dancers with some experience with dancing. There is no lesson before the dance; and easier dances may be called with no walk through.
-    links:
-      - "https://cdss.org/event/zesty-contra-dance/2024-04-13/"
-    start: "2024-04-13T19:00:00-06:00"
-    end: "2024-04-13T22:00:00-06:00"
-    country: USA
-    state: CO
-    city: Boulder
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Colorado Friends of Old Time Music and Dance
   - name: San Luis Obispo Monthly Contra Dance
     details: "Live music and gender-neutral calling at the monthly contra dance in San Luis Obispo, CA. Dances are monthly on the 2nd Saturday. 6:30 lesson, dancing until 9:30."
     links:
@@ -7816,6 +7795,7 @@ events:
   - name: 2nd Saturdays Contra Dance
     details: "Covid precautions are suspended indefinitely! We will continue to monitor potential exposures at PCDC events and adjust policies as needed. Refer to the PCDC Covid policy for details. \n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5436"
       - "https://cdss.org/event/portland-country-dance-community-2nd-saturdays-contra-dance/2024-04-13/"
     start: "2024-04-13T19:00:00-07:00"
     end: "2024-04-13T22:30:00-07:00"
@@ -7826,6 +7806,11 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Contra Quartet
+    callers:
+      - Kelly Tabor
+    price: $6-$20
     organisation: CDSS
   - name: Sacramento Contra Dance
     details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $12 for adults; $8 for college students with ID; $5 for dancers under 18; $25 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
@@ -7841,5 +7826,5 @@ events:
       - contra
     workshop: false
     social: true
-    price: $5-$25
+    price: $5-$12
     organisation: Sacramento Country Dance Society
