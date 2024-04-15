@@ -7033,7 +7033,7 @@ events:
     city: Newmarket
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     organisation: York Region English Country Dancers
   - name: English Dance S.A.
@@ -8314,7 +8314,7 @@ events:
     city: Newmarket
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     organisation: York Region English Country Dancers
   - name: Southern Illinois Community Contra Dance
@@ -8346,13 +8346,14 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5-$10
     organisation: The Carolina English Country Dancers
   - name: Lancaster Contra Dance
     details: "All ages are welcome! Bring the whole family, or come on your own! No partner or prior dance experience necessary! \nBringing a water bottle is encouraged. \nCost: sliding scale $12-20+ cash only. Children 13 or younger dance FREE! \nA practice lesson is included in admission and takes place at 6:15pm before each dance. If you can count to 4 and walk, you can do this dance! \nSee our website for details and information about location, live musicians, and other dances in south central PA."
     links:
       - "https://lancastercontra.org/"
       - "https://cdss.org/event/lancaster-pa-contra-dance-3/"
-    start: "2024-04-20T19:00:00-04:00"
+    start: "2024-04-20T18:15:00-04:00"
     end: "2024-04-20T22:00:00-04:00"
     country: USA
     state: PA
@@ -8361,7 +8362,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    price: $12-$20
     organisation: Lancaster Contra Dance
   - name: Ottawa Contra Dance
     details: "Join Ottawa Contra Dance every 1st and 3rd Saturday, September – June. Dances are called using Larks and Robins. Admission by sliding scale."
@@ -8377,6 +8378,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $10-$25
     organisation: Ottawa Contra Dance
   - name: Contra at Guiding Star Grange
     details: "The Moving Violations are: Van Kaynor (fiddle, feet), Ron Grosslein (fiddle, mandolin, percussion), and Eric Eid-Reiner (piano). Caller varies each month; please check the Guiding Star Grange website for details. \nSchedule: Newcomers workshop 7:30-8:00 p.m. Contra dance 8:00-11:00 p.m. \nCost: $12-20 sliding scale ($10 for students and children, $8 for under 13) at the door. \nCalling terms: Gender-neutral terms (usually larks and robins) are used at the 3rd Saturday dance. \nThere is no preregistration or verified dancer list for the 3rd Sat. dance. There is also no attendance cap. \nSee venue website for this month’s details and Covid policy."
@@ -8394,11 +8396,12 @@ events:
     social: true
     bands:
       - The Moving Violations
-    price: $8-$12
+    price: $8-$20
     organisation: Van Kaynor
   - name: Lawrence Barn Dance Association Contra Dance
     details: Lisa Harris-Frydman is calling to the music of The Campeau Creek Boys.
     links:
+      - "https://lawrencecontra.wordpress.com/calendar/"
       - "https://cdss.org/event/lawrence-barn-dance-association-contra-dance/"
     start: "2024-04-20T19:00:00-05:00"
     end: "2024-04-20T22:00:00-05:00"
@@ -8407,8 +8410,13 @@ events:
     city: Lawrence
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - The Campeau Creek Boys
+    callers:
+      - Lisa Harris-Frydman
+    price: $5-$15
     organisation: Lawrence Barn Dance Association
   - name: Contra Dance
     details: Monthly Contra Dance
@@ -8424,12 +8432,14 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \nLessons at 6:40; dance starts at 7 PM. \n​Prices: \n\n$12 General\n​$10 Members of MCDC, BACDS, CDSS or other sister organizations\n$5 active military & full-time students, with ID\nFREE! for children 12 & under ​"
     links:
+      - "https://montereycontradance.org/index.html"
       - "https://cdss.org/event/monterey-contra-dance/2024-04-20/"
-    start: "2024-04-20T19:00:00-07:00"
+    start: "2024-04-20T18:40:00-07:00"
     end: "2024-04-20T22:00:00-07:00"
     country: USA
     state: CA
