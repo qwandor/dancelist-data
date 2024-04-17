@@ -20826,16 +20826,16 @@ events:
     organisation: Spreefolk eV
     source: events/germany/spreefolk.yaml
   - name: TANZhaus WABE
-    details: "20:00 Uhr – BalFolk\nEintritt: 24 Euro regulär, 15 Euro ermäßigt *\nCopyright: Naragonia\nDas Naragonia Quartet spielt für uns wundervolle, energiegeladene Balfolkmusik zum Tanzen und Zuhören. Toon van Mierlo und Pascale Rubens werden von Luc Pilartz und Maarten Decombel (Snaarmaarwaar) begleitet und sie verzaubern ihr Publikum mit ihrem mitreißenden Spiel.\n \nToon van Mierlo: Akkordeon, Dudelsack, Klarinette\nPascale Rubens: Akkordeon, Geige\nLuc Pilartz: Geige\nMaarten Decombel: Gitarre, Mandoline\n\nWebsite Naragonia\n \n*Ermäßigung mit Nachweis: SchülerInnen, StudentInnen, Auszubildende, Berechtigungsnachweis für das Berlin-Ticket S, Schwerbeschädigte ab 50 %\nSeit Neuestem haben wir im Vorverkauf ein erweitertes Preiskonzept, bitte schaut Euch das gerne mal an. Einige Preisstufen sind nur im Vorverkauf verfügbar."
+    details: "19:00 Uhr – Tanzeinführungsworkshop mit Jolika\n20:00 Uhr – BalFolk\nEintritt: 24 Euro regulär, 15 Euro ermäßigt *\nCopyright: Naragonia\nDas Naragonia Quartet spielt für uns wundervolle, energiegeladene Balfolkmusik zum Tanzen und Zuhören. Toon van Mierlo und Pascale Rubens werden von Luc Pilartz und Maarten Decombel (Snaarmaarwaar) begleitet und sie verzaubern ihr Publikum mit ihrem mitreißenden Spiel.\n \nToon van Mierlo: Akkordeon, Dudelsack, Klarinette\nPascale Rubens: Akkordeon, Geige\nLuc Pilartz: Geige\nMaarten Decombel: Gitarre, Mandoline\n\nWebsite Naragonia\n \n*Ermäßigung mit Nachweis: SchülerInnen, StudentInnen, Auszubildende, Berechtigungsnachweis für das Berlin-Ticket S, Schwerbeschädigte ab 50 %\nSeit Neuestem haben wir im Vorverkauf ein erweitertes Preiskonzept, bitte schaut Euch das gerne mal an. Einige Preisstufen sind nur im Vorverkauf verfügbar."
     links:
       - "https://spreefolk.de/events/wabe2405"
-    start: "2024-05-17T20:00:00+02:00"
+    start: "2024-05-17T19:00:00+02:00"
     end: "2024-05-17T23:00:00+02:00"
     country: Germany
     city: Berlin
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Naragonia Quartet
@@ -20856,6 +20856,24 @@ events:
     social: true
     bands:
       - Bourrée Party Crackers
+    organisation: Spreefolk eV
+    source: events/germany/spreefolk.yaml
+  - name: Haus der Sinne
+    details: "Balfolk live: TRIOBLIQUE (Italy/France) ( https://hausdersinne-berlin.de/event/balfolk-live-trioblique-italy-france/ )"
+    links:
+      - "https://hausdersinne-berlin.de/event/balfolk-live-trioblique-italy-france/"
+      - "https://spreefolk.de/events/2024-05-hds"
+    start: "2024-05-29T20:00:00+02:00"
+    end: "2024-05-29T22:30:00+02:00"
+    country: Germany
+    city: Berlin
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - TriOblique
+    price: €12-€15
     organisation: Spreefolk eV
     source: events/germany/spreefolk.yaml
   - name: TANZhaus WABE
@@ -52289,8 +52307,8 @@ events:
     price: €22.50-€30
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
-  - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
+  - name: Verjaardagsbal Paul en Dennis
+    details: "'Lieve mensen! Dinsdag 21 mei willen wij, Dennis en Paul onze verjaardag vieren bij Balfolk Zeist. Voor die avond hebben we de band Flos uitgenodigd om te komen spelen. Omdat wij Legovrienden zijn zullen we een Lego tintje verzorgen. Als jij daar aan mee wilt doen in de vorm van verkleden of andere attributen is dat extra mooi, maar we vinden het vooral leuk als je er bent.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-05-21/"
     start: "2024-05-21T19:30:00+02:00"
@@ -52301,6 +52319,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Flos
     price: €5
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
@@ -52396,6 +52416,23 @@ events:
     workshop: true
     social: true
     price: €6
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Verjaardagsbal Laura en Arjen
+    details: "Hoi! Wij, Arjen en Laura, zijn jarig en daar hoort natuurlijk een feestje bij! Op vrijdag 31 mei hebben we PFM! uitgenodigd om bij Balfolk Zeist te komen spelen. Komen jullie een dansje wagen? Liefs, Laura en Arjen\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
+    links:
+      - "https://www.balfolk.nl/agenda/verjaardagsbal-laura-en-arjen/"
+    start: "2024-05-31T19:30:00+02:00"
+    end: "2024-05-31T23:00:00+02:00"
+    country: Netherlands
+    city: Zeist
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - PFM!
+    price: €5
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Zomerbal 2024 in Leiden
@@ -82960,6 +82997,23 @@ events:
     price: $8-$20
     organisation: Van Kaynor
     source: events/usa/cdss.yaml
+  - name: Montpelier Contra Dance
+    details: "Montpelier Contra Dance with callers and bands that perform regionally and nationally—see website or Facebook events\nBeginners, singles, and all ages are welcome; all dances are taught.\nGender-neutral role terms (Larks and Robins)\nNewcomers lesson 7:40 pm. Dancing 8-11pm.\nPlease bring clean soft-soled shoes.\nMasks optional / Excellent ventilation with open windows and ceiling exhaust fan (bring a sweater in cooler months)\nMore info at our website. \n$12 adults, $5 kids/low-income, $20 dance supporters.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDancing 1st, 3rd, and 5th Saturdays year round"
+    links:
+      - "https://capitalcitygrange.org/dancing/contradancing/"
+      - "https://cdss.org/event/montpelier-contra-dance/2024-04-20/"
+    start: "2024-04-20T19:40:00-04:00"
+    end: "2024-04-20T23:00:00-04:00"
+    country: USA
+    state: VT
+    city: Berlin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$20
+    organisation: Montpelier Contra Dance
+    source: events/usa/cdss.yaml
   - name: Lawrence Barn Dance Association Contra Dance
     details: Lisa Harris-Frydman is calling to the music of The Campeau Creek Boys.
     links:
@@ -83014,6 +83068,75 @@ events:
     social: true
     price: $5-$12
     organisation: Monterey Country Dance Community
+    source: events/usa/cdss.yaml
+  - name: Brownsville English Country Dance
+    details: "Brownsville ECD is held in the Town Hall of West Windsor (Brownsville), Vermont. \n\n1:00 Dances for more experienced dancers*\n1:45 Beginners introduction to terms and movements – Everyone welcome!\n2:00 General Dance – Everyone welcome!\n\nPotluck snack table. Enjoy. \n\nGeneral admission – $10\nFirst Time Dancers – FREE\nUnder 15 – FREE\n\n* These dancers will need to know different types of heys, mirror B2B, poussettes and other basic figures without teaching the movements."
+    links:
+      - "https://cdss.org/event/brownsville-english-country-dance/2024-04-21/"
+    start: "2024-04-21T13:00:00-04:00"
+    end: "2024-04-21T16:00:00-04:00"
+    country: USA
+    state: VT
+    city: West Windsor
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Passover Contra Dance
+    details: This dance will have a live band.
+    links:
+      - "https://cdss.org/event/passover-contra-dance/"
+      - "https://www.meetup.com/bay-saint-louis-contra-dance-meetup-group/events/299861338/"
+    start: "2024-04-21T13:30:00-05:00"
+    end: "2024-04-21T16:30:00-05:00"
+    country: USA
+    state: MS
+    city: Gulfport
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Las Vegas Contra Dance
+    details: "Contra dance in Las Vegas Nevada. Non-gender calling. Live Band: 112 and Then Some"
+    links:
+      - "https://www.lasvegascontradance.org/"
+      - "https://cdss.org/event/las-vegas-contra-dance-3/"
+    start: "2024-04-21T13:30:00-07:00"
+    end: "2024-04-21T16:00:00-07:00"
+    country: USA
+    state: NV
+    city: Las Vegas
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - 112 and Then Some
+    price: $10-$15
+    organisation: Southern Nevada Old-Time Contra Dancers (SNOCD)
+    source: events/usa/cdss.yaml
+  - name: Sacramento English Country Dance
+    details: "English Country Dance at the Young Ladies’ Institute, 1400 27th St., Sacramento! Check our website for the most current information."
+    links:
+      - "https://sactocds.wordpress.com/"
+      - "https://cdss.org/event/sacramento-english-country-dance-third-sunday/2024-04-21/"
+    start: "2024-04-21T13:30:00-07:00"
+    end: "2024-04-21T17:00:00-07:00"
+    country: USA
+    state: CA
+    city: Sacramento
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $5-$12
+    organisation: Sacramento Country Dance Society
     source: events/usa/cdss.yaml
   - name: Hey Days
     links:
