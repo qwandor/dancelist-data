@@ -16211,6 +16211,26 @@ events:
     price: donation
     organisation: Stanistil
     source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2216"
+      - "https://www.facebook.com/events/828008905821644/"
+    start: "2024-05-04T19:30:00+02:00"
+    end: "2024-05-04T22:45:00+02:00"
+    country: Belgium
+    city: Knesselare
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Folkklas Academie Aalter
+      - Le Câlin Et Le Calvin
+      - Maarten Decombel & Toon Van Mierlo
+    price: €10
+    organisation: 100%Folkoren
+    source: events/belgium/folkbalbende.yaml
   - name: Folk Festival Leuven - ComSiBal
     details: The 2nd edition of the Folk Festival Leuven.
     links:
@@ -34958,6 +34978,20 @@ events:
     source: events/uk/ceilidh_club.yaml
   - name: Ceilidh Club
     links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-17-8-24-queens-gate-house/"
+    start: "2024-08-17T20:00:00+01:00"
+    end: "2024-08-17T23:00:00+01:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £17-£23
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
+  - name: Ceilidh Club
+    links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-24-8-24-cecil-sharp-house/"
     start: "2024-08-24T20:00:00+01:00"
     end: "2024-08-24T23:00:00+01:00"
@@ -52960,6 +52994,23 @@ events:
     price: €5
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
+  - name: VAN HIER Festival
+    details: "In en rond de Culltuurboerderij in Westelbeers wordt op 25 augustus het VAN HIER Festival georganiseerd. Een evenement voor folk- en streektaalmuziek, met daarnaast een programma vol poëzie en balfolk. De eerste bevestigde balband die komt spelen is Nebel! Andere namen volgen snel.\n\n \tEarly bird: €10\n \tVoorverkoop: €15\n \tAan de kassa: €20"
+    links:
+      - "https://www.balfolk.nl/agenda/van-hier-festival/"
+    start: "2024-08-25T13:00:00+02:00"
+    end: "2024-08-25T23:00:00+02:00"
+    country: Netherlands
+    city: Westelbeers
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Nebel
+    price: €10-€20
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
@@ -53376,6 +53427,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Exqueezit
     price: €10-€15
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
@@ -53619,6 +53672,9 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Drøn
+      - Mook
     price: €10-€15
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
@@ -53694,6 +53750,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Cardboard Cabin
     price: €10-€15
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
@@ -83120,6 +83178,23 @@ events:
     price: $10
     organisation: CDSS
     source: events/usa/cdss.yaml
+  - name: 3rd Sunday English Country Dance
+    details: "HATDS ECD meets most 1st, 3rd, and 5th Sundays. All levels are welcomed at the 1st and 3rd Sundays. 5th Sunday dances are usually, but not always, for experienced dancers. The schedule sometimes changes, so check our event calendar before coming."
+    links:
+      - "https://hatds.org/ecd#hatds"
+      - "https://cdss.org/event/houston-area-traditional-dance-society-3rd-sunday-english-country-dance/2024-04-21/"
+    start: "2024-04-21T14:45:00-05:00"
+    end: "2024-04-21T17:20:00-05:00"
+    country: USA
+    state: TX
+    city: Houston
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $10
+    organisation: Houston Area Traditional Dance Society
+    source: events/usa/cdss.yaml
   - name: Las Vegas Contra Dance
     details: "Contra dance in Las Vegas Nevada. Non-gender calling. Live Band: 112 and Then Some"
     links:
@@ -83155,6 +83230,23 @@ events:
     social: true
     price: $5-$12
     organisation: Sacramento Country Dance Society
+    source: events/usa/cdss.yaml
+  - name: Sebastopol 1st and 3rd Sunday English Dance
+    details: "English country dancing runs the gamut from sublime to silly, from elegant to energetic, and the dance repertoire draws from over 350 years of material. Our series offers delectable live music and skilled callers from the Bay Area and beyond. You can come by yourself or with friends, since we change partners after each dance. If you’ve ever done contra or square dancing, much of our dance vocabulary will be familiar to you since both of those styles evolved from English country dancing. \nThe dance is held the 1st and 3rd Sundays of each month, 2-4:30 pm, to live music, all levels of experience welcome; and occasional 5th Sundays for Advanced dancers. Admission is $15 for members of NBCDS and its affiliates, $8 for young adults ages 19-30, and $3 for youth ages 6-18. Call 707-829-3478 for more information or contact kalia@nbcds.org \nNote: We sometimes need to make a venue or time change to accommodate special events. Please check the NBCDS calendar to confirm."
+    links:
+      - "https://nbcds.org/english-country-dance/"
+      - "https://cdss.org/event/sebastopol-1st-and-3rd-sunday-english-dance/2024-04-21/"
+    start: "2024-04-21T17:00:00-07:00"
+    end: "2024-04-21T19:30:00-07:00"
+    country: USA
+    state: CA
+    city: Sebastopol
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $3-$15
+    organisation: North Bay Country Dance Society
     source: events/usa/cdss.yaml
   - name: Hey Days
     links:
