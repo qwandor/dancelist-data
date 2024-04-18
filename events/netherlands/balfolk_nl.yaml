@@ -2322,6 +2322,22 @@ events:
     social: true
     price: €5
     organisation: balfolk.nl
+  - name: VAN HIER Festival
+    details: "In en rond de Culltuurboerderij in Westelbeers wordt op 25 augustus het VAN HIER Festival georganiseerd. Een evenement voor folk- en streektaalmuziek, met daarnaast een programma vol poëzie en balfolk. De eerste bevestigde balband die komt spelen is Nebel! Andere namen volgen snel.\n\n \tEarly bird: €10\n \tVoorverkoop: €15\n \tAan de kassa: €20"
+    links:
+      - "https://www.balfolk.nl/agenda/van-hier-festival/"
+    start: "2024-08-25T13:00:00+02:00"
+    end: "2024-08-25T23:00:00+02:00"
+    country: Netherlands
+    city: Westelbeers
+    styles:
+      - balfolk
+    workshop: false
+    social: false
+    bands:
+      - Nebel
+    price: €10-€20
+    organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
@@ -2712,6 +2728,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Exqueezit
     price: €10-€15
     organisation: balfolk.nl
   - name: Dansavond
@@ -2939,6 +2957,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Mook
     price: €10-€15
     organisation: balfolk.nl
   - name: Avondbal bij de Muziekstage
@@ -3009,6 +3029,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Cardboard Cabin
     price: €10-€15
     organisation: balfolk.nl
   - name: Balfolk café Nijmegen
