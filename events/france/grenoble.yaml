@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Workshop and Bal
+    links:
+      - "https://www.facebook.com/events/1449153159003876/"
+      - "https://www.facebook.com/events/910892774006541/"
+      - "https://www.helloasso.com/associations/compagnie-enezeg/evenements/stage-le-dico-des-danses-trad-et-l-art-de-les-vivre"
+    start: "2024-04-20T10:00:00+02:00"
+    end: "2024-04-21T23:30:00+02:00"
+    country: France
+    city: Grenoble
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Âmes Scellées
+    price: €100-€150
+    organisation: Compagnie Enezeg
