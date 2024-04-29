@@ -27,9 +27,25 @@ organisation. Each file may contain one or more events.
 
 ### Required fields
 
-An event must have at least a name, a start date and end date (they may be the same), a country, a
-city, at least one style, and at least one of `workshop` or `social` must be true. The first line of
+An event must have at least a name, a start and end date (they may be the same) or datetime, a country, a
+city, at least one style, and at least one of `workshop` or `social` must be true. Times should be in the
+local timezone of wherever the event is taking place, with a timezone offset included. The first line of
 the file should be a modeline referring to the [JSON schema](events_schema.json)). For example:
+
+```yaml
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Clandestine Mazurka in Northampton Square
+    start: "2022-05-13T13:00:00+01:00"
+    end: "2022-05-13T15:30:00+01:00"
+    country: UK
+    city: London
+    styles: [balfolk]
+    workshop: false
+    social: true
+```
+
+Or with just a date:
 
 ```yaml
 # yaml-language-server: $schema=../../events_schema.json
