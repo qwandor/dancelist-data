@@ -16494,6 +16494,26 @@ events:
     price: donation
     organisation: Stanistil
     source: events/belgium/folkbalbende.yaml
+  - name: Free Folkbal at Duurzaamheidsfestival
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/free-folkball-duo-clercx-with-initiation-duurzaamheidsfestival/987/"
+      - "https://www.zandhovennatuurlijk.be/Duurzaamheidsfestival-2024"
+      - "https://folkbalbende.be/event/2233"
+      - "https://www.facebook.com/events/3593291727599185/"
+    start: "2024-05-05T12:30:00+02:00"
+    end: "2024-05-05T18:00:00+02:00"
+    country: Belgium
+    city: Pulderbos
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Clercx
+    price: free
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
   - name: Musicality for Dancers
     details: Course
     links:
@@ -16509,6 +16529,22 @@ events:
     workshop: true
     social: false
     price: €20-€55
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Free dance initiations Belle époque @Tuinfeest
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/free-dance-initiations-belle-%C3%A9poque-tuinfeest/1001/"
+      - "https://folkbalbende.be/event/2236"
+      - "https://www.facebook.com/events/421918357102225/"
+    start: "2024-05-18T11:00:00+02:00"
+    end: "2024-05-18T20:00:00+02:00"
+    country: Belgium
+    city: Antwerpen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
   - name: Folk Festival Leuven - ComSiBal
@@ -21110,7 +21146,7 @@ events:
     organisation: Spreefolk eV
     source: events/germany/spreefolk.yaml
   - name: Balfolk
-    details: "19:00 Uhr – Tanzeinführungsworkshop mit Hannah\n20:00 Uhr – BalFolk\nEintritt: 18 Euro regulär, 11 Euro ermäßigt\nWouter Kuyper\nWouters Musik geht ins Tanzbein wie bei kaum jemand anderem. Aufgewachsen in der Balfolk-Szene hat er die Tanzmusik als Tänzer kennengelernt, und das spürt man bei seinen Auftritten unmittelbar. Sein Rhythmusgefühl führt die Tänzer:innen nahezu blind.\nWouter Kuyper spielt bei Tanzveranstaltungen gewöhnlich ohne eine feste Setlist und lässt sich vom Geschehen im Raum inspirieren. Geleitet von der Reaktion seines Publikums erzeugt er so eine wunderbare Atmosphäre. Ein Mann und sein Akkordeon, in intensiver Verbindung mit den Tänzer:innen vor ihm…\nIm Alter von zehn Jahren nahmen ihn seine Eltern erstmals zu einem Folkfestival mit – nun tourt er durch die Tanzsäle Europas, entweder Solo oder mit seinen Bands ‚Wouter en de Draak‘, ‚Geselscap Goet ende Fyn‘ (Alte Musik) und ebenso mit BmB, Androneda und anderen.\nHeute ist Wouter Kuyper bei uns als Solo-Musiker zu Gast. Wir erwarten viele seiner eigenen Kompositionen, die auf traditionellen Balfolk-Rhythmen basieren, ob swingendem Scottish, intimer Mazurka, verträumtem Walzer (gerne auch ungerade), rockiger Bourrée, Polka, Polska, Hanter-Dro und vielen anderen.\nVideo Scottish\nWeitere Infos: www.wouterkuyper.nl"
+    details: "19:00 Uhr – Tanzeinführungsworkshop mit Hannah\n20:00 Uhr – BalFolk\nLiebe Musiker:innen, bringt gern eure Instrumente mit, im Anschluss wäre eine Session möglich.\nEintritt: 18 Euro regulär, 11 Euro ermäßigt\nWouter Kuyper\nWouters Musik geht ins Tanzbein wie bei kaum jemand anderem. Aufgewachsen in der Balfolk-Szene hat er die Tanzmusik als Tänzer kennengelernt, und das spürt man bei seinen Auftritten unmittelbar. Sein Rhythmusgefühl führt die Tänzer:innen nahezu blind.\nWouter Kuyper spielt bei Tanzveranstaltungen gewöhnlich ohne eine feste Setlist und lässt sich vom Geschehen im Raum inspirieren. Geleitet von der Reaktion seines Publikums erzeugt er so eine wunderbare Atmosphäre. Ein Mann und sein Akkordeon, in intensiver Verbindung mit den Tänzer:innen vor ihm…\nIm Alter von zehn Jahren nahmen ihn seine Eltern erstmals zu einem Folkfestival mit – nun tourt er durch die Tanzsäle Europas, entweder Solo oder mit seinen Bands ‚Wouter en de Draak‘, ‚Geselscap Goet ende Fyn‘ (Alte Musik) und ebenso mit BmB, Androneda und anderen.\nHeute ist Wouter Kuyper bei uns als Solo-Musiker zu Gast. Wir erwarten viele seiner eigenen Kompositionen, die auf traditionellen Balfolk-Rhythmen basieren, ob swingendem Scottish, intimer Mazurka, verträumtem Walzer (gerne auch ungerade), rockiger Bourrée, Polka, Polska, Hanter-Dro und vielen anderen.\nVideo Scottish\nWeitere Infos: www.wouterkuyper.nl"
     links:
       - "https://spreefolk.de/events/2024-04-hds"
     start: "2024-04-27T19:00:00+02:00"
@@ -35479,6 +35515,48 @@ events:
       - "https://ceilidhclub.com/event/london-ceilidh-club-24-8-24-cecil-sharp-house/"
     start: "2024-08-24T20:00:00+01:00"
     end: "2024-08-24T23:00:00+01:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £17-£23
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-6-9-24-cecil-sharp-house/"
+    start: "2024-09-06T20:00:00+01:00"
+    end: "2024-09-06T23:00:00+01:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £17-£23
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-13-9-24-cecil-sharp-house/"
+    start: "2024-09-13T20:00:00+01:00"
+    end: "2024-09-13T23:00:00+01:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £17-£23
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-27-9-24-cecil-sharp-house/"
+    start: "2024-09-27T20:00:00+01:00"
+    end: "2024-09-27T23:00:00+01:00"
     country: UK
     city: London
     styles:
@@ -52840,6 +52918,21 @@ events:
     price: €16-€18
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
+  - name: Poitou dances
+    details: "Ciac Boum komt binnenkort naar Junushoff in Wageningen! En natuurlijk wil je direct mee doen en niet de kat uit de (Ciac) Boom kijken. Daarom organiseert Balfolk Zeist op vrijdag 17 mei een workshop over poitou dansen.\n\nDeze vrijdag legt Stefan een aantal poitou dansen uit. Het zijn lekker energieke dansen in groepen of cirkels die je zeker kunt verwachten op het bal in Wageningen.\n\nReserveren of aanmelden is niet nodig.\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\nPraat ook mee op onze discord https://discord.gg/PzN6y73n ."
+    links:
+      - "https://www.balfolk.nl/agenda/poitou-dansen-voorbereiding-op-ciac-boum/"
+    start: "2024-05-17T19:30:00+02:00"
+    end: "2024-05-17T22:00:00+02:00"
+    country: Netherlands
+    city: Zeist
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €5
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
   - name: Eallum 2024
     details: "Eallum is een middeleeuws fantasy evenement gevestigd in de Biesbosch te Dordrecht. Het is een fijn festival met muziek, marktkraampjes, lekker eten en allerhande entertainment, waaronder ook balfolkworkshops en optredens van balfolkbands. Dit jaar staat onder andere Triple-X op het programma op zaterdag en ook op zondag kan er balfolk gedanst worden op live-muziek. Meer informatie wordt later nog bekend gemaakt door de organisatie.\n\nWorkshops\nDaarnaast wordt er zowel op zaterdag als zondag een balfolkworkshop gegeven voor beginners door Balfolk Zuid-Holland:\n\nzaterdag: 10.30 tot 11.30 uur\nzondag: 11.30 tot 12.30 uur\n\nTickets & info\nHet festival is zaterdag van 10.00 tot 23.00 uur, zondag van 10.00 tot 20.00 uur. Voor meer informatie en tickets kun je terecht bij Eallum zelf: www.eallum.nl"
     links:
@@ -52907,8 +53000,8 @@ events:
     price: €22.50-€30
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
-  - name: Verjaardagsbal Paul en Dennis
-    details: "'Lieve mensen! Dinsdag 21 mei willen wij, Dennis en Paul onze verjaardag vieren bij Balfolk Zeist. Voor die avond hebben we de band Flos uitgenodigd om te komen spelen. Omdat wij Legovrienden zijn zullen we een Lego tintje verzorgen. Als jij daar aan mee wilt doen in de vorm van verkleden of andere attributen is dat extra mooi, maar we vinden het vooral leuk als je er bent.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
+  - name: Birthday Bal Dennis & Paul
+    details: "\"Lieve mensen! Dinsdag 21 mei vieren wij, Dennis en Paul, onze verjaardagen bij Balfolk Zeist. Voor deze feestelijke avond hebben we de band Flos uitgenodigd om te komen spelen!\n\nWij houden allebei van LEGO, daarom zullen we een LEGO-tintje verzorgen voor het verjaardagsbal. Als jij daar aan mee wilt doen in de vorm van verkleden of andere attributen is dat extra mooi, maar we vinden het vooral leuk als je er bent.\n\nKomen jullie met ons meegenieten? Leuk! Tot dan.\"\n\n- Dennis van der Heyden en Paul Kingma\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/dansavond-2024-05-21/"
     start: "2024-05-21T19:30:00+02:00"
@@ -53018,8 +53111,8 @@ events:
     price: €6
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
-  - name: Verjaardagsbal Laura en Arjen
-    details: "Hoi! Wij, Arjen en Laura, zijn jarig en daar hoort natuurlijk een feestje bij! Op vrijdag 31 mei hebben we PFM! uitgenodigd om bij Balfolk Zeist te komen spelen. Komen jullie een dansje wagen? Liefs, Laura en Arjen\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
+  - name: Birthday Bal Arjen & Laura
+    details: "\"Hoi! Wij, Arjen en Laura, zijn binnenkort jarig en daar hoort natuurlijk een feestje bij!  Op vrijdag 31 mei hebben we PFM! uitgenodigd om bij Balfolk Zeist te komen spelen. Komen jullie een dansje wagen op ons verjaardagsbal?\" Liefs, Arjen en Laura\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
       - "https://www.balfolk.nl/agenda/verjaardagsbal-laura-en-arjen/"
     start: "2024-05-31T19:30:00+02:00"
@@ -53051,6 +53144,21 @@ events:
       - Exqueezit
       - Nachtmuziek
     price: €25
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Branle Béarnais (all levels)
+    details: "3 juni: Branle Béarnais door Saskia Sportel (alle niveaus)\n\nDetails volgen binnenkort\n\nWorkshops op maandagavonden door Louise in Lent\nVan 6 mei t/m 24 juni organiseert Louise in Nijmegen Lent 10 workshops van 2,5 uur, elk met een ander thema, sommige voor alle niveaus, andere voor meer gevorderde dansers.\n\nHet programma:\n\nDe workshops vinden plaats op de maandagavond en duren van 19:00 tot 21:30. (Behalve de polska workshops, die zijn op zaterdag 15 juni overdag.)\n\n6 mei: Poitou door Louise Marius (alle niveaus)\n13 mei: Ritmische variaties in scottish en mazurka door Louise Marius (voor half gevorderde dansers)\n20 mei: Bretonse rij- en kringdansen door Louise Marius (alle niveaus)\n27 mei: Bourree (en ronde en figuren met 4 of meer!) door Louise Marius (alle niveaus)\n3 juni: Breanle Béarnais door Saskia Sportel (alle niveaus)\n10 juni: Sharing is Caring – Uitwisseling van leiden en volgen – door Louise Marius (voor gevorderde dansers)\nzaterdag 15 juni 10:30 tot 13:00: Polska deel 1 – door Amber Lynn Wever (voor half gevorderde dansers)\nzaterdag 15 juni: 13:30 to 16:00 Polska deel 2 – door Amber Lynn Wever (voor half gevorderde dansers)\n17 juni: Zonder ogen dansen je meer – door Louise Marius (voor half gevorderde dansers)\n24 juni: Congo door Louise Marius (voor half gevorderde dansers)\n\nInschrijven en kosten:\n\nJe kan je los inschrijven voor de workshops, je kan dus zelf kiezen welke workshops je wel of niet mee wil doen. En als je je voor 3 of meer workshops tegelijk inschrijft en betaalt krijg je extra korting. Aanmelden gaat door een mail te sturen naar louise@balfolk.nl.\n\nLosse workshops:\nNormaal tarief: 30 euro\nKortingstarief: 27,50 euro\n\nAanmelden en betalen voor 3 of meer workshops tegelijk:\nNormaal tarief: 25 euro per workshop\nKortingstarief: 22,50 euro per workshop\n\nDit tarief geldt alleen voor de workshops waar je je voor hebt aangemeld en die je betaald hebt voor het begin van de eerste workshop die je meedoet. Als je je later bedenkt en nog een extra workshop mee wil doen, dan betaal je het tarief voor losse workshops. Ik doe dit omdat het voor mij heel fijn is als ik van te voren al zeker weet dat er genoeg mensen komen."
+    links:
+      - "https://www.balfolk.nl/agenda/branle-bearnais-alle-niveaus/"
+    start: "2024-06-03T19:00:00+02:00"
+    end: "2024-06-03T21:30:00+02:00"
+    country: Netherlands
+    city: Lent
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €27.50-€30
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
@@ -53179,6 +53287,36 @@ events:
     workshop: true
     social: true
     price: €6
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Polska part 1 (intermediate)
+    details: "15 juni: Polska deel 1 door Amber Lynn (halfgevorderden)\n\nDetails volgen binnenkort\n\nWorkshops op maandagavonden door Louise in Lent\nVan 6 mei t/m 24 juni organiseert Louise in Nijmegen Lent 10 workshops van 2,5 uur, elk met een ander thema, sommige voor alle niveaus, andere voor meer gevorderde dansers.\n\nHet programma:\n\nDe workshops vinden plaats op de maandagavond en duren van 19:00 tot 21:30. (Behalve de polska workshops, die zijn op zaterdag 15 juni overdag.)\n\n6 mei: Poitou door Louise Marius (alle niveaus)\n13 mei: Ritmische variaties in scottish en mazurka door Louise Marius (voor half gevorderde dansers)\n20 mei: Bretonse rij- en kringdansen door Louise Marius (alle niveaus)\n27 mei: Bourree (en ronde en figuren met 4 of meer!) door Louise Marius (alle niveaus)\n3 juni: Breanle Béarnais door Saskia Sportel (alle niveaus)\n10 juni: Sharing is Caring – Uitwisseling van leiden en volgen – door Louise Marius (voor gevorderde dansers)\nzaterdag 15 juni 10:30 tot 13:00: Polska deel 1 – door Amber Lynn Wever (voor half gevorderde dansers)\nzaterdag 15 juni: 13:30 to 16:00 Polska deel 2 – door Amber Lynn Wever (voor half gevorderde dansers)\n17 juni: Zonder ogen dansen je meer – door Louise Marius (voor half gevorderde dansers)\n24 juni: Congo door Louise Marius (voor half gevorderde dansers)\n\nInschrijven en kosten:\n\nJe kan je los inschrijven voor de workshops, je kan dus zelf kiezen welke workshops je wel of niet mee wil doen. En als je je voor 3 of meer workshops tegelijk inschrijft en betaalt krijg je extra korting. Aanmelden gaat door een mail te sturen naar louise@balfolk.nl.\n\nLosse workshops:\nNormaal tarief: 30 euro\nKortingstarief: 27,50 euro\n\nAanmelden en betalen voor 3 of meer workshops tegelijk:\nNormaal tarief: 25 euro per workshop\nKortingstarief: 22,50 euro per workshop\n\nDit tarief geldt alleen voor de workshops waar je je voor hebt aangemeld en die je betaald hebt voor het begin van de eerste workshop die je meedoet. Als je je later bedenkt en nog een extra workshop mee wil doen, dan betaal je het tarief voor losse workshops. Ik doe dit omdat het voor mij heel fijn is als ik van te voren al zeker weet dat er genoeg mensen komen."
+    links:
+      - "https://www.balfolk.nl/agenda/polska-deel-1-halfgevorderden/"
+    start: "2024-06-15T10:30:00+02:00"
+    end: "2024-06-15T13:00:00+02:00"
+    country: Netherlands
+    city: Lent
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €27.50-€30
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Polska part 2 (intermediate)
+    details: "15 juni: Polska deel 2 door Amber Lynn (halfgevorderden)\n\nDetails volgen binnenkort\n\nWorkshops op maandagavonden door Louise in Lent\nVan 6 mei t/m 24 juni organiseert Louise in Nijmegen Lent 10 workshops van 2,5 uur, elk met een ander thema, sommige voor alle niveaus, andere voor meer gevorderde dansers.\n\nHet programma:\n\nDe workshops vinden plaats op de maandagavond en duren van 19:00 tot 21:30. (Behalve de polska workshops, die zijn op zaterdag 15 juni overdag.)\n\n6 mei: Poitou door Louise Marius (alle niveaus)\n13 mei: Ritmische variaties in scottish en mazurka door Louise Marius (voor half gevorderde dansers)\n20 mei: Bretonse rij- en kringdansen door Louise Marius (alle niveaus)\n27 mei: Bourree (en ronde en figuren met 4 of meer!) door Louise Marius (alle niveaus)\n3 juni: Breanle Béarnais door Saskia Sportel (alle niveaus)\n10 juni: Sharing is Caring – Uitwisseling van leiden en volgen – door Louise Marius (voor gevorderde dansers)\nzaterdag 15 juni 10:30 tot 13:00: Polska deel 1 – door Amber Lynn Wever (voor half gevorderde dansers)\nzaterdag 15 juni: 13:30 to 16:00 Polska deel 2 – door Amber Lynn Wever (voor half gevorderde dansers)\n17 juni: Zonder ogen dansen je meer – door Louise Marius (voor half gevorderde dansers)\n24 juni: Congo door Louise Marius (voor half gevorderde dansers)\n\nInschrijven en kosten:\n\nJe kan je los inschrijven voor de workshops, je kan dus zelf kiezen welke workshops je wel of niet mee wil doen. En als je je voor 3 of meer workshops tegelijk inschrijft en betaalt krijg je extra korting. Aanmelden gaat door een mail te sturen naar louise@balfolk.nl.\n\nLosse workshops:\nNormaal tarief: 30 euro\nKortingstarief: 27,50 euro\n\nAanmelden en betalen voor 3 of meer workshops tegelijk:\nNormaal tarief: 25 euro per workshop\nKortingstarief: 22,50 euro per workshop\n\nDit tarief geldt alleen voor de workshops waar je je voor hebt aangemeld en die je betaald hebt voor het begin van de eerste workshop die je meedoet. Als je je later bedenkt en nog een extra workshop mee wil doen, dan betaal je het tarief voor losse workshops. Ik doe dit omdat het voor mij heel fijn is als ik van te voren al zeker weet dat er genoeg mensen komen."
+    links:
+      - "https://www.balfolk.nl/agenda/polska-deel-2-halfgevorderden/"
+    start: "2024-06-15T13:30:00+02:00"
+    end: "2024-06-15T16:00:00+02:00"
+    country: Netherlands
+    city: Lent
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €27.50-€30
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: You dance more without eyes
@@ -53626,6 +53764,21 @@ events:
     price: €5
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
+  - name: Wageningen Junushoff
+    details: "In september zijn we weer terug van onze zomerstop en kunnen we weer dansen in de Junushof! Meer informatie over de bands volgt :)\n\n\n\n\n\nBen je een nieuwe danser? Om 15:00 beginnen wij met een uurtje dansuitleg! Entree: Regulier €20, korting €15. Betalen kan contant of via een QR-code. Reserveren is niet nodig, er zijn altijd genoeg kaartjes beschikbaar.\nTijdens het bal is er een gezellige picknick. Neem hiervoor vooral wat lekkers mee, dan delen we dat met z'n allen. Vergeet je bordje, bestek en opscheplepels niet. Een waterflesje om de dorst te lessen tijdens het bal is ook aangeraden. Neem zelf geen andere dingen mee, de bar verkoopt genoeg lekkere drankjes!\nVoorlopige planning:\n15:00 Dansinitiatie\n16:00 TBA\n18:00 Potluck diner\n19:00 TBA\n21:00 Einde"
+    links:
+      - "https://www.balfolk.nl/agenda/wageningen-junushoff-14/"
+    start: "2024-09-08T15:00:00+02:00"
+    end: "2024-09-08T22:00:00+02:00"
+    country: Netherlands
+    city: Wageningen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €15-€20
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/htrM3VFB ."
     links:
@@ -54002,6 +54155,21 @@ events:
     workshop: true
     social: true
     price: €5
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Wageningen Junushoff
+    details: "Verlang jij ook zo naar warmte in de winter? Kom dansen en laat je hart verwarmen door geweldige folkmuziek in de Junushof! Meer informatie over de bands volgt :)\n\n\n\n\n\nBen je een nieuwe danser? Om 15:00 beginnen wij met een uurtje dansuitleg! Entree: Regulier €20, korting €15. Betalen kan contant of via een QR-code. Reserveren is niet nodig, er zijn altijd genoeg kaartjes beschikbaar.\nTijdens het bal is er een gezellige picknick. Neem hiervoor vooral wat lekkers mee, dan delen we dat met z'n allen. Vergeet je bordje, bestek en opscheplepels niet. Een waterflesje om de dorst te lessen tijdens het bal is ook aangeraden. Neem zelf geen andere dingen mee, de bar verkoopt genoeg lekkere drankjes!\nVoorlopige planning:\n15:00 Dansinitiatie\n16:00 TBA\n18:00 Potluck diner\n19:00 TBA\n21:00 Einde"
+    links:
+      - "https://www.balfolk.nl/agenda/wageningen-junushoff-15/"
+    start: "2024-12-08T15:00:00+01:00"
+    end: "2024-12-08T22:00:00+01:00"
+    country: Netherlands
+    city: Wageningen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €15-€20
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
@@ -72848,26 +73016,6 @@ events:
       - Alex Deis-Lauby
     organisation: TryContra
     source: events/usa/trycontra.yaml
-  - name: Whitewater Whirl
-    links:
-      - "https://www.footmad.org/whirl"
-    start_date: 2024-05-03
-    end_date: 2024-05-05
-    country: USA
-    state: WV
-    city: Fayetteville
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Hot Coffee Breakdown
-      - Brazenkeys
-    callers:
-      - Gaye Fifer
-      - Janine Smith
-    organisation: TryContra
-    source: events/usa/trycontra.yaml
   - name: Lake Eden Arts Festival - Spring
     links:
       - "https://theleaf.org/"
@@ -73235,8 +73383,10 @@ events:
     social: true
     bands:
       - The Dam Beavers
+      - Wind that Shakes the Barley
     callers:
       - Bob Isaacs
+      - Katie Zanders
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Cumberland Dance Week
@@ -82885,7 +83035,7 @@ events:
     details: "Monterey Country Dance Community holds contra dances most first and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \nLessons at 6:40; dance starts at 7 PM. \n​Prices: \n\n$12 General\n​$10 Members of MCDC, BACDS, CDSS or other sister organizations\n$5 active military & full-time students, with ID\nFREE! for children 12 & under ​"
     links:
       - "https://cdss.org/event/monterey-contra-dance/2024-04-06/"
-    start: "2024-04-06T19:00:00-07:00"
+    start: "2024-04-06T18:40:00-07:00"
     end: "2024-04-06T22:00:00-07:00"
     country: USA
     state: CA
@@ -85093,6 +85243,486 @@ events:
     social: true
     price: $15-$20
     organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Gainesville English Country Dance
+    details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
+    links:
+      - "https://cdss.org/event/gainesville-florida-english-country-dance/2024-04-29/"
+    start: "2024-04-29T18:10:00-04:00"
+    end: "2024-04-29T20:30:00-04:00"
+    country: USA
+    state: FL
+    city: Gainesville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Hoggetowne Fancy
+    price: $10
+    organisation: Gainesville English Country Dance
+    source: events/usa/cdss.yaml
+  - name: Contra Dance at the Laurel Theater
+    details: "The Knoxville Contra Dance is pleased to offer a weekly contra dance at the historic Laurel Theater in Knoxville. We feature a community of callers and musicians and an intimate and friendly crowd of dancers. An introductory workshop is offered starting at 7:30, perfect for the experienced and the newcomer alike, followed by dancing to live music from 8 until we all go home. All dances are taught and no partner or experience are required. No one turned away for lack of funds."
+    links:
+      - "https://www.knoxvillecontra.org/schedule"
+      - "https://cdss.org/event/monday-night-contra-dance-at-the-laurel-theater/2024-04-29/"
+    start: "2024-04-29T19:30:00-04:00"
+    end: "2024-04-29T23:00:00-04:00"
+    country: USA
+    state: TN
+    city: Knoxville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Knoxville Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Monday Contra Dance
+    details: "What better way to start the week? Only $3! It’s Monday, and we (almost) always dance on Monday."
+    links:
+      - "https://www.monadnockfolk.org/event/monday-night-dance/2024-04-29/"
+      - "https://cdss.org/event/monday-contra-dance-in-nelson-nh/2024-04-29/"
+    start: "2024-04-29T19:30:00-04:00"
+    end: "2024-04-29T22:00:00-04:00"
+    country: USA
+    state: NH
+    city: Nelson
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $3
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: TECDA Tuesday Evening English Country Dance
+    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2024-04-30/"
+    start: "2024-04-30T19:00:00-04:00"
+    end: "2024-04-30T21:00:00-04:00"
+    country: Canada
+    state: Ontario
+    city: North York
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: Tuesday English Country Dance
+    details: "We dance to live music from our wonderful local musicians. All dances taught and prompted. Wear comfortable clothes and bring flat, non-slippy shoes to change into. Pay what you can; $8 donation helps cover the hall, band, and callers. Masks are welcome at the dance."
+    links:
+      - "https://aactmad.org/english-country"
+      - "https://cdss.org/event/ann-arbor-tuesday-english-country-dance/2024-04-30/"
+    start: "2024-04-30T19:00:00-04:00"
+    end: "2024-04-30T21:30:00-04:00"
+    country: USA
+    state: MI
+    city: Ann Arbor
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $8
+    organisation: AACTMAD
+    source: events/usa/cdss.yaml
+  - name: Williamsburg Tuesday Night English Dance
+    details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
+    links:
+      - "https://williamsburgheritagedancers.org/"
+      - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2024-04-30/"
+    start: "2024-04-30T20:00:00-04:00"
+    end: "2024-04-30T22:00:00-04:00"
+    country: USA
+    state: VA
+    city: Williamsburg
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: Williamsburg Heritage Dancers
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
+    links:
+      - "https://oldfarmersball.com/english-country-dance/"
+      - "https://cdss.org/event/english-country-dance-asheville-nc-3/2024-05-01/"
+    start: "2024-05-01T18:40:00-04:00"
+    end: "2024-05-01T21:00:00-04:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: Luanne Stiles
+    source: events/usa/cdss.yaml
+  - name: Richmond Wednesday English Country Dance
+    details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm."
+    links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
+      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2024-05-01/"
+    start: "2024-05-01T19:30:00-04:00"
+    end: "2024-05-01T21:30:00-04:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
+    source: events/usa/cdss.yaml
+  - name: Thursday Contra Dance
+    details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing \n$5 to $20 sliding scale \nOur role terms are Larks and Robins \nMasks are required on the 1st, 3rd and 5th Thursdays."
+    links:
+      - "https://thursdaycontra.com/"
+      - "https://cdss.org/event/thursday-contra-dance-in-philadelphia/2024-05-02/"
+    start: "2024-05-02T19:30:00-04:00"
+    end: "2024-05-02T22:30:00-04:00"
+    country: USA
+    state: PA
+    city: Philadelphia
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$20
+    organisation: PATMAD
+    source: events/usa/cdss.yaml
+  - name: Rochester Thursday Night Contras
+    details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
+    links:
+      - "https://cdrochester.org/events/thursday-night-contra-202/"
+      - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-05-02/"
+    start: "2024-05-02T19:30:00-04:00"
+    end: "2024-05-02T22:30:00-04:00"
+    country: USA
+    state: NY
+    city: Rochester
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$10
+    organisation: Country Dancers of Rochester
+    source: events/usa/cdss.yaml
+  - name: "Salem's First Thursday Contra Dance"
+    details: "Our Salem First Thursdays dances are very welcoming to both new and experienced dancers. We always dance to live music and callers come from around our area. All dances are taught and no partner needed. We strive for gender-neutral dances using the terms Lark and Robins. However, for the benefit of the less experienced dancers, we ask all the Larks (traditionally referred to as gents) to wear the provided blue ribbons. The VFW Hall has a lovely wooden dance floor.  \n\nMasks are optional.\nBeginner workshop starts at 6pm\nAdmission on a sliding scale\nWater only allowed in the hall"
+    links:
+      - "https://cdss.org/event/salems-first-thursday-contra-dance/2024-05-02/"
+      - "https://www.facebook.com/events/1665458834224088/"
+    start: "2024-05-02T18:30:00-07:00"
+    end: "2024-05-02T21:00:00-07:00"
+    country: USA
+    state: OR
+    city: Salem
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Salem Folklore Community
+    source: events/usa/cdss.yaml
+  - name: Berkeley Contra Dance
+    details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
+    links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
+      - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-05-02/"
+    start: "2024-05-02T20:00:00-07:00"
+    end: "2024-05-02T22:30:00-07:00"
+    country: USA
+    state: CA
+    city: Berkeley
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Deanna Rubin
+    price: $6-$25
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "Musicians: Peter Macfarlane (violin) and Larks in the Attic (Pam Bockes – guitar, Susan Reid – violin, Linda Young – harp) \nCaller: Dereck Kalish (from the Boston area) \nFirst half hour (6:30-7pm) is a basics/review session. \n\nNewcomers welcome! Attend on your own or with a friend/partner. Ability to walk briskly required. Casual dress. BYO water bottle & clean soft-soled shoes. Masks are optional. We use terms/words that refer to roles or positions, not gender.  \n$10-$15 sliding scale."
+    links:
+      - "http://burlingtoncountrydancers.org/english-country-dance-series/"
+      - "https://cdss.org/event/english-country-dance-richmond-vt-3/"
+    start: "2024-05-03T18:30:00-04:00"
+    end: "2024-05-03T21:00:00-04:00"
+    country: USA
+    state: VT
+    city: Richmond
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Larks in the Attic
+    callers:
+      - Dereck Kalish
+    price: $10-$15
+    organisation: Val Medve
+    source: events/usa/cdss.yaml
+  - name: TECDA Friday Evening Dance
+    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-friday-evening-dance/2024-05-03/"
+    start: "2024-05-03T19:00:00-04:00"
+    end: "2024-05-03T21:00:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: Whitewater Whirl
+    details: "The Whitewater Whirl returns for its 17th year in West Virginia’s New River Gorge area. Gaye Fifer and Janine Smith call to the tunes of Hot Coffee Breakdown: Tom Cunningham (fiddle), Luis de Leon (percussion/harmonica), Kate Sanders (keyboard)—and Brazenkeys, with Tadhg Ó Meachair (all-Ireland champion on accordion), Joanna Hyde (fiddle), and Eric Schedler (piano). \nNew Deal-era dance hall with suspended wooden floor, free tent camping or dorm style bunks, motels and B&Bs in area, meal plan available. Register at WhitewaterWhirl.org. \nSponsored by Kanawha Valley Friends of Old Time Music and Dance (FOOTMAD). \n$115, under 30 $75"
+    links:
+      - "https://www.footmad.org/whirl"
+      - "https://cdss.org/event/whitewater-whirl-contra-dance-weekend/"
+    start: "2024-05-03T19:00:00-04:00"
+    end: "2024-05-05T15:00:00-04:00"
+    country: USA
+    state: WV
+    city: Fayetteville
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Hot Coffee Breakdown
+      - Brazenkeys
+    callers:
+      - Gaye Fifer
+      - Janine Smith
+    price: $75-$115
+    organisation: Kanawha Valley Friends of Old Time Music and Dance
+    source: events/usa/cdss.yaml
+  - name: ContraATL Weekly Dance
+    details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
+    links:
+      - "https://contradance.org/"
+      - "https://cdss.org/event/contra-atl-weekly-dance/2024-05-03/"
+    start: "2024-05-03T19:30:00-04:00"
+    end: "2024-05-03T22:30:00-04:00"
+    country: USA
+    state: GA
+    city: Decatur
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $7-$20
+    organisation: ContraATL
+    source: events/usa/cdss.yaml
+  - name: Friday Contra Dance
+    details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$5 – $25, pay what you can."
+    links:
+      - "https://www.nashvillecountrydancers.org/contra-dances"
+      - "https://cdss.org/event/friday-contra-dance-nashville-tn/2024-05-03/"
+    start: "2024-05-03T19:30:00-05:00"
+    end: "2024-05-03T22:30:00-05:00"
+    country: USA
+    state: TN
+    city: Nashville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$25
+    organisation: Nashville Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
+    links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5803"
+      - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2024-05-03/"
+    start: "2024-05-03T19:30:00-07:00"
+    end: "2024-05-03T22:30:00-07:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $7-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: York Region English Country Dancers
+    details: "English Country Dance in central York Region (Ontario, Canada)! Beginners welcome; all dances taught; you don’t need to bring a partner. Admission by donation; your first class is free. Join us on the first, third, and (when there is one) fifth Saturday of the month from 2:00 to 4:00. (Please check the website for possible last-minute changes.)"
+    links:
+      - "http://www.yrecd.ca/"
+      - "https://cdss.org/event/york-region-english-country-dancers/2024-05-04/"
+    start: "2024-05-04T14:00:00-04:00"
+    end: "2024-05-04T16:00:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Newmarket
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: York Region English Country Dancers
+    source: events/usa/cdss.yaml
+  - name: English Dance S.A.
+    details: English Country Dancing in San Antonio for the first time since the pandemic! New location. Recorded music until our band is ready!
+    links:
+      - "https://www.meetup.com/english-dance-sanantonio/events/298982768/"
+      - "https://cdss.org/event/english-dance-s-a/2024-05-04/"
+    start: "2024-05-04T16:00:00-04:00"
+    end: "2024-05-04T18:00:00-04:00"
+    country: USA
+    state: TX
+    city: San Antonio
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: English Dance S.A.
+    source: events/usa/cdss.yaml
+  - name: Old Tyme Contra & Community Dance
+    details: "First Saturday of every month: lesson at 6:30, dance 7-9pm.\nLive band and dance caller for contras, squares, round, and fun crazy family dances, too.\nBeginners are welcome! No need to bring a partner, but you are welcome to do so.\nChildren over age 8 who are game to participate may also attend.\nBring a closed water container and a snack if you choose.\nSmooth-soled shoes work best on the Library’s wonderful wood floor.\nPlease do not wear perfume or scents to the dances."
+    links:
+      - "https://cdss.org/event/old-tyme-contra-community-dance-of-macon-county-nc/2024-05-04/"
+      - "https://fontanalib.org/events/first-saturday-contra-dance-may"
+    start: "2024-05-04T18:30:00-04:00"
+    end: "2024-05-04T21:00:00-04:00"
+    country: USA
+    state: NC
+    city: Franklin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$14
+    organisation: Friends of Contra Dance of Macon County
+    source: events/usa/cdss.yaml
+  - name: Carolina English Country Dancers
+    details: English Country Dance
+    links:
+      - "https://carolinaenglishcountrydance.com/"
+      - "https://cdss.org/event/carolina-english-country-dancers-saturday-dance/2024-05-04/"
+    start: "2024-05-04T18:30:00-04:00"
+    end: "2024-05-04T21:00:00-04:00"
+    country: USA
+    state: SC
+    city: Greenville
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $5-$10
+    organisation: The Carolina English Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Goshen Community Contra Dance
+    details: "Contra Dance with live music and caller. \nThe dance will be held at Goshen First Church, 215 South St., Goshen, IN. \nGeneral Public: Non-members $8, Members $6\nStudents: Non-members $5, Members $3\nChildren under 12: Free\nFamily maximum cost: $18 \nNo experience or partner needed and all dances are led by experienced callers. \nNew dancers are always welcome and are invited to the free beginners workshop at 6:30pm."
+    links:
+      - "http://godancing.org/"
+      - "https://cdss.org/event/goshen-community-contra-dance-2/2024-05-04/"
+    start: "2024-05-04T19:00:00-04:00"
+    end: "2024-05-04T22:00:00-04:00"
+    country: USA
+    state: IN
+    city: Goshen
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $3-$8
+    organisation: Goshen Community Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Port Ewen English Country Dance
+    details: "English Country Dance with visiting callers. Live local band. Air conditioned hall, so we dance all summer! \n7 PM skills class for beginners \nDance is 7:30 to 10:30. Entry is $15."
+    links:
+      - "https://www.hudsonvalleydance.org/english-country-1"
+      - "https://cdss.org/event/hudson-valley-country-dancers-port-ewen-english-country-dance/2024-05-04/"
+    start: "2024-05-04T19:00:00-04:00"
+    end: "2024-05-04T22:30:00-04:00"
+    country: USA
+    state: NY
+    city: Port Ewen
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $15
+    organisation: Hudson Valley Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Knoxville Contra dance
+    details: "Join us the first Saturday of every month (except February) for our monthly dance in the gymnasium of the Children’s Museum of Oak Ridge as we dance mostly contras. Neither partner or experience is required. All dances are taught. We usually have live music from a local band, and always live calling from a local caller. A donation is requested, but no one turned away."
+    links:
+      - "https://www.knoxvillecontra.org/schedule"
+      - "https://cdss.org/event/monthly-american-folk-dance-and-contra-series-at-childrens-museum-of-oak-ridge/2024-05-04/"
+    start: "2024-05-04T19:30:00-04:00"
+    end: "2024-05-04T22:30:00-04:00"
+    country: USA
+    state: TN
+    city: Oak Ridge
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - DJ TacoShel
+    callers:
+      - Dan Kappus
+    price: $5-$10
+    organisation: Knoxville Contra Dancers
+    source: events/usa/cdss.yaml
+  - name: First Saturday Contra Dance
+    details: "The Monadnock Folklore Society presents the Peterborough, NH First Saturday Contra Dance on the first Saturday with different musicians and callers every month.  \nThe dancing begins at 8:00 PM, with an introductory workshop beginning at 7:30. Sliding scale admission is  $12 – 20. \nWe also host an open jam session for beginning and intermediate musicians from 6:45 – 7:30 PM. \nThe Monadnock Folklore Society has presented contra dances and concerts of traditional music since 1982."
+    links:
+      - "https://www.monadnockfolk.org/event/peterborough-first-saturday-contra-dance-2-10/"
+      - "https://cdss.org/event/first-saturday-contra-dance-in-peterborough-nh/2024-05-04/"
+    start: "2024-05-04T19:30:00-04:00"
+    end: "2024-05-04T22:00:00-04:00"
+    country: USA
+    state: NH
+    city: Peterborough
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $12-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Monterey Contra Dance
+    details: "Monterey Country Dance Community holds contra dances most first and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \nLessons at 6:40; dance starts at 7 PM. \n​Prices: \n\n$12 General\n​$10 Members of MCDC, BACDS, CDSS or other sister organizations\n$5 active military & full-time students, with ID\nFREE! for children 12 & under ​"
+    links:
+      - "https://montereycontradance.org/index.html"
+      - "https://cdss.org/event/monterey-contra-dance/2024-05-04/"
+    start: "2024-05-04T18:40:00-07:00"
+    end: "2024-05-04T22:00:00-07:00"
+    country: USA
+    state: CA
+    city: Monterey
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$12
+    organisation: Monterey Country Dance Community
     source: events/usa/cdss.yaml
   - name: Hey Days
     links:
