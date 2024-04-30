@@ -896,13 +896,14 @@ events:
   - name: Dance Trance Weekend
     links:
       - "https://www.dancetrance.ltda.us/"
-    start_date: 2024-06-07
-    end_date: 2024-06-09
+    start: "2024-06-07T20:00:00-04:00"
+    end: "2024-06-09T15:00:00-04:00"
     country: USA
     state: KY
     city: Lexington
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
@@ -911,6 +912,7 @@ events:
     callers:
       - Gaye Fifer
       - Joe Wilkie
+    price: $50-$115
     organisation: TryContra
   - name: AmWeek
     links:
