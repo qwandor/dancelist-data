@@ -9761,12 +9761,14 @@ events:
     city: Oakland
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $5-$20
     organisation: CDSS
   - name: English Country Dance to Live Music
     details: "A special event in our resurging Chicagoland West English country dance series: live music by Amy McFarland, keyboard, and Aileen Murphy, violin. Central Illinois and Chicagoland callers will share the instruction. Special time from 12 to 3 p.m. (our English dances usually start at 3:15 p.m. following international folk dancing). Followed by (recorded music) international folk dancing led by Mady Newfield until 5:30 p.m."
     links:
+      - "https://chicagolandecd.org/chicagoland-west-ecd/"
       - "https://cdss.org/event/english-country-dance-to-live-music/"
     start: "2024-05-05T12:00:00-05:00"
     end: "2024-05-05T15:00:00-05:00"
@@ -9777,6 +9779,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Chicagoland English Country Dancers
   - name: Capital English Country Dancers
     details: "English Country Dance on the first Sundays of the month, October – May. Dance to live music. All dances are taught and prompted. The schedule of callers and musicians is below. Beginners, singles & couples are welcome! Doors open at 1:30, beginner workshop at 1:40 pm, dancing starts at 2pm. Please wear clean, flat, soft-soled dance shoes. \nSchedule of Events \n\nFeb 4: Orly Krasner with our Early Music Ensemble with Harpsichord (Larry Wallach, Tricia van Oers and Eric Buddington)\nMar 3: Elizabeth Freedman with Vonnie Estes, Charles Fisher and Nancy Bakemeier\nApr 7: Val Medve with Pat McPherson and Dough Creighton\nMay 5: Ice Cream Sunday – Melanie Axel-Lute, Elizabeth Stehl, Don Bell with Spare Parts and Britany Orlebeke\n\nOur COVID Policy \n\nWearing a mask is recommended.\nPlease stay home if you feel sick or have symptoms of Covid or flu.\nCECD will notify all attendees if someone reports a Covid diagnosis within a week after a dance.\n\nRegular Dances: $15, $12 CECD Members (Membership: $15) \nIce Cream Sunday: $17, $14 CECD Members (includes ice cream sundaes)"
@@ -9792,14 +9795,18 @@ events:
       - ecd
     workshop: true
     social: true
+    band:
+      - Spare Parts
     callers:
-      - Orly Krasner
-      - Val Medve
-    price: $12-$17
+      - Melanie Axel-Lute
+      - Elizabeth Stehl
+      - Don Bell
+    price: $14-$17
     organisation: Capital English Country Dancers
-  - name: English Country Dance in Houston
+  - name: English Country Dance
     details: "HATDS English dances are on the 1st, 3rd, and 5th Sundays with the occasional exception. \nThe 1st and 3rd Sunday dances are open to all. The 5th Sunday dances are usually, but not always, for advanced dancers. \nAll dances are taught and prompted and are done to recorded music. \nThe $10 admission is used to pay the rent. Cash, credit cards, and digital wallets are accepted."
     links:
+      - "https://hatds.org/ecd#hatds"
       - "https://cdss.org/event/english-country-dance-in-houston/2024-05-05/"
     start: "2024-05-05T14:45:00-05:00"
     end: "2024-05-05T17:15:00-05:00"
@@ -9826,4 +9833,5 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5-$12
     organisation: Sacramento Country Dance Society
