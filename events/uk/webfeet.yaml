@@ -1,19 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Contrasaurus in Alcester
-    links:
-      - "http://www.contrasaurus.com/diary.html"
-    start_date: 2024-02-07
-    end_date: 2024-02-07
-    country: UK
-    city: Alcester
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Contrasaurus
-    organisation: Webfeet
   - name: 3 Sticks in Kennington
     links:
       - "http://www.oxfolk.org.uk/"
@@ -342,7 +328,6 @@ events:
     organisation: Webfeet
   - name: The Riot Band in Poynton
     links:
-      - "https://www.areyoudancing.com/dance-event/677189/"
       - "https://www.poyntonceilidh.co.uk/dates/"
     start_date: 2024-04-20
     end_date: 2024-04-20
@@ -372,36 +357,6 @@ events:
       - Will Power
     callers:
       - Sam Tetley Smith
-    organisation: Webfeet
-  - name: Tatterdemalion in Cerne Abbas
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2024-04-26
-    end_date: 2024-04-26
-    country: UK
-    city: Cerne Abbas
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Tatterdemalion
-    callers:
-      - Angela Laycock
-    organisation: Webfeet
-  - name: Threepenny Bit in Oxford
-    links:
-      - "https://www.bandsintown.com/e/105279795-threepenny-bit-at-isis-farmhouse"
-    start_date: 2024-04-26
-    end_date: 2024-04-26
-    country: UK
-    city: Oxford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Threepenny Bit
     organisation: Webfeet
   - name: "DanceCupola in Chandler's Ford"
     links:
@@ -449,7 +404,6 @@ events:
     organisation: Webfeet
   - name: Confluence in Stroud
     links:
-      - "https://balfolkstroud.uk/cps/gigs/confluence-6da95c.php"
       - "http://mister.red/dance/stroud.htm#D.AS.20240427"
     start_date: 2024-04-27
     end_date: 2024-04-27
@@ -691,6 +645,20 @@ events:
       - The Barber Band
     callers:
       - Sue Coe
+    organisation: Webfeet
+  - name: Maiden Oak in Corfe Castle
+    links:
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2024-05-06
+    end_date: 2024-05-06
+    country: UK
+    city: Corfe Castle
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Maiden Oak
     organisation: Webfeet
   - name: own music in Pucklechurch
     links:
@@ -2001,6 +1969,20 @@ events:
     bands:
       - Triskelion
     organisation: Webfeet
+  - name: "Blackbeard's Tea Party in Welton"
+    links:
+      - "https://www.eventbrite.com/e/ceilidh-featuring-blackbeards-tea-party-tickets-894022624737"
+    start_date: 2024-07-06
+    end_date: 2024-07-06
+    country: UK
+    city: Welton
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
+    organisation: Webfeet
   - name: Baileys Beads in Witcombe
     links:
       - "http://mister.red/dance/gloucester.htm#D.VG.20240710"
@@ -3042,4 +3024,52 @@ events:
       - Portland Drive
     callers:
       - Trevor Monson
+    organisation: Webfeet
+  - name: Box of Frogs in Leeds
+    links:
+      - "http://www.leedscontra.freeuk.com/specialevents.html"
+    start_date: 2025-11-01
+    end_date: 2025-11-01
+    country: UK
+    city: Leeds
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Box of Frogs
+    callers:
+      - Louise Siddons
+    organisation: Webfeet
+  - name: Portland Drive in Leeds
+    details: "[To Be Confirmed]"
+    links:
+      - "http://portland-drive.co.uk/events/"
+      - "http://www.leedscontra.freeuk.com/specialevents.html"
+    start_date: 2025-11-29
+    end_date: 2025-11-29
+    country: UK
+    city: Leeds
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Portland Drive
+    callers:
+      - Geoff Cubitt
+    organisation: Webfeet
+  - name: Portland Drive in Preston
+    links:
+      - "http://portland-drive.co.uk/events/"
+    start_date: 2026-02-16
+    end_date: 2026-02-16
+    country: UK
+    city: Preston
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Portland Drive
     organisation: Webfeet
