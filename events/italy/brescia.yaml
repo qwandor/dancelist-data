@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Double concert
+    details: Stupendo doppio concerto domenica pomeriggio 19 maggio. Guido Minelli duo h17 No&Mi h 18
+    links:
+      - "https://www.facebook.com/events/260977126979737/"
+      - "https://www.eventbrite.it/e/biglietti-nomi-finalmente-a-brescia-854507614277"
+    start: "2024-05-19T17:00:00+02:00"
+    end: "2024-05-19T20:00:00+02:00"
+    country: Italy
+    city: Brescia
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - No&Mi
+      - Duo Guido-Minelli
+    price: €12
+    organisation: Alchechengi aps
