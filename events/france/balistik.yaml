@@ -4,15 +4,16 @@ events:
     links:
       - "https://balistik.jeremiebt.com/poumeane-2022/"
       - "https://www.facebook.com/events/1052818818968681/"
-    start: 2022-06-24T18:00:00+02:00
-    end: 2022-06-26T17:00:00+02:00
+    start: "2022-06-24T18:00:00+02:00"
+    end: "2022-06-26T17:00:00+02:00"
     country: France
     city: Combovin
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
-      - Bal O'Gadjo
+      - "Bal O'Gadjo"
       - Le Mange Bal
       - DiaTao
       - La Chimère
@@ -20,7 +21,6 @@ events:
       - Nøkkenoc
     price: €31-€52
     organisation: Balistik
-
   - name: Le Festival Balalalune 2022
     links:
       - "http://balistik.jeremiebt.com/balalalune-2022/"
@@ -29,7 +29,8 @@ events:
     end_date: 2022-07-10
     country: France
     city: Saint Maurice
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -52,15 +53,15 @@ events:
       - La Mêche
     price: €69-€156
     organisation: Balistik
-
   - name: Balactée 2024
     links:
       - "https://balistik.jeremiebt.com/balactee-2024/"
-    start: 2024-01-26T19:00:00+01:00
-    end: 2024-01-28T13:30:00+01:00
+    start: "2024-01-26T19:00:00+01:00"
+    end: "2024-01-28T13:30:00+01:00"
     country: France
-    city: Saint-Donat-sur-l'Herbasse
-    styles: [balfolk]
+    city: "Saint-Donat-sur-l'Herbasse"
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -72,27 +73,51 @@ events:
       - Duo Augendre Fradin
     price: €36-€170
     organisation: Balistik
-
   - name: Le Festival De La Pouméane
     links:
-      - "https://balistik.jeremiebt.com/"
+      - "https://balistik.org/"
     start_date: 2024-06-21
     end_date: 2024-06-23
     country: France
     city: Combovin
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     organisation: Balistik
-
   - name: Balalalune
     links:
-      - "https://balistik.jeremiebt.com/"
+      - "https://balistik.org/"
     start_date: 2024-07-24
     end_date: 2024-07-28
     country: France
     city: Trièves
-    styles: [balfolk]
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Balistik
+  - name: Les Ptits Bals de L'Étang Perdu
+    links:
+      - "https://balistik.org/"
+    start_date: 2024-09-28
+    end_date: 2024-09-29
+    country: France
+    city: Hauterives
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Balistik
+  - name: Balactée
+    links:
+      - "https://balistik.org/"
+    start: "2025-01-24T19:00:00+01:00"
+    end: "2025-01-26T13:30:00+01:00"
+    country: France
+    city: "Saint-Donat-sur-l'Herbasse"
+    styles:
+      - balfolk
     workshop: true
     social: true
     organisation: Balistik
