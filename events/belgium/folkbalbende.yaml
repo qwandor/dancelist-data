@@ -12195,19 +12195,22 @@ events:
       - Hamareel
     price: donation
     organisation: Dansaarde
-  - name: Folk dance class
+  - name: Folk in 't Kasteel
     details: Ball
     links:
-      - "https://www.schoten.be/academie/dans/danslab-folk"
       - "https://folkbalbende.be/event/1968"
-    start: "2024-06-01T18:00:00+02:00"
-    end: "2024-06-01T22:00:00+02:00"
+      - "https://www.facebook.com/events/1347018249574814"
+    start: "2024-06-01T19:00:00+02:00"
+    end: "2024-06-01T22:30:00+02:00"
     country: Belgium
     city: Antwerp
     styles:
       - balfolk
     workshop: true
-    social: false
+    social: true
+    bands:
+      - Folkorkest Academie Schoten
+      - Drøn
     organisation: Academie van Schoten
   - name: Driekoningenbal
     details: Ball
@@ -15241,3 +15244,22 @@ events:
     social: false
     price: €20-€55
     organisation: Frisse Folk Vzw/asbl
+  - name: Folkbal | Slotweekend Boutersem Buitengewoon Klassiek
+    details: Ball
+    links:
+      - "https://www.tickettailor.com/events/anoctetemporis/958781"
+      - "https://www.facebook.com/events/s/folkbal-slotweekend-boutersem-/678422487672091/"
+      - "https://folkbalbende.be/event/2239"
+      - "https://www.facebook.com/events/s/folkbal-slotweekend-boutersem-/678422487672091/"
+    start: "2024-05-25T18:00:00+02:00"
+    end: "2024-05-25T22:30:00+02:00"
+    country: Belgium
+    city: Boutersem
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Fyndus
+      - Duo Rio-Besson
+    organisation: ~
