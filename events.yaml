@@ -13312,19 +13312,22 @@ events:
     price: donation
     organisation: Dansaarde
     source: events/belgium/folkbalbende.yaml
-  - name: Folk dance class
+  - name: "Folk in 't Kasteel"
     details: Ball
     links:
-      - "https://www.schoten.be/academie/dans/danslab-folk"
       - "https://folkbalbende.be/event/1968"
-    start: "2024-06-01T18:00:00+02:00"
-    end: "2024-06-01T22:00:00+02:00"
+      - "https://www.facebook.com/events/1347018249574814"
+    start: "2024-06-01T19:00:00+02:00"
+    end: "2024-06-01T22:30:00+02:00"
     country: Belgium
     city: Antwerp
     styles:
       - balfolk
     workshop: true
-    social: false
+    social: true
+    bands:
+      - Folkorkest Academie Schoten
+      - Drøn
     organisation: Academie van Schoten
     source: events/belgium/folkbalbende.yaml
   - name: Driekoningenbal
@@ -16544,6 +16547,25 @@ events:
     social: false
     price: €20-€55
     organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Boutersem Buitengewoon Klassiek Folkbal
+    details: Ball
+    links:
+      - "https://www.tickettailor.com/events/anoctetemporis/958781"
+      - "https://www.facebook.com/events/678422487672091/"
+      - "https://folkbalbende.be/event/2239"
+    start: "2024-05-25T18:00:00+02:00"
+    end: "2024-05-25T22:30:00+02:00"
+    country: Belgium
+    city: Boutersem
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Fyndus
+      - Duo Rio-Besson
+    organisation: a nocte temporis
     source: events/belgium/folkbalbende.yaml
   - name: Folk Festival Leuven - ComSiBal
     details: The 2nd edition of the Folk Festival Leuven.
@@ -35691,7 +35713,7 @@ events:
       - s-ceilidh
     workshop: false
     social: true
-    price: £17-£23
+    price: £18-£24
     organisation: London Ceilidh Club
     source: events/uk/ceilidh_club.yaml
   - name: Ceilidh Club
@@ -45098,8 +45120,8 @@ events:
     links:
       - "https://www.cambridgefolk.org.uk/contra/"
       - "https://www.cambridgefolk.org.uk/contra/programme.html"
-    start: "2024-05-28T20:00:00+01:00"
-    end: "2024-05-28T22:15:00+01:00"
+    start: "2024-05-31T20:00:00+01:00"
+    end: "2024-05-31T22:15:00+01:00"
     country: UK
     city: Cambridge
     styles:
@@ -53278,8 +53300,23 @@ events:
     price: €5-€20
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
+  - name: Dansen uit de Poitou
+    details: "[English follows Dutch]\n\n\nVoorafgaand aan het bal in de Junushoff zal er een workshop ‘Dansen uit de Poitou’ plaatsvinden in de Wilde Wereld. Tijdens deze workshop zullen meerdere dansen uit de Poitou aan bod komen. Deze dansen worden dezelfde avond nog door Ciac Boum gespeeld, waardoor jullie de nieuw geleerde skills meteen op de dansvloer kunnen toepassen! De workshop is gericht op dansers die al wat ervaring hebben en snel nieuwe pasjes kunnen oppikken. Het kennen van de basispassen van de bourrées in 2 en 3 tijden is erg handig.\n\nDe Poitou is een regio in het westen van Frankrijk, waar een grote diversiteit aan balfolkdansen vandaan komt. Deze dansen zijn veelal energiek, dynamisch, en gericht op groepsgevoel. Tijdens de workshop zullen onder andere de Bal Limousin, Avant-deux à quartre figures en Branle de Noirmoutier worden uitgelegd. De workshop wordt gegeven door Renske en Max, die al langer ervaring hebben met deze dansen en graag hun enthousiasme delen.\n\nDeur open: 13:00; Workhop: 13:15 - 15:15.\nLocatie: Wilde Wereld, Burgtstraat 1, Wageningen (ong. 5 minuten lopen van de Junushoff).\nTaal: Nederlands/Engels/Beide (afhankelijk van de deelnemers)\nToegang op donatiebasis\nKoffie en thee is aanwezig, zelf een waterflesje meenemen is handig.\n\nVoor beginners is er om 15:00 een basisworkshop balfolk in de Junushoff.\n\n-----------------------------------------------------------------------------------------------\n\nPrior to the ball at the Junushoff, a workshop \"Dances from the Poitou\" will be held at the Wilde Wereld. This workshop will cover several dances from the Poitou. These dances will be performed by Ciac Boum the same evening, allowing you to immediately apply your newly learned skills on the dance floor! The workshop is aimed at dancers who already have some experience and can quickly pick up new steps. Knowing the basic steps of the bourrées in 2 and 3 times is very helpful.\n\nThe Poitou is a region in western France, home to a wide variety of balfolk dances. These dances tend to be energetic, dynamic, and focused on group spirit. During the workshop, the Bal Limousin, Avant-deux à quartre figures and Branle de Noirmoutier, among others, will be explained. The workshop will be taught by Renske and Max, who are experienced with these dances and enjoy sharing their enthusiasm.\n\nDoor open: 13:00; Workhop: 13:15 - 15:15.\nLocation: Wilde Wereld, Burgtstraat 1, Wageningen (approx. 5 minutes walk from the Junushoff).\nLanguage: Dutch/English/Both (depending on the participants)\nEntrance on donation basis\nCoffee and tea is available, bringing your own water bottle is helpful.\n\nFor beginners there will be a basic balfolk workshop at 15:00 in the Junushoff."
+    links:
+      - "https://www.balfolk.nl/agenda/dansen-uit-le-sud-ouest-2/"
+    start: "2024-05-19T13:00:00+02:00"
+    end: "2024-05-19T15:15:00+02:00"
+    country: Netherlands
+    city: Wageningen
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
   - name: Wageningen Junushoff
-    details: "In mei legt iedere vogel een ei – en wij kunnen ons balfolk-ei weer kwijt bij een prachtig bal in de Junushoff! 😉 Twee geweldige groepen zullen ons heerlijk de zomer in laten dansen.\nWe sluiten het seizoen af met een blast: Ciac Boum! Dit trio, bestaande uit Christian Pacher, Julien Padovani en Alban Pacher, heeft een stevige reputatie onder dansers in Frankrijk en Europa, met zijn unieke muziek die vrolijkheid, energie en feestelijkheid uitstraalt. De muziek van Ciac Boum is energiek en inventief en put uit het traditionele erfgoed van de regio Poitou, waarvan het een erkend ambassadeur is geworden, met zowel covers van traditionele melodieën als originele composities. Elke muzikant is een multi-instrumentalist, dus het podium wordt omgetoverd tot een waar laboratorium waar een enorme verscheidenheid aan geluidspaletten tot uiting wordt gebracht.\n\n\n\n\nAirboxes staat voor aanstekelijke dansmuziek gebracht door het duo Bert Leemans en Guus Herremans op chromatisch en diatonisch accordeon. Bert (chromatisch) en Guus (diatonisch) zijn perfect op elkaar ingespeeld, de klanken van hun instrumenten smelten samen bij alles wat ze spelen en nemen je mee naar een magische wereld. Hun afwisselend intieme solo’s en klankkleurrijk samenspel zorgen voor een allesomvattend geheel. Airboxes zijn twee mannen, twee accordeons, één verhaal.\n\n\n\n\n\nBen je een nieuwe danser? Om 15:00 beginnen wij met een uurtje dansuitleg! Entree: Regulier €20, korting €15. Betalen kan contant of via een QR-code. Reserveren is niet nodig, er zijn altijd genoeg kaartjes beschikbaar.\nTijdens het bal is er een gezellige picknick. Neem hiervoor vooral wat lekkers mee, dan delen we dat met z'n allen. Vergeet je bordje, bestek en opscheplepels niet. Een waterflesje om de dorst te lessen tijdens het bal is ook aangeraden. Neem zelf geen andere dingen mee, de bar verkoopt genoeg lekkere drankjes!\nVoorlopige planning:\n15:00 Dansinitiatie\n16:00 Airboxes\n18:00 Potluck diner\n19:00 Ciac Boum\n21:00 Einde"
+    details: "In mei legt iedere vogel een ei – en wij kunnen ons balfolk-ei weer kwijt bij een prachtig bal in de Junushoff! 😉 Twee geweldige groepen zullen ons heerlijk de zomer in laten dansen. Voorafgaand aan het bal is er een workshop 'Dansen uit de Poitou' in de Wilde Wereld: klik hier voor meer informatie.\nWe sluiten het seizoen af met een blast: Ciac Boum! Dit trio, bestaande uit Christian Pacher, Julien Padovani en Alban Pacher, heeft een stevige reputatie onder dansers in Frankrijk en Europa, met zijn unieke muziek die vrolijkheid, energie en feestelijkheid uitstraalt. De muziek van Ciac Boum is energiek en inventief en put uit het traditionele erfgoed van de regio Poitou, waarvan het een erkend ambassadeur is geworden, met zowel covers van traditionele melodieën als originele composities. Elke muzikant is een multi-instrumentalist, dus het podium wordt omgetoverd tot een waar laboratorium waar een enorme verscheidenheid aan geluidspaletten tot uiting wordt gebracht.\n\n\n\n\nAirboxes staat voor aanstekelijke dansmuziek gebracht door het duo Bert Leemans en Guus Herremans op chromatisch en diatonisch accordeon. Bert (chromatisch) en Guus (diatonisch) zijn perfect op elkaar ingespeeld, de klanken van hun instrumenten smelten samen bij alles wat ze spelen en nemen je mee naar een magische wereld. Hun afwisselend intieme solo’s en klankkleurrijk samenspel zorgen voor een allesomvattend geheel. Airboxes zijn twee mannen, twee accordeons, één verhaal.\n\n\n\n\n\nBen je een nieuwe danser? Om 15:00 beginnen wij met een uurtje dansuitleg! Entree: Regulier €20, korting €15. Betalen kan contant of via een QR-code. Reserveren is niet nodig, er zijn altijd genoeg kaartjes beschikbaar.\nTijdens het bal is er een gezellige picknick. Neem hiervoor vooral wat lekkers mee, dan delen we dat met z'n allen. Vergeet je bordje, bestek en opscheplepels niet. Een waterflesje om de dorst te lessen tijdens het bal is ook aangeraden. Neem zelf geen andere dingen mee, de bar verkoopt genoeg lekkere drankjes!\nVoorlopige planning:\n15:00 Dansinitiatie\n16:00 Airboxes\n18:00 Potluck diner\n19:00 Ciac Boum\n21:00 Einde"
     links:
       - "https://www.balfolk.nl/agenda/wageningen-junushoff-13/"
     start: "2024-05-19T15:00:00+02:00"
@@ -53312,10 +53349,9 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Birthday Bal Dennis & Paul
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
+    details: "\"Lieve mensen! Dinsdag 21 mei vieren wij, Dennis en Paul, onze verjaardagen bij Balfolk Zeist. Voor deze feestelijke avond hebben we de band Flos uitgenodigd om te komen spelen!\nWij houden allebei van LEGO, daarom zullen we een LEGO-tintje verzorgen voor het verjaardagsbal. Als jij daar aan mee wilt doen in de vorm van verkleden of andere attributen is dat extra mooi, maar we vinden het vooral leuk als je er bent.\nKomen jullie met ons meegenieten? Leuk! Tot dan.\"\n- Dennis van der Heyden en Paul Kingma\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
       - "https://www.balfolk.nl/agenda/verjaardagsbal-dennis-paul/"
-      - "https://www.balfolk.nl/agenda/dansavond-2024-05-21/"
     start: "2024-05-21T19:30:00+02:00"
     end: "2024-05-21T23:00:00+02:00"
     country: Netherlands
@@ -53696,7 +53732,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Midzomernachtsbal
-    details: "Hoera! Hoera voor de zon, hoera voor een dansje, hoera voor een zaal, hoera voor muziek, medemensen en één die al 40 jaar mag meegenieten. Komen jullie ook genieten? Er is een Midzomernachtsfeest! Niek nodigt uit...\n\nDe avond trapt af met een concert van accordeoniste Barbara Eva Ardenois die met haar Dreamy Folk Flow de luisteraar mee neemt in haar Scandinavische avonturen. Een midzomernachtsconcert voor midzomernachtsavond. Composities voor de stille uren, een uitnodiging tot contemplatie en vertraging. Een concert om te luisteren en te beleven. Naast accordeon gebruikt ze ook andere instrumenten in haar solo-set: herdersfluit, kantele en sporadisch een lijntje zang. \n\nDaarna begint het midzomernachtsbal. Een dansuitleg vangt meteen aan nadat de stoelen van het concert opzij geschoven zijn, om alle mensen die voor het eerst komen, die de opfriscursus willen, die eens willen snuffelen, kunnen kennismaken met balfolk dansen. In het bijzonder zijn de bewoners van Rijen en Oosterhout uitgenodigd om dit te proeven en mee te maken.\n\nVervolgens kan het officiële bal van start. De jarige accordeonist Niek van Uden-Luteijn zal met twee duo's de avond openen.Two Catch a Raindropmet zijn vrouw Annelies van Uden-Luteijn op hobo's brengt speelse balfolk, met naast hun lyrische samenspel ook liedjes van vroeger en nu.\n\ne = m(T2) is de wereldpremière van de hernieuwde samenwerking met snarenman Sander van der Schaaf, waarbij ze hun Té repertoire afstoffen en hun liefde voor Zweedse polska gaan laten horen. Energie krijg je van de muziek van dit Tsquare duo!\n\nParacetamol trekt vervolgens flink van leer met hun afwisselende ingetogen en energieke arrangementen, van klassiekers tot eigen werk. Dit kwartet brengt met gitaar, contrabas en een flinke dosis doedelzak, sax, viool en wat nog meer een toffe dansset vol bitterzoete balfolk. \n\nBmB, met zanger en gitarist Luc Plompen, alleskunner Wouter Kuyper en Niek van Uden-Luteijn op accordeon hebben nog een slotset voor de genieters van het late uur, met prachtige liederen, stevige bourrées en hier en daar een vrolijke dansante uitdaging.\n\nNa de laatste versterkte noten is er ruimte voor sessie in de foyer.\n\nPraktisch:\n\nLocatie:\nCC De Boodschap\nNassaulaan 62-64\n5121 BC Rijen\n\nHet is de eerste keer dat er een bal folk op deze locatie wordt gegeven. De vloer is glad maar niet verend. Houd hier eventueel rekening met de keuze voor je schoenen.\n\nEten:\nTussen 18u00 en 19u30 is er een potluck nabij het bal, op de pastorie. Breng een toevoeging voor de maaltijden mee en geniet gezellig van de overvloed aan eten met de andere bezoekers van de avond. Vanwege de horecaregels organiseren we dit op een andere locatie, loopafstand van zowel de hoofdlocatie als het station.\nAdres:\nHoofdstraat 58, Rijen\n\nOV:\nStation Gilze-Rijen ligt op 20 minuten loopafstand van de evenementlocatie. Er zijn beperkt Ovfietsen beschikbaar. Voor de laatste treinen gaan we kijken of er een taxi'tje te organiseren is.\nLaatste trein richting Utrecht (Tilburg, Den Bosch): 0:30 rechtstreeks, 0:41 omweg\nLaatste trein richting Amsterdam (Rotterdam, Breda): 0:41\nLaatste trein richting Nijmegen: 0:00 via Breda, 23:30 rechtstreeks\n\nAuto:\nParkeren kan zowel bij de potluck-locatie als bij de evenementlocatie voor de deur/om de hoek. Denk aan je parkeerschijf voor het eerste deel van de avond wanneer je voor de supermarkt parkeert aan de Hoofdstraat.\nRijen is goed bereikbaar vanaf de A27 (vanuit Utrecht, afslag Oosterhout-Zuid, vanuit westen/zuiden, afslag Dorst), A58 vanuit Tilburg/Eindhoven (afslag Gilze, Rijen, Baarle-Nassau), A59 vanuit Den Bosch en Nijmegen. Zie ook jullie eigen routeplanners :)\n\nOvernachten:\nD'n Mastendol is een recreatiepark met kampeerplaatsen, boomhutten en stacaravans op nog geen 15 minuten lopen van de evenementlocatie. Natuurkampeerterrein de Duiventoren ligt op 10 minuten auto/fiets van de evenementlocatie en heeft naast kampeerplekken ook enkele houten tonnen en huisjes voor overnachtingen. Op 10 minuten auto-afstand vind je aan de oostkant van Breda op bedrijventerrein Hoogeind de budgethotels Campanile en Bastion, Van der Valk Hotel vind je richting Gilze nabij de oprit van de A58 en 4-sterrenhotel Auberge du Bonheur aan de westzijde van Tilburg. In Molenschot is een camperplaats De Trekvogel. Rijen en Molenschot hebben beiden nog meer sta-caravanparken.\n\nVolledige avondschema (schets april v0.3):\n\n18u00 potluck, Pastorie Hoofdstraat 58\n19u00 deuren open\n19u30 accordeonconcert Barbara Eva Ardenois – Dreamy Folk Flow // spelletjes/jamsessie in foyer // sluit potluck Hoofdstraat\n20u15 dansuitleg\n21u00 bal folk Two catch a raindrop (accordeon-hobo's-zang)\n21u30 bal folk e = m(T2) (gitaar/mandoline – accordeon)\n22u15 bal folk Paracetamol (gitaar, contrabas, viool, doedelzak, whistles, saxofoon)\n23u45 bal folk BmB (zang, gitaar, doedelzak, chalumeau, fluiten, accordeon)\n00u45 uitloop // jamsessie\n01u00 laatste ronde bar\n01u30 iedereen uit het gebouw\nVan harte welkom!\nReserveringen binnenkort via balfolk.nl\nTicket info:\nDeze avond is expliciet bedoeld voor nieuwe bezoekers én ervaren folkies. Om deze reden is er een speciaal tarief voor iedereen die uit de regio komt waarin Niek woont en werkt. Als je voor dit tarief in aanmerking wilt komen, neem je op de avond zelf je ID en een corresponderende geadresseerde brief mee om je postcode aan te tonen. En natuurlijk de symbolische euro als toegang. We hopen dat de nieuwe bezoekers het evenement dusdanig kunnen waarderen dat ze ter plaatse nog een donatie willen doen ter waarde van een volwaardig kaartje. \nAll-in tickets voor accordeonconcert om 19u30 en de rest van de dansavond zijn via deze weg te reserveren, evenals losse entree tickets voor het bal. Voor beiden is een regulier en een fairtrade tarief. Wanneer je het kunt misschien, maak je met het fairtrade tarief mogelijk dat de aanwezige muzikanten goed betaald kunnen worden voor hun werk. Er wordt expliciet geen winst gemaakt op dit evenement. Mocht er geld overblijven na verdeling onder de muzikanten met een betaling die conform geldende normen is, zal dit gedoneerd worden aan Brabant Landschap"
+    details: "Hoera! Hoera voor de zon, hoera voor een dansje, hoera voor een zaal, hoera voor muziek, medemensen en één die al 40 jaar mag meegenieten. Komen jullie ook genieten? Er is een Midzomernachtsfeest! Niek nodigt uit...\n\nDe avond trapt af met een concert van accordeoniste Barbara Eva Ardenois die met haar Dreamy Folk Flow de luisteraar mee neemt in haar Scandinavische avonturen. Een midzomernachtsconcert voor midzomernachtsavond. Composities voor de stille uren, een uitnodiging tot contemplatie en vertraging. Een concert om te luisteren en te beleven. Naast accordeon gebruikt ze ook andere instrumenten in haar solo-set: herdersfluit, kantele en sporadisch een lijntje zang. NB Dit deel van de avond is zittend en zonder dansgelegenheid.\n\nDaarna begint het midzomernachtsbal. Een dansuitleg vangt meteen aan nadat de stoelen van het concert opzij geschoven zijn, om alle mensen die voor het eerst komen, die de opfriscursus willen, die eens willen snuffelen, kunnen kennismaken met balfolk dansen. In het bijzonder zijn de bewoners van Rijen en Oosterhout uitgenodigd om dit te proeven en mee te maken.\n\nVervolgens kan het officiële bal van start. De jarige accordeonist Niek van Uden-Luteijn zal met twee duo's de avond openen.Two Catch a Raindropmet zijn vrouw Annelies van Uden-Luteijn op hobo's brengt speelse balfolk, met naast hun lyrische samenspel ook liedjes van vroeger en nu.\n\ne = m(T2) is de wereldpremière van de hernieuwde samenwerking met snarenman Sander van der Schaaf, waarbij ze hun Té repertoire afstoffen en hun liefde voor Zweedse polska gaan laten horen. Energie krijg je van de muziek van dit Tsquare duo!\n\nParacetamol trekt vervolgens flink van leer met hun afwisselende ingetogen en energieke arrangementen, van klassiekers tot eigen werk. Dit kwartet brengt met gitaar, contrabas en een flinke dosis doedelzak, sax, viool en wat nog meer een toffe dansset vol bitterzoete balfolk. \n\nBmB, met zanger en gitarist Luc Plompen, alleskunner Wouter Kuyper en Niek van Uden-Luteijn op accordeon hebben nog een slotset voor de genieters van het late uur, met prachtige liederen, stevige bourrées en hier en daar een vrolijke dansante uitdaging.\n\nNa de laatste versterkte noten is er ruimte voor sessie in de foyer.\n\nPraktisch:\n\nLocatie:\nCC De Boodschap\nNassaulaan 62-64\n5121 BC Rijen\n\nHet is de eerste keer dat er een bal folk op deze locatie wordt gegeven. De vloer is glad maar niet verend. Houd hier eventueel rekening met de keuze voor je schoenen.\n\nEten:\nTussen 18u00 en 19u30 is er een potluck nabij het bal, op de pastorie. Breng een toevoeging voor de maaltijden mee en geniet gezellig van de overvloed aan eten met de andere bezoekers van de avond. Vanwege de horecaregels organiseren we dit op een andere locatie, loopafstand van zowel de hoofdlocatie als het station.\nAdres:\nHoofdstraat 58, Rijen\n\nOV:\nStation Gilze-Rijen ligt op 20 minuten loopafstand van de evenementlocatie. Er zijn beperkt Ovfietsen beschikbaar. Voor de laatste treinen gaan we kijken of er een taxi'tje te organiseren is.\nLaatste trein richting Utrecht (Tilburg, Den Bosch): 0:30 rechtstreeks, 0:41 omweg\nLaatste trein richting Amsterdam (Rotterdam, Breda): 0:41\nLaatste trein richting Nijmegen: 0:00 via Breda, 23:30 rechtstreeks\n\nAuto:\nParkeren kan zowel bij de potluck-locatie als bij de evenementlocatie voor de deur/om de hoek. Denk aan je parkeerschijf voor het eerste deel van de avond wanneer je voor de supermarkt parkeert aan de Hoofdstraat.\nRijen is goed bereikbaar vanaf de A27 (vanuit Utrecht, afslag Oosterhout-Zuid, vanuit westen/zuiden, afslag Dorst), A58 vanuit Tilburg/Eindhoven (afslag Gilze, Rijen, Baarle-Nassau), A59 vanuit Den Bosch en Nijmegen. Zie ook jullie eigen routeplanners :)\n\nOvernachten:\nD'n Mastendol is een recreatiepark met kampeerplaatsen, boomhutten en stacaravans op nog geen 15 minuten lopen van de evenementlocatie. Natuurkampeerterrein de Duiventoren ligt op 10 minuten auto/fiets van de evenementlocatie en heeft naast kampeerplekken ook enkele houten tonnen en huisjes voor overnachtingen. Op 10 minuten auto-afstand vind je aan de oostkant van Breda op bedrijventerrein Hoogeind de budgethotels Campanile en Bastion, Van der Valk Hotel vind je richting Gilze nabij de oprit van de A58 en 4-sterrenhotel Auberge du Bonheur aan de westzijde van Tilburg. In Molenschot is een camperplaats De Trekvogel. Rijen en Molenschot hebben beiden nog meer sta-caravanparken.\n\nVolledige avondschema (schets april v0.3):\n\n18u00 potluck, Pastorie Hoofdstraat 58\n19u00 deuren open\n19u30 accordeonconcert Barbara Eva Ardenois – Dreamy Folk Flow // spelletjes/jamsessie in foyer // sluit potluck Hoofdstraat\n20u15 dansuitleg\n21u00 bal folk Two catch a raindrop (accordeon-hobo's-zang)\n21u30 bal folk e = m(T2) (gitaar/mandoline – accordeon)\n22u15 bal folk Paracetamol (gitaar, contrabas, viool, doedelzak, whistles, saxofoon)\n23u45 bal folk BmB (zang, gitaar, doedelzak, chalumeau, fluiten, accordeon)\n00u45 uitloop // jamsessie\n01u00 laatste ronde bar\n01u30 iedereen uit het gebouw\nVan harte welkom!\nReserveringen binnenkort via balfolk.nl\nTicket info:\nDeze avond is expliciet bedoeld voor nieuwe bezoekers én ervaren folkies. Om deze reden is er een speciaal tarief voor iedereen die uit de regio komt waarin Niek woont en werkt. Als je voor dit tarief in aanmerking wilt komen, neem je op de avond zelf je ID en een corresponderende geadresseerde brief mee om je postcode aan te tonen. En natuurlijk de symbolische euro als toegang. We hopen dat de nieuwe bezoekers het evenement dusdanig kunnen waarderen dat ze ter plaatse nog een donatie willen doen ter waarde van een volwaardig kaartje. \nAll-in tickets voor accordeonconcert om 19u30 en de rest van de dansavond zijn via deze weg te reserveren, evenals losse entree tickets voor het bal. Voor beiden is een regulier en een fairtrade tarief. Wanneer je het kunt misschien, maak je met het fairtrade tarief mogelijk dat de aanwezige muzikanten goed betaald kunnen worden voor hun werk. Er wordt expliciet geen winst gemaakt op dit evenement. Mocht er geld overblijven na verdeling onder de muzikanten met een betaling die conform geldende normen is, zal dit gedoneerd worden aan Brabant Landschap"
     links:
       - "https://www.balfolk.nl/agenda/midzomernachtsbal/"
     start: "2024-06-21T18:00:00+02:00"
@@ -75831,6 +75867,7 @@ events:
     details: "Colorado Friends of Old Time Music and Dance (CFOOTMAD) present a Zesty Contra dance the\n2nd Saturday of each month. 7:00 p.m.- 10:00p.m. $12 always live music.  The Zesty contra dance series is for dancers with some experience with contra dance.  There is no lesson before the dance, and walk-throughs may be abbreviated, or for simpler dances, eliminated entirely."
     links:
       - "https://boulderdance.org/event/colorado-friends-of-old-time-music-dance-dance-zesty-contra-dance-2022-12-10-2024-05-11/"
+      - "https://cdss.org/event/zesty-contra-dance/2024-05-11/"
     start: "2024-05-11T19:00:00-06:00"
     end: "2024-05-11T22:00:00-06:00"
     country: USA
@@ -78444,6 +78481,7 @@ events:
   - name: Worcester Contra Dance
     details: "Time: Dance 7:30-10:30 pm [Intro session 7:15 pm]\nThis is so wicked fun! It is the most fun you can have with your clothes on!\nDancing is to live fiddle tunes of Ireland, Scotland, England, France, and Appalachia! We often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time!\nLive music by Truffle Creek from Boston. They are Lillian Chase on the fiddle, Jonah Spear on guitar and foot percussion, and Cecily Mills on the cello. They draw heavily from the old time genre for their tune selections, but certainly don’t limit themselves to a singular tradition for repertoire selection. Together these three bring creativity, variety, tradition, and joy to any room they find themselves making music in.\nCaller: Paul Wilde from Rhode Island.\nAdmission (your choice): $10 – $12 p.p., $6 – $8 students, families $25. Donations are gratefully appreciated!\nParking: There is plenty of parking behind the church. Drive up State Street, take a left behind the church, and walk down Gertrude Street to enter the hall.\nFood! Donations of snacks for the break are wanted and gleefully appreciated!\nClothing & Footwear: Clothing is casual. Please wear non-street shoes that move easily on the floor (rubber-soled sneakers are discouraged, but some do wear them even though it makes dancing harder).\nRole Terms are: “Women & Men” but dancers are welcome to choose whatever role that works for them. with no worries.\nMasks: Masks are *no longer* required, but still welcome."
     links:
+      - "https://www.worcesterdance.org/"
       - "https://cdss.org/event/worcester-contra-dance/"
     start: "2024-02-10T19:15:00-05:00"
     end: "2024-02-10T22:30:00-05:00"
@@ -78454,6 +78492,8 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Truffle Creek
     callers:
       - Paul Wilde
     price: $6-$12
@@ -83988,6 +84028,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly
     source: events/usa/cdss.yaml
   - name: NexGen Contra Weekend
@@ -84054,7 +84095,7 @@ events:
     links:
       - "https://cdss.org/event/cabot-community-contra-dance/2024-04-12/"
       - "https://www.facebook.com/events/794818009175051/"
-    start: "2024-04-12T19:30:00-04:00"
+    start: "2024-04-12T19:15:00-04:00"
     end: "2024-04-12T22:00:00-04:00"
     country: USA
     state: VT
@@ -84098,6 +84139,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: Dave Bateman
     source: events/usa/cdss.yaml
   - name: Friday Night Contra & Square Dance
@@ -86470,6 +86512,565 @@ events:
     social: true
     price: $3
     organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: TECDA Tuesday Evening English Country Dance
+    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2024-05-07/"
+    start: "2024-05-07T19:00:00-04:00"
+    end: "2024-05-07T21:00:00-04:00"
+    country: Canada
+    state: Ontario
+    city: North York
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    price: $10
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: Tuesday English Country Dance
+    details: "We dance to live music from our wonderful local musicians. All dances taught and prompted. Wear comfortable clothes and bring flat, non-slippy shoes to change into. Pay what you can; $8 donation helps cover the hall, band, and callers. Masks are welcome at the dance."
+    links:
+      - "https://aactmad.org/english-country"
+      - "https://cdss.org/event/ann-arbor-tuesday-english-country-dance/2024-05-07/"
+    start: "2024-05-07T19:00:00-04:00"
+    end: "2024-05-07T21:30:00-04:00"
+    country: USA
+    state: MI
+    city: Ann Arbor
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $8
+    organisation: AACTMAD
+    source: events/usa/cdss.yaml
+  - name: Indy Contra Dance
+    details: "We dance on the first Tuesday of the month, 7-9 pm ET. \nThere’s no smoking or drinking, and anyone’s welcome to dance together, regardless of age, experience, gender, preference for dogs or cats, etc. \nWe provide a brief new dancer intro / refresher / warm-up starting at 6:40, with dancing for everybody 7:00 – 9:00 pm Eastern Time. Venue is Englewood Christian Church, 57 N. Rural St., Indianapolis, Indiana. \nSliding scale, generally $5-$20. However, if you do not have enough money, ask for assistance."
+    links:
+      - "https://www.indycontra.org/"
+      - "https://cdss.org/event/indy-contra-dance/2024-05-07/"
+    start: "2024-05-07T18:40:00-04:00"
+    end: "2024-05-07T21:00:00-04:00"
+    country: USA
+    state: IN
+    city: Indianapolis
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$20
+    organisation: Indy Contra
+    source: events/usa/cdss.yaml
+  - name: Williamsburg Tuesday Night English Dance
+    details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
+    links:
+      - "https://williamsburgheritagedancers.org/"
+      - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2024-05-07/"
+    start: "2024-05-07T20:00:00-04:00"
+    end: "2024-05-07T22:00:00-04:00"
+    country: USA
+    state: VA
+    city: Williamsburg
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: Williamsburg Heritage Dancers
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
+    links:
+      - "https://oldfarmersball.com/english-country-dance/"
+      - "https://cdss.org/event/english-country-dance-asheville-nc-3/2024-05-08/"
+    start: "2024-05-08T18:40:00-04:00"
+    end: "2024-05-08T21:00:00-04:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: Luanne Stiles
+    source: events/usa/cdss.yaml
+  - name: English Country Dance at Guiding Star Grange
+    details: "Join us in Greenfield for an evening of English Country Dancing. Lively, elegant, and fun: English country dances from 1650 to today, with a rotating cast of stellar musicians and callers.  \nCost: $10-$20, sliding scale. \nSee venue website for this month’s details and Covid policy."
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+      - "https://cdss.org/event/second-fourth-wednesday-english-country-dance-at-guiding-star-grange/2024-05-08/"
+    start: "2024-05-08T19:00:00-04:00"
+    end: "2024-05-08T21:30:00-04:00"
+    country: USA
+    state: MA
+    city: Greenfield
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $10-$20
+    organisation: Graham Christian
+    source: events/usa/cdss.yaml
+  - name: Richmond Wednesday English Country Dance
+    details: "Please join for our weekly English Country Dancing Wednesday night social. New dancers are asked to please come at the start of the session. All dances are taught, walked through, and called. No experience or partner required, just a pair of comfortable shoes. The first night is free; after that $2 per evening. Our doors open 7:20 pm."
+    links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
+      - "https://cdss.org/event/richmond-va-wednesday-english-country-dance/2024-05-08/"
+    start: "2024-05-08T19:30:00-04:00"
+    end: "2024-05-08T21:30:00-04:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
+    source: events/usa/cdss.yaml
+  - name: Thursday Contra Dance
+    details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing \n$5 to $20 sliding scale \nOur role terms are Larks and Robins \nMasks are required on the 1st, 3rd and 5th Thursdays."
+    links:
+      - "https://thursdaycontra.com/"
+      - "https://cdss.org/event/thursday-contra-dance-in-philadelphia/2024-05-09/"
+    start: "2024-05-09T19:30:00-04:00"
+    end: "2024-05-09T22:30:00-04:00"
+    country: USA
+    state: PA
+    city: Philadelphia
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$20
+    organisation: PATMAD
+    source: events/usa/cdss.yaml
+  - name: Rochester Thursday Night Contras
+    details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
+    links:
+      - "https://cdrochester.org/events/thursday-night-contra-203/"
+      - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-05-09/"
+    start: "2024-05-09T18:00:00-04:00"
+    end: "2024-05-09T22:30:00-04:00"
+    country: USA
+    state: NY
+    city: Rochester
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Sister Haggis
+    callers:
+      - Nancy Spero
+    price: $5-$10
+    organisation: Country Dancers of Rochester
+    source: events/usa/cdss.yaml
+  - name: Berkeley English Dance
+    details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
+    links:
+      - "https://bacds.org/series/english/berkeley_wed/"
+      - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-05-09/"
+    start: "2024-05-09T19:15:00-07:00"
+    end: "2024-05-09T22:00:00-07:00"
+    country: USA
+    state: CA
+    city: Berkeley
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $6-$25
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: TECDA Friday Evening Dance
+    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-friday-evening-dance/2024-05-10/"
+    start: "2024-05-10T19:00:00-04:00"
+    end: "2024-05-10T21:00:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    price: $10
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: Orlando Contra Dance
+    details: "We hold energetic and fun contra dances on 2nd and 4th Fridays near Orlando, Florida, in the beautiful Winter Park Ballroom! Our group loves both traditional and contemporary music, which is usually live. We welcome all ages and have a large contingent of younger dancers. Students and jobless dance FREE! Check the schedule for directions, details, cancellations, and changes. Afterwards, we go next door to Jeremiah’s Italian Ice!"
+    links:
+      - "https://orlandocontra.org/dances-and-events/"
+      - "https://cdss.org/event/orlando-contra-dance/2024-05-10/"
+    start: "2024-05-10T19:00:00-04:00"
+    end: "2024-05-10T22:30:00-04:00"
+    country: USA
+    state: FL
+    city: Winter Park
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $15
+    organisation: Greater Orlando Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Cabot Community Contra Dance
+    details: "Small monthly community contra dance with guest callers and live music by local musicians. All dances taught, no partner needed, families and beginners enthusiastically welcomed! Gender-neutral calling, short intro session for new folks at 7:15. Masks are welcomed but not required, and the large windows will be open for ventilation."
+    links:
+      - "https://cdss.org/event/cabot-community-contra-dance/2024-05-10/"
+      - "https://www.facebook.com/events/2420351031498813/"
+    start: "2024-05-10T19:15:00-04:00"
+    end: "2024-05-10T22:00:00-04:00"
+    country: USA
+    state: VT
+    city: Cabot
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Robin Russell
+    price: $5-$10
+    organisation: Cabot Community Dance
+    source: events/usa/cdss.yaml
+  - name: ContraATL Weekly Dance
+    details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
+    links:
+      - "https://contradance.org/"
+      - "https://cdss.org/event/contra-atl-weekly-dance/2024-05-10/"
+    start: "2024-05-10T19:30:00-04:00"
+    end: "2024-05-10T22:30:00-04:00"
+    country: USA
+    state: GA
+    city: Decatur
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $7-$15
+    organisation: ContraATL
+    source: events/usa/cdss.yaml
+  - name: Dover New England Country Dance
+    details: "Traditional New England dance with mostly contras, some squares, circles, couple dances, and occasional English or Scottish dances. No partner nor experience needed, the dances will be taught and called. An introductory session is held at 7:30 to explain the basics."
+    links:
+      - "https://cdss.org/event/dover-nh-new-england-country-dance/2024-05-10/"
+    start: "2024-05-10T19:30:00-04:00"
+    end: "2024-05-10T22:30:00-04:00"
+    country: USA
+    state: NH
+    city: Dover
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Dave Bateman
+    source: events/usa/cdss.yaml
+  - name: Denver Contra Dance
+    details: "The Denver community contra dance is held on the 2nd Friday of each month. There is a lesson from 7 to 7:30; and dance from 7:30 to 10:30. For more details, see our website."
+    links:
+      - "https://www.cfootmad.org/"
+      - "https://cdss.org/event/denver-contra-dance/2024-05-10/"
+    start: "2024-05-10T19:00:00-06:00"
+    end: "2024-05-10T22:30:00-06:00"
+    country: USA
+    state: CO
+    city: Denver
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Colorado Friends of Old Time Music and Dance
+    source: events/usa/cdss.yaml
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
+    links:
+      - "https://portlandcountrydance.org/upcoming/"
+      - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2024-05-10/"
+    start: "2024-05-10T19:30:00-07:00"
+    end: "2024-05-10T22:30:00-07:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $7-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Premiers bourgeons
+    details: "Premiers bourgeons (Spring Buds) is a day of American contra dancing organized by ContraQuébec in the heart of Old Québec city. \nGuest caller: Emily Addison from Ottawa"
+    links:
+      - "https://cdss.org/event/contraquebec-event-with-emily-addison/"
+      - "https://www.facebook.com/events/926426572358630/"
+    start: "2024-05-11T13:00:00-04:00"
+    end: "2024-05-11T22:00:00-04:00"
+    country: Canada
+    state: QC
+    city: Québec
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Emily Addison
+      - Denis Maheux
+      - Tina Anderson
+    price: $15-$35
+    organisation: ContraQuébec
+    source: events/usa/cdss.yaml
+  - name: ECDC Monthly May Dance
+    details: "ECDC (TECDA) is hosting an ECD monthly dance at St. Barnabas Hall on Saturday May 11, 2024, 2-5, Myra Hirschberg and Tom Callwell calling. \nMusicians: Daev Clydesdale on flute and accordion and Emily Wood  \nMasks are optional. Please bring your dancing shoes, water bottle. \nPreregistration at info@tecda.ca, but walk ins are welcome.  \nSuggested donation of $15-$25 for ECD.  This can be paid by e-transfer to  payments@tecda.ca  or cash at the door. \nSee you on the dance floor."
+    links:
+      - "https://www.tecda.ca/special_dances.html"
+      - "https://cdss.org/event/ecdc-monthly-may-dance/"
+    start: "2024-05-11T14:00:00-04:00"
+    end: "2024-05-11T17:00:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Myra Hirschberg
+      - Tom Callwell
+    price: $15-$25
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: NACDS Contra Dance
+    details: "We meet in the gym at Faith Presbyterian Church (corner of Airport & Whitesburg), on the 2nd and 4th Saturdays of the month. Park along Airport because we enter the gym on that side.   \nYou need to be there by 6:30pm for the Newcomers Workshop. Dance is 7-10pm. \nYou will need soft-soled shoes (sneakers are okay). We don’t want to hurt the gym floor. Clothing—be prepared to sweat. You do not need a partner. Bring a resealable container of water. \n$15 non-members."
+    links:
+      - "https://cdss.org/event/north-alabama-country-dance-society-nacds-contra-dance/2024-05-11/"
+    start: "2024-05-11T18:30:00-04:00"
+    end: "2024-05-11T22:00:00-04:00"
+    country: USA
+    state: AL
+    city: Huntsville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Jonesborough Contra
+    details: "Never contra danced before? We gotcha covered! You’ll want to be there at 7pm for the Newcomer Lesson. Dance begins at 7:30pm.  \n\nCost: $12 Adults, $8 Students, $30 Families\nCash or Venmo\nDonations to help cover expenses appreciated\nCome as you are, no partner needed\nShort newcomer lesson starts promptly at 7pm\nDance starts at 7:30pm\nFriends, families, and children welcome\n\nFollow us on Facebook & Instagram or on our website. \nWe are an all-volunteer nonprofit educational organization which is dedicated to the cultivation of a healthy community through traditional dance and music."
+    links:
+      - "https://historicjonesboroughdancesociety.net/events"
+      - "https://cdss.org/event/jonesborough-tn-contra-5/"
+    start: "2024-05-11T19:00:00-04:00"
+    end: "2024-05-11T22:30:00-04:00"
+    country: USA
+    state: TN
+    city: Jonesborough
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Diane Silver
+    price: $8-$12
+    organisation: Historic Jonesborough Dance Society
+    source: events/usa/cdss.yaml
+  - name: CDK Contra Dance
+    details: "Contra & Square Dance – beginner workshop 7:00pm, Dancing 7:30 – 10:30pm \n\nFebruary 10: Tunes by Brook Farm String Band; calls by Marlin Whitaker.\nMarch 9: Big Fun with Darlene Underwood (English dance in the afternoon 2p-5p)\nApril 13: Smith, Campeau & Nelson with Ken Gall calling\nMay 11: Liberty String Band with Maeve Devlin calling\nJune 8: River Music with various local callers – Open Mic Night\n\nSuggested donation $5-$20"
+    links:
+      - "https://www.countrydancinginkalamazoo.com/"
+      - "https://cdss.org/event/cdk-contra-dance/2024-05-11/"
+    start: "2024-05-11T19:00:00-04:00"
+    end: "2024-05-11T22:30:00-04:00"
+    country: USA
+    state: MI
+    city: Kalamazoo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Liberty String Band
+    callers:
+      - Maeve Devlin
+    price: $5-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Space Coast Contra Dance
+    details: "Our second Saturday contra dance on the Space Coast of FL featuring live bands, awesome callers, and a friendly crowd. All are welcome. No partner needed. For more information, visit our website. We’d love to have you join us! \n$15; $5 for 25 and under."
+    links:
+      - "https://spacecoastcontra.org/calendar-upcoming-contra-dances/"
+      - "https://cdss.org/event/space-coast-contra-dance/2024-05-11/"
+    start: "2024-05-11T19:30:00-04:00"
+    end: "2024-05-11T22:30:00-04:00"
+    country: USA
+    state: FL
+    city: Cocoa
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$15
+    organisation: Space Coast Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Worcester Contra Dance
+    details: "Time: Dance 7:30-10:30 pm [short basics session 7:15 pm]\nThis is so wicked fun! It is the most fun you can have with your clothes on!\nDancing is to live fiddle tunes of Ireland, Scotland, England, France, and Appalachia! We often switch partners after every dance so there is no need to bring a partner, and no need to know how!\nCaller: Rich Sbardella – Rich has been a dance caller for 30 years, and he has had the opportunity to lead contra dances, square dances, barn dances, and community dances throughout New England and as far away as Nevada, Nebraska, Oklahoma, and Florida! His dances in Connecticut have been a big hit! Don’t miss this!\nLive Music: Mickey Koth (fiddle) and John Kalinowski (accordion). They are an energetic and exuberant contra dance and concert band with roots in Irish, Scottish, French-Canadian, jazz, and classical music. Their original arrangements of New England and Celtic reels, jigs, hornpipes, and waltzes delight and surprise listeners and dancers alike.\nAdmission: (your choice) $10 – $12 p.p., $6 – $8 students, families $25. Donations are gratefully appreciated!\nParking: There is plenty of parking behind the church by driving up State Street and left behind the church and walk down Gertrude Street to enter the hall.\nFood! Donations of snacks for the break are wanted and gleefully appreciated!\nClothing & Footwear: Clothing is casual. Please wear non-street shoes that move easily on the floor (rubber-soled sneakers are discouraged, but some do wear them even though it makes dancing harder).\nRole Terms are “Women & Men,” but dancers are welcome to choose whatever role that works for them. with no worries."
+    links:
+      - "https://www.worcesterdance.org/"
+      - "https://cdss.org/event/worcester-contra-dance/"
+    start: "2024-05-11T19:15:00-04:00"
+    end: "2024-05-11T22:30:00-04:00"
+    country: USA
+    state: MA
+    city: Worcester
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Wild Notes
+    callers:
+      - Rich Sbardella
+    price: $6-$12
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: English Country Dance with live music every 2nd Saturday.
+    links:
+      - "https://www.nttds.org/"
+      - "https://cdss.org/event/english-country-dance-in-dallas/2024-05-11/"
+      - "https://cdss.org/event/2nd-saturday-english-country-dance/2024-05-11/"
+    start: "2024-05-11T19:30:00-05:00"
+    end: "2024-05-11T22:30:00-05:00"
+    country: USA
+    state: TX
+    city: Dallas
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $5-$10
+    organisation: North Texas Traditional Dance Society (NTTDS)
+    source: events/usa/cdss.yaml
+  - name: Contra Dance
+    details: "HATDS hosts contra dances on the 2nd and 4th Saturdays of most months. We dance to live music. All skill levels are welcome and all dances are called. Bring water and clean shoes! \nThe admission price for contra dances is $10 for members, $15 for non-members. Cash, checks, credit cards, and digital wallets are currently accepted at the door. If paying cash, please bring correct change. No large bills accepted."
+    links:
+      - "https://hatds.org/index"
+      - "https://cdss.org/event/contra-dancing-in-houston-tx/2024-05-11/"
+    start: "2024-05-11T19:30:00-05:00"
+    end: "2024-05-11T22:30:00-05:00"
+    country: USA
+    state: TX
+    city: Houston
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10-$15
+    organisation: Houston Area Traditional Dance Society
+    source: events/usa/cdss.yaml
+  - name: NACDS Contra Dance
+    details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
+    links:
+      - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2024-05-11/"
+    start: "2024-05-11T18:30:00-05:00"
+    end: "2024-05-11T23:00:00-05:00"
+    country: USA
+    state: AL
+    city: Huntsville
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10-$15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Old Glory Historical Dance Inaugural Ball
+    details: "3rd annual assembly in remembrance of the 1st Inaugural Ball honoring George Washington. Wear your Colonial attire and join us for an evening of dance and light refreshments. \nPrice: Early Bird $65.00 couple, $35 individual up to May 4th, 2024; then price will increase."
+    links:
+      - "https://www.oldgloryhistoricaldance.com/inaugural-ball/"
+      - "https://cdss.org/event/old-glory-historical-dance-inaugural-ball/"
+    start: "2024-05-11T18:30:00-06:00"
+    end: "2024-05-11T21:30:00-06:00"
+    country: USA
+    state: UT
+    city: South Jordan
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $35
+    organisation: Old Glory Historical Dance
+    source: events/usa/cdss.yaml
+  - name: San Luis Obispo Monthly Contra Dance
+    details: "Live music and gender-neutral calling at the monthly contra dance in San Luis Obispo, CA. Dances are monthly on the 2nd Saturday. 6:30 lesson, dancing until 9:30."
+    links:
+      - "https://www.cccds.org/schedule/"
+      - "https://cdss.org/event/san-luis-obispo-monthly-contra-dance/2024-05-11/"
+    start: "2024-05-11T18:30:00-07:00"
+    end: "2024-05-11T21:30:00-07:00"
+    country: USA
+    state: CA
+    city: San Luis Obispo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Little Big Band
+    callers:
+      - Kelsey Hartman
+    price: $10
+    organisation: Central Coast Country Dance Society
+    source: events/usa/cdss.yaml
+  - name: 2nd Saturdays Contra Dance
+    details: "Covid precautions are suspended indefinitely! We will continue to monitor potential exposures at PCDC events and adjust policies as needed. Refer to the PCDC Covid policy for details. \n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."
+    links:
+      - "https://portlandcountrydance.org/upcoming/"
+      - "https://cdss.org/event/portland-country-dance-community-2nd-saturdays-contra-dance/2024-05-11/"
+    start: "2024-05-11T19:00:00-07:00"
+    end: "2024-05-11T22:30:00-07:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $6-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Sacramento Contra Dance
+    details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $12 for adults; $8 for college students with ID; $5 for dancers under 18; $25 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
+    links:
+      - "https://sactocds.wordpress.com/"
+      - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays/2024-05-11/"
+    start: "2024-05-11T19:00:00-07:00"
+    end: "2024-05-11T22:00:00-07:00"
+    country: USA
+    state: CA
+    city: Sacramento
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$12
+    organisation: Sacramento Country Dance Society
     source: events/usa/cdss.yaml
   - name: Hey Days
     links:
