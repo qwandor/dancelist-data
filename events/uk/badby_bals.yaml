@@ -4,103 +4,103 @@ events:
     links:
       - "https://www.riverknits.uk/events/balfolk-music-dance/"
       - "https://www.facebook.com/events/774227944007008/"
-    start: 2022-09-18T14:00:00+01:00
-    end: 2022-09-18T18:00:00+01:00
+    start: "2022-09-18T14:00:00+01:00"
+    end: "2022-09-18T18:00:00+01:00"
     country: UK
     city: Weedon Bec
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     price: £5
     organisation: Badby Bals
-
   - name: Fêtes des Rois BalFolk
     links:
       - "https://riverknits.uk/events/balfolk-music-dance-2/"
       - "https://www.facebook.com/events/840783073792034/"
-    start: 2023-01-08T14:00:00+00:00
-    end: 2023-01-08T17:00:00+00:00
+    start: "2023-01-08T14:00:00+00:00"
+    end: "2023-01-08T17:00:00+00:00"
     country: UK
     city: Weedon Bec
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     price: £5
     organisation: Badby Bals
-
   - name: Weedon BalFolk
     links:
       - "https://www.facebook.com/groups/708663859216372/posts/5861633763919330/"
-    start: 2023-03-19T14:00:00+00:00
-    end: 2023-03-19T17:00:00+00:00
+    start: "2023-03-19T14:00:00+00:00"
+    end: "2023-03-19T17:00:00+00:00"
     country: UK
     city: Weedon Bec
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     price: £5
     organisation: Badby Bals
-
   - name: Weedon BalFolk
     links:
       - "https://www.facebook.com/groups/708663859216372/posts/5861633763919330/"
-    start: 2023-06-04T14:00:00+01:00
-    end: 2023-06-04T17:00:00+01:00
+    start: "2023-06-04T14:00:00+01:00"
+    end: "2023-06-04T17:00:00+01:00"
     country: UK
     city: Weedon Bec
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     price: £5
     organisation: Badby Bals
-
   - name: Weedon BalFolk
     links:
       - "https://www.facebook.com/events/897885881726363/"
-    start: 2023-10-22T14:00:00+01:00
-    end: 2023-10-22T17:00:00+01:00
+    start: "2023-10-22T14:00:00+01:00"
+    end: "2023-10-22T17:00:00+01:00"
     country: UK
     city: Weedon Bec
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     price: £5
     organisation: Badby Bals
-
   - name: Weedon BalFolk
     links:
       - "https://www.facebook.com/groups/272983599425727/posts/6882237815166906/"
-    start: 2023-11-19T18:30:00+00:00
-    end: 2023-11-19T21:30:00+00:00
+    start: "2023-11-19T18:30:00+00:00"
+    end: "2023-11-19T21:30:00+00:00"
     country: UK
     city: Weedon Bec
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     price: £5
     organisation: Badby Bals
-
   - name: La Fête des Rois
     links:
       - "https://www.facebook.com/events/7443381449019394/"
-    start: 2024-01-07T14:00:00+00:00
-    end: 2024-01-07T17:00:00+00:00
+    start: "2024-01-07T14:00:00+00:00"
+    end: "2024-01-07T17:00:00+00:00"
     country: UK
     city: Weedon Bec
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     bands:
       - Sawney White Bird
     price: £6
     organisation: Badby Bals
-
   - name: Evening Bal
     links:
       - "https://www.facebook.com/events/910472260744760/"
       - "https://www.tickettailor.com/events/weedonbalfolk/1136513"
-    start: "2024-02-02T19:00:00Z"
-    end: "2024-02-02T22:30:00Z"
+    start: "2024-02-02T19:00:00+00:00"
+    end: "2024-02-02T22:30:00+00:00"
     country: UK
     city: Weedon Bec
     styles:
@@ -111,12 +111,11 @@ events:
       - Airboxes
     price: £10
     organisation: Weedon Balfolk
-
   - name: Spring Barn Dance
     links:
       - "https://www.tickettailor.com/events/northantsceilidhs/1128953"
-    start: "2024-03-15T20:00:00Z"
-    end: "2024-03-15T23:00:00Z"
+    start: "2024-03-15T20:00:00+00:00"
+    end: "2024-03-15T23:00:00+00:00"
     country: UK
     city: Weedon Bec
     styles:
@@ -127,19 +126,35 @@ events:
       - Doug Eunson and Sarah Matthews
     price: £12
     organisation: ~
-
   - name: Weedon Balfolk
     links:
       - "https://www.weedonbalfolk.co.uk/"
       - "https://www.facebook.com/events/1662831224247195/"
-    start: 2024-03-24T14:00:00+00:00
-    end: 2024-03-24T17:00:00+00:00
+    start: "2024-03-24T14:00:00+00:00"
+    end: "2024-03-24T17:00:00+00:00"
     country: UK
     city: Weedon Bec
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     bands:
       - Dave Shepherd & Anna Pack
     price: £10
+    organisation: Weedon Balfolk
+  - name: Midsummer Bal
+    links:
+      - "https://www.facebook.com/events/285592771152081/"
+      - "https://www.weedonbalfolk.co.uk/"
+    start: "2024-06-23T14:00:00+01:00"
+    end: "2024-06-23T17:00:00+01:00"
+    country: UK
+    city: Weedon Bec
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Mel Biggs
+    price: £8-£10
     organisation: Weedon Balfolk
