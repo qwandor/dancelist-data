@@ -93163,17 +93163,19 @@ events:
   - name: Spring Bal
     links:
       - "https://www.balfolktoronto.com/events"
-    start_date: 2024-05-18
-    end_date: 2024-05-18
+      - "https://www.facebook.com/events/412587374891906/"
+    start: "2024-05-18T19:00:00-04:00"
+    end: "2024-05-18T23:30:00-04:00"
     country: Canada
     state: Ontario
     city: Toronto
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Medusa
+    price: $20-$30
     organisation: Balfolk Toronto
     source: events/canada/toronto.yaml
   - name: Big Branch Festival
