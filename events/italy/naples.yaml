@@ -3,45 +3,48 @@ events:
   - name: Dance concert e stage con gli Auka
     links:
       - "https://www.facebook.com/events/748380963017662/"
-    start: 2022-10-15T18:30:00+02:00
-    end: 2022-10-16T00:00:00+02:00
+    start: "2022-10-15T18:30:00+02:00"
+    end: "2022-10-16T00:00:00+02:00"
     country: Italy
     city: Naples
-    styles: [balfolk, italian]
+    styles:
+      - balfolk
+      - italian
     workshop: true
     social: true
     bands:
       - Auka
     price: €10-€15
     organisation: Neapolis Balfolk
-
-  - name: A mazzurk 'e Stramakkj'
+  - name: "A mazzurk 'e Stramakkj'"
     links:
       - "https://www.facebook.com/events/3299606733698584"
-    start: 2022-12-07T15:00:00+01:00
-    end: 2022-12-08T18:00:00+01:00
+    start: "2022-12-07T15:00:00+01:00"
+    end: "2022-12-08T18:00:00+01:00"
     country: Italy
     city: Naples
-    styles: [balfolk, italian]
+    styles:
+      - balfolk
+      - italian
     workshop: true
     social: true
     organisation: Mazurka-I Mazurkari Parte-nopei (e parte no)
-
   - name: Dance concert
     links:
       - "https://www.facebook.com/events/5137187746385423"
-    start: 2022-12-09T21:00:00+01:00
-    end: 2022-12-10T00:00:00+01:00
+    start: "2022-12-09T21:00:00+01:00"
+    end: "2022-12-10T00:00:00+01:00"
     country: Italy
     city: Naples
-    styles: [balfolk, italian]
+    styles:
+      - balfolk
+      - italian
     workshop: true
     social: true
     bands:
       - Les Bottines Artistiques
     price: €12
     organisation: Neapolis Balfolk
-
   - name: Dance concert
     links:
       - "https://www.facebook.com/events/699593701264272"
@@ -57,7 +60,6 @@ events:
       - Hartwin Dhoore
     price: €10
     organisation: Neapolis Balfolk
-
   - name: Dance concert
     links:
       - "https://www.facebook.com/events/654060239643225/"
@@ -74,7 +76,6 @@ events:
       - Justin Kennedy
     price: €12
     organisation: Neapolis Balfolk
-
   - name: Percorsi di Balfolk a Caserta
     links:
       - "https://www.facebook.com/events/1383967642163707/"
@@ -88,7 +89,6 @@ events:
     social: true
     price: donation
     organisation: Neapolis Balfolk
-
   - name: Dance concert
     links:
       - "https://www.facebook.com/events/601280188491574/"
@@ -104,7 +104,6 @@ events:
       - Tacasbandà
     price: €10
     organisation: Neapolis Balfolk
-
   - name: Percorsi di Balfolk a Caserta
     links:
       - "https://www.facebook.com/events/1383967642163707/"
@@ -118,7 +117,6 @@ events:
     social: true
     price: 5€
     organisation: Neapolis Balfolk
-
   - name: Dance concert
     links:
       - "https://www.facebook.com/events/856187265386216"
@@ -134,7 +132,6 @@ events:
       - Viorel
     price: €12
     organisation: Neapolis Balfolk
-
   - name: Dance concert
     links:
       - "https://www.facebook.com/events/866994598015287/"
@@ -150,7 +147,6 @@ events:
       - Duo Geoffroy-Montanaro
     price: €12
     organisation: Neapolis Balfolk
-
   - name: NAIF Balfolk Festival
     links:
       - "https://www.facebook.com/events/673365067944761/"
@@ -174,13 +170,12 @@ events:
       - Cheffolk
       - Sette Bocche
     organisation: Neapolis Balfolk
-
   - name: XIV Kompleanno MK Partenopea
     details: "Mazurka Klandestina in Naples, December 7 till 9"
     links:
       - "https://www.facebook.com/events/596615915774289/"
-    start: 2023-12-07T18:00:00+01:00
-    end: 2023-12-09T09:00:00+01:00
+    start: "2023-12-07T18:00:00+01:00"
+    end: "2023-12-09T09:00:00+01:00"
     country: Italy
     city: Naples
     styles:
@@ -188,7 +183,6 @@ events:
     workshop: false
     social: true
     organisation: Mazurka-I Mazurkari Parte-nopei (e parte no)
-
   - name: Dance concert
     links:
       - "https://www.facebook.com/events/271717171879924/"
@@ -203,7 +197,6 @@ events:
     bands:
       - Karamaus
     organisation: Neapolis Balfolk
-
   - name: Dance concert and workshop
     links:
       - "https://www.facebook.com/events/1140604960677498/"
@@ -218,7 +211,6 @@ events:
     bands:
       - Geronimo
     organisation: Neapolis Balfolk
-
   - name: Dance concert and workshop
     links:
       - "https://www.facebook.com/events/888493592268197/"
@@ -233,7 +225,6 @@ events:
     bands:
       - Joachim Montbord
     organisation: Neapolis Balfolk
-
   - name: Il Weekend di NAIF
     links:
       - "https://www.facebook.com/events/3745369689057509"
@@ -249,7 +240,18 @@ events:
       - Trio Loubelya
       - Duo Le Tron/Laloy
     organisation: Neapolis Balfolk
-
+  - name: Balfolk in Galleria Principe
+    links:
+      - "https://www.facebook.com/events/977359437392945/977359454059610/"
+    start: "2024-05-22T20:30:00+02:00"
+    end: "2024-05-22T22:30:00+02:00"
+    country: Italy
+    city: Naples
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Neapolis Balfolk
   - name: Dance concert
     links:
       - "https://www.facebook.com/events/861023415687659"
