@@ -1,5 +1,17 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
+  - name: Balfolk in Galleria Principe
+    links:
+      - "https://www.facebook.com/events/977359437392945/977359457392943/"
+    start: "2024-05-15T20:30:00+02:00"
+    end: "2024-05-15T22:30:00+02:00"
+    country: Italy
+    city: Naples
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Neapolis Balfolk
   - name: Balfolk
     links:
       - "https://www.facebook.com/events/3938954306331787/"
