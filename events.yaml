@@ -62781,63 +62781,6 @@ events:
     price: free
     organisation: Escarton Associazione APS
     source: events/italy/san_damiano_macra.yaml
-  - name: Balfolk in Galleria Principe
-    links:
-      - "https://www.facebook.com/events/977359437392945/977359457392943/"
-    start: "2024-05-15T20:30:00+02:00"
-    end: "2024-05-15T22:30:00+02:00"
-    country: Italy
-    city: Naples
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    organisation: Neapolis Balfolk
-    source: events/italy/caserta.yaml
-  - name: Percorsi di Balfolk a Caserta
-    links:
-      - "https://www.facebook.com/events/937551301497555/937551318164220/"
-    start: "2024-05-16T21:30:00+02:00"
-    end: "2024-05-16T23:00:00+02:00"
-    country: Italy
-    city: Caserta
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    organisation: Neapolis Balfolk
-    source: events/italy/caserta.yaml
-  - name: Balfolk
-    links:
-      - "https://www.facebook.com/events/3938954306331787/"
-    start: "2024-05-25T19:30:00+02:00"
-    end: "2024-05-25T23:45:00+02:00"
-    country: Italy
-    city: Naples
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - DuOblique
-    price: €12.50
-    organisation: Neapolis Balfolk
-    source: events/italy/caserta.yaml
-  - name: Dance concert
-    links:
-      - "https://www.facebook.com/events/1598331020907137"
-    start: "2024-06-15T19:30:00+02:00"
-    end: "2024-06-15T23:30:00+02:00"
-    country: Italy
-    city: Caserta
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Kryztof Meyer
-    organisation: Neapolis Balfolk
-    source: events/italy/caserta.yaml
   - name: Dance concert e stage con gli Auka
     links:
       - "https://www.facebook.com/events/748380963017662/"
@@ -63096,6 +63039,32 @@ events:
     source: events/italy/naples.yaml
   - name: Balfolk in Galleria Principe
     links:
+      - "https://www.facebook.com/events/977359437392945/977359457392943/"
+    start: "2024-05-15T20:30:00+02:00"
+    end: "2024-05-15T22:30:00+02:00"
+    country: Italy
+    city: Naples
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Neapolis Balfolk
+    source: events/italy/naples.yaml
+  - name: Percorsi di Balfolk a Caserta
+    links:
+      - "https://www.facebook.com/events/937551301497555/937551318164220/"
+    start: "2024-05-16T21:30:00+02:00"
+    end: "2024-05-16T23:00:00+02:00"
+    country: Italy
+    city: Caserta
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Neapolis Balfolk
+    source: events/italy/naples.yaml
+  - name: Balfolk in Galleria Principe
+    links:
       - "https://www.facebook.com/events/977359437392945/977359454059610/"
     start: "2024-05-22T20:30:00+02:00"
     end: "2024-05-22T22:30:00+02:00"
@@ -63107,19 +63076,34 @@ events:
     social: true
     organisation: Neapolis Balfolk
     source: events/italy/naples.yaml
-  - name: Dance concert
+  - name: Percorsi di Balfolk a Caserta
     links:
-      - "https://www.facebook.com/events/861023415687659"
-    start: "2024-05-25T21:00:00+02:00"
-    end: "2024-05-26T00:00:00+02:00"
+      - "https://www.facebook.com/events/937551301497555/937551314830887/"
+    start: "2024-05-23T21:30:00+02:00"
+    end: "2024-05-23T23:00:00+02:00"
+    country: Italy
+    city: Caserta
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Neapolis Balfolk
+    source: events/italy/naples.yaml
+  - name: Balfolk
+    links:
+      - "https://www.neapolisbalfolk.it/eventi"
+      - "https://www.facebook.com/events/3938954306331787/"
+    start: "2024-05-25T19:30:00+02:00"
+    end: "2024-05-25T23:45:00+02:00"
     country: Italy
     city: Naples
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
-      - Duo Oblique
+      - DuOblique
+    price: €12.50
     organisation: Neapolis Balfolk
     source: events/italy/naples.yaml
   - name: Balfolk in Galleria Principe
@@ -63133,6 +63117,35 @@ events:
       - balfolk
     workshop: true
     social: true
+    organisation: Neapolis Balfolk
+    source: events/italy/naples.yaml
+  - name: Percorsi di Balfolk a Caserta
+    links:
+      - "https://www.facebook.com/events/937551301497555/937551304830888/"
+    start: "2024-05-30T21:30:00+02:00"
+    end: "2024-05-30T23:00:00+02:00"
+    country: Italy
+    city: Caserta
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Neapolis Balfolk
+    source: events/italy/naples.yaml
+  - name: Balfolk
+    links:
+      - "https://www.neapolisbalfolk.it/eventi"
+      - "https://www.facebook.com/events/1628107444672177/"
+    start: "2024-06-15T19:30:00+02:00"
+    end: "2024-06-15T23:30:00+02:00"
+    country: Italy
+    city: Caserta
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Kryztof Meyer
     organisation: Neapolis Balfolk
     source: events/italy/naples.yaml
   - name: Woodfolk Festival 2023
