@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal Folk
+    details: "Market square (in case of bad weather in the Kulturhaus, Am Läger 12)"
+    links:
+      - "https://www.kehl.de/kultur/kulturbuero/kulturreihen/kehl+tanzt"
+    start: "2024-06-09T15:00:00+02:00"
+    end: "2024-06-09T18:00:00+02:00"
+    country: Germany
+    city: Kehl
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - "Quatr' Quart"
+    price: free
+    organisation: Kulturbüro Kehl
