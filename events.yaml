@@ -16467,6 +16467,7 @@ events:
     links:
       - "https://stanistil.be/event/20"
       - "https://folkbalbende.be/event/2232"
+      - "https://www.facebook.com/events/420487254256228/"
     start: "2024-05-15T20:30:00+02:00"
     end: "2024-05-15T22:00:00+02:00"
     country: Belgium
@@ -85667,7 +85668,7 @@ events:
       - contra
     workshop: false
     social: true
-    price: $12
+    price: $12-$20
     organisation: Steve Zakon-Anderson
     source: events/usa/cdss.yaml
   - name: Pittsburgh Contra Dance
@@ -86476,6 +86477,7 @@ events:
   - name: First Saturday Contra at Guiding Star Grange
     details: "Wild Asparagus with George Marshall, David Cantieni, Becky Tracy, Ann Percival and guests. Please check the Guiding Star Grange website for details. \nSchedule: 7:30-8:00 beginners’ workshop, 8:00-11:00 contra dance \nCost: $12 – $20 sliding scale \nSee venue website for this month’s details and Covid policy."
     links:
+      - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/first-saturday-contra-at-guiding-star-grange/2024-05-04/"
     start: "2024-05-04T19:30:00-04:00"
     end: "2024-05-04T23:00:00-04:00"
@@ -87839,21 +87841,24 @@ events:
     price: $5-$10
     organisation: The Carolina English Country Dancers
     source: events/usa/cdss.yaml
-  - name: Montpelier Contra Dance Waltzing
-    details: Special waltzing session with SpringTide before the contra dance.
+  - name: Montpelier Contra Dance & Waltzing
+    details: "Montpelier Contra Dance with callers and bands that perform regionally and nationally—see website or Facebook events\nBeginners, singles, and all ages are welcome; all dances are taught.\nGender-neutral role terms (Larks and Robins)\nNewcomers lesson 7:40 pm. Dancing 8-11pm.\nPlease bring clean soft-soled shoes.\nMasks optional / Excellent ventilation with open windows and ceiling exhaust fan (bring a sweater in cooler months)\nMore info at our website. \n$12 adults, $5 kids/low-income, $20 dance supporters.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDancing 1st, 3rd, and 5th Saturdays year round.\nSpecial waltzing session with SpringTide before the contra dance."
     links:
       - "https://cdss.org/event/montpelier-contra-dance-waltzing/"
+      - "https://capitalcitygrange.org/dancing/contradancing/"
+      - "https://cdss.org/event/montpelier-contra-dance/2024-05-18/"
     start: "2024-05-18T19:00:00-04:00"
-    end: "2024-05-18T19:45:00-04:00"
+    end: "2024-05-18T23:00:00-04:00"
     country: USA
     state: VT
     city: Berlin
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     bands:
       - SpringTide
+    price: $5-$20
     organisation: Montpelier Contra Dance
     source: events/usa/cdss.yaml
   - name: South Florida Contradance
@@ -87909,6 +87914,25 @@ events:
     price: $10-$25
     organisation: Ottawa Contra Dance
     source: events/usa/cdss.yaml
+  - name: Contra at Guiding Star Grange
+    details: "The Moving Violations are: Van Kaynor (fiddle, feet), Ron Grosslein (fiddle, mandolin, percussion), and Eric Eid-Reiner (piano). Caller varies each month; please check the Guiding Star Grange website for details. \nSchedule: Newcomers workshop 7:30-8:00 p.m. Contra dance 8:00-11:00 p.m. \nCost: $12-20 sliding scale ($10 for students and children, $8 for under 13) at the door. \nCalling terms: Gender-neutral terms (usually larks and robins) are used at the 3rd Saturday dance. \nThere is no preregistration or verified dancer list for the 3rd Sat. dance. There is also no attendance cap. \nSee venue website for this month’s details and Covid policy."
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+      - "https://cdss.org/event/third-saturday-contra-at-guiding-star-grange/2024-05-18/"
+    start: "2024-05-18T19:30:00-04:00"
+    end: "2024-05-18T23:00:00-04:00"
+    country: USA
+    state: MA
+    city: Greenfield
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Moving Violations
+    price: $8-$20
+    organisation: Van Kaynor
+    source: events/usa/cdss.yaml
   - name: 3rd Saturday Contra Dance
     details: "Every 3rd Saturday from September through May. See our website for this month’s band and caller. \nWe use gender neutral role terms at all dances. \nProud Associate member of PATMAD and CDSS. \n$5 to $20, sliding scale."
     links:
@@ -87959,6 +87983,22 @@ events:
     social: true
     price: $5-$12
     organisation: Monterey Country Dance Community
+    source: events/usa/cdss.yaml
+  - name: Brownsville English Country Dance
+    details: "Brownsville ECD is held in the Town Hall of West Windsor (Brownsville), Vermont. \n\n1:00 Dances for more experienced dancers*\n1:45 Beginners introduction to terms and movements – Everyone welcome!\n2:00 General Dance – Everyone welcome!\n\nPotluck snack table. Enjoy. \n\nGeneral admission – $10\nFirst Time Dancers – FREE\nUnder 15 – FREE\n\n* These dancers will need to know different types of heys, mirror B2B, poussettes and other basic figures without teaching the movements."
+    links:
+      - "https://cdss.org/event/brownsville-english-country-dance/2024-05-19/"
+    start: "2024-05-19T13:00:00-04:00"
+    end: "2024-05-19T16:00:00-04:00"
+    country: USA
+    state: VT
+    city: West Windsor
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10
+    organisation: CDSS
     source: events/usa/cdss.yaml
   - name: Hey Days
     links:
