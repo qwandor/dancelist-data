@@ -11110,9 +11110,10 @@ events:
     social: true
     price: $10
     organisation: CDSS
-  - name: English Country Dance in Houston
+  - name: English Country Dance
     details: "HATDS English dances are on the 1st, 3rd, and 5th Sundays with the occasional exception. \nThe 1st and 3rd Sunday dances are open to all. The 5th Sunday dances are usually, but not always, for advanced dancers. \nAll dances are taught and prompted and are done to recorded music. \nThe $10 admission is used to pay the rent. Cash, credit cards, and digital wallets are accepted."
     links:
+      - "https://hatds.org/ecd#hatds"
       - "https://cdss.org/event/english-country-dance-in-houston/2024-05-19/"
     start: "2024-05-19T14:45:00-05:00"
     end: "2024-05-19T17:15:00-05:00"
@@ -11141,19 +11142,25 @@ events:
     social: true
     bands:
       - 112 and Then Some
+    price: $10-$15
     organisation: Southern Nevada Old-Time Contra Dancers (SNOCD)
   - name: Sacramento English Country Dance
     details: "English Country Dance at the Young Ladies’ Institute, 1400 27th St., Sacramento! Check our website for the most current information."
     links:
       - "https://sactocds.wordpress.com/"
       - "https://cdss.org/event/sacramento-english-country-dance-third-sunday/2024-05-19/"
-    start: "2024-05-19T14:00:00-07:00"
+    start: "2024-05-19T13:30:00-07:00"
     end: "2024-05-19T17:00:00-07:00"
     country: USA
     state: CA
     city: Sacramento
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Quite Carried Away
+    callers:
+      - Gary Sandler
+    price: $5-$12
     organisation: Sacramento Country Dance Society
