@@ -8676,7 +8676,7 @@ events:
     bands:
       - Dola
       - Daj Ognia
-      - G3
+      - Trio G3
     price: donation
     organisation: Centrum Kultury Dworek Białoprądnicki
     source: events/poland/krakow.yaml
@@ -9085,6 +9085,22 @@ events:
       - Kapela Fedaków
       - Vincent Laine
       - Monsieur Fruits
+    organisation: Balfolks
+    source: events/poland/krakow.yaml
+  - name: "Balfolk Children's Day"
+    links:
+      - "https://www.facebook.com/events/457837973461920/"
+    start: "2024-06-02T19:00:00+02:00"
+    end: "2024-06-02T21:30:00+02:00"
+    country: Poland
+    city: Kraków
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Trio G3
+    price: 60 PLN
     organisation: Balfolks
     source: events/poland/krakow.yaml
   - name: Bal folk workshop
