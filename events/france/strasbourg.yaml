@@ -1,79 +1,48 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Grand Bal Folk d'Automne du S'Narreschiff
-    start: 2022-11-26T20:30:00+01:00
-    end: 2022-11-26T23:30:00+01:00
+  - name: "Grand Bal Folk d'Automne du S'Narreschiff"
     links:
       - "http://snarreschiff.fr/#Agenda"
       - "https://www.facebook.com/events/3078198062479735/"
+    start: "2022-11-26T20:30:00+01:00"
+    end: "2022-11-26T23:30:00+01:00"
     country: France
     city: Strasbourg
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     bands:
       - Elba Connection
       - Les Zéoles
     price: €8-€12
-    organisation: S'Narreschiff
-
-  - name: Grand Bal Folk du S'Narreschiff
-    start: 2023-02-04T20:30:00+01:00
-    end: 2023-02-04T23:30:00+01:00
+    organisation: "S'Narreschiff"
+  - name: "Grand Bal Folk du S'Narreschiff"
     links:
       - "http://snarreschiff.fr/#Fleche"
+    start: "2023-02-04T20:30:00+01:00"
+    end: "2023-02-04T23:30:00+01:00"
     country: France
     city: Strasbourg
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     bands:
       - Duo Lagrange-Rutkowski
       - Fistoulig
     price: €8-€12
-    organisation: S'Narreschiff
-
-  - name: Grand Bal Folk du S'Narreschiff
-    start: 2023-04-01T20:30:00+02:00
-    end: 2023-04-01T23:30:00+02:00
-    links:
-      - "http://snarreschiff.fr/#Agenda"
-    country: France
-    city: Strasbourg
-    styles: [balfolk]
-    workshop: false
-    social: true
-    bands:
-      - Salmanazar
-      - La Solive
-    price: €8-€12
-    organisation: S'Narreschiff
-
-  - name: Grand Bal Folk du S'Narreschiff
-    start: 2023-05-13T20:30:00+02:00
-    end: 2023-05-13T23:30:00+02:00
-    links:
-      - "http://snarreschiff.fr/#Agenda"
-    country: France
-    city: Strasbourg
-    styles: [balfolk]
-    workshop: false
-    social: true
-    bands:
-      - Noù
-      - Accord & Muse
-    price: €8-€12
-    organisation: S'Narreschiff
-
+    organisation: "S'Narreschiff"
   - name: Winterlüt 2023
-    start: 2023-02-10T17:00:00+01:00
-    end: 2023-02-13T01:00:00+01:00
     links:
       - "https://winterlut.com"
       - "https://www.facebook.com/events/3312576682311137/"
+    start: "2023-02-10T17:00:00+01:00"
+    end: "2023-02-13T01:00:00+01:00"
     country: France
     city: Strasbourg
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -83,7 +52,38 @@ events:
       - La Guêpe
       - Planchée
     organisation: Winterlüt
-
+  - name: "Grand Bal Folk du S'Narreschiff"
+    links:
+      - "http://snarreschiff.fr/#Agenda"
+    start: "2023-04-01T20:30:00+02:00"
+    end: "2023-04-01T23:30:00+02:00"
+    country: France
+    city: Strasbourg
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Salmanazar
+      - La Solive
+    price: €8-€12
+    organisation: "S'Narreschiff"
+  - name: "Grand Bal Folk du S'Narreschiff"
+    links:
+      - "http://snarreschiff.fr/#Agenda"
+    start: "2023-05-13T20:30:00+02:00"
+    end: "2023-05-13T23:30:00+02:00"
+    country: France
+    city: Strasbourg
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Noù
+      - Accord & Muse
+    price: €8-€12
+    organisation: "S'Narreschiff"
   - name: "Bal Folk du S'Narreschiff"
     links:
       - "http://snarreschiff.fr/#Agenda"
@@ -101,7 +101,6 @@ events:
       - Duo Pichard-Vincendeau
     price: €8-€12
     organisation: "S'Narreschiff"
-
   - name: "Bal Folk du S'Narreschiff"
     links:
       - "http://snarreschiff.fr/#Agenda"
@@ -118,7 +117,6 @@ events:
       - Ton-Ton-Demi-Ton
     price: €8-€12
     organisation: "S'Narreschiff"
-
   - name: Bal à Lire
     links:
       - "https://www.facebook.com/events/1065045341366461/"
@@ -133,7 +131,6 @@ events:
     bands:
       - Pieds de Biche
     organisation: Pieds de Biche
-
   - name: "Grand Bal du S'Narreschiff"
     links:
       - "http://snarreschiff.fr/#Agenda"
@@ -150,7 +147,6 @@ events:
       - Galaad
     price: €8-€12
     organisation: "S'Narreschiff"
-
   - name: Winterlüt
     links:
       - "https://winterlut.com/"
@@ -164,7 +160,6 @@ events:
     workshop: true
     social: true
     organisation: Winterlüt
-
   - name: "Bal Folk du S'Narreschiff"
     links:
       - "http://snarreschiff.fr/#Agenda"
@@ -181,7 +176,6 @@ events:
       - Duo Astrel
     price: €8-€12
     organisation: "S'Narreschiff"
-
   - name: "Bal Folk du S'Narreschiff"
     links:
       - "http://snarreschiff.fr/#Agenda"
@@ -198,3 +192,16 @@ events:
       - Catherine & Sylvain Piron
     price: €8-€12
     organisation: "S'Narreschiff"
+  - name: Super Jam Intergalactique
+    links:
+      - "https://www.facebook.com/events/375254528859994/"
+    start: "2024-06-23T18:45:00+02:00"
+    end: "2024-06-23T21:30:00+02:00"
+    country: France
+    city: Strasbourg
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: donation
+    organisation: Atelier de Musique Trad
