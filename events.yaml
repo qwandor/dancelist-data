@@ -8676,7 +8676,7 @@ events:
     bands:
       - Dola
       - Daj Ognia
-      - G3
+      - Trio G3
     price: donation
     organisation: Centrum Kultury Dworek Białoprądnicki
     source: events/poland/krakow.yaml
@@ -67403,6 +67403,8 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Red Dog Riley
     callers:
       - Mary Wesley
     price: $5-$12
@@ -67515,8 +67517,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Stringrays
       - Sail Away Ladies
+      - Stringrays
     callers:
       - George Marshall
       - Louise Siddons
@@ -67538,6 +67540,27 @@ events:
     social: true
     price: $15
     organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Jonesborough Techno Contra
+    details: "Never contra danced before? We gotcha covered! You’ll want to be there at 7pm for the Newcomer Lesson. Dance begins at 7:30pm.  \n\nCost: $12 Adults, $8 Students, $30 Families\nCash or Venmo\nDonations to help cover expenses appreciated\nCome as you are, no partner needed\nShort newcomer lesson starts promptly at 7pm\nDance starts at 7:30pm\nFriends, families, and children welcome\n\nFollow us on Facebook & Instagram or on our website. \nWe are an all-volunteer nonprofit educational organization which is dedicated to the cultivation of a healthy community through traditional dance and music."
+    links:
+      - "https://historicjonesboroughdancesociety.net/events"
+      - "https://cdss.org/event/jonesborough-tn-contra-6/"
+    start: "2024-05-25T19:00:00-04:00"
+    end: "2024-05-25T22:30:00-04:00"
+    country: USA
+    state: TN
+    city: Jonesborough
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - DJ TacoShel
+    callers:
+      - Deanna Palumbo
+    price: $8-$12
+    organisation: Historic Jonesborough Dance Society
     source: events/usa/cdss.yaml
   - name: CDK Contra & Square Dance
     details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \n4th Saturday Schedule: \n\nFebruary 24: Contra & Squares with Hawks and Owls String Band, calls by Karin Neils & Friends \nMarch 23: Contra & Squares with Soltre, calls by Mike Clark\nJune 22: Contra & Squares – ADVANCED Dance  Brook Farm, calls by Laurie Pietravalle\n\nSuggested donation $5-$20"
@@ -67575,6 +67598,46 @@ events:
       - Lone Star Pirates
     price: $10
     organisation: San Antonio Contra Dancers
+    source: events/usa/cdss.yaml
+  - name: Mendocino English Country Dance
+    details: "Fourth Saturday of every month (check our calendar for occasional date changes). \nLive music with Take a Dance, the Mendocino English Country Dance Orchestra. \nDances taught and prompted by alternating local and guest callers.  \nFun and friendly dancers welcome newcomers in an inclusive and enjoyable environment. Everyone gets to dance!"
+    links:
+      - "https://www.mendoecd.org/event/monthly-2022-05-28-2022-06-25-2022-07-23-2022-08-27-2022-09-24-2022-10-22-2022-11-26-2022-12-24-2023-05-27-2023-06-24-2023-12-23-2024-05-25/"
+      - "https://cdss.org/event/mendocino-english-country-dance/2024-05-25/"
+    start: "2024-05-25T19:30:00-04:00"
+    end: "2024-05-25T22:00:00-04:00"
+    country: USA
+    state: CA
+    city: Caspar
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Take a Dance
+    price: $15
+    organisation: Mendocino English Country Dance
+    source: events/usa/cdss.yaml
+  - name: Richmond Saturday Night Contra Dance
+    details: "Join the Richmond, VA, contra dance, hosted by TADAMS at the West End Ballroom for a Saturday evening dance. Beginner lesson at 6:45pm, dance from 7:30-10:30pm. Admission is $15 non-members, $10 members and students, children under 13 are free. Please check our full website calendar for caller and band details."
+    links:
+      - "https://tadamsva.org/dance/saturday-contra-dance-web-5-25-2024/"
+      - "https://cdss.org/event/richmond-va-saturday-night-contra-dance/2024-05-25/"
+    start: "2024-05-25T18:45:00-04:00"
+    end: "2024-05-25T22:30:00-04:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Cojiro
+    callers:
+      - Gwyn Williams
+    price: $10-$15
+    organisation: TADAMS (Traditional American Dance and Music Society)
     source: events/usa/cdss.yaml
   - name: Anaheim Contra Dance
     details: "Anaheim Contra Dances are held every 4th Saturday January-November 6:30-9:30pm PST. \nAlways live music! \nFamily-friendly, no partner required. \nEasy introductory lesson for beginners @ 6:30pm.\n\nFree parking."
@@ -80595,7 +80658,7 @@ events:
     social: true
     bands:
       - Samenspelgroepen Van De Folkafdeling Van De Genkse Academie
-      - DDSS – Bamako Express
+      - Bamako Express
     price: €10-€16
     organisation: Folk In Limburg
     source: events/belgium/folkbalbende.yaml
@@ -85762,6 +85825,23 @@ events:
     price: €20-€55
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Hams Folkbal 2024
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2238"
+      - "https://www.facebook.com/events/934055428355352/"
+    start: "2024-05-04T19:00:00+02:00"
+    end: "2024-05-04T22:30:00+02:00"
+    country: Belgium
+    city: Hamme
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Sons Of Sirius
+    organisation: MOC Perron
+    source: events/belgium/folkbalbende.yaml
   - name: Boutersem Buitengewoon Klassiek Folkbal
     details: Ball
     links:
@@ -85780,6 +85860,24 @@ events:
       - Fyndus
       - Duo Rio-Besson
     organisation: a nocte temporis
+    source: events/belgium/folkbalbende.yaml
+  - name: De Kanaalfeesten
+    details: Ball
+    links:
+      - "https://studioncp.com/agenda/de-kunstwaard-de-kanaalfeesten/"
+      - "https://folkbalbende.be/event/2249"
+      - "https://www.facebook.com/events/25271735219140251/"
+    start: "2024-05-19T19:00:00+02:00"
+    end: "2024-05-19T20:30:00+02:00"
+    country: Belgium
+    city: Zomergem
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Bamako Express
+    organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Swedish Dance Initiation
     details: Course
@@ -92331,8 +92429,8 @@ events:
     price: €5
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
-  - name: Socialles 303
-    details: "Deze donderdag 30 mei is het socialles nr 303. Het thema en de docent van deze les wordt later nog bekend gemaakt.\n\nProgramma\n\n18.30 Gezamenlijk koken en eten\n19.30: Start socialles\n20.30: Einde socialles, begin vrij dansen\n21.30: Einde\n\nSocialles\nHet concept van een socialles is dat er het eerste uur een les of workshop wordt gegeven door een enthousiaste danser of docent over een specifieke dans of thema en dat in de 1,5 uur daarna de tijd is om vrij te dansen op cdmuziek. Uiteraard is er ook volop gelegenheid om te socialisen tijdens het deel vrij dansen.\n\nGezamenlijk eten\nVooraf mee-eten is ook mogelijk. Vanaf 18.30 uur ben je welkom in de keuken van De Banier, waarop er een warme maaltijd gekookt en gegeten wordt tot om 19.30 uur de socialles begint. Meehelpen met koken mag en kan natuurlijk. Mee-eten kost 3 euro per persoon, per keer, cash te betalen. Vooraf doorgeven dat je mee-eet is wel handig, dat kan het beste via balfolkzuidholland@gmail.com, tot uiterlijk woensdag 17.00 uur. Geef dan ook direct allergieën of intoleranties door, dan houden we daar rekening mee.\n\nLocatie\nJe kunt ons vinden bij De Banier, gevestigd op Banierstraat 1, in Rotterdam. Deze locatie is op ongeveer tien minuten lopen vanaf Centraal Station Rotterdam. Parkeren in de directe omgeving is betaald tot 23.00 uur ‘s avonds. Verderop in de wijk is het wel gratis, dan moet je dus wel een stukje lopen. Check prettigparkeren.nl voor de mogelijkheden.\n\nZaalregels\nIn de danszaal mogen geen buitenschoenen, zorg dus dat je schoenen bij je hebt die niet buiten worden gedragen zoals dansschoenen of dans op blote voeten of op sokken. Eten in de danszaal is ook niet toegestaan.\n\nPrijs\nDe sociallessen kosten 6 euro per persoon. Dit kan cash betaald worden aan de deur. Er is eveneens de mogelijkheid om een strippenkaart aan te schaffen: dat zijn 5 strippen voor 30 euro, op elke socialles te besteden. Dat scheelt je wekelijks geld meenemen. Pinnen is niet mogelijk."
+  - name: Socialles 303 — Branles
+    details: "Deze donderdag 30 mei is het socialles nr 303. De docent deze week is Lene en zij gaat met ons aan de slag met diverse Branles. Namelijk, de branle de la fosse au loup, de danse de l'ours en de branle du rat. Ervaring met deze dansen is niet nodig.\n\nProgramma\n\n18.30 Gezamenlijk koken en eten\n19.30: Start socialles\n20.30: Einde socialles, begin vrij dansen\n21.30: Einde\n\nSocialles\nHet concept van een socialles is dat er het eerste uur een les of workshop wordt gegeven door een enthousiaste danser of docent over een specifieke dans of thema en dat in de 1,5 uur daarna de tijd is om vrij te dansen op cdmuziek. Uiteraard is er ook volop gelegenheid om te socialisen tijdens het deel vrij dansen.\n\nGezamenlijk eten\nVooraf mee-eten is ook mogelijk. Vanaf 18.30 uur ben je welkom in de keuken van De Banier, waarop er een warme maaltijd gekookt en gegeten wordt tot om 19.30 uur de socialles begint. Meehelpen met koken mag en kan natuurlijk. Mee-eten kost 3 euro per persoon, per keer, cash te betalen. Vooraf doorgeven dat je mee-eet is wel handig, dat kan het beste via balfolkzuidholland@gmail.com, tot uiterlijk woensdag 17.00 uur. Geef dan ook direct allergieën of intoleranties door, dan houden we daar rekening mee.\n\nLocatie\nJe kunt ons vinden bij De Banier, gevestigd op Banierstraat 1, in Rotterdam. Deze locatie is op ongeveer tien minuten lopen vanaf Centraal Station Rotterdam. Parkeren in de directe omgeving is betaald tot 23.00 uur ‘s avonds. Verderop in de wijk is het wel gratis, dan moet je dus wel een stukje lopen. Check prettigparkeren.nl voor de mogelijkheden.\n\nZaalregels\nIn de danszaal mogen geen buitenschoenen, zorg dus dat je schoenen bij je hebt die niet buiten worden gedragen zoals dansschoenen of dans op blote voeten of op sokken. Eten in de danszaal is ook niet toegestaan.\n\nPrijs\nDe sociallessen kosten 6 euro per persoon. Dit kan cash betaald worden aan de deur. Er is eveneens de mogelijkheid om een strippenkaart aan te schaffen: dat zijn 5 strippen voor 30 euro, op elke socialles te besteden. Dat scheelt je wekelijks geld meenemen. Pinnen is niet mogelijk."
     links:
       - "https://www.balfolk.nl/agenda/socialles-303-rotterdam/"
     start: "2024-05-30T18:30:00+02:00"
