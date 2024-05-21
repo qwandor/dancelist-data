@@ -1,67 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Flying Cat in Bristol
-    links:
-      - "https://bristolcontra.wordpress.com/"
-    start_date: 2024-02-23
-    end_date: 2024-02-23
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Flying Cat
-    callers:
-      - Bob Morgan
-    organisation: Webfeet
-  - name: "Trinculo in Chandler's Ford"
-    links:
-      - "http://www.shocc.co.uk/"
-    start_date: 2024-02-24
-    end_date: 2024-02-24
-    country: UK
-    city: "Chandler's Ford"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Trinculo
-    callers:
-      - Sheena Masson
-    organisation: Webfeet
-  - name: Vertical Expression in Poynton
-    links:
-      - "https://www.poyntonceilidh.co.uk/dates/"
-    start_date: 2024-02-24
-    end_date: 2024-02-24
-    country: UK
-    city: Poynton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Vertical Expression
-    callers:
-      - Rhodri Davies
-    organisation: Webfeet
-  - name: Sugar Loaf Band in Sedlescombe
-    links:
-      - "http://www.sugarloafband.co.uk/"
-    start_date: 2024-02-24
-    end_date: 2024-02-24
-    country: UK
-    city: Sedlescombe
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Sugar Loaf Band
-    organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -412,20 +350,6 @@ events:
     bands:
       - Hodmedod
     organisation: Webfeet
-  - name: "Dampier's Round in Bromsgrove"
-    links:
-      - "https://www.areyoudancing.com/dance-event/683916/"
-    start_date: 2024-05-11
-    end_date: 2024-05-11
-    country: UK
-    city: Bromsgrove
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Dampier's Round"
-    organisation: Webfeet
   - name: This Way Up in Cardiff
     links:
       - "http://ruffceilidhs.org/coming/"
@@ -456,36 +380,6 @@ events:
     bands:
       - Out of Hand
     organisation: Webfeet
-  - name: Jigsmith in Whitchurch
-    links:
-      - "https://www.areyoudancing.com/dance-event/703102/"
-    start_date: 2024-05-11
-    end_date: 2024-05-11
-    country: UK
-    city: Whitchurch
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Jigsmith
-    organisation: Webfeet
-  - name: Sharon Carr in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AH.20240512"
-    start_date: 2024-05-12
-    end_date: 2024-05-12
-    country: UK
-    city: Bristol
-    styles:
-      - irish-set
-    workshop: false
-    social: true
-    bands:
-      - Sharon Carr
-    callers:
-      - Perfect Cure
-    organisation: Webfeet
   - name: Lighthouse in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
@@ -502,101 +396,8 @@ events:
     callers:
       - Will Mentor
     organisation: Webfeet
-  - name: live music in Oxford
-    links:
-      - "http://mister.red/dance/oxford.htm#D.A2.20240512"
-    start_date: 2024-05-12
-    end_date: 2024-05-12
-    country: UK
-    city: Oxford
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: live music in Bath
-    links:
-      - "http://mister.red/dance/bath.htm#D.AO.20240515"
-    start_date: 2024-05-15
-    end_date: 2024-05-15
-    country: UK
-    city: Bath
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: Dave Yeomans in Frenchay
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AC.20240515"
-    start_date: 2024-05-15
-    end_date: 2024-05-15
-    country: UK
-    city: Frenchay
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Dave Yeomans
-    callers:
-      - Victoria Yeomans
-    organisation: Webfeet
-  - name: Patchwork in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20240515"
-    start_date: 2024-05-15
-    end_date: 2024-05-15
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Patchwork
-    callers:
-      - Jane Hunter
-    organisation: Webfeet
-  - name: AGM + Reely Good Band in Witcombe
-    links:
-      - "http://mister.red/dance/gloucester.htm#D.VB.20240515"
-    start_date: 2024-05-15
-    end_date: 2024-05-15
-    country: UK
-    city: Witcombe
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - AGM + Reely Good Band
-    callers:
-      - Karen & Ellie
-    organisation: Webfeet
-  - name: Jigfoot in Banbury
-    links:
-      - "https://www.jigfoot.com/google-calendar/"
-    start_date: 2024-05-16
-    end_date: 2024-05-16
-    country: UK
-    city: Banbury
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Jigfoot
-    callers:
-      - Ian Nichols
-    organisation: Webfeet
   - name: Lighthouse in Bristol
     links:
-      - "http://mister.red/dance/bristol.htm#D.1@.20240517"
       - "https://bristolcontra.wordpress.com/"
     start_date: 2024-05-17
     end_date: 2024-05-17
@@ -608,10 +409,8 @@ events:
     social: true
     bands:
       - Lighthouse
-      - Lighthouse (USA)
     callers:
       - Will Mentor
-      - Will Mentor (USA)
     organisation: Webfeet
   - name: Maplewood & Still Reeling in Longsdon
     links:
@@ -629,63 +428,6 @@ events:
       - Still Reeling
     callers:
       - Sarah Clough
-    organisation: Webfeet
-  - name: "Mrs Midnight in Midnight Ceilidhs, Topshame"
-    links:
-      - "http://mister.red/dance/topshame.htm#D.AZ.20240518"
-    start_date: 2024-05-18
-    end_date: 2024-05-18
-    country: UK
-    city: "Midnight Ceilidhs, Topshame"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Mrs Midnight
-    organisation: Webfeet
-  - name: Dartmoor Pixie Band in Okehampton
-    links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2024-05-18
-    end_date: 2024-05-18
-    country: UK
-    city: Okehampton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Dartmoor Pixie Band
-    organisation: Webfeet
-  - name: live music in Oxford
-    links:
-      - "http://mister.red/dance/oxford.htm#D.A4.20240518"
-    start_date: 2024-05-18
-    end_date: 2024-05-18
-    country: UK
-    city: Oxford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: "Mrs Midnight's in Topsham"
-    links:
-      - "http://devonfolk.org/events-diary/"
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2024-05-18
-    end_date: 2024-05-18
-    country: UK
-    city: Topsham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Mrs Midnight's"
     organisation: Webfeet
   - name: sessionista in Bristol
     links:
@@ -968,7 +710,7 @@ events:
     organisation: Webfeet
   - name: Deep Street in Witcombe
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VC.20240529"
+      - "http://mister.red/dance/gloucester.htm#D.VB.20240529"
     start_date: 2024-05-29
     end_date: 2024-05-29
     country: UK
@@ -998,6 +740,20 @@ events:
       - Banter
     organisation: Webfeet
     cancelled: true
+  - name: "Join the Dots in Almeley Village, nr Kington"
+    links:
+      - "http://mister.red/dance/kington.htm#D.A9.20240601"
+    start_date: 2024-06-01
+    end_date: 2024-06-01
+    country: UK
+    city: "Almeley Village, nr Kington"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Join the Dots
+    organisation: Webfeet
   - name: "Join the Dots in Almley Village Ceilidh, nr Kington"
     links:
       - "http://mister.red/dance/kington.htm#D.A6.20240601"
@@ -1255,7 +1011,7 @@ events:
     organisation: Webfeet
   - name: Deep Street in Witcombe
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VD.20240612"
+      - "http://mister.red/dance/gloucester.htm#D.VC.20240612"
     start_date: 2024-06-12
     end_date: 2024-06-12
     country: UK
@@ -1446,7 +1202,7 @@ events:
     organisation: Webfeet
   - name: Mel Biggs in Northampton
     links:
-      - "http://mister.red/dance/northampton.htm#D.A5.20240623"
+      - "http://mister.red/dance/northampton.htm#D.A2.20240623"
     start_date: 2024-06-23
     end_date: 2024-06-23
     country: UK
@@ -1490,7 +1246,7 @@ events:
     organisation: Webfeet
   - name: Brian McMinn in Witcombe
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VE.20240626"
+      - "http://mister.red/dance/gloucester.htm#D.VD.20240626"
     start_date: 2024-06-26
     end_date: 2024-06-26
     country: UK
@@ -1590,8 +1346,8 @@ events:
     organisation: Webfeet
   - name: Red Shed in Kennford
     links:
-      - "http://devonfolk.org/events-diary/"
       - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+      - "http://devonfolk.org/events-diary/"
     start_date: 2024-06-29
     end_date: 2024-06-29
     country: UK
@@ -1721,9 +1477,23 @@ events:
     bands:
       - sessionista
     organisation: Webfeet
+  - name: live music in Bath
+    links:
+      - "http://mister.red/dance/bath.htm#D.AO.20240710"
+    start_date: 2024-07-10
+    end_date: 2024-07-10
+    country: UK
+    city: Bath
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - live music
+    organisation: Webfeet
   - name: Baileys Beads in Witcombe
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VF.20240710"
+      - "http://mister.red/dance/gloucester.htm#D.VE.20240710"
     start_date: 2024-07-10
     end_date: 2024-07-10
     country: UK
@@ -1767,7 +1537,7 @@ events:
     organisation: Webfeet
   - name: live music in Oxford
     links:
-      - "http://mister.red/dance/oxford.htm#D.A3.20240714"
+      - "http://mister.red/dance/oxford.htm#D.A1.20240714"
     start_date: 2024-07-14
     end_date: 2024-07-14
     country: UK
@@ -1841,7 +1611,7 @@ events:
     organisation: Webfeet
   - name: "Rough Edge in Ruff Ceilidhs, Bridgend"
     links:
-      - "http://mister.red/dance/_bridgend.htm#D.A7.20240803"
+      - "http://mister.red/dance/bridgend.htm#D.A7.20240803"
     start_date: 2024-08-03
     end_date: 2024-08-03
     country: UK
@@ -2385,6 +2155,20 @@ events:
     social: true
     bands:
       - Portland Drive
+    organisation: Webfeet
+  - name: Panjandrum in Orpington
+    links:
+      - "https://eceilidh.org.uk/cps/gigs/panjandrum-9ec3b2.php"
+    start_date: 2024-11-09
+    end_date: 2024-11-09
+    country: UK
+    city: Orpington
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Panjandrum
     organisation: Webfeet
   - name: Box of Frogs in Englefield Green
     links:
