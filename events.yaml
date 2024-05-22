@@ -6627,6 +6627,7 @@ events:
     start: "2023-09-25T16:00:00+08:00"
     end: "2023-09-25T18:30:00+08:00"
     country: Australia
+    state: WA
     city: Chidlow
     styles:
       - balfolk
@@ -6641,6 +6642,7 @@ events:
     start: "2023-11-25T17:30:00+08:00"
     end: "2023-11-25T21:00:00+08:00"
     country: Australia
+    state: WA
     city: Chidlow
     styles:
       - balfolk
@@ -6657,6 +6659,7 @@ events:
     start: "2024-01-27T17:30:00+08:00"
     end: "2024-01-27T21:00:00+08:00"
     country: Australia
+    state: WA
     city: Chidlow
     styles:
       - balfolk
@@ -6673,6 +6676,7 @@ events:
     start: "2024-02-24T17:30:00+08:00"
     end: "2024-02-24T21:30:00+08:00"
     country: Australia
+    state: WA
     city: Chidlow
     styles:
       - balfolk
@@ -6689,6 +6693,7 @@ events:
     start: "2024-03-23T17:30:00+08:00"
     end: "2024-03-23T21:30:00+08:00"
     country: Australia
+    state: WA
     city: Chidlow
     styles:
       - balfolk
@@ -6705,6 +6710,7 @@ events:
     start: "2024-04-14T17:30:00+08:00"
     end: "2024-04-14T21:30:00+08:00"
     country: Australia
+    state: WA
     city: Perth
     styles:
       - balfolk
@@ -6716,10 +6722,47 @@ events:
   - name: Grand Bal de Chidlow
     details: "An evening of balfolk dancing in regional Western Australia with live music, shared dinner and plenty of dancing. All dances are called - no prior dance experience required."
     links:
+      - "https://www.facebook.com/events/421742130489860/"
+    start: "2024-05-26T14:00:00+08:00"
+    end: "2024-05-26T17:30:00+08:00"
+    country: Australia
+    state: WA
+    city: Chidlow
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Bal Éternel
+    price: $5
+    organisation: Bal Folk Perth
+    source: events/australia/chidlow.yaml
+  - name: Bal Folk Dance in North Perth
+    details: A night of balfolk dancing at the North Perth Lesser Hall. Refreshments provided. All dances are taught - no prior dance experience required.
+    links:
+      - "https://www.facebook.com/events/1550737955502905/"
+    start: "2024-06-08T18:30:00+08:00"
+    end: "2024-06-08T21:30:00+08:00"
+    country: Australia
+    state: WA
+    city: Perth
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Bal Éternel
+    price: $15
+    organisation: Bal Folk Perth
+    source: events/australia/chidlow.yaml
+  - name: Grand Bal de Chidlow
+    details: "An evening of balfolk dancing in regional Western Australia with live music, shared dinner and plenty of dancing. All dances are called - no prior dance experience required."
+    links:
       - "https://www.facebook.com/groups/336831664291912/"
     start: "2024-06-23T14:00:00+08:00"
     end: "2024-06-23T17:30:00+08:00"
     country: Australia
+    state: WA
     city: Chidlow
     styles:
       - balfolk
