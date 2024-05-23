@@ -4722,7 +4722,7 @@ events:
     organisation: Spreefolk eV
     source: events/germany/spreefolk.yaml
   - name: TANZhaus WABE
-    details: "19:00 Uhr – Tanzeinführungsworkshop mit Thomas Römer\n20:00 Uhr – BalFolk\nEintritt: 21 Euro regulär, 13 Euro ermäßigt *\nCopyright: FolkingerImmer noch und immer wieder!\nMusik aus europäischen und nahöstlichen Gefilden\nmit stetig wachsendem Wurzelwerk\nganz und gar ohr-, herz- und beingängig.\nDas dynamische Zusammenspiel von Akkordeon, Geige, Klarinette/Saxophon, Kontrabass und Schlagzeug, prägt den treibenden Sound der Band und dies schon seit über drei Jahrzehnten\nauf kleinen und großen Bühnen. Traditionelle Tanzstücke mit eigenen Arrangements sowie Eigenkompositionen bilden das Repertoire, lassen euch über den Boden schweben, als Einzelne im Kreis, als Paar oder fischbar an der Tischbar.\nNur hör’n und kiek’n darf och sein!\nUnter der Anleitung des ‚Tanzmeisters‘ wird generationsübergreifend getanzt, mal feurig, mal cool,\nmit Hingabe oder völlig losgelöst!\n„Mit – Mach – Folk – Tanz aus Berlin“- Folkingers Webseite! ( https://folkinger.jimdofree.com/ )\n—\n*Ermäßigung mit Nachweis: SchülerInnen, StudentInnen, Auszubildende, Berechtigungsnachweis für das Berlin-Ticket S, Schwerbeschädigte ab 50 %\nSeit Neuestem haben wir im Vorverkauf ein erweitertes Preiskonzept, bitte schaut Euch das gerne mal an. Einige Preisstufen sind nur im Vorverkauf verfügbar."
+    details: "19:00 Uhr – Tanzeinführungsworkshop mit Thomas Römer\n20:00 Uhr – BalFolkEintritt: 21 Euro regulär, 13 Euro ermäßigt *\nCopyright: FolkingerImmer noch und immer wieder!\nMusik aus europäischen und nahöstlichen Gefilden\nmit stetig wachsendem Wurzelwerk\nganz und gar ohr-, herz- und beingängig.\nDas dynamische Zusammenspiel von Akkordeon, Geige, Klarinette/Saxophon, Kontrabass und Schlagzeug, prägt den treibenden Sound der Band und dies schon seit über drei Jahrzehnten\nauf kleinen und großen Bühnen. Traditionelle Tanzstücke mit eigenen Arrangements sowie Eigenkompositionen bilden das Repertoire, lassen euch über den Boden schweben, als Einzelne im Kreis, als Paar oder fischbar an der Tischbar.\nNur hör’n und kiek’n darf och sein!\nUnter der Anleitung des ‚Tanzmeisters‘ wird generationsübergreifend getanzt, mal feurig, mal cool,\nmit Hingabe oder völlig losgelöst!\n„Mit – Mach – Folk – Tanz aus Berlin“- Folkingers Webseite! ( https://folkinger.jimdofree.com/ )\n—\n*Ermäßigung mit Nachweis: SchülerInnen, StudentInnen, Auszubildende, Berechtigungsnachweis für das Berlin-Ticket S, Schwerbeschädigte ab 50 %\nSeit Neuestem haben wir im Vorverkauf ein erweitertes Preiskonzept, bitte schaut Euch das gerne mal an. Einige Preisstufen sind nur im Vorverkauf verfügbar."
     links:
       - "https://spreefolk.de/events/wabe2406"
     start: "2024-06-15T19:00:00+02:00"
@@ -4736,6 +4736,23 @@ events:
     bands:
       - Folkinger
     price: €13-€21
+    organisation: Spreefolk eV
+    source: events/germany/spreefolk.yaml
+  - name: Folk & Dance at Schäfersee
+    details: "Tanznachmittag mit Live-Musik\nSo 16.06.2024  15-17 Uhr\n\nFolkmusik aus ungarischen u. rumänischen Dörfern\neine Art ungarischer Rock ‘n Roll  \nVielleicht gibt es sogar eine improvisierteTanzanleitung.\nDURRbanda – Foto: privat\nIn ungarischen und rumänischen Dörfern trifft man sich traditionell zum Tanzen im tanchaz (Tanzhaus). Gespielt wird eine Art ungarischer Rock‘n Roll auf Geige, dreiseitigem Bass und Kontramusik mit eigentümlichem Rhythmus.\nWer sich auskennt, hört schon bei den ersten Takten den Herkunftsort heraus und ob nun Rund-, Männer – oder Paartanz angesagt ist.\nAlle anderen lernen beim Machen, also Tanzen, und für alle ist es ein Riesenspaß…\nOrt: M5 am Franz-Neumann-Platz, Markstraße 5, 13409 Berlin\nDer Eintritt ist frei"
+    links:
+      - "https://spreefolk.de/events/2406-tanz-m5"
+    start: "2024-06-16T15:00:00+02:00"
+    end: "2024-06-16T17:00:00+02:00"
+    country: Germany
+    city: Berlin
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - DURRbanda
+    price: free
     organisation: Spreefolk eV
     source: events/germany/spreefolk.yaml
   - name: TANZhaus WABE
@@ -67827,6 +67844,75 @@ events:
     price: $9
     organisation: CDSS
     source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "All are welcome to join us for another very fine afternoon of English Country Dance. Spread the word and bring all your friends, family and neighbors! \n\n3:30pm-4:00pm, Newcomers’ Session\n4:00pm-6:15-ish pm, Dance\nLeader: TBA\nLive Music: TBA\nBring a snack to share during the break-out in the parlor.\nWear comfortable clothes and non-marking shoes.\n\nWe are deeply grateful to be a part of our community dance organization, The Old Farmers Ball, and for their promotion and support of area traditional dance and music. \nFree of charge. \nFor schedule updates, visit the Old Farmers Ball website."
+    links:
+      - "https://oldfarmersball.com/english-country-dance/"
+      - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance-2/2024-05-26/"
+    start: "2024-05-26T15:30:00-04:00"
+    end: "2024-05-26T18:15:00-04:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: free
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Hayward Contra Dance
+    details: "We typically dance on the 2nd & 4th Sunday of each month. \nFor years, the Hayward Contra has drawn dancers from all over the Bay Area and beyond. \nSome of the unique features that have drawn a loyal following are: \nHayward is centrally located and the venue, The Hill and Valley Club, 1808 ‘B’ Street, Hayward, CA, is easy to reach by BART or car. \nAs a weekend dance, we have attracted dancers with busy work schedules. \nMeeting in the afternoon from 4-7pm, dancers coming from greater distances were able to manage the travel time both before and after the dances. \nOur venue, the Hill and Valley Club, is one of the airiest dance halls in the bay area. \nThese features have allowed us to attract a very diverse multigenerational crowd that is comfortable with our gender-neutral atmosphere. \nDetails at our website. \nWe also have a Facebook group."
+    links:
+      - "https://sfbaycontra.org/"
+      - "https://cdss.org/event/hayward-ca-contra-dance/2024-05-26/"
+    start: "2024-05-26T16:00:00-07:00"
+    end: "2024-05-26T19:00:00-07:00"
+    country: USA
+    state: CA
+    city: Hayward
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $15-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Gainesville English Country Dance
+    details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
+    links:
+      - "https://cdss.org/event/gainesville-florida-english-country-dance/2024-05-27/"
+    start: "2024-05-27T18:10:00-04:00"
+    end: "2024-05-27T20:30:00-04:00"
+    country: USA
+    state: FL
+    city: Gainesville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Hoggetowne Fancy
+    price: $10
+    organisation: Gainesville English Country Dance
+    source: events/usa/cdss.yaml
+  - name: Monday Contra Dance
+    details: "What better way to start the week? Only $5! It’s Monday, and we (almost) always dance on Monday."
+    links:
+      - "https://www.monadnockfolk.org/event/monday-night-dance/2024-05-27/"
+      - "https://cdss.org/event/monday-contra-dance-in-nelson-nh/2024-05-27/"
+    start: "2024-05-27T19:30:00-04:00"
+    end: "2024-05-27T22:00:00-04:00"
+    country: USA
+    state: NH
+    city: Nelson
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5
+    organisation: Monadnock Folklore Society
+    source: events/usa/cdss.yaml
   - name: Ferragosto Balfolk
     links:
       - "https://www.facebook.com/events/1638839719826989/"
@@ -93232,6 +93318,21 @@ events:
     price: €5
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk Utrecht Summer Trial Class
+    details: "Voor beginners++ en begonners. Voor registreren en meer informatie, klik hier.\n\nFor beginners++ and pre-intermediates. For registration and more information, click here."
+    links:
+      - "https://www.en.balfolkutrecht.nl/classes/summer"
+      - "https://www.balfolk.nl/agenda/proefles-%f0%9f%87%b3%f0%9f%87%b1-%f0%9f%87%ac%f0%9f%87%a7-balfolk-utrecht-summer-classes/"
+    start: "2024-09-02T19:15:00+02:00"
+    end: "2024-09-02T21:45:00+02:00"
+    country: Netherlands
+    city: Utrecht
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -93356,6 +93457,21 @@ events:
     bands:
       - Naragonia
     price: €10-€15
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Balfolk Utrecht Autumn Trial Class
+    details: "Voor half- en gevorderden. Voor registreren en meer informatie, klik hier.\n\nFor intermediates and advanced dancers. For registration and more information, click here."
+    links:
+      - "https://www.balfolk.nl/agenda/proefles-%f0%9f%87%b3%f0%9f%87%b1-%f0%9f%87%ac%f0%9f%87%a7-balfolk-utrecht-autumn-classes/"
+      - "https://www.en.balfolkutrecht.nl/classes/autumn"
+    start: "2024-09-30T19:15:00+02:00"
+    end: "2024-09-30T21:45:00+02:00"
+    country: Netherlands
+    city: Utrecht
+    styles:
+      - balfolk
+    workshop: true
+    social: false
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
@@ -93779,6 +93895,22 @@ events:
     workshop: true
     social: true
     price: €5
+    organisation: balfolk.nl
+    source: events/netherlands/balfolk_nl.yaml
+  - name: Minibal — Balfolk Utrecht
+    details: "** English below **\n\n\n\nWe eindigen het seizoen met Duo Niepold Cutting. Twee trekharmonica spelers van wereldklasse. Twee virtuozen die hun instrumenten gaan kruizen op de dansvloer. Andy Cutting is een Britse trekharmonicaspeler bekend van zijn werk met balgroepen zoals Blowzabella, Topette en Leverette en hij speelde ook samen met Chris Wood, Sting, The Who en Nigel Eaton. Anne Niepold is een Belgische trekharmonicaspeelster die haar sporen ruim verdiende. Zijn nam een Musette cd op (Musette is not Dead) en is van oorsprong jazz-accordeonist. Een spannende combinatie!\n\nhttps://youtu.be/QCZxAH73Cp4\n\nVerdere informatie volgt nog.\n\n\n\n** English **\n\n\n\nWe end the season with Duo Niepold Cutting. Two world-class harmonica players. Andy Cutting is a British harmonica player known for his work in bands such as Blowzabella, Topette and Leverette. He also played with Chris Wood, Sting, The Who and Nigel Eaton. Anne Niepold is a Belgian harmonica player. Anne Niepold recorded a Musette CD (Musette is not Dead) and is originally a jazz accordionist. An exciting combination!\n\nhttps://youtu.be/QCZxAH73Cp4\n\nFurther information will follow."
+    links:
+      - "https://www.balfolk.nl/agenda/minibal-balfolk-utrecht/"
+    start: "2025-01-13T19:00:00+01:00"
+    end: "2025-01-13T21:45:00+01:00"
+    country: Netherlands
+    city: Utrecht
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Niepold-Cutting
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Dansavond
