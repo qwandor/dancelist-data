@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: '"Not Quite Breton" Solstice Dance'
+  - name: "\"Not Quite Breton\" Solstice Dance"
     links:
       - "https://www.facebook.com/dora.darling.71/posts/pfbid0MTCKTe94xwh1GqoyWv5nSc37Ekp7SeSYHDw5heHGgJr9J3bLPiUzAgi86csvPqGgl"
     start: "2022-12-17T19:00:00+00:00"
@@ -48,3 +48,16 @@ events:
       - "Maya Love, Sophie Harrison, Daygan Robinson & Rob Bray"
     price: £10
     organisation: Darling Folk Collective
+  - name: Clandestine Mazurka
+    links:
+      - "https://www.facebook.com/groups/708663859216372/posts/7585695764846446/"
+    start: "2024-06-16T15:00:00+01:00"
+    end: "2024-06-16T18:00:00+01:00"
+    country: UK
+    city: Frome
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: free
+    organisation: ~
