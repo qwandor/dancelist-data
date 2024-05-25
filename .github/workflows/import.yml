@@ -95,3 +95,38 @@ jobs:
           then
             git push
           fi
+  import-plugevents:
+    name: Update plug.events imports
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: plug
+      - name: Get dancelist version
+        run: echo "HEAD=$(git ls-remote https://github.com/qwandor/dancelist HEAD|cut -f1)" >> $GITHUB_OUTPUT
+        id: version
+      - name: Cache .cargo and target
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/bin
+            ~/.cargo/git
+            ~/.cargo/registry
+            ~/.cargo/.crates.toml
+            ~/.cargo/.crates2.json
+          key: ${{ runner.os }}-cargo-install-${{ steps.version.outputs.HEAD }}
+      - name: Install dancelist
+        run: cargo install --git https://github.com/qwandor/dancelist
+      - name: Import balfolk events
+        run: dancelist import-plug-events ${{ secrets.PLUG_BALFOLK_TOKEN }} plug_balfolk.yaml
+      - name: Import contra events
+        run: dancelist import-plug-events ${{ secrets.PLUG_CONTRA_TOKEN }} plug_contra.yaml
+      - name: Commit if changed
+        run: |
+          git add events
+          git config user.name "Automatic import"
+          git config user.email "dancelist-import@users.noreply.github.com"
+          if git commit -m "Update import."
+          then
+            git push
+          fi
