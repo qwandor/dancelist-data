@@ -12528,8 +12528,8 @@ events:
   - name: Friday Folk Saturday Special
     links:
       - "https://fridayfolk.org.uk/"
-    start: "2023-11-23T19:30:00+00:00"
-    end: "2023-11-23T22:30:00+00:00"
+    start: "2024-11-23T19:30:00+00:00"
+    end: "2024-11-23T22:30:00+00:00"
     country: UK
     city: St Albans
     styles:
@@ -19571,6 +19571,76 @@ events:
     price: £164-£549
     organisation: Sidmouth Folk Festival
     source: events/uk/sidmouth.yaml
+  - name: Sidmouth Folk Festival
+    links:
+      - "https://sidmouthfolkfestival.co.uk/"
+    start_date: 2024-08-02
+    end_date: 2024-08-09
+    country: UK
+    city: Sidmouth
+    styles:
+      - e-ceilidh
+      - contra
+      - ecd
+      - scd
+      - balfolk
+      - scandi
+      - irish-set
+      - ceili
+    workshop: true
+    social: true
+    bands:
+      - 3sticks
+      - Barber Band
+      - Bedlam
+      - Brown Boots Boogie Band
+      - Cock and Bull Band
+      - Folk Camps Party Band
+      - "Granny's Attic"
+      - Jigfoot
+      - Melrose Quintet
+      - Monster Ceilidh Band
+      - "Mrs Midnight's"
+      - Old Swan Band
+      - Oyster Ceilidh Band
+      - Polkaworks
+      - Step Ceilidh Party
+      - Tickled Pink
+      - Chris Wood & Andy Cutting
+      - Double Dichotomy
+      - Folkus Poljus
+      - 3D
+      - Vertical Expression
+      - WillPower
+      - Hoik
+      - Oscina
+      - Nicky McConkey
+      - Eglamore
+    callers:
+      - Alison Rowley
+      - Barry Goodman
+      - Erin Mansfield
+      - Emma Wooders
+      - Fee Lock
+      - Gordon Potts
+      - Hannah Moore
+      - Ian Nichols
+      - Jane Bird
+      - Nick Walden
+      - Nancy Potts
+      - Adam Hughes
+      - Bridget Flett
+      - Daisy Black
+      - Lynne Render
+      - Bob Morgan
+      - Frances Richardson
+      - Bridget Flett
+      - Kevin Monaghan
+      - Carol Monaghan
+      - Sam Tetley-Smith
+    price: £197-£549
+    organisation: Sidmouth Folk Festival
+    source: events/uk/sidmouth.yaml
   - name: Folk Wilderness balfolk lesson
     links:
       - "https://www.facebook.com/events/2429319267200867/"
@@ -24574,7 +24644,7 @@ events:
     source: events/uk/sytchampton.yaml
   - name: Sytchampton Saturday dance
     links:
-      - "https://www.sytchamptondanceclub.org.uk/dance_diary.html"
+      - "https://www.sytchamptondanceclub.org.uk/p/dance-diary-experiment.html"
     start: "2024-09-28T19:30:00+01:00"
     end: "2024-09-28T22:30:00+01:00"
     country: UK
@@ -24585,7 +24655,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Vicki Swan & Jonny Dyer
+      - Chris & Julie Dewhurst
     callers:
       - Mike Courthold
     price: £8
@@ -24593,7 +24663,7 @@ events:
     source: events/uk/sytchampton.yaml
   - name: Sytchampton Saturday dance
     links:
-      - "https://www.sytchamptondanceclub.org.uk/dance_diary.html"
+      - "https://www.sytchamptondanceclub.org.uk/p/dance-diary-experiment.html"
     start: "2024-12-14T19:30:00+00:00"
     end: "2024-12-14T22:30:00+00:00"
     country: UK
@@ -24607,6 +24677,83 @@ events:
       - The Falconers
     callers:
       - Geoff Cubitt
+    price: £8
+    organisation: Sytchampton Folk Dance Club
+    source: events/uk/sytchampton.yaml
+  - name: Sytchampton Saturday dance
+    links:
+      - "https://www.sytchamptondanceclub.org.uk/p/dance-diary-experiment.html"
+    start: "2025-01-18T19:30:00+00:00"
+    end: "2025-01-18T22:30:00+00:00"
+    country: UK
+    city: Sytchampton
+    styles:
+      - ecd
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Chis & Julie Dewhurst
+    callers:
+      - Dave Wright
+      - Kathryn Wright
+    price: £8
+    organisation: Sytchampton Folk Dance Club
+    source: events/uk/sytchampton.yaml
+  - name: Sytchampton Saturday dance
+    links:
+      - "https://www.sytchamptondanceclub.org.uk/p/dance-diary-experiment.html"
+    start: "2025-03-22T19:30:00+00:00"
+    end: "2025-03-22T22:30:00+00:00"
+    country: UK
+    city: Sytchampton
+    styles:
+      - ecd
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Nozzy
+    callers:
+      - Nicola Scott
+    price: £8
+    organisation: Sytchampton Folk Dance Club
+    source: events/uk/sytchampton.yaml
+  - name: Sytchampton Saturday dance
+    links:
+      - "https://www.sytchamptondanceclub.org.uk/p/dance-diary-experiment.html"
+    start: "2025-09-27T19:30:00+01:00"
+    end: "2025-09-27T22:30:00+01:00"
+    country: UK
+    city: Sytchampton
+    styles:
+      - ecd
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - The Falconers
+    callers:
+      - Rhodri Davies
+    price: £8
+    organisation: Sytchampton Folk Dance Club
+    source: events/uk/sytchampton.yaml
+  - name: Sytchampton Saturday dance
+    links:
+      - "https://www.sytchamptondanceclub.org.uk/p/dance-diary-experiment.html"
+    start: "2025-12-13T19:30:00+00:00"
+    end: "2025-12-13T22:30:00+00:00"
+    country: UK
+    city: Sytchampton
+    styles:
+      - ecd
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Vicky Swan & Jonny Dyer
+    callers:
+      - Ivan Aitken
     price: £8
     organisation: Sytchampton Folk Dance Club
     source: events/uk/sytchampton.yaml
