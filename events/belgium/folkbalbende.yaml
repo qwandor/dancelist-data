@@ -2314,20 +2314,6 @@ events:
       - Folkafdeling Lebbeke
       - Hidrae
     organisation: ~
-  - name: Stage voor Traditionele Volksmuziek
-    details: Music workshops and bals
-    links:
-      - "http://stagegooik.be/"
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-    start_date: 2022-08-21
-    end_date: 2022-08-25
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    organisation: Stage voor Traditionele Volksmuziek
   - name: Orchestre & Animateur
     details: Ball
     links:
@@ -9738,26 +9724,6 @@ events:
     social: true
     price: €2
     organisation: ~
-  - name: Stage Gooik folk bals
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "http://stagegooik.be/folkonstage/"
-    start: 2023-08-19T20:00:00+02:00
-    end: 2023-08-24T23:00:00+02:00
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Flor de Zinc
-      - Phlox
-      - Duo Clercx
-      - Aghoea
-      - Warmoes
-    organisation: ~
   - name: Folkbal
     details: Ball
     links:
@@ -9901,9 +9867,9 @@ events:
   - name: Boombal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.boombal.be"
+      - "https://boombal.be"
       - "https://folkbalbende.be/event/1776"
+      - "https://folkbalbende.be/event/2259"
     start: 2024-05-31T20:00:00+02:00
     end: 2024-06-01T00:00:00+02:00
     country: Belgium
@@ -13043,7 +13009,7 @@ events:
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.facebook.com/OlDaFolk?locale=nl_NL"
+      - "https://www.facebook.com/OlDaFolk"
       - "https://folkbalbende.be/event/2069"
     start_date: 2024-09-20
     end_date: 2024-09-20
@@ -13055,7 +13021,7 @@ events:
     social: true
     bands:
       - Naragonia Quartet
-    organisation: ~
+    organisation: Ol Da Folk Brugge
   - name: Branle Béarnais & Rondeau En Chaîne
     details: Course
     links:
@@ -14212,6 +14178,7 @@ events:
   - name: Folkbal
     details: Ball
     links:
+      - "https://www.facebook.com/events/1310957106228203/"
       - "https://folkbalbende.be/event/2157"
     start: "2024-05-31T20:00:00+02:00"
     end: "2024-05-31T23:00:00+02:00"
@@ -14745,6 +14712,8 @@ events:
       - "http://www.gooikoorts.be/"
       - "https://www.facebook.com/events/922383716232144/"
       - "https://folkbalbende.be/event/2204"
+      - "https://folkbalbende.be/event/2267"
+      - "https://folkbalbende.be/event/2268"
     start: 2024-07-05T19:00:00+02:00
     end: 2024-07-07T23:45:00+02:00
     country: Belgium
@@ -15098,10 +15067,11 @@ events:
       - 3...4
       - Stoemp!
     organisation: ~
-  - name: Baleynbal
+  - name: Teyrrasfolk
     details: Ball
     links:
       - "https://tey.be/programma/2024/08/22/duo-buscan-gielen-duo-montanarocavez"
+      - "https://www.facebook.com/events/1643157029556366/"
       - "https://folkbalbende.be/event/2229"
     start: "2024-08-22T19:30:00+02:00"
     end: "2024-08-22T23:30:00+02:00"
@@ -15328,31 +15298,14 @@ events:
     social: false
     price: donation
     organisation: Stanistil
-  - name: Boombal
-    details: Ball
-    links:
-      - "https://boombal.be"
-      - "https://folkbalbende.be/event/2259"
-    start: "2024-05-31T20:00:00+02:00"
-    end: "2024-05-31T22:45:00+02:00"
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - KV Express
-      - Warmoes
-    organisation: Boombal
   - name: Volksmuziek Dé
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.academie-ieper.be"
       - "https://folkbalbende.be/event/2260"
-    start_date: 2024-06-02
-    end_date: 2024-06-02
+    start: "2024-06-02T15:00:00+02:00"
+    end: "2024-06-02T19:00:00+02:00"
     country: Belgium
     city: Ieper
     styles:
@@ -15360,67 +15313,30 @@ events:
     workshop: false
     social: true
     bands:
-      - ElèVes De La
-      - Academie Ieper
-      - Duo De
-      - Schepper-Sanczuk
+      - ElèVes de la Academie Ieper
+      - Duo De Schepper-Sanczuk
     organisation: ~
   - name: Folkbal
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.facebook.com/profile.php?id=100057904521740"
       - "https://folkbalbende.be/event/2265"
-    start_date: 2024-06-21
-    end_date: 2024-06-21
+    start: "2024-06-21T19:00:00+02:00"
+    end: "2024-06-21T22:30:00+02:00"
     country: Belgium
     city: Leuze-en-Hainaut
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - KV Express
-    organisation: ~
-  - name: Gooikoorts
+    organisation: Centre Culturel de Leuze
+  - name: Boombal Paradiso
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.gooikoorts.be"
-      - "https://folkbalbende.be/event/2267"
-    start_date: 2024-07-05
-    end_date: 2024-07-05
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Geronimo
-    organisation: ~
-  - name: Gooikoorts
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.gooikoorts.be"
-      - "https://folkbalbende.be/event/2268"
-    start_date: 2024-07-07
-    end_date: 2024-07-07
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Variomatic
-    organisation: ~
-  - name: Boombal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.remigeffroy.com/"
+      - "https://www.remigeffroy.com/agenda"
       - "https://folkbalbende.be/event/2269"
     start_date: 2024-07-10
     end_date: 2024-07-10
@@ -15433,32 +15349,34 @@ events:
     bands:
       - Rémi Geffroy
     organisation: ~
-  - name: Folkbal
+  - name: Teyrrasfolk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.tey.be/"
+      - "https://tey.be/programma/2024/07/11/dron-follia"
+      - "https://tey.be/programma/2024/07/11/juli-augustus-teyrrasfolk"
+      - "https://www.facebook.com/events/7427946173986664/"
       - "https://folkbalbende.be/event/2270"
-    start_date: 2024-07-11
-    end_date: 2024-07-11
+    start: "2024-07-11T19:30:00+02:00"
+    end: "2024-07-11T23:30:00+02:00"
     country: Belgium
     city: Sint-Niklaas
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Drøn
-      - Follia!
+      - Follia
+    price: free
     organisation: "Muziekclub 't Ey"
-  - name: Folkbal
+  - name: Le P'tit Bal du Harby
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.pasdlayau.be"
+      - "https://www.facebook.com/events/445622354657501/"
       - "https://folkbalbende.be/event/2271"
-    start_date: 2024-07-20
-    end_date: 2024-07-20
+    start: "2024-07-20T10:00:00+02:00"
+    end: "2024-07-20T16:00:00+02:00"
     country: Belgium
     city: Hollain
     styles:
@@ -15467,51 +15385,54 @@ events:
     social: true
     bands:
       - Galyme
-    organisation: ~
-  - name: Bal
+    price: free
+    organisation: Pas d'La Yau
+  - name: Teyrrasfolk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.tey.be/"
+      - "https://tey.be/programma/2024/08/01/emmarilin-viorel"
+      - "https://www.facebook.com/events/439106365318863/"
       - "https://folkbalbende.be/event/2272"
-    start_date: 2024-08-01
-    end_date: 2024-08-01
+    start: "2024-08-01T19:30:00+02:00"
+    end: "2024-08-01T23:30:00+02:00"
     country: Belgium
     city: Belsele
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Emmarilin
       - Viorel
+    price: free
     organisation: "Muziekclub 't Ey"
-  - name: Folkbal
+  - name: Teyrrasfolk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.tey.be/"
+      - "https://tey.be/programma/2024/08/08/duo-meunier-villeneuve"
+      - "https://www.facebook.com/events/386689467598959/"
       - "https://folkbalbende.be/event/2273"
-    start_date: 2024-08-08
-    end_date: 2024-08-08
+    start: "2024-08-08T19:30:00+02:00"
+    end: "2024-08-08T23:30:00+02:00"
     country: Belgium
     city: Belsele
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
-      - Duo Meunier/Villeneuve
+      - Duo Meunier-Villeneuve
       - Hidrae
+    price: free
     organisation: "Muziekclub 't Ey"
-  - name: Folkbal
+  - name: Teyrrasfolk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.tey.be/"
+      - "https://tey.be/programma/2024/08/15/guus-herremans-ward-dhoore-marie-paulette"
+      - "https://www.facebook.com/events/435522325509502/"
       - "https://folkbalbende.be/event/2274"
-    start_date: 2024-08-15
-    end_date: 2024-08-15
+    start: "2024-08-15T19:30:00+02:00"
+    end: "2024-08-15T23:30:00+02:00"
     country: Belgium
     city: Sint-Niklaas
     styles:
@@ -15521,6 +15442,7 @@ events:
     bands:
       - Thalas
       - Marie Paulette
+    price: free
     organisation: "Muziekclub 't Ey"
   - name: Soirée Danses
     details: Ball
@@ -15528,40 +15450,40 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.danseridoe.be/"
       - "https://folkbalbende.be/event/2275"
-    start_date: 2024-08-19
-    end_date: 2024-08-19
+    start: "2024-08-19T19:30:00+02:00"
+    end: "2024-08-19T22:00:00+02:00"
     country: Belgium
     city: Deinze
     styles:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - Internationales
-    organisation: ~
-  - name: Duo MEUNIER-VILLENEUVE (France)
-    details: Ball
+    organisation: DanseriDoe
+  - name: Folk On Stage
+    details: Music workshops and bals
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://stagegooik.be/"
+      - "https://stagegooik.be/folkonstage/"
       - "https://folkbalbende.be/event/2276"
-    start_date: 2024-08-23
-    end_date: 2024-08-23
+    start: "2024-08-19T21:30:00+02:00"
+    end: "2024-08-23T22:00:00+02:00"
     country: Belgium
     city: Gooik
     styles:
       - balfolk
     workshop: false
     social: true
-    organisation: ~
-  - name: Folkbal
+    bands:
+      - Duo Meunier-Villeneuve
+    price: free
+    organisation: Muziekmozaïek
+  - name: Teyrrasfolk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.tey.be/"
+      - "https://tey.be/programma/2024/08/29/wouter-en-de-draak-floris-and-the-flames"
+      - "https://www.facebook.com/events/947550873538675/"
       - "https://folkbalbende.be/event/2277"
-    start_date: 2024-08-29
-    end_date: 2024-08-29
+    start: "2024-08-29T19:30:00+02:00"
+    end: "2024-08-29T23:30:00+02:00"
     country: Belgium
     city: Belsele
     styles:
@@ -15569,16 +15491,18 @@ events:
     workshop: false
     social: true
     bands:
+      - Wouter en de Draak
       - Floris And The Flames
+    price: free
     organisation: "Muziekclub 't Ey"
-  - name: Folkbal
+  - name: Le P'tit Bal du Harby
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/events/879320067296953/"
       - "http://pasdlayau.be/"
       - "https://folkbalbende.be/event/2278"
-    start_date: 2024-09-14
-    end_date: 2024-09-14
+    start: "2024-09-14T20:00:00+02:00"
+    end: "2024-09-14T22:00:00+02:00"
     country: Belgium
     city: Quevaucamps
     styles:
@@ -15587,29 +15511,33 @@ events:
     social: true
     bands:
       - Galyme
-    organisation: ~
-  - name: SHILLELAGH (France)
+    price: €10
+    organisation: Pas d'La Yau
+  - name: Le P'tit Bal du Harby
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/events/7061711340601844/"
       - "http://pasdlayau.be/"
       - "https://folkbalbende.be/event/2279"
-    start_date: 2024-11-16
-    end_date: 2024-11-16
+    start: "2024-11-16T16:00:00+02:00"
+    end: "2024-11-16T22:00:00+02:00"
     country: Belgium
     city: Quevaucamps
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
-    organisation: ~
+    bands:
+      - Shillegagh
+    price: €10-€25
+    organisation: Pas d'La Yau
   - name: Boombal
     details: Ball
     links:
       - "https://boombal.be"
       - "https://folkbalbende.be/event/2280"
-    start_date: 2025-03-04
-    end_date: 2025-03-04
+    start: "2025-03-04T20:00:00+01:00"
+    end: "2025-03-04T23:00:00+01:00"
     country: Belgium
     city: Gent
     styles:
@@ -15622,14 +15550,15 @@ events:
     links:
       - "https://www.facebook.com/events/980828536427206/"
       - "https://folkbalbende.be/event/2281"
-    start_date: 2024-06-07
-    end_date: 2024-06-07
+    start: "2024-06-07T19:00:00+02:00"
+    end: "2024-06-08T00:00:00+02:00"
     country: Belgium
     city: Herk-de-Stad
     styles:
       - balfolk
     workshop: true
     social: true
+    price: €5-€16
     bands:
       - Folkensemble Van De Genkse Academie
       - Bamako Express
