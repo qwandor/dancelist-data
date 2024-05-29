@@ -4,11 +4,12 @@ events:
     links:
       - "https://www.facebook.com/events/1150624002162043/"
       - "https://billetterie.superforma.fr/"
-    start: 2022-09-30T20:30:00+02:00
-    end: 2022-10-01T23:00:00+02:00
+    start: "2022-09-30T20:30:00+02:00"
+    end: "2022-10-01T23:00:00+02:00"
     country: France
     city: Le Mans
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -19,4 +20,25 @@ events:
       - 21 BOuTONS
       - Bargainatt
     price: €22-€42
+    organisation: Superforma
+  - name: Festival Folkiri
+    links:
+      - "https://www.facebook.com/events/1104168540637361/"
+      - "https://superforma.fr/agenda/folkiri-2024"
+    start: "2024-10-03T20:30:00+02:00"
+    end: "2024-10-05T23:30:00+02:00"
+    country: France
+    city: Le Mans
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Armoire Totale
+      - Fahrenheit
+      - Supernovas
+      - LyraDanz
+      - Man Encantada
+      - Groove Factory
+    price: €25-€74
     organisation: Superforma
