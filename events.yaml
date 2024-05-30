@@ -69579,6 +69579,41 @@ events:
     price: $3-$15
     organisation: North Bay Country Dance Society
     source: events/usa/cdss.yaml
+  - name: Gainesville English Country Dance
+    details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
+    links:
+      - "https://cdss.org/event/gainesville-florida-english-country-dance/2024-06-03/"
+    start: "2024-06-03T18:10:00-04:00"
+    end: "2024-06-03T20:30:00-04:00"
+    country: USA
+    state: FL
+    city: Gainesville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Hoggetowne Fancy
+    price: $10
+    organisation: Gainesville English Country Dance
+    source: events/usa/cdss.yaml
+  - name: Monday Contra Dance
+    details: "What better way to start the week? Only $5! It’s Monday, and we (almost) always dance on Monday."
+    links:
+      - "https://www.monadnockfolk.org/event/monday-night-dance-6/2024-06-03/"
+      - "https://cdss.org/event/monday-contra-dance-in-nelson-nh/2024-06-03/"
+    start: "2024-06-03T19:30:00-04:00"
+    end: "2024-06-03T22:00:00-04:00"
+    country: USA
+    state: NH
+    city: Nelson
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5
+    organisation: Monadnock Folklore Society
+    source: events/usa/cdss.yaml
   - name: Ferragosto Balfolk
     links:
       - "https://www.facebook.com/events/1638839719826989/"
@@ -71355,6 +71390,9 @@ events:
       - "https://www.boombalfestival.be/"
       - "https://www.facebook.com/events/258364853881097/"
       - "https://folkbalbende.be/event/2100"
+      - "https://frissefolk.be/en/event-en/musicality-for-dancers-&-festival-skills-boombalfestival/1003/"
+      - "https://folkbalbende.be/event/2256"
+      - "https://www.facebook.com/events/258364853881097"
     start: "2024-08-21T20:00:00+02:00"
     end: "2024-08-26T00:00:00+02:00"
     country: Belgium
@@ -82029,24 +82067,6 @@ events:
     price: €16-€20
     organisation: Boombal
     source: events/belgium/folkbalbende.yaml
-  - name: Boombal
-    details: Ball
-    links:
-      - "https://boombal.be"
-      - "https://folkbalbende.be/event/2259"
-    start: "2024-05-31T20:00:00+02:00"
-    end: "2024-06-01T00:00:00+02:00"
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Warmoes
-      - KV Express
-    organisation: Boombal
-    source: events/belgium/folkbalbende.yaml
   - name: Mazurka Clandestina
     details: Ball
     links:
@@ -87780,6 +87800,41 @@ events:
     price: donation
     organisation: Stanistil
     source: events/belgium/folkbalbende.yaml
+  - name: Live Performance
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2258"
+    start: "2024-06-05T20:00:00+02:00"
+    end: "2024-06-05T23:00:00+02:00"
+    country: Belgium
+    city: Diepenbeek
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Pantonim
+    price: donation
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://folkbalbende.be/event/2259"
+    start: "2024-05-31T20:00:00+02:00"
+    end: "2024-06-01T00:00:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Warmoes
+      - KV Express
+    organisation: Boombal
+    source: events/belgium/folkbalbende.yaml
   - name: Volksmuziek Dé
     details: Ball
     links:
@@ -88059,6 +88114,166 @@ events:
       - Bamako Express
     price: €5-€16
     organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Open Air Folk Practica
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/open-air-folk-practica/1004/"
+      - "https://folkbalbende.be/event/2286"
+      - "https://www.facebook.com/events/472849451944914/472849461944913/"
+    start: "2024-07-02T19:30:00+02:00"
+    end: "2024-07-02T22:00:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Open Air Folk Practica
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/open-air-folk-practica/1005/"
+      - "https://folkbalbende.be/event/2287"
+      - "https://www.facebook.com/events/472849451944914/472849468611579/"
+    start: "2024-07-09T19:30:00+02:00"
+    end: "2024-07-09T22:00:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Open Air Folk Practica
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/open-air-folk-practica/1006/"
+      - "https://folkbalbende.be/event/2288"
+      - "https://www.facebook.com/events/472849451944914/472849481944911/"
+    start: "2024-07-16T19:30:00+02:00"
+    end: "2024-07-16T22:00:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Open Air Folk Practica
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/open-air-folk-practica/1007/"
+      - "https://folkbalbende.be/event/2289"
+      - "https://www.facebook.com/events/472849451944914/472849471944912/"
+    start: "2024-07-23T19:30:00+02:00"
+    end: "2024-07-23T22:00:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Open Air Folk Practica
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/open-air-folk-practica/1008/"
+      - "https://folkbalbende.be/event/2290"
+      - "https://www.facebook.com/events/472849451944914/472849465278246/"
+    start: "2024-07-30T19:30:00+02:00"
+    end: "2024-07-30T22:00:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Open Air Folk Practica
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/open-air-folk-practica/1009/"
+      - "https://folkbalbende.be/event/2291"
+      - "https://www.facebook.com/events/472849451944914/472849498611576/"
+    start: "2024-08-06T19:30:00+02:00"
+    end: "2024-08-06T22:00:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Open Air Folk Practica
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/open-air-folk-practica/1010/"
+      - "https://folkbalbende.be/event/2292"
+      - "https://www.facebook.com/events/472849451944914/472849475278245/"
+    start: "2024-08-13T19:30:00+02:00"
+    end: "2024-08-13T22:00:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Open Air Folk Practica
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/open-air-folk-practica/1011/"
+      - "https://folkbalbende.be/event/2293"
+      - "https://www.facebook.com/events/472849451944914/472849485278244/"
+    start: "2024-08-20T19:30:00+02:00"
+    end: "2024-08-20T22:00:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Open Air Folk Practica
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/open-air-folk-practica/1012/"
+      - "https://folkbalbende.be/event/2294"
+      - "https://www.facebook.com/events/472849451944914/472849478611578/"
+    start: "2024-08-27T19:30:00+02:00"
+    end: "2024-08-27T22:00:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Open Air Folk Practica
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/open-air-folk-practica/1013/"
+      - "https://folkbalbende.be/event/2295"
+      - "https://www.facebook.com/events/472849451944914/472849488611577/"
+    start: "2024-09-03T19:30:00+02:00"
+    end: "2024-09-03T22:00:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
   - name: Paradiso Folkbal Intiem
     links:
