@@ -8,11 +8,13 @@ events:
       - "https://folkbalbende.be/event/810"
       - "https://folkbalbende.be/event/885"
       - "https://folkbalbende.be/event/886"
-    start: 2022-04-15T18:30:00+02:00
-    end: 2022-04-17T23:45:00+02:00
+    start: "2022-04-15T18:30:00+02:00"
+    end: "2022-04-17T23:45:00+02:00"
     country: Belgium
     city: Leuven
-    styles: [balfolk, scandi]
+    styles:
+      - balfolk
+      - scandi
     workshop: true
     social: true
     bands:
@@ -27,13 +29,12 @@ events:
       - Duo Zena
       - Duo Balzam
     organisation: ComSiBal
-
   - name: ComSiBal Folk Festival
     links:
       - "http://comsibal.be/en/"
       - "https://www.facebook.com/events/764912361755158/"
-    start: 2023-04-07T18:00:00+02:00
-    end: 2023-04-10T03:00:00+02:00
+    start: "2023-04-07T18:00:00+02:00"
+    end: "2023-04-10T03:00:00+02:00"
     country: Belgium
     city: Leuven
     styles:
@@ -54,12 +55,11 @@ events:
       - Siger
     price: €88-€192
     organisation: ComSiBal
-
   - name: ComSiBal
     links:
       - "https://comsibal.be/en/"
-    start: 2023-11-11T18:00:00+01:00
-    end: 2023-11-12T01:00:00+01:00
+    start: "2023-11-11T18:00:00+01:00"
+    end: "2023-11-12T01:00:00+01:00"
     country: Belgium
     city: Leuven
     styles:
@@ -70,12 +70,11 @@ events:
       - CaraƆ
       - DDSS
     organisation: ComSiBal
-
   - name: ComSiBal
     links:
       - "https://comsibal.be/en/events/folkbal_2023_12_23/"
-    start: 2023-12-23T16:00:00+01:00
-    end: 2023-12-23T23:00:00+01:00
+    start: "2023-12-23T16:00:00+01:00"
+    end: "2023-12-23T23:00:00+01:00"
     country: Belgium
     city: Leuven
     styles:
@@ -87,13 +86,12 @@ events:
       - Aérokorda
     price: €13-€27
     organisation: ComSiBal
-
   - name: ComSiBal des Libellules
     links:
       - "https://comsibal.be/en/events/festival_2024/"
       - "https://www.facebook.com/events/909859940628945/"
-    start: 2024-03-29T18:00:00+01:00
-    end: 2024-04-01T02:00:00+02:00
+    start: "2024-03-29T18:00:00+01:00"
+    end: "2024-04-01T02:00:00+02:00"
     country: Belgium
     city: Rochefort
     styles:
@@ -101,7 +99,7 @@ events:
     workshop: true
     social: true
     bands:
-      - L'air Inconnu
+      - "L'air Inconnu"
       - Imnari
       - CaraƆ
       - Balbuzar
@@ -111,4 +109,16 @@ events:
       - Duo Blain-Leyzour
       - Plume
       - Cave Canem
+    organisation: ComSiBal
+  - name: ComSiBal Festival
+    links:
+      - "https://www.facebook.com/permalink.php?story_fbid=pfbid026TJvzZh3d4nVoJCAQh3sMaVuw19E4Vpou3j7HCd77KKff8n2mNmhDwiX5VqAHAwWl&id=100067741125219"
+    start_date: 2025-04-18
+    end_date: 2025-04-20
+    country: Belgium
+    city: Boutersem
+    styles:
+      - balfolk
+    workshop: true
+    social: true
     organisation: ComSiBal
