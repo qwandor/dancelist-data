@@ -670,7 +670,7 @@ events:
       - Good Company
       - 3 Wheel Drive
       - SonoOnos
-      - Play for Keeps +1
+      - Play for Keeps
     callers:
       - Susan Michaels
       - Charlie Fenton
@@ -898,9 +898,9 @@ events:
     organisation: Lexington Traditional Dance Association
   - name: Potato Run Revival
     links:
-      - "https://www.facebook.com/events/s/contradance-obannon-woods/811008967657755/"
-    start_date: 2024-06-14
-    end_date: 2024-06-15
+      - "https://www.facebook.com/events/811008967657755/"
+    start: "2024-06-14T19:30:00-04:00"
+    end: "2024-06-15T12:00:00-04:00"
     country: USA
     state: IN
     city: Corydon
@@ -912,6 +912,7 @@ events:
       - Tom Cunningham & Friends
     callers:
       - Greer Hannan
+    price: $30-$50
     organisation: TryContra
   - name: AmWeek
     links:
@@ -1301,7 +1302,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Eloise &co
+      - Eloise & Co.
     callers:
       - Susan Petrick
     organisation: TryContra
@@ -1754,6 +1755,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Nova
+      - Offbeats
+    callers:
+      - Will Mentor
+      - Terry Doyle
     organisation: TryContra
   - name: Winter Warmup Dance Weekend
     links:
