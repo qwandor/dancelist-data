@@ -1,20 +1,21 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Balfest'day
+  - name: "Balfest'day"
     links:
       - "https://www.facebook.com/events/325188639738631/"
-    start: 2022-05-15T15:00:00+03:00
-    end: 2022-05-15T23:00:00+03:00
+    start: "2022-05-15T15:00:00+03:00"
+    end: "2022-05-15T23:00:00+03:00"
     country: Turkey
     city: Istanbul
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
       - Deli Reçel
       - The Schwänzeltanz
     price: 50TL-100TL
-
+    organisation: ~
   - name: Dancing the Balfolkist Voyager
     details: "Voyager Balfolkist Event\r\n\r\n18:00 p.m. - Galata Tower Square (beginning)\r\n19:50 p.m. - Dancing on the Ferry (Karakoy pier-meeting)\r\n21:00 p.m. - Kadikoy Moda Park (Moda 2 Basketball court-meeting)"
     links:
@@ -29,7 +30,6 @@ events:
     social: true
     price: free
     organisation: Balfolkist
-
   - name: Balfolkist
     links:
       - "https://www.facebook.com/Balfolkist/posts/pfbid0u7aHD2iTtrmnCMnFfti5uLmuqbjT8jRUdUpiCrcH11NaisDVCwYqZUBzRGYPC8AKl"
@@ -43,7 +43,6 @@ events:
     social: true
     price: 50 TL
     organisation: Balfolkist
-
   - name: "Balfest'Day"
     details: "Get ready for two days of pure magic at Arsen Lüpen Taksim! Workshops by day, concerts and dancing by night—both floors are ours! Join us downstairs for hands-on workshops, and upstairs for food, drinks, and endless conversations!🥳\r\n\r\nAs the sun sets, lower floor transforms into a dance floor with concerts that will blow your mind! Relax on the terrace or dance the night away—your choice!\r\n\r\nDay 1 brings you workshops, balfolk concerts, and a FREE concert by Zero Band and Zerrin Mete at Arsen Lüpen! Mazurka Klandestina keeps the vibes alive on the terrace!🌈\r\n\r\n📌Secure your spot with the FULL PASS TICKET for 600 TL! Limited to 50 seats—act fast! Dance Workshop participation included.\r\n\r\n📌For tickets and info, hit us up at balfolkist@gmail.com\r\n\r\n📌Can't commit to both days? Grab the Overnight CONCERTS PASS for 200 TL!\r\n\r\n✨Music enthusiasts, join the workshop for 100 TL (exclusive for full pass ticket holders)! Don't miss out on the Balfest'day experience—grab your tickets now!"
     links:
@@ -63,4 +62,16 @@ events:
       - Loogaroo
       - Deli Reçel
     price: 600 TL
+    organisation: Balfolkist
+  - name: Balfolk Dance Evening
+    links:
+      - "https://www.facebook.com/Balfolkist/posts/pfbid0m8vgr3LrMh6zsDVuJrMhuTadcAWEXy5q4ESjvS4iGWonrkrraQ4Q4svZbibhpc9Vl"
+    start: "2024-06-05T20:30:00+03:00"
+    end: "2024-06-05T23:30:00+03:00"
+    country: Turkey
+    city: Istanbul
+    styles:
+      - balfolk
+    workshop: false
+    social: true
     organisation: Balfolkist
