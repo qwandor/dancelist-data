@@ -9039,6 +9039,7 @@ events:
   - name: Richmond English Country Dance
     details: "Please join for our weekly English Country Dancing Wednesday night social at 7:30 p.m. All dances are taught, walked through, and called. No experience or partner are required, just a pair of comfortable shoes. New dancers are asked to please come at at least 10 minutes before the start of the session. The first night is free; after that $2 per evening."
     links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
       - "https://cdss.org/event/richmond-va-english-country-dance/2024-06-05/"
     start: "2024-06-05T19:30:00-04:00"
     end: "2024-06-05T21:30:00-04:00"
@@ -9054,6 +9055,7 @@ events:
   - name: Wednesday Night Contra Dance
     details: "Caroline Barnes calls to music by Contra Intuitive – Peggy Kaiser (piano), Ryck Kaiser (fiddle), and special guest Dan Levenson (fiddle, banjo). \nNewcomers always welcome! New dancer workshops at 7:30. BFMS and FSGW members $10, non-members $15. Under 21 and students dance for free. Online payment link and more information at bfms.org"
     links:
+      - "https://www.bfms.org/squarecontra.php"
       - "https://cdss.org/event/wednesday-night-contra-dance/"
     start: "2024-06-05T20:00:00-04:00"
     end: "2024-06-05T22:30:00-04:00"
@@ -9064,11 +9066,16 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Contra Intuitive
+    callers:
+      - Caroline Barnes
     price: $10-$15
     organisation: CDSS
   - name: Lake City Contra Dance
     details: "Thursday nights; doors open at 7 pm \nDances: intro/refresher workshop 7:15 pm, dancing 7:30 till 10:00 pm \nAdmission on a sliding scale $10 – 20 – pay what you can \nThe hall is well-ventilated and air-conditioned! \nFor more information call 206-525-0932, or send us email."
     links:
+      - "https://seattledance.org/contra/lakecity/"
       - "https://cdss.org/event/lake-city-contra-dance/2024-06-06/"
     start: "2024-06-06T19:00:00-04:00"
     end: "2024-06-06T22:00:00-04:00"
@@ -9077,7 +9084,7 @@ events:
     city: Seattle
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $10
     organisation: Lake City Contra Dance
@@ -9271,6 +9278,8 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Appalachian Roots
     callers:
       - Deanna Palumbo
     price: $8-$30
@@ -9302,6 +9311,37 @@ events:
       - Marlin Whitaker
     price: $5-$20
     organisation: CDSS
+  - name: Space Coast Contra Dance
+    details: "Our second Saturday contra dance on the Space Coast of FL featuring live bands, awesome callers, and a friendly crowd. All are welcome. No partner needed. For more information, visit our website. We’d love to have you join us! \n$15; $5 for 25 and under."
+    links:
+      - "https://spacecoastcontra.org/calendar-upcoming-contra-dances/"
+      - "https://cdss.org/event/space-coast-contra-dance/2024-06-08/"
+    start: "2024-06-08T19:30:00-04:00"
+    end: "2024-06-08T22:30:00-04:00"
+    country: USA
+    state: FL
+    city: Cocoa
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$15
+    organisation: Space Coast Contra Dance
+  - name: Second Saturday BFMS Contra Dance
+    details: "Steve Gester calling to Renee Mendenhall (accordion), Janina O’Brien (keyboard), and Steven Epstein (clarinet and sax) \nDance lesson: 7:30. Admission is: $10 BFMS Members & Affiliates, $15 non-members. Under 21 and full-time students with ID: Free. \nBeginners and families are welcome. No experience necessary; you don’t need to bring a partner."
+    links:
+      - "https://cdss.org/event/second-saturday-bfms-contra-dance/"
+    start: "2024-06-08T20:00:00-04:00"
+    end: "2024-06-08T22:30:00-04:00"
+    country: USA
+    state: MD
+    city: Baltimore
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: CDSS
   - name: English Country Dance
     details: Monthly English Country Dance
     links:
@@ -9317,6 +9357,51 @@ events:
     workshop: false
     social: true
     organisation: North Texas Traditional Dance Society (NTTDS)
+  - name: 2nd Saturday English Country Dance
+    details: English Country Dance with live music every 2nd Saturday.
+    links:
+      - "https://cdss.org/event/2nd-saturday-english-country-dance/2024-06-08/"
+    start: "2024-06-08T19:30:00-05:00"
+    end: "2024-06-08T22:30:00-05:00"
+    country: USA
+    state: TX
+    city: Dallas
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: North Texas Traditional Dance Society (NTTDS)
+  - name: Contra Dance
+    details: "HATDS hosts contra dances on the 2nd and 4th Saturdays of most months. We dance to live music. All skill levels are welcome and all dances are called. Bring water and clean shoes! \nThe admission price for contra dances is $10 for members, $15 for non-members. Cash, checks, credit cards, and digital wallets are currently accepted at the door. If paying cash, please bring correct change. No large bills accepted."
+    links:
+      - "https://hatds.org/"
+      - "https://cdss.org/event/contra-dancing-in-houston-tx/2024-06-08/"
+    start: "2024-06-08T19:30:00-05:00"
+    end: "2024-06-08T22:30:00-05:00"
+    country: USA
+    state: TX
+    city: Houston
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10-$15
+    organisation: Houston Area Traditional Dance Society
+  - name: NACDS Contra Dance
+    details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
+    links:
+      - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2024-06-08/"
+    start: "2024-06-08T19:30:00-05:00"
+    end: "2024-06-08T23:00:00-05:00"
+    country: USA
+    state: AL
+    city: Huntsville
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10-$15
+    organisation: CDSS
   - name: Zesty Contra Dance
     details: The Zesty contra dance is for dancers with some experience with dancing. There is no lesson before the dance; and easier dances may be called with no walk through.
     links:
