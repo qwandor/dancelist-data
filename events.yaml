@@ -70503,6 +70503,23 @@ events:
     price: $10-$15
     organisation: CDSS
     source: events/usa/cdss.yaml
+  - name: TopHill Music Contradance Party
+    details: "Please check the Guiding Star Grange website for details. \nSchedule: There will be a newcomers workshop at 7:45pm. Please come early to help our new dancing friends! All are welcome! \nCost: $12-20 sliding scale \n\nHigh-level masks are mandated for this dance.\nPlease bring your own water bottle.\nUp-to-date vaccinations are encouraged but not required.\nIf you are not feeling well, please do not attend, but rather care for yourself and others and join us next time!\n\nSee venue website for this month’s details and Covid policy."
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+      - "https://cdss.org/event/second-saturday-tophill-music-contradance-party-at-guiding-star-grange/2024-06-08/"
+    start: "2024-06-08T19:45:00-04:00"
+    end: "2024-06-08T23:00:00-04:00"
+    country: USA
+    state: MA
+    city: Greenfield
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $12-$20
+    organisation: Alice Kenney
+    source: events/usa/cdss.yaml
   - name: English Country Dance
     details: Monthly English Country Dance
     links:
@@ -70604,6 +70621,23 @@ events:
     social: true
     price: $5-$12
     organisation: Sacramento Country Dance Society
+    source: events/usa/cdss.yaml
+  - name: TADAMS 2nd Sunday Afternoon Contra Dance
+    details: "Join the Richmond VA contra dance, hosted by TADAMS, in the beautiful historic Ginter Hall on 2nd Sunday afternoons. Beginner lesson at 1:45pm; dance from 2:30-5:30. Check our full calendar for caller and band details. Admission is $15 non-members, $10 members and students, children under 13 are free."
+    links:
+      - "https://cdss.org/event/tadams-2nd-sunday-afternoon-contra-dance/2024-06-09/"
+    start: "2024-06-09T13:45:00-04:00"
+    end: "2024-06-09T17:30:00-04:00"
+    country: USA
+    state: VA
+    city: Richmond
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: TADAMS (Traditional American Dance and Music Society)
+    cancelled: true
     source: events/usa/cdss.yaml
   - name: Ferragosto Balfolk
     links:
@@ -74326,7 +74360,7 @@ events:
     social: true
     bands:
       - Funky Folk
-    organisation: ~
+    organisation: "Le p'tit Bal à Oli"
     source: events/belgium/folkbalbende.yaml
   - name: Bal à Oli
     details: Ball
@@ -74343,7 +74377,7 @@ events:
     social: true
     bands:
       - La Marmite Folk
-    organisation: ~
+    organisation: "Le p'tit Bal à Oli"
     source: events/belgium/folkbalbende.yaml
   - name: Bal à Oli
     details: Ball
@@ -74361,7 +74395,7 @@ events:
     bands:
       - Clan Destin
       - The Cooligans
-    organisation: ~
+    organisation: "Le p'tit Bal à Oli"
     source: events/belgium/folkbalbende.yaml
   - name: Bal XX At Pianofabriek
     details: Ball
@@ -74470,7 +74504,7 @@ events:
     social: true
     bands:
       - "Tout Bout D'chants"
-    organisation: ~
+    organisation: "Le p'tit Bal à Oli"
     source: events/belgium/folkbalbende.yaml
   - name: Folkbal
     details: Ball
@@ -79053,7 +79087,7 @@ events:
     bands:
       - Les Kickeuses
       - Les Impromptues
-    organisation: ~
+    organisation: "Le p'tit Bal à Oli"
     source: events/belgium/folkbalbende.yaml
   - name: Folkbal
     details: Ball
@@ -79072,7 +79106,7 @@ events:
     bands:
       - La Rawette
       - Olivier Cap
-    organisation: ~
+    organisation: "Le p'tit Bal à Oli"
     source: events/belgium/folkbalbende.yaml
   - name: Safari Bal
     details: Ball
@@ -79503,7 +79537,7 @@ events:
     social: true
     bands:
       - Duo Nello
-    organisation: ~
+    organisation: "Le p'tit Bal à Oli"
     source: events/belgium/folkbalbende.yaml
   - name: Folkbal
     details: Ball
@@ -79773,7 +79807,7 @@ events:
     bands:
       - La Marmite Folk
       - Aïe Mon Pied!
-    organisation: ~
+    organisation: "Le p'tit Bal à Oli"
     source: events/belgium/folkbalbende.yaml
   - name: Folkbal
     details: Ball
@@ -79826,7 +79860,7 @@ events:
     social: true
     bands:
       - "Tout Bout D'chants"
-    organisation: ~
+    organisation: "Le p'tit Bal à Oli"
     source: events/belgium/folkbalbende.yaml
   - name: Folkbal
     details: Ball
@@ -79914,7 +79948,7 @@ events:
     social: true
     bands:
       - Nuña
-    organisation: ~
+    organisation: "Le p'tit Bal à Oli"
     source: events/belgium/folkbalbende.yaml
   - name: Folkbal
     details: Ball
@@ -86816,7 +86850,7 @@ events:
     bands:
       - Olivier Cap
     price: €10
-    organisation: ~
+    organisation: "Le p'tit Bal à Oli"
     source: events/belgium/folkbalbende.yaml
   - name: Baleynbal
     details: Ball
@@ -89265,6 +89299,23 @@ events:
     workshop: true
     social: true
     organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: South-West French Dance Workshop
+    details: Course
+    links:
+      - "http://oliviercap.be/bal/"
+      - "https://folkbalbende.be/event/2298"
+      - "https://www.facebook.com/events/821288173212729"
+    start: "2024-06-09T14:00:00+02:00"
+    end: "2024-06-09T17:00:00+02:00"
+    country: Belgium
+    city: Namur
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €18
+    organisation: "Le p'tit Bal à Oli"
     source: events/belgium/folkbalbende.yaml
   - name: Paradiso Folkbal Intiem
     links:
@@ -96238,8 +96289,8 @@ events:
     price: €12.50
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
-  - name: Wednesday Evening Bal in De Doelen
-    details: "Op woensdagavond 26 juni kan er gratis balfolk gedanst worden in Rotterdam, in de studio van De Doelen. De band die voor ons komt spelen wordt later nog bekend gemaakt. \n\nGratis\nHet bal in De Doelen is gratis toegankelijk en iedereen van binnen en buiten Rotterdam is van harte welkom om mee te komen dansen of te luisteren naar de fijne muziek. \n\nDansuitleg voor beginners\nNog niet eerder (balfolk) gedanst? Geen zorgen, er wordt gestart met een dansuitleg van Balfolk Zuid-Holland, zodat degenen die nog niet eerder hebben gedanst, kunnen kennismaken met balfolk en daarna ook de hele avond mee kunnen doen. \n\nProgramma\nHet exacte programma met de tijden wordt later nog bekend gemaakt! De tijden die bij dit evenement staan zijn dus nog onder voorbehoud.\n\nBereikbaarheid\nDe Doelen is het welbekende concertgebouw middenin hartje Rotterdam, op een kleine 3 minuten lopen vanaf Centraal Station Rotterdam. Er zijn diverse parkeergarages in de omgeving. Kijk op prettigparkeren.nl voor mogelijkheden. Je kunt naar binnen bij de hoofdingang aan Schouwburgplein 50, dan word je vanzelf de goede kant op gewezen. \n\nInformatie\nMeer weten of vragen? Neem contact op met Balfolk Zuid-Holland via balfolkzuidholland@gmail.com"
+  - name: Wednesday Evening Bal
+    details: "Op woensdagavond 26 juni kan er gratis balfolk gedanst worden in Rotterdam, in de studio van De Doelen. De band die voor ons komt spelen is Duo Baftig. \n\nDuo Baftig\nWat begon als een muzikaal experiment in de zomer van ‘22 is nu officieel tot een folkmuzikantenopstelling uitgegroeid. Duo Baftig  speelt zeer dansbare tunes op akoestische gitaar (DADGAD) en viool. Manon en Robin delen een passie voor folkdans en folkmuziek en besloten van hieruit hun krachten te bundelen. Het duo speelt een verassende mix tussen Ierse en Scandinavische tunes, maar ook eigen explosieve composities. Van melancholisch tot krachtig, voor alles geldt: zolang het maar Baftig is!\n\nGratis\nHet bal in De Doelen is gratis toegankelijk en iedereen van binnen en buiten Rotterdam is van harte welkom om mee te komen dansen of te luisteren naar de fijne muziek. \n\nDansuitleg voor beginners\nNog niet eerder (balfolk) gedanst? Geen zorgen, er wordt gestart met een dansuitleg van Balfolk Zuid-Holland, zodat degenen die nog niet eerder hebben gedanst, kunnen kennismaken met balfolk en daarna ook de hele avond mee kunnen doen. \n\nProgramma\nHet exacte programma met de tijden wordt later nog bekend gemaakt! De tijden die bij dit evenement staan zijn dus nog onder voorbehoud.\n\nBereikbaarheid\nDe Doelen is het welbekende concertgebouw middenin hartje Rotterdam, op een kleine 3 minuten lopen vanaf Centraal Station Rotterdam. Er zijn diverse parkeergarages in de omgeving. Kijk op prettigparkeren.nl voor mogelijkheden. Je kunt naar binnen bij de hoofdingang aan Schouwburgplein 50, dan word je vanzelf de goede kant op gewezen. \n\nInformatie\nMeer weten of vragen? Neem contact op met Balfolk Zuid-Holland via balfolkzuidholland@gmail.com"
     links:
       - "https://www.balfolk.nl/agenda/woensdagavondbal-in-de-doelen-studio-in-rotterdam/"
     start: "2024-06-26T19:00:00+02:00"
@@ -96250,6 +96301,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Duo Baftig
     price: free
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
