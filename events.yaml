@@ -27825,7 +27825,7 @@ events:
     price: free
     organisation: London Balfolk
     source: events/uk/london_balfolk.yaml
-  - name: Bal Étoile at Jamboree
+  - name: Bal Étoile Special at Jamboree
     links:
       - "https://londonbalfolk.org.uk/"
       - "https://www.facebook.com/events/2568878363273532/"
@@ -27837,7 +27837,10 @@ events:
       - balfolk
     workshop: true
     social: true
-    price: free
+    bands:
+      - Hearken Quartet
+      - Duo Gestrikt
+    price: donation
     organisation: London Balfolk
     source: events/uk/london_balfolk.yaml
   - name: Bal Étoile at the Gipsy Queen
