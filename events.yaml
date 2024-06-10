@@ -46692,15 +46692,22 @@ events:
     source: events/france/balistik.yaml
   - name: Le Festival De La Pouméane
     links:
-      - "https://balistik.org/"
-    start_date: 2024-06-21
-    end_date: 2024-06-23
+      - "https://balistik.org/poumeane-2024/"
+      - "https://www.facebook.com/events/445325068188527/"
+    start: "2024-06-21T19:00:00+02:00"
+    end: "2024-06-23T17:00:00+02:00"
     country: France
     city: Combovin
     styles:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - TriOblique
+      - Back in Bal
+      - Poolidor
+      - Danse sur le Piano
+      - Duo du Balcon
     organisation: Balistik
     source: events/france/balistik.yaml
   - name: Balalalune
@@ -56068,7 +56075,7 @@ events:
       - The Gaslight Tinkers
       - Nova
     callers:
-      - Lisa Greanleaf
+      - Lisa Greenleaf
       - Frannie Marr
       - Jeremy Korr
     organisation: TryContra
