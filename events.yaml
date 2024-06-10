@@ -4831,7 +4831,7 @@ events:
     organisation: Spreefolk eV
     source: events/germany/spreefolk.yaml
   - name: Folk & Dance at Lietzensee
-    details: "Morceau de Breizh\n\nFete de la musique am Lietzensee\nFr 21.6.2024  19:00-19:45 Uhr\nbretonische Live-Musik mit Tanz\nMorceau de Breizh – Foto: privat\nEs wirken mit:\nAlmut – Cello und Gesang\nAndrea – Gesang, Perkussion und Bombarde\nHolger – Gitarre, Gesang, Bouzouki\nStefan – Akkordeon, Flöte, Bombarde\nBegleitung – Brigitte Tanzanleitung\nOrt: Nachbarschaftshaus am Lietzensee, Herbartstraße 25, 14057 Berlin\nDer Eintritt ist kostenlos\n—\nAbendprogramm der Fête de la Musique im Nachbarschaftshaus Lietzensee:\n17:00 – 17:45 Uhr    Tal Balshai – Piano\n18:00 – 18:45 Uhr    Der vierstimme Chor „Chorissimo“\n19:00 – 19:45 Uhr    Morceau de Breizh (Folktanz)\n20:00 – 20:45 Uhr    lettische Folkloregruppe „Rīta Rasa"
+    details: "Morceau de Breizh\n\nFête de la musique am Lietzensee\nFr 21.6.2024  19:00-19:45 Uhr\nbretonische Live-Musik mit Tanz\nMorceau de Breizh – Foto: privat\nEs wirken mit:\nAlmut – Cello und Gesang\nAndrea – Gesang, Perkussion und Bombarde\nHolger – Gitarre, Gesang, Bouzouki\nStefan – Akkordeon, Flöte, Bombarde\nBegleitung – Brigitte Tanzanleitung\nOrt: Nachbarschaftshaus am Lietzensee, Herbartstraße 25, 14057 Berlin\nDer Eintritt ist kostenlos\n—\nAbendprogramm der Fête de la Musique im Nachbarschaftshaus Lietzensee:\n17:00 – 17:45 Uhr    Tal Balshai – Piano\n18:00 – 18:45 Uhr    Der vierstimme Chor „Chorissimo“\n19:00 – 19:45 Uhr    Morceau de Breizh (Folktanz)\n20:00 – 20:45 Uhr    lettische Folkloregruppe „Rīta Rasa"
     links:
       - "https://spreefolk.de/events/2405-lietzensee-460"
     start: "2024-06-21T19:00:00+02:00"
@@ -51594,7 +51594,7 @@ events:
     bands:
       - Audrey Potter & Jane Knoeck
     callers:
-      - David Smukler
+      - Dave Smukler
     price: $5-$10
     organisation: Country Dancers of Rochester
     source: events/usa/cdss_2023.yaml
@@ -55042,8 +55042,10 @@ events:
     organisation: Lexington Traditional Dance Association
     source: events/usa/trycontra.yaml
   - name: Potato Run Revival
+    details: "Mini contra dance weekend at O’Bannon Woods State Park outside Corydon, Indiana. Dances on Friday night (8-10:30 pm) and Saturday morning (10 am-Noon) with the option to drive to Louisville, KY Saturday night for their dance 8-11 pm). Tents camping and bunks available for dancers staying overnight. Dance is donation-based (recommended $30-50 for the weekend, cash at the door), with no advance registration. More details on Facebook."
     links:
       - "https://www.facebook.com/events/811008967657755/"
+      - "https://cdss.org/event/potato-run-revival/"
     start: "2024-06-14T19:30:00-04:00"
     end: "2024-06-15T12:00:00-04:00"
     country: USA
@@ -58686,7 +58688,7 @@ events:
     bands:
       - "Meg, Laurel & Cat"
     callers:
-      - David Smukler
+      - Dave Smukler
     price: $5-$10
     organisation: Country Dancers of Rochester
     source: events/usa/cdss.yaml
@@ -64347,7 +64349,7 @@ events:
       - Trillium
       - "Catherine, Laurel & Meg"
     callers:
-      - David Smukler
+      - Dave Smukler
     price: $5-$10
     organisation: Country Dancers of Rochester
     source: events/usa/cdss.yaml
@@ -70825,6 +70827,411 @@ events:
     social: true
     price: $5
     organisation: Monadnock Folklore Society
+    source: events/usa/cdss.yaml
+  - name: TECDA Tuesday Evening English Country Dance
+    details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-tuesday-evening-english-country-dance/2024-06-11/"
+    start: "2024-06-11T19:00:00-04:00"
+    end: "2024-06-11T21:00:00-04:00"
+    country: Canada
+    state: Ontario
+    city: North York
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    price: $10
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: Tuesday English Country Dance
+    details: "We dance to live music from our wonderful local musicians. All dances taught and prompted. Wear comfortable clothes and bring flat, non-slippy shoes to change into. Pay what you can; $8 donation helps cover the hall, band, and callers. Masks are welcome at the dance."
+    links:
+      - "https://aactmad.org/english-country"
+      - "https://cdss.org/event/ann-arbor-tuesday-english-country-dance/2024-06-11/"
+    start: "2024-06-11T19:00:00-04:00"
+    end: "2024-06-11T21:30:00-04:00"
+    country: USA
+    state: MI
+    city: Ann Arbor
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $8
+    organisation: AACTMAD
+    source: events/usa/cdss.yaml
+  - name: Williamsburg Tuesday Night English Dance
+    details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
+    links:
+      - "https://williamsburgheritagedancers.org/"
+      - "https://cdss.org/event/williamsburg-va-tuesday-night-english-dance/2024-06-11/"
+    start: "2024-06-11T20:00:00-04:00"
+    end: "2024-06-11T22:00:00-04:00"
+    country: USA
+    state: VA
+    city: Williamsburg
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: Williamsburg Heritage Dancers
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
+    links:
+      - "https://oldfarmersball.com/english-country-dance/"
+      - "https://cdss.org/event/english-country-dance-asheville-nc-3/2024-06-12/"
+    start: "2024-06-12T18:40:00-04:00"
+    end: "2024-06-12T21:00:00-04:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: Luanne Stiles
+    source: events/usa/cdss.yaml
+  - name: English Country Dance at Guiding Star Grange
+    details: "Join us in Greenfield for an evening of English Country Dancing. Lively, elegant, and fun: English country dances from 1650 to today, with a rotating cast of stellar musicians and callers.  \nCost: $10-$20, sliding scale. \nSee venue website for this month’s details and Covid policy."
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+      - "https://cdss.org/event/second-fourth-wednesday-english-country-dance-at-guiding-star-grange/2024-06-12/"
+    start: "2024-06-12T19:00:00-04:00"
+    end: "2024-06-12T21:30:00-04:00"
+    country: USA
+    state: MA
+    city: Greenfield
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $10-$20
+    organisation: Graham Christian
+    source: events/usa/cdss.yaml
+  - name: Richmond English Country Dance
+    details: "Please join for our weekly English Country Dancing Wednesday night social at 7:30 p.m. All dances are taught, walked through, and called. No experience or partner are required, just a pair of comfortable shoes. New dancers are asked to please come at at least 10 minutes before the start of the session. The first night is free; after that $2 per evening."
+    links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
+      - "https://cdss.org/event/richmond-va-english-country-dance/2024-06-12/"
+    start: "2024-06-12T19:20:00-04:00"
+    end: "2024-06-12T21:30:00-04:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
+    source: events/usa/cdss.yaml
+  - name: Lake City Contra Dance
+    details: "Thursday nights; doors open at 7 pm \nDances: intro/refresher workshop 7:15 pm, dancing 7:30 till 10:00 pm \nAdmission on a sliding scale $10 – 20 – pay what you can \nThe hall is well-ventilated and air-conditioned! \nFor more information call 206-525-0932, or send us email."
+    links:
+      - "https://seattledance.org/contra/lakecity/"
+      - "https://cdss.org/event/lake-city-contra-dance/2024-06-13/"
+    start: "2024-06-13T19:00:00-04:00"
+    end: "2024-06-13T22:00:00-04:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$20
+    organisation: Lake City Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Thursday Contra Dance
+    details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing \n$5 to $20 sliding scale \nOur role terms are Larks and Robins \nMasks are required on the 1st, 3rd and 5th Thursdays."
+    links:
+      - "https://thursdaycontra.com/"
+      - "https://cdss.org/event/thursday-contra-dance-in-philadelphia/2024-06-13/"
+    start: "2024-06-13T19:30:00-04:00"
+    end: "2024-06-13T22:30:00-04:00"
+    country: USA
+    state: PA
+    city: Philadelphia
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$20
+    organisation: PATMAD
+    source: events/usa/cdss.yaml
+  - name: Rochester Thursday Night Contras
+    details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
+    links:
+      - "https://cdrochester.org/events/thursday-night-contra-208/"
+      - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-06-13/"
+    start: "2024-06-13T18:00:00-04:00"
+    end: "2024-06-13T22:30:00-04:00"
+    country: USA
+    state: NY
+    city: Rochester
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Audrey Potter & Jane Knoeck
+    callers:
+      - Dave Smukler
+    price: $5-$10
+    organisation: Country Dancers of Rochester
+    source: events/usa/cdss.yaml
+  - name: Across the Lake English Country Dance Weekend
+    details: "Enjoy a weekend of dancing with Bare Necessities and caller David Millstone. Friday night Welcome Dance for All; Saturday afternoon Challenging Workshop for Experienced Dancers; Saturday afternoon Review Session for All; Saturday night dress-up Gala for All.  \nPre-registration required: Sign up for all sessions (full weekend) OR pick-and-choose the session(s) you want to attend. See website for details."
+    links:
+      - "http://burlingtoncountrydancers.org/across-the-lake/"
+      - "https://cdss.org/event/across-the-lake-english-country-dance-weekend/"
+    start: "2024-06-14T20:00:00-04:00"
+    end: "2024-06-15T23:00:00-04:00"
+    country: USA
+    state: VT
+    city: Colchester
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Bare Necessities
+    callers:
+      - David Millstone
+    price: $100
+    organisation: Burlington Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Berkeley English Dance
+    details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
+    links:
+      - "https://bacds.org/series/english/berkeley_wed/"
+      - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-06-13/"
+    start: "2024-06-13T19:15:00-07:00"
+    end: "2024-06-13T22:00:00-07:00"
+    country: USA
+    state: CA
+    city: Berkeley
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $6-$25
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: TECDA Friday Evening Dance
+    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-friday-evening-dance/2024-06-14/"
+    start: "2024-06-14T19:00:00-04:00"
+    end: "2024-06-14T21:00:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    price: $10
+    organisation: Toronto English Country Dance Assembly
+    source: events/usa/cdss.yaml
+  - name: Orlando Contra Dance
+    details: "We hold energetic and fun contra dances on 2nd and 4th Fridays near Orlando, Florida, in the beautiful Winter Park Ballroom! Our group loves both traditional and contemporary music, which is usually live. We welcome all ages and have a large contingent of younger dancers. Students and jobless dance FREE! Check the schedule for directions, details, cancellations, and changes. Afterwards, we go next door to Jeremiah’s Italian Ice!"
+    links:
+      - "https://orlandocontra.org/dances-and-events/"
+      - "https://cdss.org/event/orlando-contra-dance/2024-06-14/"
+    start: "2024-06-14T19:00:00-04:00"
+    end: "2024-06-14T22:30:00-04:00"
+    country: USA
+    state: FL
+    city: Winter Park
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $15
+    organisation: Greater Orlando Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Cabot Community Contra Dance
+    details: "Small monthly community contra dance with guest callers and live music by local musicians. All dances taught, no partner needed, families and beginners enthusiastically welcomed! Gender-neutral calling, short intro session for new folks at 7:15. Masks are welcomed but not required, and the large windows will be open for ventilation."
+    links:
+      - "https://cdss.org/event/cabot-community-contra-dance/2024-06-14/"
+    start: "2024-06-14T19:15:00-04:00"
+    end: "2024-06-14T22:00:00-04:00"
+    country: USA
+    state: VT
+    city: Cabot
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Cabot Community Dance
+    source: events/usa/cdss.yaml
+  - name: ContraATL Weekly Dance
+    details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
+    links:
+      - "https://contradance.org/"
+      - "https://cdss.org/event/contra-atl-weekly-dance/2024-06-14/"
+    start: "2024-06-14T19:30:00-04:00"
+    end: "2024-06-14T22:30:00-04:00"
+    country: USA
+    state: GA
+    city: Decatur
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $7-$20
+    organisation: ContraATL
+    source: events/usa/cdss.yaml
+  - name: Dover New England Country Dance
+    details: "Traditional New England dance with mostly contras, some squares, circles, couple dances, and occasional English or Scottish dances. No partner nor experience needed, the dances will be taught and called. An introductory session is held at 7:30 to explain the basics."
+    links:
+      - "https://cdss.org/event/dover-nh-new-england-country-dance/2024-06-14/"
+    start: "2024-06-14T19:30:00-04:00"
+    end: "2024-06-14T22:30:00-04:00"
+    country: USA
+    state: NH
+    city: Dover
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Dave Bateman
+    source: events/usa/cdss.yaml
+  - name: Denver Contra Dance
+    details: "The Denver community contra dance is held on the 2nd Friday of each month. There is a lesson from 7 to 7:30; and dance from 7:30 to 10:30. For more details, see our website."
+    links:
+      - "https://www.cfootmad.org/"
+      - "https://cdss.org/event/denver-contra-dance/2024-06-14/"
+    start: "2024-06-14T19:00:00-06:00"
+    end: "2024-06-14T22:30:00-06:00"
+    country: USA
+    state: CO
+    city: Denver
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Colorado Friends of Old Time Music and Dance
+    source: events/usa/cdss.yaml
+  - name: Introduction to Austen-era English Country Dance
+    details: "Join Monrovia English Country Dance for a special introductory class on dancing in Jane Austen’s time! This beginner-friendly class will teach the basics of English Country Dance as seen in Austen’s novels and their movie adaptations. No partner required, no costume required; all are invited to have a relaxing and fun time. \nDances will be taught by Cara King, who has lectured on Austen-era dancing for JASNA-SW, and taught Regency dance for the Historical Tea & Dance Society, Monrovia ECD, and the Regency Fiction Writers. (Recorded music.)"
+    links:
+      - "https://cdss.org/event/introduction-to-austen-era-english-country-dance/"
+      - "https://monroviaecd.org/"
+    start: "2024-06-14T19:30:00-07:00"
+    end: "2024-06-14T22:00:00-07:00"
+    country: USA
+    state: CA
+    city: Monrovia
+    styles:
+      - ecd
+    workshop: true
+    social: false
+    price: $5
+    organisation: Monrovia English Country Dance
+    source: events/usa/cdss.yaml
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
+    links:
+      - "https://portlandcountrydance.org/upcoming/"
+      - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2024-06-14/"
+    start: "2024-06-14T19:30:00-07:00"
+    end: "2024-06-14T22:30:00-07:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $7-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: York Region English Country Dancers
+    details: "English Country Dance in central York Region (Ontario, Canada)! Beginners welcome; all dances taught; you don’t need to bring a partner. Admission by donation; your first class is free. Join us on the first, third, and (when there is one) fifth Saturday of the month from 2:00 to 4:00. (Please check the website for possible last-minute changes.)"
+    links:
+      - "http://www.yrecd.ca/"
+      - "https://cdss.org/event/york-region-english-country-dancers/2024-06-15/"
+    start: "2024-06-15T14:00:00-04:00"
+    end: "2024-06-15T16:00:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Newmarket
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: York Region English Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Southern Illinois Community Contra Dance
+    details: "Our monthly dance is “Blue Zone” living in a war zone world. Connect with neighbors, move your body, eat healthy(ish) food, give your social media a downtime. Southern Illinois Community Contra Dance might just help you live to age 100. \n$5 or pay what you can."
+    links:
+      - "https://cdss.org/event/southern-illinois-community-contra-dance/2024-06-15/"
+    start: "2024-06-15T17:30:00-04:00"
+    end: "2024-06-15T19:30:00-04:00"
+    country: USA
+    state: IL
+    city: Carbondale
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: South Florida Contradance
+    details: "Enjoying contra dance\nYou’ll be smiling and laughing.\nNo partner is necessary. Lesson at the beginning. Wear casual clothes and soft soled shoes.\nAge range 10-100\nDances are called.\nPut the phone down and destress your life."
+    links:
+      - "https://www.facebook.com/events/2197254800628533"
+      - "https://cdss.org/event/south-florida-contradance/2024-06-15/"
+    start: "2024-06-15T19:00:00-04:00"
+    end: "2024-06-15T21:30:00-04:00"
+    country: USA
+    state: FL
+    city: Boca Raton
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Cornbread
+    price: $5-$10
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Las Vegas Contra Dance
+    details: "Las Vegas Contra Dance. Non-gender calling. Band: 112 and Then Some."
+    links:
+      - "https://www.lasvegascontradance.org/"
+      - "https://cdss.org/event/las-vegas-contra-dance-4/"
+    start: "2024-06-15T18:30:00-07:00"
+    end: "2024-06-15T21:00:00-07:00"
+    country: USA
+    state: NV
+    city: Las Vegas
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - 112 and Then Some
+    price: $10-$15
+    organisation: Southern Nevada Old-Time Contra Dancers (SNOCD)
     source: events/usa/cdss.yaml
   - name: Ferragosto Balfolk
     links:
@@ -96180,7 +96587,7 @@ events:
     organisation: balfolk.nl
     source: events/netherlands/balfolk_nl.yaml
   - name: Scandinavian Dance Workshop and Bal
-    details: "** English below **\n\n\n\nWe sluiten dit jaar af met maar liefst 3 bands; Het kersverse duo Thalas van Guus Herremans en Ward Dhoore, het nieuwe Swinco van de al lang spelende David Cornelissen en Gregor Swinkels, en Jeroen Laureyssens die na vele Zweedse rondzwervingen, weer in onze contreien is. Eerder de dag is er ook een workshop Scandinavische dansen door Amber Wever om je voor te bereiden om de nieuw meegebrachte Scandinavische deunen van Jeroen Laureyssens.\n\nJe kunt reserveren via de grote knop 'Koop direct een kaartje' bovenaan deze pagina\n\nEr is een workshop voor het bal: Scandinavische Dansen met Amber Wever.\nProgramma\n12:00 – Workshop\n15:00 – Einde Workshop\n15:30 – Inloop voor het bal\n16:00 – Thalas\n17:30 – Potluck\n18:45 – Swinco\n20:15 – Jeroen Laureyssens\n21:45 – Eind bal\nReserveren, Prijzen en Voorwaarden\nJe kan vooraf een kaartje reserveren via de grote knop 'Koop direct een kaartje' bovenaan deze pagina. Je kan tickets kopen voor alleen het Bal of een Combiticket voor Bal + de Workshop vooraf. Mocht je alleen voor de workshop langs willen komen, stuur dan een e-mail naar utrecht@balfolk.nl.\n\nOm het bal toegangekelijk te houden zijn er meerdere tarieven: Korting voor dansers die het krap heben, Normaal voor het gangbare ticket, en Fair-Trade voor dansers die willen bijdragen aan eerlijke vergoedingen voor docenten en muzikanten.\n\n\n\n\nKorting\nNormaal\nFair-Trade\n\n\n\n\nBal\n€15\n€20\n€25\n\n\nBal + Workshop\n€30\n€35\n€40\n\n\n\nBij het doen van een reservering moet je akkoord gaan met het privacybeleid en de verkoopvoorwaarden.\n\nLet op! Als je niet gereserveerd hebt, betaal je contant of per QR code (iDeal, Bancontact) aan de kassa bij de deur. Later in de avond verplaatst de kassa naar de bar. Bij ons kun je helaas niet pinnen.\nFair Trade\nVind jij het belangrijk dat docenten en muzikanten eerlijk betaald worden? Wil je dat Balfolk Utrecht kwaliteit levert? Neem dan Fair Trade! Want, goede docenten en muzikanten verdienen meer dan basic theebiscuits bij hun koffie. Verleid ze naar onze events met galettes. Daarom Fair Trade. :)\nEten en Drinken\nWe hebben een garderobe waar je je spullen kunt achterlaten. Laat je spullen niet op de banken in de zaal liggen.\n\nEr is een Potluck na de eerste band: we zetten een aantal tafels in het midden van de zaal met labetjes: vegetarisch, vegan, vis en niet-vis vlees. Hier onstaat dan een buffet van al het lekkere eten dat door deelnemers is meegenomen - wat neem jij mee? Aangezien er balfolkies zijn met allergieën (noten, gluten, lactose, garnalen etc.) is het fijn als je een ingrediëntenlijstje bij je eten wil zetten.\n\nVergeet niet je eigen bord, bestek en opscheplepels mee te nemen, die zijn namelijk niet aanwezig in de Moira. En het is lief als je na de potluck je eigen afval opruimt en/of weggooit; we zorgen voor een aantal vuilnisbakken.\n\nDe Moira heeft een bar waar je drankjes kunt bestellen.\nRichtlijnen\nWij willen graag dat iedereen bij Balfolk zich vrij voelt om zichzelf te zijn en zich veilig voelt om aan te geven wat ze nodig hebben. We vinden het daarom belangrijk dat iedereen die naar onze bals komt op de hoogte is van een aantal richtlijnen waar we ons aan houden. Zo maken we de community voor iedereen zo veilig en fijn mogelijk. De richtlijnen voor onze bals: Dansrichtlijnen.\nAlle balfolkevenementen die je op balfolk.nl kunt vinden, moeten zich in principe aan deze algemene richtlijnen houden.\nLocatie\nHet bal vindt plaats in de Moira, een fijne zaal in het centrum van Utrecht. Het adres is Wolvenstraat 10 (aan het einde van de Plompetorengracht). Je moet de blauwe deur hebben aan de rechterkant. Dan kom je via de trap naar beneden in de zaal.\n\n\n\n** English **\n\n\n\nWe finish the year with no less than 3 bands; The brand new Thalas of Guus Herremans and Ward Dhoore, the new Swinco of the already long playing David Cornelissen and Gregor Swinkels, and Jeroen Laureyssens who is back in our region again after a lot of roaming in Sweden. Earlier that day there will also be a workshop in Scandinavian dances by Amber Wever to prepare you for the new tunes from Scandinavia that Jeroen Lauryssens will bring.\n\nYou can reserve your tickets via the big button labelled 'Koop direct een kaartje' at the top of this page.\n\nThere is a workshop before the ball: Scandinavian Dances with Amber Wever.\nProgramme\n12:00 – Workshop\n15:00 – End of Workshop\n15:30 – Doors open for thebal\n16:00 – Thalas\n17:30 – Potluck\n18:45 – Swinco\n20:15 – Jeroen Laureyssens\n21:45 – End of bal\nReservation, Prices and Conditions\nYou can reserve a ticket in advance by clicking the big button labelled 'Koop direct een kaartje' at the top of this page. You can reserve tickets for just the Ball, or a Combination ticket for the Ball + the Workshop before the ball. In case you only want to come for the workshop, please send us an e-mail at utrecht@balfolk.nl.\n\nTo keep the ball accessible, we have multiple price options: Korting (Discount) for dances that are tight on money, Normaal for the regular ticket, and Fair-Trade for dancers that want to contribute to fair compenstaion for teachers and musicians.\n\n\n\n\nDiscount\nNormal\nFair-Trade\n\n\n\n\nBall\n€15\n€20\n€25\n\n\nBall + Workshop\n€30\n€35\n€40\n\n\n\nTo make a reservation you must agree to our privacy policy and registration conditions.\n\nNB! If you have not reserved a ticket, you can pay for one by cash or by QR code (iDeal, Bancontact) at the door. Later in the evening, we will move the cash register to the bar. If you do not have cash with you, there is an ATM at Albert Heijn on Voorstraat. Unfortunately, we cannot offer the option to pay by pin.\nFair Trade\nDo you think it is important that teachers and musicians are paid fairly?Do you want Balfolk Utrecht to deliver quality? Then payFair Trade! Because, good teachers and musicians deserve more than basic tea biscuits with their coffee. Seduce them to come to our events with galettes. Choose Fair Trade :)\nFood and Drinks\nWe have a cloakroom where you can leave your belogings. Please do not leave them on the couches near the dancing floor.\n\nThere will be a potlock in the evening: we will put a number of tabels in the middle of the room labelled vegetarion, vegan, fish and non-fish meat. Here we'll make a buffet of all sorts of delicious food brought by participants - what are you bringing? Since there are balfolkies with allergies (e.g. nuts, gluten, lactose, shrimp, etcetera), we would appreciate it if you could list the ingredients of your dish.\n\nPlease make sure to bring your own plate, cutlery and serving spoon, as we don't have any of those at the Moira. Afterwards, it would be nice if you could clean up and / or throw out your own waste after the potluck.\n\nThe Moira has a bar where you can order drinks.\nGuidelines\nWe want everyone at Balfolk to feel free to be themselves and feel safe to express their needs. We therefore think it is important that everyone who comes to our balls is aware of a number of guidelines that we adhere to. In this way we make the community as safe and pleasant as possible for everyone. The guidelines for our balls: Guidelines.\nIn principle, all balfolk events that you can find on balfolk.nl must adhere to these general guidelines.\nLocation\nThe ball takes place in the Moira, a nice hall in the center of Utrecht. The address is Wolvenstraat 10 (at the end of Plompetorengracht). Take the blue door on the right and go down the stairs into the hall."
+    details: "** English below **\n\n\n\nJe kunt reserveren via de grote knop 'Koop direct een kaartje' bovenaan deze pagina. De online inschrijvingen zijn momenteel gesloten; er is voldoende plek op het bal dat je langs kan komen. Ter plekke kan je contant of per QR code betalen.\n\nWe sluiten dit jaar af met maar liefst 3 bands; Het kersverse duo Thalas van Guus Herremans en Ward Dhoore, het nieuwe Swinco van de al lang spelende David Cornelissen en Gregor Swinkels, en Jeroen Laureyssens die na vele Zweedse rondzwervingen, weer in onze contreien is. Eerder de dag is er ook een workshop Scandinavische dansen door Amber Wever om je voor te bereiden om de nieuw meegebrachte Scandinavische deunen van Jeroen Laureyssens.\n\nEr is een workshop voor het bal: Scandinavische Dansen met Amber Wever.\nProgramma\n12:00 – Workshop\n15:00 – Einde Workshop\n15:30 – Inloop voor het bal\n16:00 – Thalas\n17:30 – Potluck\n18:45 – Swinco\n20:15 – Jeroen Laureyssens\n21:45 – Eind bal\nReserveren, Prijzen en Voorwaarden\nJe kan vooraf een kaartje reserveren via de grote knop 'Koop direct een kaartje' bovenaan deze pagina. De online inschrijvingen zijn momenteel gesloten; er is voldoende plek op het bal dat je langs kan komen. Ter plekke kan je contant of per QR code betalen.\n\nJe kan tickets kopen voor alleen het Bal of een Combiticket voor Bal + de Workshop vooraf. Mocht je alleen voor de workshop langs willen komen, stuur dan een e-mail naar utrecht@balfolk.nl.\n\nOm het bal toegangekelijk te houden zijn er meerdere tarieven: Korting voor dansers die het krap heben, Normaal voor het gangbare ticket, en Fair-Trade voor dansers die willen bijdragen aan eerlijke vergoedingen voor docenten en muzikanten.\n\n\n\n\nKorting\nNormaal\nFair-Trade\n\n\n\n\nBal\n€15\n€20\n€25\n\n\nBal + Workshop\n€30\n€35\n€40\n\n\n\nBij het doen van een reservering moet je akkoord gaan met het privacybeleid en de verkoopvoorwaarden.\n\nLet op! Als je niet gereserveerd hebt, betaal je contant of per QR code (iDeal, Bancontact) aan de kassa bij de deur. Later in de avond verplaatst de kassa naar de bar. Bij ons kun je helaas niet pinnen.\nFair Trade\nVind jij het belangrijk dat docenten en muzikanten eerlijk betaald worden? Wil je dat Balfolk Utrecht kwaliteit levert? Neem dan Fair Trade! Want, goede docenten en muzikanten verdienen meer dan basic theebiscuits bij hun koffie. Verleid ze naar onze events met galettes. Daarom Fair Trade. :)\nEten en Drinken\nWe hebben een garderobe waar je je spullen kunt achterlaten. Laat je spullen niet op de banken in de zaal liggen.\n\nEr is een Potluck na de eerste band: we zetten een aantal tafels in het midden van de zaal met labetjes: vegetarisch, vegan, vis en niet-vis vlees. Hier onstaat dan een buffet van al het lekkere eten dat door deelnemers is meegenomen - wat neem jij mee? Aangezien er balfolkies zijn met allergieën (noten, gluten, lactose, garnalen etc.) is het fijn als je een ingrediëntenlijstje bij je eten wil zetten.\n\nVergeet niet je eigen bord, bestek en opscheplepels mee te nemen, die zijn namelijk niet aanwezig in de Moira. En het is lief als je na de potluck je eigen afval opruimt en/of weggooit; we zorgen voor een aantal vuilnisbakken.\n\nDe Moira heeft een bar waar je drankjes kunt bestellen.\nRichtlijnen\nWij willen graag dat iedereen bij Balfolk zich vrij voelt om zichzelf te zijn en zich veilig voelt om aan te geven wat ze nodig hebben. We vinden het daarom belangrijk dat iedereen die naar onze bals komt op de hoogte is van een aantal richtlijnen waar we ons aan houden. Zo maken we de community voor iedereen zo veilig en fijn mogelijk. De richtlijnen voor onze bals: Dansrichtlijnen.\nAlle balfolkevenementen die je op balfolk.nl kunt vinden, moeten zich in principe aan deze algemene richtlijnen houden.\nLocatie\nHet bal vindt plaats in de Moira, een fijne zaal in het centrum van Utrecht. Het adres is Wolvenstraat 10 (aan het einde van de Plompetorengracht). Je moet de blauwe deur hebben aan de rechterkant. Dan kom je via de trap naar beneden in de zaal.\n\n\n\n** English **\n\n\n\nYou can reserve your tickets via the big button labelled 'Koop direct een kaartje' at the top of this page. Online reservations are closed at the moment; there is enough room at the ball that you can come and buy your ticket (by cash or QR code) there.\n\nWe finish the year with no less than 3 bands; The brand new Thalas of Guus Herremans and Ward Dhoore, the new Swinco of the already long playing David Cornelissen and Gregor Swinkels, and Jeroen Laureyssens who is back in our region again after a lot of roaming in Sweden. Earlier that day there will also be a workshop in Scandinavian dances by Amber Wever to prepare you for the new tunes from Scandinavia that Jeroen Lauryssens will bring.\n\nThere is a workshop before the ball: Scandinavian Dances with Amber Wever.\nProgramme\n12:00 – Workshop\n15:00 – End of Workshop\n15:30 – Doors open for thebal\n16:00 – Thalas\n17:30 – Potluck\n18:45 – Swinco\n20:15 – Jeroen Laureyssens\n21:45 – End of bal\nReservation, Prices and Conditions\nYou can reserve a ticket in advance by clicking the big button labelled 'Koop direct een kaartje' at the top of this page. Online reservations are closed at the moment; there is enough room at the ball that you can come and buy your ticket (by cash or QR code) there.\n\nYou can reserve tickets for just the Ball, or a Combination ticket for the Ball + the Workshop before the ball. In case you only want to come for the workshop, please send us an e-mail at utrecht@balfolk.nl.\n\nTo keep the ball accessible, we have multiple price options: Korting (Discount) for dances that are tight on money, Normaal for the regular ticket, and Fair-Trade for dancers that want to contribute to fair compenstaion for teachers and musicians.\n\n\n\n\nDiscount\nNormal\nFair-Trade\n\n\n\n\nBall\n€15\n€20\n€25\n\n\nBall + Workshop\n€30\n€35\n€40\n\n\n\nTo make a reservation you must agree to our privacy policy and registration conditions.\n\nNB! If you have not reserved a ticket, you can pay for one by cash or by QR code (iDeal, Bancontact) at the door. Later in the evening, we will move the cash register to the bar. If you do not have cash with you, there is an ATM at Albert Heijn on Voorstraat. Unfortunately, we cannot offer the option to pay by pin.\nFair Trade\nDo you think it is important that teachers and musicians are paid fairly?Do you want Balfolk Utrecht to deliver quality? Then payFair Trade! Because, good teachers and musicians deserve more than basic tea biscuits with their coffee. Seduce them to come to our events with galettes. Choose Fair Trade :)\nFood and Drinks\nWe have a cloakroom where you can leave your belogings. Please do not leave them on the couches near the dancing floor.\n\nThere will be a potlock in the evening: we will put a number of tabels in the middle of the room labelled vegetarion, vegan, fish and non-fish meat. Here we'll make a buffet of all sorts of delicious food brought by participants - what are you bringing? Since there are balfolkies with allergies (e.g. nuts, gluten, lactose, shrimp, etcetera), we would appreciate it if you could list the ingredients of your dish.\n\nPlease make sure to bring your own plate, cutlery and serving spoon, as we don't have any of those at the Moira. Afterwards, it would be nice if you could clean up and / or throw out your own waste after the potluck.\n\nThe Moira has a bar where you can order drinks.\nGuidelines\nWe want everyone at Balfolk to feel free to be themselves and feel safe to express their needs. We therefore think it is important that everyone who comes to our balls is aware of a number of guidelines that we adhere to. In this way we make the community as safe and pleasant as possible for everyone. The guidelines for our balls: Guidelines.\nIn principle, all balfolk events that you can find on balfolk.nl must adhere to these general guidelines.\nLocation\nThe ball takes place in the Moira, a nice hall in the center of Utrecht. The address is Wolvenstraat 10 (at the end of Plompetorengracht). Take the blue door on the right and go down the stairs into the hall."
     links:
       - "https://www.balfolk.nl/agenda/balfolk-utrecht-bal-met-thalas-jeroen-laureyssens-en-swinco/"
       - "https://www.balfolk.nl/agenda/balfolk-utrecht-workshop-scandinavische-dansen-met-amber-wever/"
