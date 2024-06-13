@@ -46298,22 +46298,6 @@ events:
     price: €6
     organisation: Jam session et bal folk
     source: events/france/paris_balfolk.yaml
-  - name: Bal de la Bourrache
-    links:
-      - "https://www.facebook.com/events/564663658876105/"
-    start: "2023-02-18T19:30:00+01:00"
-    end: "2023-02-18T22:30:00+01:00"
-    country: France
-    city: Paris
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Les Morues
-    price: €8-€11
-    organisation: La Bourrache
-    source: events/france/paris_balfolk.yaml
   - name: "Le Bal Électrique #7"
     links:
       - "https://www.facebook.com/events/1228375284427053/"
@@ -46331,6 +46315,22 @@ events:
       - Beat Bouet Trio
     price: €8.37-€12
     organisation: Villes des Musiques du Monde
+    source: events/france/paris_balfolk.yaml
+  - name: Bal de la Bourrache
+    links:
+      - "https://www.facebook.com/events/564663658876105/"
+    start: "2023-02-18T19:30:00+01:00"
+    end: "2023-02-18T22:30:00+01:00"
+    country: France
+    city: Paris
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Les Morues
+    price: €8-€11
+    organisation: La Bourrache
     source: events/france/paris_balfolk.yaml
   - name: Paris Bal Folk
     links:
@@ -46514,22 +46514,6 @@ events:
     price: €3-€19
     organisation: Bal en Soir
     source: events/france/paris_balfolk.yaml
-  - name: Grand Bal
-    links:
-      - "https://www.facebook.com/events/554608113364661/"
-    start: "2024-03-10T16:00:00+01:00"
-    end: "2024-03-10T19:00:00+01:00"
-    country: France
-    city: Paris
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Cocanha
-    price: €5
-    organisation: Espace Culturel André Malraux
-    source: events/france/paris_balfolk.yaml
   - name: Teknibal
     links:
       - "https://www.facebook.com/events/1088515995492638/"
@@ -46578,6 +46562,22 @@ events:
     price: €5-€10
     organisation: Maison MAGIS
     source: events/france/paris_balfolk.yaml
+  - name: Grand Bal
+    links:
+      - "https://www.facebook.com/events/554608113364661/"
+    start: "2024-03-10T16:00:00+01:00"
+    end: "2024-03-10T19:00:00+01:00"
+    country: France
+    city: Paris
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Cocanha
+    price: €5
+    organisation: Espace Culturel André Malraux
+    source: events/france/paris_balfolk.yaml
   - name: Bal Folk
     links:
       - "https://www.facebook.com/events/304155999092325/304156009092324/"
@@ -46591,6 +46591,21 @@ events:
     social: true
     price: €5-€10
     organisation: Maison MAGIS
+    source: events/france/paris_balfolk.yaml
+  - name: Jam session et Bal folk
+    links:
+      - "https://jamsessionetbalfolk.dansons.fr/"
+      - "https://www.facebook.com/events/445333835111301/"
+    start: "2024-06-19T19:30:00+02:00"
+    end: "2024-06-20T00:00:00+02:00"
+    country: France
+    city: Paris
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €6
+    organisation: Jam session et bal folk
     source: events/france/paris_balfolk.yaml
   - name: Bal Folk
     links:
