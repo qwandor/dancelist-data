@@ -1,37 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Jigfoot in Cardiff
-    links:
-      - "http://ruffceilidhs.org/coming/"
-    start_date: 2024-03-16
-    end_date: 2024-03-16
-    country: UK
-    city: Cardiff
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Jigfoot
-    callers:
-      - Ian Nichols
-    organisation: Webfeet
-  - name: This Way Up in Poynton
-    links:
-      - "https://www.poyntonceilidh.co.uk/dates/"
-    start_date: 2024-03-16
-    end_date: 2024-03-16
-    country: UK
-    city: Poynton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - This Way Up
-    callers:
-      - Baz Parkes
-    organisation: Webfeet
   - name: "The Ironmasters in Chandler's Ford"
     links:
       - "http://www.shocc.co.uk/"
@@ -334,39 +302,9 @@ events:
     bands:
       - Catsfield Steamers
     organisation: Webfeet
-  - name: Banter in Wavendon
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2024-06-07
-    end_date: 2024-06-07
-    country: UK
-    city: Wavendon
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
-  - name: David Faulkner & Steve Turner in Exeter
-    links:
-      - "http://mister.red/dance/exeter.htm#D.AN.20240608"
-    start_date: 2024-06-08
-    end_date: 2024-06-08
-    country: UK
-    city: Exeter
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - David Faulkner & Steve Turner
-    organisation: Webfeet
   - name: Melobo in Grove
     links:
       - "https://www.areyoudancing.com/dance-event/702465/"
-      - "https://www.wherecanwego.com/item/e250722/folk-for-ms-ceilidh-barn-dance"
-      - "http://mister.red/dance/wantage.htm#D.UB.20240608"
     start_date: 2024-06-08
     end_date: 2024-06-08
     country: UK
@@ -377,54 +315,6 @@ events:
     social: true
     bands:
       - Melobo
-    callers:
-      - Pete North
-    organisation: Webfeet
-  - name: Blowzabella in Stroud
-    links:
-      - "https://balfolkstroud.uk/cps/gigs/blowzabella-ca9d85.php"
-      - "http://mister.red/dance/stroud.htm#D.AY.20240608"
-    start_date: 2024-06-08
-    end_date: 2024-06-08
-    country: UK
-    city: Stroud
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Blowzabella
-    organisation: Webfeet
-  - name: Banter in Weobley Castle
-    details: "[To Be Confirmed]"
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2024-06-08
-    end_date: 2024-06-08
-    country: UK
-    city: Weobley Castle
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
-  - name: Sharon Carr in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AH.20240609"
-    start_date: 2024-06-09
-    end_date: 2024-06-09
-    country: UK
-    city: Bristol
-    styles:
-      - irish-set
-    workshop: false
-    social: true
-    bands:
-      - Sharon Carr
-    callers:
-      - Perfect Cure
     organisation: Webfeet
   - name: Contra Sutra in Englefield Green
     links:
@@ -532,7 +422,7 @@ events:
     organisation: Webfeet
   - name: Topette!! in Topsham
     links:
-      - "http://mister.red/dance/topsham.htm#D.AS.20240614"
+      - "http://mister.red/dance/topsham.htm#D.AR.20240614"
     start_date: 2024-06-14
     end_date: 2024-06-14
     country: UK
@@ -546,7 +436,7 @@ events:
     organisation: Webfeet
   - name: Topette!! in Bristol
     links:
-      - "http://mister.red/dance/bristol.htm#D.AR.20240615"
+      - "http://mister.red/dance/bristol.htm#D.AQ.20240615"
     start_date: 2024-06-15
     end_date: 2024-06-15
     country: UK
@@ -593,7 +483,7 @@ events:
     organisation: Webfeet
   - name: Topette!! in Faringdon
     links:
-      - "http://mister.red/dance/faringdon.htm#D.AT.20240616"
+      - "http://mister.red/dance/faringdon.htm#D.AS.20240616"
     start_date: 2024-06-16
     end_date: 2024-06-16
     country: UK
@@ -709,7 +599,7 @@ events:
     organisation: Webfeet
   - name: Mel Biggs in Northampton
     links:
-      - "http://mister.red/dance/northampton.htm#D.A2.20240623"
+      - "http://mister.red/dance/northampton.htm#D.A0.20240623"
     start_date: 2024-06-23
     end_date: 2024-06-23
     country: UK
@@ -973,6 +863,20 @@ events:
     callers:
       - Joey Oliver
     organisation: Webfeet
+  - name: No Strings Attached in East Coker
+    links:
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2024-07-06
+    end_date: 2024-07-06
+    country: UK
+    city: East Coker
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - No Strings Attached
+    organisation: Webfeet
   - name: Triskelion in Halsway Manor
     links:
       - "http://www.sadfolk.co.uk/listings.php"
@@ -1107,7 +1011,7 @@ events:
     organisation: Webfeet
   - name: live music in Oxford
     links:
-      - "http://mister.red/dance/oxford.htm#D.A1.20240714"
+      - "http://mister.red/dance/oxford.htm#D.AZ.20240714"
     start_date: 2024-07-14
     end_date: 2024-07-14
     country: UK
@@ -1237,7 +1141,7 @@ events:
     organisation: Webfeet
   - name: "Rough Edge in Ruff Ceilidhs, Bridgend"
     links:
-      - "http://mister.red/dance/bridgend.htm#D.A4.20240803"
+      - "http://mister.red/dance/bridgend.htm#D.A1.20240803"
     start_date: 2024-08-03
     end_date: 2024-08-03
     country: UK
@@ -1337,7 +1241,7 @@ events:
     organisation: Webfeet
   - name: Cock & Bull Band in Grove
     links:
-      - "http://mister.red/dance/wantage.htm#D.AU.20240817"
+      - "http://mister.red/dance/wantage.htm#D.AT.20240817"
     start_date: 2024-08-17
     end_date: 2024-08-17
     country: UK
@@ -1392,6 +1296,22 @@ events:
     social: true
     bands:
       - Oxford Nags
+    organisation: Webfeet
+  - name: "The Hedgehog's Skin in Whitby"
+    links:
+      - "https://www.wherecanwego.com/item/e1546713/ceilidh-with-the-hedgehogs-skin"
+    start_date: 2024-08-22
+    end_date: 2024-08-22
+    country: UK
+    city: Whitby
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "The Hedgehog's Skin"
+    callers:
+      - Joey Oliver
     organisation: Webfeet
   - name: "Blackbeard's Tea Party in Middle Claydon"
     links:
@@ -1524,6 +1444,7 @@ events:
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
+      - "http://www.sadfolk.co.uk/listings.php"
     start_date: 2024-09-13
     end_date: 2024-09-13
     country: UK
@@ -1598,7 +1519,7 @@ events:
     organisation: Webfeet
   - name: Bosun Higgs in Cardiff
     links:
-      - "http://mister.red/dance/cardiff.htm#D.A5.20240928"
+      - "http://mister.red/dance/cardiff.htm#D.A2.20240928"
       - "http://ruffceilidhs.org/coming/"
     start_date: 2024-09-28
     end_date: 2024-09-28
@@ -1630,7 +1551,7 @@ events:
   - name: Shivelight in Stroud
     links:
       - "https://balfolkstroud.uk/cps/gigs/shivelight-479bca.php"
-      - "http://mister.red/dance/stroud.htm#D.AV.20240928"
+      - "http://mister.red/dance/stroud.htm#D.AU.20240928"
     start_date: 2024-09-28
     end_date: 2024-09-28
     country: UK
@@ -1692,6 +1613,7 @@ events:
     organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
+      - "http://www.sadfolk.co.uk/listings.php"
       - "http://www.earwicker.org/about_arish_mel.htm"
     start_date: 2024-10-11
     end_date: 2024-10-11
@@ -1738,7 +1660,7 @@ events:
     organisation: Webfeet
   - name: Kettlehawk in Grove
     links:
-      - "http://mister.red/dance/wantage.htm#D.UC.20241019"
+      - "http://mister.red/dance/wantage.htm#D.UB.20241019"
     start_date: 2024-10-19
     end_date: 2024-10-19
     country: UK
@@ -1799,7 +1721,7 @@ events:
     organisation: Webfeet
   - name: Steve Turner and Helena Torpy in Stroud
     links:
-      - "http://mister.red/dance/stroud.htm#D.AW.20241026"
+      - "http://mister.red/dance/stroud.htm#D.AV.20241026"
     start_date: 2024-10-26
     end_date: 2024-10-26
     country: UK
@@ -1869,6 +1791,20 @@ events:
     bands:
       - Portland Drive
     organisation: Webfeet
+  - name: Panjandrum in Orpington
+    links:
+      - "https://eceilidh.org.uk/cps/gigs/panjandrum-9ec3b2.php"
+    start_date: 2024-11-09
+    end_date: 2024-11-09
+    country: UK
+    city: Orpington
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Panjandrum
+    organisation: Webfeet
   - name: Box of Frogs in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
@@ -1904,6 +1840,7 @@ events:
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
+      - "http://www.sadfolk.co.uk/listings.php"
     start_date: 2024-11-22
     end_date: 2024-11-22
     country: UK
@@ -1977,7 +1914,7 @@ events:
     organisation: Webfeet
   - name: "Jack's Maggot in Grove"
     links:
-      - "http://mister.red/dance/wantage.htm#D.UD.20241207"
+      - "http://mister.red/dance/wantage.htm#D.UC.20241207"
     start_date: 2024-12-07
     end_date: 2024-12-07
     country: UK
