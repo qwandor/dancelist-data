@@ -1719,9 +1719,10 @@ events:
     organisation: TryContra
   - name: ContraCopia
     links:
+      - "http://www.thursdaycontra.com/contracopia/"
       - "https://www.facebook.com/events/1940775709692052"
-    start_date: 2024-11-30
-    end_date: 2024-11-30
+    start: "2024-11-30T14:00:00-05:00"
+    end: "2024-11-30T23:00:00-05:00"
     country: USA
     state: PA
     city: Philadelphia
@@ -1737,6 +1738,7 @@ events:
       - Gaye Fifer
       - Alex Deis-Lauby
       - Ben Sachs Hamilton
+    price: $25-$35
     organisation: TryContra
   - name: Breaking Up Thanksgiving
     links:
