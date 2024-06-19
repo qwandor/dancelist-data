@@ -12834,7 +12834,7 @@ events:
     details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
     links:
       - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2024-06-08/"
-    start: "2024-06-08T19:30:00-05:00"
+    start: "2024-06-08T18:30:00-05:00"
     end: "2024-06-08T23:00:00-05:00"
     country: USA
     state: AL
@@ -13951,7 +13951,7 @@ events:
     social: true
     price: $5-$10
     organisation: Lisa Lowell
-  - name: "Jonesborough, TN Contra—Playing with Fire with Penelope Weinberger calling"
+  - name: Jonesborough Contra
     details: "Never contra danced before? We gotcha covered! You’ll want to be there at 7pm for the Newcomer Lesson. Dance begins at 7:30pm.  \n\nCost: $12 Adults, $8 Students, $30 Families\nCash or Venmo\nDonations to help cover expenses appreciated\nCome as you are, no partner needed\nShort newcomer lesson starts promptly at 7pm\nDance starts at 7:30pm\nFriends, families, and children welcome\n\nFollow us on Facebook & Instagram or on our website. \nWe are an all-volunteer nonprofit educational organization which is dedicated to the cultivation of a healthy community through traditional dance and music."
     links:
       - "https://cdss.org/event/jonesborough-tn-contra-8/"
@@ -13964,7 +13964,11 @@ events:
       - contra
     workshop: true
     social: true
-    price: $8-$30
+    bands:
+      - Playing with Fyre
+    callers:
+      - Penelope Weinberger
+    price: $8-$12
     organisation: Historic Jonesborough Dance Society
   - name: CDK Contra & Square Dance
     details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \n4th Saturday Schedule: \n\nFebruary 24: Contra & Squares with Hawks and Owls String Band, calls by Karin Neils & Friends \nMarch 23: Contra & Squares with Soltre, calls by Mike Clark\nJune 22: Contra & Squares – ADVANCED Dance  Brook Farm, calls by Laurie Pietravalle\n\nSuggested donation $5-$20"
@@ -13980,6 +13984,10 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Brook Farm String Band
+    callers:
+      - Laurie Pietravalle
     price: $5-$20
     organisation: CDSS
   - name: San Antonio Contra Dance
@@ -14015,13 +14023,14 @@ events:
     social: true
     bands:
       - Take a Dance
+    cancelled: true
     organisation: Mendocino English Country Dance
   - name: Mystic Pie Dance
     details: "Time: Dance 7:30-10:30 pm [short basics session @ 7:15 pm]\nWe have air conditioning every monthly dance all summer long!\nThis is so wicked fun! It is the most fun you can have with your clothes on! We dance to live music! It is the fiddle tunes of Ireland, Scotland, England, France, Appalachia and America! We often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time!\nLive music by: The Round Hill Ramblers are Mickey Koth and Liz Raymond on fiddle and John Kalinowski on accordion. We are based at and ramble around Round Hill Road in Middletown, CT. All three of us play in various concert and dance bands, including Wild Notes (John and Mickey) and The Wee Merry Banshees (Liz and Mickey).\nCaller: Don Heinold. Hailing from Rhode Island, but calling frequently in Connecticut, Don has been calling at dances, weddings & parties all over New England for over 14 years. Don is also known for teaching the Rotary (country) Waltz.\nAdmission: $10 adults, $7 students. Donations gratefully accepted!\nHomemade pie slices! We offer a medley of homemade pie slices! These delicious pie slices are offered at the break for $3/slice to help support the band and caller.\nRole terms are: “Ladies & Gents” (or Women & Men) but dancers are welcome to choose whatever role their heart desires.\nClothing & Footwear: Clothing is casual, layers are best for this invigorating exercise. Please wear non-street shoes that move easily on the floor (rubber soled sneaker are discouraged but some do wear them even though it makes dancing harder).\nParking: Plenty of free parking in the large parking area next to the building!"
     links:
       - "https://www.mysticpiedance.org/"
       - "https://cdss.org/event/mystic-pie-dance/"
-    start: "2024-06-22T19:30:00-04:00"
+    start: "2024-06-22T19:15:00-04:00"
     end: "2024-06-22T22:30:00-04:00"
     country: USA
     state: CT
@@ -14031,7 +14040,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Wee Merry Banshees
+      - Round Hill Ramblers
     callers:
       - Don Heinold
     price: $7-$10
@@ -14039,8 +14048,9 @@ events:
   - name: Richmond Saturday Night Contra Dance
     details: "Join the Richmond, VA, contra dance, hosted by TADAMS at the West End Ballroom for a Saturday evening dance. Beginner lesson at 6:45pm, dance from 7:30-10:30pm. Admission is $15 non-members, $10 members and students, children under 13 are free. Please check our full website calendar for caller and band details."
     links:
+      - "https://tadamsva.org/dance/saturday-contra-dance-web-6-22-2024/"
       - "https://cdss.org/event/richmond-va-saturday-night-contra-dance/2024-06-22/"
-    start: "2024-06-22T19:30:00-04:00"
+    start: "2024-06-22T18:45:00-04:00"
     end: "2024-06-22T22:30:00-04:00"
     country: USA
     state: VA
@@ -14049,11 +14059,16 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - The Hot Seats
+    callers:
+      - April Blum
     price: $10-$15
     organisation: TADAMS (Traditional American Dance and Music Society)
-  - name: Bay Area Country Dance Society Family Week Camp
+  - name: BACDS Family Week
     details: "BACDS Family Week celebrates its 31st year with its magical dance and music celebration in the beautiful redwoods of Aptos, CA. Open and welcoming to families of all kinds and sizes! \nStaff this year will include Shirleigh Brannon (Irish dance), Lindsay Verbil (English Country Dance), Yoyo Zhou (Contra) and Susan Frontczak (theater and storytelling), plus Talitha Amadeo Aho (singing), Jeff Spero (keyboard), M’Gilvry Allen (fiddle), Ben Saylor (Irish flute), Anne Bingham Goess (fiddle), Craig Johnson (keyboard), Lorraine Kostka (crafts), and Raffi Maslan and Andy Wilson (Circus Arts). Camp also offers Waldorf-inspired preschool and roving babysitters for the little ones. \n$975 adults, $840 teens, $650 kids 6-12, $300 kids 2-5. Work trade discount available."
     links:
+      - "https://www.bacds.org/familyweek/"
       - "https://cdss.org/event/bay-area-country-dance-society-family-week-camp/"
     start_date: 2024-06-23
     end_date: 2024-06-29
@@ -14063,9 +14078,12 @@ events:
     styles:
       - contra
       - ecd
-    workshop: false
+    workshop: true
     social: true
-    price: $300-$975
+    callers:
+      - Lindsay Verbil
+      - Yoyo Zhou
+    price: $650-$975
     organisation: CDSS
   - name: Contra Dance
     details: "HATDS hosts contra dances on the 2nd and 4th Saturdays of most months. We dance to live music. All skill levels are welcome and all dances are called. Bring water and clean shoes! \nThe admission price for contra dances is $10 for members, $15 for non-members. Cash, checks, credit cards, and digital wallets are currently accepted at the door. If paying cash, please bring correct change. No large bills accepted."
@@ -14087,7 +14105,7 @@ events:
     details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
     links:
       - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2024-06-22/"
-    start: "2024-06-22T19:30:00-05:00"
+    start: "2024-06-22T18:30:00-05:00"
     end: "2024-06-22T23:00:00-05:00"
     country: USA
     state: AL
@@ -14148,11 +14166,11 @@ events:
       - Dane Wallinga
     price: $5-$12
     organisation: Sacramento Country Dance Society
-  - name: "English Country Dance Atlanta: 2nd, 4th, & 5th Sundays"
+  - name: ECD Atlanta
     details: "Laura Hudlow, calling\nmusic by Viola Voilá: Teri Abler & Stven Carlberg\n$9, cash or check\n2:45: introductory session"
     links:
       - "https://cdss.org/event/english-country-dance-atlanta-2nd-4th-5th-sundays-5/"
-    start: "2024-06-23T15:00:00-04:00"
+    start: "2024-06-23T14:45:00-04:00"
     end: "2024-06-23T17:30:00-04:00"
     country: USA
     state: GA
@@ -14161,6 +14179,8 @@ events:
       - ecd
     workshop: true
     social: true
+    bands:
+      - Viola Voilá
     callers:
       - Laura Hudlow
     price: $9
