@@ -1,35 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "The Ironmasters in Chandler's Ford"
-    links:
-      - "http://www.shocc.co.uk/"
-    start_date: 2024-03-23
-    end_date: 2024-03-23
-    country: UK
-    city: "Chandler's Ford"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - The Ironmasters
-    callers:
-      - Baz Parkes
-    organisation: Webfeet
-  - name: Catsfield Steamers in Hurst Green
-    links:
-      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
-    start_date: 2024-03-23
-    end_date: 2024-03-23
-    country: UK
-    city: Hurst Green
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Catsfield Steamers
-    organisation: Webfeet
   - name: Oxford Nags in Grove
     links:
       - "http://www.oxfordnags.co.uk/"
@@ -168,22 +138,6 @@ events:
     callers:
       - Malcolm Churchill
     organisation: Webfeet
-  - name: Crowdy-Kit in Baldock
-    links:
-      - "http://www.unicornceilidhs.org.uk/uc05prog.html"
-    start_date: 2024-05-10
-    end_date: 2024-05-10
-    country: UK
-    city: Baldock
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Crowdy-Kit
-    callers:
-      - Andy Rouse
-    organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -302,20 +256,6 @@ events:
     bands:
       - Catsfield Steamers
     organisation: Webfeet
-  - name: Melobo in Grove
-    links:
-      - "https://www.areyoudancing.com/dance-event/702465/"
-    start_date: 2024-06-08
-    end_date: 2024-06-08
-    country: UK
-    city: Grove
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Melobo
-    organisation: Webfeet
   - name: Contra Sutra in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
@@ -389,20 +329,6 @@ events:
     social: true
     bands:
       - Deep Street
-    organisation: Webfeet
-  - name: "Blackbeard's Tea Party in Cleobury Mortimer"
-    links:
-      - "https://www.bandsintown.com/e/104950680-blackbeard&#x27;s-tea-party-at-hopton-court-estate-amber&#x27;s-bell-tent-camping"
-    start_date: 2024-06-13
-    end_date: 2024-06-13
-    country: UK
-    city: Cleobury Mortimer
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
     organisation: Webfeet
   - name: Benjamin & Joshua Rowe in Bristol
     links:
@@ -495,20 +421,6 @@ events:
     bands:
       - Topette!!
     organisation: Webfeet
-  - name: Blackbeards Tea Party in Hopton
-    links:
-      - "http://www.blackbeardsteaparty.com/gigs/"
-    start_date: 2024-06-16
-    end_date: 2024-06-16
-    country: UK
-    city: Hopton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Blackbeards Tea Party
-    organisation: Webfeet
   - name: "Mark & Norma in Whimple Irish Set, Whimple"
     links:
       - "http://mister.red/dance/whimple.htm#D.AG.20240616"
@@ -538,6 +450,20 @@ events:
       - own music
     callers:
       - Barry Reeves
+    organisation: Webfeet
+  - name: Tatterdemalion in Dorchester
+    links:
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2024-06-22
+    end_date: 2024-06-22
+    country: UK
+    city: Dorchester
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Tatterdemalion
     organisation: Webfeet
   - name: Banter in Evesham
     links:
@@ -744,6 +670,7 @@ events:
   - name: Red Shed in Kennford
     links:
       - "http://devonfolk.org/events-diary/"
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
     start_date: 2024-06-29
     end_date: 2024-06-29
     country: UK
@@ -1053,6 +980,20 @@ events:
     bands:
       - Banjacs
     organisation: Webfeet
+  - name: Blue Jewel in Stoke Gabriel
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2024-07-20
+    end_date: 2024-07-20
+    country: UK
+    city: Stoke Gabriel
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Blue Jewel
+    organisation: Webfeet
   - name: sessionista in Bristol
     links:
       - "http://mister.red/dance/bristol.htm#D.AJ.20240721"
@@ -1108,6 +1049,20 @@ events:
     social: true
     bands:
       - Catsfield Steamers
+    organisation: Webfeet
+  - name: Red Shed in Ide
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2024-07-27
+    end_date: 2024-07-27
+    country: UK
+    city: Ide
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Red Shed
     organisation: Webfeet
   - name: own music in Pucklechurch
     links:
@@ -1239,9 +1194,11 @@ events:
     bands:
       - Banter
     organisation: Webfeet
-  - name: Cock & Bull Band in Grove
+  - name: Cock and Bull in Grove
     links:
       - "http://mister.red/dance/wantage.htm#D.AT.20240817"
+      - "https://www.wherecanwego.com/item/e250722/festival-ceilidh-barn-dance"
+      - "https://www.areyoudancing.com/dance-event/711224/"
     start_date: 2024-08-17
     end_date: 2024-08-17
     country: UK
@@ -1252,6 +1209,7 @@ events:
     social: true
     bands:
       - Cock & Bull Band
+      - Cock and Bull
     callers:
       - Jane Bird
     organisation: Webfeet
@@ -1627,6 +1585,20 @@ events:
       - Arish Mel
     callers:
       - Malcolm Churchill
+    organisation: Webfeet
+  - name: "Blackbeard's Tea Party in Sheffield"
+    links:
+      - "https://www.bandsintown.com/e/105312548-blackbeard&#x27;s-tea-party-at-the-greystones"
+    start_date: 2024-10-11
+    end_date: 2024-10-11
+    country: UK
+    city: Sheffield
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
     organisation: Webfeet
   - name: Philippe Plard & Mark Prescott in Exeter
     links:
@@ -2172,6 +2144,22 @@ events:
     bands:
       - Phoenix
     organisation: Webfeet
+  - name: Vertical Expression in Baldock
+    links:
+      - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+    start_date: 2025-03-14
+    end_date: 2025-03-14
+    country: UK
+    city: Baldock
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Vertical Expression
+    callers:
+      - Adam Hughes
+    organisation: Webfeet
   - name: Melobo in Cardiff
     links:
       - "http://ruffceilidhs.org/coming/"
@@ -2247,6 +2235,22 @@ events:
     social: true
     bands:
       - Flash Co
+    organisation: Webfeet
+  - name: The Pigeon Swing in Baldock
+    links:
+      - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+    start_date: 2025-05-09
+    end_date: 2025-05-09
+    country: UK
+    city: Baldock
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Pigeon Swing
+    callers:
+      - Jane Bird
     organisation: Webfeet
   - name: Skermish in Exeter
     links:
