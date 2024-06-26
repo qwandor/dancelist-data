@@ -71854,6 +71854,24 @@ events:
     organisation: Folkstanzwirbel
     source: events/germany/hamburg.yaml
   - name: Bal Folk
+    details: "Bal Folk with Fragole e Tempesta\r\nWorkshop 7 pm\r\nBal 8 pm"
+    links:
+      - "https://www.folkstanzwirbel.de/"
+    start: "2024-07-01T19:00:00+02:00"
+    end: "2024-07-01T23:00:00+02:00"
+    country: Germany
+    city: Hamburg
+    styles:
+      - balfolk
+      - italian
+    workshop: true
+    social: true
+    bands:
+      - Fragole e Tempesta
+    price: donation
+    organisation: Folkstanzwirbel
+    source: events/germany/hamburg.yaml
+  - name: Bal Folk
     links:
       - "https://www.folkstanzwirbel.de/"
     start_date: 2024-10-19
