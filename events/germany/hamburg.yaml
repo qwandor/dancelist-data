@@ -267,10 +267,11 @@ events:
     price: donation
     organisation: Folkstanzwirbel
   - name: Bal Folk
+    details: "7 pm Bal Feather & Fox\r\n9 pm Bal Les Zéoles"
     links:
       - "https://www.folkstanzwirbel.de/"
-    start_date: 2024-10-19
-    end_date: 2024-10-19
+    start: "2024-10-19T19:00:00+02:00"
+    end: "2024-10-19T23:00:00+02:00"
     country: Germany
     city: Hamburg
     styles:
@@ -278,6 +279,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Les Zéoles
       - Feather and Fox
+      - Les Zéoles
+    price: €25
     organisation: Folkstanzwirbel
