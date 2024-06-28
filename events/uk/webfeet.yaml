@@ -1,37 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Oxford Nags in Grove
-    links:
-      - "http://www.oxfordnags.co.uk/"
-    start_date: 2024-03-30
-    end_date: 2024-03-30
-    country: UK
-    city: Grove
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Oxford Nags
-    callers:
-      - Aidan Hansell
-    organisation: Webfeet
-  - name: Arish Mel in Church Knowle
-    links:
-      - "http://www.earwicker.org/about_arish_mel.htm"
-    start_date: 2024-04-05
-    end_date: 2024-04-05
-    country: UK
-    city: Church Knowle
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Arish Mel
-    callers:
-      - Malcolm Churchill
-    organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -451,48 +419,6 @@ events:
     callers:
       - Barry Reeves
     organisation: Webfeet
-  - name: Tatterdemalion in Dorchester
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2024-06-22
-    end_date: 2024-06-22
-    country: UK
-    city: Dorchester
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Tatterdemalion
-    organisation: Webfeet
-  - name: Banter in Evesham
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2024-06-22
-    end_date: 2024-06-22
-    country: UK
-    city: Evesham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
-  - name: Skermish in Great Torrington
-    links:
-      - "http://devonfolk.org/events-diary/"
-    start_date: 2024-06-22
-    end_date: 2024-06-22
-    country: UK
-    city: Great Torrington
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Skermish
-    organisation: Webfeet
   - name: Topette in London
     links:
       - "https://www.bandsintown.com/e/1031454063-topette-at-cecil-sharp-house"
@@ -597,20 +523,6 @@ events:
     callers:
       - Geoff Elwell
     organisation: Webfeet
-  - name: Banter in Glastonbury
-    links:
-      - "https://www.wherecanwego.com/item/e1544163/grand-summer-ceilidh-barn-dance"
-    start_date: 2024-06-28
-    end_date: 2024-06-28
-    country: UK
-    city: Glastonbury
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -681,6 +593,20 @@ events:
     social: true
     bands:
       - Red Shed
+    organisation: Webfeet
+  - name: Famous Potatoes in Leigh on Sea
+    links:
+      - "http://famouspotatoes.co.uk/events/potatoes-playing-at-fake-folk-festival/"
+    start_date: 2024-06-29
+    end_date: 2024-06-29
+    country: UK
+    city: Leigh on Sea
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Famous Potatoes
     organisation: Webfeet
   - name: Portland Duo in Worcester
     links:
@@ -774,22 +700,6 @@ events:
     bands:
       - Blackbeards Tea Party
     organisation: Webfeet
-  - name: Hexham Village Band in Whitley
-    links:
-      - "https://www.wherecanwego.com/item/e1411756/ceilidh-with-the-hexham-village-band"
-    start_date: 2024-07-05
-    end_date: 2024-07-05
-    country: UK
-    city: Whitley
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Hexham Village Band
-    callers:
-      - Joey Oliver
-    organisation: Webfeet
   - name: No Strings Attached in East Coker
     links:
       - "http://www.sadfolk.co.uk/listings.php"
@@ -818,9 +728,11 @@ events:
     bands:
       - Triskelion
     organisation: Webfeet
-  - name: "Blackbeard's Tea Party in Welton"
+  - name: Blackbeards Tea Party in Welton
     links:
+      - "https://www.bandsintown.com/e/105691536-blackbeard&#x27;s-tea-party-at-village-hall"
       - "https://www.eventbrite.com/e/ceilidh-featuring-blackbeards-tea-party-tickets-894022624737"
+      - "http://www.blackbeardsteaparty.com/gigs/"
     start_date: 2024-07-06
     end_date: 2024-07-06
     country: UK
@@ -831,6 +743,7 @@ events:
     social: true
     bands:
       - "Blackbeard's Tea Party"
+      - Blackbeards Tea Party
     organisation: Webfeet
   - name: "sessionista in Bath French, Bath"
     links:
@@ -1197,7 +1110,6 @@ events:
   - name: Cock and Bull in Grove
     links:
       - "http://mister.red/dance/wantage.htm#D.AT.20240817"
-      - "https://www.wherecanwego.com/item/e250722/festival-ceilidh-barn-dance"
       - "https://www.areyoudancing.com/dance-event/711224/"
     start_date: 2024-08-17
     end_date: 2024-08-17
@@ -1254,22 +1166,6 @@ events:
     social: true
     bands:
       - Oxford Nags
-    organisation: Webfeet
-  - name: "The Hedgehog's Skin in Whitby"
-    links:
-      - "https://www.wherecanwego.com/item/e1546713/ceilidh-with-the-hedgehogs-skin"
-    start_date: 2024-08-22
-    end_date: 2024-08-22
-    country: UK
-    city: Whitby
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "The Hedgehog's Skin"
-    callers:
-      - Joey Oliver
     organisation: Webfeet
   - name: "Blackbeard's Tea Party in Middle Claydon"
     links:
@@ -1585,20 +1481,6 @@ events:
       - Arish Mel
     callers:
       - Malcolm Churchill
-    organisation: Webfeet
-  - name: "Blackbeard's Tea Party in Sheffield"
-    links:
-      - "https://www.bandsintown.com/e/105312548-blackbeard&#x27;s-tea-party-at-the-greystones"
-    start_date: 2024-10-11
-    end_date: 2024-10-11
-    country: UK
-    city: Sheffield
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
     organisation: Webfeet
   - name: Philippe Plard & Mark Prescott in Exeter
     links:
@@ -1992,22 +1874,6 @@ events:
     bands:
       - Barnstormers
     organisation: Webfeet
-  - name: "The Hedgehog's Skin in Hexham"
-    links:
-      - "https://www.wherecanwego.com/item/e759897/the-hexham-christmas-ceilidh-with-the-hedgehogs-skin"
-    start_date: 2024-12-28
-    end_date: 2024-12-28
-    country: UK
-    city: Hexham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "The Hedgehog's Skin"
-    callers:
-      - Joey Oliver
-    organisation: Webfeet
   - name: Bosun Higgs in Chippenham
     links:
       - "https://www.bosunhiggs.co.uk/gig-diary.html"
@@ -2021,22 +1887,6 @@ events:
     social: true
     bands:
       - Bosun Higgs
-    organisation: Webfeet
-  - name: "The Hedgehog's Skin in Allendale"
-    links:
-      - "https://www.wherecanwego.com/item/e781713/new-year-ceilidh-with-the-hedgehogs-skin"
-    start_date: 2024-12-31
-    end_date: 2024-12-31
-    country: UK
-    city: Allendale
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "The Hedgehog's Skin"
-    callers:
-      - Joey Oliver
     organisation: Webfeet
   - name: PolkaWorks in Baldock
     links:
@@ -2205,6 +2055,20 @@ events:
     social: true
     bands:
       - Amber Fire
+    organisation: Webfeet
+  - name: Frog on a Bike in St. Albans
+    links:
+      - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+    start_date: 2025-04-18
+    end_date: 2025-04-18
+    country: UK
+    city: St. Albans
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Frog on a Bike
     organisation: Webfeet
   - name: "Banter in Chandler's Ford"
     links:
