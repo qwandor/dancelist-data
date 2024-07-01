@@ -14907,8 +14907,9 @@ events:
   - name: FSGW English Country Dance
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
+      - "https://fsgw.org/event-5766260"
       - "https://cdss.org/event/fsgw-english-country-dance/2024-07-03/"
-    start: "2024-07-03T20:00:00-04:00"
+    start: "2024-07-03T19:30:00-04:00"
     end: "2024-07-03T22:30:00-04:00"
     country: USA
     state: MD
@@ -14933,7 +14934,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: Thursday Contra Dance
     details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing \n$5 to $20 sliding scale \nOur role terms are Larks and Robins \nMasks are required on the 1st, 3rd and 5th Thursdays."
@@ -14954,6 +14955,7 @@ events:
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-211/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-07-04/"
     start: "2024-07-04T19:30:00-04:00"
     end: "2024-07-04T22:30:00-04:00"
@@ -14965,9 +14967,11 @@ events:
     workshop: false
     social: true
     organisation: Country Dancers of Rochester
-  - name: Berkeley Contra and English Dances
+    cancelled: true
+  - name: Berkeley Contra Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-07-04/"
     start: "2024-07-04T20:00:00-07:00"
     end: "2024-07-04T22:30:00-07:00"
@@ -14976,13 +14980,15 @@ events:
     city: Berkeley
     styles:
       - contra
-      - ecd
     workshop: true
     social: true
+    price: $6-$25
     organisation: CDSS
-  - name: Flying Shoes First Friday Community Dance & Contra Dance
+    cancelled: true
+  - name: Flying Shoes Community Dance & Contra Dance
     details: "Everyone is welcome at this two-part monthly dance series. From neophytes to lifelong participants, and so many other demographic variations, we all collaborate to make this community-building participatory arts program a joyful success. See you at the dance! \nSchedule:\n\n6:00 pm ~ Musicians Warmup ~ Tunes on the All Comers Band page\n6:30-7:30 pm ~ Community Dance ~ Lisa Newcomb & Chrissy Fowler calling with the All Comers Band, led by Benjamin Foss & Willy Clemetson ~ Community Dance admission is $1 kids, $2 adults\n8:00-11:00 pm ~ Contra Dance ~ We use the terms lark and robin to identify the dance roles. (More on roles here.) ~ Contra Dance Admission is $20 – $15 (a sliding scale lets us cover expenses and compensate performers; please pay as much as you can!)\n\nLocation: First Church in Belfast UCC, 8 Court St, Belfast (enter via Spring St) \nPolicies:  See Community Care Policy and First Friday FAQ ~ BFS programs are chem free (please be sober) ~ Stay home if you don’t feel well \nSponsors: Artisan Builders, Belfast Community Co-op, Colburn Shoe Store, Daisychain Farm, First National Bank, Grace Chiropractic, The Green Store, Searsport Shores Oceanfront Camping, Thomas Fowler PE, Trillium Caterers, and Worth Real Estate"
     links:
+      - "https://belfastflyingshoes.org/calendar/"
       - "https://cdss.org/event/flying-shoes-first-friday-community-dance-contra-dance/2024-07-05/"
     start: "2024-07-05T18:00:00-04:00"
     end: "2024-07-05T23:00:00-04:00"
@@ -14994,8 +15000,12 @@ events:
     workshop: false
     social: true
     bands:
-      - Trillium
-    price: $1-$20
+      - All Comers Band
+      - Thunderwing
+    callers:
+      - Chrissy Fowler
+      - Lisa Newcomb
+    price: $15-$22
     organisation: Belfast Flying Shoes
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
@@ -15016,6 +15026,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly
   - name: ContraATL Weekly Dance
     details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
@@ -15031,6 +15042,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Friday Contra Dance
     details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$5 – $25, pay what you can."
@@ -15051,6 +15063,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5812"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2024-07-05/"
     start: "2024-07-05T19:30:00-07:00"
     end: "2024-07-05T22:30:00-07:00"
@@ -15077,10 +15090,12 @@ events:
       - ecd
     workshop: false
     social: true
+    price: donation
     organisation: York Region English Country Dancers
   - name: English Dance S.A.
     details: English Country Dancing in San Antonio for the first time since the pandemic! New location. Recorded music until our band is ready!
     links:
+      - "https://www.meetup.com/english-dance-sanantonio/events/301682926/"
       - "https://cdss.org/event/english-dance-s-a/2024-07-06/"
     start: "2024-07-06T16:00:00-04:00"
     end: "2024-07-06T18:00:00-04:00"
@@ -15122,10 +15137,12 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: Knoxville Contra Dancers
   - name: First Saturday Contra Dance
     details: "The Monadnock Folklore Society presents the Peterborough, NH First Saturday Contra Dance on the first Saturday with different musicians and callers every month.  \nThe dancing begins at 8:00 PM, with an introductory workshop beginning at 7:30. Sliding scale admission is  $12 – 20. \nWe also host an open jam session for beginning and intermediate musicians from 6:45 – 7:30 PM. \nThe Monadnock Folklore Society has presented contra dances and concerts of traditional music since 1982."
     links:
+      - "https://www.monadnockfolk.org/event/peterborough-first-saturday-contra-dance-2/2024-07-06/"
       - "https://cdss.org/event/first-saturday-contra-dance-in-peterborough-nh/2024-07-06/"
     start: "2024-07-06T19:30:00-04:00"
     end: "2024-07-06T22:00:00-04:00"
@@ -15136,13 +15153,14 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    price: $12-$20
     organisation: Monadnock Folklore Society
   - name: Friends of Traditional Dance Contra
     details: "Contra Dance every 1st and 3rd Saturday \nWe dance at the fabulous Masonic Ballroom, with its gorgeous sprung wood dance floor."
     links:
+      - "https://fotd.org/"
       - "https://cdss.org/event/friends-of-traditional-dance-contra/2024-07-06/"
-    start: "2024-07-06T19:00:00-06:00"
+    start: "2024-07-06T18:10:00-06:00"
     end: "2024-07-06T22:00:00-06:00"
     country: USA
     state: CO
@@ -15151,13 +15169,14 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$20
     organisation: Friends of Traditional Dance
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \nLessons at 6:40; dance starts at 7 PM. \n​Prices: \n\n$12 General\n​$10 Members of MCDC, BACDS, CDSS or other sister organizations\n$5 active military & full-time students, with ID\nFREE! for children 12 & under ​"
     links:
       - "https://montereycontradance.org/index.html"
       - "https://cdss.org/event/monterey-contra-dance/2024-07-06/"
-    start: "2024-07-06T19:00:00-07:00"
+    start: "2024-07-06T18:40:00-07:00"
     end: "2024-07-06T22:00:00-07:00"
     country: USA
     state: CA
