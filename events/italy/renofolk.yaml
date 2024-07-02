@@ -4,11 +4,13 @@ events:
     links:
       - "https://www.renofolkfestival.it/14-maggio-le-matrioske-philippe-plard/"
       - "https://www.facebook.com/events/344082827773632/"
-    start: 2022-05-14T16:00:00+02:00
-    end: 2022-05-15T00:00:00+02:00
+    start: "2022-05-14T16:00:00+02:00"
+    end: "2022-05-15T00:00:00+02:00"
     country: Italy
     city: Bologna
-    styles: [balfolk, italian]
+    styles:
+      - balfolk
+      - italian
     workshop: true
     social: true
     bands:
@@ -16,7 +18,6 @@ events:
       - Philippe Plard
     price: €8-€18
     organisation: RenoFolk
-
   - name: RenoFolk Festival
     links:
       - "https://www.renofolkfestival.it/en/reno-folk-festival/"
@@ -25,7 +26,8 @@ events:
     end_date: 2022-06-05
     country: Italy
     city: Bologna
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -38,7 +40,6 @@ events:
       - Duo Meo Lucanero
       - TriOblique
     organisation: RenoFolk
-
   - name: Gran balfolk di Carnevale
     links:
       - "https://www.facebook.com/events/814057493027657/"
@@ -53,16 +54,16 @@ events:
     bands:
       - Sbanda Ballet
     organisation: ~
-
   - name: RenoFolk Festival
     links:
       - "https://www.renofolkfestival.it/?lang=en"
       - "https://www.facebook.com/events/2417926568382398/"
-    start: 2023-06-08T15:00:00+02:00
-    end: 2023-06-11T20:00:00+02:00
+    start: "2023-06-08T15:00:00+02:00"
+    end: "2023-06-11T20:00:00+02:00"
     country: Italy
     city: Bologna
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -73,20 +74,19 @@ events:
       - Beat Bouet Trio
       - Ensemble Invisibile
       - Ballaveu
-      - Musicanti d'la Bása
+      - "Musicanti d'la Bása"
       - Trio Loubelya
       - Shillelagh
       - Iskraria
       - Accordzéâm
     price: €85
     organisation: RenoFolk
-
   - name: Archam+Geronimo
     details: Balfolk concert with the possibility to sleep in tents at 5 minutes from the venue
     links:
       - "https://www.facebook.com/events/1425060291627437/"
-    start: 2023-09-23T15:00:00+02:00
-    end: 2023-09-24T15:00:00+02:00
+    start: "2023-09-23T15:00:00+02:00"
+    end: "2023-09-24T15:00:00+02:00"
     country: Italy
     city: Sasso Morelli
     styles:
@@ -98,7 +98,6 @@ events:
       - Geronimo
     price: €10
     organisation: Archam
-
   - name: tRreno Folk
     links:
       - "https://www.facebook.com/events/1124926175583546/"
@@ -115,7 +114,6 @@ events:
       - Duo Durêve-Congrega
     price: €15-€18
     organisation: RenoFolk
-
   - name: tReno Folk Masquerade Ball
     links:
       - "https://www.facebook.com/events/298041409928775/"
@@ -132,7 +130,6 @@ events:
       - Duo Zanchettin-Stewart
     price: €15-€20
     organisation: RenoFolk
-
   - name: tReno Folk
     links:
       - "https://www.facebook.com/events/2504461443054274/"
@@ -147,7 +144,6 @@ events:
     bands:
       - Tribal Jâze
     organisation: RenoFolk
-
   - name: RenoFolk Festival
     links:
       - "https://www.renofolkfestival.it/en/rff-home-english/"
@@ -155,7 +151,25 @@ events:
     end_date: 2024-06-09
     country: Italy
     city: Bologna
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     organisation: RenoFolk
+  - name: Hartwin Dhoore Trio ai Cantieri Meticci Bologna
+    details: "Subscribe here: https://forms.gle/HuSCLWsCbtMQkKQy6"
+    links:
+      - "https://www.facebook.com/share/kQT1boEHWxFrCL59/"
+    start: "2024-07-21T19:30:00+02:00"
+    end: "2024-07-22T01:00:00+02:00"
+    country: Italy
+    state: IT
+    city: Bologna
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Hartwin Dhoore Trio
+    price: donation
+    organisation: ~
