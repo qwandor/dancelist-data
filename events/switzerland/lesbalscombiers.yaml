@@ -4,11 +4,12 @@ events:
     links:
       - "https://lesbalscombiers.ch/index.php/festival"
       - "https://www.facebook.com/events/3324942197785880/"
-    start: 2022-09-16T18:00:00+02:00
-    end: 2022-09-18T15:30:00+02:00
+    start: "2022-09-16T18:00:00+02:00"
+    end: "2022-09-18T15:30:00+02:00"
     country: Switzerland
     city: Le Chenit
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -19,4 +20,25 @@ events:
       - Arasta Bazaar
       - Zéphyr Combo
     price: 50-86 CHF
+    organisation: Les Bals Combiers
+  - name: 4ème Festival des Bals Combiers
+    links:
+      - "https://www.lesbalscombiers.ch"
+      - "https://www.facebook.com/events/1549035729180696/"
+    start: "2024-09-20T18:00:00+02:00"
+    end: "2024-09-22T16:00:00+02:00"
+    country: Switzerland
+    city: Le Chenit
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Pamplemousse
+      - Tralala Lovers
+      - Duo Artense
+      - Bargainatt
+      - Poolidor
+      - Sorgues
+    price: 55 CHF
     organisation: Les Bals Combiers
