@@ -1,21 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: The Linda Game Band in Englefield Green
-    links:
-      - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
-    start_date: 2024-04-14
-    end_date: 2024-04-14
-    country: UK
-    city: Englefield Green
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - The Linda Game Band
-    callers:
-      - Andrew Swaine
-    organisation: Webfeet
   - name: The Riot Band in Poynton
     links:
       - "https://www.poyntonceilidh.co.uk/dates/"
@@ -92,6 +76,150 @@ events:
     callers:
       - Malcolm Churchill
     organisation: Webfeet
+  - name: The Bash Street Dance Band in Bradfield
+    links:
+      - "http://www.bashstreetband.co.uk/"
+    start_date: 2024-05-05
+    end_date: 2024-05-05
+    country: UK
+    city: Bradfield
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Bash Street Dance Band
+      - The Bash Street Dance Band
+    organisation: Webfeet
+  - name: The Bash Street Dance Band in Chesterfield
+    links:
+      - "http://www.bashstreetband.co.uk/"
+    start_date: 2024-05-05
+    end_date: 2024-05-05
+    country: UK
+    city: Chesterfield
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Bash Street Dance Band
+    organisation: Webfeet
+  - name: The Bash Street Dance Band in Chilwell
+    links:
+      - "http://www.bashstreetband.co.uk/"
+    start_date: 2024-05-05
+    end_date: 2024-05-05
+    country: UK
+    city: Chilwell
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Bash Street Dance Band
+    organisation: Webfeet
+  - name: The Bash Street Dance Band in Coal Aston
+    links:
+      - "http://www.bashstreetband.co.uk/"
+    start_date: 2024-05-05
+    end_date: 2024-05-05
+    country: UK
+    city: Coal Aston
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Bash Street Dance Band
+      - The Bash Street Dance Band
+    organisation: Webfeet
+  - name: The Bash Street Dance Band in Doncaster
+    links:
+      - "http://www.bashstreetband.co.uk/"
+    start_date: 2024-05-05
+    end_date: 2024-05-05
+    country: UK
+    city: Doncaster
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Bash Street Dance Band
+    organisation: Webfeet
+  - name: The Bash Street Dance Band in Dronfield
+    links:
+      - "http://www.bashstreetband.co.uk/"
+    start_date: 2024-05-05
+    end_date: 2024-05-05
+    country: UK
+    city: Dronfield
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Bash Street Dance Band
+      - The Bash Street Dance Band
+    organisation: Webfeet
+  - name: The Bash Street Dance Band in Hathersage
+    links:
+      - "http://www.bashstreetband.co.uk/"
+    start_date: 2024-05-05
+    end_date: 2024-05-05
+    country: UK
+    city: Hathersage
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Bash Street Dance Band
+    organisation: Webfeet
+  - name: The Bash Street Dance Band in Mansfield
+    links:
+      - "http://www.bashstreetband.co.uk/"
+    start_date: 2024-05-05
+    end_date: 2024-05-05
+    country: UK
+    city: Mansfield
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Bash Street Dance Band
+    organisation: Webfeet
+  - name: Bash Street Dance Band in Newark
+    links:
+      - "http://www.bashstreetband.co.uk/"
+    start_date: 2024-05-05
+    end_date: 2024-05-05
+    country: UK
+    city: Newark
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Bash Street Dance Band
+    organisation: Webfeet
+  - name: The Bash Street Dance Band in Sheffield
+    links:
+      - "http://www.bashstreetband.co.uk/"
+    start_date: 2024-05-05
+    end_date: 2024-05-05
+    country: UK
+    city: Sheffield
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Bash Street Dance Band
+      - The Bash Street Dance Band
+    organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -105,36 +233,6 @@ events:
     social: true
     bands:
       - Arish Mel
-    organisation: Webfeet
-  - name: Hodmedod in Preston
-    links:
-      - "http://www.mardles.org/mardles/ceilidhs/"
-    start_date: 2024-05-10
-    end_date: 2024-05-10
-    country: UK
-    city: Preston
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Hodmedod
-    organisation: Webfeet
-  - name: This Way Up in Cardiff
-    links:
-      - "http://ruffceilidhs.org/coming/"
-    start_date: 2024-05-11
-    end_date: 2024-05-11
-    country: UK
-    city: Cardiff
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - This Way Up
-    callers:
-      - Nicola Scott
     organisation: Webfeet
   - name: Out of Hand in Kennington
     links:
@@ -312,125 +410,6 @@ events:
     callers:
       - Joe Hodgson
     organisation: Webfeet
-  - name: Banter in Romsey
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2024-07-04
-    end_date: 2024-07-05
-    country: UK
-    city: Romsey
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
-  - name: Blackbeards Tea Party in West Acre
-    links:
-      - "http://www.blackbeardsteaparty.com/gigs/"
-    start_date: 2024-07-05
-    end_date: 2024-07-05
-    country: UK
-    city: West Acre
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Blackbeards Tea Party
-    organisation: Webfeet
-  - name: No Strings Attached in East Coker
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2024-07-06
-    end_date: 2024-07-06
-    country: UK
-    city: East Coker
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - No Strings Attached
-    organisation: Webfeet
-  - name: Triskelion in Halsway Manor
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2024-07-06
-    end_date: 2024-07-06
-    country: UK
-    city: Halsway Manor
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Triskelion
-    organisation: Webfeet
-  - name: Antler Ceilidh Band in Wallingford
-    links:
-      - "http://mister.red/dance/wallingford.htm#D.AZ.20240706"
-    start_date: 2024-07-06
-    end_date: 2024-07-06
-    country: UK
-    city: Wallingford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Antler Ceilidh Band
-    callers:
-      - Ian Nichols
-    organisation: Webfeet
-  - name: Blackbeards Tea Party in Welton
-    links:
-      - "https://www.bandsintown.com/e/105691536-blackbeard&#x27;s-tea-party-at-village-hall"
-      - "https://www.eventbrite.com/e/ceilidh-featuring-blackbeards-tea-party-tickets-894022624737"
-      - "http://www.blackbeardsteaparty.com/gigs/"
-    start_date: 2024-07-06
-    end_date: 2024-07-06
-    country: UK
-    city: Welton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-      - Blackbeards Tea Party
-    organisation: Webfeet
-  - name: "sessionista in Bath French, Bath"
-    links:
-      - "http://mister.red/dance/bath.htm#D.AM.20240707"
-    start_date: 2024-07-07
-    end_date: 2024-07-07
-    country: UK
-    city: "Bath French, Bath"
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - sessionista
-    organisation: Webfeet
-  - name: Sharon Carr in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AH.20240707"
-    start_date: 2024-07-07
-    end_date: 2024-07-07
-    country: UK
-    city: Bristol
-    styles:
-      - irish-set
-    workshop: false
-    social: true
-    bands:
-      - Sharon Carr
-    callers:
-      - Perfect Cure
-    organisation: Webfeet
   - name: live music in Bath
     links:
       - "http://mister.red/dance/bath.htm#D.AO.20240710"
@@ -565,6 +544,20 @@ events:
     bands:
       - Banjacs
     organisation: Webfeet
+  - name: Club Debris + Cri du Canard in Bristol
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AZ.20240719"
+    start_date: 2024-07-19
+    end_date: 2024-07-19
+    country: UK
+    city: Bristol
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Club Debris + Cri du Canard
+    organisation: Webfeet
   - name: Blue Jewel in Stoke Gabriel
     links:
       - "http://devonfolk.org/events-diary/"
@@ -640,6 +633,20 @@ events:
     social: true
     bands:
       - Catsfield Steamers
+    organisation: Webfeet
+  - name: Piskey Led in Bristol
+    links:
+      - "http://mister.red/dance/bristol.htm#D.A0.20240727"
+    start_date: 2024-07-27
+    end_date: 2024-07-27
+    country: UK
+    city: Bristol
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    bands:
+      - Piskey Led
     organisation: Webfeet
   - name: Deo Volente in Frenchay
     links:
@@ -730,6 +737,20 @@ events:
     social: true
     bands:
       - Spinach for Norman
+    organisation: Webfeet
+  - name: Famous Potatoes in Southend on Sea
+    links:
+      - "http://famouspotatoes.co.uk/events/public-barn-dance-at-garon-golf-centre-southend/"
+    start_date: 2024-08-02
+    end_date: 2024-08-02
+    country: UK
+    city: Southend on Sea
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Famous Potatoes
     organisation: Webfeet
   - name: "Rough Edge in Ruff Ceilidhs, Bridgend"
     links:
@@ -1086,6 +1107,20 @@ events:
     bands:
       - Blackbeards Tea Party
     organisation: Webfeet
+  - name: "sessionista in Bath French, Bath"
+    links:
+      - "http://mister.red/dance/bath.htm#D.AM.20240901"
+    start_date: 2024-09-01
+    end_date: 2024-09-01
+    country: UK
+    city: "Bath French, Bath"
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - sessionista
+    organisation: Webfeet
   - name: Catsfield Steamers in Boreham Street
     links:
       - "http://catsfieldsteamers.co.uk/index.php/bookings/"
@@ -1330,6 +1365,34 @@ events:
       - Arish Mel
     callers:
       - Malcolm Churchill
+    organisation: Webfeet
+  - name: "Blackbeard's Tea Party in Sheffield"
+    links:
+      - "https://www.bandsintown.com/e/105312548-blackbeard&#x27;s-tea-party-at-the-greystones"
+    start_date: 2024-10-11
+    end_date: 2024-10-11
+    country: UK
+    city: Sheffield
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
+    organisation: Webfeet
+  - name: "Blackbeard's Tea Party in Barton upon Humber"
+    links:
+      - "https://www.bandsintown.com/e/105312557-blackbeard&#x27;s-tea-party-at-ropery-hall"
+    start_date: 2024-10-12
+    end_date: 2024-10-12
+    country: UK
+    city: Barton upon Humber
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
     organisation: Webfeet
   - name: Philippe Plard & Mark Prescott in Exeter
     links:
@@ -1693,6 +1756,24 @@ events:
     callers:
       - Ian Nichols
     organisation: Webfeet
+  - name: The Diatonics in Stroud
+    links:
+      - "https://balfolkstroud.uk/cps/gigs/ceilidhwiththediatonics-e6dba1.php"
+      - "https://eceilidh.org.uk/cps/gigs/thediatonics-97a1ed.php"
+    start_date: 2024-12-14
+    end_date: 2024-12-14
+    country: UK
+    city: Stroud
+    styles:
+      - balfolk
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Diatonics
+    callers:
+      - Hannah Moore
+    organisation: Webfeet
   - name: Arish Mel in Piddletrenthide
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -2007,6 +2088,20 @@ events:
     social: true
     bands:
       - Portland Duo
+    organisation: Webfeet
+  - name: Crowdy Kit in Exeter
+    links:
+      - "http://mister.red/dance/exeter.htm#D.YK.20250628"
+    start_date: 2025-06-28
+    end_date: 2025-06-28
+    country: UK
+    city: Exeter
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Crowdy Kit
     organisation: Webfeet
   - name: Portland Drive in Hazel Grove
     links:
