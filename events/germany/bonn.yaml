@@ -16,13 +16,12 @@ events:
       - Initium
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk Bonn
     details: Balfolk mit Duo NoLa und Duo KoAn
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: 2023-03-10T17:30:00+01:00
-    end: 2023-03-10T21:30:00+01:00
+    start: "2023-03-10T17:30:00+01:00"
+    end: "2023-03-10T21:30:00+01:00"
     country: Germany
     city: Bonn
     styles:
@@ -34,7 +33,6 @@ events:
       - KoAn
     price: €15
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk im Dotti
     details: Balfolk mit Duo Cassard
     links:
@@ -52,7 +50,6 @@ events:
       - Duo Cassard
     price: €15
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk im Dotti
     details: Balfolk with SkALD
     links:
@@ -69,7 +66,6 @@ events:
       - SkALD
     price: €15
     organisation: Balfolk Bonn e.V.
-
   - name: Fest Noz im Hardbergsaal
     details: Fest Noz with Andreas Neumann / Marcus Krimmer
     links:
@@ -86,7 +82,6 @@ events:
       - Andreas Neumann & Marcus Krimmer
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Sunday Balfolk Workshop
     details: Workshop mit begrenzter Teilnehmerzahl (max. 25 Personen)
     links:
@@ -101,7 +96,6 @@ events:
     social: true
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk im Hardbergsaal
     details: Balfolk mit Havok aus Marburg
     links:
@@ -118,7 +112,6 @@ events:
       - Havok
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk im Hardbergsaal
     details: Balfolk mit Man Encantada
     links:
@@ -135,15 +128,15 @@ events:
       - Man Encantada
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Annabergfest 2023
     links:
       - "https://eveeno.com/annaberg23"
-    start: 2023-11-03T15:00:00+01:00
-    end: 2023-11-05T16:00:00+01:00
+    start: "2023-11-03T15:00:00+01:00"
+    end: "2023-11-05T16:00:00+01:00"
     country: Germany
     city: Bonn
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -156,7 +149,6 @@ events:
       - Kördeböf
     price: ~€200
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -169,9 +161,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk im Kulturbad
     details: Balfolk mit Reinlender und Coeur de Boeuf
     links:
@@ -191,7 +183,6 @@ events:
       - Herzigs
     price: €15-€18
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -203,9 +194,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -217,9 +208,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk im Hardtbergsaal
     details: Weihnachtsbalfolk
     links:
@@ -234,11 +225,10 @@ events:
     workshop: true
     social: true
     bands:
-      - L'air Inconnu
+      - "L'air Inconnu"
       - Feather and Fox
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -250,9 +240,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -264,9 +254,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -278,9 +268,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -292,9 +282,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -306,9 +296,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk im Kulturbad
     details: Kleine Ensembles
     links:
@@ -325,7 +315,6 @@ events:
       - DiaTon
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -337,9 +326,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk im Hardtbergsaal
     details: Balfolk
     links:
@@ -356,7 +345,6 @@ events:
       - Out of the Box
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -368,9 +356,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -382,9 +370,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk im Hardtbergsaal
     details: Balfolk
     links:
@@ -401,7 +389,6 @@ events:
       - TradTöchter
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -413,9 +400,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk in der Trinitatis
     details: Balfolk in den Mai
     links:
@@ -434,7 +421,6 @@ events:
       - RuleX
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -446,9 +432,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -460,9 +446,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk im Hardtbergsaal
     details: Balfolk
     links:
@@ -479,7 +465,6 @@ events:
       - Loogaroo
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -491,9 +476,9 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk im Kulturbad
     details: Balfolk
     links:
@@ -510,7 +495,6 @@ events:
       - NoLa
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Tanzlernabend
     details: Lernabend im Margarete-Grundmann-Haus
     links:
@@ -522,9 +506,21 @@ events:
     styles:
       - balfolk
     workshop: true
+    social: false
     price: donation
     organisation: Balfolk Bonn e.V.
-
+  - name: Balfolk Dances
+    links:
+      - "https://www.sommerakademie-alfter.de/kurse/balfolk-taenze-fuer-alle/"
+    start_date: 2024-07-21
+    end_date: 2024-07-27
+    country: Germany
+    city: Bonn
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Die Sommerakademie Alfter
   - name: Balfolk im Hardtbergsaal
     details: Balfolk
     links:
@@ -535,26 +531,25 @@ events:
     city: Bonn
     styles:
       - balfolk
-    bands:
-      - Hartwin Dhoore Trio
     workshop: true
     social: true
+    bands:
+      - Hartwin Dhoore Trio
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Annabergfest 2024
     links:
       - "http://balfolk-bonn.de/balfolk/Aktuell.html"
-    start: 2024-10-02T15:00:00+02:00
-    end: 2024-10-06T16:00:00+02:00
+    start: "2024-10-02T15:00:00+02:00"
+    end: "2024-10-06T16:00:00+02:00"
     country: Germany
     city: Bonn
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     price: ~€500
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk
     details: Balfolk
     links:
@@ -571,7 +566,6 @@ events:
       - Les Zéoles
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk im Kulturbad
     details: Balfolk
     links:
@@ -588,7 +582,6 @@ events:
       - AOK!
     price: donation
     organisation: Balfolk Bonn e.V.
-
   - name: Balfolk im Hardtbergsaal
     details: Weihnachtsbalfolk
     links:
