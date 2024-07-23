@@ -8,11 +8,31 @@ events:
     end_date: 2022-07-24
     country: UK
     city: Bridport
-    styles: [balfolk, e-ceilidh]
+    styles:
+      - balfolk
+      - e-ceilidh
     workshop: true
     social: true
     bands:
       - No Strings Attached
       - Casterbridge Band
       - Confluence
+    organisation: Bridport Folk Festival
+  - name: Bridport Folk Festival
+    links:
+      - "https://www.bridportfolkfestival.com/dance.html"
+    start: "2024-07-27T18:45:00+01:00"
+    end: "2024-07-28T20:00:00+01:00"
+    country: UK
+    city: Bridport
+    styles:
+      - balfolk
+      - e-ceilidh
+    workshop: true
+    social: true
+    bands:
+      - Confluence
+      - No Strings Attached
+    callers:
+      - Richard Gracie
     organisation: Bridport Folk Festival
