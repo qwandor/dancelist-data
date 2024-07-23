@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal folk
+    links:
+      - "https://www.facebook.com/events/471066545412400/"
+      - "https://folkxygene.webnode.fr/nosbals/"
+    start: "2024-09-21T20:30:00+02:00"
+    end: "2024-09-21T23:30:00+02:00"
+    country: France
+    city: Madecourt
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Folk’xygène
+      - Sans Prétention
+    price: €10
+    organisation: Machinchoserie
