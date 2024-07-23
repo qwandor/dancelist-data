@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal
+    links:
+      - "https://www.facebook.com/events/871311111684713/"
+    start: "2024-07-27T20:00:00+02:00"
+    end: "2024-07-27T23:00:00+02:00"
+    country: France
+    city: Anost
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Osmonde
+      - Duo Dumont-Nguyen
+    price: €5
+    organisation: Maison du Patrimoine Oral de Bourgogne
