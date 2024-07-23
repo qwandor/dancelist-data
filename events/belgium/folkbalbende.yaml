@@ -15453,20 +15453,6 @@ events:
       - Marie Paulette
     price: free
     organisation: "Muziekclub 't Ey"
-  - name: Soirée Danses
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.danseridoe.be/"
-    start: "2024-08-19T19:30:00+02:00"
-    end: "2024-08-19T22:00:00+02:00"
-    country: Belgium
-    city: Deinze
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: DanseriDoe
   - name: Folk On Stage
     details: Music workshops and bals
     links:
@@ -15484,7 +15470,10 @@ events:
     workshop: false
     social: true
     bands:
-      - Duo Meunier-Villeneuve
+      - Duo Tazières
+      - Naragonia
+      - Sydskåne
+      - Threo
     price: free
     organisation: Muziekmozaïek
   - name: Teyrrasfolk
@@ -15850,6 +15839,7 @@ events:
       - "https://www.facebook.com/events/1183150549768637/"
       - "https://folkbalbende.be/event/2311"
       - "https://folkbalbende.be/event/2312"
+      - "https://folkbalbende.be/event/2314"
       - "https://boombal.be/"
     start: "2024-07-19T19:00:00+02:00"
     end: "2024-07-22T23:59:00+02:00"
@@ -15881,137 +15871,6 @@ events:
     bands:
       - A Plus Dans Le Bus
     price: free
-    organisation: ~
-  - name: Bal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.facebook.com/events/1183150549768637/?ti=ls"
-      - "https://folkbalbende.be/event/2314"
-    start_date: 2024-07-22
-    end_date: 2024-07-22
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Entre-Deux
-      - Bamako Express
-      - Le Mange Bal
-    organisation: ~
-  - name: "Bart PRAET, Philip MASURE & Guido PICCARD"
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://stagegooik.be/"
-      - "https://folkbalbende.be/event/2328"
-    start_date: 2024-08-19
-    end_date: 2024-08-19
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://stagegooik.be/"
-      - "https://folkbalbende.be/event/2330"
-    start_date: 2024-08-20
-    end_date: 2024-08-20
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - SydskåNe
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://stagegooik.be/"
-      - "https://folkbalbende.be/event/2331"
-    start_date: 2024-08-21
-    end_date: 2024-08-21
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Threo
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://stagegooik.be/"
-      - "https://folkbalbende.be/event/2332"
-    start_date: 2024-08-22
-    end_date: 2024-08-22
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Naragonia
-    organisation: ~
-  - name: Boombal Festival
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.boombalfestival.be/"
-      - "https://folkbalbende.be/event/2334"
-    start_date: 2024-08-23
-    end_date: 2024-08-23
-    country: Belgium
-    city: Lovendegem
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Duo Cavez/Montanaro
-      - Duo Pilartz/Gielen
-      - Ciac Boum
-      - Duo Nello
-      - Variomatic
-      - Tralala Lovers
-      - Naragonia
-    organisation: ~
-  - name: Boombal Festival
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.boombalfestival.be/"
-      - "https://folkbalbende.be/event/2335"
-    start_date: 2024-08-24
-    end_date: 2024-08-24
-    country: Belgium
-    city: Lovendegem
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Tiennet Simonnin
-      - Trio Theze/Vandenabeele
-      - ClaïS
-      - Cosmos Chocolat
-      - Le Grand Barouf
-      - La Bachule
-      - Thalas
     organisation: ~
   - name: Bal Experience
     details: Ball
@@ -16269,31 +16128,13 @@ events:
     social: false
     price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Folkbal
+  - name: Fête de la Moisson
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://ccpac.be/evenements/pique-nique-et-bal-folk?fbclid=IwZXh0bgNhZW0CMTAAAR1ihLV5u_-hpH8lKwqfPri35kGpATxMIYiPh2E-9q4ba1fX1DSZt-7PSZQ_aem_h2gLwaUdRihPycZMi6_-Zw"
-      - "https://folkbalbende.be/event/2356"
-    start_date: 2024-07-26
-    end_date: 2024-07-26
-    country: Belgium
-    city: Pont-à-Celles
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - A Plus Dans Le Bus
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.ecomusee.eu/"
       - "https://folkbalbende.be/event/2357"
-    start_date: 2024-08-04
-    end_date: 2024-08-04
+    start: "2024-08-04T20:00:00+02:00"
+    end: "2024-08-04T23:00:00+02:00"
     country: Belgium
     city: Ellezelles
     styles:
@@ -16318,14 +16159,14 @@ events:
     bands:
       - "M'Zef"
     organisation: ~
-  - name: Folkbal
+  - name: Maxifolk
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.vzw-tisfolk.be"
+      - "https://www.vzw-tisfolk.be/info"
       - "https://folkbalbende.be/event/2360"
-    start_date: 2024-09-28
-    end_date: 2024-09-28
+    start: "2024-09-28T16:30:00+02:00"
+    end: "2024-09-29T00:00:00+02:00"
     country: Belgium
     city: Roeselare
     styles:
@@ -16334,79 +16175,41 @@ events:
     social: true
     bands:
       - Roots Bal Sjanté
+      - Variomatic
+    price: €30-€36
     organisation: ~
-  - name: BaleynbalDUO GESTRIKTHEARKEN QUARTET
+  - name: Baleynbal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.tey.be/"
+      - "https://tey.be/programma/2024/11/02/kwintet-gestrikt-vl-hearken-quartet-uk"
       - "https://folkbalbende.be/event/2361"
-    start_date: 2024-11-02
-    end_date: 2024-11-02
+    start: "2024-11-02T21:00:00+01:00"
+    end: "2024-11-03T00:00:00+01:00"
     country: Belgium
     city: Belsele
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Hearken Quartet
+      - Kwintet Gestrikt
+    price: €16-€19
     organisation: "Muziekclub 't Ey"
-  - name: "BaleynbalFOLKAFDELING D'ACADEMIE PODIUM SINT-NIKLAAS"
+  - name: Baleynbal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.tey.be/"
+      - "https://tey.be/programma/2024/12/21/baleynbal-van-de-folkafdeling"
       - "https://folkbalbende.be/event/2363"
-    start_date: 2024-12-21
-    end_date: 2024-12-21
+    start: "2024-12-21T20:00:00+01:00"
+    end: "2024-12-21T23:00:00+01:00"
     country: Belgium
     city: Belsele
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Folkafdeling Sint-Niklaas
+    price: free
     organisation: "Muziekclub 't Ey"
-  - name: Balhalla Festival
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://balhalla.be/"
-      - "https://folkbalbende.be/event/2364"
-    start_date: 2025-02-21
-    end_date: 2025-02-21
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Balhalla
-  - name: Balhalla Festival
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://balhalla.be/"
-      - "https://folkbalbende.be/event/2365"
-    start_date: 2025-02-22
-    end_date: 2025-02-22
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Balhalla
-  - name: Balhalla Festival
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://balhalla.be/"
-      - "https://folkbalbende.be/event/2366"
-    start_date: 2025-02-23
-    end_date: 2025-02-23
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Balhalla

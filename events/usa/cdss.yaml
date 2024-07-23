@@ -17149,6 +17149,7 @@ events:
     social: true
     price: $5-$20
     organisation: CDSS
+    cancelled: true
   - name: San Antonio Contra Dance
     details: "Fun, friendly dance on 4th Saturdays. Live music by Lone Star Pirates. Calling by various local and regional callers."
     links:
@@ -17182,6 +17183,7 @@ events:
     social: true
     bands:
       - Take a Dance
+    price: $15
     organisation: Mendocino English Country Dance
   - name: Anaheim Contra Dance
     details: "Anaheim Contra Dances are held every 4th Saturday January-November 6:30-9:30pm PST. \nAlways live music! \nFamily-friendly, no partner required. \nEasy introductory lesson for beginners @ 6:30pm.\n\nFree parking."
@@ -17202,6 +17204,7 @@ events:
   - name: 4th Saturdays Contra Dance
     details: "Mark your calendars now for the next Saturday night dance at Fulton Hall. Dances are called using gender-neutral terms. \nCovid precautions are suspended indefinitely! We will continue to monitor potential exposures at PCDC events and adjust policies as needed. Refer to the PCDC Covid policy for details. \n\n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome!"
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5897"
       - "https://cdss.org/event/portland-country-dance-community-4th-saturdays-contra-dance/2024-07-27/"
     start: "2024-07-27T19:00:00-07:00"
     end: "2024-07-27T22:30:00-07:00"
@@ -17212,13 +17215,16 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Ric Goldman
+    price: $6-$20
     organisation: CDSS
   - name: Sacramento Contra Dance
     details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $12 for adults; $8 for college students with ID; $5 for dancers under 18; $25 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
     links:
       - "https://sactocds.wordpress.com/"
       - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays/2024-07-27/"
-    start: "2024-07-27T19:00:00-07:00"
+    start: "2024-07-27T18:30:00-07:00"
     end: "2024-07-27T22:00:00-07:00"
     country: USA
     state: CA
@@ -17227,5 +17233,9 @@ events:
       - contra
     workshop: false
     social: true
-    price: $5-$25
+    bands:
+      - The Community Band
+    callers:
+      - Mark Goodwin
+    price: $5-$12
     organisation: Sacramento Country Dance Society
