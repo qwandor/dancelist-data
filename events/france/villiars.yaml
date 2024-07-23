@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal Folk Concert
+    links:
+      - "https://www.facebook.com/events/918520316115017/"
+      - "https://festivillars.s2.yapla.com/fr/event-51580"
+    start: "2024-08-10T19:00:00+02:00"
+    end: "2024-08-10T21:00:00+02:00"
+    country: France
+    city: Villiars
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Plume
+    price: €12-€15
+    organisation: Festi Villars
