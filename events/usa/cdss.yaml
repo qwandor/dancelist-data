@@ -16928,7 +16928,7 @@ events:
     links:
       - "https://cdrochester.org/events/thursday-night-contra-212/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-07-25/"
-    start: "2024-07-25T19:30:00-04:00"
+    start: "2024-07-25T18:00:00-04:00"
     end: "2024-07-25T22:30:00-04:00"
     country: USA
     state: NY
@@ -17451,6 +17451,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly
   - name: Tuesday English Country Dance
     details: "We dance to live music from our wonderful local musicians. All dances taught and prompted. Wear comfortable clothes and bring flat, non-slippy shoes to change into. Pay what you can; $8 donation helps cover the hall, band, and callers. Masks are welcome at the dance."
@@ -17488,7 +17489,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/english-country-dance-asheville-nc-3/2024-07-31/"
-    start: "2024-07-31T19:00:00-04:00"
+    start: "2024-07-31T18:40:00-04:00"
     end: "2024-07-31T21:00:00-04:00"
     country: USA
     state: NC
@@ -17518,7 +17519,7 @@ events:
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
       - "https://cdss.org/event/fsgw-english-country-dance/2024-07-31/"
-    start: "2024-07-31T20:00:00-04:00"
+    start: "2024-07-31T19:30:00-04:00"
     end: "2024-07-31T22:30:00-04:00"
     country: USA
     state: MD
@@ -17543,6 +17544,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $3
     organisation: Cleveland English Dance Community
   - name: Lake City Contra Dance
     details: "Thursday nights; doors open at 7 pm \nDances: intro/refresher workshop 7:15 pm, dancing 7:30 till 10:00 pm \nAdmission on a sliding scale $10 – 20 – pay what you can \nThe hall is well-ventilated and air-conditioned! \nFor more information call 206-525-0932, or send us email."
@@ -17558,7 +17560,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: Thursday Contra Dance
     details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing \n$5 to $20 sliding scale \nOur role terms are Larks and Robins \nMasks are required on the 1st, 3rd and 5th Thursdays."
@@ -17579,20 +17581,27 @@ events:
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-214/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-08-01/"
-    start: "2024-08-01T19:30:00-04:00"
+    start: "2024-08-01T19:00:00-04:00"
     end: "2024-08-01T22:30:00-04:00"
     country: USA
     state: NY
     city: Rochester
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Sister Haggis
+    callers:
+      - Bob Fabinski
+    price: $5-$12
     organisation: Country Dancers of Rochester
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley Contra Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://www.bacds.org/series/contra/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-08-01/"
     start: "2024-08-01T20:00:00-07:00"
     end: "2024-08-01T22:30:00-07:00"
@@ -17601,14 +17610,17 @@ events:
     city: Berkeley
     styles:
       - contra
-      - ecd
     workshop: true
     social: true
+    price: $6-$25
     organisation: CDSS
+    cancelled: true
   - name: Free Outdoor Contra Dance!
     details: "Goshen Community Contra Dance will be hosting a FREE outdoor contra dance as part of Goshen’s First Friday on August 2nd, 2024 from 5:00 to 6:00pm. \nThe dance will be called by Karen Andrews and have live music by the Waterbound String Band. This will be an outdoor event with dancing in the street so dress accordingly. \nNo partner needed. All dances will be geared towards inexperienced dancers and families, and will be taught with help from experienced members of the community."
     links:
       - "https://cdss.org/event/free-outdoor-contra-dance/"
+      - "https://downtowngoshen.org/events/2024-august/"
+      - "http://godancing.org/"
     start: "2024-08-02T17:00:00-04:00"
     end: "2024-08-02T18:00:00-04:00"
     country: USA
@@ -17618,6 +17630,11 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Waterbound String Band
+    callers:
+      - Karen Andrews
+    price: free
     organisation: Goshen Community Contra Dance
   - name: Flying Shoes Community Dance & Contra Dance
     details: "Everyone is welcome at this two-part monthly dance series. From neophytes to lifelong participants, and so many other demographic variations, we all collaborate to make this community-building participatory arts program a joyful success. See you at the dance! \nSchedule:\n\n6:00 pm ~ Musicians Warmup ~ Tunes on the All Comers Band page\n6:30-7:30 pm ~ Community Dance ~ Lisa Newcomb & Chrissy Fowler calling with the All Comers Band, led by Benjamin Foss & Willy Clemetson ~ Community Dance admission is $1 kids, $2 adults\n8:00-11:00 pm ~ Contra Dance ~ We use the terms lark and robin to identify the dance roles. (More on roles here.) ~ Contra Dance Admission is $20 – $15 (a sliding scale lets us cover expenses and compensate performers; please pay as much as you can!)\n\nLocation: First Church in Belfast UCC, 8 Court St, Belfast (enter via Spring St) \nPolicies:  See Community Care Policy and First Friday FAQ ~ BFS programs are chem free (please be sober) ~ Stay home if you don’t feel well \nSponsors: Artisan Builders, Belfast Community Co-op, Colburn Shoe Store, Daisychain Farm, First National Bank, Grace Chiropractic, The Green Store, Searsport Shores Oceanfront Camping, Thomas Fowler PE, Trillium Caterers, and Worth Real Estate"
@@ -17634,11 +17651,13 @@ events:
     workshop: false
     social: true
     bands:
-      - Trillium
+      - All Comers Band
+      - Stomp Rocket
     callers:
       - Chrissy Fowler
       - Lisa Newcomb
-    price: $1-$20
+      - Gaye Fifer
+    price: $15-$22
     organisation: Belfast Flying Shoes
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
@@ -17659,6 +17678,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly
   - name: Orlando Contra Dance
     details: "Welcome to the Orlando Contra Dance! We feature high-tempo, gender-neutral dancing. We are Florida’s only gender-neutral contra series. Dancing is open to everyone and free for students and returning beginners (2nd dance is free)! \nHolidays, semester breaks, and regional events happen, so check the schedule before going! \nCaller: Kenny Greer (Berea, KY) \nMusic: Joe Harrington (Orlando) will DJ a mix of Pop-Rock, Celtic Rock, and Contra Fusion tunes"
@@ -17675,7 +17695,8 @@ events:
     workshop: false
     social: true
     callers:
-      - Joe Harrington
+      - Kenny Greer
+    price: $15
     organisation: Orlando Contra Dance
   - name: ContraATL Weekly Dance
     details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
@@ -17691,10 +17712,12 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5816"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2024-08-02/"
     start: "2024-08-02T19:30:00-07:00"
     end: "2024-08-02T22:30:00-07:00"
