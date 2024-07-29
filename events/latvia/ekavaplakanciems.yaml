@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Rijas balle
+    details: Traditional and balfolk dance and music event.
+    links:
+      - "http://www.rijasballe.lv/"
+    start: "2024-08-17T20:00:00+03:00"
+    end: "2024-08-18T01:00:00+03:00"
+    country: Latvia
+    city: Ķekava
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Dandari
+      - Brička
+      - Oskars Patjanko
+      - Spielschar
+    price: donation
+    organisation: Rijas balle
