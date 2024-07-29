@@ -1,10 +1,10 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
   - name: Rijas balle festival
-    details: "Harvest time-party time. Two day event with traditional and balfolk dances and music, also differnet kind of workshops, lectures and discussions"
+    details: "Harvest time-party time. Two day event with traditional and balfolk dances and music, also different kinds of workshops, lectures and discussions."
     links:
       - "http://www.rijasballe.lv/"
-      - "https://www.facebook.com/events/478909241427391/?acontext=%7B%22event_action_history%22%3A[]%7D"
+      - "https://www.facebook.com/events/478909241427391/"
     start: "2024-09-06T20:00:00+03:00"
     end: "2024-09-07T23:00:00+03:00"
     country: Latvia
@@ -13,6 +13,4 @@ events:
       - balfolk
     workshop: true
     social: true
-    bands:
-      - TBA
     organisation: Rijas balle
