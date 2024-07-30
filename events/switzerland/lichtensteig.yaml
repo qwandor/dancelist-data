@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Tanz in den Herbst
+    links:
+      - "https://www.facebook.com/events/1078091480552151/"
+    start: "2024-09-14T17:00:00+02:00"
+    end: "2024-09-15T00:00:00+02:00"
+    country: Switzerland
+    city: Lichtensteig
+    styles:
+      - balfolk
+      - italian
+    workshop: true
+    social: true
+    bands:
+      - Bailenga
+      - Duo Plodocus
+    price: 30 CHF
+    organisation: Bal Folk in Lichtensteig
