@@ -17870,6 +17870,7 @@ events:
       - George Marshall
     price: $12-$20
     organisation: George Marshall
+    cancelled: true
   - name: Knoxville Contra Dance
     details: "Join us the first Saturday of every month (except February) for our monthly dance in the gymnasium of the Children’s Museum of Oak Ridge as we dance mostly contras. Neither partner or experience is required. All dances are taught. We usually have live music from a local band, and always live calling from a local caller. A donation is requested, but no one turned away."
     links:
@@ -17884,10 +17885,12 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: Knoxville Contra Dancers
   - name: First Saturday Contra Dance
     details: "The Monadnock Folklore Society presents the Peterborough, NH First Saturday Contra Dance on the first Saturday with different musicians and callers every month.  \nThe dancing begins at 8:00 PM, with an introductory workshop beginning at 7:30. Sliding scale admission is  $12 – 20. \nWe also host an open jam session for beginning and intermediate musicians from 6:45 – 7:30 PM. \nThe Monadnock Folklore Society has presented contra dances and concerts of traditional music since 1982."
     links:
+      - "https://www.monadnockfolk.org/event/peterborough-first-saturday-contra-dance-2-13/"
       - "https://cdss.org/event/first-saturday-contra-dance-in-peterborough-nh/2024-08-03/"
     start: "2024-08-03T19:30:00-04:00"
     end: "2024-08-03T23:00:00-04:00"
@@ -17898,14 +17901,18 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    bands:
+      - Sugar River Band
+    callers:
+      - Tod Whittemore
+    price: $12-$20
     organisation: Monadnock Folklore Society
   - name: Montpelier Contra Dance
     details: "Montpelier Contra Dance with callers and bands that perform regionally and nationally—see website or Facebook events\nBeginners, singles, and all ages are welcome; all dances are taught.\nGender-neutral role terms (Larks and Robins)\nNewcomers lesson 7:40 pm. Dancing 8-11pm.\nPlease bring clean soft-soled shoes.\nMasks optional / Excellent ventilation with open windows and ceiling exhaust fan (bring a sweater in cooler months)\nMore info at our website. \n$12 adults, $5 kids/low-income, $20 dance supporters.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDancing 1st, 3rd, and 5th Saturdays year round"
     links:
       - "https://capitalcitygrange.org/dancing/contradancing/"
       - "https://cdss.org/event/montpelier-contra-dance/2024-08-03/"
-    start: "2024-08-03T20:00:00-04:00"
+    start: "2024-08-03T19:40:00-04:00"
     end: "2024-08-03T23:00:00-04:00"
     country: USA
     state: VT
