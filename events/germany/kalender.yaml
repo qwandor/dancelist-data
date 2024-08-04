@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
   - name: "Tü: Tanzhaus Ballkanesen Balkan-Balfolk"
-    details: "https://ballkanesen.webador.de/"
     links:
+      - "https://ballkanesen.webador.de/"
       - "https://kalender.digital/574d155c91900caea879/event/551389384"
     start: "2024-05-04T17:00:00+02:00"
     end: "2024-05-04T23:05:00+02:00"
@@ -20,7 +20,7 @@ events:
     links:
       - "http://www.ka-balfolk.de"
       - "https://kalender.digital/574d155c91900caea879/event/560233631"
-    start: "2024-05-04T19:00:00+02:00"
+    start: "2024-05-04T16:30:00+02:00"
     end: "2024-05-04T23:00:00+02:00"
     country: Germany
     city: Karlsruhe
@@ -110,7 +110,7 @@ events:
     city: Tübingen
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     organisation: Anja von Richthofen
   - name: Minibal
@@ -125,13 +125,15 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - "Duo l'Hêtre Heureux"
     organisation: Sönke
   - name: Bal Folk Termine
     details: "Balfolk in Karlsruhe mit TriOblique (IT) und Elba Connection,\n16:30-18:00h Tanzworkshop"
     links:
       - "http://www.ka-balfolk.de"
       - "https://kalender.digital/574d155c91900caea879/event/560233905"
-    start: "2024-06-28T19:00:00+02:00"
+    start: "2024-06-28T16:30:00+02:00"
     end: "2024-06-28T23:00:00+02:00"
     country: Germany
     city: Karlsruhe
@@ -161,42 +163,39 @@ events:
     links:
       - "https://bordun.de/kurse/south-folk-festival/"
       - "https://kalender.digital/574d155c91900caea879/event/724253087"
-    start_date: 2024-08-30
-    end_date: 2024-09-01
+    start: "2024-08-30T17:00:00+02:00"
+    end: "2024-09-01T17:00:00+02:00"
     country: Germany
     city: Frommern
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Haus von Klaus
+      - Bruno & Maria
+      - Gabi Haun & Werner Bachmann
+      - Die Hayner
+    price: €30
     organisation: Bordun e.V.
-  - name: Tanzkurs Frankreich und Bretagne (Anja von Richthofen)
+  - name: French and Breton dance course
     details: LAG Tanz BW
     links:
       - "https://www.lag-tanz-bw.de/programm/2430"
+      - "https://ballkanesen.webador.de/unsere-termine"
       - "https://kalender.digital/574d155c91900caea879/event/551398553"
-    start: "2024-09-14T17:00:00+02:00"
-    end: "2024-09-15T16:05:00+02:00"
-    country: Germany
-    city: Kirchheim
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Anja von Richthofen
-  - name: Balfolk
-    links:
       - "https://kalender.digital/574d155c91900caea879/event/551398669"
-    start: "2024-09-14T19:00:00+02:00"
-    end: "2024-09-14T22:05:00+02:00"
+    start: "2024-09-14T10:00:00+02:00"
+    end: "2024-09-15T16:00:00+02:00"
     country: Germany
     city: Kirchheim
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Ballkanesen
+    price: €120-€210
     organisation: Anja von Richthofen
   - name: 3. Tanztag in Heiligenberg
     details: "Danzvogel, Soldo und Biskaya spielen"
@@ -216,7 +215,7 @@ events:
       - Soldo
     organisation: Sönke
   - name: Seegras-Balfolk
-    details: "Balfolk mit Andreas Neumann, Lys&Co"
+    details: Balfolk
     links:
       - "https://kalender.digital/574d155c91900caea879/event/554335176"
     start: "2024-10-05T18:00:00+02:00"
@@ -236,17 +235,21 @@ events:
     links:
       - "https://7schritt.de/herbstbal2024/"
       - "https://kalender.digital/574d155c91900caea879/event/567033297"
-    start_date: 2024-10-12
-    end_date: 2024-10-13
+    start: "2024-10-12T14:00:00+02:00"
+    end: "2024-10-13T14:00:00+02:00"
     country: Germany
     city: Freiburg i. Br
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
-    organisation: Siebenschritt
+    bands:
+      - Arbadétorne
+      - Troisam
+    price: €50-€65
+    organisation: Siebenschritt e.V.
   - name: Balfolk in der TanzEtage Gomaringen
-    details: "Balfolk mit Akleja und Fior, 20:30, Workshop 18:30 - 20 :30, Info silvia@koru.de"
+    details: "Balfolk mit Akleja und Fior, 20:30, Workshop 18:30 - 20:30, Info silvia@koru.de"
     links:
       - "http://www.tanzEtage-Gomaringen.de"
       - "https://kalender.digital/574d155c91900caea879/event/583235504"
@@ -256,7 +259,7 @@ events:
     city: Gomaringen
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Akleja
@@ -273,39 +276,47 @@ events:
     city: Schwäbisch Gmünd
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Torsten Dreher
+      - Katrin Sabath-Härlin & Richard Buchner
     organisation: Gmünd Folk e.V.
   - name: KA-BalFolk
     details: "Balfolk in Karlsruhe mit Lasylva (Fr) und Avalanche (De) Connection,\n+ Tanzworkshop"
     links:
-      - "https://ka-balfolk.de/"
+      - "https://ka-balfolk.de/termine-elementor/"
       - "https://kalender.digital/574d155c91900caea879/event/721225608"
-    start_date: 2024-10-25
-    end_date: 2024-10-25
+    start: "2024-10-25T17:30:00+02:00"
+    end: "2024-10-25T23:00:00+02:00"
     country: Germany
     city: Karlsruhe
     styles:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Avalanche
+      - La Sylva
+    price: €15-€25
     organisation: KA-BalFolk
   - name: Tanzhaus Ballkanesen Balkan-Balfolk
     details: "https://ballkanesen.webador.de/unsere-termine"
     links:
       - "https://kalender.digital/574d155c91900caea879/event/551389535"
     start: "2024-10-26T17:00:00+02:00"
-    end: "2024-10-26T23:05:00+02:00"
+    end: "2024-10-26T23:30:00+02:00"
     country: Germany
     city: Tübingen
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Ballkanesen
+    price: donation
     organisation: Anja von Richthofen
-  - name: "Balfolk am Bodensee, Kurs der LAG"
+  - name: Balfolk am Bodensee
     details: Pamplemousse und Luca Fiorini spielen
     links:
       - "https://kalender.digital/574d155c91900caea879/event/550931959"
@@ -318,11 +329,10 @@ events:
     workshop: false
     social: true
     bands:
-      - Fior
       - Luca Fiorini
       - Pamplemousse
     organisation: Sönke
-  - name: Skandi-Ball in Freiburg
+  - name: Skandi-Ball
     details: "Mini-Einstiegs-Workshop (Engelska, Langdans&Co.), dann Ball mit dem Gelernten, verschiedenen Polka-Formen und mehr.\nEs spielen: Bettina van Roosebeke, Monika Fuhr, Werner Fuhr"
     links:
       - "https://kalender.digital/574d155c91900caea879/event/753653783"
@@ -332,7 +342,7 @@ events:
     city: Freiburg i. Br
     styles:
       - scandi
-    workshop: false
+    workshop: true
     social: true
     organisation: Bettina van Roosebeke
   - name: Balfolk Stuttgart
@@ -351,9 +361,9 @@ events:
   - name: KA-BALFOLK
     details: "Balfolk in Karlsruhe mit N.N.\n16:30-18:00h Tanzworkshop"
     links:
-      - "http://www.ka-balfolk.de"
+      - "https://ka-balfolk.de/termine-elementor/"
       - "https://kalender.digital/574d155c91900caea879/event/560237552"
-    start: "2024-12-01T19:00:00+01:00"
+    start: "2024-12-01T16:30:00+01:00"
     end: "2024-12-01T22:00:00+01:00"
     country: Germany
     city: Karlsruhe
@@ -379,7 +389,7 @@ events:
     details: Vorher Tanzkurse ab 13 Uhr
     links:
       - "https://kalender.digital/574d155c91900caea879/event/576793668"
-    start: "2025-01-12T18:00:00+01:00"
+    start: "2025-01-12T13:00:00+01:00"
     end: "2025-01-12T22:00:00+01:00"
     country: Germany
     city: Ehningen
@@ -391,10 +401,10 @@ events:
   - name: KA-BalFolk
     details: BalFolk mit Bargainatt und Fior
     links:
-      - "https://ka-balfolk.de/"
+      - "https://ka-balfolk.de/termine-elementor/"
       - "https://kalender.digital/574d155c91900caea879/event/721226622"
-    start_date: 2025-01-31
-    end_date: 2025-01-31
+    start: "2025-01-31T17:30:00+01:00"
+    end: "2025-01-31T23:00:00+01:00"
     country: Germany
     city: Karlsruhe
     styles:
@@ -417,6 +427,10 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Ballkanesen
+      - Philu
+      - Mavro Meli
     organisation: Sönke
   - name: Balfolk Stuttgart
     details: Feuerwehrhaus
@@ -434,9 +448,10 @@ events:
   - name: KA-Balfolk
     details: Wouter en de Draak + Erledans
     links:
+      - "https://ka-balfolk.de/termine-elementor/"
       - "https://kalender.digital/574d155c91900caea879/event/778148425"
-    start_date: 2025-03-15
-    end_date: 2025-03-15
+    start: "2025-03-15T20:00:00+01:00"
+    end: "2025-03-15T23:00:00+01:00"
     country: Germany
     city: Karlsruhe
     styles:
@@ -444,6 +459,7 @@ events:
     workshop: false
     social: true
     bands:
+      - Erledans
       - Wouter en de Draak
     organisation: KA-Balfolk
   - name: Tanztag balfolk in Heiligenberg
@@ -460,7 +476,7 @@ events:
     social: true
     bands:
       - Bargainatt
-      - Fior
+      - Emma & Jonas
       - Luca Fiorini
     organisation: Sönke
   - name: Irish set dance
