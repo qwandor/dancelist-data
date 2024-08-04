@@ -41,7 +41,7 @@ jobs:
       - name: Import boulder
         run: dancelist import boulder events/usa/boulder.yaml
       - name: Import kalender
-        run: dancelist import boulder events/germany/kalender.yaml
+        run: dancelist import kalender events/germany/kalender.yaml
       - name: Commit if changed
         run: |
           git add events
