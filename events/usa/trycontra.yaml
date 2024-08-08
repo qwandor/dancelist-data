@@ -1341,8 +1341,8 @@ events:
   - name: Feet Retreat
     links:
       - "https://www.feetretreat.com/feet-retreat-2024/"
-    start_date: 2024-09-20
-    end_date: 2024-09-22
+    start: "2024-09-20T16:00:00-04:00"
+    end: "2024-09-22T15:00:00-04:00"
     country: USA
     state: NC
     city: Ellerbe
@@ -1356,6 +1356,7 @@ events:
     callers:
       - Bob Isaacs
       - Emily Rush
+    price: $180-$235
     organisation: TryContra
   - name: Bear Hug Dance Camp
     links:
@@ -2085,7 +2086,7 @@ events:
     workshop: true
     social: true
     organisation: TryContra
-  - name: "When In Doubt, Swing! "
+  - name: "When In Doubt, Swing!"
     links:
       - "https://www.nttds.org/wids/home.html"
     start_date: 2025-04-25

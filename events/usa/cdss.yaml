@@ -18477,8 +18477,9 @@ events:
   - name: Second Saturday BFMS Contra Dance
     details: "Kim Forry calling to The Orphans—a high energy trio, with a specialty for French Canadian tunes,\nPeter Buchak on accordion, Ben Kennedy on piano, Miranda Weinberg on fiddle. \nDance lesson: 7:30 \nAdmission is: $10 BFMS members & affiliates, $15 non-members. People under 21 and students with ID: free\nOnline payment only. \nPotluck snacks at the break."
     links:
+      - "https://www.bfms.org/saturdayDance.php"
       - "https://cdss.org/event/second-saturday-bfms-contra-dance-2/"
-    start: "2024-08-10T20:00:00-04:00"
+    start: "2024-08-10T19:30:00-04:00"
     end: "2024-08-10T22:30:00-04:00"
     country: USA
     state: MD
@@ -18487,6 +18488,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - The Orphans
+    callers:
+      - Kim Forry
     price: $10-$15
     organisation: CDSS
   - name: TopHill Music Contradance Party
@@ -18494,7 +18499,7 @@ events:
     links:
       - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/second-saturday-tophill-music-contradance-party-at-guiding-star-grange/2024-08-10/"
-    start: "2024-08-10T20:00:00-04:00"
+    start: "2024-08-10T19:45:00-04:00"
     end: "2024-08-10T23:00:00-04:00"
     country: USA
     state: MA
@@ -18503,7 +18508,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    price: $12-$20
     organisation: Alice Kenney
   - name: English Country Dance
     details: English Country Dance with live music every 2nd Saturday.
@@ -18652,4 +18657,5 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: Louisville English Country Dancers
