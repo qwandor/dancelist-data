@@ -13404,23 +13404,6 @@ events:
       - Duo Clercx
       - Phlox
     organisation: CaBal
-  - name: Ol Da Folk
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.facebook.com/OlDaFolk?locale=nl_NL"
-      - "https://folkbalbende.be/event/2069"
-    start_date: 2024-09-20
-    end_date: 2024-09-20
-    country: Belgium
-    city: Bruges
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Naragonia Quartet
-    organisation: ~
   - name: Branle Béarnais & Rondeau En Chaîne
     details: Course
     links:
@@ -16306,52 +16289,6 @@ events:
       - Bamako Express
       - Le Mange Bal
     organisation: ~
-  - name: Boombal Festival
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.boombalfestival.be/"
-      - "https://folkbalbende.be/event/2334"
-    start_date: 2024-08-23
-    end_date: 2024-08-23
-    country: Belgium
-    city: Lovendegem
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Duo Cavez/Montanaro
-      - Duo Pilartz/Gielen
-      - Ciac Boum
-      - Duo Nello
-      - Variomatic
-      - Tralala Lovers
-      - Naragonia
-    organisation: ~
-  - name: Boombal Festival
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.boombalfestival.be/"
-      - "https://folkbalbende.be/event/2335"
-    start_date: 2024-08-24
-    end_date: 2024-08-24
-    country: Belgium
-    city: Lovendegem
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Tiennet Simonnin
-      - Trio Theze/Vandenabeele
-      - ClaïS
-      - Cosmos Chocolat
-      - Le Grand Barouf
-      - La Bachule
-      - Thalas
-    organisation: ~
   - name: Bal Experience
     details: Ball
     links:
@@ -16811,3 +16748,20 @@ events:
       - Samenspel Bal O.l.v. Camille Stimbre
       - Duo Tazières
     organisation: Muziekmozaïek
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2372"
+    start: "2024-09-20T20:00:00+02:00"
+    end: "2024-09-20T23:30:00+02:00"
+    country: Belgium
+    city: Bruges
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Naragonia
+      - Naragonia Quartet
+    price: €15
+    organisation: Ol Da Folk Brugge
