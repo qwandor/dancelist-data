@@ -19050,23 +19050,11 @@ events:
     social: true
     price: $7-$15
     organisation: ContraATL
-  - name: 3rd Friday Hot Springs NC Contradance
+  - name: Hot Springs Contradance
     details: "Monthly 3rd Friday dance in Hot Springs North Carolina, a mere 200 yards from the Appalachian Trail! \nFind us on Facebook: Friends of Hot Springs Contradance"
     links:
+      - "https://www.facebook.com/events/476680371892344/"
       - "https://cdss.org/event/3rd-friday-hot-springs-nc-contradance/2024-08-16/"
-    start: "2024-08-16T19:30:00-04:00"
-    end: "2024-08-16T22:30:00-04:00"
-    country: USA
-    state: NC
-    city: Hot Springs
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Charley Harvey
-  - name: "3rd Friday Contradance, Hot Springs NC"
-    details: "Join us on 3rd Fridays in Hot Springs, North Carolina, just 200 yards from the Appalachian Trail!"
-    links:
       - "https://cdss.org/event/3rd-friday-contradance-hot-springs-nc/2024-08-16/"
     start: "2024-08-16T19:30:00-04:00"
     end: "2024-08-16T22:30:00-04:00"
@@ -19077,13 +19065,14 @@ events:
       - contra
     workshop: false
     social: true
-    organisation: Friends of Hot Springs%2C NC Contradance
+    price: $10
+    organisation: Charley Harvey
   - name: Friday Night Contra at Glen Echo
     details: "Join us in Glen Echo, Maryland, for a fun night of contras and an occasional square! There’s a free lesson at 7:30. We have a “no dancer left behind” policy and can always get dancers to the Metro. For more info, contact info@fridaynightdancers.org. See you on the dance floor!"
     links:
       - "https://www.fridaynightdance.com/tickets"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland/2024-08-16/"
-    start: "2024-08-16T20:00:00-04:00"
+    start: "2024-08-16T19:30:00-04:00"
     end: "2024-08-16T23:00:00-04:00"
     country: USA
     state: MD
@@ -19092,6 +19081,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Contra at Guiding Star Grange
     details: "Caller and featured musicians vary each month; please check the Guiding Star Grange website for details. \nOther musicians are welcome to come and be part of the amorphous “Back Row Band.” \nSchedule: 8:00 PM: Contra Dancing for All; often a beginner session at 7:45. \nCost: $10 or barter equivalent \nSee venue website for this month’s details and Covid policy."
@@ -19146,8 +19136,9 @@ events:
   - name: Lenox Contra Dance
     details: "Come join us contra dancing to live music. We have a different band and caller each month. Dances are held on Third Saturday nights in Lenox, Massachusetts in the Lenox Community Center, at 65 Walker Street. Experience the pleasure of dancing on a beautiful wood floor, in a high-ceiling second floor (handicapped accessible) ballroom with a raised stage. \nAdmission is $12-15 for adults and $8-10 for students. New Dancers – 2nd dance free! \nDances begin with a 15-minute beginner introduction at 7:15 followed by dancing from 7:30 to 10:30. Refreshments are offered during the social break from dancing. All the dances are taught. No partner necessary. Come alone or bring friends.  Details at LenoxContraDance.org."
     links:
+      - "https://lenoxcontradance.org/sched.php"
       - "https://cdss.org/event/lenox-contra-dance/2024-08-17/"
-    start: "2024-08-17T07:15:00-04:00"
+    start: "2024-08-17T19:15:00-04:00"
     end: "2024-08-17T22:30:00-04:00"
     country: USA
     state: MA
@@ -19156,8 +19147,9 @@ events:
       - contra
     workshop: false
     social: true
-    price: $8-$12
+    price: $8-$15
     organisation: Lenox Contra Dance
+    cancelled: true
   - name: York Region English Country Dancers
     details: "English Country Dance in central York Region (Ontario, Canada)! Beginners welcome; all dances taught; you don’t need to bring a partner. Admission by donation; your first class is free. Join us on the first, third, and (when there is one) fifth Saturday of the month from 2:00 to 4:00. (Please check the website for possible last-minute changes.)"
     links:
@@ -19172,10 +19164,12 @@ events:
       - ecd
     workshop: false
     social: true
+    price: donation
     organisation: York Region English Country Dancers
-  - name: "Contra Connections: An Intermediate Contra Workshop"
+  - name: Contra Connections workshop
     details: "Been loving contra as a new dancer but want to take your dancing to the next level? Been dancing for years but want a stronger foundation? Want time to learn or practice some flourishes outside of a dance? \nJoin Brooklyn Contra and Alyssa Adkins at our first Intermediate Contra workshop! We’ll look at less common, intermediate contra moves and break them down, learn flourishes and fun places to put them, and go over techniques to make partnered dancing feel smooth, attentive, and effortlessly connected.  \nAll skills will be taught in context, with time to practice on your own, with a partner, and in full dances selected to bring it all together – all with live music! \nStick around after the workshop for a full dance with Alyssa’s calling and music from Good Company and bring what you learned to the floor!"
     links:
+      - "https://www.brooklyncontra.org/dance-schedule/2024/8/17/contra-connections-an-intermediate-contra-workshop"
       - "https://cdss.org/event/contra-connections-an-intermediate-contra-workshop/"
     start: "2024-08-17T15:00:00-04:00"
     end: "2024-08-17T18:00:00-04:00"
@@ -19184,6 +19178,11 @@ events:
     city: Brooklyn
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Good Company
+    callers:
+      - Alyssa Adkins
+    price: $25
     organisation: Brooklyn Contra
