@@ -1,5 +1,26 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
+  - name: Monday Night Folk Dance
+    links:
+      - "https://www.facebook.com/events/508844391548597/"
+      - "https://folktas.org/dancing/monday-night-folk-dances-tascontra/"
+    start: "2024-08-19T19:15:00+10:00"
+    end: "2024-08-19T21:30:00+10:00"
+    country: Australia
+    state: TAS
+    city: New Town
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Ross Smithard & Up Jumped Trouble
+    callers:
+      - Fiona Henwood
+      - Sarah Lewis
+      - David Wanless
+    price: $7-$15
+    organisation: Folk Federation of Tasmania Inc
   - name: Klezmer & Balfolk Dance
     links:
       - "https://www.facebook.com/events/463506659826095/"
