@@ -15401,9 +15401,10 @@ events:
     social: true
     price: $5
     organisation: Monadnock Folklore Society
-  - name: Ashland Country Dancers - English Country Dance
+  - name: Ashland Country Dancers
     details: "The Ashland Branch of the Heather and the Rose Country Dancers hosts a weekly English dance (with some Scottish). Since formation in 1980, all dances are taught with positional/global language. We use recorded music most evenings."
     links:
+      - "http://www.heatherandrose.org/activities/ongoing.shtml"
       - "https://cdss.org/event/ashland-country-dancers-english-country-dance/2024-08-19/"
     start: "2024-08-19T19:00:00-07:00"
     end: "2024-08-19T21:30:00-07:00"
@@ -15500,6 +15501,7 @@ events:
   - name: Wednesday Night Contra Dance BFMS
     details: "April Blum calls to music by Lovely Lane String Band—Brenna Hogan (fiddle), Shane Knudsen (fiddle), John Sauer (guitar), Lisa Roberts (banjo), and Art Abrams (bass). \nThe Baltimore Folk Music Society presents Contra and Square Dancing, 8pm-10:30pm on 1st and 3rd Wednesdays at Lovely Lane United Methodist Church. Beginners always welcome! Intro lesson at 7:30pm.  \nAdmission is $10 for members, $15 for non-members, Under 21 and full-time students with IDs: free. \nOnline payment only."
     links:
+      - "https://www.bfms.org/squarecontra.php"
       - "https://cdss.org/event/wednesday-night-contra-dance-bfms-5/"
     start: "2024-08-21T20:00:00-04:00"
     end: "2024-08-21T22:30:00-04:00"
@@ -15510,6 +15512,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Lovely Lane String Band
+    callers:
+      - April Blum
     price: $10-$15
     organisation: CDSS
   - name: FSGW English Country Dance
@@ -15646,6 +15652,8 @@ events:
       - contra
     workshop: false
     social: true
+    callers:
+      - Qwill Duvall
     price: $5-$12
     organisation: Queen City Contras
   - name: TECDA Friday Evening Dance
@@ -15732,6 +15740,9 @@ events:
     social: true
     bands:
       - Ragged Robin
+    callers:
+      - Courtney Cartwright
+      - Peter Wollenberg
     organisation: Childgrove Country Dancers
   - name: Monrovia English Country Dance
     details: "Please join us for English Country Dancing on the 2nd and 4th Friday of every month from 7:30-10pm in the Guildhall of St Luke’s Episcopal Church. $5 admission (cash only). Beginners welcome! All dances are taught, walked through and called. No partner or costume required; just bring comfortable closed-toed shoes and a water bottle. We’re friendly, laid-back, and welcoming!"
