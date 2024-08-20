@@ -19771,13 +19771,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Friday Night Contra at Glen Echo
     details: "Join us in Glen Echo, Maryland, for a fun night of contras and an occasional square! There’s a free lesson at 7:30. We have a “no dancer left behind” policy and can always get dancers to the Metro. For more info, contact info@fridaynightdancers.org. See you on the dance floor!"
     links:
       - "https://www.fridaynightdance.com/tickets"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland/2024-08-23/"
-    start: "2024-08-23T20:00:00-04:00"
+    start: "2024-08-23T19:30:00-04:00"
     end: "2024-08-23T23:00:00-04:00"
     country: USA
     state: MD
@@ -19786,6 +19787,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Experienced Contra at Guiding Star Grange
     details: "The dances in this series are open to all but will be geared toward experienced dancers. “Experienced” means: \n\nYou know how to do a roll away, California twirl, pass through to a wave, contra corners, and basic moves without teaching\nYou know where to be at the start of each dance phrase and how to recover from a lapse\nYou assist your partner and neighbor to the next move\nYou execute flourishes safely and on time without disturbing others\nYou respond to confusion and missteps by others with grace, encouragement and good humor\n\nAdmission: $12-20 \nPlease help us make this a scent-free and substance-free event. \nSee venue website for this month’s details and Covid policy. \nQuestions: Steve Zakon-Anderson or Katie Olmstead."
@@ -19801,9 +19803,7 @@ events:
       - contra
     workshop: false
     social: true
-    callers:
-      - Steve Zakon-Anderson
-    price: $12
+    price: $12-$20
     organisation: Steve Zakon-Anderson
   - name: Childgrove English Country Dance
     details: "The regular dance generally starts out with simpler dances early in the evening, progressing to dances with more difficulty later on, depending on the experience level of the crowd.  \n\nCallers: Peter Wollenberg and Courtney Cartwright\nMusic by Ragged Robin (Martha Edwards and Bill Boyer)"
@@ -19831,7 +19831,7 @@ events:
     links:
       - "https://monroviaecd.org/"
       - "https://cdss.org/event/monrovia-english-country-dance/2024-08-23/"
-    start: "2024-08-23T19:30:00-07:00"
+    start: "2024-08-23T19:15:00-07:00"
     end: "2024-08-23T22:00:00-07:00"
     country: USA
     state: CA
@@ -19845,6 +19845,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5819"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2024-08-23/"
     start: "2024-08-23T19:30:00-07:00"
     end: "2024-08-23T22:30:00-07:00"
@@ -19855,9 +19856,13 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Fine Companions
+    callers:
+      - Ric Goldman
     price: $7-$20
     organisation: CDSS
-  - name: Columbia (SC) Contra Dance
+  - name: Columbia Contra Dance
     details: "Contra dance to live music by Sherlock’s Meow with caller Chris Hernandez. No partner or experience necessary. Newcomers’ workshop is at 6:30pm, and the first contra is at 7:00pm. \nAdmission is $10 – cash, credit card, or Venmo (add 50 cents for Venmo). Kids 12 & under dance for free with parent, and must be supervised. \nDress comfortably and please bring clean, soft-soled, non-marking shoes."
     links:
       - "https://cdss.org/event/columbia-sc-contra-dance/"
@@ -19870,6 +19875,10 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Sherlock's Meow
+    callers:
+      - Chris Hernandez
     price: $10
     organisation: Columbia Traditional Music and Dance
   - name: NACDS Contra Dance
@@ -19919,6 +19928,7 @@ events:
     social: true
     bands:
       - Lone Star Pirates
+    price: $10
     organisation: San Antonio Contra Dancers
   - name: Anaheim Contra Dance
     details: "Anaheim Contra Dances are held every 4th Saturday January-November 6:30-9:30pm PST. \nAlways live music! \nFamily-friendly, no partner required. \nEasy introductory lesson for beginners @ 6:30pm.\n\nFree parking."
@@ -19934,10 +19944,12 @@ events:
       - contra
     workshop: true
     social: true
+    price: $12-$18
     organisation: The Living Tradition
   - name: 4th Saturdays Contra Dance
     details: "Mark your calendars now for the next Saturday night dance at Fulton Hall. Dances are called using gender-neutral terms. \nCovid precautions are suspended indefinitely! We will continue to monitor potential exposures at PCDC events and adjust policies as needed. Refer to the PCDC Covid policy for details. \n\n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome!"
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5899"
       - "https://cdss.org/event/portland-country-dance-community-4th-saturdays-contra-dance/2024-08-24/"
     start: "2024-08-24T19:00:00-07:00"
     end: "2024-08-24T22:30:00-07:00"
@@ -19948,6 +19960,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $6-$20
     organisation: CDSS
   - name: Sacramento Contra Dance
     details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $12 for adults; $8 for college students with ID; $5 for dancers under 18; $25 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
@@ -19963,5 +19976,5 @@ events:
       - contra
     workshop: false
     social: true
-    price: $5-$25
+    price: $5-$12
     organisation: Sacramento Country Dance Society
