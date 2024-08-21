@@ -15775,9 +15775,10 @@ events:
     social: true
     price: $7-$20
     organisation: CDSS
-  - name: Columbia (SC) Contra Dance
+  - name: Columbia Contra Dance
     details: "Contra dance to live music by Sherlock’s Meow with caller Chris Hernandez. No partner or experience necessary. Newcomers’ workshop is at 6:30pm, and the first contra is at 7:00pm. \nAdmission is $10 – cash, credit card, or Venmo (add 50 cents for Venmo). Kids 12 & under dance for free with parent, and must be supervised. \nDress comfortably and please bring clean, soft-soled, non-marking shoes."
     links:
+      - "https://www.contracola.org/"
       - "https://cdss.org/event/columbia-sc-contra-dance/"
     start: "2024-08-24T18:30:00-04:00"
     end: "2024-08-24T22:00:00-04:00"
@@ -15788,6 +15789,8 @@ events:
       - contra
     workshop: false
     social: true
+    callers:
+      - Chris Hernandez
     price: $10
     organisation: Columbia Traditional Music and Dance
   - name: NACDS Contra Dance
@@ -15821,6 +15824,41 @@ events:
     social: true
     price: $5-$10
     organisation: Lisa Lowell
+  - name: Historic Jonesborough Dance Society Back to School Dance
+    details: "Local musicians Appalachian Roots will be playing with caller Terry Doyle. \nPlease bring a donation of school supplies to help foster learning in our area, the supplies will be distributed to local schools. \nWe are dancing at the Langston Center in Johnson City, TN.\nBeginners’ lesson at 7pm.\nDance starts at 7:30.\nNever contra danced before? We gotcha covered! You’ll want to be there at 7pm. \n\nAdults, $12\nStudents, $8\nFamilies, $30\nCash or Venmo\nDonations are appreciated\nCome as you are, no partner needed\nFriends, families, and children welcome"
+    links:
+      - "https://cdss.org/event/historic-jonesborough-dance-society-back-to-school-dance/"
+    start: "2024-08-24T19:00:00-04:00"
+    end: "2024-08-24T22:30:00-04:00"
+    country: USA
+    state: TN
+    city: Johnson City
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Appalachian Roots
+    callers:
+      - Terry Doyle
+    price: $8-$30
+    organisation: Historic Jonesborough Dance Society
+  - name: CDK Contra & Square Dance
+    details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \n4th Saturday Schedule: \n\nFebruary 24: Contra & Squares with Hawks and Owls String Band, calls by Karin Neils & Friends \nMarch 23: Contra & Squares with Soltre, calls by Mike Clark\nJune 22: Contra & Squares – ADVANCED Dance  Brook Farm, calls by Laurie Pietravalle\n\nSuggested donation $5-$20"
+    links:
+      - "https://www.countrydancinginkalamazoo.com/"
+      - "https://cdss.org/event/cdk-contra-square-dance/2024-08-24/"
+    start: "2024-08-24T19:00:00-04:00"
+    end: "2024-08-24T22:30:00-04:00"
+    country: USA
+    state: MI
+    city: Kalamazoo
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$20
+    organisation: CDSS
   - name: San Antonio Contra Dance
     details: "Fun, friendly dance on 4th Saturdays. Live music by Lone Star Pirates. Calling by various local and regional callers."
     links:
@@ -15838,6 +15876,37 @@ events:
     bands:
       - Lone Star Pirates
     organisation: San Antonio Contra Dancers
+  - name: Mendocino English Country Dance
+    details: "Fourth Saturday of every month (check our calendar for occasional date changes). \nLive music with Take a Dance, the Mendocino English Country Dance Orchestra. \nDances taught and prompted by alternating local and guest callers.  \nFun and friendly dancers welcome newcomers in an inclusive and enjoyable environment. Everyone gets to dance!"
+    links:
+      - "https://cdss.org/event/mendocino-english-country-dance/2024-08-24/"
+    start: "2024-08-24T19:30:00-04:00"
+    end: "2024-08-24T22:00:00-04:00"
+    country: USA
+    state: CA
+    city: Caspar
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Take a Dance
+    organisation: Mendocino English Country Dance
+  - name: Richmond Saturday Night Contra Dance
+    details: "Join the Richmond, VA, contra dance, hosted by TADAMS at the West End Ballroom for a Saturday evening dance. Beginner lesson at 6:45pm, dance from 7:30-10:30pm. Admission is $15 non-members, $10 members and students, children under 13 are free. Please check our full website calendar for caller and band details."
+    links:
+      - "https://cdss.org/event/richmond-va-saturday-night-contra-dance/2024-08-24/"
+    start: "2024-08-24T19:30:00-04:00"
+    end: "2024-08-24T22:30:00-04:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: TADAMS (Traditional American Dance and Music Society)
   - name: Anaheim Contra Dance
     details: "Anaheim Contra Dances are held every 4th Saturday January-November 6:30-9:30pm PST. \nAlways live music! \nFamily-friendly, no partner required. \nEasy introductory lesson for beginners @ 6:30pm.\n\nFree parking."
     links:
