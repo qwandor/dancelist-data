@@ -15011,7 +15011,7 @@ events:
     social: true
     bands:
       - 3...4
-      - Stoemp!
+      - Stoemp
     organisation: ~
   - name: Teyrrasfolk
     details: Ball
@@ -16275,19 +16275,19 @@ events:
   - name: Folkbal
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Bal Bert Leemans & Loogaroo @ Mechelen/1066/"
+      - "https://frissefolk.be/en/event-en/bal-bert-leemans-&-loogaroo-mechelen/1066/"
       - "https://folkbalbende.be/event/2376"
-      - "https://www.facebook.com/events/872798868077775"
+      - "https://www.facebook.com/events/1607615956467463/"
     start: "2024-11-09T19:30:00+01:00"
     end: "2024-11-09T23:59:00+01:00"
     country: Belgium
-    city: Malines
+    city: Mechelen
     styles:
       - balfolk
     workshop: true
     social: true
     bands:
-      - Bert Leemans Solo
+      - Bert Leemans
       - Loogaroo
     price: €14-€23
     organisation: Frisse Folk Vzw/asbl
@@ -16309,10 +16309,9 @@ events:
       - Flavio Lasagni
     price: donation
     organisation: Stanistil
-  - name: Folkbal
+  - name: CaBal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.cabalfolk.be/"
       - "https://folkbalbende.be/event/2378"
     start: "2024-09-06T19:15:00+02:00"
@@ -16325,16 +16324,16 @@ events:
     social: true
     bands:
       - Hartwin Dhoore Trio
-      - Duo De Schepper/Sanczuk
+      - Duo De Schepper-Sanczuk
+    price: €16-€18
     organisation: CaBal
-  - name: Bal
+  - name: Open Day
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://eledanse.be/event/portes-ouvertes-bal-folk-avec-les-kickeuses/"
       - "https://folkbalbende.be/event/2379"
-    start_date: 2024-09-17
-    end_date: 2024-09-17
+    start: "2024-09-17T19:00:00+02:00"
+    end: "2024-09-17T22:00:00+02:00"
     country: Belgium
     city: Gerpinnes
     styles:
@@ -16344,14 +16343,13 @@ events:
     bands:
       - Les Kickeuses
     organisation: EléDanse ASBL
-  - name: Bal
+  - name: CaBal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.cabalfolk.be/"
       - "https://folkbalbende.be/event/2382"
-    start_date: 2030-01-11
-    end_date: 2030-01-11
+    start: "2025-01-11T18:45:00+01:00"
+    end: "2025-01-12T02:00:00+01:00"
     country: Belgium
     city: Kortrijk
     styles:
@@ -16359,44 +16357,47 @@ events:
     workshop: false
     social: true
     bands:
+      - Thalas
       - KV Express
       - Marasc
     organisation: CaBal
   - name: Folkjam
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Folkjam Mechelen/1068/"
+      - "https://frissefolk.be/en/event-en/folk-jam-mechelen/1068/"
       - "https://folkbalbende.be/event/2384"
+      - "https://www.facebook.com/events/1460800437852073/1460800444518739/"
     start: "2024-10-09T20:30:00+02:00"
     end: "2024-10-09T22:00:00+02:00"
     country: Belgium
     city: Mechelen
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
+    price: donation
     organisation: Frisse Folk Vzw/asbl
   - name: Mini-practica
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Mini-practica Mechelen/1067/"
+      - "https://frissefolk.be/en/event-en/minipractica-mechelen/1067/"
       - "https://folkbalbende.be/event/2385"
-      - "https://www.facebook.com/events/282137754742159"
+      - "https://www.facebook.com/events/813935677615346/813935687615345/"
     start: "2024-09-25T20:30:00+02:00"
     end: "2024-09-25T22:00:00+02:00"
     country: Belgium
     city: Mechelen
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
+    price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Practica Met Initiatie & Gastmuzikanten
+  - name: Practica with Initiation & Guest Musicians
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Practica met initiatie & gastmuzikanten Mechelen/1071/"
+      - "https://frissefolk.be/en/event-en/practica-with-initiation-&-guest-musicians-mechelen/1071/"
       - "https://folkbalbende.be/event/2386"
-      - "https://www.facebook.com/events/282137754742159"
     start: "2024-12-13T19:30:00+01:00"
     end: "2024-12-13T23:30:00+01:00"
     country: Belgium
@@ -16405,6 +16406,7 @@ events:
       - balfolk
     workshop: true
     social: true
+    price: donation
     organisation: Frisse Folk Vzw/asbl
   - name: Bal Macabre
     details: Ball
@@ -16428,67 +16430,71 @@ events:
   - name: Mini-practica
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Mini-practica Mechelen/1072/"
+      - "https://frissefolk.be/en/event-en/minipractica-mechelen/1072/"
       - "https://folkbalbende.be/event/2388"
-      - "https://www.facebook.com/events/813935677615346"
+      - "https://www.facebook.com/events/813935677615346/813935690948678/"
     start: "2024-10-23T20:30:00+02:00"
     end: "2024-10-23T22:00:00+02:00"
     country: Belgium
     city: Mechelen
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
+    price: donation
     organisation: Frisse Folk Vzw/asbl
   - name: Mini-practica
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Mini-practica Mechelen/1073/"
+      - "https://frissefolk.be/en/event-en/minipractica-mechelen/1073/"
       - "https://folkbalbende.be/event/2389"
-      - "https://www.facebook.com/events/813935677615346"
+      - "https://www.facebook.com/events/813935677615346/813935684282012/"
     start: "2024-11-27T20:30:00+01:00"
     end: "2024-11-27T22:00:00+01:00"
     country: Belgium
     city: Mechelen
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
+    price: donation
     organisation: Frisse Folk Vzw/asbl
   - name: Folkjam
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Folkjam Mechelen/1074/"
+      - "https://frissefolk.be/en/event-en/folk-jam-mechelen/1074/"
       - "https://folkbalbende.be/event/2390"
-      - "https://www.facebook.com/events/1460800437852073"
+      - "https://www.facebook.com/events/1460800437852073/1460800447852072/"
     start: "2024-11-13T20:30:00+01:00"
     end: "2024-11-13T22:00:00+01:00"
     country: Belgium
     city: Mechelen
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
+    price: donation
     organisation: Frisse Folk Vzw/asbl
   - name: Folkjam
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Folkjam Mechelen/1075/"
+      - "https://frissefolk.be/en/event-en/folk-jam-mechelen/1075/"
       - "https://folkbalbende.be/event/2391"
-      - "https://www.facebook.com/events/1460800437852073"
+      - "https://www.facebook.com/events/1460800437852073/1460800451185405/"
     start: "2024-12-11T20:30:00+01:00"
     end: "2024-12-11T22:00:00+01:00"
     country: Belgium
     city: Mechelen
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
+    price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Bal Stoemp! @ De Pianofabriek
+  - name: Bal @ De Pianofabriek
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Bal Stoemp! @ De Pianofabriek/1042/"
+      - "https://frissefolk.be/en/event-en/bal-stoemp!-de-pianofabriek/1042/"
       - "https://folkbalbende.be/event/2392"
       - "https://www.facebook.com/events/964020305495552"
     start: "2024-09-10T19:30:00+02:00"
@@ -16500,13 +16506,13 @@ events:
     workshop: true
     social: true
     bands:
-      - Dj Sophie & Jessica
+      - Stoemp
     price: €9-€16
     organisation: Frisse Folk Vzw/asbl
-  - name: Bal Aurélie Dorzée & Tom Theuns @ Cellule
+  - name: Bal @ Cellule
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Bal Aurélie Dorzée & Tom Theuns @ Cellule/1050/"
+      - "https://frissefolk.be/en/event-en/bal-aur%C3%A9lie-dorz%C3%A9e-&-tom-theuns-cellule/1050/"
       - "https://folkbalbende.be/event/2393"
       - "https://www.facebook.com/events/872798868077775"
     start: "2024-11-16T20:00:00+01:00"
@@ -16521,12 +16527,12 @@ events:
       - Aurélie Dorzée & Tom Theuns
     price: €14-€22
     organisation: Frisse Folk Vzw/asbl
-  - name: Bal KV Express @ Cellule
+  - name: Bal @ Cellule
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Bal KV Express @ Cellule/1049/"
+      - "https://frissefolk.be/en/event-en/bal-kv-express-cellule/1049/"
       - "https://folkbalbende.be/event/2394"
-      - "https://www.facebook.com/events/728998435867823"
+      - "https://www.facebook.com/events/1017425579857037/"
     start: "2024-12-21T20:00:00+01:00"
     end: "2024-12-22T01:00:00+01:00"
     country: Belgium
@@ -16542,7 +16548,7 @@ events:
   - name: Sauts Béarnais
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Sauts béarnais/1038/"
+      - "https://frissefolk.be/en/event-en/sauts-b%C3%A9arnais/1038/"
       - "https://folkbalbende.be/event/2395"
       - "https://www.facebook.com/events/829581109133461"
     start_date: 2024-09-22
