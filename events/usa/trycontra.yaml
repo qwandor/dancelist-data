@@ -1579,8 +1579,8 @@ events:
   - name: Wasatch Wiggle
     links:
       - "https://wasatchcontras.org/ww/"
-    start_date: 2024-10-18
-    end_date: 2024-10-20
+    start: "2024-10-18T19:00:00-06:00"
+    end: "2024-10-20T14:00:00-06:00"
     country: USA
     state: UT
     city: Salt Lake City
@@ -1592,6 +1592,7 @@ events:
       - Playing with Fyre
     callers:
       - Susan Petrick
+    price: $75-$120
     organisation: TryContra
   - name: Lady of the Lake Fall Camp
     links:
