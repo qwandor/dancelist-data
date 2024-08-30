@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "Contra: Ian & Charley Roberts with Bob Morgan"
+  - name: Bristol Contra Dance
     details: "Ian and Charley Roberts: £125 expenses. Lisa will call at Sheffield Contra in Lieu of fee\nBob Morgan: £30 expenses approx. (07722 189948)\n\nPA provided by: TBC"
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -16,7 +16,7 @@ events:
       - Bob Morgan
     price: £30-£125
     organisation: Bristol Contra
-  - name: "Contra: Gareth Kiddier & Co with Jeremy Child"
+  - name: Bristol Contra Dance
     details: "Gareth & Co: £70 expenses (07730781222)\nJeremy Child: approx £30 expenses \n\nAny money left after hall/expenses to be split evenly between band members/caller\nPA provided by: Gareth and Co"
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -28,9 +28,11 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Jeremy Child
     price: £30-£70
     organisation: Bristol Contra
-  - name: "Contra: Matt Norman with Rhianwen Davies"
+  - name: Bristol Contra Dance
     details: "Matt Norman: (07759 215438)\nRhianwen: approx £30 expenses (07929 034821)\n\nPA provided by:"
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -44,7 +46,7 @@ events:
     social: true
     price: £30
     organisation: Bristol Contra
-  - name: "Contra: Weston CDB with Mic Spencely"
+  - name: Bristol Contra Dance
     details: "Mic Spencely: £40 expenses (07919048183)\nWeston CDB: £50 expenses?\n\nPA provided by"
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -58,7 +60,7 @@ events:
     social: true
     price: £40-£50
     organisation: Bristol Contra
-  - name: "Contra: Contrasaurus with Jake Wood"
+  - name: Bristol Contra Dance
     details: "Contrasaurus: \nJake Wood:\n\nPA provided by Contrasaurus"
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -70,10 +72,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Contrasaurus
     callers:
       - Jake Wood
     organisation: Bristol Contra
-  - name: "Contra: Ali Messer with Charlotte Rich"
+  - name: Bristol Contra Dance
     details: "Ali Messer\nCharlotte Rich\n\nPA Provided by:"
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -86,7 +90,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: "Contra: Lisa Heywood and Matt Norman"
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2018-06-01
@@ -100,7 +104,7 @@ events:
     callers:
       - Lisa Heywood
     organisation: Bristol Contra
-  - name: Bristol Contra - Charlie Turner with Matt Norman
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2019-09-27T19:30:00+01:00"
@@ -114,7 +118,7 @@ events:
     callers:
       - Charlie Turner
     organisation: Bristol Contra
-  - name: Bristol Contra - Charlotte Rich with Bearded Dragons
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2019-10-25T19:30:00+01:00"
@@ -125,8 +129,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Bearded Dragons
     organisation: Bristol Contra
-  - name: Bristol Contra - Jen Morgan with Western Country Dance Band
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2019-11-15
@@ -140,7 +146,7 @@ events:
     callers:
       - Jen Morgan
     organisation: Bristol Contra
-  - name: Bristol Contra - BUFS Take-over
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2020-01-24T19:30:00+00:00"
@@ -152,7 +158,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: Bristol Contra - Bob Morgan with Ian and Charley Roberts
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2020-02-14T19:30:00+00:00"
@@ -166,7 +172,7 @@ events:
     callers:
       - Bob Morgan
     organisation: Bristol Contra
-  - name: "CANCELLED: Bristol Contra - Sally Vernon and Abacus"
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2020-03-20T19:30:00+00:00"
@@ -177,8 +183,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Abacus
+    callers:
+      - Sally Vernon
     organisation: Bristol Contra
-  - name: Bristol Contra - Jake Wood and English Contra Dance Band
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2020-04-24T19:30:00+01:00"
@@ -189,10 +199,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - English Contra Dance Band
     callers:
       - Jake Wood
     organisation: Bristol Contra
-  - name: Bristol Contra - Carol Ormand with Ali and Mollie
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2020-05-15T19:30:00+01:00"
@@ -206,7 +218,7 @@ events:
     callers:
       - Carol Ormand
     organisation: Bristol Contra
-  - name: Bristol Contra - Lauren Wilson and Nozzy
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2020-06-19T19:30:00+01:00"
@@ -222,7 +234,7 @@ events:
     callers:
       - Lauren Wilson
     organisation: Bristol Contra
-  - name: Bristol Contra ?
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2020-09-25
@@ -234,7 +246,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: BC?
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2021-01-22
@@ -246,7 +258,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: BC?
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2021-03-26
@@ -258,7 +270,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: BC?
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2021-04-23
@@ -270,7 +282,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: BC?
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2022-01-21
@@ -282,7 +294,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: bc?
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2022-02-18
@@ -294,7 +306,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: Matt Norman & Hannah Cummings with Jake Wood
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2022-03-25T19:30:00+00:00"
@@ -305,10 +317,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Matt Norman & Hannah Cummings
     callers:
       - Jake Wood
     organisation: Bristol Contra
-  - name: Ian and Charley Roberts with Louise Siddons
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2022-04-22T19:00:00+01:00"
@@ -322,7 +336,7 @@ events:
     callers:
       - Louise Siddons
     organisation: Bristol Contra
-  - name: Nozzy with Charlotte Rich-Griffin
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2022-05-13T19:00:00+01:00"
@@ -338,7 +352,7 @@ events:
     callers:
       - Charlotte Rich-Griffin
     organisation: Bristol Contra
-  - name: Flying Cat with Charlie Turner
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2022-06-17T19:00:00+01:00"
@@ -349,10 +363,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Flying Cat
     callers:
       - Charlie Turner
     organisation: Bristol Contra
-  - name: "Bristol contra: TBC with Ian and Charley Roberts"
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2022-09-23T19:30:00+01:00"
@@ -364,7 +380,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: "BC: Bob Morgan with Matt Norman and Ali Messer"
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2022-10-28T19:00:00+01:00"
@@ -378,7 +394,7 @@ events:
     callers:
       - Bob Morgan
     organisation: Bristol Contra
-  - name: "BC: Charlie Turner with Bearded Dragons"
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2022-11-25T19:30:00+00:00"
@@ -389,10 +405,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Bearded Dragons
     callers:
       - Charlie Turner
     organisation: Bristol Contra
-  - name: "BC: Jake Wood and Mark Elvins with Matt Norman and Laurel Swift"
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2023-01-27T19:30:00+00:00"
@@ -407,7 +425,7 @@ events:
       - Jake Wood
       - Mark Elvins
     organisation: Bristol Contra
-  - name: "BC: Rhi Davies with Ali and Mollie"
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2023-02-24T19:30:00+00:00"
@@ -421,7 +439,7 @@ events:
     callers:
       - Rhi Davies
     organisation: Bristol Contra
-  - name: "BC: Charlotte Rich-Griffin with Benjamin Rowe and Adam Rich-Griffin"
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2023-03-24T19:30:00+00:00"
@@ -435,7 +453,7 @@ events:
     callers:
       - Charlotte Rich-Griffin
     organisation: Bristol Contra
-  - name: "BC: Louise Siddons with Adam Rich-Griffin & Nicola McConkey"
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2023-04-21T19:30:00+01:00"
@@ -449,7 +467,7 @@ events:
     callers:
       - Louise Siddons
     organisation: Bristol Contra
-  - name: "BC: Cis Hinkle with English Contra Dance Band"
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2023-05-19T19:30:00+01:00"
@@ -460,10 +478,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - English Contra Dance Band
     callers:
       - Cis Hinkle
     organisation: Bristol Contra
-  - name: "BC: TBC"
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2023-06-16T19:30:00+01:00"
@@ -475,7 +495,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: BC?
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2023-09-22
@@ -487,7 +507,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: BC?
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2023-10-13
@@ -499,7 +519,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: BC?
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2023-11-24
@@ -511,7 +531,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: BC?
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2024-01-26
@@ -523,7 +543,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: BC
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2024-02-23
@@ -535,7 +555,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: BC
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2024-03-15
@@ -547,7 +567,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: BC
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2024-04-26
@@ -559,7 +579,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: BC
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2024-05-17
@@ -571,7 +591,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: BC?
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start_date: 2024-06-14
@@ -583,7 +603,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
-  - name: Charlotte Rich-Griffin with Benjamin Rowe & Adam Rich-Griffin
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2024-09-27T19:45:00+01:00"
@@ -599,7 +619,7 @@ events:
     callers:
       - Charlotte Rich-Griffin
     organisation: Bristol Contra
-  - name: Mark Elvins withNozzy
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2024-10-25T19:45:00+01:00"
@@ -615,7 +635,7 @@ events:
     callers:
       - Mark Elvins
     organisation: Bristol Contra
-  - name: Jack Kanutin with Trip Hazard
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2024-11-22T19:45:00+00:00"
@@ -631,7 +651,7 @@ events:
     callers:
       - Jack Kanutin
     organisation: Bristol Contra
-  - name: Daisy Black with Chaotic good
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2025-01-24T19:45:00+00:00"
@@ -647,7 +667,7 @@ events:
     callers:
       - Daisy Black
     organisation: Bristol Contra
-  - name: Bob Morgan with Matt Norman and Edward Wallace
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2025-02-21T19:45:00+00:00"
@@ -661,7 +681,7 @@ events:
     callers:
       - Bob Morgan
     organisation: Bristol Contra
-  - name: Rob Humphrey with Contrary Faeries
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2025-03-28T19:45:00+00:00"
@@ -677,7 +697,7 @@ events:
     callers:
       - Rob Humphrey
     organisation: Bristol Contra
-  - name: Lisa Heywood with Dodging Pheasants
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2025-04-25T19:45:00+01:00"
@@ -693,7 +713,7 @@ events:
     callers:
       - Lisa Heywood
     organisation: Bristol Contra
-  - name: Charlie Turner with Box of Frogs
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2025-05-16T19:45:00+01:00"
@@ -709,7 +729,7 @@ events:
     callers:
       - Charlie Turner
     organisation: Bristol Contra
-  - name: Louise Siddons with Fiddlechicks
+  - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
     start: "2025-06-20T19:45:00+01:00"
