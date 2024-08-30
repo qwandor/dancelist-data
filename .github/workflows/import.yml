@@ -36,6 +36,8 @@ jobs:
         run: dancelist import spreefolk events/germany/spreefolk.yaml
       - name: Import ceilidh-club
         run: dancelist import ceilidh-club events/uk/ceilidh_club.yaml
+      - name: Import bristol-contra
+        run: dancelist import bristol-contra events/uk/bristol_contra.yaml
       - name: Import lancaster-contra
         run: dancelist import lancaster-contra events/uk/lancaster.yaml
       - name: Import boulder
