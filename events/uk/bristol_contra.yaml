@@ -14,7 +14,6 @@ events:
     social: true
     callers:
       - Bob Morgan
-    price: £30-£125
     organisation: Bristol Contra
   - name: Bristol Contra Dance
     details: "Gareth & Co: £70 expenses (07730781222)\nJeremy Child: approx £30 expenses \n\nAny money left after hall/expenses to be split evenly between band members/caller\nPA provided by: Gareth and Co"
@@ -30,7 +29,6 @@ events:
     social: true
     callers:
       - Jeremy Child
-    price: £30-£70
     organisation: Bristol Contra
   - name: Bristol Contra Dance
     details: "Matt Norman: (07759 215438)\nRhianwen: approx £30 expenses (07929 034821)\n\nPA provided by:"
@@ -44,7 +42,6 @@ events:
       - contra
     workshop: true
     social: true
-    price: £30
     organisation: Bristol Contra
   - name: Bristol Contra Dance
     details: "Mic Spencely: £40 expenses (07919048183)\nWeston CDB: £50 expenses?\n\nPA provided by"
@@ -58,7 +55,6 @@ events:
       - contra
     workshop: true
     social: true
-    price: £40-£50
     organisation: Bristol Contra
   - name: Bristol Contra Dance
     details: "Contrasaurus: \nJake Wood:\n\nPA provided by Contrasaurus"
@@ -175,6 +171,7 @@ events:
   - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
+      - "https://www.facebook.com/events/519367215282671/"
     start: "2020-03-20T19:30:00+00:00"
     end: "2020-03-20T23:00:00+00:00"
     country: UK
@@ -188,6 +185,7 @@ events:
     callers:
       - Sally Vernon
     organisation: Bristol Contra
+    cancelled: true
   - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -204,6 +202,7 @@ events:
     callers:
       - Jake Wood
     organisation: Bristol Contra
+    cancelled: true
   - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -218,6 +217,7 @@ events:
     callers:
       - Carol Ormand
     organisation: Bristol Contra
+    cancelled: true
   - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -234,54 +234,7 @@ events:
     callers:
       - Lauren Wilson
     organisation: Bristol Contra
-  - name: Bristol Contra Dance
-    links:
-      - "https://bristolcontra.wordpress.com/"
-    start_date: 2020-09-25
-    end_date: 2020-09-25
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: Bristol Contra
-  - name: Bristol Contra Dance
-    links:
-      - "https://bristolcontra.wordpress.com/"
-    start_date: 2021-01-22
-    end_date: 2021-01-22
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: Bristol Contra
-  - name: Bristol Contra Dance
-    links:
-      - "https://bristolcontra.wordpress.com/"
-    start_date: 2021-03-26
-    end_date: 2021-03-26
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: Bristol Contra
-  - name: Bristol Contra Dance
-    links:
-      - "https://bristolcontra.wordpress.com/"
-    start_date: 2021-04-23
-    end_date: 2021-04-23
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: Bristol Contra
+    cancelled: true
   - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -294,6 +247,7 @@ events:
     workshop: true
     social: true
     organisation: Bristol Contra
+    cancelled: true
   - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
