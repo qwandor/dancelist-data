@@ -178,7 +178,22 @@ events:
     social: true
     price: £10
     organisation: Nottingham Folk Dance Group
-
+    cancelled: true
+  - name: Nottingham Contra Dance
+    links:
+      - "https://www.nfdg.org.uk/club_dances.php"
+    start: 2024-10-05T19:30:00+01:00
+    end: 2024-10-05T23:00:00+01:00
+    country: UK
+    city: Nottingham
+    styles: [contra]
+    workshop: false
+    social: true
+    bands:
+      - Old Time Contra Band
+    callers:
+      - Diane Silver
+    organisation: Nottingham Folk Dance Group
   - name: Nottingham Mixed Dance
     links:
       - "https://www.nfdg.org.uk/club_dances.php"
@@ -189,7 +204,54 @@ events:
     styles: [contra, ecd]
     workshop: false
     social: true
+    bands:
+      - Folkus Pocus
     callers:
       - Colin Hume
-    price: £10
+    organisation: Nottingham Folk Dance Group
+  - name: Nottingham Mixed Dance
+    links:
+      - "https://www.nfdg.org.uk/club_dances.php"
+    start: 2025-02-01T19:30:00+00:00
+    end: 2025-02-01T23:00:00+00:00
+    country: UK
+    city: Nottingham
+    styles: [contra, ecd]
+    workshop: false
+    social: true
+    bands:
+      - Caperbility
+    callers:
+      - Liam Binley
+    organisation: Nottingham Folk Dance Group
+  - name: Nottingham Playford Ball
+    links:
+      - "https://nfdg.org.uk/club_dances.php"
+      - "https://nfdg.org.uk/ball.php"
+    start: 2025-04-12T19:30:00+01:00
+    end: 2025-04-12T23:00:00+01:00
+    country: UK
+    city: Nottingham
+    styles: [ecd]
+    workshop: false
+    social: true
+    bands:
+      - Tom & Julia Barnes
+    callers:
+      - Andrew Swaine
+    organisation: Nottingham Folk Dance Group
+  - name: Nottingham Mixed Dance
+    links:
+      - "https://www.nfdg.org.uk/club_dances.php"
+    start: 2025-11-08T19:30:00+00:00
+    end: 2025-11-08T23:00:00+00:00
+    country: UK
+    city: Nottingham
+    styles: [contra, ecd]
+    workshop: false
+    social: true
+    bands:
+      - Chris & Julie Dewhurst
+    callers:
+      - Neil Stuart
     organisation: Nottingham Folk Dance Group
