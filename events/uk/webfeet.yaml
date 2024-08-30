@@ -1,19 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Catsfield Steamers in Winchelsea
-    links:
-      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
-    start_date: 2024-06-01
-    end_date: 2024-06-01
-    country: UK
-    city: Winchelsea
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Catsfield Steamers
-    organisation: Webfeet
   - name: Contra Sutra in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
@@ -452,22 +438,6 @@ events:
     bands:
       - Threepenny Bit
     organisation: Webfeet
-  - name: Cock & Bull Band in Grove
-    links:
-      - "http://mister.red/dance/wantage.htm#D.AQ.20240817"
-    start_date: 2024-08-17
-    end_date: 2024-08-17
-    country: UK
-    city: Grove
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Cock & Bull Band
-    callers:
-      - Jane Bird
-    organisation: Webfeet
   - name: Catsfield Steamers in Heathfield
     links:
       - "http://catsfieldsteamers.co.uk/index.php/bookings/"
@@ -482,113 +452,9 @@ events:
     bands:
       - Catsfield Steamers
     organisation: Webfeet
-  - name: sessionista in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AH.20240818"
-      - "http://mister.red/dance/bristol.htm#D.AJ.20240818"
-    start_date: 2024-08-18
-    end_date: 2024-08-18
-    country: UK
-    city: Bristol
-    styles:
-      - balfolk
-      - irish-set
-    workshop: false
-    social: true
-    bands:
-      - Sharon Carr
-      - sessionista
-    callers:
-      - Perfect Cure
-    organisation: Webfeet
-  - name: "Mark & Norma in Whimple Irish Set, Whimple"
-    links:
-      - "http://mister.red/dance/whimple.htm#D.AG.20240818"
-    start_date: 2024-08-18
-    end_date: 2024-08-18
-    country: UK
-    city: "Whimple Irish Set, Whimple"
-    styles:
-      - irish-set
-    workshop: false
-    social: true
-    bands:
-      - Mark & Norma
-    organisation: Webfeet
-  - name: Banter in Whitby
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2024-08-19
-    end_date: 2024-08-22
-    country: UK
-    city: Whitby
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
-  - name: live music in Bath
-    links:
-      - "http://mister.red/dance/bath.htm#D.AO.20240821"
-    start_date: 2024-08-21
-    end_date: 2024-08-21
-    country: UK
-    city: Bath
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: "Blackbeard's Tea Party in Middle Claydon"
-    links:
-      - "https://www.bandsintown.com/e/105083932-blackbeard&#x27;s-tea-party-at-claydon-estate"
-    start_date: 2024-08-23
-    end_date: 2024-08-23
-    country: UK
-    city: Middle Claydon
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-    organisation: Webfeet
-  - name: Banter in Shrewsbury
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2024-08-23
-    end_date: 2024-08-24
-    country: UK
-    city: Shrewsbury
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
-  - name: Banter in Claydon Estate
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2024-08-24
-    end_date: 2024-08-25
-    country: UK
-    city: Claydon Estate
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
   - name: Catsfield Steamers in Battle
     links:
       - "http://catsfieldsteamers.co.uk/index.php/bookings/"
-      - "https://www.eventbrite.com/e/ceilidh-with-the-famous-catsfield-steamers-tickets-950030495787"
     start_date: 2024-08-25
     end_date: 2024-08-25
     country: UK
@@ -615,20 +481,6 @@ events:
       - Sharon Carr
     callers:
       - Perfect Cure
-    organisation: Webfeet
-  - name: Blackbeards Tea Party in Claydon Estate
-    links:
-      - "http://www.blackbeardsteaparty.com/gigs/"
-    start_date: 2024-08-26
-    end_date: 2024-08-26
-    country: UK
-    city: Claydon Estate
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Blackbeards Tea Party
     organisation: Webfeet
   - name: Brian Graham in Pucklechurch
     links:
@@ -1077,6 +929,20 @@ events:
     callers:
       - Jane & Mark Hunter
     organisation: Webfeet
+  - name: Tatterdemalion in Dorchester
+    links:
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2024-09-27
+    end_date: 2024-09-27
+    country: UK
+    city: Dorchester
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Tatterdemalion
+    organisation: Webfeet
   - name: "Dampier's Round in Halsway Manor"
     links:
       - "http://www.sadfolk.co.uk/listings.php"
@@ -1098,7 +964,7 @@ events:
     organisation: Webfeet
   - name: Bosun Higgs in Cardiff
     links:
-      - "http://mister.red/dance/cardiff.htm#D.AW.20240928"
+      - "http://mister.red/dance/cardiff.htm#D.AV.20240928"
     start_date: 2024-09-28
     end_date: 2024-09-28
     country: UK
@@ -1327,6 +1193,22 @@ events:
     callers:
       - Sheena Masson
     organisation: Webfeet
+  - name: Jigfoot in Berkeley
+    links:
+      - "https://www.jigfoot.com/google-calendar/"
+    start_date: 2024-10-11
+    end_date: 2024-10-11
+    country: UK
+    city: Berkeley
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Jigfoot
+    callers:
+      - Ian Nichols
+    organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.sadfolk.co.uk/listings.php"
@@ -1418,6 +1300,20 @@ events:
     callers:
       - Diane Silver
     organisation: Webfeet
+  - name: live music in Bath
+    links:
+      - "http://mister.red/dance/bath.htm#D.AO.20241016"
+    start_date: 2024-10-16
+    end_date: 2024-10-16
+    country: UK
+    city: Bath
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - live music
+    organisation: Webfeet
   - name: Dave Yeomans in Frenchay
     links:
       - "http://mister.red/dance/bristol.htm#D.AC.20241016"
@@ -1464,6 +1360,34 @@ events:
     callers:
       - Bev Langton
     organisation: Webfeet
+  - name: sessionista in Bristol
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AJ.20241020"
+    start_date: 2024-10-20
+    end_date: 2024-10-20
+    country: UK
+    city: Bristol
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - sessionista
+    organisation: Webfeet
+  - name: "Mark & Norma in Whimple Irish Set, Whimple"
+    links:
+      - "http://mister.red/dance/whimple.htm#D.AG.20241020"
+    start_date: 2024-10-20
+    end_date: 2024-10-20
+    country: UK
+    city: "Whimple Irish Set, Whimple"
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    bands:
+      - Mark & Norma
+    organisation: Webfeet
   - name: own music in Pucklechurch
     links:
       - "http://mister.red/dance/bristol.htm#D.AB.20241022"
@@ -1501,6 +1425,20 @@ events:
     end_date: 2024-10-24
     country: UK
     city: Aldershot
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
+    organisation: Webfeet
+  - name: "Blackbeard's Tea Party in Penzance"
+    links:
+      - "https://www.bandsintown.com/e/105312553-blackbeard&#x27;s-tea-party-at-the-acorn"
+    start_date: 2024-10-25
+    end_date: 2024-10-25
+    country: UK
+    city: Penzance
     styles:
       - e-ceilidh
     workshop: false
@@ -1644,6 +1582,22 @@ events:
     social: true
     bands:
       - Willowspin
+    organisation: Webfeet
+  - name: Juice in Cardiff
+    links:
+      - "https://eceilidh.org.uk/cps/gigs/dodgingpheasants-37de18.php"
+    start_date: 2024-11-09
+    end_date: 2024-11-09
+    country: UK
+    city: Cardiff
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Juice
+    callers:
+      - Ned Clamp
     organisation: Webfeet
   - name: Dave Shepard & Anna Pack in Exeter
     links:
@@ -2112,6 +2066,22 @@ events:
     bands:
       - The Marisca Trio
     organisation: Webfeet
+  - name: Bunny-Eye Ceilidh Band in Cardiff
+    links:
+      - "https://eceilidh.org.uk/cps/gigs/bunnyeyeceilidhband-dd4c8b.php"
+    start_date: 2025-01-18
+    end_date: 2025-01-18
+    country: UK
+    city: Cardiff
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Bunny-Eye Ceilidh Band
+    callers:
+      - Mic Spenceley
+    organisation: Webfeet
   - name: "Hekety in Chandler's Ford"
     links:
       - "http://www.shocc.co.uk/"
@@ -2185,6 +2155,22 @@ events:
       - Banter
     callers:
       - Tim Walker
+    organisation: Webfeet
+  - name: Box of Frogs in Morganstown
+    links:
+      - "http://ruffceilidhs.org/coming/"
+    start_date: 2025-02-15
+    end_date: 2025-02-15
+    country: UK
+    city: Morganstown
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Box of Frogs
+    callers:
+      - Rhodri Davies
     organisation: Webfeet
   - name: "Diatonics in Chandler's Ford"
     links:
