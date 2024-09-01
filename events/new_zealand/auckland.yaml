@@ -8,41 +8,42 @@ events:
     end_date: 2022-03-18
     country: New Zealand
     city: Auckland
-    styles: [balfolk, contra]
+    styles:
+      - balfolk
+      - contra
     workshop: false
     social: true
     price: $27-$39
     organisation: Balfolk Aotearoa
     cancelled: true
-
   - name: Balfolk Auckland
     links:
       - "https://www.facebook.com/balfolkaotearoa/posts/403381131786904"
-    start: 2022-05-24T19:00:00+12:00
-    end: 2022-05-24T20:30:00+12:00
+    start: "2022-05-24T19:00:00+12:00"
+    end: "2022-05-24T20:30:00+12:00"
     country: New Zealand
     city: Auckland
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: false
     price: $15
     organisation: Balfolk Aotearoa
-
   - name: Xmas Mini-Bal
     links:
       - "https://www.facebook.com/balfolkaotearoa/posts/pfbid04qC1cTad8hdWwLrSG9Z7qwiCoyiq9xGWz2oL2haWVffhZUZUz1gVHuYAWmKvmkbgl"
-    start: 2022-12-14T19:00:00+13:00
-    end: 2022-12-14T21:30:00+13:00
+    start: "2022-12-14T19:00:00+13:00"
+    end: "2022-12-14T21:30:00+13:00"
     country: New Zealand
     city: Auckland
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     bands:
       - Marika & Caleb
     price: $10
     organisation: Balfolk Aotearoa
-
   - name: Workshops and bal at Auckland Folk Festival
     links:
       - "https://www.facebook.com/balfolkaotearoa/posts/pfbid02nzDfk9DmNCm3619CwDgPntHimcnWAmCfyU6Rgs5C6JKedSdVxX8kyBAF2j5ZJe4Sl"
@@ -57,99 +58,99 @@ events:
     bands:
       - LyraDanz
     organisation: Balfolk Aotearoa
-
   - name: Balfolkino
     links:
       - "https://www.facebook.com/events/528887646007147/"
-    start: 2023-02-18T10:00:00+13:00
-    end: 2023-02-18T21:30:00+13:00
+    start: "2023-02-18T10:00:00+13:00"
+    end: "2023-02-18T21:30:00+13:00"
     country: New Zealand
     city: Auckland
-    styles: [balfolk, italian]
+    styles:
+      - balfolk
+      - italian
     workshop: true
     social: true
     bands:
       - LyraDanz
     price: $30-$80
     organisation: Balfolk Aotearoa
-
   - name: Balfolk Auckland
     links:
       - "https://www.facebook.com/balfolkaotearoa/posts/pfbid0Mrc7QeW6sokokXgBzP2uRfQVD1rXo9Zhnizpi9CoJUQ45oLSX4g1sFwkHXcvY5WGl"
-    start: 2023-02-20T19:00:00+13:00
-    end: 2023-02-20T20:30:00+13:00
+    start: "2023-02-20T19:00:00+13:00"
+    end: "2023-02-20T20:30:00+13:00"
     country: New Zealand
     city: Auckland
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: false
     price: $15
     organisation: Balfolk Aotearoa
-
   - name: Balfolk Auckland
     links:
       - "https://www.facebook.com/balfolkaotearoa/posts/pfbid02NW4bwZR6ZK6yXVb2Ahs6ox5gk49wL7DHxSqk2J4YAGXV7vquKdh8TZmFZfZ297PJl"
-    start: 2023-08-27T11:00:00+12:00
-    end: 2023-08-27T12:30:00+12:00
+    start: "2023-08-27T11:00:00+12:00"
+    end: "2023-08-27T12:30:00+12:00"
     country: New Zealand
     city: Auckland
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: false
     price: $10
     organisation: Balfolk Aotearoa
-
   - name: Balfolk Auckland
     links:
       - "https://www.facebook.com/balfolkaotearoa/posts/pfbid02NW4bwZR6ZK6yXVb2Ahs6ox5gk49wL7DHxSqk2J4YAGXV7vquKdh8TZmFZfZ297PJl"
-    start: 2023-09-03T11:00:00+12:00
-    end: 2023-09-03T12:30:00+12:00
+    start: "2023-09-03T11:00:00+12:00"
+    end: "2023-09-03T12:30:00+12:00"
     country: New Zealand
     city: Auckland
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: false
     price: $10
     organisation: Balfolk Aotearoa
-
   - name: Balfolk Auckland
     links:
       - "https://www.facebook.com/balfolkaotearoa/posts/pfbid02NW4bwZR6ZK6yXVb2Ahs6ox5gk49wL7DHxSqk2J4YAGXV7vquKdh8TZmFZfZ297PJl"
-    start: 2023-09-10T11:00:00+12:00
-    end: 2023-09-10T12:30:00+12:00
+    start: "2023-09-10T11:00:00+12:00"
+    end: "2023-09-10T12:30:00+12:00"
     country: New Zealand
     city: Auckland
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: false
     price: $10
     organisation: Balfolk Aotearoa
-
   - name: Balfolk Auckland
     links:
       - "https://www.facebook.com/balfolkaotearoa/posts/pfbid02NW4bwZR6ZK6yXVb2Ahs6ox5gk49wL7DHxSqk2J4YAGXV7vquKdh8TZmFZfZ297PJl"
-    start: 2023-09-17T11:00:00+12:00
-    end: 2023-09-17T12:30:00+12:00
+    start: "2023-09-17T11:00:00+12:00"
+    end: "2023-09-17T12:30:00+12:00"
     country: New Zealand
     city: Auckland
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: false
     price: $10
     organisation: Balfolk Aotearoa
-
   - name: Spring Equinox Ball
     links:
       - "https://www.facebook.com/balfolkaotearoa/posts/pfbid02NW4bwZR6ZK6yXVb2Ahs6ox5gk49wL7DHxSqk2J4YAGXV7vquKdh8TZmFZfZ297PJl"
-    start: 2023-09-25T19:00:00+13:00
-    end: 2023-09-25T21:00:00+13:00
+    start: "2023-09-25T19:00:00+13:00"
+    end: "2023-09-25T21:00:00+13:00"
     country: New Zealand
     city: Auckland
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     organisation: Balfolk Aotearoa
-
   - name: Introduction to Polska
     links:
       - "https://www.facebook.com/groups/balfolkdunedincommunity/posts/727770015476918/"
@@ -164,3 +165,17 @@ events:
     bands:
       - Toivo Wiskari
     organisation: Balfolk Aotearoa
+  - name: Ceilidhs Extravaganza
+    links:
+      - "https://www.facebook.com/events/7739843459384027/"
+      - "https://www.facebook.com/events/451467697742114/"
+    start: "2024-09-20T19:00:00+12:00"
+    end: "2024-09-21T22:00:00+12:00"
+    country: New Zealand
+    city: Auckland
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: $10-$24
+    organisation: Auckland Biannual Ceilidhs
