@@ -225,7 +225,7 @@ events:
     links:
       - "http://godancing.org/"
       - "https://cdss.org/event/goshen-community-contra-dance-2/2024-01-06/"
-    start: "2024-01-06T19:00:00-05:00"
+    start: "2024-01-06T18:30:00-05:00"
     end: "2024-01-06T22:00:00-05:00"
     country: USA
     state: IN
@@ -1740,7 +1740,7 @@ events:
     links:
       - "http://godancing.org/"
       - "https://cdss.org/event/goshen-community-contra-dance-2/2024-02-03/"
-    start: "2024-02-03T19:00:00-05:00"
+    start: "2024-02-03T18:30:00-05:00"
     end: "2024-02-03T22:00:00-05:00"
     country: USA
     state: IN
@@ -4035,7 +4035,7 @@ events:
     links:
       - "http://godancing.org/"
       - "https://cdss.org/event/goshen-community-contra-dance-2/2024-03-02/"
-    start: "2024-03-02T19:00:00-05:00"
+    start: "2024-03-02T18:30:00-05:00"
     end: "2024-03-02T22:00:00-05:00"
     country: USA
     state: IN
@@ -7096,7 +7096,7 @@ events:
     links:
       - "http://godancing.org/"
       - "https://cdss.org/event/goshen-community-contra-dance-2/2024-04-06/"
-    start: "2024-04-06T19:00:00-04:00"
+    start: "2024-04-06T18:30:00-04:00"
     end: "2024-04-06T22:00:00-04:00"
     country: USA
     state: IN
@@ -9625,7 +9625,7 @@ events:
     links:
       - "http://godancing.org/"
       - "https://cdss.org/event/goshen-community-contra-dance-2/2024-05-04/"
-    start: "2024-05-04T19:00:00-04:00"
+    start: "2024-05-04T18:30:00-04:00"
     end: "2024-05-04T22:00:00-04:00"
     country: USA
     state: IN
@@ -12135,7 +12135,7 @@ events:
     links:
       - "http://godancing.org/"
       - "https://cdss.org/event/goshen-community-contra-dance-2/2024-06-01/"
-    start: "2024-06-01T19:00:00-04:00"
+    start: "2024-06-01T18:30:00-04:00"
     end: "2024-06-01T22:00:00-04:00"
     country: USA
     state: IN
@@ -21382,7 +21382,7 @@ events:
     links:
       - "http://godancing.org/"
       - "https://cdss.org/event/goshen-community-contra-dance/2024-09-07/"
-    start: "2024-09-07T19:00:00-04:00"
+    start: "2024-09-07T18:30:00-04:00"
     end: "2024-09-07T22:00:00-04:00"
     country: USA
     state: IN
@@ -21423,10 +21423,12 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: Knoxville Contra Dance
   - name: First Saturday Contra Dance
     details: "The Monadnock Folklore Society presents the Peterborough, NH First Saturday Contra Dance on the first Saturday with different musicians and callers every month.  \nThe dancing begins at 8:00 PM, with an introductory workshop beginning at 7:30. Sliding scale admission is  $12 – 20. \nWe also host an open jam session for beginning and intermediate musicians from 6:45 – 7:30 PM. \nThe Monadnock Folklore Society has presented contra dances and concerts of traditional music since 1982."
     links:
+      - "https://www.monadnockfolk.org/event/peterborough-first-saturday-contra-dance-2-14/"
       - "https://cdss.org/event/first-saturday-contra-dance-in-peterborough-nh/2024-09-07/"
     start: "2024-09-07T19:30:00-04:00"
     end: "2024-09-07T23:00:00-04:00"
@@ -21437,22 +21439,31 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    bands:
+      - Windfish
+    callers:
+      - David Eisenstadter
+    price: $12-$20
     organisation: Monadnock Folklore Society
   - name: Friends of Traditional Dance Contra
     details: "Contra Dance every 1st and 3rd Saturday \nWe dance at the fabulous Masonic Ballroom, with its gorgeous sprung wood dance floor."
     links:
       - "https://fotd.org/"
       - "https://cdss.org/event/friends-of-traditional-dance-contra/2024-09-07/"
-    start: "2024-09-07T19:00:00-06:00"
+    start: "2024-09-07T18:10:00-06:00"
     end: "2024-09-07T22:00:00-06:00"
     country: USA
     state: CO
     city: Fort Collins
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Rodney Sauer Trio
+    callers:
+      - Tina Fields
+    price: $5-$20
     organisation: Friends of Traditional Dance
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \nLessons at 6:40; dance starts at 7 PM. \n​Prices: \n\n$12 General\n​$10 Members of MCDC, BACDS, CDSS or other sister organizations\n$5 active military & full-time students, with ID\nFREE! for children 12 & under ​"
