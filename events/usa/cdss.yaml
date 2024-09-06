@@ -21470,7 +21470,7 @@ events:
     links:
       - "https://capitalcitygrange.org/dancing/contradancing/"
       - "https://cdss.org/event/montpelier-contra-dance/2024-09-07/"
-    start: "2024-09-07T20:00:00-04:00"
+    start: "2024-09-07T19:40:00-04:00"
     end: "2024-09-07T23:00:00-04:00"
     country: USA
     state: VT
@@ -21481,19 +21481,24 @@ events:
     social: true
     price: $5-$20
     organisation: Montpelier Contra Dance
-  - name: Big Scioty Contra Dance—The Brickersons with Margaret Goodman calling
+  - name: Big Scioty Contra Dance
     details: "Band: The Brickersons\nCaller: Margaret Goodman \nBeginners’ Session 7:30 to 8:00 PM\nDancing 8:00 to 10:30 PM \nCost: $10 adults, $5 ages 26 and under. Under 12 free. \nMasks and COVID vaccination are optional. We reserve the right to reinstate requirements if conditions warrant it."
     links:
+      - "https://bigscioty.com/"
       - "https://cdss.org/event/big-scioty-contra-dance-the-brickersons-with-margaret-goodman-calling/"
-    start: "2024-09-07T20:00:00-04:00"
+    start: "2024-09-07T19:30:00-04:00"
     end: "2024-09-07T22:30:00-04:00"
     country: USA
     state: OH
     city: Columbus
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - The Brickersons
+    callers:
+      - Margaret Goodman
     price: $5-$10
     organisation: Big Scioty Contra Dance
   - name: Friends of Traditional Dance Contra
@@ -21537,47 +21542,45 @@ events:
     links:
       - "https://www.queercontradance.org/circleleft.html"
       - "https://cdss.org/event/circle-left/2024-09-07/"
-    start: "2024-09-07T21:30:00-07:00"
-    end: "2024-09-08T01:00:00-07:00"
+    start: "2024-09-07T18:30:00-07:00"
+    end: "2024-09-07T22:00:00-07:00"
     country: USA
     state: CA
     city: Oakland
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Magical Reelism
+    callers:
+      - Yoyo Zhou
+    price: $5-$20
     organisation: CDSS
   - name: Brownsville English Country Dance
     details: "A general dance that welcomes all levels of dancers from 1st time dancers to experienced dancers. Introduction or review at 12:45. Potluck snacks during intermission. \nMusic by Carol Compton (piano), and Thal Aylward (violin). Calling by Jill Delaney. \nMasks are optional. If you suspect, or know, that someone in your household currently has Covid-19, please do not attend. As always, if you are not feeling well, regardless of the reason, please stay home.  We’ll be happy to see you next time!\nPlease bring clean, soft-soled shoes for dancing. Also bring a water bottle. \nSingles welcome! \nLocation is the Town Hall, 22 Hartland-Brownsville Rd. West Windsor, VT (some GPS want the town to be Brownsville, VT)."
     links:
       - "https://cdss.org/event/brownsville-english-country-dance/2024-09-08/"
-    start: "2024-09-08T13:00:00-04:00"
-    end: "2024-09-08T16:00:00-04:00"
-    country: USA
-    state: VT
-    city: West Windsor
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: CDSS
-  - name: "Brownsville English Country Dance, Vermont"
-    details: "The fall series of ECD is starting in Brownsville on September 8th and will run on the second Sundays for the fall – Sept, Oct, Nov & Dec. This dance welcomes all levels of dancers, from first-time dancers to experienced dancers. An introduction or review will be held if needed at 12:45. \n\nCaller: Jill Delaney\nMusicians: Carol Compton, piano; Thal Aylward, violin\nMask Optional\nPotluck table at the break – feel free to bring something!\nAs always, if you are not feeling well, regardless of the reason, please stay home. We’ll be happy to see you next time!\nPlease bring clean, soft-soled shoes for dancing. Also bring a water bottle.\nSingles welcome!\nLocation is the Town Hall, 22 Hartland-Brownsville Rd., West Windsor, VT (some GPS want the town to be Brownsville, VT).\nThere is a great little store/cafe across the street if anyone wants lunch or dinner.\n\nThis dance is supported in part by a grant through the Country Dance and Song Society (CDSS)."
-    links:
       - "https://cdss.org/event/brownsville-english-country-dance-vermont/2024-09-08/"
-    start: "2024-09-08T13:00:00-04:00"
+    start: "2024-09-08T12:45:00-04:00"
     end: "2024-09-08T16:00:00-04:00"
     country: USA
     state: VT
     city: West Windsor
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Carol Compton & Thal Aylward
+    callers:
+      - Jill Delaney
+    price: $12-$20
     organisation: CDSS
   - name: All-Ages Community Barn Dance
     details: "The Fox Valley Folklore Society presents an afternoon of dancing, starting with easy, all-ages material, and progressing to squares and contras, all done to live music."
     links:
+      - "https://fvfs.org/WordPress/events/barn-dance/"
       - "https://cdss.org/event/all-ages-community-barn-dance/2024-09-08/"
     start: "2024-09-08T14:00:00-05:00"
     end: "2024-09-08T17:00:00-05:00"
@@ -21588,4 +21591,9 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Really Cool Hats
+    callers:
+      - Meg Dedolph
+    price: $5-$15
     organisation: CDSS
