@@ -1,21 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Contra Sutra in Englefield Green
-    links:
-      - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
-    start_date: 2024-06-09
-    end_date: 2024-06-09
-    country: UK
-    city: Englefield Green
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Contra Sutra
-    callers:
-      - Victoria Yeomans
-    organisation: Webfeet
   - name: Fiddlechicks in Bristol
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -466,84 +450,6 @@ events:
     bands:
       - Catsfield Steamers
     organisation: Webfeet
-  - name: Sharon Carr in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AH.20240825"
-    start_date: 2024-08-25
-    end_date: 2024-08-25
-    country: UK
-    city: Bristol
-    styles:
-      - irish-set
-    workshop: false
-    social: true
-    bands:
-      - Sharon Carr
-    callers:
-      - Perfect Cure
-    organisation: Webfeet
-  - name: Brian Graham in Pucklechurch
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AB.20240827"
-    start_date: 2024-08-27
-    end_date: 2024-08-27
-    country: UK
-    city: Pucklechurch
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Brian Graham
-    callers:
-      - Alan Holder
-    organisation: Webfeet
-  - name: Cotteswolde Country Dance Band in Wallingford
-    links:
-      - "https://eceilidh.org.uk/cps/gigs/cotteswoldecountrydanceband-878d39.php"
-    start_date: 2024-08-30
-    end_date: 2024-08-30
-    country: UK
-    city: Wallingford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Cotteswolde Country Dance Band
-    callers:
-      - Tina Morris
-    organisation: Webfeet
-  - name: "sessionista in Bath French, Bath"
-    links:
-      - "http://mister.red/dance/bath.htm#D.AM.20240901"
-    start_date: 2024-09-01
-    end_date: 2024-09-01
-    country: UK
-    city: "Bath French, Bath"
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - sessionista
-    organisation: Webfeet
-  - name: Sharon Carr in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AH.20240901"
-    start_date: 2024-09-01
-    end_date: 2024-09-01
-    country: UK
-    city: Bristol
-    styles:
-      - irish-set
-    workshop: false
-    social: true
-    bands:
-      - Sharon Carr
-    callers:
-      - Perfect Cure
-    organisation: Webfeet
   - name: live music in Bath
     links:
       - "http://mister.red/dance/bath.htm#D.AO.20240904"
@@ -666,7 +572,7 @@ events:
     callers:
       - Perfect Cure
     organisation: Webfeet
-  - name: The Linda Game Band in Englefield Green
+  - name: Box of Frogs in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
     start_date: 2024-09-08
@@ -678,7 +584,7 @@ events:
     workshop: false
     social: true
     bands:
-      - The Linda Game Band
+      - Box of Frogs
     callers:
       - Ivan Aitken
     organisation: Webfeet
@@ -881,6 +787,22 @@ events:
     callers:
       - Brian Stanton
     organisation: Webfeet
+  - name: Sharon Carr in Bristol
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AH.20240922"
+    start_date: 2024-09-22
+    end_date: 2024-09-22
+    country: UK
+    city: Bristol
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    bands:
+      - Sharon Carr
+    callers:
+      - Perfect Cure
+    organisation: Webfeet
   - name: Banter in Woodbridge
     details: "[Postponed]"
     links:
@@ -929,7 +851,7 @@ events:
     callers:
       - Jane & Mark Hunter
     organisation: Webfeet
-  - name: Tatterdemalion in Dorchester
+  - name: Dorset Ceilidh & Tatterdemalion in Dorchester
     links:
       - "http://www.sadfolk.co.uk/listings.php"
     start_date: 2024-09-27
@@ -941,6 +863,7 @@ events:
     workshop: false
     social: true
     bands:
+      - Dorset Ceilidh
       - Tatterdemalion
     organisation: Webfeet
   - name: "Dampier's Round in Halsway Manor"
@@ -964,7 +887,7 @@ events:
     organisation: Webfeet
   - name: Bosun Higgs in Cardiff
     links:
-      - "http://mister.red/dance/cardiff.htm#D.AV.20240928"
+      - "http://mister.red/dance/cardiff.htm#D.AU.20240928"
     start_date: 2024-09-28
     end_date: 2024-09-28
     country: UK
@@ -1009,7 +932,7 @@ events:
   - name: Shivelight in Stroud
     links:
       - "https://balfolkstroud.uk/cps/gigs/shivelight-479bca.php"
-      - "http://mister.red/dance/stroud.htm#D.AR.20240928"
+      - "http://mister.red/dance/stroud.htm#D.AQ.20240928"
     start_date: 2024-09-28
     end_date: 2024-09-28
     country: UK
@@ -1020,6 +943,22 @@ events:
     social: true
     bands:
       - Shivelight
+    organisation: Webfeet
+  - name: Sharon Carr in Bristol
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AH.20240929"
+    start_date: 2024-09-29
+    end_date: 2024-09-29
+    country: UK
+    city: Bristol
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    bands:
+      - Sharon Carr
+    callers:
+      - Perfect Cure
     organisation: Webfeet
   - name: Arish Mel in Stoborough
     links:
@@ -1144,6 +1083,22 @@ events:
     social: true
     bands:
       - sessionista
+    organisation: Webfeet
+  - name: Sharon Carr in Bristol
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AH.20241006"
+    start_date: 2024-10-06
+    end_date: 2024-10-06
+    country: UK
+    city: Bristol
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    bands:
+      - Sharon Carr
+    callers:
+      - Perfect Cure
     organisation: Webfeet
   - name: Deo Volente in Pucklechurch
     links:
@@ -1283,6 +1238,38 @@ events:
       - Jigfoot
     callers:
       - Ian Nichols
+    organisation: Webfeet
+  - name: Hot Rats in Hothfield
+    links:
+      - "https://www.efdss.org/calendar-events/14154-cb41f167917ec4b8d870a90c54afef7d"
+    start_date: 2024-10-12
+    end_date: 2024-10-12
+    country: UK
+    city: Hothfield
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Hot Rats
+    callers:
+      - John Sweeney
+    organisation: Webfeet
+  - name: Sharon Carr in Bristol
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AH.20241013"
+    start_date: 2024-10-13
+    end_date: 2024-10-13
+    country: UK
+    city: Bristol
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    bands:
+      - Sharon Carr
+    callers:
+      - Perfect Cure
     organisation: Webfeet
   - name: Old Time Contra Band in Englefield Green
     links:
@@ -1493,7 +1480,7 @@ events:
     organisation: Webfeet
   - name: Steve Turner and Helena Torpy in Stroud
     links:
-      - "http://mister.red/dance/stroud.htm#D.AS.20241026"
+      - "http://mister.red/dance/stroud.htm#D.AR.20241026"
     start_date: 2024-10-26
     end_date: 2024-10-26
     country: UK
@@ -1536,6 +1523,20 @@ events:
       - Jeff and Elaine Plus
     callers:
       - Elaine Gillett
+    organisation: Webfeet
+  - name: "sessionista in Bath French, Bath"
+    links:
+      - "http://mister.red/dance/bath.htm#D.AM.20241103"
+    start_date: 2024-11-03
+    end_date: 2024-11-03
+    country: UK
+    city: "Bath French, Bath"
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - sessionista
     organisation: Webfeet
   - name: Pair of Shears in Pucklechurch
     links:
