@@ -17421,6 +17421,7 @@ events:
   - name: Monday Night Dance
     details: "Contra Dance to live music every Monday in the beautiful, historic Laurel Theater. We have a short newcomer session beginning at 7:00 with the dance beginning at 7:30. \nEveryone is welcome! \n$10 Adults / $5 Students"
     links:
+      - "https://www.knoxvillecontra.org/schedule"
       - "https://cdss.org/event/monday-night-dance/2024-09-09/"
     start: "2024-09-09T19:00:00-04:00"
     end: "2024-09-09T22:30:00-04:00"
@@ -17433,9 +17434,10 @@ events:
     social: true
     price: $5-$10
     organisation: Knoxville Contra Dance
-  - name: "Verona, VA Monday Night Contra Dance"
+  - name: Verona Monday Night Contra Dance
     details: "Join Shenandoah Valley Contra Dance at the Verona Community Center for our monthly Monday Night Contra. No experience necessary – we’ll teach you everything you need to know – and you don’t need to bring a partner (but if you want to bring a crew of people – the more the merrier!). \nA brief beginner workshop will be held at 6:45 pm and then we’ll dance from 7 pm to 9 pm. Please check our website and/or Facebook for more details about each month’s dance. \nTo protect the floor at VCC, please wear soft-soled, clean, and comfortable shoes. \nAdmission: Pay-what-you-will (we recommend ~$10 to help pay for the room rental and to compensate our band and caller for their time and skill) \nThis is a mask-optional event. There are no vaccination requirements. As always, for the health and safety of the community, please stay home if you are displaying any symptoms of illness or have been recently exposed to someone who tested positive for an infectious disease."
     links:
+      - "https://shenandoahvalleycontradance.weebly.com/monday-night-contra.html"
       - "https://cdss.org/event/verona-va-monday-night-contra-dance/2024-09-09/"
     start: "2024-09-09T19:00:00-04:00"
     end: "2024-09-09T21:00:00-04:00"
@@ -17749,6 +17751,7 @@ events:
   - name: Cleveland Second Friday English Country Dance
     details: "Come join us at our monthly Second Friday English Country Dance.  \nLive music by Toad in the Hole. Callers: Carol Kopp, Steve Otlowski, & Elizabeth Estep \nWood Floor. \nSuggested Donation $10 (Pay what you can)"
     links:
+      - "https://englishcountryorg.wordpress.com/"
       - "https://cdss.org/event/cleveland-second-friday-english-country-dance/2024-09-13/"
     start: "2024-09-13T19:30:00-04:00"
     end: "2024-09-13T22:30:00-04:00"
@@ -17759,8 +17762,12 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Toad in the Hole
     callers:
       - Carol Kopp
+      - Elizabeth Estep
+      - Steve Otlowski
     price: $10
     organisation: English Country Dance Cleveland
   - name: ContraATL Weekly Dance
