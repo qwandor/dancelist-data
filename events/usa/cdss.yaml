@@ -21577,9 +21577,10 @@ events:
       - Jill Delaney
     price: $12-$20
     organisation: CDSS
-  - name: Concord NH English Country Dance
+  - name: Concord English Country Dance
     details: "New Hampshire English Country Dance Society’s 1st Sunday dance series resumes on the 2nd Sunday of September (September 8) to avoid Labor Day weekend. Live music with Ishmael Stefanov-Wagner and Jean Monroe. Dave Bateman calling. There will be a short class on the basics at 2:30 then dancing from 3 to 6 PM at the Howard Recreation Center on the grounds of the State Office Park Pleasant St Concord NH. Directions on the web page.  \nFacebook group NHECDS \nEmail NHECDS@comcast.net"
     links:
+      - "https://manylives-oneworld.com/dave-bateman/nhecds/"
       - "https://cdss.org/event/concord-nh-english-country-dance/"
     start: "2024-09-08T14:30:00-04:00"
     end: "2024-09-08T18:00:00-04:00"
@@ -21588,8 +21589,13 @@ events:
     city: Concord
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Ishmael Stefanov-Wagner & Jean Monroe
+    callers:
+      - Dave Bateman
+    price: $10
     organisation: Dave Bateman
   - name: English Country Dance Atlanta
     details: "2nd, 4th, and 5th Sunday afternoons \nLaura Hudlow & Merriment\nShawn Pagliarini (fiddle), Steven Carlberg (piano) \n$9, cash or check"
@@ -21645,10 +21651,12 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: Louisville English Country Dancers
   - name: English Country Dance - Outdoors
     details: "Dance outdoors in a lovely town park (with a view of Mount Mansfield). We dance to (mostly acoustic) music in a roofed, open-sided pavilion. All dances are taught and walked through. Basics/review session at 3:30pm; dancing to live music starts 4pm. Newcomers welcome. The ability to walk briskly is required. BYO filled water bottle (there is no water source on-site). Wear sturdy/cushioned shoes for the smooth concrete floor. After the dance, join us for an on-site picnic (BYO food and drink). Portalets are in the parking lot (about a 5-minute walk from the dance pavilion). \nThis afternoon, our band is Will Patton (tenor guitar), Susan Reid (violin), Linda Young (harp), with local caller(s) TBA (Barrett Grimm, Martha Kent, Val Medve). Additional summer Sundays, with different bands: July 21, August 25, September 8. Masks are optional. \n$10-$15 sliding scale."
     links:
+      - "http://burlingtoncountrydancers.org/dance/english-country-dance-outdoors-jericho-vt-14/"
       - "https://cdss.org/event/english-country-dance-outdoors-5/"
     start: "2024-09-08T15:30:00-04:00"
     end: "2024-09-08T18:00:00-04:00"
@@ -21662,7 +21670,6 @@ events:
     callers:
       - Barrett Grimm
       - Martha Kent
-      - Val Medve
     price: $10-$15
     organisation: Burlington Country Dancers
   - name: English Country Dance
@@ -21670,7 +21677,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance-2/2024-09-08/"
-    start: "2024-09-08T16:00:00-04:00"
+    start: "2024-09-08T15:30:00-04:00"
     end: "2024-09-08T18:15:00-04:00"
     country: USA
     state: NC
@@ -21694,10 +21701,13 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15-$20
     organisation: CDSS
   - name: Common Floor Contra Dance
     details: "Contra dancing in Portland, ME every second Sunday. For details, visit our website. \n$15 suggested donation."
     links:
+      - "https://www.commonfloorcontra.dance/"
+      - "https://www.facebook.com/events/851204183330105/"
       - "https://cdss.org/event/common-floor-contra-dance/2024-09-08/"
     start: "2024-09-08T19:00:00-04:00"
     end: "2024-09-08T22:00:00-04:00"
@@ -21706,8 +21716,12 @@ events:
     city: Portland
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Crossover Trio
+    callers:
+      - Penelope Weinberger
     price: $15
     organisation: Common Floor Contra Dance
   - name: Contra Dance in St Louis
@@ -21715,21 +21729,22 @@ events:
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2024-09-08/"
-    start: "2024-09-08T19:00:00-05:00"
+    start: "2024-09-08T18:30:00-05:00"
     end: "2024-09-08T21:30:00-05:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
     links:
       - "https://cdss.org/event/gainesville-florida-english-country-dance/2024-09-09/"
-    start: "2024-09-09T18:30:00-04:00"
+    start: "2024-09-09T18:10:00-04:00"
     end: "2024-09-09T20:30:00-04:00"
     country: USA
     state: FL
@@ -21740,7 +21755,7 @@ events:
     social: true
     bands:
       - Hoggetowne Fancy
-    price: $5
+    price: $10
     organisation: Gainesville English Country Dance
   - name: Monday Night Dance
     details: "Contra Dance to live music every Monday in the beautiful, historic Laurel Theater. We have a short newcomer session beginning at 7:00 with the dance beginning at 7:30. \nEveryone is welcome! \n$10 Adults / $5 Students"
@@ -21755,13 +21770,18 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Spring Lizard
+    callers:
+      - Earl McGill
     price: $5-$10
     organisation: Knoxville Contra Dance
-  - name: "Verona, VA Monday Night Contra Dance"
+  - name: Verona Monday Night Contra Dance
     details: "Join Shenandoah Valley Contra Dance at the Verona Community Center for our monthly Monday Night Contra. No experience necessary – we’ll teach you everything you need to know – and you don’t need to bring a partner (but if you want to bring a crew of people – the more the merrier!). \nA brief beginner workshop will be held at 6:45 pm and then we’ll dance from 7 pm to 9 pm. Please check our website and/or Facebook for more details about each month’s dance. \nTo protect the floor at VCC, please wear soft-soled, clean, and comfortable shoes. \nAdmission: Pay-what-you-will (we recommend ~$10 to help pay for the room rental and to compensate our band and caller for their time and skill) \nThis is a mask-optional event. There are no vaccination requirements. As always, for the health and safety of the community, please stay home if you are displaying any symptoms of illness or have been recently exposed to someone who tested positive for an infectious disease."
     links:
+      - "https://shenandoahvalleycontradance.weebly.com/monday-night-contra.html"
       - "https://cdss.org/event/verona-va-monday-night-contra-dance/2024-09-09/"
-    start: "2024-09-09T19:00:00-04:00"
+    start: "2024-09-09T18:45:00-04:00"
     end: "2024-09-09T21:00:00-04:00"
     country: USA
     state: VA
@@ -21770,11 +21790,16 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Afton Crossing
+    callers:
+      - Caroline Barnes
     price: $10
     organisation: Shenandoah Valley Contra Dance
   - name: Monday Contra Dance
     details: "What better way to start the week? Only $5! It’s Monday, and we (almost) always dance on Monday."
     links:
+      - "https://www.monadnockfolk.org/event/monday-night-dance-6-2/"
       - "https://cdss.org/event/monday-contra-dance-in-nelson-nh/2024-09-09/"
     start: "2024-09-09T19:30:00-04:00"
     end: "2024-09-09T22:00:00-04:00"
@@ -21787,6 +21812,7 @@ events:
     social: true
     price: $5
     organisation: Monadnock Folklore Society
+    cancelled: true
   - name: Monday Evening English Country Dance
     details: "All are welcome to join us for an evening of English country dance with live music. All dances talked and walked through. Easy parking, air conditioning, and fans. Snacks are encouraged for the break! Please register online at our website."
     links:
@@ -21801,6 +21827,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10-$15
     organisation: CDSS
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are required for dancing.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
@@ -21821,6 +21848,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly
   - name: Tuesday English Country Dance
     details: "We dance to live music from our wonderful local musicians. All dances taught and prompted. Wear comfortable clothes and bring flat, non-slippy shoes to change into. Pay what you can; $8 donation helps cover the hall, band, and callers. Masks are welcome at the dance."
@@ -21843,7 +21871,7 @@ events:
     links:
       - "https://www.shedances.org/"
       - "https://cdss.org/event/saint-louis-queer-contra/2024-09-10/"
-    start: "2024-09-10T19:00:00-05:00"
+    start: "2024-09-10T18:45:00-05:00"
     end: "2024-09-10T21:00:00-05:00"
     country: USA
     state: MO
@@ -21852,6 +21880,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $10
     organisation: SheDances
   - name: Williamsburg Tuesday Night English Dance
     details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
@@ -21873,7 +21902,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/english-country-dance-asheville-nc-3/2024-09-11/"
-    start: "2024-09-11T19:00:00-04:00"
+    start: "2024-09-11T18:40:00-04:00"
     end: "2024-09-11T21:00:00-04:00"
     country: USA
     state: NC
@@ -21933,8 +21962,9 @@ events:
   - name: FSGW English Country Dance
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
+      - "https://fsgw.org/event-5840084"
       - "https://cdss.org/event/fsgw-english-country-dance/2024-09-11/"
-    start: "2024-09-11T20:00:00-04:00"
+    start: "2024-09-11T19:30:00-04:00"
     end: "2024-09-11T22:30:00-04:00"
     country: USA
     state: MD
@@ -21943,6 +21973,8 @@ events:
       - ecd
     workshop: true
     social: true
+    callers:
+      - Dan Gillespie
     price: $8-$17
     organisation: Folklore Society of Greater Washington
   - name: Cleveland Thursday English Country Dance
@@ -21959,6 +21991,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $3
     organisation: Cleveland English Dance Community
   - name: Lake City Contra Dance
     details: "Thursday nights; doors open at 7 pm \nDances: intro/refresher workshop 7:15 pm, dancing 7:30 till 10:00 pm \nAdmission on a sliding scale $10 – 20 – pay what you can \nThe hall is well-ventilated and air-conditioned! \nFor more information call 206-525-0932, or send us email."
@@ -21974,7 +22007,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: Thursday Contra Dance
     details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing \n$5 to $20 sliding scale \nOur role terms are Larks and Robins \nMasks are required on the 1st, 3rd and 5th Thursdays."
@@ -21995,45 +22028,38 @@ events:
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-221/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-09-12/"
-    start: "2024-09-12T19:30:00-04:00"
+    start: "2024-09-12T18:00:00-04:00"
     end: "2024-09-12T22:30:00-04:00"
     country: USA
     state: NY
     city: Rochester
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Esteemed Clams
+    callers:
+      - Margaret Mathews
+    price: $5-$12
     organisation: Country Dancers of Rochester
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley English Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://www.bacds.org/series/english/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-09-12/"
-    start: "2024-09-12T20:00:00-07:00"
-    end: "2024-09-12T22:30:00-07:00"
+    start: "2024-09-12T19:15:00-07:00"
+    end: "2024-09-12T22:00:00-07:00"
     country: USA
     state: CA
     city: Berkeley
     styles:
-      - contra
       - ecd
     workshop: true
     social: true
-    organisation: CDSS
-  - name: Pennsylvania Folk Gathering
-    details: "Join us at Camp Blue Diamond in Petersburg, PA from September 13-15 for the Pennsylvania Folk Gathering. Come spend a weekend in a gorgeous wilderness setting where new, aspiring, and experienced musicians, dancers, and singers alike can gain skills, attend concerts, and play together. Registration and additional information can be found on our website."
-    links:
-      - "https://cdss.org/event/pennsylvania-folk-gathering/"
-    start: "2024-09-13T15:00:00-04:00"
-    end: "2024-09-15T15:00:00-04:00"
-    country: USA
-    state: PA
-    city: Petersburg
-    styles:
-      - contra
-    workshop: false
-    social: true
+    price: $6-$25
     organisation: CDSS
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
@@ -22054,25 +22080,12 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly
-  - name: Second Friday Bread & Roses Fusion Dance at Guiding Star Grange
-    details: "Bread & Roses is a monthly fusion dance committed to collective liberation and interdependence. Please read our Statement of Values and Code of Conduct before attending. \nPlease check the Guiding Star Grange website for details. \nSchedule: Please arrive by 7:00. \nCost: $5-20 sliding scale \nSee venue website for this month’s details and Covid policy."
-    links:
-      - "https://cdss.org/event/second-friday-bread-roses-fusion-dance-at-guiding-star-grange/2024-09-13/"
-    start: "2024-09-13T19:00:00-04:00"
-    end: "2024-09-13T22:00:00-04:00"
-    country: USA
-    state: MA
-    city: Greenfield
-    styles:
-      - contra
-    workshop: false
-    social: true
-    price: $5
-    organisation: Bread & Roses
   - name: Cleveland Second Friday English Country Dance
     details: "Come join us at our monthly Second Friday English Country Dance.  \nLive music by Toad in the Hole. Callers: Carol Kopp, Steve Otlowski, & Elizabeth Estep \nWood Floor. \nSuggested Donation $10 (Pay what you can)"
     links:
+      - "https://englishcountryorg.wordpress.com/"
       - "https://cdss.org/event/cleveland-second-friday-english-country-dance/2024-09-13/"
     start: "2024-09-13T19:30:00-04:00"
     end: "2024-09-13T22:30:00-04:00"
@@ -22083,8 +22096,12 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Toad in the Hole
     callers:
       - Carol Kopp
+      - Elizabeth Estep
+      - Steve Otlowski
     price: $10
     organisation: English Country Dance Cleveland
   - name: ContraATL Weekly Dance
@@ -22102,9 +22119,10 @@ events:
     workshop: true
     social: true
     organisation: ContraATL
-  - name: Dover 2nd Friday New England Traditional Dance
+  - name: Dover New England Traditional Dance
     details: "A mix of contras, couple dances, triplets and square dances to live music. At least one “chestnut” is done each month. \nNo experience nor partner necessary. Dances are taught before the music and prompted while dancing. The experienced dancers are happy to help the new dancers because they are the future. \nAlthough you may choose your role, the traditional terms ladies and gents will be used. Updated vaccinations are strongly encouraged; masks are welcome but not required. \n$10; students $5"
     links:
+      - "https://manylives-oneworld.com/dave-bateman/dover-dance/"
       - "https://cdss.org/event/dover-nh-2nd-friday-new-england-traditional-dance/2024-09-13/"
     start: "2024-09-13T19:30:00-04:00"
     end: "2024-09-13T22:30:00-04:00"
@@ -22115,6 +22133,8 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Treble Play
     price: $5-$10
     organisation: Dave Bateman
   - name: Denver Contra Dance
@@ -22122,7 +22142,7 @@ events:
     links:
       - "https://www.cfootmad.org/"
       - "https://cdss.org/event/denver-contra-dance/2024-09-13/"
-    start: "2024-09-13T19:30:00-06:00"
+    start: "2024-09-13T19:00:00-06:00"
     end: "2024-09-13T22:30:00-06:00"
     country: USA
     state: CO
@@ -22131,13 +22151,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $8-$15
     organisation: Colorado Friends of Old Time Music and Dance
   - name: Monrovia English Country Dance
     details: "Please join us for English Country Dancing on the 2nd and 4th Friday of every month from 7:30-10pm in the Guildhall of St Luke’s Episcopal Church. $5 admission (cash only). Beginners welcome! All dances are taught, walked through and called. No partner or costume required; just bring comfortable closed-toed shoes and a water bottle. We’re friendly, laid-back, and welcoming!"
     links:
       - "https://monroviaecd.org/"
       - "https://cdss.org/event/monrovia-english-country-dance/2024-09-13/"
-    start: "2024-09-13T19:30:00-07:00"
+    start: "2024-09-13T19:15:00-07:00"
     end: "2024-09-13T22:00:00-07:00"
     country: USA
     state: CA
@@ -22151,6 +22172,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5907"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2024-09-13/"
     start: "2024-09-13T19:30:00-07:00"
     end: "2024-09-13T22:30:00-07:00"
