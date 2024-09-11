@@ -11728,8 +11728,8 @@ events:
     social: true
     bands:
       - Trio Loubelya
-      - Feather And The Fox
-    price: €7-€15
+      - Feather and Fox
+    price: €8-€16
     organisation: "Rif Zans L'Fiesse"
   - name: Bal Folk RZF
     details: Ball
@@ -16328,22 +16328,6 @@ events:
       - Duo De Schepper-Sanczuk
     price: €16-€18
     organisation: CaBal
-  - name: Open Day
-    details: Ball
-    links:
-      - "http://eledanse.be/event/portes-ouvertes-bal-folk-avec-les-kickeuses/"
-      - "https://folkbalbende.be/event/2379"
-    start: "2024-09-17T19:00:00+02:00"
-    end: "2024-09-17T22:00:00+02:00"
-    country: Belgium
-    city: Gerpinnes
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Les Kickeuses
-    organisation: EléDanse ASBL
   - name: CaBal
     details: Ball
     links:
@@ -16806,7 +16790,7 @@ events:
     workshop: true
     social: false
     organisation: Academie Schoten
-  - name: Folkbal
+  - name: Open Day
     details: Ball
     links:
       - "https://eledanse.be/event/portes-ouvertes-bal-kickeuses/"
@@ -16817,14 +16801,16 @@ events:
     city: Genval
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Les Kickeuses
+    price: €10
     organisation: EléDanse ASBL
   - name: Folkbal
     details: Ball
     links:
+      - "https://www.rzf.be/en_US/event/bal-folk-avec-shillelagh-2025-01-11-70/register"
       - "https://folkbalbende.be/event/2413"
     start: "2025-01-11T19:30:00+01:00"
     end: "2025-01-12T00:00:00+01:00"
@@ -16837,4 +16823,5 @@ events:
     bands:
       - Shillelagh
       - Duo Macke-Bornauw
+    price: €8-€16
     organisation: ~
