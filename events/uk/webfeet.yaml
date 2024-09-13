@@ -1,21 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Fiddlechicks in Bristol
-    links:
-      - "https://bristolcontra.wordpress.com/"
-    start_date: 2024-06-20
-    end_date: 2024-06-20
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Fiddlechicks
-    callers:
-      - Louise Siddons
-    organisation: Webfeet
   - name: Topette in London
     links:
       - "https://www.bandsintown.com/e/1031454063-topette-at-cecil-sharp-house"
@@ -512,22 +496,6 @@ events:
     callers:
       - Sue and Ellie
     organisation: Webfeet
-  - name: "Buffalo Gals & Granny's Attic & Hot Rats in Swanage"
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2024-09-06
-    end_date: 2024-09-06
-    country: UK
-    city: Swanage
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Buffalo Gals
-      - "Granny's Attic"
-      - Hot Rats
-    organisation: Webfeet
   - name: Catsfield Steamers in Boreham Street
     links:
       - "http://catsfieldsteamers.co.uk/index.php/bookings/"
@@ -541,20 +509,6 @@ events:
     social: true
     bands:
       - Catsfield Steamers
-    organisation: Webfeet
-  - name: Banter in Bromyard
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2024-09-07
-    end_date: 2024-09-08
-    country: UK
-    city: Bromyard
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
     organisation: Webfeet
   - name: Sharon Carr in Bristol
     links:
@@ -851,7 +805,7 @@ events:
     callers:
       - Jane & Mark Hunter
     organisation: Webfeet
-  - name: Dorset Ceilidh & Tatterdemalion in Dorchester
+  - name: Tatterdemalion in Dorchester
     links:
       - "http://www.sadfolk.co.uk/listings.php"
     start_date: 2024-09-27
@@ -863,7 +817,6 @@ events:
     workshop: false
     social: true
     bands:
-      - Dorset Ceilidh
       - Tatterdemalion
     organisation: Webfeet
   - name: "Dampier's Round in Halsway Manor"
@@ -1361,6 +1314,20 @@ events:
     bands:
       - sessionista
     organisation: Webfeet
+  - name: Xogara in Oxford
+    links:
+      - "https://www.bandsintown.com/e/1032955126-xogara-at-isis-farmhouse"
+    start_date: 2024-10-20
+    end_date: 2024-10-20
+    country: UK
+    city: Oxford
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Xogara
+    organisation: Webfeet
   - name: "Mark & Norma in Whimple Irish Set, Whimple"
     links:
       - "http://mister.red/dance/whimple.htm#D.AG.20241020"
@@ -1418,6 +1385,22 @@ events:
     social: true
     bands:
       - "Blackbeard's Tea Party"
+    organisation: Webfeet
+  - name: Nozzy in Bristol
+    links:
+      - "https://bristolcontra.wordpress.com/"
+    start_date: 2024-10-25
+    end_date: 2024-10-25
+    country: UK
+    city: Bristol
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Nozzy
+    callers:
+      - Mark Elvins
     organisation: Webfeet
   - name: "Blackbeard's Tea Party in Penzance"
     links:
@@ -1733,6 +1716,20 @@ events:
       - Juice
     callers:
       - Ned Clamp
+    organisation: Webfeet
+  - name: Trip Hazard in Bristol
+    links:
+      - "https://bristolcontra.wordpress.com/"
+    start_date: 2024-11-22
+    end_date: 2024-11-22
+    country: UK
+    city: Bristol
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Trip Hazard
     organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
@@ -2099,6 +2096,22 @@ events:
     callers:
       - Rhi Davies
     organisation: Webfeet
+  - name: Chaotic Good in Bristol
+    links:
+      - "https://bristolcontra.wordpress.com/"
+    start_date: 2025-01-24
+    end_date: 2025-01-24
+    country: UK
+    city: Bristol
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Chaotic Good
+    callers:
+      - Daisy Black
+    organisation: Webfeet
   - name: Dartmoor Pixies in Exeter
     links:
       - "http://mister.red/dance/exeter.htm#D.YF.20250125"
@@ -2252,6 +2265,20 @@ events:
     callers:
       - Barry Goodman
     organisation: Webfeet
+  - name: Contrary Faeries in Bristol
+    links:
+      - "https://bristolcontra.wordpress.com/"
+    start_date: 2025-03-28
+    end_date: 2025-03-28
+    country: UK
+    city: Bristol
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Contrary Faeries
+    organisation: Webfeet
   - name: Amber Fire in Exeter
     links:
       - "http://mister.red/dance/exeter.htm#D.YH.20250329"
@@ -2340,6 +2367,22 @@ events:
     callers:
       - Jane Bird
     organisation: Webfeet
+  - name: Box of Frogs in Bristol
+    links:
+      - "https://bristolcontra.wordpress.com/"
+    start_date: 2025-05-16
+    end_date: 2025-05-16
+    country: UK
+    city: Bristol
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Box of Frogs
+    callers:
+      - Charlie Turner
+    organisation: Webfeet
   - name: Skermish in Exeter
     links:
       - "http://mister.red/dance/exeter.htm#D.YJ.20250531"
@@ -2382,6 +2425,22 @@ events:
     social: true
     bands:
       - Portland Duo
+    organisation: Webfeet
+  - name: Fiddlechicks in Bristol
+    links:
+      - "https://bristolcontra.wordpress.com/"
+    start_date: 2025-06-20
+    end_date: 2025-06-20
+    country: UK
+    city: Bristol
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Fiddlechicks
+    callers:
+      - Louise Siddons
     organisation: Webfeet
   - name: Crowdy Kit in Exeter
     links:
