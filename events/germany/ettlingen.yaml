@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Ettlinger Folknacht
+    links:
+      - "https://www.facebook.com/events/1045585553794744/"
+      - "https://ettlingen.reservix.de/tickets-15-ettlinger-folknacht-2024-in-ettlingen-stadthalle-ettlingen-am-9-11-2024/e2268388"
+    start: "2024-11-09T14:00:00+01:00"
+    end: "2024-11-09T23:00:00+01:00"
+    country: Germany
+    city: Ettlingen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Fior
+      - Síolta
+      - Hidrae
+    price: €12-€24
+    organisation: Ettlingen.de
