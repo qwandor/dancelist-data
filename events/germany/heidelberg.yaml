@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfolk
+    links:
+      - "https://www.facebook.com/events/1612514042974373/"
+    start: "2024-10-02T20:00:00+02:00"
+    end: "2024-10-02T22:00:00+02:00"
+    country: Germany
+    city: Heidelberg
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Oraj
+    organisation: Collegium Academicum
