@@ -1,5 +1,21 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
+  - name: Bal Folk mit Snaarmaarwaar
+    links:
+      - "https://eveeno.com/snaarmaarwaar_2022-06-10"
+      - "https://www.facebook.com/events/509562887277699"
+    start: "2022-06-10T20:00:00+02:00"
+    end: "2022-06-10T23:00:00+02:00"
+    country: Germany
+    city: Erlangen
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Snaarmaarwaar
+    price: €15-€18
+    organisation: Kulturverein Erlangen
   - name: Dañserlà 2022
     links:
       - "https://eveeno.com/danserla2022"
@@ -8,7 +24,8 @@ events:
     end_date: 2022-07-03
     country: Germany
     city: Erlangen
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -27,32 +44,16 @@ events:
       - N.N.
     price: €35-€99
     organisation: Kulturverein Erlangen
-
-  - name: Bal Folk mit Snaarmaarwaar
-    links:
-      - "https://eveeno.com/snaarmaarwaar_2022-06-10"
-      - "https://www.facebook.com/events/509562887277699"
-    start: 2022-06-10T20:00:00+02:00
-    end: 2022-06-10T23:00:00+02:00
-    country: Germany
-    city: Erlangen
-    styles: [balfolk]
-    workshop: false
-    social: true
-    bands:
-      - Snaarmaarwaar
-    price: €15-€18
-    organisation: Kulturverein Erlangen
-
   - name: 5. Erlanger Bal Folk Festival 2023
     links:
       - "https://erlanger-tanzhaus.de/veranstaltung/5-erlanger-bal-folk-festival-2023-2023-04-28/"
       - "https://www.facebook.com/events/714100273397110"
-    start: 2023-04-28T20:00:00+02:00
-    end: 2023-05-01T13:00:00+02:00
+    start: "2023-04-28T20:00:00+02:00"
+    end: "2023-05-01T13:00:00+02:00"
     country: Germany
     city: Erlangen
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     bands:
@@ -65,15 +66,15 @@ events:
       - Havok
     price: €10-€67
     organisation: Erlanger Tanzhaus eV
-
   - name: Dañserlà 2023
     links:
       - "https://eveeno.com/danserla2023"
-    start: 2023-06-29T15:00:00+02:00
-    end: 2023-07-02T16:00:00+02:00
+    start: "2023-06-29T15:00:00+02:00"
+    end: "2023-07-02T16:00:00+02:00"
     country: Germany
     city: Erlangen
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -92,7 +93,6 @@ events:
       - Alfelder Musikanten
     price: €35-€150
     organisation: Kulturverein Erlangen
-
   - name: Bal Folk
     details: "in der ESG, Bismarkstr. 46, 91054 Erlangen"
     links:
@@ -109,16 +109,16 @@ events:
       - Hartwin Dhoore
     price: €15
     organisation: Kulturverein Erlangen
-
   - name: Dañserlà 2024
     links:
       - "https://eveeno.com/danserla2024"
       - "https://www.facebook.com/events/1492820104633496/"
-    start: 2024-06-27T16:00:00+02:00
-    end: 2024-06-30T16:00:00+02:00
+    start: "2024-06-27T16:00:00+02:00"
+    end: "2024-06-30T16:00:00+02:00"
     country: Germany
     city: Erlangen
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -132,4 +132,16 @@ events:
       - Cam&Léo
       - B-Key
       - Valsaviris
+    organisation: Kulturverein Erlangen
+  - name: Dañserlà
+    links:
+      - "https://eveeno.com/danserla2024?lang=en"
+    start: "2025-06-27T16:00:00+02:00"
+    end: "2025-06-30T16:00:00+02:00"
+    country: Germany
+    city: Erlangen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
     organisation: Kulturverein Erlangen
