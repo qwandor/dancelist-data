@@ -38,12 +38,14 @@ jobs:
         run: dancelist import ceilidh-club events/uk/ceilidh_club.yaml
       - name: Import bristol-contra
         run: dancelist import bristol-contra events/uk/bristol_contra.yaml
-      - name: Import lancaster-contra
-        run: dancelist import lancaster-contra events/uk/lancaster.yaml
       - name: Import boulder
         run: dancelist import boulder events/usa/boulder.yaml
       - name: Import kalender
         run: dancelist import kalender events/germany/kalender.yaml
+      - name: Import lancaster-contra
+        run: dancelist import lancaster-contra events/uk/lancaster.yaml
+      - name: Import marburg
+        run: dancelist import marmurg events/germany/marburg.yaml
       - name: Commit if changed
         run: |
           git add events
