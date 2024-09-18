@@ -45,7 +45,7 @@ jobs:
       - name: Import lancaster-contra
         run: dancelist import lancaster-contra events/uk/lancaster.yaml
       - name: Import marburg
-        run: dancelist import marmurg events/germany/marburg.yaml
+        run: dancelist import marburg events/germany/marburg.yaml
       - name: Commit if changed
         run: |
           git add events
