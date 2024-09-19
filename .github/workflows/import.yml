@@ -32,6 +32,8 @@ jobs:
         run: dancelist import balfolknl events/netherlands/balfolk_nl.yaml
       - name: Import cdss
         run: dancelist import cdss events/usa/cdss.yaml
+      - name: Import dresden
+        run: dancelist import dresden events/germany/dresden.yaml
       - name: Import spreefolk
         run: dancelist import spreefolk events/germany/spreefolk.yaml
       - name: Import ceilidh-club
