@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal and workshop with Confluence
+    details: "A bal and workshop at Forest Arts Centre, New Milton, Hampshire (New Forest)"
+    links:
+      - "https://www.forest-arts.co.uk/event/confluence-euro-dance-workshop-dance"
+      - "https://www.facebook.com/events/381977628072626"
+    start: "2024-09-28T13:00:00+01:00"
+    end: "2024-09-28T16:45:00+01:00"
+    country: UK
+    city: Bournemouth
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Confluence
+    price: "12"
+    organisation: Forest Arts
