@@ -23262,6 +23262,7 @@ events:
   - name: Blacksburg Contra Dance
     details: "In the heart of the New River Valley, join us for a local Contra Dance! Every 3rd Saturday (note change in Nov and Dec) at the YMCA."
     links:
+      - "https://blacksburgcontradance.com/contradance.html"
       - "https://cdss.org/event/blacksburg-contra-dance/2024-09-21/"
     start: "2024-09-21T19:00:00-04:00"
     end: "2024-09-21T22:30:00-04:00"
@@ -23270,8 +23271,13 @@ events:
     city: Blacksburg
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Friends of Virgil
+    callers:
+      - Joe Wilkie
+    price: $10-$12
     organisation: Blacksburg Contra Dance
   - name: South Florida Contradance
     details: "Enjoying contra dance\nYou’ll be smiling and laughing.\nNo partner is necessary. Lesson at the beginning. Wear casual clothes and soft soled shoes.\nAge range 10-100\nDances are called.\nPut the phone down and destress your life."
@@ -23289,9 +23295,10 @@ events:
     social: true
     price: $5-$10
     organisation: CDSS
-  - name: "Swingin' Tern presents Carl Levine & French Toast"
+  - name: "Swingin' Tern"
     details: "[Beginners’ Workshop 7pm]\nCarl Levine & French Toast\nHelen White—flute; Anna Bosnick—fiddle; Robin Russell—keyboard \nAdmission $15 [students $5] \nJoin the Breakfast Club as French Toast serves up hotcake licks they syruptitiously poached from the sunny side of life. Levine will leaven your dough to raise your spirits. Together they whip up enough eggstatic energy to keep the home fries burning. Dress lightly or you’ll be bacon. No yolk, you ain’t seen muffin yet—it doesn’t get butter than this. Don’t waffle on this one, or you’ll be burnt toast. Hakuna Frittata! \nCarl Levine\nCarl Levine has been a familiar face on the dance floor and on the stage. He has been dancing, organizing, and calling traditional dance for thirty years. His teaching is clear and concise, and his programming is lively and interesting. \nYouTube Video \nFrench Toast\nFrench Toast is inspired by the gripping harmonies, driving rhythms and melodic whimsy of French Canadian music. In addition to Québécois tunes, their contra sets serve up jazzy rags, mesmerizing riffs & jaunty jigs—all great for dancing! French Toast features Helen White on flute, Anna Bosnick on fiddle, and Cynthia Shaw on keyboard. \nEven more information for this dance.\nOur full calendar \nUseful Information:\n\nNewcomers are welcome to come at 7pm for an introductory lesson on the basics of contra dancing. No partner is necessary. All dances are taught with a “walk-through” by the caller.\nWe no longer require vaccination. Masks are optional.\nAll dances at Swingin’ Tern are called to the gender-neutral terms Larks & Robins. Dance whatever role you’re comfortable in.\nWe are air-conditioned. We have windows on three sides when we want to let the breeze come in.\nOur dance is two blocks from the Chatham station on the Morris/Essex line out of Penn Station, NYC.\nWe welcome contributions of home-baked [or not] goodies to share at the break.\nPlease bring your own water bottle. Water bottles may be filled at the kitchen sink.\nWear comfortable clothing. Contra dancing is aerobic. We prefer you carry in your shoes.\nWe are a friendly, inclusive group. Pack plenty of smiles!"
     links:
+      - "https://folkproject.org/swingin-tern/"
       - "https://cdss.org/event/swingin-tern-presents-carl-levine-french-toast/"
     start: "2024-09-21T19:00:00-04:00"
     end: "2024-09-21T22:30:00-04:00"
@@ -23356,7 +23363,7 @@ events:
     social: true
     bands:
       - The Moving Violations
-    price: $8-$12
+    price: $8-$20
     organisation: Van Kaynor
   - name: 3rd Saturday Contra Dance
     details: "Every 3rd Saturday from September through May. See our website for this month’s band and caller. \nWe use gender neutral role terms at all dances. \nProud Associate member of PATMAD and CDSS. \n$5 to $20, sliding scale."
@@ -23388,6 +23395,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Friends of Traditional Dance Contra
     details: "Contra Dance every 1st and 3rd Saturday \nWe dance at the fabulous Masonic Ballroom, with its gorgeous sprung wood dance floor."
