@@ -19397,6 +19397,8 @@ events:
     social: true
     bands:
       - Ragged Robin
+    callers:
+      - Karen Jackson
     organisation: Childgrove Country Dancers
   - name: Monrovia English Country Dance
     details: "Please join us for English Country Dancing on the 2nd and 4th Friday of every month from 7:30-10pm in the Guildhall of St Luke’s Episcopal Church. $5 admission (cash only). Beginners welcome! All dances are taught, walked through and called. No partner or costume required; just bring comfortable closed-toed shoes and a water bottle. We’re friendly, laid-back, and welcoming!"
@@ -19442,6 +19444,8 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Triptych
     callers:
       - David Millstone
       - Val Medve
@@ -19457,8 +19461,12 @@ events:
     city: Batesburg-Leesville
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Chris Liakos & John Wetzel
+    callers:
+      - Stephanie Marie
     price: $10
     organisation: Columbia Traditional Music and Dance
   - name: NACDS Contra Dance
@@ -19492,6 +19500,99 @@ events:
     social: true
     price: $5-$10
     organisation: Lisa Lowell
+  - name: CDK Contra & Square Dance
+    details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \n4th Saturday Schedule: \n\nFebruary 24: Contra & Squares with Hawks and Owls String Band, calls by Karin Neils & Friends \nMarch 23: Contra & Squares with Soltre, calls by Mike Clark\nJune 22: Contra & Squares – ADVANCED Dance  Brook Farm, calls by Laurie Pietravalle\n\nSuggested donation $5-$20"
+    links:
+      - "https://www.countrydancinginkalamazoo.com/"
+      - "https://cdss.org/event/cdk-contra-square-dance/2024-09-28/"
+    start: "2024-09-28T19:00:00-04:00"
+    end: "2024-09-28T22:30:00-04:00"
+    country: USA
+    state: MI
+    city: Kalamazoo
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$20
+    organisation: CDSS
+  - name: Mendocino English Country Dance
+    details: "Fourth Saturday of every month (check our calendar for occasional date changes). \nLive music with Take a Dance, the Mendocino English Country Dance Orchestra. \nDances taught and prompted by alternating local and guest callers.  \nFun and friendly dancers welcome newcomers in an inclusive and enjoyable environment. Everyone gets to dance!"
+    links:
+      - "https://cdss.org/event/mendocino-english-country-dance/2024-09-28/"
+    start: "2024-09-28T19:30:00-04:00"
+    end: "2024-09-28T22:00:00-04:00"
+    country: USA
+    state: CA
+    city: Caspar
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Take a Dance
+    organisation: Mendocino English Country Dance
+  - name: Richmond Saturday Night Contra Dance
+    details: "Join the Richmond, VA, contra dance, hosted by TADAMS at the West End Ballroom for a Saturday evening dance. Beginner lesson at 6:45pm, dance from 7:30-10:30pm. Admission is $15 non-members, $10 members and students, children under 13 are free. Please check our full website calendar for caller and band details."
+    links:
+      - "https://cdss.org/event/richmond-va-saturday-night-contra-dance/2024-09-28/"
+    start: "2024-09-28T19:30:00-04:00"
+    end: "2024-09-28T22:30:00-04:00"
+    country: USA
+    state: VA
+    city: Henrico
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: TADAMS (Traditional American Dance and Music Society)
+  - name: Scissortail Contra Dance
+    details: "Scissortail Contra Dance in Oklahoma City, second and fourth Saturdays. Check our Facebook or our website for more details!"
+    links:
+      - "https://scissortail.org/calendar/"
+      - "https://cdss.org/event/scissortail-contra-dance-in-oklahoma-city/2024-09-28/"
+    start: "2024-09-28T19:00:00-05:00"
+    end: "2024-09-28T22:00:00-05:00"
+    country: USA
+    state: OK
+    city: Oklahoma City
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Scissortail Traditional Dance Society
+  - name: Contra Dance
+    details: "HATDS hosts contra dances on the 2nd and 4th Saturdays of most months. We dance to live music. All skill levels are welcome and all dances are called. Bring water and clean shoes! \nThe admission price for contra dances is $10 for members, $15 for non-members. Cash, checks, credit cards, and digital wallets are currently accepted at the door. If paying cash, please bring correct change. No large bills accepted."
+    links:
+      - "https://hatds.org/"
+      - "https://cdss.org/event/contra-dancing-in-houston-tx/2024-09-28/"
+    start: "2024-09-28T19:30:00-05:00"
+    end: "2024-09-28T22:30:00-05:00"
+    country: USA
+    state: TX
+    city: Houston
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10-$15
+    organisation: Houston Area Traditional Dance Society
+  - name: NACDS Contra Dance
+    details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
+    links:
+      - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2024-09-28/"
+    start: "2024-09-28T19:30:00-05:00"
+    end: "2024-09-28T23:00:00-05:00"
+    country: USA
+    state: AL
+    city: Huntsville
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10-$15
+    organisation: CDSS
   - name: Anaheim Contra Dance
     details: "Anaheim Contra Dances are held every 4th Saturday January-November 6:30-9:30pm PST. \nAlways live music! \nFamily-friendly, no partner required. \nEasy introductory lesson for beginners @ 6:30pm.\n\nFree parking."
     links:
@@ -19507,3 +19608,207 @@ events:
     workshop: true
     social: true
     organisation: The Living Tradition
+  - name: 4th Saturdays Contra Dance
+    details: "Mark your calendars now for the next Saturday night dance at Fulton Hall. Dances are called using gender-neutral terms. \nCovid precautions are suspended indefinitely! We will continue to monitor potential exposures at PCDC events and adjust policies as needed. Refer to the PCDC Covid policy for details. \n\n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome!"
+    links:
+      - "https://cdss.org/event/portland-country-dance-community-4th-saturdays-contra-dance/2024-09-28/"
+    start: "2024-09-28T19:00:00-07:00"
+    end: "2024-09-28T22:30:00-07:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: CDSS
+  - name: Sacramento Contra Dance
+    details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $12 for adults; $8 for college students with ID; $5 for dancers under 18; $25 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
+    links:
+      - "https://sactocds.wordpress.com/"
+      - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays/2024-09-28/"
+    start: "2024-09-28T19:00:00-07:00"
+    end: "2024-09-28T22:00:00-07:00"
+    country: USA
+    state: CA
+    city: Sacramento
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$25
+    organisation: Sacramento Country Dance Society
+  - name: English Country Dance Atlanta
+    details: "2nd, 4th, and 5th Sunday afternoons \nCis Hinkle & Reelplay\nDave Marcus (concertina), Robbin Marcus (piano) \n$9, cash or check"
+    links:
+      - "https://ecdatlanta.org/schedule.htm"
+      - "https://cdss.org/event/english-country-dance-atlanta-2nd-4th-and-5th-sunday-afternoons-7/"
+    start: "2024-09-29T15:00:00-04:00"
+    end: "2024-09-29T17:30:00-04:00"
+    country: USA
+    state: GA
+    city: Atlanta
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Reelplay
+    callers:
+      - Cis Hinkle
+    price: $9
+    organisation: CDSS
+  - name: Louisville English Country Dance
+    details: Louisville English Country Dance meets on the 2nd and last Sundays of most months. Please check our website for details.
+    links:
+      - "https://www.louisvilleecd.org/"
+      - "https://cdss.org/event/louisville-english-country-dance/2024-09-29/"
+    start: "2024-09-29T15:00:00-04:00"
+    end: "2024-09-29T17:00:00-04:00"
+    country: USA
+    state: KY
+    city: Louisville
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: Louisville English Country Dancers
+  - name: Houston Area Traditional Dance Society 5th Sunday English Country Dance
+    details: "HATDS ECD meets most 1st, 3rd, and 5th Sundays. All levels are welcomed at the 1st and 3rd Sundays. 5th Sunday dances are usually, but not always, for experienced dancers. The schedule sometimes changes, so check our event calendar before coming."
+    links:
+      - "https://cdss.org/event/houston-area-traditional-dance-society-5th-sunday-english-country-dance/2024-09-29/"
+    start: "2024-09-29T14:45:00-05:00"
+    end: "2024-09-29T17:20:00-05:00"
+    country: USA
+    state: TX
+    city: Houston
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: Houston Area Traditional Dance Society
+  - name: Las Vegas Contra Dance
+    details: Las Vegas Contra Dance. Live band 112 and Then Some. Nongendered calling.
+    links:
+      - "https://www.lasvegascontradance.org/"
+      - "https://cdss.org/event/las-vegas-contra-dance-7/"
+    start: "2024-09-29T13:30:00-07:00"
+    end: "2024-09-29T16:00:00-07:00"
+    country: USA
+    state: NV
+    city: Las Vegas
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - 112 and Then Some
+    organisation: Southern Nevada Old-Time Contra Dancers (SNOCD)
+  - name: Sebastopol 5th Sunday Advanced English Dance
+    details: "The Sebastopol 5th Sunday dance is a chance for our callers, dancers and musicians to enjoy an afternoon of challenging material and streamlined teaching. We expect dancers attending these sessions to be completely comfortable with heys for 3 and 4, dolphin heys, double figure 8s, and triple minor progression. They should also be able to maintain their sense of orientation within the set. This is not the time to bring your friends who are new to English country dancing, though we’d love to see them at the 1st and 3rd Sundays. \nNote: We occasionally change our venue or time to accommodate special events, so please check the NBCDS calendar to confirm."
+    links:
+      - "https://cdss.org/event/sebastopol-5th-sunday-advanced-english-dance/2024-09-29/"
+    start: "2024-09-29T14:00:00-07:00"
+    end: "2024-09-29T16:30:00-07:00"
+    country: USA
+    state: CA
+    city: Sebastopol
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: North Bay Country Dance Society
+  - name: English Country Dance at Tapestry Folkdance Center
+    details: "English country dancing is an accessible social dance form with a history going back several centuries. This is the dancing of Queen Elizabeth I, of Jane Austen, and a living tradition that inspires musical compositions and choreographies today. The music can be stately or sprightly, traditional or modern, recorded or live. It is danced with simple walking or skipping steps in time to the music. All dances are taught and are usually done in “long-ways sets” with partners facing in lines down the hall. After a walk-through, the easy-to-learn figures are called throughout the dance as you interact with other couples in your set and then move on to the next and repeat.\n​\nYou can come by yourself and be assured of dancing throughout the evening, since our tradition is to welcome and teach beginners and change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience.  English country dance will satisfy your wish for pleasurable exercise, a warm social community, mental stimulation, or even transcendent aesthetic experiences. We invite you to join us! \n​Recorded Music: $12 General | $10 Members | $7 Young Adult & Youth (Ages 10 -21)"
+    links:
+      - "https://www.tapestryfolkdance.org/english-country-dance"
+      - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center/2024-09-29/"
+    start: "2024-09-29T19:00:00-05:00"
+    end: "2024-09-29T21:00:00-05:00"
+    country: USA
+    state: MN
+    city: Minneapolis
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $7-$12
+    organisation: Tapestry Folkdance Center
+  - name: Contra Dance in St Louis
+    details: Weekly contra dance in St Louis area (actually Webster Groves MO). Always great live music. First dance each month features open calling.
+    links:
+      - "https://www.childgrove.org/"
+      - "https://cdss.org/event/contra-dance-in-st-louis/2024-09-29/"
+    start: "2024-09-29T19:00:00-05:00"
+    end: "2024-09-29T21:30:00-05:00"
+    country: USA
+    state: MO
+    city: Webster Groves
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Childgrove Country Dancers
+  - name: Gainesville English Country Dance
+    details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
+    links:
+      - "https://cdss.org/event/gainesville-florida-english-country-dance/2024-09-30/"
+    start: "2024-09-30T18:30:00-04:00"
+    end: "2024-09-30T20:30:00-04:00"
+    country: USA
+    state: FL
+    city: Gainesville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Hoggetowne Fancy
+    price: $5
+    organisation: Gainesville English Country Dance
+  - name: Monday Night Dance
+    details: "Contra Dance to live music every Monday in the beautiful, historic Laurel Theater. We have a short newcomer session beginning at 7:00 with the dance beginning at 7:30. \nEveryone is welcome! \n$10 Adults / $5 Students"
+    links:
+      - "https://www.knoxvillecontra.org/schedule"
+      - "https://cdss.org/event/monday-night-dance/2024-09-30/"
+    start: "2024-09-30T19:00:00-04:00"
+    end: "2024-09-30T22:30:00-04:00"
+    country: USA
+    state: TN
+    city: Knoxville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Knoxville Contra Dance
+  - name: Monday Contra Dance
+    details: "What better way to start the week? Only $5! It’s Monday, and we (almost) always dance on Monday."
+    links:
+      - "https://cdss.org/event/monday-contra-dance-in-nelson-nh/2024-09-30/"
+    start: "2024-09-30T19:30:00-04:00"
+    end: "2024-09-30T22:00:00-04:00"
+    country: USA
+    state: NH
+    city: Nelson
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5
+    organisation: Monadnock Folklore Society
+  - name: Ashland Country Dancers
+    details: "The Ashland Branch of the Heather and the Rose Country Dancers hosts a weekly English dance (with some Scottish). Since formation in 1980, all dances are taught with positional/global language. We use recorded music most evenings."
+    links:
+      - "http://www.heatherandrose.org/activities/ongoing.shtml"
+      - "https://cdss.org/event/ashland-country-dancers-english-country-dance/2024-09-30/"
+    start: "2024-09-30T19:00:00-07:00"
+    end: "2024-09-30T21:30:00-07:00"
+    country: USA
+    state: OR
+    city: Ashland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: The Heather and the Rose Country Dancers
