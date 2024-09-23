@@ -225,7 +225,7 @@ events:
     city: Boulder
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $5-$15
     organisation: Colorado Friends of Old Time Music and Dance
@@ -618,14 +618,14 @@ events:
     details: "Lesson at 7; Dance 7:30 to 10:30.  Admission sliding scale $5 to $15."
     links:
       - "https://boulderdance.org/event/hands-across-contra-7/"
-    start: "2024-05-31T19:30:00-06:00"
+    start: "2024-05-31T19:00:00-06:00"
     end: "2024-05-31T22:30:00-06:00"
     country: USA
     state: CO
     city: Boulder
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $5-$15
     organisation: Colorado Friends of Old Time Music and Dance
@@ -1001,10 +1001,14 @@ events:
     city: Boulder
     styles:
       - contra
+      - ecd
     workshop: false
     social: true
+    bands:
+      - Avourneen
     callers:
       - Sam Smith
+    price: free
     organisation: Colorado Friends of Old Time Music and Dance
   - name: CFOOTMAD Zesty Contra Dance
     details: "Colorado Friends of Old Time Music and Dance (CFOOTMAD) present a Zesty Contra dance the\n2nd Saturday of each month. 7:00 p.m.- 10:00p.m. $15 for non-members; $12 for members; always live music.  The Zesty contra dance series is for dancers with some experience with contra dance.  There is no lesson before the dance, and walk-throughs may be abbreviated, or for simpler dances, eliminated entirely."
@@ -1025,14 +1029,14 @@ events:
     details: "Lesson at 7; Dance at 7:30.  Sliding admission $5 to $15."
     links:
       - "https://boulderdance.org/event/hands-across-contra-6/"
-    start: "2024-11-29T19:30:00-07:00"
+    start: "2024-11-29T19:00:00-07:00"
     end: "2024-11-29T22:30:00-07:00"
     country: USA
     state: CO
     city: Boulder
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $5-$15
     organisation: Colorado Friends of Old Time Music and Dance
@@ -1048,7 +1052,7 @@ events:
     styles:
       - scandi
     workshop: false
-    social: false
+    social: true
     price: $7
     organisation: Boulder Scandinavian Dancers
   - name: Hands Across Contra
@@ -1062,7 +1066,7 @@ events:
     city: Boulder
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $5-$15
     organisation: Colorado Friends of Old Time Music and Dance
