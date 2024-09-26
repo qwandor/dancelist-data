@@ -23975,7 +23975,7 @@ events:
     social: true
     price: $7-$15
     organisation: ContraATL
-  - name: "CANCELLED: Tallahassee Contra Dance"
+  - name: Tallahassee Contra Dance
     details: "Please note: The September 27 dance has been cancelled due to Hurricane Helene. \nJoin us for a fun community contra dance on the 2nd and 4th Fridays of most months! See tallydancer.com for band and caller details. No dance experience is needed and no need to bring a partner. An intro lesson starts at 7:15 for beginners and anyone wanting to refresh their skills. \nAdmission cost: $10 for adults, $9 seniors over 50, $6 for students, free for kids under 12. Admission is payable by cash, check, or card at the door. Newcomers get in to their 2nd dance free!"
     links:
       - "http://www.tallydancer.com/"
@@ -23995,6 +23995,7 @@ events:
     callers:
       - Tom Greene
     price: $6-$10
+    cancelled: true
     organisation: Tallahassee Community Friends of Old Time Dance
   - name: Friday Night Contra at Glen Echo
     details: "Join us in Glen Echo, Maryland, for a fun night of contras and an occasional square! There’s a free lesson at 7:30. We have a “no dancer left behind” policy and can always get dancers to the Metro. For more info, contact info@fridaynightdancers.org. See you on the dance floor!"
@@ -25102,6 +25103,7 @@ events:
   - name: Old Tyme Contra & Community Dance
     details: "First Saturday of every month: lesson at 6:30, dance 7-9pm.\nLive band and dance caller for contras, squares, round, and fun crazy family dances, too.\nBeginners are welcome! No need to bring a partner, but you are welcome to do so.\nChildren over age 8 who are game to participate may also attend.\nBring a closed water container and a snack if you choose.\nSmooth-soled shoes work best on the Library’s wonderful wood floor.\nPlease do not wear perfume or scents to the dances.\n\nSuggested donation: $10 adults; kids under 14 free."
     links:
+      - "https://fontanalib.org/events/library-contra-dance-1"
       - "https://cdss.org/event/old-tyme-contra-community-dance-of-macon-county-nc/2024-10-05/"
     start: "2024-10-05T18:30:00-04:00"
     end: "2024-10-05T21:00:00-04:00"
@@ -25119,7 +25121,7 @@ events:
     links:
       - "http://godancing.org/"
       - "https://cdss.org/event/goshen-community-contra-dance/2024-10-05/"
-    start: "2024-10-05T19:00:00-04:00"
+    start: "2024-10-05T18:30:00-04:00"
     end: "2024-10-05T22:00:00-04:00"
     country: USA
     state: IN
@@ -25146,9 +25148,10 @@ events:
     social: true
     price: $15
     organisation: CDSS
-  - name: "Scissortail Contra Dance in Tulsa, OK"
+  - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Tulsa, first Saturdays. Check our Facebook or our website for more details!"
     links:
+      - "https://scissortail.org/calendar/"
       - "https://cdss.org/event/scissortail-contra-dance-in-tulsa-ok/2024-10-05/"
     start: "2024-10-05T19:00:00-05:00"
     end: "2024-10-05T22:00:00-05:00"
@@ -25159,28 +25162,32 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$15
     organisation: Scissortail Traditional Dance Society
+    cancelled: true
   - name: Friends of Traditional Dance Contra
     details: "Contra Dance every 1st and 3rd Saturday \nWe dance at the fabulous Masonic Ballroom, with its gorgeous sprung wood dance floor."
     links:
       - "https://fotd.org/"
+      - "https://cfootmad.org/node/1302"
       - "https://cdss.org/event/friends-of-traditional-dance-contra/2024-10-05/"
-    start: "2024-10-05T19:00:00-06:00"
+    start: "2024-10-05T18:15:00-06:00"
     end: "2024-10-05T22:00:00-06:00"
     country: USA
     state: CO
     city: Fort Collins
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $5-$20
     organisation: Friends of Traditional Dance
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \nLessons at 6:40; dance starts at 7 PM. \n​Prices: \n\n$12 General\n​$10 Members of MCDC, BACDS, CDSS or other sister organizations\n$5 active military & full-time students, with ID\nFREE! for children 12 & under ​"
     links:
       - "https://montereycontradance.org/index.html"
       - "https://cdss.org/event/monterey-contra-dance/2024-10-05/"
-    start: "2024-10-05T19:00:00-07:00"
+    start: "2024-10-05T18:40:00-07:00"
     end: "2024-10-05T22:00:00-07:00"
     country: USA
     state: CA
