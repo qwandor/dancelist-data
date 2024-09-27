@@ -25017,15 +25017,20 @@ events:
   - name: Jane Austen/Australian Regency Ball
     details: "Step back in time and immerse yourself in the enchanting world of Jane Austen. Image yourself transported to the early colony in Australia and experience the dances that were popular during Jane’s era. \nJoin us for a captivating evening of Regency dancing at the heritage-listed Dayboro Community Hall. Dance to the delightful tunes played by Australia’s finest historical dance band, Phillip’s Dog. Don’t worry if you’re new to these dances, as Dr Heather Blasdale Clarke, a renowned dance historian and teacher, will be there to guide and instruct you throughout the night. Get ready to twirl and sway to the rhythms of the past in this unforgettable event."
     links:
+      - "https://www.historicaldance.au/jane-austen-ball-2024/"
       - "https://cdss.org/event/jane-austen-australian-regency-ball/"
-    start: "2024-10-06T04:00:00+10:00"
-    end: "2024-10-06T05:00:00+10:00"
+    start: "2024-10-05T18:00:00+10:00"
+    end: "2024-10-05T19:00:00+10:00"
     country: Australia
-    city: Queensland
+    state: QLD
+    city: Dayboro
     styles:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Phillip's Dog
+    price: $70
     organisation: Australian Historical Dance
   - name: York Region English Country Dancers
     details: "English Country Dance in central York Region (Ontario, Canada)! Beginners welcome; all dances taught; you don’t need to bring a partner. Admission by donation; your first class is free. Join us on the first, third, and (when there is one) fifth Saturday of the month from 2:00 to 4:00. (Please check the website for possible last-minute changes.)"
@@ -25176,9 +25181,9 @@ events:
     workshop: true
     social: true
     bands:
-      - Wild Asparagus
+      - River Road
     callers:
-      - George Marshall
+      - Alex Deis-Lauby
     price: $12-$20
     organisation: George Marshall
   - name: Knoxville Contra Dance
@@ -25195,10 +25200,12 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: Knoxville Contra Dance
   - name: First Saturday Contra Dance
     details: "The Monadnock Folklore Society presents the Peterborough, NH First Saturday Contra Dance on the first Saturday with different musicians and callers every month.  \nThe dancing begins at 8:00 PM, with an introductory workshop beginning at 7:30. Sliding scale admission is  $12 – 20. \nWe also host an open jam session for beginning and intermediate musicians from 6:45 – 7:30 PM. \nThe Monadnock Folklore Society has presented contra dances and concerts of traditional music since 1982."
     links:
+      - "https://www.monadnockfolk.org/event/peterborough-first-saturday-contra-dance-2/2024-10-05/"
       - "https://cdss.org/event/first-saturday-contra-dance-in-peterborough-nh/2024-10-05/"
     start: "2024-10-05T19:30:00-04:00"
     end: "2024-10-05T23:00:00-04:00"
@@ -25209,14 +25216,14 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    price: $12-$20
     organisation: Monadnock Folklore Society
   - name: Montpelier Contra Dance
     details: "Montpelier Contra Dance with callers and bands that perform regionally and nationally—see website or Facebook events\nBeginners, singles, and all ages are welcome; all dances are taught.\nGender-neutral role terms (Larks and Robins)\nNewcomers lesson 7:40 pm. Dancing 8-11pm.\nPlease bring clean soft-soled shoes.\nMasks optional / Excellent ventilation with open windows and ceiling exhaust fan (bring a sweater in cooler months)\nMore info at our website. \n$12 adults, $5 kids/low-income, $20 dance supporters.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDancing 1st, 3rd, and 5th Saturdays year round"
     links:
       - "https://capitalcitygrange.org/dancing/contradancing/"
       - "https://cdss.org/event/montpelier-contra-dance/2024-10-05/"
-    start: "2024-10-05T20:00:00-04:00"
+    start: "2024-10-05T19:40:00-04:00"
     end: "2024-10-05T23:00:00-04:00"
     country: USA
     state: VT
@@ -25282,15 +25289,18 @@ events:
     links:
       - "https://www.queercontradance.org/circleleft.html"
       - "https://cdss.org/event/circle-left/2024-10-05/"
-    start: "2024-10-05T21:30:00-07:00"
-    end: "2024-10-06T01:00:00-07:00"
+    start: "2024-10-05T18:30:00-07:00"
+    end: "2024-10-05T22:00:00-07:00"
     country: USA
     state: CA
     city: Oakland
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    callers:
+      - Kelsey Hartman
+    price: $5-$20
     organisation: CDSS
   - name: English Country Dance
     details: "Dances taught by David Millstone, with music by Trip to Norwich (Thal Aylward, violin & viola; Carol Compton, keyboard & recorders). All dances taught; beginners and singles welcome."
@@ -25309,6 +25319,7 @@ events:
       - Trip to Norwich
     callers:
       - David Millstone
+    price: $15
     organisation: David Millstone
   - name: Capital English Country Dancers
     details: "Monthly English country dances, first Sunday of the month October–May. Live music, all dances taught; beginners, singles, and couples are welcome. Beginner workshop at 1:30 PM, dance at 2 PM.  \nRegular Dances: $15, $12 CECD Members (Membership: $15) Ice Cream Sunday: $17, $14 CECD Members (includes ice cream sundaes), Season Ticket: $88"
@@ -25324,13 +25335,18 @@ events:
       - ecd
     workshop: true
     social: true
-    price: $12-$88
+    bands:
+      - Cedar Waxwing Band
+    callers:
+      - Val Medve
+    price: $15
     organisation: Capital English Country Dancers
   - name: Pittsburgh Contra @ Avonworth
     details: "This is our last outdoor dance of the year! Join us on the scenic Avonworth Pavillion dance floor for live music by Amarillis and Anders and calling by Penelope Weinberger.  \nThere will be a waltz from noon to 1:30 before this event. Our free beginner contra lesson is from 1:30 to 2:00; the main dance is 2:00 to 5:00. As usual, we will have a couple waltzes during breaks.  \n$15 (suggested donation)"
     links:
+      - "https://pittsburghcontra.org/schedule/"
       - "https://cdss.org/event/pittsburgh-contra-avonworth-masks-optional/"
-    start: "2024-10-06T14:00:00-04:00"
+    start: "2024-10-06T12:00:00-04:00"
     end: "2024-10-06T17:00:00-04:00"
     country: USA
     state: PA
@@ -25339,6 +25355,8 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Amarillis & Anders
     callers:
       - Penelope Weinberger
     price: $15
@@ -25357,6 +25375,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Houston Area Traditional Dance Society
   - name: Roseville English Country Dance
     details: "English Country Dance at the Masonic Lodge, 235 Vernon St., Roseville! Check our website for the most current information."
@@ -25372,6 +25391,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5-$12
     organisation: Sacramento Country Dance Society
   - name: English Country Dance at Tapestry Folkdance Center
     details: "English country dancing is an accessible social dance form with a history going back several centuries. This is the dancing of Queen Elizabeth I, of Jane Austen, and a living tradition that inspires musical compositions and choreographies today. The music can be stately or sprightly, traditional or modern, recorded or live. It is danced with simple walking or skipping steps in time to the music. All dances are taught and are usually done in “long-ways sets” with partners facing in lines down the hall. After a walk-through, the easy-to-learn figures are called throughout the dance as you interact with other couples in your set and then move on to the next and repeat.\n​\nYou can come by yourself and be assured of dancing throughout the evening, since our tradition is to welcome and teach beginners and change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience.  English country dance will satisfy your wish for pleasurable exercise, a warm social community, mental stimulation, or even transcendent aesthetic experiences. We invite you to join us! \n​Recorded Music: $12 General | $10 Members | $7 Young Adult & Youth (Ages 10 -21) \n\n\n\n\n​“Pay What You Want” first seven days of every month (1st through the 7th) – Newcomers especially encouraged to attend!"
