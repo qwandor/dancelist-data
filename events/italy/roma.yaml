@@ -1,17 +1,18 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
   - name: XI kompleanno della Mazurka Klandestina
-    start: 2022-11-11T22:00:00+01:00
-    end: 2022-11-13T20:00:00+01:00
     links:
       - "https://www.facebook.com/events/478255937346930/"
+    start: "2022-11-11T22:00:00+01:00"
+    end: "2022-11-13T20:00:00+01:00"
     country: Italy
     city: Rome
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     price: free
-
+    organisation: ~
   - name: Dance concert
     links:
       - "https://www.facebook.com/events/461083036057894/"
@@ -27,12 +28,11 @@ events:
       - Fabio Colussi
     price: €10-€15
     organisation: ~
-
   - name: Dance concert
     links:
       - "https://www.facebook.com/events/727134919051828/"
-    start: 2023-04-01T19:00:00+02:00
-    end: 2023-04-01T23:30:00+02:00
+    start: "2023-04-01T19:00:00+02:00"
+    end: "2023-04-01T23:30:00+02:00"
     country: Italy
     city: Rome
     styles:
@@ -43,7 +43,6 @@ events:
       - Andrea Capezzuoli
     price: €10-€15
     organisation: Roma InFolk
-
   - name: Workshop and Balfolk
     links:
       - "https://www.facebook.com/events/341060058451665/"
@@ -59,7 +58,6 @@ events:
       - KV Express
     price: €13-€18
     organisation: Roma InFolk
-
   - name: Skeggia
     links:
       - "https://www.facebook.com/events/898556381615081/"
@@ -72,7 +70,6 @@ events:
     workshop: false
     social: true
     organisation: ~
-
   - name: Workshop and Balfolk
     links:
       - "https://www.facebook.com/events/1028012195118351/"
@@ -87,4 +84,19 @@ events:
     bands:
       - Di Doux
     price: €10-€15
+    organisation: Roma InFolk
+  - name: Workshop and Bal-Concert
+    links:
+      - "https://www.facebook.com/events/1861423791028951/"
+    start: "2024-11-30T18:00:00+01:00"
+    end: "2024-11-30T23:45:00+01:00"
+    country: Italy
+    city: Rome
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Arbadétorne
+    price: €15-€25
     organisation: Roma InFolk
