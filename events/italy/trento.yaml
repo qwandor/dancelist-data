@@ -14,7 +14,6 @@ events:
     bands:
       - FolkBanda
     organisation: Marco Paniz
-
   - name: Trentino Girofolk
     details: "Tref - Trentino Girofolk\r\nLa Federazione Circoli Culturali e Ricreativi del Trentino per l'edizione 2023 del festival itinerante di musica folk propone una rassegna di concerti dei tre ensemble selezionati nel concorso Trentino Girofolk. I gruppi che si esibiranno sono: Barbapedana (TV), D’Esperanto Trio (RE) e Vaganto (BL).\r\nVaganto è un quintetto folk della provincia di Belluno che suona musica per danze folk Europee.\r\nIl concerto è un percorso di sonorità nel mondo dei balli e dei canti popolari: in esperanto Vaganto significa \"viandante\" e l'idea è proprio quella di un viaggio musicale dalle danze balcaniche al klezmer, la musica degli ebrei europei di lingua yiddish, dai canti bretoni alla troika russa fino alle danze scandinave, come le polske svedes"
     links:
@@ -32,7 +31,6 @@ events:
       - Vaganto
     price: free
     organisation: Federcircoli
-
   - name: Mazurka Klandestina
     links:
       - "https://www.facebook.com/events/838111914640707/"
@@ -44,4 +42,20 @@ events:
       - balfolk
     workshop: false
     social: true
+    organisation: 33trentinfolk
+  - name: Balfolk concert & Fandango workshop
+    details: "This event includes a Fandango workshop (Fandango is a Basque dance) followed by a concert by Karamaus, a young Italian band.\r\n\r\nProgramme for November 9:\r\n\r\n16:00-19:00 Fandango workshop\r\n19:00-20.30 shared dinner\r\n20.30-21.15 Secret concert\r\n21.15-23:00 Karamaus concert\r\n23:00 onwards - endless dancing!"
+    links:
+      - "https://www.facebook.com/events/1062890782016152/?acontext=%7B%22event_action_history%22%3A[]%7D&locale=it_IT"
+    start: "2024-11-09T16:00:00+01:00"
+    end: "2024-11-09T23:00:00+01:00"
+    country: Italy
+    city: Trento
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Karamaus
+    price: 10-15€
     organisation: 33trentinfolk
