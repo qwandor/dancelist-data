@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: GRAND BAL AVEC LES ZÉOLES
+  - name: Grand Bal
     links:
       - "https://ecam-lekremlinbicetre.com/la-saison/programme/spectacles-a-venir/grand-bal-d29d3bf5"
     start: "2025-02-09T16:00:00+01:00"
@@ -10,6 +10,8 @@ events:
     styles:
       - balfolk
     workshop: true
-    social: false
-    price: "5"
-    organisation: ~
+    social: true
+    bands:
+      - Les Zéoles
+    price: €5
+    organisation: Espace Culturel Andre Malraux
