@@ -1,15 +1,16 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "London Barndance 400th dance with cake"
+  - name: London Barndance 400th dance with cake
     details: Contra dance with Mark Elvins calling and the English Contra Dance Band playing.
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/243417821143957/"
-    start: 2022-02-12T20:00:00+00:00
-    end: 2022-02-12T23:00:00+00:00
+    start: "2022-02-12T20:00:00+00:00"
+    end: "2022-02-12T23:00:00+00:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -18,18 +19,18 @@ events:
       - Mark Elvins
     price: £5-£14
     organisation: London Barndance Company
-
   - name: London Barndance with Louise Siddons and Portland Drive
     details: Contra dance with Louise Siddons calling and Portland Drive playing.
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/1003910236874082/"
       - "https://www.plug.events/event/contra-dance-with-louise-siddons-and-portland-driv"
-    start: 2022-03-12T20:00:00+00:00
-    end: 2022-03-12T23:00:00+00:00
+    start: "2022-03-12T20:00:00+00:00"
+    end: "2022-03-12T23:00:00+00:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -38,18 +39,18 @@ events:
       - Louise Siddons
     price: £5-£14
     organisation: London Barndance Company
-
-  - name: London Barndance with Charlie Turner, Mark Elvins and Vertical Expression
+  - name: "London Barndance with Charlie Turner, Mark Elvins and Vertical Expression"
     details: Contra dance with Charlie Turner and Mark Elvins calling and Vertical Expression playing. Was originally going to be Lynne Render.
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/496124358900872/"
       - "https://www.plug.events/event/contra-dance-with-lynne-render-and-vertical-expres"
-    start: 2022-04-09T20:00:00+01:00
-    end: 2022-04-09T23:00:00+01:00
+    start: "2022-04-09T20:00:00+01:00"
+    end: "2022-04-09T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -59,17 +60,17 @@ events:
       - Mark Elvins
     price: £5-£14
     organisation: London Barndance Company
-
   - name: London Barndance with Charlie Turner and the Stringrays Trio
     details: Contra dance with Charlie Turner calling and the Stringrays Trio playing.
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/1112729602841375/"
-    start: 2022-05-14T20:00:00+01:00
-    end: 2022-05-14T23:00:00+01:00
+    start: "2022-05-14T20:00:00+01:00"
+    end: "2022-05-14T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -78,17 +79,17 @@ events:
       - Charlie Turner
     price: £5-£14
     organisation: London Barndance Company
-
-  - name: London Barndance with Charlotte Rich-Griffin, Mark Elvins and Contrasaurus
-    details: Contra dance with Charlotte Rich-Griffin and Mark Elvins calling, and Contrasaurus playing.
+  - name: "London Barndance with Charlotte Rich-Griffin, Mark Elvins and Contrasaurus"
+    details: "Contra dance with Charlotte Rich-Griffin and Mark Elvins calling, and Contrasaurus playing."
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/406778071367115/"
-    start: 2022-06-11T20:00:00+01:00
-    end: 2022-06-11T23:00:00+01:00
+    start: "2022-06-11T20:00:00+01:00"
+    end: "2022-06-11T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -98,17 +99,17 @@ events:
       - Mark Elvins
     price: £5-£14
     organisation: London Barndance Company
-
   - name: London Barndance with Adam Hughes and Nozzy
     details: Contra dance with Adam Hughes calling and Nozzy playing.
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/528154965759979/"
-    start: 2022-07-09T20:00:00+01:00
-    end: 2022-07-09T23:00:00+01:00
+    start: "2022-07-09T20:00:00+01:00"
+    end: "2022-07-09T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -117,17 +118,17 @@ events:
       - Adam Hughes
     price: £5-£14
     organisation: London Barndance Company
-
   - name: "London Barndance with Rhi Davies, Sioned Davies and Fiddlechicks"
     details: "Contra dance with Rhi Davies and Sioned Davies calling and Fiddlechicks (Mollie, Ali & Christina) playing."
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/1042552713294211/"
-    start: 2022-09-10T20:00:00+01:00
-    end: 2022-09-10T23:00:00+01:00
+    start: "2022-09-10T20:00:00+01:00"
+    end: "2022-09-10T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -137,17 +138,17 @@ events:
       - Sioned Davies
     price: £5-£14
     organisation: London Barndance Company
-
   - name: London Barndance
-    details: "Contra dance with Rhodri Davies calling and Vertical Expression playing."
+    details: Contra dance with Rhodri Davies calling and Vertical Expression playing.
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/3343748582513656/"
-    start: 2022-10-08T20:00:00+01:00
-    end: 2022-10-08T23:00:00+01:00
+    start: "2022-10-08T20:00:00+01:00"
+    end: "2022-10-08T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -156,17 +157,17 @@ events:
       - Rhodri Davies
     price: £5-£14
     organisation: London Barndance Company
-
   - name: London Barndance
-    details: "Contra dance with Charlotte Rich-Griffin calling and English Contra Dance Band playing."
+    details: Contra dance with Charlotte Rich-Griffin calling and English Contra Dance Band playing.
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/507910324246376/"
-    start: 2022-11-12T20:00:00+00:00
-    end: 2022-11-12T23:00:00+00:00
+    start: "2022-11-12T20:00:00+00:00"
+    end: "2022-11-12T23:00:00+00:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -175,17 +176,17 @@ events:
       - Charlotte Rich-Griffin
     price: £5-£14
     organisation: London Barndance Company
-
   - name: London Barndance
-    details: "Contra dance with Geoff Cubitt calling and Contrasaurus playing."
+    details: Contra dance with Geoff Cubitt calling and Contrasaurus playing.
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/1174817286452570/"
-    start: 2022-12-10T20:00:00+00:00
-    end: 2022-12-10T23:00:00+00:00
+    start: "2022-12-10T20:00:00+00:00"
+    end: "2022-12-10T23:00:00+00:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -194,16 +195,16 @@ events:
       - Geoff Cubitt
     price: £5-£14
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/1091072018253597/"
-    start: 2023-01-14T20:00:00+00:00
-    end: 2023-01-14T23:00:00+00:00
+    start: "2023-01-14T20:00:00+00:00"
+    end: "2023-01-14T23:00:00+00:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -212,16 +213,16 @@ events:
       - Louise Siddons
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/561781525377872/"
-    start: 2023-02-11T20:00:00+00:00
-    end: 2023-02-11T23:00:00+00:00
+    start: "2023-02-11T20:00:00+00:00"
+    end: "2023-02-11T23:00:00+00:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -230,16 +231,16 @@ events:
       - Mark Elvins
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/778499070361309/"
-    start: 2023-03-11T20:00:00+00:00
-    end: 2023-03-11T23:00:00+00:00
+    start: "2023-03-11T20:00:00+00:00"
+    end: "2023-03-11T23:00:00+00:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -248,16 +249,16 @@ events:
       - Lynne Render
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/722191439369752/"
-    start: 2023-04-08T20:00:00+01:00
-    end: 2023-04-08T23:00:00+01:00
+    start: "2023-04-08T20:00:00+01:00"
+    end: "2023-04-08T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -266,16 +267,16 @@ events:
       - Rhodri Davies
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/882669359507650/"
-    start: 2023-05-13T20:00:00+01:00
-    end: 2023-05-13T23:00:00+01:00
+    start: "2023-05-13T20:00:00+01:00"
+    end: "2023-05-13T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -284,16 +285,16 @@ events:
       - Cis Hinkle
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/219398377351714/"
-    start: 2023-06-10T20:00:00+01:00
-    end: 2023-06-10T23:00:00+01:00
+    start: "2023-06-10T20:00:00+01:00"
+    end: "2023-06-10T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -302,16 +303,16 @@ events:
       - Andrew Swaine
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/749408666660146/"
-    start: 2023-07-08T20:00:00+01:00
-    end: 2023-07-08T23:00:00+01:00
+    start: "2023-07-08T20:00:00+01:00"
+    end: "2023-07-08T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -320,16 +321,16 @@ events:
       - Charlie Turner
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/1006637640349414/"
-    start: 2023-09-09T20:00:00+01:00
-    end: 2023-09-09T23:00:00+01:00
+    start: "2023-09-09T20:00:00+01:00"
+    end: "2023-09-09T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -338,16 +339,16 @@ events:
       - Jake Wood
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/1690304724768089/"
-    start: 2023-10-14T20:00:00+01:00
-    end: 2023-10-14T23:00:00+01:00
+    start: "2023-10-14T20:00:00+01:00"
+    end: "2023-10-14T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -356,16 +357,16 @@ events:
       - Seth Tepfer
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/584101827211281/"
-    start: 2023-11-11T20:00:00+00:00
-    end: 2023-11-11T23:00:00+00:00
+    start: "2023-11-11T20:00:00+00:00"
+    end: "2023-11-11T23:00:00+00:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -374,17 +375,17 @@ events:
       - Lynne Render
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/303221115428085/"
       - "https://cdss.org/event/london-barndance-2/"
-    start: 2023-12-09T20:00:00+00:00
-    end: 2023-12-09T23:00:00+00:00
+    start: "2023-12-09T20:00:00+00:00"
+    end: "2023-12-09T23:00:00+00:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -393,16 +394,16 @@ events:
       - Rhodri Davies
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/7072648452796245/"
-    start: 2024-01-13T20:00:00+00:00
-    end: 2024-01-13T23:00:00+00:00
+    start: "2024-01-13T20:00:00+00:00"
+    end: "2024-01-13T23:00:00+00:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -411,16 +412,16 @@ events:
       - Mark Elvins
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/7664574126890098/"
-    start: 2024-02-10T20:00:00+00:00
-    end: 2024-02-10T23:00:00+00:00
+    start: "2024-02-10T20:00:00+00:00"
+    end: "2024-02-10T23:00:00+00:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -429,16 +430,16 @@ events:
       - Charlie Turner
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/1607545456683830/"
-    start: 2024-03-09T19:30:00+00:00
-    end: 2024-03-09T23:00:00+00:00
+    start: "2024-03-09T19:30:00+00:00"
+    end: "2024-03-09T23:00:00+00:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: true
     social: true
     bands:
@@ -447,16 +448,16 @@ events:
       - Louise Siddons
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/349965344670788/"
-    start: 2024-04-13T20:00:00+01:00
-    end: 2024-04-13T23:00:00+01:00
+    start: "2024-04-13T20:00:00+01:00"
+    end: "2024-04-13T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -465,16 +466,16 @@ events:
       - Andrew Swaine
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/928920231733427/"
-    start: 2024-05-11T20:00:00+01:00
-    end: 2024-05-11T23:00:00+01:00
+    start: "2024-05-11T20:00:00+01:00"
+    end: "2024-05-11T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -483,16 +484,16 @@ events:
       - Will Mentor
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/936567627783433/"
-    start: 2024-06-08T20:00:00+01:00
-    end: 2024-06-08T23:00:00+01:00
+    start: "2024-06-08T20:00:00+01:00"
+    end: "2024-06-08T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -501,16 +502,16 @@ events:
       - Charlie Turner
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/2078510789194242/"
-    start: 2024-07-13T20:00:00+01:00
-    end: 2024-07-13T23:00:00+01:00
+    start: "2024-07-13T20:00:00+01:00"
+    end: "2024-07-13T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -519,16 +520,16 @@ events:
       - Rhodri Davies
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/1003861938129244/"
-    start: 2024-09-14T20:00:00+01:00
-    end: 2024-09-14T23:00:00+01:00
+    start: "2024-09-14T20:00:00+01:00"
+    end: "2024-09-14T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -537,16 +538,16 @@ events:
       - Adam Hughes
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/1020539396117697/"
-    start: 2024-10-12T20:00:00+01:00
-    end: 2024-10-12T23:00:00+01:00
+    start: "2024-10-12T20:00:00+01:00"
+    end: "2024-10-12T23:00:00+01:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -555,16 +556,16 @@ events:
       - Geoff Cubitt
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/694573996190388/"
-    start: 2024-11-09T20:00:00+00:00
-    end: 2024-11-09T23:00:00+00:00
+    start: "2024-11-09T20:00:00+00:00"
+    end: "2024-11-09T23:00:00+00:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -573,21 +574,38 @@ events:
       - Mark Elvins
     price: £5-£15
     organisation: London Barndance Company
-
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
       - "https://www.facebook.com/events/1148005442973823/"
-    start: 2024-12-14T20:00:00+00:00
-    end: 2024-12-14T23:00:00+00:00
+    start: "2024-12-14T20:00:00+00:00"
+    end: "2024-12-14T23:00:00+00:00"
     country: UK
     city: London
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
       - King Kontra String Band
     callers:
       - Lynne Render
+    price: £5-£15
+    organisation: London Barndance Company
+  - name: London Barndance
+    links:
+      - "https://www.barndance.org/programme.html"
+    start: "2025-01-04T20:00:00+00:00"
+    end: "2025-01-04T23:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Bearded Dragons
+    callers:
+      - Adam Hughes
     price: £5-£15
     organisation: London Barndance Company
