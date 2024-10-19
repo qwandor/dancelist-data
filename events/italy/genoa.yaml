@@ -16,21 +16,20 @@ events:
       - "Bal O'Gadjo"
     price: €15
     organisation: InvexenDanza
-
   - name: Concerto balfok
     links:
       - "https://www.facebook.com/events/547511077152712/"
-    start: 2023-02-27T18:00:00+01:00
-    end: 2023-02-27T21:00:00+01:00
+    start: "2023-02-27T18:00:00+01:00"
+    end: "2023-02-27T21:00:00+01:00"
     country: Italy
     city: Genoa
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     bands:
       - DuOblique
     organisation: TriOblique
-
   - name: Steps and Steps
     links:
       - "https://www.facebook.com/events/662250758763658/"
@@ -45,7 +44,6 @@ events:
     bands:
       - Ponente Folk Legacy
     organisation: Ponente Folk Legacy
-
   - name: Balfolk
     links:
       - "https://www.facebook.com/events/1398180141117630/"
@@ -60,3 +58,17 @@ events:
     bands:
       - TriOblique
     organisation: Giardini Luzzati - Spazio Comune
+  - name: Dance concert
+    links:
+      - "https://www.facebook.com/events/864021505798406/"
+    start: "2024-11-08T21:30:00+01:00"
+    end: "2024-11-09T00:30:00+01:00"
+    country: Italy
+    city: Genoa
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo du Balcon
+    organisation: Associazione Danza e Musica BandaBrisca
