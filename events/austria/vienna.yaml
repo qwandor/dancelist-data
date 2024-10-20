@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
   - name: Bourrèe à 2 temps et à 3 temps
-    details: "Two-day dance workshop\r\nBourrèe à deux temps, Bourrèe à trois temps\r\n\r\nNovember 16th and 17th\r\nFrom 09:30 – 12:30 and from 14:30 - 16:30\r\nLocation, Gallitzinstraße 1, 1160\r\n\r\nWanda Leben and Anton Hacker – teaching dance\r\nLauge Dideriksen – violin\r\n\r\nFocus on movement within the couple space \r\nas well as on quality of movement of individual dancers\r\n\r\nOpen to everyone, no dance partner needed to join in\r\n\r\nRegistration: danskurs(at)gmx.at"
+    details: "Two-day dance workshop\r\nBourrèe à deux temps, Bourrèe à trois temps\r\n\r\nNovember 16th and 17th\r\nFrom 09:30 – 12:30 and from 14:30 - 16:30\r\nLocation, Gallitzinstraße 1, 1160\r\n\r\nWanda Leben and Anton Hacker – teaching dance\r\nLauge Dideriksen – violin\r\n\r\nFocus on movement within the couple space \r\nas well as on quality of movement of individual dancers\r\n\r\nOpen to everyone, no dance partner needed to join in\r\n\r\nRegistration: danskurs@gmx.at"
     links:
       - "https://tradivarium.at/event/2024-11-16-093000-to-2024-11-17-163000/tanzkurs-bourr-e-deux-temps-bourr-e-trois-temps-mit"
     start: "2024-11-16T09:30:00+01:00"
@@ -12,5 +12,7 @@ events:
       - balfolk
     workshop: true
     social: false
-    price: Self-assessment 120€ - 210€
+    bands:
+      - Lauge Dideriksen
+    price: €120-€210
     organisation: Leben & Hacker
