@@ -7,7 +7,9 @@ events:
     end_date: 2022-05-29
     country: UK
     city: Chippenham
-    styles: [e-ceilidh, contra]
+    styles:
+      - e-ceilidh
+      - contra
     workshop: true
     social: true
     bands:
@@ -23,7 +25,6 @@ events:
       - Geoff Cubitt
     price: £50.94-£138.88
     organisation: Chippenham Folk Festival
-
   - name: Chippenham Folk Festival
     links:
       - "https://www.chippfolk.co.uk/"
@@ -32,7 +33,14 @@ events:
     end_date: 2023-05-29
     country: UK
     city: Chippenham
-    styles: [e-ceilidh, contra, balfolk, irish-set, scandi, scd, ecd]
+    styles:
+      - e-ceilidh
+      - contra
+      - balfolk
+      - irish-set
+      - scandi
+      - scd
+      - ecd
     workshop: true
     social: true
     bands:
@@ -40,11 +48,11 @@ events:
       - Banter
       - Chris Dyer & Tom Evans
       - Coldharbour
-      - Dave Yeomans, Matt Norman & Marni Rachmiel
+      - "Dave Yeomans, Matt Norman & Marni Rachmiel"
       - Emily & The Simons
       - English Contra Dance Band
       - Folk Camps Party Band
-      - Joshua & Benjamin Rowe, Ali Messer & David Ledsam
+      - "Joshua & Benjamin Rowe, Ali Messer & David Ledsam"
       - Kirkophany
       - Old Spot
       - Out of Hand
@@ -65,16 +73,22 @@ events:
       - Rhodri Davies
       - Victoria Yeomans
     organisation: Chippenham Folk Festival
-
   - name: Chippenham Folk Festival
     links:
       - "https://www.chippfolk.co.uk/"
       - "https://www.facebook.com/events/887594332750059/"
-    start: 2024-05-24T11:00:00+01:00
-    end: 2024-05-27T23:45:00+01:00
+    start: "2024-05-24T11:00:00+01:00"
+    end: "2024-05-27T23:45:00+01:00"
     country: UK
     city: Chippenham
-    styles: [e-ceilidh, contra, balfolk, irish-set, scandi, scd, ecd]
+    styles:
+      - e-ceilidh
+      - contra
+      - balfolk
+      - irish-set
+      - scandi
+      - scd
+      - ecd
     workshop: true
     social: true
     bands:
@@ -94,4 +108,20 @@ events:
       - Fee Lock
       - Lynne Render
       - Rachel Shapiro-Wallace
+    organisation: Chippenham Folk Festival
+  - name: Chippenham Folk Festival
+    links:
+      - "https://www.chippfolk.co.uk/"
+      - "https://www.facebook.com/events/437908798839317/"
+    start: "2025-05-23T12:00:00+01:00"
+    end: "2025-05-26T23:55:00+01:00"
+    country: UK
+    city: Chippenham
+    styles:
+      - balfolk
+      - contra
+      - e-ceilidh
+      - ecd
+    workshop: true
+    social: true
     organisation: Chippenham Folk Festival
