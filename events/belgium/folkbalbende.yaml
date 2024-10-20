@@ -15503,7 +15503,8 @@ events:
     details: Ball
     links:
       - "https://www.facebook.com/events/7061711340601844/"
-      - "http://pasdlayau.be/"
+      - "https://www.facebook.com/events/2663174960548747/"
+      - "https://pasdlayau.be/evenement/stage-et-bal-folk-avec-shillelagh/"
       - "https://folkbalbende.be/event/2279"
     start: "2024-11-16T16:00:00+02:00"
     end: "2024-11-16T22:00:00+02:00"
@@ -16188,7 +16189,7 @@ events:
       - Kwintet Gestrikt
     price: €16-€19
     organisation: "Muziekclub 't Ey"
-  - name: "BaleynbalFOLKAFDELING D'ACADEMIE PODIUM SINT-NIKLAAS"
+  - name: Baleynbal
     details: Ball
     links:
       - "https://tey.be/programma/2024/12/21/baleynbal-van-de-folkafdeling"
@@ -17518,11 +17519,11 @@ events:
   - name: KerstBoombal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.boombal.be"
       - "https://folkbalbende.be/event/2454"
-    start_date: 2024-12-26
-    end_date: 2024-12-26
+      - "https://www.facebook.com/events/804742618302961/"
+    start: "2024-12-26T20:00:00+01:00"
+    end: "2024-12-27T01:30:00+01:00"
     country: Belgium
     city: Gent
     styles:
@@ -17533,17 +17534,15 @@ events:
       - No&Mi
       - Marie Paulette
       - Loogaroo Quartet
-      - No&Mi
-      - Marie Paulette
-    organisation: ~
+    organisation: Boombal
   - name: Bal Final
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.boombal.be/balfinal"
       - "https://folkbalbende.be/event/2455"
-    start_date: 2024-12-31
-    end_date: 2024-12-31
+      - "https://www.facebook.com/events/517344467912245/"
+    start: "2024-12-31T20:00:00+01:00"
+    end: "2025-01-01T03:00:00+01:00"
     country: Belgium
     city: Gent
     styles:
@@ -17551,17 +17550,19 @@ events:
     workshop: false
     social: true
     bands:
-      - Entre Autres
+      - KV Express
       - Shillelagh
-    organisation: ~
+      - Hidrae
+    price: €28-€35
+    organisation: Boombal
   - name: Concert/Bal
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.ecomusee.eu/"
       - "https://folkbalbende.be/event/2456"
-    start_date: 2024-10-26
-    end_date: 2024-10-26
+    start: "2024-10-26T20:00:00+02:00"
+    end: "2024-10-26T23:00:00+02:00"
     country: Belgium
     city: Ellezelles
     styles:
@@ -17569,7 +17570,8 @@ events:
     workshop: false
     social: true
     bands:
-      - E Saquant Beyaus FêTe Ses 50 Ans !
+      - E Saquant Bèyaus
+    price: €5
     organisation: ~
   - name: Concert/Bal
     details: Ball
@@ -17577,8 +17579,8 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.naragonia.com/"
       - "https://folkbalbende.be/event/2459"
-    start_date: 2024-11-13
-    end_date: 2024-11-13
+    start: "2024-11-13T20:00:00+01:00"
+    end: "2024-11-13T23:00:00+01:00"
     country: Belgium
     city: Gooik
     styles:
@@ -17586,40 +17588,26 @@ events:
     workshop: false
     social: true
     bands:
-      - Naragonia & Sint-Maartensgildeorkest
+      - Naragonia
     organisation: ~
   - name: Folkbal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://frissefolk.be/fr/civicrm/event/register/?id=931&reset=1"
+      - "https://frissefolk.be/en/event-en/bal-aur%C3%A9lie-dorz%C3%A9e-&-tom-theuns-cellule/1050/"
       - "https://folkbalbende.be/event/2460"
-    start_date: 2024-11-16
-    end_date: 2024-11-16
+      - "https://www.facebook.com/events/872798868077775/"
+    start: "2024-11-16T20:00:00+01:00"
+    end: "2024-11-17T01:00:00+01:00"
     country: Belgium
     city: Brussels
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
-      - AuréLie Dorzee & Tom Theuns
+      - Aurélie Dorzée & Tom Theuns
+    price: €14-€22
     organisation: Frisse Folk Vzw/asbl
-  - name: Soirée XL Danses Israéliennes & Internationales
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.facebook.com/groups/220257831442080/"
-      - "https://folkbalbende.be/event/2461"
-    start_date: 2024-11-30
-    end_date: 2024-11-30
-    country: Belgium
-    city: Brussels
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
   - name: CaBal
     details: Ball
     links:
@@ -17631,21 +17619,21 @@ events:
     city: Kortrijk
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Thalas
       - KV Express
       - Marasc
     organisation: CaBal
-  - name: Folkbal
+  - name: Le P'tit Bal du Harby
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://pasdlayau.be/"
+      - "https://pasdlayau.be/"
       - "https://folkbalbende.be/event/2463"
-    start_date: 2025-01-25
-    end_date: 2025-01-25
+    start: "2025-01-25T20:00:00+01:00"
+    end: "2025-01-25T22:00:00+01:00"
     country: Belgium
     city: Quevaucamps
     styles:
@@ -17653,35 +17641,42 @@ events:
     workshop: false
     social: true
     bands:
-      - 3...4
+      - "3..4"
+    price: €10
     organisation: "Pas d'La Yau"
-  - name: Duo MEUNIER-BUTEAU (France)
+  - name: Le P'tit Bal du Harby
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://pasdlayau.be/"
+      - "https://pasdlayau.be/"
       - "https://folkbalbende.be/event/2464"
-    start_date: 2025-04-12
-    end_date: 2025-04-12
+    start: "2025-04-12T20:00:00+02:00"
+    end: "2025-04-12T22:00:00+02:00"
     country: Belgium
     city: Quevaucamps
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Duo Meunier-Buteau
+    price: €10
     organisation: "Pas d'La Yau"
-  - name: LOL (France)
+  - name: Le P'tit Bal du Harby
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://pasdlayau.be/"
+      - "https://pasdlayau.be/"
       - "https://folkbalbende.be/event/2465"
-    start_date: 2025-09-20
-    end_date: 2025-09-20
+      - "https://lolfolk.e-monsite.com/agenda/assemblees-generales/bal-folk-a-quevaucamps-belg.html"
+    start: "2025-09-20T20:00:00+02:00"
+    end: "2025-09-20T23:59:00+02:00"
     country: Belgium
     city: Quevaucamps
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Lol Folk
+    price: €10
     organisation: "Pas d'La Yau"
