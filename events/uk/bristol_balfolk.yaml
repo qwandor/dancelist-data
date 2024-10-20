@@ -8,60 +8,61 @@ events:
     end_date: 2022-02-05
     country: UK
     city: Bristol
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     price: donation
     organisation: BalFolk Bristol
-
   - name: Bal Folk Dancing at the Jam Jar
     details: "An informal, indoor gathering with European folk music and social dancing."
     links:
       - "https://www.facebook.com/events/1542560519439224/"
-    start: 2022-03-26T11:00:00+00:00
-    end: 2022-03-26T15:30:00+00:00
+    start: "2022-03-26T11:00:00+00:00"
+    end: "2022-03-26T15:30:00+00:00"
     country: UK
     city: Bristol
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     price: donation
     organisation: BalFolk Bristol
-
   - name: Bank holiday clandestine mazurka
     links:
       - "https://www.facebook.com/events/1021831765416263/"
-    start: 2022-04-15T11:00:00+01:00
-    end: 2022-04-15T15:00:00+01:00
+    start: "2022-04-15T11:00:00+01:00"
+    end: "2022-04-15T15:00:00+01:00"
     country: UK
     city: Bristol
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     price: free
     organisation: BalFolk Bristol
-
   - name: Balfolk Brunch
     links:
       - "https://www.facebook.com/events/713355423013846/"
-    start: 2022-06-18T11:00:00+01:00
-    end: 2022-06-18T15:30:00+01:00
+    start: "2022-06-18T11:00:00+01:00"
+    end: "2022-06-18T15:30:00+01:00"
     country: UK
     city: Bristol
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     price: donation
     organisation: BalFolk Bristol
-
   - name: Balfolk Brunch
     links:
       - "https://www.facebook.com/events/449141390484988"
-    start: 2022-10-29T11:00:00+01:00
-    end: 2022-10-29T15:30:00+01:00
+    start: "2022-10-29T11:00:00+01:00"
+    end: "2022-10-29T15:30:00+01:00"
     country: UK
     city: Bristol
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -69,103 +70,12 @@ events:
       - Helena Torpy & Steve Turner
     price: donation
     organisation: BalFolk Bristol
-
   - name: Bristol Spelmanslag
     links:
       - "http://www.empson.org.uk/dance.html"
       - "https://www.facebook.com/events/673447310460539/"
-    start: 2022-11-13T15:30:00+00:00
-    end: 2022-11-13T19:00:00+00:00
-    country: UK
-    city: Bristol
-    styles: [scandi]
-    workshop: false
-    social: true
-    bands:
-      - Bristol Spelmanslag
-    price: £10
-    organisation: Bristol Spelmanslag
-
-  - name: Polska Workshop with Third Beat Dance Collective
-    links:
-      - "https://www.facebook.com/events/468340555223801/"
-    start: 2022-11-26T10:00:00+00:00
-    end: 2022-11-26T16:00:00+00:00
-    country: UK
-    city: Bristol
-    styles: [scandi]
-    workshop: true
-    social: false
-    price: £40
-    organisation: BalFolk Bristol
-
-  - name: Bal with Martin Coudroy
-    links:
-      - "https://tickets.bristolfolkhouse.co.uk/sales/live-events/bal-folk-with-martin-coudroy/bal-folk-with-martin-coudroy"
-      - "https://www.facebook.com/events/1709334502758658/"
-    start: 2022-11-26T19:00:00+00:00
-    end: 2022-11-26T23:00:00+00:00
-    country: UK
-    city: Bristol
-    styles: [balfolk]
-    workshop: true
-    social: true
-    bands:
-      - Martin Coudroy
-    price: £13.50-£16.50
-    organisation: BalFolk Bristol
-
-  - name: Balfolk Brunch
-    links:
-      - "https://www.headfirstbristol.co.uk/#date=2023-03-11&event_id=84234"
-      - "https://www.facebook.com/events/3389671901359568/"
-    start: 2023-03-11T11:00:00+00:00
-    end: 2023-03-11T15:30:00+00:00
-    country: UK
-    city: Bristol
-    styles: [balfolk]
-    workshop: true
-    social: true
-    bands:
-      - Moore & Moss
-    price: donation
-    organisation: BalFolk Bristol
-
-  - name: Bal with Hartwin Dhoore + Ross Grant
-    links:
-      - "https://www.facebook.com/events/747245029667915/"
-      - "https://www.headfirstbristol.co.uk/#date=2023-05-25&event_id=84358"
-    start: 2023-05-25T19:30:00+01:00
-    end: 2023-05-25T23:00:00+01:00
-    country: UK
-    city: Bristol
-    styles: [balfolk]
-    workshop: true
-    social: true
-    bands:
-      - Hartwin Dhoore
-      - Ross Grant
-    price: £10-£20
-    organisation: BalFolk Bristol
-
-  - name: Balfolk Brunch
-    links:
-      - "https://www.facebook.com/events/1432138670969260/1432138680969259/"
-    start: 2023-10-21T11:00:00+01:00
-    end: 2023-10-21T15:30:00+01:00
-    country: UK
-    city: Bristol
-    styles: [balfolk]
-    workshop: true
-    social: true
-    price: donation
-    organisation: BalFolk Bristol
-
-  - name: Swedish dance
-    links:
-      - "http://www.empson.org.uk/dance.html"
-    start: "2023-11-26T15:30:00Z"
-    end: "2023-11-26T19:00:00Z"
+    start: "2022-11-13T15:30:00+00:00"
+    end: "2022-11-13T19:00:00+00:00"
     country: UK
     city: Bristol
     styles:
@@ -176,7 +86,96 @@ events:
       - Bristol Spelmanslag
     price: £10
     organisation: Bristol Spelmanslag
-
+  - name: Polska Workshop with Third Beat Dance Collective
+    links:
+      - "https://www.facebook.com/events/468340555223801/"
+    start: "2022-11-26T10:00:00+00:00"
+    end: "2022-11-26T16:00:00+00:00"
+    country: UK
+    city: Bristol
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: £40
+    organisation: BalFolk Bristol
+  - name: Bal with Martin Coudroy
+    links:
+      - "https://tickets.bristolfolkhouse.co.uk/sales/live-events/bal-folk-with-martin-coudroy/bal-folk-with-martin-coudroy"
+      - "https://www.facebook.com/events/1709334502758658/"
+    start: "2022-11-26T19:00:00+00:00"
+    end: "2022-11-26T23:00:00+00:00"
+    country: UK
+    city: Bristol
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Martin Coudroy
+    price: £13.50-£16.50
+    organisation: BalFolk Bristol
+  - name: Balfolk Brunch
+    links:
+      - "https://www.headfirstbristol.co.uk/#date=2023-03-11&event_id=84234"
+      - "https://www.facebook.com/events/3389671901359568/"
+    start: "2023-03-11T11:00:00+00:00"
+    end: "2023-03-11T15:30:00+00:00"
+    country: UK
+    city: Bristol
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Moore & Moss
+    price: donation
+    organisation: BalFolk Bristol
+  - name: Bal with Hartwin Dhoore + Ross Grant
+    links:
+      - "https://www.facebook.com/events/747245029667915/"
+      - "https://www.headfirstbristol.co.uk/#date=2023-05-25&event_id=84358"
+    start: "2023-05-25T19:30:00+01:00"
+    end: "2023-05-25T23:00:00+01:00"
+    country: UK
+    city: Bristol
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Hartwin Dhoore
+      - Ross Grant
+    price: £10-£20
+    organisation: BalFolk Bristol
+  - name: Balfolk Brunch
+    links:
+      - "https://www.facebook.com/events/1432138670969260/1432138680969259/"
+    start: "2023-10-21T11:00:00+01:00"
+    end: "2023-10-21T15:30:00+01:00"
+    country: UK
+    city: Bristol
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: donation
+    organisation: BalFolk Bristol
+  - name: Swedish dance
+    links:
+      - "http://www.empson.org.uk/dance.html"
+    start: "2023-11-26T15:30:00+00:00"
+    end: "2023-11-26T19:00:00+00:00"
+    country: UK
+    city: Bristol
+    styles:
+      - scandi
+    workshop: false
+    social: true
+    bands:
+      - Bristol Spelmanslag
+    price: £10
+    organisation: Bristol Spelmanslag
   - name: Bal
     links:
       - "https://www.facebook.com/events/976950243600174/"
@@ -193,25 +192,24 @@ events:
       - Emily & The Simons
     price: £11.50-£21.50
     organisation: BalFolk Bristol
-
   - name: Balfolk Brunch
     links:
       - "https://www.facebook.com/events/1432138670969260/1432138677635926/"
-    start: 2024-01-27T11:00:00+00:00
-    end: 2024-01-27T15:30:00+00:00
+    start: "2024-01-27T11:00:00+00:00"
+    end: "2024-01-27T15:30:00+00:00"
     country: UK
     city: Bristol
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     price: donation
     organisation: BalFolk Bristol
-
   - name: Bal Massif
     links:
       - "https://www.facebook.com/events/2392436244270961/"
-    start: "2024-03-02T15:00:00Z"
-    end: "2024-03-02T20:00:00Z"
+    start: "2024-03-02T15:00:00+00:00"
+    end: "2024-03-02T20:00:00+00:00"
     country: UK
     city: Bristol
     styles:
@@ -224,30 +222,45 @@ events:
       - Sawney White Bird
       - Shivelight
     organisation: Helen Gentile & Lewis Wood
-
   - name: Balfolk Brunch
     links:
       - "https://www.facebook.com/events/1432138670969260/1432138687635925/"
-    start: 2024-04-13T11:00:00+01:00
-    end: 2024-04-13T15:30:00+01:00
+    start: "2024-04-13T11:00:00+01:00"
+    end: "2024-04-13T15:30:00+01:00"
     country: UK
     city: Bristol
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     price: donation
     organisation: BalFolk Bristol
-
   - name: Balfolk Brunch
     links:
       - "https://www.facebook.com/events/1432138670969260/1432138674302593/"
-    start: 2024-06-01T11:00:00+01:00
-    end: 2024-06-01T15:30:00+01:00
+    start: "2024-06-01T11:00:00+01:00"
+    end: "2024-06-01T15:30:00+01:00"
     country: UK
     city: Bristol
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
+    price: donation
+    organisation: BalFolk Bristol
+  - name: Balfolk at the Jam Jar
+    links:
+      - "https://www.facebook.com/events/429712076485889/"
+    start: "2024-11-23T12:00:00+00:00"
+    end: "2024-11-23T16:00:00+00:00"
+    country: UK
+    city: Bristol
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Portmanteau
     price: donation
     organisation: BalFolk Bristol
   - name: Swedish Dance
