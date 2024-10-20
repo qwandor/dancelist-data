@@ -15273,14 +15273,17 @@ events:
     links:
       - "https://boombal.be"
       - "https://folkbalbende.be/event/2220"
-    start_date: 2024-11-10
-    end_date: 2024-11-10
+    start: "2024-11-10T20:00:00+01:00"
+    end: "2024-11-10T22:45:00+01:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Kwintet Gestrikt
+      - Cardboard Cabin
     organisation: Boombal
   - name: Boombal
     details: Ball
@@ -15315,42 +15318,51 @@ events:
     links:
       - "https://boombal.be"
       - "https://folkbalbende.be/event/2223"
-    start_date: 2025-02-01
-    end_date: 2025-02-01
+    start: "2025-02-01T20:00:00+01:00"
+    end: "2025-02-01T22:45:00+01:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Floris And The Flames
+      - Bert Leemans
     organisation: Boombal
   - name: Boombal
     details: Ball
     links:
       - "https://boombal.be"
       - "https://folkbalbende.be/event/2225"
-    start_date: 2025-04-18
-    end_date: 2025-04-18
+    start: "2025-04-18T20:00:00+02:00"
+    end: "2025-04-18T22:45:00+02:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - La Machine
+      - Thalas
     organisation: Boombal
   - name: Boombal
     details: Ball
     links:
       - "https://boombal.be"
       - "https://folkbalbende.be/event/2226"
-    start_date: 2025-05-24
-    end_date: 2025-05-24
+    start: "2025-05-24T20:00:00+02:00"
+    end: "2025-05-24T22:45:00+02:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Bamako Express
+      - Marasc
     organisation: Boombal
   - name: Bal
     details: Ball
@@ -15913,14 +15925,17 @@ events:
     links:
       - "https://boombal.be"
       - "https://folkbalbende.be/event/2280"
-    start_date: 2025-03-04
-    end_date: 2025-03-04
+    start: "2025-03-04T20:00:00+01:00"
+    end: "2025-03-04T22:45:00+01:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Rémi Geffroy Septet
+      - Geronimo
     organisation: Boombal
   - name: Bal@herk
     details: Ball
@@ -16652,7 +16667,7 @@ events:
       - Duo Gestrikt
       - Hearken Quartet
     organisation: "Muziekclub 't Ey"
-  - name: Baleynbal
+  - name: "BaleynbalFOLKAFDELING D'ACADEMIE PODIUM SINT-NIKLAAS"
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -16895,24 +16910,6 @@ events:
     bands:
       - Les Kickeuses
     organisation: EléDanse ASBL
-  - name: Bal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.cabalfolk.be/"
-      - "https://folkbalbende.be/event/2382"
-    start_date: 2030-01-11
-    end_date: 2030-01-11
-    country: Belgium
-    city: Kortrijk
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - KV Express
-      - Marasc
-    organisation: CaBal
   - name: Folkjam
     details: Ball
     links:
@@ -17609,22 +17606,6 @@ events:
     social: false
     price: €20-€55
     organisation: Frisse Folk Vzw/asbl
-  - name: VERZET Naar 1 DEC! Folkbal-tryout-huisconcert
-    details: Ball
-    links:
-      - "https://folkbalbende.be/event/2419"
-    start: "2024-10-20T14:00:00+02:00"
-    end: "2024-10-20T17:00:00+02:00"
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - AllesEnNiets
-    price: €10
-    organisation: Ivo Raepsaet
   - name: Balfolk Classes @Sportcentrum Leuven
     details: Course
     links:
@@ -18093,3 +18074,173 @@ events:
       - Nog Te Bepalen
     price: €13-€15
     organisation: ~
+  - name: KerstBoombal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.boombal.be"
+      - "https://folkbalbende.be/event/2454"
+    start_date: 2024-12-26
+    end_date: 2024-12-26
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - No&Mi
+      - Marie Paulette
+      - Loogaroo Quartet
+      - No&Mi
+      - Marie Paulette
+    organisation: ~
+  - name: Bal Final
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.boombal.be/balfinal"
+      - "https://folkbalbende.be/event/2455"
+    start_date: 2024-12-31
+    end_date: 2024-12-31
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Entre Autres
+      - Shillelagh
+    organisation: ~
+  - name: Concert/Bal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.ecomusee.eu/"
+      - "https://folkbalbende.be/event/2456"
+    start_date: 2024-10-26
+    end_date: 2024-10-26
+    country: Belgium
+    city: Ellezelles
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - E Saquant Beyaus FêTe Ses 50 Ans !
+    organisation: ~
+  - name: Concert/Bal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.naragonia.com/"
+      - "https://folkbalbende.be/event/2459"
+    start_date: 2024-11-13
+    end_date: 2024-11-13
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Naragonia & Sint-Maartensgildeorkest
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://frissefolk.be/fr/civicrm/event/register/?id=931&reset=1"
+      - "https://folkbalbende.be/event/2460"
+    start_date: 2024-11-16
+    end_date: 2024-11-16
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - AuréLie Dorzee & Tom Theuns
+    organisation: Frisse Folk Vzw/asbl
+  - name: Soirée XL Danses Israéliennes & Internationales
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.facebook.com/groups/220257831442080/"
+      - "https://folkbalbende.be/event/2461"
+    start_date: 2024-11-30
+    end_date: 2024-11-30
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Bal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.cabalfolk.be/"
+      - "https://folkbalbende.be/event/2462"
+    start_date: 2025-01-11
+    end_date: 2025-01-11
+    country: Belgium
+    city: Kortrijk
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - KV Express
+      - Marasc
+    organisation: CaBal
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://pasdlayau.be/"
+      - "https://folkbalbende.be/event/2463"
+    start_date: 2025-01-25
+    end_date: 2025-01-25
+    country: Belgium
+    city: Quevaucamps
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - 3...4
+    organisation: "Pas d'La Yau"
+  - name: Duo MEUNIER-BUTEAU (France)
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://pasdlayau.be/"
+      - "https://folkbalbende.be/event/2464"
+    start_date: 2025-04-12
+    end_date: 2025-04-12
+    country: Belgium
+    city: Quevaucamps
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: "Pas d'La Yau"
+  - name: LOL (France)
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://pasdlayau.be/"
+      - "https://folkbalbende.be/event/2465"
+    start_date: 2025-09-20
+    end_date: 2025-09-20
+    country: Belgium
+    city: Quevaucamps
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: "Pas d'La Yau"
