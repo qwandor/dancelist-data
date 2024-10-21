@@ -1,13 +1,14 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: New Year's Eve Ceilidh
+  - name: "New Year's Eve Ceilidh"
     links:
       - "https://www.efdss.org/whats-on/27-dances/11496-new-years-eve-ceilidh-2022"
-    start: 2022-12-31T20:00:00+00:00
-    end: 2023-01-01T00:30:00+00:00
+    start: "2022-12-31T20:00:00+00:00"
+    end: "2023-01-01T00:30:00+00:00"
     country: UK
     city: London
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -15,4 +16,20 @@ events:
     callers:
       - Martin Clarke
     price: £35-£45
+    organisation: EFDSS
+  - name: Swedish concert and dance
+    links:
+      - "https://www.efdss.org/whats-on/26-gigs/14390-emma-reid-ellika-frisell-w-support-sawney-white-bird"
+    start: "2025-03-22T18:00:00+00:00"
+    end: "2025-03-22T22:15:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    bands:
+      - Emma & Ellika Frisell
+      - Sawney White Bird
+    price: £10-£22
     organisation: EFDSS
