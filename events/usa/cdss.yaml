@@ -28655,7 +28655,7 @@ events:
     links:
       - "https://www.fridaynightdance.com/tickets"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2024-11-01/"
-    start: "2024-11-01T20:00:00-04:00"
+    start: "2024-11-01T19:30:00-04:00"
     end: "2024-11-01T23:00:00-04:00"
     country: USA
     state: MD
@@ -28664,6 +28664,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Norman, first Fridays during the school year. Check our Facebook or our website for more details!"
@@ -28729,6 +28730,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: donation
     organisation: York Region English Country Dancers
   - name: Scissortail English Country Dance
     details: "Scissortail English Country Dance in Oklahoma City, first and third Saturdays.  Check our Facebook or our website for more details!"
@@ -28744,10 +28746,12 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: Old Tyme Contra & Community Dance
     details: "First Saturday of every month: lesson at 6:30, dance 7-9pm.\nLive band and dance caller for contras, squares, round, and fun crazy family dances, too.\nBeginners are welcome! No need to bring a partner, but you are welcome to do so.\nChildren over age 8 who are game to participate may also attend.\nBring a closed water container and a snack if you choose.\nSmooth-soled shoes work best on the Library’s wonderful wood floor.\nPlease do not wear perfume or scents to the dances.\n\nSuggested donation: $10 adults; kids under 14 free."
     links:
+      - "https://fontanalib.org/events/library-contra-dance-2"
       - "https://cdss.org/event/old-tyme-contra-community-dance-of-macon-county-nc/2024-11-02/"
     start: "2024-11-02T18:30:00-04:00"
     end: "2024-11-02T21:00:00-04:00"
@@ -28763,6 +28767,7 @@ events:
   - name: The Jefferson Ball
     details: "The Colonial Dance Club of Richmond cordially invites you to the 2024 Jefferson Ball. Enjoy a mixed program of old ECD favorites and modern dances to the delightful music of Elke Baker, Liz Donaldson, and Paul Oorts. \nAn opportunity to review dances is offered at the afternoon review session in the ballroom from 1:30 to 3:30 pm, and doors will open for the ball at 6pm, with the minuet starting the ball at 6:30 pm. \nFormal attire is requested to add to the festive feel of the evening. \nThe interval will provide time to socialize and enjoy hors d’oeuvres and desserts. \nAll participants must pre-register; please refer to the website for the dance list and registration details."
     links:
+      - "https://colonialdanceclubofrichmond.com/2024-jefferson-ball"
       - "https://cdss.org/event/the-jefferson-ball/"
     start: "2024-11-02T18:30:00-04:00"
     end: "2024-11-02T22:30:00-04:00"
@@ -28773,6 +28778,9 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Elke Baker, Liz Donaldson & Paul Oorts
+    price: $38
     organisation: Colonial Dance Club of Richmond
   - name: Atlanta Dance Weekend
     details: "Atlanta’s contra yearly dance weekend, features national level talent. In 2024, callers Will Mentor and Seth Tepfer; musicians: Drive Train and Faux Paws."
@@ -29131,6 +29139,7 @@ events:
   - name: Carolina Meltdown
     details: "Come join us for an amazing contra dance weekend featuring the bands Topspin (Owen Morrison, Anna Patton, Emily Troll, & Stefan Amidon) and Hot Coffee Breakdown (Tom Cunningham, Kate Sanders, & Luis de Leon). Our wonderful callers will be Rick Mohr and Darlene Underwood. \nHosted by the Charlotte Contra Dancers and held at beautiful YMCA Camp Thunderbird in Lake Wylie, South Carolina. Visit our website for more details."
     links:
+      - "https://www.charlottecontradance.org/carolina-meltdown"
       - "https://cdss.org/event/carolina-meltdown/"
     start_date: 2025-03-21
     end_date: 2025-03-23
@@ -29139,7 +29148,7 @@ events:
     city: Lake Wylie
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Hot Coffee Breakdown
