@@ -161,14 +161,18 @@ events:
   - name: Balfolk extravaganza
     links:
       - "https://www.weedonbalfolk.co.uk/"
-    start_date: 2024-09-21
-    end_date: 2024-09-21
+    start: "2024-09-21T15:00:00+01:00"
+    end: "2024-09-21T22:00:00+01:00"
     country: UK
     city: Weedon Bec
     styles:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Mel Biggs
+      - Sawney White Bird
+    price: £12-£20
     organisation: Weedon Balfolk
   - name: Weedon Balfolk
     links:
@@ -196,4 +200,28 @@ events:
     workshop: true
     social: true
     price: £5
+    organisation: Weedon Balfolk
+  - name: Fête des Rois
+    links:
+      - "https://www.weedonbalfolk.co.uk/"
+    start_date: 2025-01-05
+    end_date: 2025-01-05
+    country: UK
+    city: Weedon Bec
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Weedon Balfolk
+  - name: Weedon Balfolk
+    links:
+      - "https://www.weedonbalfolk.co.uk/"
+    start_date: 2025-05-30
+    end_date: 2025-05-30
+    country: UK
+    city: Weedon Bec
+    styles:
+      - balfolk
+    workshop: false
+    social: true
     organisation: Weedon Balfolk
