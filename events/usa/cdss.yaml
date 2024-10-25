@@ -28977,15 +28977,18 @@ events:
     links:
       - "https://www.queercontradance.org/circleleft.html"
       - "https://cdss.org/event/circle-left/2024-11-02/"
-    start: "2024-11-02T21:30:00-07:00"
-    end: "2024-11-03T01:00:00-07:00"
+    start: "2024-11-02T18:30:00-07:00"
+    end: "2024-11-02T22:00:00-07:00"
     country: USA
     state: CA
     city: Oakland
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    callers:
+      - Doe Taryn
+    price: $5-$20
     organisation: CDSS
   - name: English Country Dance
     details: "Dances taught by David Millstone, with music by Trip to Norwich (Thal Aylward, violin & viola; Carol Compton, keyboard & recorders). All dances taught; beginners and singles welcome."
@@ -29004,6 +29007,7 @@ events:
       - Trip to Norwich
     callers:
       - David Millstone
+    price: $15
     organisation: David Millstone
   - name: Capital English Country Dancers
     details: "Monthly English country dances, first Sunday of the month October–May. Live music, all dances taught; beginners, singles, and couples are welcome. Beginner workshop at 1:30 PM, dance at 2 PM.  \nRegular Dances: $15, $12 CECD Members (Membership: $15) Ice Cream Sunday: $17, $14 CECD Members (includes ice cream sundaes), Season Ticket: $88"
@@ -29019,11 +29023,12 @@ events:
       - ecd
     workshop: true
     social: true
-    price: $12-$88
+    price: $12-$15
     organisation: Capital English Country Dancers
-  - name: Concord NH 1st Sunday English Country Dance series
+  - name: Concord 1st Sunday English Country Dance
     details: "Monthly English Country dances by the NH English Country Dance Society\nIntroduction to English dance basics at 2:30\nDance to live music from 3 to 6"
     links:
+      - "https://manylives-oneworld.com/dave-bateman/nhecds/"
       - "https://cdss.org/event/concord-nh-1st-sunday-english-country-dance-series/2024-11-03/"
     start: "2024-11-03T14:30:00-05:00"
     end: "2024-11-03T18:00:00-05:00"
@@ -29032,8 +29037,9 @@ events:
     city: Concord
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    price: $10
     organisation: New Hampshire English Country Dance Society
   - name: Roseville English Country Dance
     details: "English Country Dance at the Masonic Lodge, 235 Vernon St., Roseville! Check our website for the most current information."
@@ -29049,6 +29055,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5-$12
     organisation: Sacramento Country Dance Society
   - name: Atlanta Dance Weekend
     details: "Atlanta’s contra yearly dance weekend, features national level talent. In 2024, callers Will Mentor and Seth Tepfer; musicians: Drive Train and Faux Paws."
