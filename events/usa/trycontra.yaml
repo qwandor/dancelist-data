@@ -1592,12 +1592,37 @@ events:
     city: Olivebridge
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
       - Thunderwing
     callers:
       - Ben Sachs-Hamilton
+      - Melissa Running
+    price: $150-$500
+    organisation: TryContra
+  - name: Lake Eden Arts Festival - Fall
+    links:
+      - "https://theleaf.org/leaf-october-festival/"
+    start_date: 2024-10-17
+    end_date: 2024-10-20
+    country: USA
+    state: NC
+    city: Black Mountain
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Red Dog
+      - Spintuition
+      - Lagomorph Quartet
+      - The Flying Howes
+    callers:
+      - Bob Isaacs
+      - Sarah Kaiser
+      - Kenny Greer
     organisation: TryContra
   - name: Phylla Mae Fall Fest
     links:
@@ -1609,6 +1634,7 @@ events:
     city: Fayetteville
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
@@ -1623,21 +1649,22 @@ events:
   - name: Peterbough Fall Ball
     links:
       - "https://www.monadnockfolk.org/event/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-2024/"
-    start_date: 2024-10-19
-    end_date: 2024-10-19
+    start: "2024-10-19T12:00:00-04:00"
+    end: "2024-10-19T23:59:00-04:00"
     country: USA
     state: NH
     city: Peterborough
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     bands:
       - River Road
     callers:
       - Alex Deis-Lauby
       - Maia McCormick
-    organisation: TryContra
+    price: $25
+    organisation: Monadnock Folklore Society
   - name: Boo Camp
     links:
       - "https://folkmads.org/events/camps/boo-camp/"
@@ -1648,6 +1675,7 @@ events:
     city: Jemez Springs
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
@@ -1856,8 +1884,8 @@ events:
   - name: Ralph Page Dance Legacy Weekend
     links:
       - "https://www.neffa.org/annual-ralph-page-dance-event/"
-    start_date: 2025-01-10
-    end_date: 2025-01-11
+    start: "2025-01-10T19:30:00-05:00"
+    end: "2025-01-11T22:00:00-05:00"
     country: USA
     state: MA
     city: Worcester
@@ -1865,7 +1893,14 @@ events:
       - contra
     workshop: true
     social: true
-    organisation: TryContra
+    bands:
+      - Sugar River Band
+    callers:
+      - Tod Whittemore
+      - Steve Zakon-Anderson
+      - Sue Rosen
+      - Vince O'Donnell
+    organisation: NEFFA
   - name: Contra Carnivale
     links:
       - "https://contracarnivale.org/"
@@ -1924,12 +1959,13 @@ events:
     callers:
       - Gaye Fifer
       - Koren Wake
+    price: $125-$165
     organisation: TryContra
   - name: Chattaboogie
     links:
-      - "https://contranooga.us/page/ctdscalendar"
-    start_date: 2025-01-10
-    end_date: 2025-01-12
+      - "https://contranooga.us/"
+    start: "2025-01-10T18:00:00-05:00"
+    end: "2025-01-12T15:30:00-05:00"
     country: USA
     state: TN
     city: Chattanooga
@@ -1943,7 +1979,8 @@ events:
     callers:
       - Timothy Klein
       - Vicki Herndon
-    organisation: TryContra
+    price: $90-$145
+    organisation: Chattanooga Traditional Dance Society
   - name: Supersonic
     links:
       - "https://www.supersoniccontra.com/"
@@ -1962,6 +1999,7 @@ events:
     callers:
       - Seth Tepfer
       - Cis Hinkle
+    price: $120-$240
     organisation: TryContra
   - name: Tropical Dance Vacation
     links:
@@ -2025,7 +2063,7 @@ events:
     organisation: TryContra
   - name: Call of the Loon Dance Weekend
     links:
-      - "https://www.tapestryfolkdance.org/starofthenorth-1-1"
+      - "https://www.tapestryfolkdance.org/call-of-the-loon"
     start_date: 2025-04-11
     end_date: 2025-04-13
     country: USA
