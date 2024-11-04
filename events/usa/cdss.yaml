@@ -29843,6 +29843,8 @@ events:
   - name: Eugene Country Dancers Saturday Afternoon Dance
     details: "English and Scottish country dancing from 1:00 pm to 3:45 pm followed by a potluck. Rachel Pusey and Dilip Sequeira with Ruth Anne Fraley and Amey Herman."
     links:
+      - "http://www.heatherandrose.org/activities/ongoing.shtml"
+      - "http://heatherandrose.org/activities/2024novembereugene.pdf"
       - "https://cdss.org/event/eugene-country-dancers-saturday-afternoon-dance/"
     start: "2024-11-09T13:00:00-08:00"
     end: "2024-11-09T16:45:00-08:00"
@@ -29851,8 +29853,13 @@ events:
     city: Eugene
     styles:
       - ecd
+      - scd
     workshop: false
     social: true
+    callers:
+      - Rachel Pusey
+      - Dilip Sequeira
+    price: $15-$20
     organisation: Eugene Country Dancers%2C branch of Heather &amp%3B Rose
   - name: Floyd Contra Dance
     details: "A small, local dance in the heart of the Blue Ridge Mountains. We’re on the Crooked Road Trail, which highlights Appalachian music and heritage. Beginners lessons start at 7, dance starts at 7:30."
@@ -29868,6 +29875,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $10
     organisation: CDSS
   - name: CDK Contra Dance
     details: "Contra & Square Dance – beginner workshop 7:00pm, Dancing 7:30 – 10:30pm \n\nFebruary 10: Tunes by Brook Farm String Band; calls by Marlin Whitaker.\nMarch 9: Big Fun with Darlene Underwood (English dance in the afternoon 2p-5p)\nApril 13: Smith, Campeau & Nelson with Ken Gall calling\nMay 11: Liberty String Band with Maeve Devlin calling\nJune 8: River Music with various local callers – Open Mic Night\n\nSuggested donation $5-$20"
@@ -29894,14 +29902,14 @@ events:
     links:
       - "https://spacecoastcontra.org/calendar-upcoming-contra-dances/"
       - "https://cdss.org/event/space-coast-contra-dance/2024-11-09/"
-    start: "2024-11-09T19:30:00-05:00"
+    start: "2024-11-09T19:00:00-05:00"
     end: "2024-11-09T22:30:00-05:00"
     country: USA
     state: FL
     city: Cocoa
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $5-$15
     organisation: Space Coast Contra Dance
@@ -29909,7 +29917,8 @@ events:
     details: "Join us for a traditional New England contra dance at Tracy Hall in Norwich. All dances are taught, and beginners and singles are always welcome. \n\nWe offer potluck snacks at the break, so please feel free to bring something to share.\nOur caller will offer a introductory / refresher session at 7:15 pm for newcomers or those who want to review the basics.\nPlease bring clean non-marking shoes to help protect our dance floor!\nMasks are optional and welcome; vaccination strongly encouraged; please stay home if you have been exposed or are experiencing symptoms.\n\nSliding Scale Admission: \n\n$20 Dance Supporters\n$12 General Admission\n$8 Students\nUnder 16 free"
     links:
       - "https://cdss.org/event/norwich-contra-dance/2024-11-09/"
-    start: "2024-11-09T19:30:00-05:00"
+      - "https://www.facebook.com/events/1165412925013196/"
+    start: "2024-11-09T19:15:00-05:00"
     end: "2024-11-09T22:30:00-05:00"
     country: USA
     state: VT
@@ -29918,29 +29927,18 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Atlantic Crossing
+    callers:
+      - Ben Sachs-Hamilton
     price: $8-$20
     organisation: Muskeg Music
-  - name: Saturday Night Contra Dance
-    details: "Join the Richmond, VA, contra dance, hosted by TADAMS at the West End Ballroom for a Saturday evening dance. Beginner lesson at 6:45pm, dance from 7:30-10:30pm. Admission is $15 non-members, $10 members and students, children under 13 are free. Please check our full website calendar for caller and band details."
-    links:
-      - "https://cdss.org/event/richmond-va-saturday-night-contra-dance/2024-11-09/"
-    start: "2024-11-09T19:30:00-05:00"
-    end: "2024-11-09T22:30:00-05:00"
-    country: USA
-    state: VA
-    city: Richmond
-    styles:
-      - contra
-    workshop: true
-    social: true
-    price: $10-$15
-    organisation: TADAMS (Traditional American Dance and Music Society)
   - name: TopHill Music Contradance Party
     details: "Please check the Guiding Star Grange website for details. \nSchedule: There will be a newcomers workshop at 7:45pm. Please come early to help our new dancing friends! All are welcome! \nCost: $12-20 sliding scale \n\nHigh-level masks are mandated for this dance.\nPlease bring your own water bottle.\nUp-to-date vaccinations are encouraged but not required.\nIf you are not feeling well, please do not attend, but rather care for yourself and others and join us next time!\n\nSee venue website for this month’s details and Covid policy."
     links:
       - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/second-saturday-tophill-music-contradance-party-at-guiding-star-grange/2024-11-09/"
-    start: "2024-11-09T20:00:00-05:00"
+    start: "2024-11-09T19:45:00-05:00"
     end: "2024-11-09T23:00:00-05:00"
     country: USA
     state: MA
@@ -29949,7 +29947,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    price: $12-$20
     organisation: Alice Kenney
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Oklahoma City, second and fourth Saturdays. Check our Facebook or our website for more details!"
@@ -29981,6 +29979,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Contra Dance
     details: "HATDS hosts contra dances on the 2nd and 4th Saturdays of most months. We dance to live music. All skill levels are welcome and all dances are called. Bring water and clean shoes! \nThe admission price for contra dances is $10 for members, $15 for non-members. Cash, checks, credit cards, and digital wallets are currently accepted at the door. If paying cash, please bring correct change. No large bills accepted."
@@ -30002,7 +30001,7 @@ events:
     details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
     links:
       - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2024-11-09/"
-    start: "2024-11-09T19:30:00-06:00"
+    start: "2024-11-09T18:30:00-06:00"
     end: "2024-11-09T23:00:00-06:00"
     country: USA
     state: AL
@@ -30018,7 +30017,7 @@ events:
     links:
       - "https://lawrencecontra.wordpress.com/calendar/"
       - "https://cdss.org/event/community-contra-dance-2/"
-    start: "2024-11-09T19:30:00-06:00"
+    start: "2024-11-09T19:00:00-06:00"
     end: "2024-11-09T22:00:00-06:00"
     country: USA
     state: KS
@@ -30027,6 +30026,8 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Brickyard Joes
     callers:
       - Jill Allen
     price: $5-$15
@@ -30083,11 +30084,11 @@ events:
       - Kelsey Hartman
     price: $5-$12
     organisation: Sacramento Country Dance Society
-  - name: "Brownsville English Country Dance, Vermont"
+  - name: Brownsville English Country Dance
     details: "The fall series of ECD is starting in Brownsville on September 8th and will run on the second Sundays for the fall – Sept, Oct, Nov & Dec. This dance welcomes all levels of dancers, from first-time dancers to experienced dancers. An introduction or review will be held if needed at 12:45. \n\nCaller: Jill Delaney\nMusicians: Carol Compton, piano; Thal Aylward, violin\nMask Optional\nPotluck table at the break – feel free to bring something!\nAs always, if you are not feeling well, regardless of the reason, please stay home. We’ll be happy to see you next time!\nPlease bring clean, soft-soled shoes for dancing. Also bring a water bottle.\nSingles welcome!\nLocation is the Town Hall, 22 Hartland-Brownsville Rd., West Windsor, VT (some GPS want the town to be Brownsville, VT).\nThere is a great little store/cafe across the street if anyone wants lunch or dinner.\n\nThis dance is supported in part by a grant through the Country Dance and Song Society (CDSS)."
     links:
       - "https://cdss.org/event/brownsville-english-country-dance-vermont/2024-11-10/"
-    start: "2024-11-10T13:00:00-05:00"
+    start: "2024-11-10T12:45:00-05:00"
     end: "2024-11-10T16:00:00-05:00"
     country: USA
     state: VT
@@ -30096,6 +30097,8 @@ events:
       - ecd
     workshop: true
     social: true
+    bands:
+      - Carol Compton & Thal Aylward
     callers:
       - Jill Delaney
     organisation: CDSS
@@ -30103,7 +30106,7 @@ events:
     details: "Join us in Richmond, VA for a Sunday afternoon contra dance, hosted by TADAMS, at the beautiful historic Ginter Hall. Beginner lesson at 1:45pm, dance from 2:30-5:30pm. Please see our full website calendar for band and caller details. Admission is $15 non-members, $10 members & students, children under 13 are free."
     links:
       - "https://cdss.org/event/richmond-va-2nd-sunday-afternoon-contra-dance/2024-11-10/"
-    start: "2024-11-10T14:30:00-05:00"
+    start: "2024-11-10T13:45:00-05:00"
     end: "2024-11-10T17:30:00-05:00"
     country: USA
     state: VA
@@ -30114,6 +30117,7 @@ events:
     social: true
     price: $10-$15
     organisation: TADAMS (Traditional American Dance and Music Society)
+    cancelled: true
   - name: All-Ages Community Barn Dance
     details: "The Fox Valley Folklore Society presents an afternoon of dancing, starting with easy, all-ages material, and progressing to squares and contras, all done to live music."
     links:
@@ -30128,10 +30132,12 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$15
     organisation: CDSS
   - name: English Country Dance
     details: "Twice-monthly English Country Dance session in Colorado Springs, CO. Each dance will be taught and then practiced. Great social atmosphere and fun!"
     links:
+      - "https://www.meetup.com/english-county-dance-colorado-springs/events/304111731/"
       - "https://cdss.org/event/english-country-dance/2024-11-10/"
     start: "2024-11-10T13:45:00-07:00"
     end: "2024-11-10T15:45:00-07:00"
