@@ -31096,6 +31096,7 @@ events:
     social: true
     price: $10-$12
     organisation: Blacksburg Contra Dance
+    cancelled: true
   - name: South Florida Contradance
     details: "Enjoying contra dance\nYou’ll be smiling and laughing.\nNo partner is necessary. Lesson at the beginning. Wear casual clothes and soft soled shoes.\nAge range 10-100\nDances are called.\nPut the phone down and destress your life."
     links:
@@ -31158,9 +31159,9 @@ events:
       - contra
     workshop: true
     social: true
-    bands:
-      - The Moving Violations
-    price: $8-$12
+    callers:
+      - Steve Zakon-Anderson
+    price: $8-$20
     organisation: Van Kaynor
   - name: 3rd Saturday Contra Dance
     details: "Every 3rd Saturday from September through May. See our website for this month’s band and caller. \nWe use gender neutral role terms at all dances. \nProud Associate member of PATMAD and CDSS. \n$5 to $20, sliding scale."
@@ -31183,7 +31184,7 @@ events:
     links:
       - "https://capitalcitygrange.org/dancing/contradancing/"
       - "https://cdss.org/event/montpelier-contra-dance/2024-11-16/"
-    start: "2024-11-16T20:00:00-05:00"
+    start: "2024-11-16T19:40:00-05:00"
     end: "2024-11-16T23:00:00-05:00"
     country: USA
     state: VT
@@ -31208,6 +31209,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Friends of Traditional Dance Contra
     details: "Contra Dance every 1st and 3rd Saturday \nWe dance at the fabulous Masonic Ballroom, with its gorgeous sprung wood dance floor."
@@ -31314,6 +31316,7 @@ events:
     social: true
     callers:
       - Emily Rush
+    price: $10-$12
     organisation: Blacksburg Contra Dance
   - name: 3rd Sunday English Country Dance
     details: "HATDS ECD meets most 1st, 3rd, and 5th Sundays. All levels are welcomed at the 1st and 3rd Sundays. 5th Sunday dances are usually, but not always, for experienced dancers. The schedule sometimes changes, so check our event calendar before coming."
@@ -31329,21 +31332,23 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Houston Area Traditional Dance Society
   - name: Sacramento English Country Dance
     details: "English Country Dance at the Young Ladies’ Institute, 1400 27th St., Sacramento! Check our website for the most current information."
     links:
       - "https://sactocds.wordpress.com/"
       - "https://cdss.org/event/sacramento-english-country-dance-third-sunday/2024-11-17/"
-    start: "2024-11-17T14:00:00-08:00"
+    start: "2024-11-17T13:30:00-08:00"
     end: "2024-11-17T17:00:00-08:00"
     country: USA
     state: CA
     city: Sacramento
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    price: $5-$12
     organisation: Sacramento Country Dance Society
   - name: English Country Dance at Tapestry Folkdance Center
     details: "English country dancing is an accessible social dance form with a history going back several centuries. This is the dancing of Queen Elizabeth I, of Jane Austen, and a living tradition that inspires musical compositions and choreographies today. The music can be stately or sprightly, traditional or modern, recorded or live. It is danced with simple walking or skipping steps in time to the music. All dances are taught and are usually done in “long-ways sets” with partners facing in lines down the hall. After a walk-through, the easy-to-learn figures are called throughout the dance as you interact with other couples in your set and then move on to the next and repeat.\n​\nYou can come by yourself and be assured of dancing throughout the evening, since our tradition is to welcome and teach beginners and change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience.  English country dance will satisfy your wish for pleasurable exercise, a warm social community, mental stimulation, or even transcendent aesthetic experiences. We invite you to join us! \n​Recorded Music: $12 General | $10 Members | $7 Young Adult & Youth (Ages 10 -21)"
@@ -31366,8 +31371,8 @@ events:
     links:
       - "https://nbcds.org/english-country-dance/"
       - "https://cdss.org/event/sebastopol-1st-and-3rd-sunday-english-dance/2024-11-17/"
-    start: "2024-11-17T17:00:00-08:00"
-    end: "2024-11-17T19:30:00-08:00"
+    start: "2024-11-17T14:00:00-08:00"
+    end: "2024-11-17T16:30:00-08:00"
     country: USA
     state: CA
     city: Sebastopol
@@ -31375,28 +31380,30 @@ events:
       - ecd
     workshop: false
     social: true
-    price: $3-$15
+    price: $5-$15
     organisation: North Bay Country Dance Society
+    cancelled: true
   - name: Contra Dance in St Louis
     details: Weekly contra dance in St Louis area (actually Webster Groves MO). Always great live music. First dance each month features open calling.
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2024-11-17/"
-    start: "2024-11-17T19:00:00-06:00"
+    start: "2024-11-17T18:30:00-06:00"
     end: "2024-11-17T21:30:00-06:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
     links:
       - "https://cdss.org/event/gainesville-florida-english-country-dance/2024-11-18/"
-    start: "2024-11-18T18:30:00-05:00"
+    start: "2024-11-18T18:10:00-05:00"
     end: "2024-11-18T20:30:00-05:00"
     country: USA
     state: FL
@@ -31407,7 +31414,7 @@ events:
     social: true
     bands:
       - Hoggetowne Fancy
-    price: $5
+    price: $10
     organisation: Gainesville English Country Dance
   - name: Monday Night Dance
     details: "Contra Dance to live music every Monday in the beautiful, historic Laurel Theater. We have a short newcomer session beginning at 7:00 with the dance beginning at 7:30. \nEveryone is welcome! \n$10 Adults / $5 Students"
@@ -31428,6 +31435,7 @@ events:
   - name: Monday Contra Dance
     details: "What better way to start the week? Only $5! It’s Monday, and we (almost) always dance on Monday."
     links:
+      - "https://www.monadnockfolk.org/contra-dances/the-nelson-monday-night-dance/"
       - "https://cdss.org/event/monday-contra-dance-in-nelson-nh/2024-11-18/"
     start: "2024-11-18T19:30:00-05:00"
     end: "2024-11-18T22:00:00-05:00"
@@ -31454,6 +31462,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: Winter WarmUp
     details: "Big Scioty Contra Dance presents its yearly dance weekend at the Worthington Community Center (north end of Columbus, OH) \nBands: Notorious (Larry Unger, Eden MacAdam-Somer, Mark “Pokey” Hellenberg & Sam Bartlett) and The Hollertones (Paul Brown, Jeanie Creamer, Linda Scutt & Nick Weiland) \nCallers are Will Mentor and Liz Burkhart. \nMore info and registration at bigscioty.com"
