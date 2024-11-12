@@ -14913,6 +14913,25 @@ events:
   - name: Bal Final
     details: Ball
     links:
+      - "https://www.boombal.be/balfinal/"
+      - "https://www.facebook.com/events/517344467912245/"
+    start: "2024-12-31T20:00:00+01:00"
+    end: "2025-01-01T03:00:00+01:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - KV Express
+      - Hidrae
+      - Shilleglagh
+    price: €28-€35
+    organisation: Boombal
+  - name: Boombal
+    details: Ball
+    links:
       - "https://boombal.be"
       - "https://folkbalbende.be/event/2223"
     start: "2025-02-01T20:00:00+01:00"
@@ -17774,19 +17793,19 @@ events:
   - name: Balhalla
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://balhalla.be/"
+      - "https://www.balhalla.be/en/event/bal-with-threo"
       - "https://folkbalbende.be/event/2472"
-    start_date: 2029-12-20
-    end_date: 2029-12-20
+    start: "2025-01-30T19:00:00+01:00"
+    end: "2025-01-30T23:00:00+01:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Threo
+    price: €10-€16
     organisation: Balhalla
   - name: Folkbal
     details: Ball
@@ -17801,24 +17820,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Folkbal Met Johan Carrijn En Yves De Groote
-    organisation: ~
-  - name: Bal (Folklorique)
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.volkskunstgroepnele.org/"
-      - "https://folkbalbende.be/event/2474"
-    start_date: 2024-11-17
-    end_date: 2024-11-17
-    country: Belgium
-    city: Grimbergen
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - "Danses Flamandes & D'Europe De L'Ouest"
+      - Johan Carrijn & Yves De Groote
     organisation: ~
   - name: Driekoningenbal
     details: Ball
@@ -17835,7 +17837,6 @@ events:
     workshop: false
     social: true
     bands:
-      - Ragaerí
       - Laouen
     price: €2-€12
     organisation: Muziekmozaïek
@@ -17844,8 +17845,8 @@ events:
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://folkbalbende.be/event/2476"
-    start_date: 2024-11-30
-    end_date: 2024-11-30
+    start: "2024-11-30T19:30:00+01:00"
+    end: "2024-12-01T00:00:00+01:00"
     country: Belgium
     city: Brussels
     styles:
@@ -17854,6 +17855,6 @@ events:
     social: true
     bands:
       - Duo DLC
-      - Ztte Sonerien
+      - Zotte Sonerien
       - Duo Gloaguen/Le Henaff
     organisation: ~
