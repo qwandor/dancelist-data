@@ -2428,7 +2428,7 @@ events:
     social: true
     price: $5-$20
     organisation: PATMAD
-  - name: 'Community "Soup-er Saturday" Dance'
+  - name: "Community \"Soup-er Saturday\" Dance"
     details: "Now 3rd Saturdays and still serving Homemade Soup & Cornbread! \n\nThis is so wicked fun! It is the most fun you can have with your clothes on! We dance to live fiddle tunes of Ireland, Scotland, England, France, Appalachia and America! We often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time!\nParking: On-street parking and additional parking behind the building (enter next to City hall).\nCaller: Billy Fischer, from Connecticut, Billy has been calling dances for over thirty years, starting out in New Haven, Connecticut with the contra dance series that has been a fixture of the folk music and dance scene since 1976. In addition to contra dances in and around the northeast, he has called at various dance camps regionally and nationally!\nLive Music by: Woody & the Westside Warblers! They have a Rhode Island connection! Most members are from RI. They are: Camilla Streeter, keyboards; David Horne, bass, mandolin or banjo; and Chris Warren, fiddle or cello. They are skilled musicians that radiate energy and joy through their music. They are not to be missed!.\nAdmission: Your choice $15 – $20 per person / WCFA Members $12 / Students (with ID) $10. Contributions are always encouraged.\nFood/Concessions: Homemade soup, homemade cornbread, lemonade & fresh brewed tea @ $3 a bowl & all for the benefit of the band and caller!\nClothing & Footwear: Clothing is casual, layers are best for this invigorating exercise. Please wear non-street shoes that move easily on the floor (rubber soled sneakers are ok but harder to dance with).\nRole Terms: Traditional – “ladies & gents” but all are welcome to choose the role term that works for them!"
     links:
       - "https://cdss.org/event/community-soup-er-saturday-dance/"
@@ -25900,11 +25900,14 @@ events:
     social: true
     bands:
       - Playing with Fyre
+    callers:
+      - Charlotte Crittenden
     price: $5
     organisation: CDSS
   - name: Dancing with Jane Austen
     details: "English Country Dance with emphasis on dances from the lifetime of Jane Austen. Live music by Fourpence, instruction and prompting by Susan English. No experience or partner necessary. Please carry in clean shoes and a personal water bottle. Suggested donation $7 adults, $5 students. Must be able to follow directions."
     links:
+      - "https://www.woosterdance.com/"
       - "https://cdss.org/event/dancing-with-jane-austen/2024-11-23/"
     start: "2024-11-23T19:00:00-05:00"
     end: "2024-11-23T21:00:00-05:00"
@@ -26498,6 +26501,10 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Steam!
+    callers:
+      - Jeremy Korr
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Jane Austen Ball
     details: "Join us for a special Jane Austen Ball, on the 250th anniversary of her birth.  \nThe Ball will be called by Beverly Francis, a longstanding leader from Country Dance New York. She has a particular fondness for country dance in the time of Jane Austen and has called many dances for the Jane Austen Society of North America, New York Metropolitan Region, as well as two balls for the national JASNA. \nMusic for the ball will be provided by Alchemy, who will add some contemporary innovation and improvisation to the traditional dance tunes. \nWe’re planning an afternoon Ball practice and evening experienced dance on Saturday, April 26 at First Baptist Church, 175 Allens Creek Rd. On Sunday, April 27, there is another practice in the morning, and the ball in the afternoon at the ballroom of the Memorial Art Gallery. We usually open Ball registration on Valentine’s Day."
@@ -26513,7 +26520,10 @@ events:
     workshop: false
     social: true
     bands:
+      - Alchemy
       - Nova
+    callers:
+      - Beverly Francis
     organisation: Country Dancers of Rochester
   - name: Whitewater Whirl Contra Dance Weekend
     details: "Join FOOTMAD for the 18th annual Whitewater Whirl Contra Dance Weekend in West Virginia’s scenic New River Gorge area. \nOur bands are Supertrad, a regular on the dance weekend circuit, featuring Sam Bartlett (banjo), Eric Schedler (piano and accordion), and Owen Morrison (guitar and foot percussion) and The Johns featuring Ruby John (fiddle), John Warstler (guitar), and Budd Greenman (mandolin, tenor banjo, fiddle, percussion). \nOur callers are the well-traveled Darlene Underwood from Cincinnati and Michael Karcher, now based in Allentown, PA. \nOur talented sound engineer, Hanno Meingast, will be making the music in the hall sound great. \nTwo evening contra dances, contra dance sessions during the day plus a late-night techno-contra, waltz, squares, English Country and Kerry Sets. We’ll be dancing in our wood and stone New Deal-era hall with suspended wooden floor and barn doors opened or closed to suite the weather. The calling terms will be larks and robins. \nCabin accommodation or camping is included in the weekend price. The camp will open Thursday night for early arrivals and stay open Sunday night for late departures. Online registration starts December 1 on our website."
@@ -26530,8 +26540,10 @@ events:
     social: true
     bands:
       - Supertrad
+      - The Johns
     callers:
       - Darlene Underwood
+      - Michael Karcher
     organisation: Friends of Old Time Music and Dance of Kanawha Valley (FOOTMAD)
   - name: Flamingo Fling Contra Weekend in Oklahoma City
     details: Flamingo Fling is Oklahoma City’s annual Contra Dance weekend! This year will feature Alex Deis-Lauby calling and music from River Road!
@@ -26565,3 +26577,18 @@ events:
     workshop: true
     social: true
     organisation: CDSS
+  - name: Lark Camp
+    details: "Music, Song & Dance Workshops in the beautiful Mendocino Woodlands of California \nFamily Friendly • Dances, Jams & Sessions • Great Food • Camping \nFull Camp for 8 Days, or Half Camp for 4 Days; Learn music, song, and dance traditions from Ireland, British Isles, Greece, Eastern Europe, Sweden, Latin America, North America, Spain, France, the Middle East, Asia, and Africa"
+    links:
+      - "https://cdss.org/event/lark-camp/"
+    start_date: 2025-08-01
+    end_date: 2025-08-09
+    country: USA
+    state: CA
+    city: Fort Bragg
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    organisation: Lark Traditional Arts
