@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Contra Dance
+    links:
+      - "https://www.akk.org/workshops/T01.php"
+    start: "2024-11-24T14:30:00+01:00"
+    end: "2024-11-24T17:30:00+01:00"
+    country: Germany
+    city: Karlsruhe
+    styles:
+      - contra
+    workshop: false
+    social: true
+    callers:
+      - Rebecca Sass
+      - Lydia
+    price: free
+    organisation: AKK
