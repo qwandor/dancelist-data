@@ -8,12 +8,12 @@ events:
     end: "2023-03-26T21:30:00+01:00"
     country: UK
     city: Crewkerne
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     price: £4
     organisation: Bal Crewkerne
-
   - name: Bal Crewkerne
     links:
       - "https://balcrew.wixsite.com/balcrewkerne"
@@ -22,58 +22,17 @@ events:
     end: "2023-06-18T21:30:00+01:00"
     country: UK
     city: Crewkerne
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     price: £4
     organisation: Bal Crewkerne
-
   - name: Bal Crewkerne
     links:
       - "https://balcrew.wixsite.com/balcrewkerne"
     start: "2023-08-20T18:00:00+01:00"
     end: "2023-08-20T21:30:00+01:00"
-    country: UK
-    city: Crewkerne
-    styles: [balfolk]
-    workshop: true
-    social: true
-    price: £4
-    organisation: Bal Crewkerne
-
-  - name: Bal Crewkerne
-    links:
-      - "https://balcrew.wixsite.com/balcrewkerne"
-    start: "2023-10-15T18:00:00+01:00"
-    end: "2023-10-15T21:30:00+01:00"
-    country: UK
-    city: Crewkerne
-    styles: [balfolk]
-    workshop: true
-    social: true
-    price: £4
-    organisation: Bal Crewkerne
-
-  - name: Bal Crewkerne
-    links:
-      - "https://balcrew.wixsite.com/balcrewkerne"
-      - "https://www.facebook.com/events/347242951230660/"
-    start: "2023-12-17T18:00:00+00:00"
-    end: "2023-12-17T21:30:00+00:00"
-    country: UK
-    city: Crewkerne
-    styles: [balfolk]
-    workshop: true
-    social: true
-    price: £4
-    organisation: Bal Crewkerne
-
-  - name: Bal Crewkerne
-    details: French + Breton dance with live music
-    links:
-      - "https://balcrew.wixsite.com/balcrewkerne"
-    start: 2024-02-18T18:00:00+00:00
-    end: 2024-02-18T21:30:00+00:00
     country: UK
     city: Crewkerne
     styles:
@@ -82,7 +41,47 @@ events:
     social: true
     price: £4
     organisation: Bal Crewkerne
-
+  - name: Bal Crewkerne
+    links:
+      - "https://balcrew.wixsite.com/balcrewkerne"
+    start: "2023-10-15T18:00:00+01:00"
+    end: "2023-10-15T21:30:00+01:00"
+    country: UK
+    city: Crewkerne
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: £4
+    organisation: Bal Crewkerne
+  - name: Bal Crewkerne
+    links:
+      - "https://balcrew.wixsite.com/balcrewkerne"
+      - "https://www.facebook.com/events/347242951230660/"
+    start: "2023-12-17T18:00:00+00:00"
+    end: "2023-12-17T21:30:00+00:00"
+    country: UK
+    city: Crewkerne
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: £4
+    organisation: Bal Crewkerne
+  - name: Bal Crewkerne
+    details: French + Breton dance with live music
+    links:
+      - "https://balcrew.wixsite.com/balcrewkerne"
+    start: "2024-02-18T18:00:00+00:00"
+    end: "2024-02-18T21:30:00+00:00"
+    country: UK
+    city: Crewkerne
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: £4
+    organisation: Bal Crewkerne
   - name: Bal Crewkerne
     details: French + Breton dance and live music
     links:
@@ -97,7 +96,6 @@ events:
     social: true
     price: £4
     organisation: Bal Crewkerne
-
   - name: Bal Crewkerne
     details: French + Breton dance and live music
     links:
@@ -112,7 +110,6 @@ events:
     social: true
     price: £4
     organisation: Bal Crewkerne
-
   - name: Bal Crewkerne
     details: French + Breton dance and live music
     links:
@@ -127,7 +124,6 @@ events:
     social: true
     price: £4
     organisation: Bal Crewkerne
-
   - name: Bal Crewkerne
     details: French + Breton dance and live music
     links:
@@ -142,7 +138,6 @@ events:
     social: true
     price: £4
     organisation: Bal Crewkerne
-
   - name: Bal Crewkerne
     details: French + Breton dance and live music
     links:
@@ -155,5 +150,21 @@ events:
       - balfolk
     workshop: true
     social: true
+    price: £4
+    organisation: Bal Crewkerne
+  - name: Bal Crewkerne
+    details: Breton/French music and dance
+    links:
+      - "https://balcrew.wixsite.com/balcrewkerne"
+    start: "2025-02-16T18:00:00+00:00"
+    end: "2025-02-16T21:30:00+00:00"
+    country: UK
+    city: Crewkerne
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - house band
     price: £4
     organisation: Bal Crewkerne
