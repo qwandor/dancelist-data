@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal Folk
+    links:
+      - "https://www.facebook.com/events/1285629375768499/"
+      - "https://wegottickets.com/event/637263"
+    start: "2024-11-22T19:00:00+00:00"
+    end: "2024-11-22T23:15:00+00:00"
+    country: UK
+    city: Harberton
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Dragonsfly
+    price: £13.20-£14
+    organisation: South Devon Bal Folk Collective
