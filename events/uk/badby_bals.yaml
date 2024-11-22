@@ -204,14 +204,18 @@ events:
   - name: Fête des Rois
     links:
       - "https://www.weedonbalfolk.co.uk/"
-    start_date: 2025-01-05
-    end_date: 2025-01-05
+      - "https://www.facebook.com/events/938876887573023/"
+    start: "2025-01-05T14:00:00+00:00"
+    end: "2025-01-05T17:00:00+00:00"
     country: UK
     city: Weedon Bec
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Duo Martin Godefroi
+    price: £10
     organisation: Weedon Balfolk
   - name: Weedon Balfolk
     links:
