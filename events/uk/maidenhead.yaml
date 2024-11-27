@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Christmas Ceilidh
+    links:
+      - "https://www.facebook.com/events/481383304690975/"
+      - "https://norden.farm/events/christmas-ceilidh-98edfb2f-861c-4fcd-bfd4-885928df11e5"
+    start: "2024-12-20T19:30:00+00:00"
+    end: "2024-12-20T22:30:00+00:00"
+    country: UK
+    city: Maidenhead
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Nedron's Jig"
+    price: £17
+    organisation: Norden Farm
