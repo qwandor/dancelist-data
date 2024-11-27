@@ -33914,7 +33914,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance-2/2024-12-08/"
-    start: "2024-12-08T16:00:00-05:00"
+    start: "2024-12-08T15:30:00-05:00"
     end: "2024-12-08T18:15:00-05:00"
     country: USA
     state: NC
@@ -33923,6 +33923,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: free
     organisation: CDSS
   - name: Nashville English Country Dance
     details: "Live music and lovely folk gather at the Friends Meeting House in Nashville from 4pm to 6pm on the second Sunday of each month from September to May.   \nSliding scale admission."
@@ -33938,10 +33939,13 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5-$20
     organisation: Nashville Country Dancers
   - name: St. Nicholas Holiday Ball
     details: "The St. Nicholas Holiday Ball returns December 8th! \nJoin us at the Pasadena Masonic Temple for our annual formal event to celebrate the season. Filled with Historical and English Country dancing to holiday music. \nJoin us early for a catered holiday Tea Dinner filled with hand-crafted gourmet goodies, both savory and sweet, fit for every appetite! \nOur callers Cara King, Lindsay Verbil, and Darlene Hamilton along with the Whirled Peas band bring you this special dance program with the lovely Pasadena Masonic Temple in Pasadena all dressed up with Christmas cheer! \nDress code is formal attire of any period, as befits the event. \nTickets on sale soon. (Stay tuned for more details on our Facebook page and our website.) \nVisit our website to join our mailing list and be alerted when registration opens."
     links:
+      - "https://historicalteaanddance.org/"
+      - "https://www.facebook.com/events/1052596722905255/"
       - "https://cdss.org/event/st-nicholas-holiday-ball/"
     start: "2024-12-08T15:00:00-08:00"
     end: "2024-12-08T22:00:00-08:00"
@@ -33952,8 +33956,12 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Whirled Peas
     callers:
+      - Cara King
       - Darlene Hamilton
+      - Lindsay Verbil
     organisation: Historical Tea & Dance Society
   - name: Hayward Contra Dance
     details: "We typically dance on the 2nd & 4th Sunday of each month. \nFor years, the Hayward Contra has drawn dancers from all over the Bay Area and beyond. \nSome of the unique features that have drawn a loyal following are: \nHayward is centrally located and the venue, The Hill and Valley Club, 1808 ‘B’ Street, Hayward, CA, is easy to reach by BART or car. \nAs a weekend dance, we have attracted dancers with busy work schedules. \nMeeting in the afternoon from 4-7pm, dancers coming from greater distances were able to manage the travel time both before and after the dances. \nOur venue, the Hill and Valley Club, is one of the airiest dance halls in the bay area. \nThese features have allowed us to attract a very diverse multigenerational crowd that is comfortable with our gender-neutral atmosphere. \nDetails at our website. \nWe also have a Facebook group."
@@ -33969,6 +33977,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15-$20
     organisation: CDSS
   - name: John C. Campbell Folk School Winter Dance Week
     details: "Join us for a favorite Folk School pastime of contras, squares, circles, sets, and more. Dances feature live music with callers teaching dances. \n\nWinter Dance Week, December 27-31\nDances open to the public\nCallers: Janet Shepherd, Seth Tepfer, Annie Fain Barralon, Claire Takemori, Wendy Graham, Dan Seppeler, Susan Kevra, and more.\nBands: 3 bands per night, including Serendipity, Chicken Feathers, Brasstown Balfolk Band, and more!\nKeith House Community Room\n\nA donation of $5-10 per adult is suggested for most events, but all are welcome regardless of contribution. Lineup and schedule are subject to change. Check our online events calendar for the most up-to-date information."
@@ -34446,6 +34455,7 @@ events:
   - name: Adirondack Dance Weekend
     details: "A weekend of Contra, English Country and Balfolk dancing, tucked into the Adirondack Mountains on the shores of Lake George. Featuring Will Mentor, River Road, Gaye Fifer and more to be announced. Dance, sing, jam, hike, swim, kayak and more."
     links:
+      - "https://www.danceflurry.org/adirondack-dance-weekend/"
       - "https://cdss.org/event/adirondack-dance-weekend/"
     start_date: 2025-09-26
     end_date: 2025-09-28
@@ -34453,6 +34463,7 @@ events:
     state: NY
     city: Silver Bay
     styles:
+      - balfolk
       - contra
       - ecd
     workshop: false
@@ -34462,4 +34473,4 @@ events:
     callers:
       - Gaye Fifer
       - Will Mentor
-    organisation: Dance Flurry Organization (DFO)
+    organisation: DanceFlurry
