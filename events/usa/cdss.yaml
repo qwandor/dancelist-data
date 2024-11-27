@@ -33833,7 +33833,7 @@ events:
   - name: Richmond 2nd Sunday Afternoon Contra Dance
     details: "Join us in Richmond, VA for a Sunday afternoon contra dance, hosted by TADAMS, at the beautiful historic Ginter Hall. Beginner lesson at 1:45pm, dance from 2:30-5:30pm. Please see our full website calendar for band and caller details. Admission is $15 non-members, $10 members & students, children under 13 are free."
     links:
-      - "https://cdss.org/event/richmond-va-2nd-sunday-afternoon-contra-dance/2024-12-08/"
+      - "https://tadamsva.org/dances/"
     start: "2024-12-08T13:45:00-05:00"
     end: "2024-12-08T17:30:00-05:00"
     country: USA
@@ -33845,6 +33845,7 @@ events:
     social: true
     price: $10-$15
     organisation: TADAMS (Traditional American Dance and Music Society)
+    cancelled: true
   - name: English Country Dance Atlanta
     details: "2nd, 4th, and 5th Sunday afternoons \n$9, cash or check"
     links:
@@ -33905,6 +33906,67 @@ events:
     city: Colorado Springs
     styles:
       - ecd
+    workshop: false
+    social: true
+    organisation: CDSS
+  - name: English Country Dance
+    details: "All are welcome to join us for another very fine afternoon of English Country Dance. Spread the word and bring all your friends, family and neighbors! \n\n3:30pm-4:00pm, Newcomers’ Session\n4:00pm-6:15-ish pm, Dance\nLeader: TBA\nLive Music: TBA\nBring a snack to share during the break-out in the parlor.\nWear comfortable clothes and non-marking shoes.\n\nWe are deeply grateful to be a part of our community dance organization, The Old Farmers Ball, and for their promotion and support of area traditional dance and music. \nFree of charge. \nFor schedule updates, visit the Old Farmers Ball website."
+    links:
+      - "https://oldfarmersball.com/english-country-dance/"
+      - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance-2/2024-12-08/"
+    start: "2024-12-08T16:00:00-05:00"
+    end: "2024-12-08T18:15:00-05:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: CDSS
+  - name: Nashville English Country Dance
+    details: "Live music and lovely folk gather at the Friends Meeting House in Nashville from 4pm to 6pm on the second Sunday of each month from September to May.   \nSliding scale admission."
+    links:
+      - "https://www.nashvillecountrydancers.org/english-country-dances"
+      - "https://cdss.org/event/nashville-english-country-dance/2024-12-08/"
+    start: "2024-12-08T16:00:00-06:00"
+    end: "2024-12-08T18:00:00-06:00"
+    country: USA
+    state: TN
+    city: Nashville
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: Nashville Country Dancers
+  - name: St. Nicholas Holiday Ball
+    details: "The St. Nicholas Holiday Ball returns December 8th! \nJoin us at the Pasadena Masonic Temple for our annual formal event to celebrate the season. Filled with Historical and English Country dancing to holiday music. \nJoin us early for a catered holiday Tea Dinner filled with hand-crafted gourmet goodies, both savory and sweet, fit for every appetite! \nOur callers Cara King, Lindsay Verbil, and Darlene Hamilton along with the Whirled Peas band bring you this special dance program with the lovely Pasadena Masonic Temple in Pasadena all dressed up with Christmas cheer! \nDress code is formal attire of any period, as befits the event. \nTickets on sale soon. (Stay tuned for more details on our Facebook page and our website.) \nVisit our website to join our mailing list and be alerted when registration opens."
+    links:
+      - "https://cdss.org/event/st-nicholas-holiday-ball/"
+    start: "2024-12-08T15:00:00-08:00"
+    end: "2024-12-08T22:00:00-08:00"
+    country: USA
+    state: CA
+    city: Pasadena
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Darlene Hamilton
+    organisation: Historical Tea & Dance Society
+  - name: Hayward Contra Dance
+    details: "We typically dance on the 2nd & 4th Sunday of each month. \nFor years, the Hayward Contra has drawn dancers from all over the Bay Area and beyond. \nSome of the unique features that have drawn a loyal following are: \nHayward is centrally located and the venue, The Hill and Valley Club, 1808 ‘B’ Street, Hayward, CA, is easy to reach by BART or car. \nAs a weekend dance, we have attracted dancers with busy work schedules. \nMeeting in the afternoon from 4-7pm, dancers coming from greater distances were able to manage the travel time both before and after the dances. \nOur venue, the Hill and Valley Club, is one of the airiest dance halls in the bay area. \nThese features have allowed us to attract a very diverse multigenerational crowd that is comfortable with our gender-neutral atmosphere. \nDetails at our website. \nWe also have a Facebook group."
+    links:
+      - "https://sfbaycontra.org/"
+      - "https://cdss.org/event/hayward-ca-contra-dance/2024-12-08/"
+    start: "2024-12-08T16:00:00-08:00"
+    end: "2024-12-08T19:00:00-08:00"
+    country: USA
+    state: CA
+    city: Hayward
+    styles:
+      - contra
     workshop: false
     social: true
     organisation: CDSS
@@ -34381,3 +34443,23 @@ events:
     workshop: true
     social: true
     organisation: Lark Traditional Arts
+  - name: Adirondack Dance Weekend
+    details: "A weekend of Contra, English Country and Balfolk dancing, tucked into the Adirondack Mountains on the shores of Lake George. Featuring Will Mentor, River Road, Gaye Fifer and more to be announced. Dance, sing, jam, hike, swim, kayak and more."
+    links:
+      - "https://cdss.org/event/adirondack-dance-weekend/"
+    start_date: 2025-09-26
+    end_date: 2025-09-28
+    country: USA
+    state: NY
+    city: Silver Bay
+    styles:
+      - contra
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - River Road
+    callers:
+      - Gaye Fifer
+      - Will Mentor
+    organisation: Dance Flurry Organization (DFO)
