@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Christmas Ceilidh
+    links:
+      - "https://www.facebook.com/events/3829089997347959/"
+      - "https://www.whitehorseceilidhs.org.uk/whats-on/"
+    start: "2024-12-07T20:00:00+00:00"
+    end: "2024-12-07T23:30:00+00:00"
+    country: UK
+    city: Wantage
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Jack's Maggot"
+    callers:
+      - Jane Bird
+    price: £4.50-£9
+    organisation: White Horse Ceilidhs
