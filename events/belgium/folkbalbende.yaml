@@ -13904,11 +13904,13 @@ events:
     start_date: 2024-12-31
     end_date: 2024-12-31
     country: Belgium
-    city: Watermaal-Bosvoorde
+    city: Linkebeek
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Podium Libre
     organisation: ~
   - name: Valentijnsbal - ComSiBal
     details: Ball
@@ -15269,20 +15271,6 @@ events:
     bands:
       - Kwintet Gestrikt
       - Cardboard Cabin
-    organisation: Boombal
-  - name: Boombal
-    details: Ball
-    links:
-      - "https://boombal.be"
-      - "https://folkbalbende.be/event/2221"
-    start_date: 2024-12-26
-    end_date: 2024-12-26
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: false
-    social: true
     organisation: Boombal
   - name: Boombal
     details: Ball
@@ -18516,8 +18504,8 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://balhalla.be/"
       - "https://folkbalbende.be/event/2486"
-    start_date: 2025-01-30
-    end_date: 2025-01-30
+    start: "2025-01-30T20:00:00+01:00"
+    end: "2025-01-30T23:30:00+01:00"
     country: Belgium
     city: Gent
     styles:
@@ -18526,4 +18514,56 @@ events:
     social: true
     bands:
       - Threo
+    organisation: Balhalla
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2487"
+    start: "2025-03-20T19:00:00+01:00"
+    end: "2025-03-20T23:30:00+01:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Balhalla
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2488"
+    start: "2025-04-24T19:00:00+02:00"
+    end: "2025-04-24T23:30:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Balhalla
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2489"
+    start: "2025-05-18T19:00:00+02:00"
+    end: "2025-05-18T23:30:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Balhalla
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2490"
+    start: "2025-06-12T19:00:00+02:00"
+    end: "2025-06-12T23:30:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
     organisation: Balhalla
