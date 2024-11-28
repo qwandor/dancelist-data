@@ -2128,8 +2128,8 @@ events:
   - name: Corvallis Contra Weekend
     links:
       - "https://corvallisfolklore.org/home/ccw/"
-    start_date: 2024-02-14
-    end_date: 2024-02-16
+    start_date: 2025-02-14
+    end_date: 2025-02-16
     country: USA
     state: OR
     city: Corvallis
@@ -2193,9 +2193,9 @@ events:
     organisation: TryContra
   - name: Epicenter dance weekend
     links:
-      - "https://nbcds.org/epicenter-2024/"
-    start_date: 2025-04-04
-    end_date: 2025-04-06
+      - "https://nbcds.org/special-events/epicenter-2025/"
+    start: "2025-04-04T19:00:00-07:00"
+    end: "2025-04-06T17:00:00-07:00"
     country: USA
     state: CA
     city: Mill Valley
@@ -2209,25 +2209,6 @@ events:
     callers:
       - Lisa Greenleaf
       - Michael Karcher
-    organisation: TryContra
-  - name: SF Bay Queer Contra Dance Camp
-    links:
-      - "https://www.queercontradance.org/queercamp.html"
-    start_date: 2025-04-11
-    end_date: 2025-04-13
-    country: USA
-    state: CA
-    city: Aptos
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - The Sage Thrashers
-      - Starling
-    callers:
-      - Angela DeCarlis
-      - Sue Rosen
     organisation: TryContra
   - name: Call of the Loon Dance Weekend
     links:
@@ -2308,11 +2289,11 @@ events:
   - name: Lady of the Lake June Week
     links:
       - "http://www.ladyofthelake.org/june-week/"
-    start_date: 2025-06-22
-    end_date: 2025-06-28
+    start: "2025-06-22T15:00:00-07:00"
+    end: "2025-06-28T11:00:00-07:00"
     country: USA
     state: ID
-    city: "Harrison,"
+    city: Harrison
     styles:
       - contra
     workshop: true
@@ -2325,6 +2306,7 @@ events:
       - Gaye Fifer
       - Lindsey Dono
       - Luke Donforth
+    price: $750-$1050
     organisation: TryContra
   - name: Taste of Haven
     links:
@@ -2399,8 +2381,8 @@ events:
   - name: Dance in the Desert
     links:
       - "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2024/"
-    start_date: 2025-11-07
-    end_date: 2025-11-09
+    start: "2025-11-07T18:00:00-07:00"
+    end: "2025-11-09T15:00:00-07:00"
     country: USA
     state: AZ
     city: Oracle
