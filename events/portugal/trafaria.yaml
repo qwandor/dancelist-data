@@ -3,15 +3,30 @@ events:
   - name: Baile Folk Trafaria
     links:
       - "https://www.facebook.com/events/426254515922851/"
-    start: 2022-04-02T21:30:00+01:00
-    end: 2022-04-03T01:30:00+01:00
+    start: "2022-04-02T21:30:00+01:00"
+    end: "2022-04-03T01:30:00+01:00"
     country: Portugal
     city: Trafaria
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
-    price: €5
     bands:
       - DJ LG
       - DJ Messidor
+    price: €5
     organisation: Folkäppy
+  - name: Balfolk with DJ LG and DJ Juanfe
+    details: 3 hour+ dj set with DJ LG (Luis Guerra) and DJ Juanfe (Juanfe Carrasco)
+    links:
+      - "https://www.facebook.com/events/3819900618277943/"
+    start: "2024-12-21T21:30:00+00:00"
+    end: "2024-12-22T01:00:00+00:00"
+    country: Portugal
+    city: Trafaria
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: 5 euro
+    organisation: Folkappy
