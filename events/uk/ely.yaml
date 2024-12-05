@@ -6,11 +6,12 @@ events:
       - "https://www.facebook.com/events/321086556675490/"
       - "https://www.facebook.com/events/1235868450493687/"
       - "https://www.facebook.com/events/635486050846096/"
-    start: 2022-07-08T18:00:00+01:00
-    end: 2022-07-10T23:45:00+01:00
+    start: "2022-07-08T18:00:00+01:00"
+    end: "2022-07-10T23:45:00+01:00"
     country: UK
     city: Ely
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
@@ -23,7 +24,6 @@ events:
       - Pam Ross
     price: £38-£120
     organisation: Ely Folk Festival
-
   - name: Contra Holiday in Medieval England
     links:
       - "https://contraholiday.net/"
@@ -45,29 +45,28 @@ events:
       - Rhi Davies
     price: $1400
     organisation: Contra Holiday
-
   - name: Ely Folk Festival
     links:
       - "https://elyfolkfestival.co.uk/"
-    start: 2023-07-07T18:00:00+01:00
-    end: 2023-07-09T23:45:00+01:00
+    start: "2023-07-07T18:00:00+01:00"
+    end: "2023-07-09T23:45:00+01:00"
     country: UK
     city: Ely
-    styles: [e-ceilidh]
+    styles:
+      - e-ceilidh
     workshop: false
     social: true
     bands:
       - Banter
     organisation: Ely Folk Festival
-
   - name: Contra Holiday in Medieval England
     details: Week long contra dance camp.
     links:
       - "https://contraholiday.net"
       - "https://www.facebook.com/events/280190711768402/"
       - "https://www.facebook.com/events/1696157717611200/"
-    start: 2025-04-02T10:00:00+01:00
-    end: 2025-04-09T08:00:00+01:00
+    start: "2025-04-02T10:00:00+01:00"
+    end: "2025-04-09T08:00:00+01:00"
     country: UK
     city: Ely
     styles:
@@ -84,3 +83,24 @@ events:
       - Charlie Turner
     price: $1450
     organisation: Contra Holiday
+  - name: American Contras in Ely
+    links:
+      - "https://www.facebook.com/events/1696157717611200"
+      - "https://contraholiday.net/contraholiday-in-medieval-england/for-uk-participants/"
+    start: "2025-12-05T19:30:00+00:00"
+    end: "2025-12-05T22:30:00+00:00"
+    country: UK
+    state: VA
+    city: Ely
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Wild Asparagus
+    callers:
+      - George Marshall
+      - Janet Shepherd
+      - Terry Doyle
+    price: £15
+    organisation: ~
