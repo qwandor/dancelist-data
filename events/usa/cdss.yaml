@@ -35551,7 +35551,7 @@ events:
     links:
       - "https://www.fridaynightdance.com/tickets"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2024-12-20/"
-    start: "2024-12-20T20:00:00-05:00"
+    start: "2024-12-20T19:30:00-05:00"
     end: "2024-12-20T23:00:00-05:00"
     country: USA
     state: MD
@@ -35560,6 +35560,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Friday Contra Dance
     details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$5 – $25, pay what you can."
@@ -35600,7 +35601,7 @@ events:
     links:
       - "https://lenoxcontradance.org/sched.php"
       - "https://cdss.org/event/lenox-contra-dance/2024-12-21/"
-    start: "2024-12-21T07:15:00-05:00"
+    start: "2024-12-21T19:15:00-05:00"
     end: "2024-12-21T22:30:00-05:00"
     country: USA
     state: MA
@@ -35609,7 +35610,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $8-$12
+    price: $8-$15
     organisation: Lenox Contra Dance
   - name: York Region English Country Dancers
     details: "English Country Dance in central York Region (Ontario, Canada)! Beginners welcome; all dances taught; you don’t need to bring a partner. Admission by donation; your first class is free. Join us on the first, third, and (when there is one) fifth Saturday of the month from 2:00 to 4:00. (Please check the website for possible last-minute changes.)"
@@ -35625,6 +35626,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: donation
     organisation: York Region English Country Dancers
   - name: Scissortail English Country Dance
     details: "Scissortail English Country Dance in Oklahoma City, first and third Saturdays.  Check our Facebook or our website for more details!"
@@ -35640,6 +35642,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: Southern Illinois Community Contra Dance
     details: "Our monthly dance is “Blue Zone” living in a war zone world. Connect with neighbors, move your body, eat healthy(ish) food, give your social media a downtime. Southern Illinois Community Contra Dance might just help you live to age 100. \n$5 or pay what you can."
@@ -35687,13 +35690,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: CDSS
   - name: Lancaster Contra Dance
     details: "All ages are welcome! Bring the whole family, or come on your own! No partner or prior dance experience necessary! \nBringing a water bottle is encouraged. \nCost: sliding scale $12-20+ cash only. Children 13 or younger dance FREE! \nA practice lesson is included in admission and takes place at 6:15pm before each dance. If you can count to 4 and walk, you can do this dance! \nSee our website for details and information about location, live musicians, and other dances in south central PA."
     links:
       - "https://lancastercontra.org/"
       - "https://cdss.org/event/lancaster-pa-contra-dance-4/2024-12-21/"
-    start: "2024-12-21T19:00:00-05:00"
+    start: "2024-12-21T18:15:00-05:00"
     end: "2024-12-21T22:00:00-05:00"
     country: USA
     state: PA
@@ -35702,29 +35706,34 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    price: $12-$20
     organisation: Lancaster Contra Dance
   - name: Friends of Traditional Dance Contra
     details: "Contra Dance every 1st and 3rd Saturday \nWe dance at the fabulous Masonic Ballroom, with its gorgeous sprung wood dance floor."
     links:
       - "https://fotd.org/"
       - "https://cdss.org/event/friends-of-traditional-dance-contra/2024-12-21/"
-    start: "2024-12-21T19:00:00-07:00"
+    start: "2024-12-21T18:10:00-07:00"
     end: "2024-12-21T22:00:00-07:00"
     country: USA
     state: CO
     city: Fort Collins
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Avourneen
+    callers:
+      - Sam Smith
+    price: $5-$20
     organisation: Friends of Traditional Dance
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \nLessons at 6:40; dance starts at 7 PM. \n​Prices: \n\n$12 General\n​$10 Members of MCDC, BACDS, CDSS or other sister organizations\n$5 active military & full-time students, with ID\nFREE! for children 12 & under ​"
     links:
       - "https://montereycontradance.org/index.html"
       - "https://cdss.org/event/monterey-contra-dance/2024-12-21/"
-    start: "2024-12-21T19:00:00-08:00"
+    start: "2024-12-21T18:40:00-08:00"
     end: "2024-12-21T22:00:00-08:00"
     country: USA
     state: CA
