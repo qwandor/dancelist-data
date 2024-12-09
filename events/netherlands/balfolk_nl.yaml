@@ -4462,18 +4462,19 @@ events:
     social: true
     price: €5
     organisation: balfolk.nl
-  - name: Proefles in Zeeland (Goes)
+  - name: Trial Lesson in Zeeland
     details: "Arjan de Groot en Linda de Zwart gaan vanaf 21 januari 2025 dansles geven in Goes. Op 21 januari is er een gratis proefles en aansluitend van 28 januari tot 25 februari worden de lessen gegeven.\n\nDe lessen zijn op dinsdagavond 21u tot 22u in Goes bij dansschool Janvier. Een linkje voor aanmelding volgt!"
     links:
       - "https://www.balfolk.nl/agenda/proefles-in-zeeland-goes/"
     start: "2025-01-21T21:00:00+01:00"
     end: "2025-01-21T22:00:00+01:00"
     country: Netherlands
-    city: ""
+    city: Goes
     styles:
       - balfolk
     workshop: true
     social: false
+    price: free
     organisation: balfolk.nl
   - name: Balfolk café Nijmegen
     details: "Balfolk Cafe is livemuziek, tussendoor fijne balfolkhitjes en natuurlijk sessie: dus neem ook je instrumenten mee!\n\n\nEntree: € 15,-  (of € 10,- voor mensen die kortingstarief nodig hebben)\nGeef ruim, alles gaat 100% naar de muzikanten.\n\n20:00 dans uitleg\n21:00 Livemuziek (2 sets)\n23:00 Sessie!\n(Tijden onder voorbehoud)"
@@ -4885,7 +4886,7 @@ events:
       - Androneda
     price: €15
     organisation: balfolk.nl
-  - name: Nieuwe locatie in ZWOLLE
+  - name: New Location
     details: "Hoera!!! Er is een nieuw locatie in Zwolle die graag een keer Balfolk wil organiseren.\nOp 15 minuten lopen van station Zwolle Stadshagen ligt het Cultuurhuis die, in samenwerking met Wijz zorglocaties, iedereen in deze buurt wil laten dansen. Als wij ervoor kunnen zorgen dat dit een succes wordt kunnen we hier vaker terecht. Dus kom vooral naar deze ontzettend mooie grote! zaal van deze voormalige muziekschool.\n\nTijdschema:\n19.00u Dansuitleg\n20.00u Bal\n22.00u Sessie.\n\nLaatste trein in alle richtingen: 23.39.\nEr is genoeg parkeerplaats."
     links:
       - "https://www.balfolk.nl/agenda/nieuwe-locatie-in-zwolle/"
@@ -4895,8 +4896,11 @@ events:
     city: Zwolle
     styles:
       - balfolk
-    workshop: false
-    social: false
+    workshop: true
+    social: true
+    bands:
+      - Androneda
+    price: €15
     organisation: balfolk.nl
   - name: Balfolk café Nijmegen
     details: "Balfolk Cafe is livemuziek, tussendoor fijne balfolkhitjes en natuurlijk sessie: dus neem ook je instrumenten mee!\n\n\nEntree: € 15,-  (of € 10,- voor mensen die kortingstarief nodig hebben)\nGeef ruim, alles gaat 100% naar de muzikanten.\n\n20:00 dans uitleg\n21:00 Livemuziek (2 sets)\n23:00 Sessie!\n(Tijden onder voorbehoud)"
@@ -5114,7 +5118,7 @@ events:
     links:
       - "https://www.balfolk.nl/agenda/drakenbal-6/"
     start: "2025-05-31T19:30:00+02:00"
-    end: "2025-05-31T23:55:00+02:00"
+    end: "2025-06-01T01:00:00+02:00"
     country: Netherlands
     city: "'s-Hertogenbosch"
     styles:
@@ -5122,6 +5126,7 @@ events:
     workshop: true
     social: true
     bands:
+      - Zéphyr Combo
       - David Cornelissen
     price: €10-€20
     organisation: balfolk.nl
