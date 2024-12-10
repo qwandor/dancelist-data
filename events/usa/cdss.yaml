@@ -35692,9 +35692,10 @@ events:
     social: true
     price: $5-$10
     organisation: CDSS
-  - name: "Swingin' Tern Contra Dance: Karen Justin with Torrent"
+  - name: "Swingin' Tern"
     details: "Our contra dances are held every first and third Saturday evening year-round from 7:30pm–10:30pm, with a beginners’ workshop at 7pm. We have occasional double dances along with a New Year’s Eve dance. \n$15 adults/$5 students \nThis dance will end early at 10pm so folks can go to the Holiday Party after the dance. Directions to the local party will be at the dance. \nCaller: Karen Justin\nIn 2022, Karen Justin discovered the joy of contra calling. Known as a friendly and precise dancer, she brings these same qualities to the microphone. With clear teaching and well-timed calling, Karen welcomes new and experienced dancers alike, helping them connect to the music and to each other. \nBand: Torrent\nTorrent is New York City’s newest contra dance band featuring Nadia Gaya on accordion, Sarah Stefanski on fiddle, and Ross Parker on piano. Torrent’s driving rhythms and exciting tunes will get you on your feet and dancing! \nUseful Information:\n\nNewcomers are welcome to come at 7pm for an introductory lesson on the basics of contra dancing. No partner is necessary. All dances are taught with a “walk-through” by the caller.\nWe no longer require vaccination. Masks are optional.\nAll dances at Swingin’ Tern are called to the gender-neutral terms Larks & Robins. Dance whatever role you’re comfortable in.\nWe are air-conditioned. We have windows on three sides when we want to let the breeze come in.\nOur dance is two blocks from the Chatham station on the Morris/Essex line out of Penn Station, NYC.\nWe welcome contributions of home-baked [or not] goodies to share at the break.\nPlease bring your own water bottle. Water bottles may be filled at the kitchen sink.\nWear comfortable clothing. Contra dancing is aerobic. We prefer you carry in your shoes.\nWe are a friendly, inclusive group. Pack plenty of smiles!"
     links:
+      - "https://folkproject.org/swingin-tern/"
       - "https://cdss.org/event/swingin-tern-contra-dance-6/"
     start: "2024-12-21T19:00:00-05:00"
     end: "2024-12-21T22:00:00-05:00"
@@ -35705,6 +35706,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Torrent
+    callers:
+      - Karen Justin
     price: $5-$15
     organisation: "Swingin' Tern Dances"
   - name: Lancaster Contra Dance
@@ -35737,6 +35742,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$20
     organisation: PATMAD
   - name: Contra Dance
     details: Monthly Contra Dance
@@ -35752,6 +35758,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Friends of Traditional Dance Contra
     details: "Contra Dance every 1st and 3rd Saturday \nWe dance at the fabulous Masonic Ballroom, with its gorgeous sprung wood dance floor."
@@ -35803,6 +35810,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: Missoula Folklore Society
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \nLessons at 6:40; dance starts at 7 PM. \n​Prices: \n\n$12 General\n​$10 Members of MCDC, BACDS, CDSS or other sister organizations\n$5 active military & full-time students, with ID\nFREE! for children 12 & under ​"
@@ -35901,31 +35909,11 @@ events:
       - Wendy Graham
     organisation: Arkansas Valley Music and Dance
   - name: Wintergreen
-    details: "Wintergreen is back! An urban dance weekend in Bozeman, MT featuring music by Turnip the Beet and Northern Aire, calling by Gaye Fifer and Koren Wake. \nWorkshops for dancers, callers, and musicians. Meals provided, home stays available—first come, first served so book early! Friendly, welcoming dancers and a great environment. Pack your skis! \n*Pricing is flexible–see website for details."
-    links:
-      - "https://bozemanfolklore.org/wintergreen-2025/"
-      - "https://cdss.org/event/wintergreen-contra-dance-weekend/"
-    start_date: 2025-01-24
-    end_date: 2025-01-26
-    country: USA
-    state: MT
-    city: Bozeman
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Northern Aire
-      - Turnip the Beet
-    callers:
-      - Gaye Fifer
-      - Koren Wake
-    price: $125-$165
-    organisation: Bozeman Folklore Society
-  - name: Wintergreen
     details: "Urban Contra Dance with callers Gaye Fifer and Koren Wake, and dancing to Northern Aire and Turnip the Beet at the spacious and comfortable Bozeman Senior Center. There’s a sunny ballroom with a beautiful wood floor and connected cozy lounge area when you need a breather while enjoying music and company. Plenty of snacks, Saturday lunch and dinner for a “break-even” fee of $145 and a “feeling prosperous” fee of $165+. Non-dancers $55. Saturday workshops only $50. Separate room for jamming."
     links:
+      - "https://bozemanfolklore.org/wintergreen-2025/"
       - "https://cdss.org/event/wintergreen/"
+      - "https://cdss.org/event/wintergreen-contra-dance-weekend/"
     start: "2025-01-24T18:00:00-07:00"
     end: "2025-01-26T12:30:00-07:00"
     country: USA
@@ -35941,7 +35929,7 @@ events:
     callers:
       - Gaye Fifer
       - Koren Wake
-    price: $50-$165
+    price: $125-$165
     organisation: Bozeman Folklore Society
   - name: Phoenix Winter Frolic
     details: Jacqui Grennan will call to the music of Playing with Fyre for contradancing on Friday evening plus Saturday afternoon and evening. The same great band and caller will offer English Country Dance on Sunday afternoon.
