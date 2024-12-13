@@ -2255,12 +2255,13 @@ events:
   - name: Contra Camp
     links:
       - "https://halswaymanor.org.uk/event/contra-camp-2025/"
-    start_date: 2025-05-09
-    end_date: 2025-05-11
+    start: "2025-05-09T16:00:00+01:00"
+    end: "2025-05-11T16:00:00+01:00"
     country: UK
     city: Halsway
     styles:
       - contra
+      - e-ceilidh
     workshop: true
     social: true
     bands:
@@ -2268,12 +2269,13 @@ events:
     callers:
       - Louise Siddons
       - Heather McAslan
-    organisation: TryContra
+    price: £225-£390
+    organisation: Halsway Manor
   - name: Dancing Fish
     links:
-      - "https://dancingfish.dance/"
-    start_date: 2025-04-18
-    end_date: 2025-04-20
+      - "https://dancingfish.dance/event/wild-asparagus-weekend-2025/"
+    start: "2025-04-18T19:00:00-04:00"
+    end: "2025-04-20T15:00:00-04:00"
     country: USA
     state: FL
     city: Melrose
@@ -2285,6 +2287,7 @@ events:
       - Wild Asparagus
     callers:
       - George Marshall
+    price: $30-$60
     organisation: Dancing Fish
   - name: Call of the Loon Dance Weekend
     links:
@@ -2305,28 +2308,11 @@ events:
       - Seth Tepfer
       - Steve Pike
     organisation: TryContra
-  - name: Springforth Ball
-    links:
-      - "https://tadamsva.org/springforth-ball-2025/"
-    start_date: 2025-04-11
-    end_date: 2025-04-13
-    country: USA
-    state: VA
-    city: Richmond
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Playing with Fyre
-    callers:
-      - Bob Isaacs
-    organisation: TryContra
   - name: Fiddlehead Frolic
     links:
       - "https://www.hands4dancers.org/upcoming-dances/2025/3/29/fiddlehead-frolic"
-    start_date: 2025-03-29
-    end_date: 2025-03-29
+    start: "2025-03-29T14:30:00-04:00"
+    end: "2025-03-29T22:00:00-04:00"
     country: USA
     state: NY
     city: Ithaca
@@ -2464,7 +2450,7 @@ events:
     organisation: TryContra
   - name: Dancing Fish
     links:
-      - "https://dancingfish.dance/"
+      - "https://dancingfish.dance/event/july-4th-weekend-kingfisher/"
     start: "2025-07-04T18:00:00-04:00"
     end: "2025-07-06T15:00:00-04:00"
     country: USA
@@ -2480,7 +2466,7 @@ events:
     callers:
       - Luke Donforth
       - Bob Isaacs
-    price: $30
+    price: $15-$30
     organisation: Dancing Fish
   - name: Feet Retreat
     links:
