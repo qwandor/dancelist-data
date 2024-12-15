@@ -36096,22 +36096,8 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10-$15
     organisation: CDSS
-  - name: Asheville Monday Night Contra Dance
-    details: "The Asheville Monday Night Contra Dance, every Monday. Dancing to a live band & caller! Contra dancing is fun and energetic. The welcoming atmosphere makes it a perfect evening for beginners as well as seasoned contra dancers. \nBeginners are welcome, lesson 7:45pm – 8:15pm. Contra dancing from 8:15pm – 10:30pm. A waltz ends the night! Safe Dance for all! Families welcome. All ages, races & ethnicities, LGBTQIA+ welcome. No discrimination or bullying of any kind will be tolerated. Volunteers earn a free dance. Bring a water bottle. Bring comfortable, smooth soled shoes to dance in. No partner required. No experience needed for the beginners’ lesson."
-    links:
-      - "https://themondaynightdance.wixsite.com/home/about"
-      - "https://cdss.org/event/the-asheville-monday-night-contra-dance/2024-12-23/"
-    start: "2024-12-23T20:00:00-05:00"
-    end: "2024-12-23T22:30:00-05:00"
-    country: USA
-    state: NC
-    city: Asheville
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: Meredith RosemanYager
   - name: Ashland Country Dancers
     details: "The Ashland Branch of the Heather and the Rose Country Dancers hosts a weekly English dance (with some Scottish). Since formation in 1980, all dances are taught with positional/global language. We use recorded music most evenings."
     links:
@@ -36147,7 +36133,9 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
+    cancelled: true
   - name: Tuesday English Country Dance
     details: "We dance to live music from our wonderful local musicians. All dances taught and prompted. Wear comfortable clothes and bring flat, non-slippy shoes to change into. Pay what you can; $8 donation helps cover the hall, band, and callers. Masks are welcome at the dance."
     links:
@@ -36164,6 +36152,7 @@ events:
     social: true
     price: $8
     organisation: AACTMAD
+    cancelled: true
   - name: Williamsburg Tuesday Night English Dance
     details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
     links:
@@ -36195,12 +36184,13 @@ events:
     social: true
     price: $10-$20
     organisation: Graham Christian
+    cancelled: true
   - name: English Country Dance
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/english-country-dance-asheville-nc-3/2024-12-25/"
-    start: "2024-12-25T19:00:00-05:00"
+    start: "2024-12-25T18:40:00-05:00"
     end: "2024-12-25T21:00:00-05:00"
     country: USA
     state: NC
@@ -36210,6 +36200,7 @@ events:
     workshop: true
     social: true
     organisation: Luanne Stiles
+    cancelled: true
   - name: Bloomington Contra Dance
     details: "Please see our home page for the latest information. \nEntrance fee: by sliding scale donation, with a suggested range from $3 to $20.  \nStriving Toward Safe Space Policy: We hope to create a dance in which everyone feels safe and welcome. Please take a moment to review our policy on respect and consent. \nMembership: Membership is optional. Both members and non-members pay a sliding scale entrance fee; see above.  \nVolunteers are always welcome! Sign up with a dance coordinator for set-up or clean-up if you’d like! Many of us also go out for drinks and munchies after each Wednesday night dance."
     links:
@@ -36226,6 +36217,7 @@ events:
     social: true
     price: $3-$20
     organisation: Bloomington Old Time Music and Dance Group
+    cancelled: true
   - name: Cleveland Thursday English Country Dance
     details: "Come join us every Thursday afternoon for English Country Dancing. \nCombination of live and recorded music, in an air-conditioned hall."
     links:
@@ -36240,6 +36232,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $3
     organisation: Cleveland English Dance Community
   - name: Lake City Contra Dance
     details: "Thursday nights; doors open at 7 pm \nDances: intro/refresher workshop 7:15 pm, dancing 7:30 till 10:00 pm \nAdmission on a sliding scale $10 – 20 – pay what you can \nThe hall is well-ventilated and air-conditioned! \nFor more information call 206-525-0932, or send us email."
@@ -36255,21 +36248,25 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-233/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2024-12-26/"
-    start: "2024-12-26T19:30:00-05:00"
+    start: "2024-12-26T18:00:00-05:00"
     end: "2024-12-26T22:30:00-05:00"
     country: USA
     state: NY
     city: Rochester
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Cattail
+    price: $12
     organisation: Country Dancers of Rochester
   - name: Thursday Contra Dance
     details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing \n$5 to $20 sliding scale \nOur role terms are Larks and Robins \nMasks are required on the 1st, 3rd and 5th Thursdays."
@@ -36287,34 +36284,36 @@ events:
     social: true
     price: $5-$20
     organisation: PATMAD
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley English Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://www.bacds.org/series/english/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2024-12-26/"
-    start: "2024-12-26T20:00:00-08:00"
-    end: "2024-12-26T22:30:00-08:00"
+    start: "2024-12-26T19:15:00-08:00"
+    end: "2024-12-26T22:00:00-08:00"
     country: USA
     state: CA
     city: Berkeley
     styles:
-      - contra
       - ecd
     workshop: true
     social: true
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: Flint Hills Contra Dance
     details: "Contra dance in Manhattan, Kansas. Open to everyone!"
     links:
       - "https://cdss.org/event/flint-hills-contra-dance/2024-12-27/"
-    start: "2024-12-27T18:30:00-05:00"
+    start: "2024-12-27T18:15:00-05:00"
     end: "2024-12-27T21:30:00-05:00"
     country: USA
     state: KS
     city: Manhattan
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $10
     organisation: Flint Hills Contradance and Music Society
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
@@ -36335,7 +36334,9 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
+    cancelled: true
   - name: John C. Campbell Folk School Winter Dance Week
     details: "Join us for a favorite Folk School pastime of contras, squares, circles, sets, and more. Dances feature live music with callers teaching dances. \n\nWinter Dance Week, December 27-31\nDances open to the public\nCallers: Janet Shepherd, Seth Tepfer, Annie Fain Barralon, Claire Takemori, Wendy Graham, Dan Seppeler, Susan Kevra, and more.\nBands: 3 bands per night, including Serendipity, Chicken Feathers, Brasstown Balfolk Band, and more!\nKeith House Community Room\n\nA donation of $5-10 per adult is suggested for most events, but all are welcome regardless of contribution. Lineup and schedule are subject to change. Check our online events calendar for the most up-to-date information."
     links:
@@ -36384,16 +36385,18 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Stomp Rocket
     callers:
       - Steve Zakon-Anderson
-    price: $12
+    price: $12-$20
     organisation: Steve Zakon-Anderson
   - name: Friday Night Contra at Glen Echo
     details: "Join us in Glen Echo, Maryland, for a fun night of contras and an occasional square! There’s a free lesson at 7:30pm."
     links:
       - "https://www.fridaynightdance.com/tickets"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2024-12-27/"
-    start: "2024-12-27T20:00:00-05:00"
+    start: "2024-12-27T19:30:00-05:00"
     end: "2024-12-27T23:00:00-05:00"
     country: USA
     state: MD
@@ -36402,6 +36405,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Childgrove English Country Dance
     details: "The regular dance generally starts out with simpler dances early in the evening, progressing to dances with more difficulty later on, depending on the experience level of the crowd."
@@ -36417,13 +36421,14 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Monrovia English Country Dance
     details: "Please join us for English Country Dancing on the 2nd and 4th Friday of every month from 7:30-10pm in the Guildhall of St Luke’s Episcopal Church. $5 admission (cash only). Beginners welcome! All dances are taught, walked through and called. No partner or costume required; just bring comfortable closed-toed shoes and a water bottle. We’re friendly, laid-back, and welcoming!"
     links:
       - "https://monroviaecd.org/"
       - "https://cdss.org/event/monrovia-english-country-dance/2024-12-27/"
-    start: "2024-12-27T19:30:00-08:00"
+    start: "2024-12-27T19:15:00-08:00"
     end: "2024-12-27T22:00:00-08:00"
     country: USA
     state: CA
@@ -36437,6 +36442,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=5921"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2024-12-27/"
     start: "2024-12-27T19:30:00-08:00"
     end: "2024-12-27T22:30:00-08:00"
@@ -36498,12 +36504,14 @@ events:
     social: true
     bands:
       - Take a Dance
+    price: $15
     organisation: Mendocino English Country Dance
   - name: Mystic Contra Dance
     details: "A fourth Saturday contra dance in Southeastern Connecticut \n\nWhen: Dance 7:30-10:30 pm [short basics session @ 7:15 pm]\nContra Dancing is so wicked fun, dancing to live music! It is the fiddle tunes of Ireland, Scotland, England, France, Appalachia & America! We often switch partners after every dance so there is no need to bring a partner, and no experience is needed to have a fantastic time!\nCaller: Billy Fischer: The legendary dance caller Billy Fischer has been calling dances for over thirty years, starting out in New Haven, Connecticut with the contra dance series that has been a fixture of the folk music and dance scene since 1976. In addition to contra dances in and around the northeast, he has called at various dance camps regionally and nationally. Billy is highly regarded dance caller who you should not miss!\nLive Music: Wry Bred: They have been energizing dance floors in the northeast with good music and good humor since 2009. Wry Bred perfectly blends the usual array of instruments with the added flute and saxophone, creating beautiful and harmonious danceable music! With Julie Sorcek on flute (and saxophone), Mickey Koth on fiddle, and Robert Messore on guitar, they play for barn and family dances and private events and have played for contra dance series in Connecticut, Massachusetts, Rhode Island, New York State, New Jersey, Pennsylvania, North Carolina, and Tennessee!\nAdmission: $10 adults, $7 students. Donations gratefully accepted!\nHomemade Pie Slices! We offer a medley of homemade pie slices! These delicious pie slices are offered at the break for $3/slice to help support the band and caller.\nRole Terms are: “Ladies & Gents” (or Women & Men) but dancers are welcome to choose whatever role that they are comfortable with!\nClothing & Footwear: Just bring, clean shoes to dance in to preserve the floor (no high heels please). Dress is comfortable and as you like.\nParking: Plenty of free parking in the large parking area in front of the building!"
     links:
+      - "https://www.mysticpiedance.org/"
       - "https://cdss.org/event/mystic-contra-dance/"
-    start: "2024-12-28T19:30:00-05:00"
+    start: "2024-12-28T19:15:00-05:00"
     end: "2024-12-28T22:30:00-05:00"
     country: USA
     state: CT
@@ -36516,7 +36524,7 @@ events:
       - Wry Bred
     callers:
       - Billy Fischer
-    price: $3-$10
+    price: $7-$10
     organisation: Mystic Pie Dance
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Oklahoma City, second and fourth Saturdays. Check our Facebook or our website for more details!"
@@ -36532,12 +36540,13 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: NACDS Contra Dance
     details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
     links:
       - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2024-12-28/"
-    start: "2024-12-28T19:30:00-06:00"
+    start: "2024-12-28T18:30:00-06:00"
     end: "2024-12-28T23:00:00-06:00"
     country: USA
     state: AL
@@ -36578,22 +36587,23 @@ events:
       - contra
     workshop: true
     social: true
+    price: $12-$18
     organisation: The Living Tradition
   - name: Sacramento Contra Dance
     details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $12 for adults; $8 for college students with ID; $5 for dancers under 18; $25 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
     links:
       - "https://sactocds.wordpress.com/"
       - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays/2024-12-28/"
-    start: "2024-12-28T19:00:00-08:00"
+    start: "2024-12-28T18:30:00-08:00"
     end: "2024-12-28T22:00:00-08:00"
     country: USA
     state: CA
     city: Sacramento
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
-    price: $5-$25
+    price: $5-$12
     organisation: Sacramento Country Dance Society
   - name: 4th Saturdays Contra Dance
     details: "Mark your calendars now for the next Saturday night dance at Fulton Hall. Dances are called using gender-neutral terms. \nCovid precautions are suspended indefinitely! We will continue to monitor potential exposures at PCDC events and adjust policies as needed. Refer to the PCDC Covid policy for details. \n\n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome!"
@@ -36609,6 +36619,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $6-$20
     organisation: CDSS
   - name: 37th Ralph Page Dance Event
     details: "Sponsored by the New England Folk Festival Association \nCome to Ralph Page Dance Weekend! As one of NEFFA’s two major sponsored events, you’ll experience a full program of exceptional music, varied traditional dancing, and lots of opportunities to be learn what makes the Ralph Page community special. \nRegister Now \n\nCallers: Sue Rosen, Steve Zakon-Anderson, and Tod Whittemore!\nLive Music: David Langford, Randy Miller, Nat Backes, Bruce Rosen, and Sam Zakon-Anderson!\nCelebrate: This year, we will celebrate the careers and achievements of Randy Miller and Sylvia Miskoe–both former recipients of the Governor’s Arts Award for their long-time contribution to the folk heritage of New England. We invite you to come and share their musical journey with us through music and dance.\nScholarship Program: This year we are also restarting the scholarship program for new and developing callers. It is an opportunity to learn about the traditional dance and participate in our Callers’ Showcase. To apply, send an email to info@ralphpage.neffa.org.\nThe Ralph Page Dance Event Committee: Chair: Tod Whittemore. Members: Paul Lizotte (Program), Don Heinold (Publicity), Matt Burke, Justin Godin, Richard Hart, Sandy Lafleur, Gary Nielsen, Andy Taylor-Blenis\nNotes: The Ralph Page Dance Legacy Weekend began in 1988 to recognize the contributions that Ralph Page made to contra and New England folk dancing. Ralph Page (1903-1985) was known as “the dean of contra dance callers.” He almost single-handedly kept contra dancing alive in the United States when many had abandoned their local dances for that new invention, the television. Page was a dance organizer, band leader, caller, author, and recording artist as well as a leader of weekly dances and dance camps.\n\nPage was one of the founders of the New England Folk Festival Association and served as its president from 1960-1963. The New Hampshire Library of Traditional Music and Dance is the site to which Ralph Page donated his archives.\nThe Ralph Page Dance Legacy Weekend presents traditional New England contra and square dancing as Page did it, along with modern dance styles as well.\n\n\nClothing & Footwear: Just bring, clean shoes to dance in to preserve the floor (no high heels please). Dress is comfortable and as you like.\nRole Terms are: “Ladies & Gents” but dancers are welcome to choose whatever role that works for them as has been done over the years."
@@ -36625,13 +36636,15 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Sugar River Band
     callers:
       - Don Heinold
       - Steve Zakon-Anderson
       - Sue Rosen
       - Tod Whittemore
     price: $55-$65
-    organisation: CDSS
+    organisation: NEFFA
   - name: Stellar Days & Nights
     details: "A 4-day, 3 night winter music and dance event in the Rocky Mountains – Buena Vista, CO. Contra, English Country, and Couples Dancing, plus workshops and music jams.  Cozy accommodations. Amazing scenery. Yummy food. \nNational callers Seth Tepfer, and Wendy Graham, set to call. Music from Countercurrent (w/ Alex Sturbaum & Brian Lindsay); Joanna Hyde & Tadhg O Meachair; Harken! (w/Connie Michael & Harmony Tucker).  \nCheck out the website for information.   \nOrganized by: Arkansas Valley Music and Dance. \nPut this on your calendar now and plan to attend! Registration now open. Register here!"
     links:
@@ -36968,6 +36981,7 @@ events:
   - name: New England Folk Festival (NEFFA)
     details: "NEFFA attracts over 2000 attendees and close to 1000 performers. The Festival is unique because of the participatory nature of the events. The Festival is known for its varied social dance program, which includes: Contra and traditional square dancing, international folk dancing, couple dancing, waltzing, English country, Scandinavian, and more. There are plenty of introductory workshops, as well as sessions geared towards intermediate and advanced dancers. A particular favorite is the no walk-through contra dance medley, which originated at the NEFFA Festival! \nNEFFA is a great place to bring your family. There are many family-oriented programs at the Festival, from dancing and singing to storytelling and a family activities area. \nThere is music everywhere! You will find jam sessions, instrument workshops, group singing, and traditional music throughout the Festival. \nCostumed ethnic performing groups have been a part of NEFFA since the beginning representing many different cultures: Middle Eastern, Serbian, Bulgarian, Filipino, Polish, and Scandinavian. \nThe Festival Marketplace offers hand-crafted materials and folk-related items for purchase."
     links:
+      - "https://www.neffa.org/festival-home/"
       - "https://cdss.org/event/new-england-folk-festival-neffa/"
     start: "2025-04-25T18:00:00-04:00"
     end: "2025-04-27T17:00:00-04:00"
@@ -36975,11 +36989,15 @@ events:
     state: MA
     city: Marlborough
     styles:
+      - balfolk
       - contra
       - ecd
+      - scandi
+      - scd
     workshop: true
     social: true
-    organisation: CDSS
+    price: $85-$120
+    organisation: NEFFA
   - name: Jane Austen Ball
     details: "Join us for a special Jane Austen Ball, on the 250th anniversary of her birth.  \nThe Ball will be called by Beverly Francis, a longstanding leader from Country Dance New York. She has a particular fondness for country dance in the time of Jane Austen and has called many dances for the Jane Austen Society of North America, New York Metropolitan Region, as well as two balls for the national JASNA. \nMusic for the ball will be provided by Alchemy, who will add some contemporary innovation and improvisation to the traditional dance tunes. \nWe’re planning an afternoon Ball practice and evening experienced dance on Saturday, April 26 at First Baptist Church, 175 Allens Creek Rd. On Sunday, April 27, there is another practice in the morning, and the ball in the afternoon at the ballroom of the Memorial Art Gallery. We usually open Ball registration on Valentine’s Day."
     links:
