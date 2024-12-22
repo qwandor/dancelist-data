@@ -33466,7 +33466,7 @@ events:
     city: Coventry
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     callers:
       - Dereck Kalish
@@ -33620,6 +33620,7 @@ events:
     social: true
     price: $10
     organisation: Friends of Contra Dance of Macon County
+    cancelled: true
   - name: Goshen Community Contra Dance
     details: "The Goshen Community Contra Dance celebrates its 24th season of dancing contras, squares, reels, circles & waltzes in downtown Goshen, In. \n\nNo experience or partner needed. New dancers are always welcome and are invited to the beginners’ workshop at 6:30pm. \nAlways live local and regional bands, and all dances are led by experienced callers.\nWear layers of comfortable, lightweight clothing and shoes for active movement.\nYou’ll be dancing on a springy wood floor!\n\nGeneral Public: Non-members $8, Members $6\nStudents: Non-members $5, Members $3\nChildren under 12: Free\nFamily maximum cost: $18"
     links:
@@ -37204,14 +37205,14 @@ events:
     links:
       - "http://www.hcdance.org/quiet-corner-contra/"
       - "https://cdss.org/event/quiet-corner-contra-dance-2/"
-    start: "2025-01-03T19:30:00-05:00"
+    start: "2025-01-03T19:15:00-05:00"
     end: "2025-01-03T22:30:00-05:00"
     country: USA
     state: CT
     city: Coventry
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     callers:
       - Rich Sbardella
@@ -37222,7 +37223,7 @@ events:
     links:
       - "https://www.fridaynightdance.com/tickets"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-01-03/"
-    start: "2025-01-03T20:00:00-05:00"
+    start: "2025-01-03T19:30:00-05:00"
     end: "2025-01-03T23:00:00-05:00"
     country: USA
     state: MD
@@ -37231,6 +37232,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Norman, first Fridays during the school year. Check our Facebook or our website for more details!"
@@ -37282,6 +37284,7 @@ events:
   - name: Advanced English Dance Workshop
     details: "CDS Boston is pleased to sponsor an afternoon advanced English Dance workshop, featuring caller Joanna Reiner Wilkinson and musicians Kate Barnes, Karen Axelrod, and Mary Lea. The workshop is open to dancers who have complete familiarity with English dance figures and are able to respond quickly to instructions. For more information, please visit our website or send us email. \n$15 for members, $20 for non-members."
     links:
+      - "https://www.cds-boston.org/event/advanced-english-dance-workshop/"
       - "https://cdss.org/event/advanced-english-dance-workshop/"
     start: "2025-01-04T13:30:00-05:00"
     end: "2025-01-04T16:30:00-05:00"
@@ -37291,7 +37294,7 @@ events:
     styles:
       - ecd
     workshop: true
-    social: true
+    social: false
     callers:
       - Joanna Reiner Wilkinson
     price: $15-$20
@@ -37310,6 +37313,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: donation
     organisation: York Region English Country Dancers
   - name: Scissortail English Country Dance
     details: "Scissortail English Country Dance in Oklahoma City, first and third Saturdays.  Check our Facebook or our website for more details!"
@@ -37325,6 +37329,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: Baton Rouge Contra Dance
     details: Baton Rouge Contra Dance at St. Albans Chapel
@@ -37338,8 +37343,9 @@ events:
     city: Baton Rouge
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $10
     organisation: Charlene Heaton & David Porter
   - name: Old Tyme Contra & Community Dance
     details: "First Saturday of every month: lesson at 6:30, dance 7-9pm.\nLive band and dance caller for contras, squares, round, and fun crazy family dances, too.\nBeginners are welcome! No need to bring a partner, but you are welcome to do so.\nChildren over age 8 who are game to participate may also attend.\nBring a closed water container and a snack if you choose.\nSmooth-soled shoes work best on the Library’s wonderful wood floor.\nPlease do not wear perfume or scents to the dances.\n\nSuggested donation: $10 adults; kids under 14 free."
@@ -37356,12 +37362,13 @@ events:
     social: true
     price: $10
     organisation: Friends of Contra Dance of Macon County
+    cancelled: true
   - name: Goshen Community Contra Dance
     details: "The Goshen Community Contra Dance celebrates its 24th season of dancing contras, squares, reels, circles & waltzes in downtown Goshen, In. \n\nNo experience or partner needed. New dancers are always welcome and are invited to the beginners’ workshop at 6:30pm. \nAlways live local and regional bands, and all dances are led by experienced callers.\nWear layers of comfortable, lightweight clothing and shoes for active movement.\nYou’ll be dancing on a springy wood floor!\n\nGeneral Public: Non-members $8, Members $6\nStudents: Non-members $5, Members $3\nChildren under 12: Free\nFamily maximum cost: $18"
     links:
       - "http://godancing.org/"
       - "https://cdss.org/event/goshen-community-contra-dance/2025-01-04/"
-    start: "2025-01-04T19:00:00-05:00"
+    start: "2025-01-04T18:30:00-05:00"
     end: "2025-01-04T22:00:00-05:00"
     country: USA
     state: IN
@@ -37372,9 +37379,10 @@ events:
     social: true
     price: $3-$8
     organisation: Goshen Community Contra Dance
-  - name: "Swingin' Tern 41st Anniversary Contra Dance: Bob Isaacs & Friends with The Star Charters"
+  - name: "Swingin' Tern 41st Anniversary Contra Dance"
     details: "Our contra dances are held every first and third Saturday evening year-round from 7:30pm–10:30pm, with a beginners’ workshop at 7pm. We have occasional double dances along with a New Year’s Eve dance. \n$15 adults/$5 students \nCaller: Bob Isaacs & Friends\nIn addition to his calling, Bob Isaacs has been passing on his knowledge to fledgling callers. This anniversary dance will feature the calling of some of Bob’s proteges, his own calling, and other established callers. Bob is known for his clear, concise instructions. He is a prolific contra choreographer—his creative dances are called throughout the country. \nBand: The Star Charters\nThe Star Charters features Cecilia Vacanti on fiddle, Jess Newman on fiddle, and Mark Price on guitar. Cecilia is one-half of the band Kingfisher. Jess and Mark play together as the band Cojiro. Coming to us from the Boston area, all three will be playing their own tunes along with traditional material. Get ready to dance! \nUseful Information:\n\nNewcomers are welcome to come at 7pm for an introductory lesson on the basics of contra dancing. No partner is necessary. All dances are taught with a “walk-through” by the caller.\nWe no longer require vaccination. Masks are optional.\nAll dances at Swingin’ Tern are called to the gender-neutral terms Larks & Robins. Dance whatever role you’re comfortable in.\nWe are air-conditioned. We have windows on three sides when we want to let the breeze come in.\nOur dance is two blocks from the Chatham station on the Morris/Essex line out of Penn Station, NYC.\nWe welcome contributions of home-baked [or not] goodies to share at the break.\nPlease bring your own water bottle. Water bottles may be filled at the kitchen sink.\nWear comfortable clothing. Contra dancing is aerobic. We prefer you carry in your shoes.\nWe are a friendly, inclusive group. Pack plenty of smiles!"
     links:
+      - "https://folkproject.org/swingin-tern/"
       - "https://cdss.org/event/swingin-tern-41st-anniversary-contra-dance-bob-isaacs-friends-with-the-star-charters/"
     start: "2025-01-04T19:00:00-05:00"
     end: "2025-01-04T22:30:00-05:00"
@@ -37386,9 +37394,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Cecilia
-      - Cojiro
-      - Kingfisher
+      - The Star Charters
     callers:
       - Bob Isaacs
     price: $5-$15
@@ -37423,6 +37429,8 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - "Pocketful o' Gimmick"
     callers:
       - Susan English
     price: $5-$7
@@ -37456,13 +37464,14 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$20
     organisation: Friends of Traditional Dance
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \nLessons at 6:40; dance starts at 7 PM. \n​Prices: \n\n$12 General\n​$10 Members of MCDC, BACDS, CDSS or other sister organizations\n$5 active military & full-time students, with ID\nFREE! for children 12 & under ​"
     links:
       - "https://montereycontradance.org/index.html"
       - "https://cdss.org/event/monterey-contra-dance/2025-01-04/"
-    start: "2025-01-04T19:00:00-08:00"
+    start: "2025-01-04T18:40:00-08:00"
     end: "2025-01-04T22:00:00-08:00"
     country: USA
     state: CA
