@@ -35177,7 +35177,7 @@ events:
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $10
     organisation: Childgrove Country Dancers
@@ -37055,16 +37055,22 @@ events:
   - name: Princeton Country Dancers’ Contra Dance
     details: "Weekly contra dance on Wednesday nights, 8:00-10:30."
     links:
+      - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2025-01-01/"
-    start: "2025-01-01T20:00:00-05:00"
+    start: "2025-01-01T19:30:00-05:00"
     end: "2025-01-01T22:30:00-05:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Flying Circus
+    callers:
+      - Jan Alter
+    price: $15
     organisation: CDSS
   - name: Cleveland Thursday English Country Dance
     details: "Come join us every Thursday afternoon for English Country Dancing. \nCombination of live and recorded music, in an air-conditioned hall."
@@ -37769,6 +37775,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $10
     organisation: New Hampshire English Country Dance Society
   - name: Rochester Sunday Afternoon English
     details: "Weekly English Country dances in Rochester, NY"
@@ -37815,6 +37822,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Houston Area Traditional Dance Society
   - name: Roseville English Country Dance
     details: "English Country Dance at the Masonic Lodge, 235 Vernon St., Roseville! Check our website for the most current information."
@@ -37837,8 +37845,8 @@ events:
     links:
       - "https://nbcds.org/english-country-dance/"
       - "https://cdss.org/event/sebastopol-1st-and-3rd-sunday-english-dance/2025-01-05/"
-    start: "2025-01-05T17:00:00-08:00"
-    end: "2025-01-05T19:30:00-08:00"
+    start: "2025-01-05T14:00:00-08:00"
+    end: "2025-01-05T16:30:00-08:00"
     country: USA
     state: CA
     city: Sebastopol
@@ -37846,6 +37854,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - David Newitt
     price: $3-$15
     organisation: North Bay Country Dance Society
   - name: English Country Dance at Tapestry Folkdance Center
@@ -37869,15 +37879,18 @@ events:
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2025-01-05/"
-    start: "2025-01-05T19:00:00-06:00"
+    start: "2025-01-05T18:30:00-06:00"
     end: "2025-01-05T21:30:00-06:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - 3 Crooked Men
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
@@ -37894,7 +37907,7 @@ events:
     social: true
     bands:
       - Hoggetowne Fancy
-    price: $5
+    price: $10
     organisation: Gainesville English Country Dance
   - name: Chattaboogie
     details: "Chattaboogie 2025 is a contra dance weekend in downtown Chattanooga, Tennessee. See our Facebook page to find out more. \nRegistration can be full weekend or à la carte. \n\nbands Turnip the Beet and Kingfisher\ncallers Tim Klein and Janet Shepherd\nlocation: “The Historic” at 1601 Rossville Avenue Chattanooga, Tennessee 37408"
