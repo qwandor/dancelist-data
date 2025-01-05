@@ -3,11 +3,12 @@ events:
   - name: Folk Weekend Mattstedt
     links:
       - "https://www.muehlenhofmattstedt.de/folk-festival"
-    start: 2022-06-23T20:00:00+02:00
-    end: 2022-06-26T16:30:00+02:00
+    start: "2022-06-23T20:00:00+02:00"
+    end: "2022-06-26T16:30:00+02:00"
     country: Germany
     city: Mattstedt
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -20,7 +21,6 @@ events:
       - Duo Bothe-Molzahn
     price: €25-€135
     organisation: Mühlenhof Mattstedt
-
   - name: "Intensive Workshop: Waltz"
     links:
       - "https://eledanse.be/event/intensiv-mattstedt_2023_walzer/"
@@ -29,32 +29,47 @@ events:
     end: "2023-05-07T15:00:00+02:00"
     country: Germany
     city: Mattstedt
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     price: €180
     organisation: EléDanse ASBL
-
   - name: Folk Weekend Mattstedt
     links:
       - "https://www.muehlenhofmattstedt.de/folk-festival"
-    start: 2023-06-22T20:00:00+02:00
-    end: 2023-06-25T16:30:00+02:00
+    start: "2023-06-22T20:00:00+02:00"
+    end: "2023-06-25T16:30:00+02:00"
     country: Germany
     city: Mattstedt
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     organisation: Mühlenhof Mattstedt
-
   - name: Folk Weekend Mattstedt
     links:
       - "https://www.muehlenhofmattstedt.de/folk-festival"
-    start: 2024-06-19T18:00:00+02:00
-    end: 2024-06-23T16:30:00+02:00
+    start: "2024-06-19T18:00:00+02:00"
+    end: "2024-06-23T16:30:00+02:00"
     country: Germany
     city: Mattstedt
-    styles: [balfolk]
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Mühlenhof Mattstedt
+  - name: Mattstedt Folk
+    details: "Festival outside, small village and mill, camping, dormitory, swimming"
+    links:
+      - "https://de.muehlenhofmattstedt.de/copy-of-folk"
+      - "https://de.muehlenhofmattstedt.de/"
+    start_date: 2025-05-28
+    end_date: 2025-06-01
+    country: Germany
+    city: Apolda
+    styles:
+      - balfolk
     workshop: true
     social: true
     organisation: Mühlenhof Mattstedt
