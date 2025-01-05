@@ -1295,21 +1295,25 @@ events:
   - name: Midwinter Weekend of English Dance
     details: "Join us in Nashville for a mini weekend of English Country Dancing! \nSat Jan 11, 2025 at Second Presbyterian Church, 3511 Belmont Blvd, Nashville, TN \n\n2–4 PM Workshop with Susan Kevra\n6–7:15 PM Potluck supper\n7:30–9:30 PM Dance with Juliette Webb\n\nMusic by Southwind (Emma Rushton, Jeff Rohrbough, Anne Hoos & Karl Kersey) \nSliding scale $10-$25/session \nAND \nSun, January 12, 2024\nat the Friends Meeting House, 530 26th Ave N in Nashville, TN  \n4 – 6 PM\nCathy Hollister calls with music by The English Muffins (Amberly Rosen, Susan Kevra & Nick Bergin)\nSliding scale $7-20"
     links:
+      - "https://www.nashvillecountrydancers.org/english-country-dances"
       - "https://cdss.org/event/midwinter-weekend-of-english-dance/"
-    start_date: 2025-01-11
-    end_date: 2025-01-12
+    start: "2025-01-11T14:00:00-06:00"
+    end: "2025-01-12T18:00:00-06:00"
     country: USA
     state: TN
     city: Nashville
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     bands:
+      - Southwind
       - The English Muffins
     callers:
+      - Cathy Hollister
+      - Juliette Webb
       - Susan Kevra
-    price: $7-$25
+    price: $27-$65
     organisation: Nashville Country Dancers
   - name: Cabot Community Contra Dance
     details: "The Cabot Community Contra Dance is a distinctly beginner-friendly and family-friendly dance held every 2nd Friday, September–June. Our rotating Vermont callers use gender-free terminology, with music provided by The Usual Suspects, a great group of local musicians, and sit-ins are welcome! We have a lovely wooden-floored space in the Cabot Town Hall.  \nAdmission is on a sliding scale, $5-10 suggested, but nobody is turned away for lack of funds. Masks are welcomed but not required, and we ask that you bring some clean, dry shoes to change into, if it’s snowy or wet out."
@@ -1875,7 +1879,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance-2/2025-01-12/"
-    start: "2025-01-12T16:00:00-05:00"
+    start: "2025-01-12T15:30:00-05:00"
     end: "2025-01-12T18:15:00-05:00"
     country: USA
     state: NC
@@ -1884,6 +1888,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: free
     organisation: CDSS
   - name: Nashville English Country Dance
     details: "Live music and lovely folk gather at the Friends Meeting House in Nashville from 4pm to 6pm on the second Sunday of each month from September to May.   \nSliding scale admission."
@@ -1899,10 +1904,12 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5-$20
     organisation: Nashville Country Dancers
   - name: Contra Dance for a Cause
     details: "Hosted by Arlington Knights of Columbus #109 \n\nThree great causes: Coats for Kids, The Campaign for People with Intellectual Disabilities, and EVkids. After covering the cost of holding the dance (caller, musicians, hall), net proceeds are split amongst the three above charities.\nCommunity Shindig: In the tradition of New England’s earliest settlers, The Knights of Columbus #109 invite you to a New England Contra Dance to celebrate the traditions of community dancing. No need to bring a partner OR know how in order to have a great time!\nLive Music by: Kat Wallace & Helen Grace Kuhar!\n\nKat is a fiddle player with a focus in American and Celtic styles, her music-making centers around original and traditional tunes and songs utilizing tenor guitar, fiddle, viola and voice.\nHelen is a rhythm guitarist and vocalist hailing from Cambridge, MA. Growing up in the Pacific Northwest, Helen fell in love with traditional music through contra dancing, and since then has been immersed in Irish, Scottish, and New England folk traditions of Boston, MA and the greater Northeast.! They both together will amaze you!\n\n\nCaller: Don Heinold. Hailing from Rhode Island, Don has been calling at dances, weddings & parties all over New England for over 14 years. Don is also known for teaching the rotary (country) waltz.\nAdmission: $15 suggested donation per person, or $10 for students per person!\nParking: plenty of well-lighted parking behind the Arlington K of C building. Enter by walking around the side of the building via Prescott St. to 15 Winslow St.\nClothing and Footwear: Just bring, clean shoes to dance in to preserve the floor (no high heels please). Dress is comfortable and as you like.\nRole Terms are: “Ladies & Gents” or “Women & Men” but dancers are welcome to choose whatever role that works for them. with no worries."
     links:
+      - "https://www.kofc109.com/contra"
       - "https://cdss.org/event/contra-dance-for-a-cause-2/"
     start: "2025-01-12T18:00:00-05:00"
     end: "2025-01-12T21:00:00-05:00"
@@ -1913,6 +1920,8 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Kat Wallace & Helen Grace Kuhar
     callers:
       - Don Heinold
     price: $10-$15
@@ -1931,6 +1940,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15-$20
     organisation: CDSS
   - name: Common Floor Contra Dance
     details: "Contra dancing in Portland, ME every second Sunday. For details, visit our website. \n$15 suggested donation."
@@ -1971,21 +1981,26 @@ events:
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2025-01-12/"
-    start: "2025-01-12T19:00:00-06:00"
+    start: "2025-01-12T18:30:00-06:00"
     end: "2025-01-12T21:30:00-06:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Chris Talley & Friends
+    callers:
+      - Mac McKeever
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
     links:
       - "https://cdss.org/event/gainesville-florida-english-country-dance/2025-01-13/"
-    start: "2025-01-13T18:30:00-05:00"
+    start: "2025-01-13T18:10:00-05:00"
     end: "2025-01-13T20:30:00-05:00"
     country: USA
     state: FL
@@ -1996,7 +2011,7 @@ events:
     social: true
     bands:
       - Hoggetowne Fancy
-    price: $5
+    price: $10
     organisation: Gainesville English Country Dance
   - name: Monday Night Dance
     details: "Contra Dance to live music every Monday in the beautiful, historic Laurel Theater. We have a short newcomer session beginning at 7:00 with the dance beginning at 7:30. \nEveryone is welcome! \n$10 Adults / $5 Students"
@@ -2019,7 +2034,7 @@ events:
     links:
       - "https://shenandoahvalleycontradance.weebly.com/monday-night-contra.html"
       - "https://cdss.org/event/verona-va-monday-night-contra-dance/2025-01-13/"
-    start: "2025-01-13T19:00:00-05:00"
+    start: "2025-01-13T18:45:00-05:00"
     end: "2025-01-13T21:00:00-05:00"
     country: USA
     state: VA
@@ -2060,13 +2075,14 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10-$15
     organisation: CDSS
   - name: Asheville Monday Night Contra Dance
     details: "The Asheville Monday Night Contra Dance, every Monday. Dancing to a live band & caller! Contra dancing is fun and energetic. The welcoming atmosphere makes it a perfect evening for beginners as well as seasoned contra dancers. \nBeginners are welcome, lesson 7:45pm – 8:15pm. Contra dancing from 8:15pm – 10:30pm. A waltz ends the night! Safe Dance for all! Families welcome. All ages, races & ethnicities, LGBTQIA+ welcome. No discrimination or bullying of any kind will be tolerated. Volunteers earn a free dance. Bring a water bottle. Bring comfortable, smooth soled shoes to dance in. No partner required. No experience needed for the beginners’ lesson."
     links:
       - "https://themondaynightdance.wixsite.com/home/about"
       - "https://cdss.org/event/the-asheville-monday-night-contra-dance/2025-01-13/"
-    start: "2025-01-13T20:00:00-05:00"
+    start: "2025-01-13T19:45:00-05:00"
     end: "2025-01-13T22:30:00-05:00"
     country: USA
     state: NC
@@ -2090,6 +2106,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
@@ -2110,6 +2127,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Tuesday English Country Dance
     details: "We dance to live music from our wonderful local musicians. All dances taught and prompted. Wear comfortable clothes and bring flat, non-slippy shoes to change into. Pay what you can; $8 donation helps cover the hall, band, and callers. Masks are welcome at the dance."
@@ -2132,7 +2150,7 @@ events:
     links:
       - "https://www.shedances.org/"
       - "https://cdss.org/event/saint-louis-queer-contra/2025-01-14/"
-    start: "2025-01-14T19:00:00-06:00"
+    start: "2025-01-14T18:45:00-06:00"
     end: "2025-01-14T21:00:00-06:00"
     country: USA
     state: MO
@@ -2141,6 +2159,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $10
     organisation: SheDances
   - name: Williamsburg Tuesday Night English Dance
     details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
@@ -2157,9 +2176,10 @@ events:
     workshop: false
     social: true
     organisation: Williamsburg Heritage Dancers
-  - name: English Country Dance Classes in Pasadena
+  - name: English Country Dance Class
     details: "Whether you are brand new or LOVE this style of dancing, Tuesday nights in Pasadena is where you learn the skills to dance with elegance and ease! It’s a great mid-week pick-me-up with dance friends old and new. We dance on the 2nd, 4th, and 5th Tuesday of the month. \nPay $10 at the door, and pre-register on our website to receive all of the pertinent details! \nPlan on sticking around for after-hours socializing and getting the latest details on a favorite dance, the next ball, or that costume question you always wanted to ask."
     links:
+      - "https://historicalteaanddance.org/#Tuesdaydances"
       - "https://cdss.org/event/english-country-dance-classes-in-pasadena/2025-01-14/"
     start: "2025-01-14T19:15:00-08:00"
     end: "2025-01-14T21:30:00-08:00"
@@ -2177,7 +2197,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/english-country-dance-asheville-nc-3/2025-01-15/"
-    start: "2025-01-15T19:00:00-05:00"
+    start: "2025-01-15T18:40:00-05:00"
     end: "2025-01-15T21:00:00-05:00"
     country: USA
     state: NC
@@ -2224,7 +2244,7 @@ events:
     links:
       - "https://www.bfms.org/squarecontra.php"
       - "https://cdss.org/event/monday-night-english-country-dance-2/2025-01-15/"
-    start: "2025-01-15T20:00:00-05:00"
+    start: "2025-01-15T19:30:00-05:00"
     end: "2025-01-15T22:30:00-05:00"
     country: USA
     state: MD
@@ -2238,8 +2258,9 @@ events:
   - name: FSGW English Country Dance
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
+      - "https://fsgw.org/event-5980620"
       - "https://cdss.org/event/fsgw-english-country-dance/2025-01-15/"
-    start: "2025-01-15T20:00:00-05:00"
+    start: "2025-01-15T19:30:00-05:00"
     end: "2025-01-15T22:30:00-05:00"
     country: USA
     state: MD
@@ -2253,6 +2274,7 @@ events:
   - name: "Tapestry Folkdance Sampler: English Country Dance"
     details: "Introduction to English Country Dance with Barbara Rice\nIndulge your inner Bridgerton or Jane Austen fan with this Intro to English Country Dance workshop! You’ll learn a bit about the history of these dances, the music that is often played as accompaniment, and some of the most common steps and formations. This class is meant to provide an introductory overview of English Country Dance, open to all but especially tailored to those with little to no experience. No partner required."
     links:
+      - "https://www.tapestryfolkdance.org/classseries"
       - "https://cdss.org/event/tapestry-folkdance-sampler-english-country-dance/"
     start: "2025-01-15T20:00:00-06:00"
     end: "2025-01-15T21:30:00-06:00"
@@ -2262,7 +2284,10 @@ events:
     styles:
       - ecd
     workshop: true
-    social: true
+    social: false
+    callers:
+      - Barbara Rice
+    price: $12
     organisation: Tapestry Folkdance Center
   - name: Stellar Days & Nights
     details: "A 4-day, 3 night winter music and dance event in the Rocky Mountains – Buena Vista, CO. Contra, English Country, and Couples Dancing, plus workshops and music jams.  Cozy accommodations. Amazing scenery. Yummy food. \nNational callers Seth Tepfer, and Wendy Graham, set to call. Music from Countercurrent (w/ Alex Sturbaum & Brian Lindsay); Joanna Hyde & Tadhg O Meachair; Harken! (w/Connie Michael & Harmony Tucker).  \nCheck out the website for information.   \nOrganized by: Arkansas Valley Music and Dance. \nPut this on your calendar now and plan to attend! Registration now open. Register here!"
