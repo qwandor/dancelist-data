@@ -319,11 +319,11 @@ events:
     workshop: true
     social: true
     organisation: Folktanz Dresden e.V.
-  - name: "Gugelhupf: Weihnachtlicher Tanzabend mit lokalen Künstlern"
+  - name: "Gugelhupf: Weihnachtlicher Tanzabend"
     details: "Weihnachtlicher Tanzabend mit lokalen Künstlern mit Helena und Martin, bekannt von Wings & Tales\\r\n\\r\nMartha und Quentin, bekannt als Duo Filament\\r\n\\r\nAnna und Frank, bekannt aus Sessions und als Tontechniker\\r\n\\r\nAndrea und Jens, bekannt u.a. von Buckijit und Ginkgo\\r\n\\r\n\\r\n\\r\nab 18 Uhr Mitbringebuffet"
     links:
       - "https://www.gugelhupf-dresden.de/tanz-in-dresden/"
-    start: "2024-12-21T19:30:00+01:00"
+    start: "2024-12-21T18:00:00+01:00"
     end: "2024-12-21T23:59:59+01:00"
     country: Germany
     city: Dresden
@@ -332,7 +332,10 @@ events:
     workshop: false
     social: true
     bands:
-      - Wings & Tales
+      - Andrea & Jens
+      - Anna & Frank
+      - Duo Filament
+      - Helena & Martin
     organisation: Folktanz Dresden e.V.
   - name: "Gugelhupf: Weihnachtstanzen"
     details: Weihnachtstanzen mit anderer Ort - bitte nachfragen
@@ -359,6 +362,7 @@ events:
     workshop: true
     social: true
     organisation: Folktanz Dresden e.V.
+    cancelled: true
   - name: "Gugelhupf: Tanzabend"
     details: "Einführungsstunde: Führen und Folgen"
     links:
