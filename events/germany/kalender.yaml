@@ -791,8 +791,8 @@ events:
     links:
       - "https://7schritt.de/fruehlingsbal-folk-2025/"
       - "https://kalender.digital/574d155c91900caea879/event/869220314"
-    start_date: 2025-03-22
-    end_date: 2025-03-23
+    start: "2025-03-22T14:00:00+01:00"
+    end: "2025-03-23T14:00:00+01:00"
     country: Germany
     city: Freiburg i. Br
     styles:
@@ -801,6 +801,8 @@ events:
     social: true
     bands:
       - Shillelagh
+      - Le Carillon
+    price: €50-€65
     organisation: Siebenschritt
   - name: "Workshop: Tänze aus Frankreich"
     details: LAG Tanz Baden-Würrtemberg
@@ -845,7 +847,7 @@ events:
       - Emma & Jonas
       - Luca Fiorini
     organisation: Sönke
-  - name: Skandinavisches Tanzwochenende-in Freiburg
+  - name: Scandinavian Dance Weekend
     details: Workshop für Fortgeschrittene Samstag und Sonntag
     links:
       - "https://7schritt.de/10-skandinavisches-tanzwochenende-in-freiburg-i-br/"
@@ -855,9 +857,14 @@ events:
     country: Germany
     city: Freiburg i. Br
     styles:
-      - balfolk
+      - scandi
     workshop: true
     social: true
+    bands:
+      - Kördeböf
+      - Sture und Sigmar
+      - Uppsala
+    price: €50
     organisation: Balfolk-Orga-Kalender
   - name: BalFolk Rechberghausen
     details: "Die Hayner, Workshop 16-18 Uhr"
