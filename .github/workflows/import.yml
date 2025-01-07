@@ -46,15 +46,6 @@ jobs:
         run: dancelist import lancaster-contra events/uk/lancaster.yaml
       - name: Import marburg
         run: dancelist import marburg events/germany/marburg.yaml
-      - name: Commit if changed
-        run: |
-          git add events
-          git config user.name "Automatic import"
-          git config user.email "dancelist-import@users.noreply.github.com"
-          if git commit -m "Update import."
-          then
-            git push
-          fi
       - name: Import dresden
         run: dancelist import dresden events/germany/dresden.yaml
       - name: Commit if changed
