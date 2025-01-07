@@ -4,11 +4,12 @@ events:
     links:
       - "https://dckn.de/simmelfolk-festival/"
       - "https://www.facebook.com/events/2884443455191697/"
-    start: 2022-09-16T16:00:00+02:00
-    end: 2022-09-18T23:45:00+02:00
+    start: "2022-09-16T16:00:00+02:00"
+    end: "2022-09-18T23:45:00+02:00"
     country: Germany
     city: Simmelsdorf
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -22,7 +23,6 @@ events:
       - Viorel
     price: €77-€99
     organisation: Das co-kreative Netzwerk
-
   - name: Simmelfolk
     links:
       - "https://dckn.de/simmelfolk-festival/"
@@ -30,18 +30,18 @@ events:
     end_date: 2023-09-17
     country: Germany
     city: Simmelsdorf
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
       - Duo Bothe-Molzahn
-      - L'air Inconnu
-      - L'Aube de Bale
+      - "L'air Inconnu"
+      - "L'Aube de Bale"
       - Luca Fiorini
       - Bassd scho
       - Emily & The Simons
     organisation: Das co-kreative Netzwerk
-
   - name: Simmelfolk
     links:
       - "https://dckn.de/simmelfolk-festival/"
@@ -65,6 +65,18 @@ events:
       - Nyntråm
       - Vagalan
     price: €123-€150
+    organisation: Das co-kreative Netzwerk
+  - name: MärzTanz
+    links:
+      - "https://dckn.de/co-kreative-projekte/maerztanz-festival/"
+    start_date: 2025-03-14
+    end_date: 2025-03-16
+    country: Germany
+    city: Chemnitz
+    styles:
+      - balfolk
+    workshop: true
+    social: true
     organisation: Das co-kreative Netzwerk
   - name: Simmelfolk
     links:
