@@ -751,9 +751,11 @@ events:
     city: Stuttgart
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
-    organisation: "Tanzanleitung: Marylou Taylor-Gerlmayer\\,  \\nMusik: Unipot\\nVeranstalter: Bürgerverein Plieningen"
+    bands:
+      - Unipot
+    organisation: "Bürgerverein Plieningen"
   - name: Irish set dance
     details: Irischer Tanz Nachmittag
     links:
