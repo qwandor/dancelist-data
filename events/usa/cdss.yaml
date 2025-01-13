@@ -1238,8 +1238,8 @@ events:
     links:
       - "https://bacds.org/series/english/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2025-01-09/"
-    start: "2025-01-09T20:00:00-08:00"
-    end: "2025-01-09T22:30:00-08:00"
+    start: "2025-01-09T19:15:00-08:00"
+    end: "2025-01-09T22:00:00-08:00"
     country: USA
     state: CA
     city: Berkeley
@@ -3336,8 +3336,9 @@ events:
   - name: FSGW English Country Dance
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
+      - "https://fsgw.org/event-5980622"
       - "https://cdss.org/event/fsgw-english-country-dance/2025-01-22/"
-    start: "2025-01-22T20:00:00-05:00"
+    start: "2025-01-22T19:30:00-05:00"
     end: "2025-01-22T22:30:00-05:00"
     country: USA
     state: MD
@@ -3346,6 +3347,8 @@ events:
       - ecd
     workshop: true
     social: true
+    callers:
+      - Anna Rain
     price: $8-$17
     organisation: Folklore Society of Greater Washington
   - name: Princeton Country Dancers’ Contra Dance
@@ -3353,19 +3356,21 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2025-01-22/"
-    start: "2025-01-22T20:00:00-05:00"
+    start: "2025-01-22T19:30:00-05:00"
     end: "2025-01-22T22:30:00-05:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: "Tapestry Folkdance Sampler: Contra"
     details: "Beau and Mickey Farmer and Mattie Rynkiewicz, contra artists with many combined years of calling, teaching and music experience, will guide attendees as they explore the history, music, language, and movement of contra dancing. Using both recorded and live music, participants will be taught and perform a half dozen or more different dances, beginning with traditional choreography and music, such as jigs and reels, and moving through a variety of styles, culminating with the more modern, jazzy and energetic dancing of today. The evening will end with dimming the lights and dancing one or two “techno” contras."
     links:
+      - "https://www.tapestryfolkdance.org/classseries"
       - "https://cdss.org/event/tapestry-folkdance-sampler-contra/"
     start: "2025-01-22T20:00:00-06:00"
     end: "2025-01-22T21:30:00-06:00"
@@ -3374,15 +3379,16 @@ events:
     city: Minneapolis
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: San Francisco Contra Dance
     details: "2nd & 4th Wednesday in San Francisco! \nRole names: The role names usually used at this series are “Larks” and “Robins.” \nBeginner lesson at 7:30, dance 8:00-10:30 \nCheck our website for details. \n$25 supporters; $20 non-members; $15 members; $6 students or low-income; or pay what you can."
     links:
       - "https://bacds.org/series/contra/san_francisco_wed/"
       - "https://cdss.org/event/san-francisco-contra-dance/2025-01-22/"
-    start: "2025-01-22T20:00:00-08:00"
+    start: "2025-01-22T19:30:00-08:00"
     end: "2025-01-22T22:30:00-08:00"
     country: USA
     state: CA
@@ -3407,6 +3413,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $3
     organisation: Cleveland English Dance Community
   - name: Lake City Contra Dance
     details: "Thursday nights; doors open at 7 pm \nDances: intro/refresher workshop 7:15 pm, dancing 7:30 till 10:00 pm \nAdmission on a sliding scale $10 – 20 – pay what you can \nThe hall is well-ventilated and air-conditioned! \nFor more information call 206-525-0932, or send us email."
@@ -3422,11 +3429,12 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-235/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2025-01-23/"
     start: "2025-01-23T19:30:00-05:00"
     end: "2025-01-23T22:30:00-05:00"
@@ -3437,6 +3445,11 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Vandalia
+    callers:
+      - Margaret Mathews
+    price: $12
     organisation: Country Dancers of Rochester
   - name: Thursday Contra Dance
     details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing \n$5 to $20 sliding scale \nOur role terms are Larks and Robins \nMasks are required on the 1st, 3rd and 5th Thursdays."
@@ -3454,34 +3467,38 @@ events:
     social: true
     price: $5-$20
     organisation: PATMAD
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley English Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://www.bacds.org/series/english/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2025-01-23/"
-    start: "2025-01-23T20:00:00-08:00"
-    end: "2025-01-23T22:30:00-08:00"
+    start: "2025-01-23T19:15:00-08:00"
+    end: "2025-01-23T22:00:00-08:00"
     country: USA
     state: CA
     city: Berkeley
     styles:
-      - contra
       - ecd
     workshop: true
     social: true
+    callers:
+      - Bruce Hamilton
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: Flint Hills Contra Dance
     details: "Contra dance in Manhattan, Kansas. Open to everyone!"
     links:
       - "https://cdss.org/event/flint-hills-contra-dance/2025-01-24/"
-    start: "2025-01-24T18:30:00-05:00"
+    start: "2025-01-24T18:15:00-05:00"
     end: "2025-01-24T21:30:00-05:00"
     country: USA
     state: KS
     city: Manhattan
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $10
     organisation: Flint Hills Contradance and Music Society
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
@@ -3502,13 +3519,14 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Tallahassee Contra Dance
     details: "Join us for a fun community contra dance on the 2nd and 4th Fridays of most months! See tallydancer.com or our Facebook page for band and caller details. No dance experience is needed and no need to bring a partner. An intro lesson starts at 7:15 for beginners and anyone wanting to refresh their skills. \nAdmission cost: $10 for adults, $9 seniors over 50, $6 for students, free for kids under 12. Admission is payable by cash, check, or card at the door. Newcomers get in to their 2nd dance free!"
     links:
       - "http://www.tallydancer.com/"
       - "https://cdss.org/event/tallahassee-contra-dance-2/2025-01-24/"
-    start: "2025-01-24T19:30:00-05:00"
+    start: "2025-01-24T19:15:00-05:00"
     end: "2025-01-24T22:00:00-05:00"
     country: USA
     state: FL
@@ -3533,7 +3551,9 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Childgrove Country Dancers
+    cancelled: true
   - name: Wintergreen
     details: "Wintergreen is back! An urban dance weekend in Bozeman, MT featuring music by Turnip the Beet and Northern Aire, calling by Gaye Fifer and Koren Wake. \nUrban Contra Dance with callers Gaye Fifer and Koren Wake, and dancing to Northern Aire and Turnip the Beet at the spacious and comfortable Bozeman Senior Center. There’s a sunny ballroom with a beautiful wood floor and connected cozy lounge area when you need a breather while enjoying music and company. Plenty of snacks, Saturday lunch and dinner for a “break-even” fee of $145 and a “feeling prosperous” fee of $165+. Non-dancers $55. Saturday workshops only $50. Separate room for jamming. \nWorkshops for dancers, callers, and musicians. Home stays available—first come, first served so book early! Friendly, welcoming dancers and a great environment. Pack your skis!"
     links:
@@ -3561,7 +3581,7 @@ events:
     links:
       - "https://monroviaecd.org/"
       - "https://cdss.org/event/monrovia-english-country-dance/2025-01-24/"
-    start: "2025-01-24T19:30:00-08:00"
+    start: "2025-01-24T19:15:00-08:00"
     end: "2025-01-24T22:00:00-08:00"
     country: USA
     state: CA
@@ -3575,6 +3595,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6084"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2025-01-24/"
     start: "2025-01-24T19:30:00-08:00"
     end: "2025-01-24T22:30:00-08:00"
@@ -3585,6 +3606,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Laura Hatch
     price: $7-$20
     organisation: CDSS
   - name: Phoenix Winter Frolic
@@ -4093,7 +4116,7 @@ events:
     workshop: true
     social: true
     organisation: Lark Traditional Arts
-  - name: Balance the Bay - San Francisco
+  - name: Balance the Bay
     details: "Hot dancing in the cool summer ocean breeze! Featuring The Latter Day Lizards and River Road, with gender-neutral calling by Will Mentor and Alex Deis-Lauby. Registration opens May 11. \nFor more information, email balancethebay@gmail.com."
     links:
       - "https://bacds.org/camps/btb2025/"
