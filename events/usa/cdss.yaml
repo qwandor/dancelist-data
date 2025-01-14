@@ -2682,6 +2682,7 @@ events:
   - name: Rochester Winter Double Dance
     details: "Caller: Liz Nelson\nMusic: Torrent (Nadia Gaya (accordion), Sarah Stefanski (fiddle), Ross Parker (piano))\n\nTheme: Please wear blue, white or silver. Optional, but encouraged. \n\nSchedule:\nAdvanced contra at 2:00 – 5:00\nDinner Break 5:00 – 7:00\nOpen waltz at 7:00 – 7:30\nEvening contra 7:30 – 10:00\n\nPrices: $20 for the afternoon, $20 for the evening, $40 for both\n295 Gregory Street"
     links:
+      - "https://cdrochester.org/events/mlk-double-dance/"
       - "https://cdss.org/event/rochester-winter-double-dance/"
     start: "2025-01-18T14:00:00-05:00"
     end: "2025-01-18T22:00:00-05:00"
@@ -2696,7 +2697,7 @@ events:
       - Torrent
     callers:
       - Liz Nelson
-    price: $20-$40
+    price: $40
     organisation: Country Dancers of Rochester
   - name: Scissortail English Country Dance
     details: "Scissortail English Country Dance in Oklahoma City, first and third Saturdays.  Check our Facebook or our website for more details!"
@@ -2873,6 +2874,7 @@ events:
   - name: Tucson Contra Dance
     details: "Join us for our first and third Saturday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check https://tucsoncontradancers.org for more details"
     links:
+      - "https://tucsoncontradancers.org/"
       - "https://cdss.org/event/tucson-contra-dance/2025-01-18/"
     start: "2025-01-18T18:30:00-07:00"
     end: "2025-01-18T22:00:00-07:00"
@@ -2883,6 +2885,9 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Seth Levine
+    price: $5-$10
     organisation: Tucson Friends of Traditional Music%2C Inc.
   - name: Contra Dance at Tapestry Folkdance Center
     details: "In a contra dance, a leader, known as a caller, teaches basic dance steps during an introductory “walk-through” of the dance. Dancers learn by walking through the steps and formations, following the caller’s instructions. The dance figures are similar to those of old-time square dancing, except the figures are usually danced in a line, with leaders and followers facing each other. \n​These dances are lively, social, easy to learn, and aerobic. Although you will dance with a partner, it isn’t necessary to come with one. All dances are taught and are usually done in “long-ways sets” (partners facing in long lines down the hall).  Many of the regular Tapestry Folkdance Center contra bands play old-time music (similar to bluegrass), but the music at any given Saturday night contra may reflect a range of music traditions, such as New England, French Canadian, Irish, Scottish, Cape Breton, and modern compositions."
@@ -3584,6 +3589,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Experienced Contra at Guiding Star Grange
     details: "The dances in this series are open to all but will be geared toward experienced dancers. “Experienced” means: \n\nYou know how to do a roll away, California twirl, pass through to a wave, contra corners, and basic moves without teaching\nYou know where to be at the start of each dance phrase and how to recover from a lapse\nYou assist your partner and neighbor to the next move\nYou execute flourishes safely and on time without disturbing others\nYou respond to confusion and missteps by others with grace, encouragement and good humor\n\nAdmission: $12-20 \nPlease help us make this a scent-free and substance-free event. \nSee venue website for this month’s details and Covid policy. \nQuestions: Steve Zakon-Anderson or Katie Olmstead."
@@ -3599,16 +3605,18 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - The Dam Beavers
     callers:
-      - Steve Zakon-Anderson
-    price: $12
+      - Bob Isaacs
+    price: $12-$20
     organisation: Steve Zakon-Anderson
   - name: Friday Night Contra at Glen Echo
     details: "Join us in Glen Echo, Maryland, for a fun night of contras and an occasional square! There’s a free lesson at 7:30pm."
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-01-24/"
-    start: "2025-01-24T20:00:00-05:00"
+    start: "2025-01-24T19:30:00-05:00"
     end: "2025-01-24T23:00:00-05:00"
     country: USA
     state: MD
@@ -3617,6 +3625,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Childgrove English Country Dance
     details: "The regular dance generally starts out with simpler dances early in the evening, progressing to dances with more difficulty later on, depending on the experience level of the crowd."
@@ -3662,7 +3671,7 @@ events:
     links:
       - "https://pittsburghcontra.org/"
       - "https://cdss.org/event/pittsburgh-contra-dance-2/"
-    start: "2025-01-24T20:00:00-05:00"
+    start: "2025-01-24T19:30:00-05:00"
     end: "2025-01-24T23:00:00-05:00"
     country: USA
     state: PA
@@ -3671,6 +3680,8 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - AlleMonOh Stringband
     callers:
       - Bob Frederking
     price: $15
@@ -3714,7 +3725,7 @@ events:
     links:
       - "https://www.berea-folk-circle.org/english-country-dance"
       - "https://cdss.org/event/berea-4th-saturday-english-country-dance/2025-01-25/"
-    start: "2025-01-25T16:00:00-05:00"
+    start: "2025-01-25T15:45:00-05:00"
     end: "2025-01-25T18:00:00-05:00"
     country: USA
     state: KY
@@ -3739,6 +3750,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $12-$18
     organisation: The Living Tradition
   - name: Phoenix Winter Frolic
     details: Jacqui Grennan will call to the music of Playing with Fyre for contradancing on Friday evening plus Saturday afternoon and evening. The same great band and caller will offer English Country Dance on Sunday afternoon.
@@ -3763,9 +3775,10 @@ events:
   - name: Asheville Mid-Winter ECD Weekend
     details: "Asheville Midwinter English Country Dance Weekend \nCome dance with us at the historical Masonic Temple in downtown Asheville with workshops and dance parties led by Gene Murrow and music by Mara Shea, Julie Gorka, and Dean Herington."
     links:
+      - "https://ashevillemidwinter.org/"
       - "https://cdss.org/event/asheville-mid-winter-ecd-weekend/"
-    start_date: 2025-02-07
-    end_date: 2025-02-09
+    start: "2025-02-07T19:00:00-05:00"
+    end: "2025-02-09T13:30:00-05:00"
     country: USA
     state: NC
     city: Asheville
@@ -3798,13 +3811,15 @@ events:
     callers:
       - Claire Takemori
     organisation: Knoxville Contra Dance
-  - name: Dover English Country Dancers - Monthly Dance
+  - name: Dover Monthly English Country Dance
     details: "Monthly English country dance with live music.  Newcomers are always welcome, and each dance is taught with a walk-through before it is danced. \nDress is casual (“regular” clothes) except for special events (Spring and Holiday dances), when attendees may dress in formal/cocktail or 18th century attire. \nAnnual membership for the January – December season is $10. Membership admission for regular monthly dances is $7. \nRegular monthly dance admission for non-members is $10. \nAdmission price may change for special dances. \nTimes and locations may be subject to change. \nLocation: Ehinger Hall, Dover DE\nEhinger Hall (#14 Kings Highway) is located directly at the intersection of Kent Avenue and Division Street / Route 8 For those using GPS, the intersection of Kent Avenue and Division Street works best. Best parking will likely be found on Kent Avenue."
     links:
+      - "http://www.doverdancers.org/"
       - "https://cdss.org/event/dover-english-country-dancers-monthly-dance/2025-02-08/"
     start: "2025-02-08T18:30:00-05:00"
     end: "2025-02-08T21:30:00-05:00"
-    country: "19901"
+    country: USA
+    state: DE
     city: Dover
     styles:
       - ecd
@@ -3916,13 +3931,15 @@ events:
       - Jenna Simpson
     price: $80
     organisation: Sun Assembly
-  - name: Dover English Country Dancers - Monthly Dance
+  - name: Dover Monthly English Country Dance
     details: "Monthly English country dance with live music.  Newcomers are always welcome, and each dance is taught with a walk-through before it is danced. \nDress is casual (“regular” clothes) except for special events (Spring and Holiday dances), when attendees may dress in formal/cocktail or 18th century attire. \nAnnual membership for the January – December season is $10. Membership admission for regular monthly dances is $7. \nRegular monthly dance admission for non-members is $10. \nAdmission price may change for special dances. \nTimes and locations may be subject to change. \nLocation: Ehinger Hall, Dover DE\nEhinger Hall (#14 Kings Highway) is located directly at the intersection of Kent Avenue and Division Street / Route 8 For those using GPS, the intersection of Kent Avenue and Division Street works best. Best parking will likely be found on Kent Avenue."
     links:
+      - "http://www.doverdancers.org/"
       - "https://cdss.org/event/dover-english-country-dancers-monthly-dance/2025-03-08/"
     start: "2025-03-08T18:30:00-05:00"
     end: "2025-03-08T21:30:00-05:00"
-    country: "19901"
+    country: USA
+    state: DE
     city: Dover
     styles:
       - ecd
@@ -4196,13 +4213,15 @@ events:
       - Maeve Devlin
     price: $100-$120
     organisation: AACTMAD
-  - name: Dover English Country Dancers - Monthly Dance
+  - name: Dover Monthly English Country Dance
     details: "Monthly English country dance with live music.  Newcomers are always welcome, and each dance is taught with a walk-through before it is danced. \nDress is casual (“regular” clothes) except for special events (Spring and Holiday dances), when attendees may dress in formal/cocktail or 18th century attire. \nAnnual membership for the January – December season is $10. Membership admission for regular monthly dances is $7. \nRegular monthly dance admission for non-members is $10. \nAdmission price may change for special dances. \nTimes and locations may be subject to change. \nLocation: Ehinger Hall, Dover DE\nEhinger Hall (#14 Kings Highway) is located directly at the intersection of Kent Avenue and Division Street / Route 8 For those using GPS, the intersection of Kent Avenue and Division Street works best. Best parking will likely be found on Kent Avenue."
     links:
+      - "http://www.doverdancers.org/"
       - "https://cdss.org/event/dover-english-country-dancers-monthly-dance/2025-05-10/"
     start: "2025-05-10T18:30:00-04:00"
     end: "2025-05-10T21:30:00-04:00"
-    country: "19901"
+    country: USA
+    state: DE
     city: Dover
     styles:
       - ecd
@@ -4249,9 +4268,10 @@ events:
     callers:
       - Joseph Pimentel
     organisation: Burlington Country Dancers
-  - name: BACDS Hey Days English Dance and Music Week
+  - name: BACDS Hey Days
     details: "Hey Days is the annual BACDS English Country Dance and Music Week. \nWe offer classes in English country dance, ritual/display dance, song, and a music track. We promise a program that will challenge and delight both new and experienced participants, complete with campers’ night, parties, and a daily gathering for campers and staff to share hidden talents. \nStaff includes Joanna Reiner Wilkinson, Andrew Swaine, Rachel Pusey, Jan Elliot, Daisy Black, and Chris Bracken. Music by Shira Kammen, Lisa Scott, Chip Prince, McKinley James, Michelle Masek, Jim Oakden, and Rebecca King."
     links:
+      - "https://www.bacds.org/camps/eweek2025/"
       - "https://cdss.org/event/bacds-hey-days-english-dance-and-music-week/"
     start: "2025-06-15T15:30:00-07:00"
     end: "2025-06-22T10:00:00-07:00"
@@ -4260,13 +4280,13 @@ events:
     city: Los Garos
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     callers:
       - Andrew Swaine
-      - Daisy Black
       - Joanna Reiner Wilkinson
       - Rachel Pusey
+    price: $475-$1380
     organisation: Bay Area Country Dance Society
   - name: Acadia Festival of Traditional Music & Dance
     details: "A week-long summer festival of classes, workshops and concerts in Bar Harbor, ME, celebrating Celtic-influenced traditional music and dance."
