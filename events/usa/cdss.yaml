@@ -1557,7 +1557,7 @@ events:
     city: Kalamazoo
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $5-$20
     organisation: CDSS
@@ -3142,11 +3142,9 @@ events:
     city: Minneapolis
     styles:
       - ecd
-    workshop: true
+    workshop: false
     social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: Contra Dance in St Louis
     details: Weekly contra dance in St Louis area (actually Webster Groves MO). Always great live music. First dance each month features open calling.
@@ -3803,7 +3801,7 @@ events:
     city: Kalamazoo
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $5-$20
     organisation: CDSS
@@ -3830,16 +3828,19 @@ events:
   - name: Parish Center for the Arts Barn Dance
     details: "What: A public and community shindig, do-si-do and kick step it over to the PCA for some time well spent with old friends and new. PCA’s barn/contra dances are accompanied by live music! All are welcome, dancers or non. Experienced callers will talk everyone through a thoroughly enjoyable time. No fancy footwork needed to attend, just come, enjoy the friendly camaraderie, dance to live fiddle music and see everyone’s smiling faces! No need to bring a partner, nor have past experience, just know how!\nWhy: To have a wicked good time, get exercise & meet new friends!\nLive Music by: Oh CONTRAire. They are a traditional contra-dance band founded in Westford, Massachusetts in 2002. For almost 15 years, we’ve been presenting a variety of European, French-Canadian, and New England-based music to our dancers, both young and old. While our musicians have come and gone over the years, our passion for this musical tradition has been steadfast. Come and check us out!\nCaller: Don Heinold. Hailing from Rhode Island, Don has been calling at dances, weddings & parties all over New England for over 14 years. Don is also known for teaching the Rotary (country) Waltz.\nAdmission: Admission is $10 regular admission & $5 for students and those 12 years or younger.\nRole Terms: We are traditional contra dance, “Ladies & Gents” or “Women & Men” are the terms we use, but dancers are welcome to choose whatever role that works for them with no worries.\nParking: On-street parking around the Parish Center for the Arts.\nClothing & Footwear: Clothing is casual. Shoes that move easily on the floor work fine. Rubber-soled sneakers are ok but make dancing much harder."
     links:
+      - "https://parisharts.square.site/barn-contra-dance"
       - "https://cdss.org/event/parish-center-for-the-arts-barn-dance/"
     start: "2025-01-25T19:00:00-05:00"
     end: "2025-01-25T21:30:00-05:00"
     country: USA
-    state: RI
-    city: MA
+    state: MA
+    city: Westford
     styles:
       - contra
     workshop: false
     social: true
+    bands:
+      - Oh CONTRAire
     callers:
       - Don Heinold
     price: $5-$10
@@ -3860,12 +3861,14 @@ events:
     social: true
     bands:
       - Take a Dance
+    price: $15
     organisation: Mendocino English Country Dance
   - name: "Princeton Country Dancers' Combination Contra and English Country Dance"
     details: "Combination Contra and English Country Dance every 4th Saturday, 7:30-10:30 (except February)"
     links:
+      - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-combination-contra-and-english-country-dance/2025-01-25/"
-    start: "2025-01-25T19:30:00-05:00"
+    start: "2025-01-25T19:00:00-05:00"
     end: "2025-01-25T22:30:00-05:00"
     country: USA
     state: NJ
@@ -3873,8 +3876,9 @@ events:
     styles:
       - contra
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Oklahoma City, second and fourth Saturdays. Check our Facebook or our website for more details!"
@@ -3954,48 +3958,16 @@ events:
       - contra
     workshop: true
     social: true
+    price: $6-$20
     organisation: CDSS
-  - name: Dancing Fish Contra Weekend
+  - name: Dancing Fish
     details: "Stomp Rocket: Bethany Waikman, Glen Loper, Dave Langford\nCaller: Steve Zakon-Anderson \n\nFriday 7-10 pm\nSaturday 12-3 pm\nSunday 6-9 pm"
     links:
+      - "https://dancingfish.dance/event/stomp-rocket/"
       - "https://cdss.org/event/dancing-fish-contra-weekend/2025-01-31/"
-    start: "2025-01-31T19:00:00-05:00"
-    end: "2025-01-31T22:00:00-05:00"
-    country: USA
-    state: FL
-    city: Melrose
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Stomp Rocket
-    callers:
-      - Steve Zakon-Anderson
-    organisation: The Dancing Fish of Lake Santa Fe
-  - name: Dancing Fish Contra Weekend
-    details: "Stomp Rocket: Bethany Waikman, Glen Loper, Dave Langford\nCaller: Steve Zakon-Anderson \n\nFriday 7-10 pm\nSaturday 12-3 pm\nSunday 6-9 pm"
-    links:
       - "https://cdss.org/event/dancing-fish-contra-weekend-2/"
-    start: "2025-02-01T12:00:00-05:00"
-    end: "2025-02-01T15:00:00-05:00"
-    country: USA
-    state: FL
-    city: Melrose
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Stomp Rocket
-    callers:
-      - Steve Zakon-Anderson
-    organisation: The Dancing Fish of Lake Santa Fe
-  - name: Dancing Fish Contra Weekend
-    details: "Stomp Rocket: Bethany Waikman, Glen Loper, Dave Langford\nCaller: Steve Zakon-Anderson \n\nFriday 7-10 pm\nSaturday 12-3 pm\nSunday 6-9 pm"
-    links:
       - "https://cdss.org/event/dancing-fish-contra-weekend-3/"
-    start: "2025-02-02T18:00:00-05:00"
+    start: "2025-01-31T19:00:00-05:00"
     end: "2025-02-02T21:00:00-05:00"
     country: USA
     state: FL
@@ -4008,7 +3980,8 @@ events:
       - Stomp Rocket
     callers:
       - Steve Zakon-Anderson
-    organisation: The Dancing Fish of Lake Santa Fe
+    price: $30
+    organisation: Dancing Fish
   - name: Phoenix Winter Frolic
     details: Jacqui Grennan will call to the music of Playing with Fyre for contradancing on Friday evening plus Saturday afternoon and evening. The same great band and caller will offer English Country Dance on Sunday afternoon.
     links:
@@ -4344,9 +4317,10 @@ events:
     callers:
       - Bob Isaacs
     organisation: TADAMS (Traditional American Dance and Music Society)
-  - name: Call of the Loon—12th Annual Contra Dance Weekend
+  - name: Call of the Loon
     details: "Featuring Calling from Seth Tepfer and Steve Pike and Music from Dam Beavers and Contratopia! \n\n\n\n\n\n\n$135 Registration January 1 – February 28, 2025\n$145 Late registration after February 28, 2025 \nStudent/youth discounts and limited half-price work scholarships are available. Local dancers are happy to host out-of-town guests, but space is limited, so if you would like hospitality, please register early. Admission for individual sessions may be available if space allows. \n\n\nFriday, April 11\n6:45 pm Registration Opens\n7:30-11:30 pm Welcome Dance\n11:30 pm Campfire Gathering \nSaturday, April 12\n9:00 am Coffee and registration\n9:30–10:45 am Workshop\n11:00 am–12:30 pm Contra dance\n12:30–2:00 pm Lunch break & caller roundtable\n(order lunch on registration form)\n2:00–3:30 pm Workshop\n3:45–5:00 pm Contra dance\n5:00–7:30 pm Dinner break\n7:30–8:00 pm Concert\n8:00–11:30 pm Tie Dye Ball\n11:30 pm-1:00 am After Party TBA \nSunday, April 13\n9:30-11:00 am Brunch (included in registration)\n10:30-11:30 am Workshop\n11:00-11:45 am Singing around the campfire\n11:45 am-2:30 pm Farewell dance"
     links:
+      - "https://www.tapestryfolkdance.org/call-of-the-loon"
       - "https://cdss.org/event/call-of-the-loon-12th-annual-contra-dance-weekend/"
     start: "2025-04-11T18:30:00-05:00"
     end: "2025-04-13T14:30:00-05:00"
@@ -4355,12 +4329,14 @@ events:
     city: Minneapolis
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     bands:
+      - The Dam Beavers
       - Contratopia
     callers:
       - Seth Tepfer
+      - Steve Pike
     price: $135-$145
     organisation: Tapestry Folkdance Center
   - name: Queer Contra Dance Camp
