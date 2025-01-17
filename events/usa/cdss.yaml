@@ -3900,7 +3900,7 @@ events:
     details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
     links:
       - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2025-01-25/"
-    start: "2025-01-25T19:30:00-06:00"
+    start: "2025-01-25T18:30:00-06:00"
     end: "2025-01-25T23:00:00-06:00"
     country: USA
     state: AL
@@ -3932,7 +3932,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2025-01-25/"
-    start: "2025-01-25T20:00:00-06:00"
+    start: "2025-01-25T19:30:00-06:00"
     end: "2025-01-25T23:00:00-06:00"
     country: USA
     state: MN
@@ -3996,6 +3996,7 @@ events:
   - name: Rochester Sunday Afternoon English
     details: "Weekly English Country dances in Rochester, NY"
     links:
+      - "https://cdrochester.org/events/english-country-dance-12/"
       - "https://cdss.org/event/rochester-sunday-afternoon-english/2025-01-26/"
     start: "2025-01-26T14:30:00-05:00"
     end: "2025-01-26T17:00:00-05:00"
@@ -4006,6 +4007,11 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Sister Haggis
+    callers:
+      - Jennifer Staples
+    price: $5-$10
     organisation: Country Dancers of Rochester
   - name: English Country Dance Atlanta
     details: "2nd, 4th, and 5th Sunday afternoons \n$9, cash or check"
@@ -4037,10 +4043,12 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: Louisville English Country Dancers
   - name: English Country Dance
     details: "Twice-monthly English Country Dance session in Colorado Springs, CO. Each dance will be taught and then practiced. Great social atmosphere and fun!"
     links:
+      - "https://www.meetup.com/english-county-dance-colorado-springs/events/305324049/"
       - "https://cdss.org/event/english-country-dance/2025-01-26/"
     start: "2025-01-26T13:45:00-07:00"
     end: "2025-01-26T15:45:00-07:00"
@@ -4057,7 +4065,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance-2/2025-01-26/"
-    start: "2025-01-26T16:00:00-05:00"
+    start: "2025-01-26T15:30:00-05:00"
     end: "2025-01-26T18:15:00-05:00"
     country: USA
     state: NC
@@ -4066,6 +4074,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: free
     organisation: CDSS
   - name: Dancing Fish
     details: "Stomp Rocket: Bethany Waikman, Glen Loper, Dave Langford\nCaller: Steve Zakon-Anderson \n\nFriday 7-10 pm\nSaturday 12-3 pm and 6-9 pm"
@@ -4386,6 +4395,7 @@ events:
   - name: "Pitt's Maggot English Dance Weekend"
     details: "David Smukler with Hot Toddy \nDavid Smukler has been dancing since the 1960s, calling contras since the 1980s and calling English country dances since the 1990s. He is a gentle and engaging teacher who particularly enjoys a wide variety of dances including some of his own creations. David currently is President of the Country Dance and Song Society. He is also the co-author of Cracking Chestnuts. \nHot Toddy is Anna Rain (recorders), Edith Coakley (fiddle, viola) and Melissa Running (piano). They are passionate about making music for English country dancing. They love the canon of dance tunes stretching from the 14th century to 2025, and the improvisatory journeys on which they tend to find themselves. Based in Philadelphia, they’ve played up and down the coast from Virginia to the New England Folk Festival. \nFor hospitality, email arthur.mcnair@verizon.net. For Covid safety info, check CDSSP.org for updates. For registration information and financial aid requests, email ifinke@yahoo.com."
     links:
+      - "https://cdssp.org/?page_id=634"
       - "https://cdss.org/event/pitts-maggot-english-dance-weekend/"
     start_date: 2025-04-04
     end_date: 2025-04-06
@@ -4399,8 +4409,8 @@ events:
     bands:
       - Hot Toddy
     callers:
-      - Anna Rain
       - David Smukler
+    price: $119
     organisation: CDSSP
   - name: Epicenter Contra Dance Weekend
     details: "A fabulous weekend in Mill Valley, just north of the Golden Gate Bridge, featuring Supertrad and Engine Room, with gender neutral calling by Lisa Greenleaf and Michael Karcher. Registration now open! \nFor more information, email rhonda@cayford.org."
