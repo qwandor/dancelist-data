@@ -4173,21 +4173,25 @@ events:
     social: true
     price: $5-$10
     organisation: Knoxville Contra Dance
-  - name: "Tropical Dance Vacation English Country Dance Week, St. Croix, USVI"
+  - name: "Tropical Dance Vacation English Country Dance Week"
     details: "Tropical Dance Vacation, St. Croix USVI—English Country Dance Week January 28 – February 4, 2025 with Snapdragon, Joanna Reiner Wilkinson and Scott Higgs"
     links:
+      - "https://www.tropicaldancevacation.com/english-country-week.html"
       - "https://cdss.org/event/tropical-dance-vacation-english-country-dance-week-st-croix-usvi/"
     start_date: 2025-01-28
     end_date: 2025-02-04
-    country: Virgin Islands (U.S.)
+    country: US Virgin Islands
     city: St. Croix
     styles:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Snapdragon
     callers:
       - Joanna Reiner Wilkinson
       - Scott Higgs
+    price: $1200-$4850
     organisation: Tropical Dance Vacation
   - name: Monday Contra Dance
     details: "What better way to start the week? Only $5! It’s Monday, and we (almost) always dance on Monday."
@@ -4272,6 +4276,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Tuesday English Country Dance
     details: "We dance to live music from our wonderful local musicians. All dances taught and prompted. Wear comfortable clothes and bring flat, non-slippy shoes to change into. Pay what you can; $8 donation helps cover the hall, band, and callers. Masks are welcome at the dance."
@@ -4307,6 +4312,7 @@ events:
   - name: English Country Dance Classes in Pasadena
     details: "Whether you are brand new or LOVE this style of dancing, Tuesday nights in Pasadena is where you learn the skills to dance with elegance and ease! It’s a great mid-week pick-me-up with dance friends old and new. We dance on the 2nd, 4th, and 5th Tuesday of the month. \nPay $10 at the door, and pre-register on our website to receive all of the pertinent details! \nPlan on sticking around for after-hours socializing and getting the latest details on a favorite dance, the next ball, or that costume question you always wanted to ask."
     links:
+      - "https://historicalteaanddance.org/#Tuesdaydances"
       - "https://cdss.org/event/english-country-dance-classes-in-pasadena/2025-01-28/"
     start: "2025-01-28T19:15:00-08:00"
     end: "2025-01-28T21:30:00-08:00"
@@ -4315,8 +4321,8 @@ events:
     city: Pasadena
     styles:
       - ecd
-    workshop: false
-    social: true
+    workshop: true
+    social: false
     price: $10
     organisation: Historical Tea & Dance Society
   - name: English Country Dance
@@ -4324,7 +4330,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/english-country-dance-asheville-nc-3/2025-01-29/"
-    start: "2025-01-29T19:00:00-05:00"
+    start: "2025-01-29T18:40:00-05:00"
     end: "2025-01-29T21:00:00-05:00"
     country: USA
     state: NC
@@ -4371,7 +4377,7 @@ events:
     links:
       - "https://www.bfms.org/squarecontra.php"
       - "https://cdss.org/event/monday-night-english-country-dance-2/2025-01-29/"
-    start: "2025-01-29T20:00:00-05:00"
+    start: "2025-01-29T19:30:00-05:00"
     end: "2025-01-29T22:30:00-05:00"
     country: USA
     state: MD
@@ -4385,8 +4391,9 @@ events:
   - name: FSGW English Country Dance
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
+      - "https://fsgw.org/event-5980624"
       - "https://cdss.org/event/fsgw-english-country-dance/2025-01-29/"
-    start: "2025-01-29T20:00:00-05:00"
+    start: "2025-01-29T19:30:00-05:00"
     end: "2025-01-29T22:30:00-05:00"
     country: USA
     state: MD
@@ -4395,6 +4402,8 @@ events:
       - ecd
     workshop: true
     social: true
+    callers:
+      - April Blum
     price: $8-$17
     organisation: Folklore Society of Greater Washington
   - name: Princeton Country Dancers’ Contra Dance
@@ -4402,15 +4411,16 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2025-01-29/"
-    start: "2025-01-29T20:00:00-05:00"
+    start: "2025-01-29T19:30:00-05:00"
     end: "2025-01-29T22:30:00-05:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: Cleveland Thursday English Country Dance
     details: "Come join us every Thursday afternoon for English Country Dancing. \nCombination of live and recorded music, in an air-conditioned hall."
@@ -4426,6 +4436,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $3
     organisation: Cleveland English Dance Community
   - name: Lake City Contra Dance
     details: "Thursday nights; doors open at 7 pm \nDances: intro/refresher workshop 7:15 pm, dancing 7:30 till 10:00 pm \nAdmission on a sliding scale $10 – 20 – pay what you can \nThe hall is well-ventilated and air-conditioned! \nFor more information call 206-525-0932, or send us email."
@@ -4441,21 +4452,27 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-237/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2025-01-30/"
-    start: "2025-01-30T19:30:00-05:00"
+    start: "2025-01-30T19:00:00-05:00"
     end: "2025-01-30T22:30:00-05:00"
     country: USA
     state: NY
     city: Rochester
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Lake Effect
+    callers:
+      - Casey Carr
+    price: $5-$12
     organisation: Country Dancers of Rochester
   - name: Thursday Contra Dance
     details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing \n$5 to $20 sliding scale \nOur role terms are Larks and Robins \nMasks are required on the 1st, 3rd and 5th Thursdays."
@@ -4473,9 +4490,10 @@ events:
     social: true
     price: $5-$20
     organisation: PATMAD
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley Contra Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2025-01-30/"
     start: "2025-01-30T20:00:00-08:00"
     end: "2025-01-30T22:30:00-08:00"
@@ -4484,9 +4502,13 @@ events:
     city: Berkeley
     styles:
       - contra
-      - ecd
     workshop: true
     social: true
+    bands:
+      - The Cain Raisers
+    callers:
+      - Ric Goldman
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
@@ -4507,6 +4529,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Dancing Fish
     details: "Stomp Rocket: Bethany Waikman, Glen Loper, Dave Langford\nCaller: Steve Zakon-Anderson \n\nFriday 7-10 pm\nSaturday 12-3 pm and 6-9 pm"
@@ -4528,8 +4551,8 @@ events:
       - Stomp Rocket
     callers:
       - Steve Zakon-Anderson
-      price: $30
-      organisation: Dancing Fish
+    price: $30
+    organisation: Dancing Fish
   - name: ContraATL Weekly Dance
     details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
     links:
@@ -4544,13 +4567,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Contra at Guiding Star Grange
     details: "Caller and featured musicians vary each time; please check the Guiding Star Grange website for details. \nSchedule: 7:30 beginner lesson, 8:00-11:00 contras \nCost: $12-$20 sliding scale \nNote: Each dance series now has its own COVID protocol. We hope every dancer will feel comfortable at one or more dances."
     links:
       - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/fifth-friday-contra-at-guiding-star-grange/2025-01-31/"
-    start: "2025-01-31T20:00:00-05:00"
+    start: "2025-01-31T19:30:00-05:00"
     end: "2025-01-31T23:00:00-05:00"
     country: USA
     state: MA
@@ -4559,6 +4583,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Anna & the Alphabets
+    callers:
+      - Annie Kidwell
     price: $12-$20
     organisation: Jesse Ball
   - name: Friday Night Contra at Glen Echo
@@ -4566,7 +4594,7 @@ events:
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-01-31/"
-    start: "2025-01-31T20:00:00-05:00"
+    start: "2025-01-31T19:30:00-05:00"
     end: "2025-01-31T23:00:00-05:00"
     country: USA
     state: MD
@@ -4575,13 +4603,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Pittsburgh Contra Dance
     details: "Come dance to live music by Toad Holler with caller River Abel. Our free beginner lesson begins at 7:30pm. Complete beginners are welcome! As always, we will offer a couple waltzes during breaks. This dance, masks are optional, but we also hold a masks-required dance each month.\n$15 suggested donation, $0 for Steel City Squares attendees"
     links:
       - "https://pittsburghcontra.org/"
       - "https://cdss.org/event/pittsburgh-contra-dance-3/"
-    start: "2025-01-31T20:00:00-05:00"
+    start: "2025-01-31T19:30:00-05:00"
     end: "2025-01-31T23:00:00-05:00"
     country: USA
     state: PA
@@ -4594,7 +4623,7 @@ events:
       - Toad Holler
     callers:
       - River Abel
-    price: $0-$15
+    price: $15
     organisation: Pittsburgh Contra Dance
   - name: Friday Contra Dance
     details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$5 – $25, pay what you can."
@@ -4615,6 +4644,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6085"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2025-01-31/"
     start: "2025-01-31T19:30:00-08:00"
     end: "2025-01-31T22:30:00-08:00"
@@ -4625,6 +4655,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Cynthia Stenger
     price: $7-$20
     organisation: CDSS
   - name: York Region English Country Dancers
@@ -4641,6 +4673,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: donation
     organisation: York Region English Country Dancers
   - name: Scissortail English Country Dance
     details: "Scissortail English Country Dance in Oklahoma City, first and third Saturdays.  Check our Facebook or our website for more details!"
@@ -4656,6 +4689,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: Baton Rouge Contra Dance
     details: Baton Rouge Contra Dance at St. Albans Chapel
@@ -4669,8 +4703,9 @@ events:
     city: Baton Rouge
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $10
     organisation: Charlene Heaton & David Porter
   - name: Wooster Contra Dance
     details: "Longways set dancing plus fun squares and mixers. Instruction included. It’s aerobic and social; no partner necessary. Beautiful Celtic music with Pocketful o’ Gimmick, calling by Susan English. \n\nSuggested donation: $7 adults, $5 students.\nPlease carry clean shoes and personal water bottle.\nSponsored by Valley College Grange.  \nMore info and videos at Woosterdance.com and on Facebook at Wooster Dance.\nRecommended for ages 8 to 80+. Must be able to follow directions."
@@ -4686,6 +4721,8 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - "Pocketful o' Gimmick"
     callers:
       - Susan English
     price: $5-$7
