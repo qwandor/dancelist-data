@@ -2275,8 +2275,8 @@ events:
   - name: Chain Reaction
     links:
       - "https://www.tickettailor.com/events/chainreactiondance/1462651"
-    start_date: 2025-05-30
-    end_date: 2025-06-01
+    start: "2025-05-30T18:00:00-04:00"
+    end: "2025-06-01T15:00:00-04:00"
     country: USA
     state: ME
     city: Surrey
@@ -2290,6 +2290,7 @@ events:
     callers:
       - Alyssa Adkins
       - Will Mentor
+    price: $80-$120
     organisation: TryContra
   - name: Summer Soiree
     links:
