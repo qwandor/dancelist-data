@@ -8,14 +8,28 @@ events:
     end_date: 2022-03-26
     country: Portugal
     city: Évora
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
-    price: €4-€6
     bands:
       - Benoit Guerbigny
+    price: €4-€6
     organisation: Associação PédeXumbo
-
+  - name: Danças do Poitou
+    links:
+      - "https://www.facebook.com/events/4961059847293846/"
+      - "http://pedexumbo.com/formacao/"
+    start: "2022-03-26T11:00:00+00:00"
+    end: "2022-03-26T17:30:00+00:00"
+    country: Portugal
+    city: Évora
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €20
+    organisation: Associação PédeXumbo
   - name: Baile com Burel
     links:
       - "https://www.facebook.com/events/338355051337178/"
@@ -24,28 +38,14 @@ events:
     end_date: 2022-06-03
     country: Portugal
     city: Évora
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
-    price: €4-€6
     bands:
       - Burel
+    price: €4-€6
     organisation: Associação PédeXumbo
-
-  - name: Danças do Poitou
-    links:
-      - "https://www.facebook.com/events/4961059847293846/"
-      - "http://pedexumbo.com/formacao/"
-    start: 2022-03-26T11:00:00+00:00
-    end: 2022-03-26T17:30:00+00:00
-    country: Portugal
-    city: Évora
-    styles: [balfolk]
-    workshop: true
-    social: false
-    price: €20
-    organisation: Associação PédeXumbo
-
   - name: Entrudanças
     links:
       - "http://pedexumbo.com/entrudancas/"
@@ -53,8 +53,30 @@ events:
     end_date: 2024-02-11
     country: Portugal
     city: Entradas
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     price: €20-€50
+    organisation: Associação PédeXumbo
+  - name: Entrudanças
+    links:
+      - "https://pedexumbo.com/entrudancas/"
+      - "https://www.facebook.com/events/799413755706293/"
+    start: "2025-02-28T18:30:00+00:00"
+    end: "2025-03-02T23:45:00+00:00"
+    country: Portugal
+    city: Entradas
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - String Fling
+      - Airboxes Trio
+      - Pesdelan
+      - Karamaus
+      - Jam.PT
+      - Siga Bailando
+    price: €37.50-€50
     organisation: Associação PédeXumbo
