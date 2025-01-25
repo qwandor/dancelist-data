@@ -19558,6 +19558,25 @@ events:
     workshop: false
     social: true
     organisation: "Muziekclub 't Ey"
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.kunstkrak.com/folkbal"
+      - "https://www.geraardsbergen.be/kunstacademie"
+      - "https://folkbalbende.be/event/2603"
+    start: "2025-02-28T19:00:00+01:00"
+    end: "2025-02-28T23:00:00+01:00"
+    country: Belgium
+    city: Geraardsbergen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Folkorkest Kunstacademie Geraardsbergen
+      - The Off Brand Scandinavian Band
+    price: €5-€10
+    organisation: ~
   - name: Bal@Herk Februari 2025
     details: Ball
     links:
@@ -19593,25 +19612,6 @@ events:
       - Naragonia
       - Ciac Boum
     organisation: ~
-  - name: (Allemagne)
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.cabalfolk.be/"
-      - "https://folkbalbende.be/event/2611"
-    start_date: 2025-02-07
-    end_date: 2025-02-07
-    country: Belgium
-    city: Kortrijk
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Accords Perdus
-      - Aérokorda
-      - Akleja
-    organisation: CaBal
   - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
     links:
@@ -19780,4 +19780,40 @@ events:
     social: true
     bands:
       - Rémi Geffroy
+    organisation: ~
+  - name: (Allemagne)
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://www.cabalfolk.be/"
+      - "https://folkbalbende.be/event/2625"
+    start_date: 2025-02-07
+    end_date: 2025-02-07
+    country: Belgium
+    city: Kortrijk
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Accords Perdus
+      - Aérokorda
+      - Akleja
+    organisation: CaBal
+  - name: Bal@herk
+    details: Ball
+    links:
+      - "http://www.andreacapezzuoli.com"
+      - "https://folkbalbende.be/event/2626"
+    start_date: 2025-04-05
+    end_date: 2025-04-05
+    country: Belgium
+    city: Herk-de-Stad
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Andrea Capezzuoli
+      - Ultra Tagada
     organisation: ~
