@@ -1712,6 +1712,22 @@ events:
     social: true
     price: $5-$15
     organisation: Colorado Friends of Old Time Music and Dance
+  - name: Scottish Country Dance
+    details: Social dance of Scotland. Does not require a partner
+    links:
+      - "https://scdcolorado.org/Weekly_Classes.html"
+      - "https://boulderdance.org/event/boulder-scottish-country-dance/2025-02-02/"
+    start: "2025-02-02T16:30:00-07:00"
+    end: "2025-02-02T18:30:00-07:00"
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - scd
+    workshop: true
+    social: false
+    price: $5
+    organisation: Scottish Country Dancers of Colorado
   - name: CFOOTMAD Community Contra Dance
     details: "CFOOTMAD Community Contra Dance, first and third Fridays each month.\n7:00 p.m. lesson, 7:30-10:30 p.m. dance. $15/general $12/members $19 students. CFOOTMAD events at The Avalon are mask optional and no longer\nrequire proof of vaccine or boosters. Vaccines are recommended, but not required."
     links:
@@ -1741,8 +1757,8 @@ events:
     workshop: false
     social: true
     organisation: Boulder Scandinavian Dancers
-  - name: Scandinavian Spring Weekend
-    details: "Our annual Spring Dance and Music Weekend with dancers and musicians from Sweden or Norway.  This year will be Norwegian, focusing on the dance Springleik and its music."
+  - name: Scandinavian Spring Weekend (Fri-Sun)
+    details: "Our annual Spring Dance and Music Weekend with dancers and musicians from Sweden or Norway.  This year will be Norwegian, focusing on the dance Springleik and its music.  The Weekend is Friday-Sunday, but at least some of our guests will also be at our regular Monday night dance which starts at 7:30 ($7). \nThere is also open dancing on Saturday night from 8-11 ($10 if not enrolled in the Weekend)."
     links:
       - "https://boulderdance.org/event/scandinavian-spring-weekend/2025-03-28/"
     start: "2025-03-28T19:30:00-06:00"
@@ -1754,6 +1770,7 @@ events:
       - scandi
     workshop: false
     social: false
+    price: $7-$10
     organisation: Boulder Scandinavian Dancers
   - name: Hands Across Contra
     details: "Lesson at 7; Dance at 7:30.  Sliding admission $5 to $15."
