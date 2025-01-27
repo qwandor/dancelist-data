@@ -2027,23 +2027,6 @@ events:
       - Cis Hinkle
     price: $120-$240
     organisation: TryContra
-  - name: Tropical Dance Vacation
-    links:
-      - "https://www.tropicaldancevacation.com/contra-week.html"
-    start_date: 2025-02-05
-    end_date: 2025-02-12
-    country: US Virgin Islands
-    city: St Croix
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Wild Asparagus
-    callers:
-      - George Marshall
-      - Lisa Greenleaf
-    organisation: TryContra
   - name: Dance Flurry Festival
     links:
       - "http://www.flurryfestival.org/"
@@ -2053,7 +2036,11 @@ events:
     state: NY
     city: Saratoga Springs
     styles:
+      - balfolk
       - contra
+      - ecd
+      - scandi
+      - scd
     workshop: true
     social: true
     bands:
@@ -2062,6 +2049,7 @@ events:
       - Good Company
       - Stomp Rocket
       - Barefoor
+      - Malvenn
     callers:
       - Alex Deis-Lauby
       - Maia McCormick
@@ -2280,9 +2268,9 @@ events:
     organisation: TryContra
   - name: Dancing Fish
     links:
-      - "https://dancingfish.dance/"
-    start_date: 2025-05-02
-    end_date: 2025-05-03
+      - "https://dancingfish.dance/event/lift-ticket/"
+    start: "2025-05-02T19:00:00-04:00"
+    end: "2025-05-03T21:00:00-04:00"
     country: USA
     state: FL
     city: Melrose
@@ -2294,8 +2282,9 @@ events:
       - Lift Ticket
     callers:
       - Angela DeCarlis
+    price: $15-$30
     organisation: Dancing Fish
-  - name: Meet Me in St Louis Dance Weekend
+  - name: Meet Me in St Louis
     links:
       - "https://childgrove.org/stl-dance-weekends/meetmeinstlouis"
     start_date: 2025-05-23
@@ -2312,6 +2301,7 @@ events:
       - Mound City Slickers
     callers:
       - Emily Rush
+    price: $55-$110
     organisation: TryContra
   - name: Spring Dance Romance
     links:
@@ -2323,6 +2313,7 @@ events:
     city: Carrboro
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
@@ -2331,6 +2322,8 @@ events:
     callers:
       - Adina Gordan
       - Jacqui Grennan
+      - Melissa Running
+    price: $120
     organisation: TryContra
   - name: Butterfly Whirl
     links:
@@ -2476,6 +2469,7 @@ events:
     callers:
       - Will Mentor
       - Gaye Fifer
+    price: $95-$160
     organisation: TryContra
   - name: Feet Retreat
     links:

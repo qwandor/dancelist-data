@@ -4253,10 +4253,10 @@ events:
     start_date: 2025-01-28
     end_date: 2025-02-04
     country: US Virgin Islands
-    city: St. Croix
+    city: St Croix
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Snapdragon
@@ -5297,6 +5297,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10-$15
     organisation: CDSS
   - name: Ashland Country Dancers
     details: "The Ashland Branch of the Heather and the Rose Country Dancers hosts a weekly English dance (with some Scottish). Since formation in 1980, all dances are taught with positional/global language. We use recorded music most evenings."
@@ -5333,13 +5334,14 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Indy Contra Dance
     details: "We dance on the first Tuesday of the month, 7-9 pm ET. \nThere’s no smoking or drinking, and anyone’s welcome to dance together, regardless of age, experience, gender, preference for dogs or cats, etc. \nWe provide a brief new dancer intro / refresher / warm-up starting at 6:40, with dancing for everybody 7:00 – 9:00 pm Eastern Time. Venue is Englewood Christian Church, 57 N. Rural St., Indianapolis, Indiana. \nSliding scale, generally $5-$20. However, if you do not have enough money, ask for assistance."
     links:
       - "https://www.indycontra.org/"
       - "https://cdss.org/event/indy-contra-dance/2025-02-04/"
-    start: "2025-02-04T19:00:00-05:00"
+    start: "2025-02-04T18:40:00-05:00"
     end: "2025-02-04T21:00:00-05:00"
     country: USA
     state: IN
@@ -5366,14 +5368,15 @@ events:
     social: true
     price: $8
     organisation: AACTMAD
-  - name: "Tropical Dance Vacation Contra Week, St. Croix, USVI"
+  - name: Tropical Dance Vacation Contra Week
     details: "Tropical Dance Vacation, St. Croix, USVI—Contra Dance Week February 5-12, 2025 with Wild Asparagus, Lisa Greenleaf and George Marshall"
     links:
+      - "https://www.tropicaldancevacation.com/contra-week.html"
       - "https://cdss.org/event/tropical-dance-vacation-contra-week-st-croix-usvi/"
     start_date: 2025-02-05
     end_date: 2025-02-12
-    country: Virgin Islands (U.S.)
-    city: St. Croix
+    country: US Virgin Islands
+    city: St Croix
     styles:
       - contra
     workshop: false
@@ -5383,6 +5386,7 @@ events:
     callers:
       - George Marshall
       - Lisa Greenleaf
+    price: $1200-$4850
     organisation: Tropical Dance Vacation
   - name: Williamsburg Tuesday Night English Dance
     details: "Come join us for English Country Dancing on Tuesdays from 8-10 pm in Williamsburg, VA. All are welcome! No partner, previous dance experience, or registration is required. We start with easier dances and work up to more complicated material, so if it’s your first time attending, we recommend arriving by 8 pm. Come dance with us!"
@@ -5413,14 +5417,16 @@ events:
       - ecd
     workshop: false
     social: true
-    price: $15-$20
+    callers:
+      - Lise Dyckman
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: English Country Dance
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/english-country-dance-asheville-nc-3/2025-02-05/"
-    start: "2025-02-05T19:00:00-05:00"
+    start: "2025-02-05T18:40:00-05:00"
     end: "2025-02-05T21:00:00-05:00"
     country: USA
     state: NC
@@ -5467,7 +5473,7 @@ events:
     links:
       - "https://www.bfms.org/squarecontra.php"
       - "https://cdss.org/event/monday-night-english-country-dance-2/2025-02-05/"
-    start: "2025-02-05T20:00:00-05:00"
+    start: "2025-02-05T19:30:00-05:00"
     end: "2025-02-05T22:30:00-05:00"
     country: USA
     state: MD
@@ -5481,6 +5487,7 @@ events:
   - name: FSGW English Country Dance
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
+      - "https://fsgw.org/event-6019929"
       - "https://cdss.org/event/fsgw-english-country-dance/2025-02-05/"
     start: "2025-02-05T20:00:00-05:00"
     end: "2025-02-05T22:30:00-05:00"
@@ -5498,15 +5505,16 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2025-02-05/"
-    start: "2025-02-05T20:00:00-05:00"
+    start: "2025-02-05T19:30:00-05:00"
     end: "2025-02-05T22:30:00-05:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: Cleveland Thursday English Country Dance
     details: "Come join us every Thursday afternoon for English Country Dancing. \nCombination of live and recorded music, in an air-conditioned hall."
@@ -5522,6 +5530,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $3
     organisation: Cleveland English Dance Community
   - name: Indy English Country Dance
     details: "Calling by Alice Smith-Goeke at the Joy of All Who Sorrow Orthodox Church, 1516 N Delaware St (enter via 16th Street parking lot entrance). Suggested donation $5 per adult. \nRecorded music may be used. \nAdditional events the first Thursday of each month in 2025 at the Joy of All Who Sorrow Orthodox Church."
@@ -5614,21 +5623,25 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-239/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2025-02-06/"
-    start: "2025-02-06T19:30:00-05:00"
+    start: "2025-02-06T19:10:00-05:00"
     end: "2025-02-06T22:30:00-05:00"
     country: USA
     state: NY
     city: Rochester
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    callers:
+      - Colleen Liggett
+    price: $5-$12
     organisation: Country Dancers of Rochester
   - name: Thursday Contra Dance
     details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing \n$5 to $20 sliding scale \nOur role terms are Larks and Robins \nMasks are required on the 1st, 3rd and 5th Thursdays."
@@ -5646,9 +5659,10 @@ events:
     social: true
     price: $5-$20
     organisation: PATMAD
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley Contra Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2025-02-06/"
     start: "2025-02-06T20:00:00-08:00"
     end: "2025-02-06T22:30:00-08:00"
@@ -5657,9 +5671,13 @@ events:
     city: Berkeley
     styles:
       - contra
-      - ecd
     workshop: true
     social: true
+    bands:
+      - Green Gates
+    callers:
+      - Charlie Fenton
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: Flying Shoes Community Dance & Contra Dance
     details: "Everyone is welcome at this two-part monthly dance series. From neophytes to lifelong participants, and so many other demographic variations, we all collaborate to make this community-building participatory arts program a joyful success. See you at the dance! \nSchedule:\n\n6:00 pm ~ Musicians Warmup ~ Tunes on the All Comers Band page\n6:30-7:30 pm ~ Community Dance ~ Lisa Newcomb & Chrissy Fowler calling with the All Comers Band, led by Benjamin Foss & Willy Clemetson ~ Community Dance admission is $1 kids, $2 adults\n8:00-11:00 pm ~ Contra Dance ~ We use the terms lark and robin to identify the dance roles. (More on roles here.) ~ Contra Dance Admission is $20 – $15 (a sliding scale lets us cover expenses and compensate performers; please pay as much as you can!)\n\nLocation: First Church in Belfast UCC, 8 Court St, Belfast (enter via Spring St) \nPolicies:  See Community Care Policy and First Friday FAQ ~ BFS programs are chem free (please be sober) ~ Stay home if you don’t feel well \nSponsors: Artisan Builders, Belfast Community Co-op, Colburn Shoe Store, Daisychain Farm, First National Bank, Grace Chiropractic, The Green Store, Searsport Shores Oceanfront Camping, Thomas Fowler PE, Trillium Caterers, and Worth Real Estate"
@@ -5676,11 +5694,13 @@ events:
     workshop: false
     social: true
     bands:
-      - Trillium
+      - All Comers Band
+      - River Road
     callers:
+      - Alex Deis-Lauby
       - Chrissy Fowler
       - Lisa Newcomb
-    price: $1-$20
+    price: $15-$27
     organisation: Belfast Flying Shoes
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
@@ -5701,6 +5721,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Orlando Contra Dance
     details: "Welcome to the Orlando Contra Dance! We feature high-tempo, gender-neutral dancing. We are Florida’s only gender-neutral contra series. Dancing is open to everyone and free for students and returning beginners (2nd dance is free)! \nWe usually dance on the first and third Friday of the month. Holidays, semester breaks, and regional events happen, so check the schedule before going!"
@@ -5716,6 +5737,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Orlando Contra Dance
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Norman, first Fridays during the school year. Check our Facebook or our website for more details!"
