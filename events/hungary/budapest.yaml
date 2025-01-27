@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Occitan Balfok
+    details: "Soirée dansante occitane organisée par Les Alouettes et Háló. Deux excellents musiciens provençaux, Baltazar Montanaro et Laurent Geoffroy seront nos invités. Ils assureront l'animation avec le groupe Les Alouettes. Maître de danse: Mária Bojtor"
+    links:
+      - "https://www.facebook.com/events/947248357357901?acontext=%7B%22event_action_history%22%3A[]%7D"
+    start: "2025-02-08T18:00:00+00:00"
+    end: "2025-02-08T21:00:00+00:00"
+    country: Hungary
+    city: Budapest
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Baltazar Montanaro
+      - Laurent Geoffroy
+    callers:
+      - Maria Bojtor
+    price: donation
+    organisation: Les Alouettes
