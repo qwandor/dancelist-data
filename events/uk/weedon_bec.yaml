@@ -1,0 +1,51 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Spring Barn Dance
+    links:
+      - "https://www.tickettailor.com/events/northantsceilidhs/1128953"
+    start: "2024-03-15T20:00:00+00:00"
+    end: "2024-03-15T23:00:00+00:00"
+    country: UK
+    city: Weedon Bec
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Doug Eunson and Sarah Matthews
+    price: £12
+    organisation: Northampton Ceilidhs
+  - name: Spring Barn Dance
+    links:
+      - "https://www.facebook.com/events/824563536538466/"
+      - "https://www.tickettailor.com/events/weedonbarndance/1392954/r/fbe"
+    start: "2025-03-14T20:00:00+00:00"
+    end: "2025-03-14T23:00:00+00:00"
+    country: UK
+    city: Weedon Bec
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - 3Sticks
+    callers:
+      - Lisa Heywood
+    price: £12
+    organisation: Northampton Ceilidhs
+  - name: Summer Barn Dance
+    links:
+      - "https://www.facebook.com/events/1160047731753958/"
+      - "https://www.tickettailor.com/events/weedonbarndance/1392955/r/fbe"
+    start: "2025-06-27T20:00:00+01:00"
+    end: "2025-06-27T23:00:00+01:00"
+    country: UK
+    city: Weedon Bec
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    callers:
+      - Lisa Heywood
+    price: £12
+    organisation: Northampton Ceilidhs
