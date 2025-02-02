@@ -3826,6 +3826,7 @@ events:
   - name: Toronto Contra Dance
     details: "Join us for an evening of contra dancing to live music on the Danforth. No partner needed; beginners are always welcome. The evening caller will be Penelope Weinberger with music provided by Tom Santarsiaro & friend. \n\nBeginner class at 7:00 p.m.; dance begins at 7:30.\nPay what you can (suggested donation $22 to cover the cost of putting on the dance).\nEveryone welcome!\nThis will be a mask-optional dance."
     links:
+      - "https://tcdance.org/"
       - "https://www.facebook.com/events/1786821052155247/"
       - "https://cdss.org/event/toronto-contra-dance-3/"
     start: "2025-01-25T19:00:00-05:00"
@@ -5890,9 +5891,11 @@ events:
     social: true
     price: $7-$10
     organisation: Dover Dancers
-  - name: Toronto Contra Dance February 8
+  - name: Toronto Contra Dance
     details: "Join us for an unforgettable evening of contra dancing on the Danforth! \nWith Kris Rosar calling the moves and our brand-new House Band featuring the amazing Jon Cannon & Lea Kirstein, this is a night you don’t want to miss. \nNo partner? No problem! \nBeginners are always welcome, and we’ll teach you everything you need to know. \nSchedule:\n7:00 PM – Beginner class (come learn the steps!)\n7:30 PM – Dance into the night! \nPay what you can (suggested $22—your support keeps these magical nights going). \nEveryone welcome!\nThis is a mask-mandatory event. \nGrab your friends, your energy, and your dancing shoes—we’ll see you on the floor!"
     links:
+      - "https://tcdance.org/"
+      - "https://www.facebook.com/events/1349778249724357/"
       - "https://cdss.org/event/toronto-contra-dance-february-8/"
     start: "2025-02-08T19:00:00-05:00"
     end: "2025-02-08T22:30:00-05:00"
@@ -5903,6 +5906,8 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Kris Rosar
     price: $22
     organisation: Toronto Contra Dance
   - name: CDK Contra & Square Dance
@@ -6009,7 +6014,7 @@ events:
     links:
       - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/second-saturday-tophill-music-contradance-party-at-guiding-star-grange/2025-02-08/"
-    start: "2025-02-08T20:00:00-05:00"
+    start: "2025-02-08T19:45:00-05:00"
     end: "2025-02-08T23:00:00-05:00"
     country: USA
     state: MA
@@ -6018,7 +6023,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    price: $12-$20
     organisation: Alice Kenney
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Oklahoma City, second and fourth Saturdays. Check our Facebook or our website for more details!"
@@ -6040,7 +6045,7 @@ events:
     details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
     links:
       - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2025-02-08/"
-    start: "2025-02-08T19:30:00-06:00"
+    start: "2025-02-08T18:30:00-06:00"
     end: "2025-02-08T23:00:00-06:00"
     country: USA
     state: AL
@@ -6108,7 +6113,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2025-02-08/"
-    start: "2025-02-08T20:00:00-06:00"
+    start: "2025-02-08T19:30:00-06:00"
     end: "2025-02-08T23:00:00-06:00"
     country: USA
     state: MN
@@ -6117,8 +6122,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Too Old Cat
     callers:
-      - Beau Farmer
+      - Mattie Rynkiewicz
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: San Luis Obispo Monthly Contra Dance
@@ -6172,9 +6179,10 @@ events:
   - name: Rochester Sunday Afternoon English
     details: "Weekly English Country dances in Rochester, NY"
     links:
+      - "https://cdrochester.org/events/english-country-dance-14/"
       - "https://cdss.org/event/rochester-sunday-afternoon-english/2025-02-09/"
     start: "2025-02-09T14:30:00-05:00"
-    end: "2025-02-09T17:00:00-05:00"
+    end: "2025-02-09T17:30:00-05:00"
     country: USA
     state: NY
     city: Rochester
@@ -6182,12 +6190,18 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Sister Haggis
+    callers:
+      - Carmen Giunta
+    price: $5-$10
     organisation: Country Dancers of Rochester
   - name: Richmond 2nd Sunday Afternoon Contra Dance
     details: "Join us in Richmond, VA for a Sunday afternoon contra dance, hosted by TADAMS, at the beautiful historic Ginter Hall. Beginner lesson at 1:45pm, dance from 2:30-5:30pm. Please see our full website calendar for band and caller details. Admission is $15 non-members, $10 members & students, children under 13 are free."
     links:
+      - "https://tadamsva.org/dance/sunday-contra-dance-lgra-2-9-2025/"
       - "https://cdss.org/event/richmond-va-2nd-sunday-afternoon-contra-dance/2025-02-09/"
-    start: "2025-02-09T14:30:00-05:00"
+    start: "2025-02-09T13:45:00-05:00"
     end: "2025-02-09T17:30:00-05:00"
     country: USA
     state: VA
@@ -6196,6 +6210,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Dusty Hedgehog
+    callers:
+      - Gwyn Williams
     price: $10-$15
     organisation: TADAMS (Traditional American Dance and Music Society)
   - name: English Country Dance Atlanta
@@ -6228,6 +6246,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$15
     organisation: CDSS
   - name: Louisville English Country Dance
     details: Louisville English Country Dance meets on the 2nd and last Sundays of most months. Please check our website for details.
@@ -6243,10 +6262,12 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: Louisville English Country Dancers
   - name: English Country Dance
     details: "Twice-monthly English Country Dance session in Colorado Springs, CO. Each dance will be taught and then practiced. Great social atmosphere and fun!"
     links:
+      - "https://www.meetup.com/english-county-dance-colorado-springs/events/305726584/"
       - "https://cdss.org/event/english-country-dance/2025-02-09/"
     start: "2025-02-09T13:45:00-07:00"
     end: "2025-02-09T15:45:00-07:00"
@@ -6263,7 +6284,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance-2/2025-02-09/"
-    start: "2025-02-09T16:00:00-05:00"
+    start: "2025-02-09T15:30:00-05:00"
     end: "2025-02-09T18:15:00-05:00"
     country: USA
     state: NC
@@ -6272,6 +6293,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: free
     organisation: CDSS
   - name: Nashville English Country Dance
     details: "Live music and lovely folk gather at the Friends Meeting House in Nashville from 4pm to 6pm on the second Sunday of each month from September to May.   \nSliding scale admission."
@@ -6288,9 +6310,10 @@ events:
     workshop: false
     social: true
     organisation: Nashville Country Dancers
-  - name: Contra Dance for a Cause!
+  - name: Contra for a Cause
     details: "Hosted by Arlington Knights of Columbus #109 \n\nChoose a great cause: Coats for Kids, The Campaign for People with Intellectual Disabilities or EVkids (After covering the cost of holding the dance)\nIt is a public and community shindig! The Knights of Columbus #109 invite you to a New England Contra Dance to celebrate the traditions of community dancing. No need to bring a partner OR even know how!\nWhy? In order to have a good time, get exercise, meet friends and support local charities!\nLive Music by Treble Play, who are Paul Lizotte, fiddle; Debby Knight, piano; and David Titus!\nCaller: Don Heinold. Hailing from Rhode Island, Don has been calling at dances, weddings & parties all over New England for over 14 years. Don is also known for teaching the Rotary (country) Waltz.\nAdmission: $15 suggested donation per person, or $10 for students per person!\nParking: plenty of well lighted parking behind the Arlington K of C building. Enter by walking around the side of the building via Prescott St. to 15 Winslow St.\nClothing & Footwear: Just bring, clean shoes to dance in to preserve the floor (no high heels please). Dress is comfortable and as you like.\nRole Terms are: “Ladies & Gents” or “Women & Men” but dancers are welcome to choose whatever role that works for them. with no worries."
     links:
+      - "https://www.kofc109.com/contra"
       - "https://cdss.org/event/contra-dance-for-a-cause/"
     start: "2025-02-09T18:00:00-05:00"
     end: "2025-02-09T21:00:00-05:00"
@@ -6301,6 +6324,8 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Treble Play
     callers:
       - Don Heinold
     price: $10-$15
@@ -6319,6 +6344,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15-$20
     organisation: CDSS
   - name: Common Floor Contra Dance
     details: "Contra dancing in Portland, ME every second Sunday. For details, visit our website. \n$15 suggested donation."
@@ -6341,6 +6367,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center/2025-02-09/"
+      - "https://cdss.org/event/english-country-dance-4/2025-02-09/"
     start: "2025-02-09T18:30:00-06:00"
     end: "2025-02-09T21:00:00-06:00"
     country: USA
@@ -6348,47 +6375,33 @@ events:
     city: Minneapolis
     styles:
       - ecd
-    workshop: true
+    workshop: false
     social: true
     bands:
       - Anytime English Players
     price: $4-$15
-    organisation: Tapestry Folkdance Center
-  - name: English Country Dance
-    details: "Every Sunday! \n​Cost:\n​Recorded Music:  $12 General | $10 Members | $7 Young Adult & Youth (Ages 10 -21) \n\n\n\n\n\n\n\n\nEnglish country dancing is an accessible social dance form with a history going back several centuries. This is the dancing of Queen Elizabeth I, of Jane Austen, and a living tradition that inspires musical compositions and choreographies today. The music can be stately or spritely, traditional or modern, recorded or live. It is danced with simple walking or skipping steps in time to the music. All dances are taught and are usually done in “long-ways sets” with partners facing in lines down the hall. After a walk-through, the easy-to-learn figures are called throughout the dance as you interact with other couples in your set and then move on to the next and repeat.\n​\nYou can come by yourself and be assured of dancing throughout the evening, since our tradition is to welcome and teach beginners and change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience.  English country dance will satisfy your wish for pleasurable exercise, a warm social community, mental stimulation, or even transcendent aesthetic experiences. We invite you to join us!"
-    links:
-      - "https://cdss.org/event/english-country-dance-4/2025-02-09/"
-    start: "2025-02-09T19:00:00-06:00"
-    end: "2025-02-09T21:00:00-06:00"
-    country: USA
-    state: MN
-    city: Minneapolis
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    price: $7-$12
     organisation: Tapestry Folkdance Center
   - name: Contra Dance in St Louis
     details: Weekly contra dance in St Louis area (actually Webster Groves MO). Always great live music. First dance each month features open calling.
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2025-02-09/"
-    start: "2025-02-09T19:00:00-06:00"
+    start: "2025-02-09T18:30:00-06:00"
     end: "2025-02-09T21:30:00-06:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
     links:
       - "https://cdss.org/event/gainesville-florida-english-country-dance/2025-02-10/"
-    start: "2025-02-10T18:30:00-05:00"
+    start: "2025-02-10T18:10:00-05:00"
     end: "2025-02-10T20:30:00-05:00"
     country: USA
     state: FL
@@ -6399,7 +6412,7 @@ events:
     social: true
     bands:
       - Hoggetowne Fancy
-    price: $5
+    price: $10
     organisation: Gainesville English Country Dance
   - name: Asheville Monday Night Contra Dance
     details: "New Location, Times, & Admission \nThe Ivy Building at Asheville-Buncombe Technical Community College\n9 Genevieve Circle, Asheville, NC 28801\n(On GPS, type the address, not the building name! The building looks like an old church and is across from the Ferguson Medical Building at 10 Genevieve Circle.) \n\nLesson: 7:00pm – 7:30pm\nDance: 7:30pm – 10:00pm\n$0 – $50 Sliding Scale; $12 Suggested\nCheck our Facebook page for caller and musician info\n\nThe Asheville Monday Night Contra Dance, every Monday. Dancing to a live band and caller! Contra dancing is fun and energetic. The welcoming atmosphere makes it a perfect evening for beginners as well as seasoned contra dancers. \nBeginners are welcome, lesson 7:00pm–7:30pm. Contra dancing from 7:30pm–10:00pm. A waltz ends the night! \nSafe dance for all! Families welcome. All ages, races & ethnicities, LGBTQIA+ welcome. No discrimination or bullying of any kind will be tolerated. Volunteers earn a free dance. \nBring a water bottle. Bring comfortable, smooth soled shoes to dance in. No partner required. No experience needed for the beginners’ lesson."
@@ -6422,7 +6435,7 @@ events:
     links:
       - "https://shenandoahvalleycontradance.weebly.com/monday-night-contra.html"
       - "https://cdss.org/event/verona-va-monday-night-contra-dance/2025-02-10/"
-    start: "2025-02-10T19:00:00-05:00"
+    start: "2025-02-10T18:45:00-05:00"
     end: "2025-02-10T21:00:00-05:00"
     country: USA
     state: VA
@@ -6438,7 +6451,7 @@ events:
     links:
       - "https://www.chicagobarndance.org/calendar/"
       - "https://cdss.org/event/chicago-contra-dance/2025-02-10/"
-    start: "2025-02-10T19:00:00-06:00"
+    start: "2025-02-10T18:30:00-06:00"
     end: "2025-02-10T21:40:00-06:00"
     country: USA
     state: IL
@@ -6463,6 +6476,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: STEAM on the Kaw 2-Day Event
     details: "Join us for a weekend of fun on February 14th (evening dance) and 15th (all-day workshops and evening dance with after party) in Lawrence, KS. We will offer some of everything: Contra Dancing, Waltz Workshop, Musicians’ Summit Workshop, Callers’ Open Mic and an After Party."
