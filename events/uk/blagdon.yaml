@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Spring Bal
+    links:
+      - "https://www.facebook.com/events/1160970605756547/"
+      - "https://wegottickets.com/event/642452"
+      - "https://www.topette.co.uk/gigs.html"
+    start: "2025-03-22T19:00:00+00:00"
+    end: "2025-03-22T22:00:00+00:00"
+    country: UK
+    city: Blagdon
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Topette
+    price: £7.70-£16.50
+    organisation: Blagdon Village Club
