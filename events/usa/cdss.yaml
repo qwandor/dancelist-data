@@ -6897,7 +6897,7 @@ events:
     links:
       - "http://www.tallydancer.com/"
       - "https://cdss.org/event/tallahassee-contra-dance-2/2025-02-14/"
-    start: "2025-02-14T19:30:00-05:00"
+    start: "2025-02-14T19:15:00-05:00"
     end: "2025-02-14T22:00:00-05:00"
     country: USA
     state: FL
@@ -6922,6 +6922,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Missoula Folklore Society English Country Dance
     details: "Monthly ECD held October–May. All dances taught. Live and some recorded music. \n$5-$10 donations appreciated."
@@ -6944,7 +6945,7 @@ events:
     links:
       - "https://www.cfootmad.org/"
       - "https://cdss.org/event/denver-contra-dance/2025-02-14/"
-    start: "2025-02-14T19:30:00-07:00"
+    start: "2025-02-14T19:00:00-07:00"
     end: "2025-02-14T22:30:00-07:00"
     country: USA
     state: CO
@@ -6953,10 +6954,12 @@ events:
       - contra
     workshop: true
     social: true
+    price: $8-$15
     organisation: Colorado Friends of Old Time Music and Dance
   - name: Eugene Winter Dance Event
     details: An exciting new event! Friday evening and Saturday workshops and evening dance. English country dances with a few Scottish party dances Friday night. A different venue for Friday and Saturday.
     links:
+      - "http://www.heatherandrose.org/activities/2025eug-winter-ball.pdf"
       - "https://cdss.org/event/eugene-winter-dance-event/"
     start: "2025-02-14T19:00:00-08:00"
     end: "2025-02-15T22:00:00-08:00"
@@ -6967,13 +6970,18 @@ events:
       - ecd
     workshop: true
     social: true
+    callers:
+      - David Macemon
+      - Kalindi Devi-Dasi
+      - Orly Krasner
+    price: $65-$85
     organisation: Eugene Country Dancers%2C branch of Heather &amp%3B Rose
   - name: Monrovia English Country Dance
     details: "Please join us for English Country Dancing on the 2nd and 4th Friday of every month from 7:30-10pm in the Guildhall of St Luke’s Episcopal Church. $5 admission (cash only). Beginners welcome! All dances are taught, walked through and called. No partner or costume required; just bring comfortable closed-toed shoes and a water bottle. We’re friendly, laid-back, and welcoming!"
     links:
       - "https://monroviaecd.org/"
       - "https://cdss.org/event/monrovia-english-country-dance/2025-02-14/"
-    start: "2025-02-14T19:30:00-08:00"
+    start: "2025-02-14T19:15:00-08:00"
     end: "2025-02-14T22:00:00-08:00"
     country: USA
     state: CA
@@ -6987,6 +6995,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6087"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2025-02-14/"
     start: "2025-02-14T19:30:00-08:00"
     end: "2025-02-14T22:30:00-08:00"
@@ -6997,6 +7006,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Cynthia Stenger
     price: $7-$20
     organisation: CDSS
   - name: Bayou Bedlam
@@ -7004,8 +7015,8 @@ events:
     links:
       - "http://www.bayoubedlam.org/"
       - "https://cdss.org/event/bayou-bedlam-2025/"
-    start_date: 2025-02-21
-    end_date: 2025-02-23
+    start: "2025-02-21T19:00:00-06:00"
+    end: "2025-02-23T14:00:00-06:00"
     country: USA
     state: TX
     city: Houston
@@ -7018,6 +7029,7 @@ events:
       - Tea&Whiskey
     callers:
       - Lisa Greenleaf
+    price: $50-$145
     organisation: Houston Area Traditional Dance Society
   - name: Fiddling Frog
     details: "Get ready for an epic lineup: \n\nThe Syncopaths\nRiver Road\nSusan Petrick & Lindsey Dono\n\nSound engineered by Victor Garza! \nReady to join the fun? Click here. \nQuestions? Want a PDF registration form? Email us at 2fiddlingfrog@gmail.com"
@@ -7196,30 +7208,12 @@ events:
     callers:
       - Brad Foster
     organisation: AACTMAD
-  - name: "#Dance Weekend"
-    details: "#Dance Weekend is an ultra challenging urban dance weekend featuring mind bending figures, non-gendered calling, and phenomenal music. Two days of amazing workshops, dancing, community, fun, and food in the fabulous open air, covered Bumper Car Pavilion; workshops throughout Glen Echo Park, Glen Echo, MD\n \nCallers: Lisa Greenleaf and River Rainbowface \nBands: Free Raisins (Audrey Jaber, Amy Engelsberg, Jeff Kaufman), and Bowrider (Kelsey Wells, Alex Sturbaum, Brian Lindsay)"
-    links:
-      - "https://cdss.org/event/dance-weekend-2/"
-    start_date: 2025-03-29
-    end_date: 2025-03-30
-    country: USA
-    state: MD
-    city: Glen Echo
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Bowrider
-    callers:
-      - Lisa Greenleaf
-      - River Rainbowface
-    organisation: Folklore Society of Greater Washington
   - name: Hash Dance Weekend
     details: "#Dance Weekend is an ultra-challenging urban dance weekend featuring mind-bending figures, non-gendered calling, and phenomenal music. Two days of amazing workshops, dancing, community, fun, and food in the fabulous open-air, covered Bumper Car Pavilion; workshops throughout Glen Echo Park, Glen Echo, MD.\n \nCallers: Lisa Greenleaf and River Rainbowface \nBands: Free Raisins (Audrey Jaber, Amy Engelsberg, Jeff Kaufman), and Bowrider (Kelsey Wells, Alex Sturbaum, Brian Lindsay)."
     links:
       - "https://fsgw.org/hashtag-dance-weekend"
       - "https://cdss.org/event/dance-weekend/"
+      - "https://cdss.org/event/dance-weekend-2/"
     start_date: 2025-03-29
     end_date: 2025-03-30
     country: USA
@@ -7658,6 +7652,7 @@ events:
   - name: Stellar Days & Nights
     details: "You’re invited to the 17th “Annual” Stellar Days & Nights. \nA 4-day, 3-night winter music and dance event in the Rocky Mountains – Buena Vista, CO. Contra, English Country, and Couples Dancing, plus workshops and music jams.  Cozy accommodations. Amazing scenery. Yummy food. \nNational Bands and National Callers – To Be Announced for 2026 \nCheck out the website for information.   \nOrganized by: Arkansas Valley Music and Dance. \nPut this on your calendar now and plan to attend! Join our email list HERE or email us at Info@RockyMountainRanchDance.com to be added."
     links:
+      - "https://rockymountainranchdance.com"
       - "https://cdss.org/event/stellar-days-nights/"
     start: "2026-01-16T15:00:00-07:00"
     end: "2026-01-19T13:00:00-07:00"

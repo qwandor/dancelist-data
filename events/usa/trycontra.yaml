@@ -300,6 +300,7 @@ events:
   - name: DownEast Country Dance Festival
     links:
       - "http://www.deffa.org/festival/"
+      - "https://www.facebook.com/events/930648498406340/"
     start_date: 2024-03-16
     end_date: 2024-03-16
     country: USA
@@ -1639,25 +1640,6 @@ events:
     callers:
       - Jesse Partridge
     organisation: TryContra
-  - name: Harvest Moon Dance Festival
-    links:
-      - "http://www.sbcds.org/hm/"
-    start_date: 2024-10-04
-    end_date: 2024-10-06
-    country: USA
-    state: CA
-    city: Santa Barbara
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - The Latter Day Lizards
-      - Wild Asparagus
-    callers:
-      - Lisa Greenleaf
-      - George Marshall
-    organisation: TryContra
   - name: Gender-Free Dance Camp
     links:
       - "https://www.lcfd.org/fall-camp.html"
@@ -2230,19 +2212,6 @@ events:
       - George Marshall
     price: $30-$60
     organisation: Dancing Fish
-  - name: NEFFA
-    links:
-      - "https://www.neffa.org/"
-    start_date: 2025-04-25
-    end_date: 2025-04-27
-    country: USA
-    state: MA
-    city: Marlborough
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: TryContra
   - name: Fiddlehead Frolic
     links:
       - "https://www.hands4dancers.org/upcoming-dances/2025/3/29/fiddlehead-frolic"
@@ -2302,12 +2271,14 @@ events:
     city: Dowling
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
       - Toss the Possum
     callers:
       - Bob Isaacs
+    price: $160-$275
     organisation: TryContra
   - name: Portland Raindance Weekend
     links:
@@ -2546,30 +2517,11 @@ events:
       - Gaye Fifer
     price: $95-$160
     organisation: TryContra
-  - name: Balance the Bay
-    links:
-      - "https://www.bacds.org/camps/btb2025/"
-    start_date: 2025-08-15
-    end_date: 2025-08-17
-    country: USA
-    state: CA
-    city: San Francisco
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - The Latter Day Lizards
-      - River Road
-    callers:
-      - Will Mentor
-      - Alex Deis-Lauby
-    organisation: TryContra
-  - name: Rendezvous Dance Weekend
+  - name: Rocky Mountain Rendezvous
     links:
       - "https://cfootmad.org/rendezvous"
-    start_date: 2025-08-29
-    end_date: 2025-09-01
+    start: "2025-08-29T18:00:00-06:00"
+    end: "2025-09-01T13:30:00-06:00"
     country: USA
     state: CO
     city: Boulder
@@ -2605,9 +2557,9 @@ events:
       - Emily Rush
       - Gaye Fifer
     organisation: TryContra
-  - name: Harvest Moon Dance Festival
+  - name: Harvest Moon
     links:
-      - "http://www.sbcds.org/hm/"
+      - "https://www.sbcds.org/hm/"
     start_date: 2025-10-10
     end_date: 2025-10-12
     country: USA
@@ -2623,6 +2575,7 @@ events:
     callers:
       - Rick Mohr
       - Anna Rain
+    price: $95-$195
     organisation: TryContra
   - name: Dance in the Desert
     links:
