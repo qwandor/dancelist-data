@@ -1,35 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Diatonics in Havant
-    links:
-      - "http://diatonics.co.uk/events.html"
-    start_date: 2024-11-09
-    end_date: 2024-11-09
-    country: UK
-    city: Havant
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Diatonics
-    organisation: Webfeet
-  - name: Lebedek in Kennington
-    links:
-      - "http://www.oxfolk.org.uk/"
-    start_date: 2024-11-09
-    end_date: 2024-11-09
-    country: UK
-    city: Kennington
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Lebedek
-    callers:
-      - Barry Goodman
-    organisation: Webfeet
   - name: Trip Hazard in Bristol
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -214,25 +184,9 @@ events:
     callers:
       - Daisy Black
     organisation: Webfeet
-  - name: Cheltenham Ceilidh Band in Cheltenham
-    links:
-      - "http://mister.red/dance/cheltenham.htm#D.DA.20250201"
-    start_date: 2025-02-01
-    end_date: 2025-02-01
-    country: UK
-    city: Cheltenham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Cheltenham Ceilidh Band
-    organisation: Webfeet
   - name: Cotteswolde Country Dance Band in Grove
     links:
       - "https://www.areyoudancing.com/dance-event/731767/"
-      - "https://eceilidh.org.uk/cps/gigs/cotteswoldecountrydanceband-4ef00b.php"
-      - "http://mister.red/dance/wantage.htm#D.UB.20250201"
     start_date: 2025-02-01
     end_date: 2025-02-01
     country: UK
@@ -451,6 +405,7 @@ events:
   - name: Banter in Gloucester
     links:
       - "https://www.banter.band/gigs/"
+      - "http://mister.red/dance/gloucester.htm#D.AW.20250216"
     start_date: 2025-02-16
     end_date: 2025-02-16
     country: UK
@@ -461,6 +416,8 @@ events:
     social: true
     bands:
       - Banter
+    callers:
+      - Tim Walker?
     organisation: Webfeet
   - name: live music in Bath
     links:
@@ -599,7 +556,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DB.20250301"
+      - "http://mister.red/dance/cheltenham.htm#D.DA.20250301"
     start_date: 2025-03-01
     end_date: 2025-03-01
     country: UK
@@ -731,20 +688,6 @@ events:
       - own music
     callers:
       - Jean Crook
-    organisation: Webfeet
-  - name: Catsfield Steamers in Ashburnham
-    links:
-      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
-    start_date: 2025-03-13
-    end_date: 2025-03-13
-    country: UK
-    city: Ashburnham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Catsfield Steamers
     organisation: Webfeet
   - name: Banter in Bath
     links:
@@ -1143,7 +1086,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DC.20250405"
+      - "http://mister.red/dance/cheltenham.htm#D.DB.20250405"
     start_date: 2025-04-05
     end_date: 2025-04-05
     country: UK
@@ -1157,7 +1100,8 @@ events:
     organisation: Webfeet
   - name: Mad Hatters in Grove
     links:
-      - "http://mister.red/dance/wantage.htm#D.UC.20250405"
+      - "https://www.areyoudancing.com/dance-event/742246/"
+      - "http://mister.red/dance/wantage.htm#D.UB.20250405"
     start_date: 2025-04-05
     end_date: 2025-04-05
     country: UK
@@ -1618,7 +1562,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DD.20250510"
+      - "http://mister.red/dance/cheltenham.htm#D.DC.20250510"
     start_date: 2025-05-10
     end_date: 2025-05-10
     country: UK
@@ -1830,7 +1774,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DE.20250607"
+      - "http://mister.red/dance/cheltenham.htm#D.DD.20250607"
     start_date: 2025-06-07
     end_date: 2025-06-07
     country: UK
@@ -1938,7 +1882,7 @@ events:
     organisation: Webfeet
   - name: The Oakstone Trio in Grove
     links:
-      - "http://mister.red/dance/wantage.htm#D.UD.20250614"
+      - "http://mister.red/dance/wantage.htm#D.UC.20250614"
     start_date: 2025-06-14
     end_date: 2025-06-14
     country: UK
@@ -1999,7 +1943,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DF.20250705"
+      - "http://mister.red/dance/cheltenham.htm#D.DE.20250705"
     start_date: 2025-07-05
     end_date: 2025-07-05
     country: UK
@@ -2071,7 +2015,7 @@ events:
     organisation: Webfeet
   - name: PolkaWorks in Grove
     links:
-      - "http://mister.red/dance/wantage.htm#D.UE.20250816"
+      - "http://mister.red/dance/wantage.htm#D.UD.20250816"
     start_date: 2025-08-16
     end_date: 2025-08-16
     country: UK
@@ -2117,7 +2061,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DG.20250906"
+      - "http://mister.red/dance/cheltenham.htm#D.DF.20250906"
     start_date: 2025-09-06
     end_date: 2025-09-06
     country: UK
@@ -2194,7 +2138,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DH.20251004"
+      - "http://mister.red/dance/cheltenham.htm#D.DG.20251004"
     start_date: 2025-10-04
     end_date: 2025-10-04
     country: UK
@@ -2268,7 +2212,7 @@ events:
     organisation: Webfeet
   - name: Helen Gentile & Lewis Wood in Grove
     links:
-      - "http://mister.red/dance/wantage.htm#D.UF.20251018"
+      - "http://mister.red/dance/wantage.htm#D.UE.20251018"
     start_date: 2025-10-18
     end_date: 2025-10-18
     country: UK
@@ -2299,7 +2243,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DI.20251101"
+      - "http://mister.red/dance/cheltenham.htm#D.DH.20251101"
     start_date: 2025-11-01
     end_date: 2025-11-01
     country: UK
@@ -2426,7 +2370,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DJ.20251206"
+      - "http://mister.red/dance/cheltenham.htm#D.DI.20251206"
     start_date: 2025-12-06
     end_date: 2025-12-06
     country: UK
@@ -2440,7 +2384,7 @@ events:
     organisation: Webfeet
   - name: Banana Band in Grove
     links:
-      - "http://mister.red/dance/wantage.htm#D.UG.20251206"
+      - "http://mister.red/dance/wantage.htm#D.UF.20251206"
     start_date: 2025-12-06
     end_date: 2025-12-06
     country: UK
