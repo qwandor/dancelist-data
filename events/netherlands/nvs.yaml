@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: English Dance Day
+    links:
+      - "https://nvs-dance.nl/dansdagen-engels/"
+    start: "2025-02-23T10:00:00+01:00"
+    end: "2025-02-23T16:00:00+01:00"
+    country: Netherlands
+    city: Amersfoort
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Dirkje Teljeur
+    price: €15-€20
+    organisation: NVS
