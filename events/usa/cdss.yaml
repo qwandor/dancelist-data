@@ -7615,7 +7615,7 @@ events:
     links:
       - "https://www.chicagobarndance.org/calendar/"
       - "https://cdss.org/event/chicago-contra-dance/2025-02-17/"
-    start: "2025-02-17T19:00:00-06:00"
+    start: "2025-02-17T18:30:00-06:00"
     end: "2025-02-17T21:40:00-06:00"
     country: USA
     state: IL
@@ -7640,6 +7640,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10-$15
     organisation: CDSS
   - name: Ashland Country Dancers
     details: "The Ashland Branch of the Heather and the Rose Country Dancers hosts a weekly English dance (with some Scottish). Since formation in 1980, all dances are taught with positional/global language. We use recorded music most evenings."
@@ -7655,6 +7656,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: TECDA Tuesday Evening English Country Dance
     details: "Come and join us every Tuesday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing."
@@ -7675,6 +7677,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Tuesday English Country Dance
     details: "We dance to live music from our wonderful local musicians. All dances taught and prompted. Wear comfortable clothes and bring flat, non-slippy shoes to change into. Pay what you can; $8 donation helps cover the hall, band, and callers. Masks are welcome at the dance."
@@ -7723,14 +7726,14 @@ events:
     social: true
     callers:
       - Alan Winston
-    price: $15-$20
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: English Country Dance
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:40 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition. All dances taught using mostly positional language."
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/english-country-dance-asheville-nc-3/2025-02-19/"
-    start: "2025-02-19T19:00:00-05:00"
+    start: "2025-02-19T18:40:00-05:00"
     end: "2025-02-19T21:00:00-05:00"
     country: USA
     state: NC
@@ -7777,7 +7780,7 @@ events:
     links:
       - "https://www.bfms.org/squarecontra.php"
       - "https://cdss.org/event/monday-night-english-country-dance-2/2025-02-19/"
-    start: "2025-02-19T20:00:00-05:00"
+    start: "2025-02-19T19:30:00-05:00"
     end: "2025-02-19T22:30:00-05:00"
     country: USA
     state: MD
@@ -7791,8 +7794,9 @@ events:
   - name: FSGW English Country Dance
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
+      - "https://fsgw.org/event-6019944"
       - "https://cdss.org/event/fsgw-english-country-dance/2025-02-19/"
-    start: "2025-02-19T20:00:00-05:00"
+    start: "2025-02-19T19:30:00-05:00"
     end: "2025-02-19T22:30:00-05:00"
     country: USA
     state: MD
@@ -7801,6 +7805,8 @@ events:
       - ecd
     workshop: true
     social: true
+    callers:
+      - Ann Fallon
     price: $8-$17
     organisation: Folklore Society of Greater Washington
   - name: Princeton Country Dancers’ Contra Dance
@@ -7808,15 +7814,16 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2025-02-19/"
-    start: "2025-02-19T20:00:00-05:00"
+    start: "2025-02-19T19:30:00-05:00"
     end: "2025-02-19T22:30:00-05:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: Cleveland Thursday English Country Dance
     details: "Come join us every Thursday afternoon for English Country Dancing. \nCombination of live and recorded music, in an air-conditioned hall."
@@ -7832,6 +7839,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $3
     organisation: Cleveland English Dance Community
   - name: Bayou Bedlam
     details: "Bayou Bedlam is the contra dance festival in Houston, Texas. It is produced by the Houston Area Traditional Dance Society. \nOur 2025 festival will be held February 21-23 (later than usual) and feature the incomparable Lisa Greenleaf calling to the Stringrays. \nDetails will be posted by early October. Online registration will open in November."
@@ -7868,7 +7876,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: Fiddling Frog
     details: "Get ready for an epic lineup: \n\nThe Syncopaths\nRiver Road\nSusan Petrick & Lindsey Dono\n\nSound engineered by Victor Garza! \nReady to join the fun? Click here. \nQuestions? Want a PDF registration form? Email us at 2fiddlingfrog@gmail.com"
@@ -8315,9 +8323,10 @@ events:
   - name: Mad Robin Ball
     details: "Save the date for the 2025 Mad Robin Ball and full dance weekend, May 16th, 17th, and 18th. \nThis year’s dance leader is Joanna Reiner Wilkinson, with music provided by Charlie Hancock, Shira Kammen, and Jim Oakden for the Ball. \nThe weekend will begin on Friday, May 16th, with an evening dance led by Kalia Kliban. There will be a Saturday afternoon workshop and a Sunday brunch, followed by an afternoon dance. \nAll events are held at Hermann Sons Hall in Petaluma, California. Registration will begin in early February. The link will be here."
     links:
+      - "https://nbcds.org/mrb2025/"
       - "https://cdss.org/event/mad-robin-ball/"
-    start_date: 2025-05-16
-    end_date: 2025-05-18
+    start: "2025-05-16T19:00:00-07:00"
+    end: "2025-05-18T17:00:00-07:00"
     country: USA
     state: CA
     city: Petaluma
@@ -8328,10 +8337,12 @@ events:
     callers:
       - Joanna Reiner Wilkinson
       - Kalia Kliban
+    price: $125
     organisation: North Bay Country Dance Society
-  - name: Meet Me In St Louis 2025
+  - name: Meet Me In St Louis
     details: "Join us for 4 days of music, dance, and more, with music from Supertrad & The Mound City Slickers and calling by Emily Rush and you! \nRegister online at MMISL_Registration@childgrove.org"
     links:
+      - "https://childgrove.org/stl-dance-weekends/meetmeinstlouis"
       - "https://cdss.org/event/meet-me-in-st-louis-2025/"
     start: "2025-05-23T19:00:00-05:00"
     end: "2025-05-26T15:00:00-05:00"
@@ -8341,12 +8352,14 @@ events:
     styles:
       - contra
       - ecd
-    workshop: false
+    workshop: true
     social: true
     bands:
+      - Mound City Slickers
       - Supertrad
     callers:
       - Emily Rush
+    price: $55-$110
     organisation: Childgrove Country Dancers
   - name: Flamingo Fling
     details: Flamingo Fling is Oklahoma City’s annual Contra Dance weekend! This year will feature Alex Deis-Lauby calling and music from River Road!
