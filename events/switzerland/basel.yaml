@@ -4,43 +4,43 @@ events:
     links:
       - "https://www.balefolk.ch/en/joodaio"
       - "https://www.facebook.com/events/581144770426772/"
-    start: 2022-11-11T16:00:00+01:00
-    end: 2022-11-13T16:00:00+01:00
+    start: "2022-11-11T16:00:00+01:00"
+    end: "2022-11-13T16:00:00+01:00"
     country: Switzerland
     city: Basel
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
       - CaraƆ
       - La Sylva
-      - Bal de l'Aube
-      - L'air Inconnu
+      - "Bal de l'Aube"
+      - "L'air Inconnu"
       - Carovana del Bù
     price: 170-210 CHF
     organisation: Bâle Folk
-
   - name: Märchenhafter Weihnachtsbal
     links:
       - "https://www.facebook.com/events/2161977580651152/"
-    start: 2022-12-16T19:30:00+01:00
-    end: 2022-12-17T00:00:00+01:00
+    start: "2022-12-16T19:30:00+01:00"
+    end: "2022-12-17T00:00:00+01:00"
     country: Switzerland
     city: Basel
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     bands:
       - Luca Fiorini & Vincent Brunel
     price: 15-25 CHF
     organisation: Bâle Folk
-
   - name: Bal in Basel
     details: "At the same time delicate and moving - the music of LooGaroo warms our ears and feet. Whether to dance along or just to listen, the two musicians from Belgium will bring us a thoughtful evening to Basel.\r\nA little insight: https://www.facebook.com/loogaroofolk/videos/1312247492919406\r\nTIME\r\n19.30 arrival & take-away buffet (bring your favorite snacks with you)\r\n20.00 Start of Balfolk\r\nthen Boeuf – bring your instruments! – to open end\r\nLOCATION\r\nNeighborhood meeting point KLŸCK, Kleinhüningerstrasse 205, Basel\r\nBRING ALONG\r\nAs always, something small to nibble or drink for the buffet.\r\nAs many instruments as possible!\r\nCOSTS\r\nEntry. Recommended price: 25.-"
     links:
       - "https://www.facebook.com/events/6368952916460552/"
-    start: 2023-06-16T19:30:00+02:00
-    end: 2023-06-16T23:00:00+02:00
+    start: "2023-06-16T19:30:00+02:00"
+    end: "2023-06-16T23:00:00+02:00"
     country: Switzerland
     city: Basel
     styles:
@@ -51,16 +51,16 @@ events:
       - Loogaroo
     price: 25 CHF
     organisation: Bâle Folk
-
   - name: JooDäio! Festival
     links:
       - "https://www.balefolk.ch/en/joodaio"
       - "https://www.facebook.com/events/703242671451142/"
-    start: 2023-11-10T18:00:00+01:00
-    end: 2023-11-12T18:00:00+01:00
+    start: "2023-11-10T18:00:00+01:00"
+    end: "2023-11-12T18:00:00+01:00"
     country: Switzerland
     city: Basel
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -72,7 +72,6 @@ events:
       - Sara Bandlow
     price: 160-180 CHF
     organisation: Bâle Folk
-
   - name: "Bâladanse: Italian dances"
     links:
       - "https://www.baladanse.ch/doku.php?id=agenda"
@@ -87,7 +86,6 @@ events:
     workshop: true
     social: false
     organisation: Bâladanse
-
   - name: FolkLabor!
     links:
       - "https://www.balefolk.ch/folklabor"
@@ -103,8 +101,7 @@ events:
     social: false
     price: free
     organisation: Bâle Folk
-
-  - name: "Bâladanse"
+  - name: Bâladanse
     links:
       - "https://www.baladanse.ch/doku.php?id=agenda"
     start: "2023-11-20T19:30:00+01:00"
@@ -116,8 +113,7 @@ events:
     workshop: true
     social: false
     organisation: Bâladanse
-
-  - name: "Bâladanse Minibal"
+  - name: Bâladanse Minibal
     links:
       - "https://www.baladanse.ch/doku.php?id=agenda"
       - "https://danseinfo.ch/agenda/6996/mini-bal?jour=27-11-2023"
@@ -130,9 +126,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Quatr' Quart
+      - "Quatr' Quart"
     organisation: Bâladanse
-
   - name: "Bâladanse: Ronds and new bourrées"
     links:
       - "https://www.baladanse.ch/doku.php?id=agenda"
@@ -145,7 +140,6 @@ events:
     workshop: true
     social: false
     organisation: Bâladanse
-
   - name: FolkCrash!
     links:
       - "https://www.balefolk.ch/folkcrash"
@@ -161,7 +155,6 @@ events:
     social: true
     price: free
     organisation: Bâle Folk
-
   - name: FolkLabor!
     links:
       - "https://www.balefolk.ch/folklabor"
@@ -176,4 +169,21 @@ events:
     workshop: true
     social: false
     price: free
+    organisation: Bâle Folk
+  - name: Grosser Bal
+    links:
+      - "https://www.facebook.com/events/948879660465296"
+      - "https://danseinfo.ch/agenda/7924/balfolk-in-basel-mit-la-bonne-soupe-und-bargainatt?jour=22-3-2025"
+    start: "2025-03-22T19:00:00+01:00"
+    end: "2025-03-23T01:00:00+01:00"
+    country: Switzerland
+    city: Basel
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - La Bonne Soupe
+      - Bargainatt
+    price: 20-30 CHF
     organisation: Bâle Folk
