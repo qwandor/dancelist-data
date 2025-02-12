@@ -172,8 +172,8 @@ events:
     organisation: Bâle Folk
   - name: Miniball
     links:
-      - "https://danseinfo.ch/agenda/7865/mini-bal?jour=17-02-2025"
       - "https://www.baladanse.ch/agenda"
+      - "https://danseinfo.ch/agenda/7865/mini-bal?jour=17-02-2025"
     start: "2025-02-17T19:30:00+01:00"
     end: "2025-02-17T22:30:00+01:00"
     country: Switzerland
@@ -187,8 +187,8 @@ events:
     organisation: Bâladanse
   - name: Balfolk Dance Course
     links:
-      - "https://danseinfo.ch/agenda/7788/balfolk-tanzkurs?jour=24-02-2025"
       - "https://baselfolk.ch/"
+      - "https://danseinfo.ch/agenda/7788/balfolk-tanzkurs?jour=24-02-2025"
     start: "2025-02-24T17:00:00+01:00"
     end: "2025-02-24T18:00:00+01:00"
     country: Switzerland
@@ -211,6 +211,19 @@ events:
     workshop: true
     social: false
     organisation: Bâladanse
+  - name: Balfolk Dance Course
+    links:
+      - "https://baselfolk.ch/"
+      - "https://danseinfo.ch/agenda/7789/balfolk-tanzkurs?jour=17-3-2025"
+    start: "2025-03-17T17:00:00+01:00"
+    end: "2025-03-17T18:00:00+01:00"
+    country: Switzerland
+    city: Basel
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Basel Folk
   - name: Miniball
     links:
       - "https://www.baladanse.ch/agenda"
@@ -242,3 +255,42 @@ events:
       - Bargainatt
     price: 20-30 CHF
     organisation: Bâle Folk
+  - name: Balfolk Dance Course
+    links:
+      - "https://baselfolk.ch/"
+      - "https://danseinfo.ch/agenda/7790/balfolk-tanzkurs?jour=24-3-2025"
+    start: "2025-03-24T17:00:00+01:00"
+    end: "2025-03-24T18:00:00+01:00"
+    country: Switzerland
+    city: Basel
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Basel Folk
+  - name: Balfolk Dance Course
+    links:
+      - "https://baselfolk.ch/"
+      - "https://danseinfo.ch/agenda/7791/balfolk-tanzkurs?jour=31-3-2025"
+    start: "2025-03-31T17:00:00+01:00"
+    end: "2025-03-31T18:00:00+01:00"
+    country: Switzerland
+    city: Basel
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Basel Folk
+  - name: Balfolk Dance Course
+    links:
+      - "https://baselfolk.ch/"
+      - "https://danseinfo.ch/agenda/7792/balfolk-tanzkurs?jour=7-4-2025"
+    start: "2025-04-07T17:00:00+02:00"
+    end: "2025-04-07T18:00:00+02:00"
+    country: Switzerland
+    city: Basel
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Basel Folk
