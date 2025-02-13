@@ -19565,28 +19565,27 @@ events:
     workshop: true
     social: false
     organisation: Heart To Feet
-  - name: (Pays-Bas)
+  - name: CaBal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.cabalfolk.be/"
       - "https://folkbalbende.be/event/2671"
-    start_date: 2025-04-25
-    end_date: 2025-04-25
+    start: "2025-04-25T19:15:00+02:00"
+    end: "2025-04-26T00:00:00+02:00"
     country: Belgium
     city: Kortrijk
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Wouter Zonder Draak
       - Triple-X
+    price: €18
     organisation: CaBal
-  - name: Entre Autres
+  - name: Benenwerk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.benenwerk.be/"
       - "https://folkbalbende.be/event/2672"
     start_date: 2025-08-09
@@ -19595,8 +19594,9 @@ events:
     city: Bruges
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Triple-X
+    price: free
     organisation: ~
