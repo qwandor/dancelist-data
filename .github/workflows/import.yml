@@ -50,6 +50,8 @@ jobs:
         run: dancelist import marburg events/germany/marburg.yaml
       - name: Import dresden
         run: dancelist import dresden events/germany/dresden.yaml
+      - name: Import freiburg
+        run: dancelist import freiburg events/germany/freiburg_i_br.yaml
       - name: Commit if changed
         run: |
           git add events
