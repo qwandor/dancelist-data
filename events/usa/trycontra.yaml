@@ -2345,6 +2345,7 @@ events:
     callers:
       - Alex Deis-Lauby
       - Gaye Fifer
+    price: $90-$185
     organisation: TryContra
   - name: Dancing Bear Dance Camp
     links:
@@ -2465,7 +2466,7 @@ events:
     organisation: TryContra
   - name: Gender-Free Dance Camp
     links:
-      - "https://www.lcfd.org/lcfd-camps.html"
+      - "https://www.lcfd.org/spring-camp-2025.html"
     start_date: 2025-06-06
     end_date: 2025-06-08
     country: USA
@@ -2481,23 +2482,7 @@ events:
     callers:
       - Mary Wesley
       - Chris Ricciotti
-    organisation: TryContra
-  - name: Flamingo Fling Weekend
-    links:
-      - "http://scissortail.org/special-events/flamingo-fling/"
-    start_date: 2025-06-13
-    end_date: 2025-06-15
-    country: USA
-    state: OK
-    city: Oklahoma City
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - River Road
-    callers:
-      - Alex Deis-Lauby
+    price: $150-$400
     organisation: TryContra
   - name: Taste of Haven
     links:
@@ -2538,7 +2523,7 @@ events:
     city: Melrose
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     bands:
       - Kingfisher
@@ -2571,18 +2556,19 @@ events:
     organisation: TryContra
   - name: Dancing Fish
     links:
-      - "https://dancingfish.dance/"
-    start_date: 2025-08-29
-    end_date: 2025-08-31
+      - "https://dancingfish.dance/event/labor-day-weekend-with-howe-company/"
+    start: "2025-08-29T18:00:00-04:00"
+    end: "2025-08-31T15:00:00-04:00"
     country: USA
     state: FL
     city: Melrose
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     bands:
       - Howe And Company
+    price: $15-$30
     organisation: Dancing Fish
   - name: Rocky Mountain Rendezvous
     links:
@@ -2624,42 +2610,23 @@ events:
       - Emily Rush
       - Gaye Fifer
     organisation: TryContra
-  - name: Adirondack Dance Weekend
-    links:
-      - "https://www.danceflurry.org/adirondack-dance-weekend/"
-    start_date: 2025-09-26
-    end_date: 2025-09-28
-    country: USA
-    state: NY
-    city: Silver Bay
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - River Road
-      - Lighthouse
-      - Eloise &co
-    callers:
-      - Will Mentor
-      - Gaye Fifer
-    organisation: TryContra
   - name: Dancing Fish
     links:
-      - "https://dancingfish.dance/"
-    start_date: 2025-10-03
-    end_date: 2025-10-04
+      - "https://dancingfish.dance/event/alexandra-deis-lauby-and-free-raisins/"
+    start: "2025-10-03T19:00:00-04:00"
+    end: "2025-10-04T21:00:00-04:00"
     country: USA
     state: FL
     city: Melrose
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     bands:
       - The Free Raisins
     callers:
       - Alex Deis-Lauby
+    price: $15-$30
     organisation: Dancing Fish
   - name: Harvest Moon
     links:
@@ -2691,7 +2658,7 @@ events:
     city: Jonesborough
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     organisation: TryContra
   - name: Foggy Moon Dance Weekend
@@ -2704,7 +2671,7 @@ events:
     city: Monterey
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     bands:
       - Countercurrent
@@ -2712,13 +2679,14 @@ events:
     callers:
       - Alex Deis-Lauby
       - Lisa Greenleaf
-    organisation: TryContra
-  - name: Hey Fever Dance Weekend
+    organisation: Monterey Country Dance Community
+  - name: Hey Fever
     links:
       - "http://www.ottawacontra.ca/heyFever/"
-    start_date: 2025-10-31
-    end_date: 2025-11-02
-    country: "ON"
+    start: "2025-10-31T19:00:00-04:00"
+    end: "2025-11-02T15:00:00-05:00"
+    country: Canada
+    state: Ontario
     city: Ottawa
     styles:
       - contra
@@ -2730,7 +2698,7 @@ events:
     callers:
       - Mary Wesley
       - Will Mentor
-    organisation: TryContra
+    organisation: Ottawa Contra Dance
   - name: ContraCopia
     links:
       - "http://www.thursdaycontra.com/contracopia/"
@@ -2746,18 +2714,19 @@ events:
     organisation: TryContra
   - name: Dancing Fish
     links:
-      - "https://dancingfish.dance/"
-    start_date: 2025-12-05
-    end_date: 2025-12-06
+      - "https://dancingfish.dance/event/thunderwing-derick-kalish/"
+    start: "2025-12-05T19:00:00-05:00"
+    end: "2025-12-06T21:00:00-05:00"
     country: USA
     state: FL
     city: Melrose
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     bands:
       - Thunderwing
     callers:
       - Dereck Kalish
+    price: $15-$30
     organisation: Dancing Fish
