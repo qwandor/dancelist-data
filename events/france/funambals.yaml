@@ -7,32 +7,33 @@ events:
     end_date: 2022-04-04
     country: France
     city: Rillieux-la-Pape
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     organisation: Funambals
-
   - name: Funambals
     links:
       - "https://www.facebook.com/events/610056197352439/"
-    start: 2023-05-05T18:00:00+02:00
-    end: 2023-05-09T01:00:00+02:00
+    start: "2023-05-05T18:00:00+02:00"
+    end: "2023-05-09T01:00:00+02:00"
     country: France
     city: Rillieux-la-Pape
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     organisation: Funambals
-
   - name: Funambals
     links:
       - "https://funambals.lacampanule.fr/language/en/"
       - "https://www.facebook.com/events/876724913808706/"
-    start: 2024-04-12T18:00:00+02:00
-    end: 2024-04-14T23:59:00+02:00
+    start: "2024-04-12T18:00:00+02:00"
+    end: "2024-04-14T23:59:00+02:00"
     country: France
     city: Rillieux-la-Pape
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -45,8 +46,34 @@ events:
       - Ciac Boum
       - Groove Factory
       - Clica Drona
-      - L'Équipe
+      - "L'Équipe"
       - Naragonia Quartet
       - Zlabya
     price: €62-€68
+    organisation: Funambals
+  - name: Funambals
+    links:
+      - "https://funambals.lacampanule.fr/language/en/"
+    start: "2025-04-11T18:00:00+02:00"
+    end: "2025-04-13T23:59:00+02:00"
+    country: France
+    city: Lyon
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Platane
+      - Talec Noguet Quartet
+      - La Chimère
+      - La Malène
+      - Duo Cavez-Paulson
+      - Hot Griselda
+      - Trencadit
+      - Poolidor
+      - Femti Fem
+      - Sorgues
+      - Ma Petite
+      - Tref
+    price: €63-€69
     organisation: Funambals
