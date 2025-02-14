@@ -52,6 +52,8 @@ jobs:
         run: dancelist import dresden events/germany/dresden.yaml
       - name: Import freiburg
         run: dancelist import freiburg events/germany/freiburg_i_br.yaml
+      - name: Import skandia
+        run: dancelist import skandia events/usa/skandia.yaml
       - name: Commit if changed
         run: |
           git add events
