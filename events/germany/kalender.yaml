@@ -718,17 +718,20 @@ events:
     social: true
     organisation: Badische Bråtwurschtmusig
   - name: Balfolk Stuttgart
-    details: Feuerwehrhaus
+    details: Altes Feuerwehrhaus Süd
     links:
       - "https://kalender.digital/574d155c91900caea879/event/585162447"
-    start_date: 2025-03-01
-    end_date: 2025-03-01
+    start: "2025-03-01T17:30:00+01:00"
+    end: "2025-03-01T23:00:00+01:00"
     country: Germany
     city: Stuttgart
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Akleja
+      - KV Express
     organisation: Holger & Moritz & Vera
   - name: Tanzfest
     details: "Balfolktänze mit Anleitung, Livemusik"
@@ -1067,18 +1070,21 @@ events:
     workshop: false
     social: true
     organisation: Sönke
-  - name: Balfolk Stuttgart
-    details: Feuerwehrhaus
+  - name: Rokkende Vrouwen und Le Driadi
+    details: Balfolk Stuttgart im Alten Feuerwehrhaus Süd
     links:
       - "https://kalender.digital/574d155c91900caea879/event/585162471"
-    start_date: 2025-06-28
-    end_date: 2025-06-28
+    start: "2025-06-28T18:00:00+02:00"
+    end: "2025-06-28T23:00:00+02:00"
     country: Germany
     city: Stuttgart
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Le Driadi
+      - Rokkende Vrouwen
     organisation: Holger & Moritz & Vera
   - name: "Tanztag: ungerade Tänze"
     details: Salzstadel Tübingen
@@ -1275,3 +1281,101 @@ events:
     bands:
       - Parasol
     organisation: Danzamol e.v.
+  - name: KA-BALFOLK
+    details: "Mit L'air inconnu und Grand Balthazar ab 17:30h Workshop"
+    links:
+      - "https://kalender.digital/574d155c91900caea879/event/1008282698"
+    start: "2026-02-20T20:00:00+01:00"
+    end: "2026-02-20T23:55:00+01:00"
+    country: Germany
+    city: Karlsruhe
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - "L'air Inconnu"
+    organisation: KA-BALFOLK
+  - name: Tanz und Begegnung
+    details: "Balfolk mit L'air inconnu und Grand Balthasar"
+    links:
+      - "https://kalender.digital/574d155c91900caea879/event/1008165645"
+    start: "2026-02-22T12:00:00+01:00"
+    end: "2026-02-22T21:00:00+01:00"
+    country: Germany
+    city: 88634 Herdwangen/Großschönach
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - "L'air Inconnu"
+    organisation: Sönke
+  - name: KA-BALFOLK
+    details: "Mit N.N. und Workshop ab 17:30h"
+    links:
+      - "https://kalender.digital/574d155c91900caea879/event/1008283024"
+    start: "2026-04-18T20:00:00+02:00"
+    end: "2026-04-18T23:55:00+02:00"
+    country: Germany
+    city: Karlsruhe
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: KA-BALFOLK
+  - name: Balfolk Stuttgart
+    details: Altes Feuerwehrhaus Süd
+    links:
+      - "https://kalender.digital/574d155c91900caea879/event/1008238796"
+    start: "2026-06-13T18:00:00+02:00"
+    end: "2026-06-13T23:00:00+02:00"
+    country: Germany
+    city: Stuttgart
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Holger & Moritz & Vera
+  - name: KA-BALFOLK
+    details: "Mit Hartwin Dhoore Trio und Workshop ab 17:30h"
+    links:
+      - "https://kalender.digital/574d155c91900caea879/event/1008283069"
+    start: "2026-09-26T20:00:00+02:00"
+    end: "2026-09-26T23:55:00+02:00"
+    country: Germany
+    city: Karlsruhe
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Hartwin Dhoore Trio
+      - Hartwin Dhoore
+    organisation: KA-BALFOLK
+  - name: Balfolk Stuttgart
+    details: Altes Feuerwehrhaus Süd
+    links:
+      - "https://kalender.digital/574d155c91900caea879/event/1008238843"
+    start: "2026-10-17T18:00:00+02:00"
+    end: "2026-10-17T23:00:00+02:00"
+    country: Germany
+    city: Stuttgart
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Holger & Moritz & Vera
+  - name: KA-BALFOLK
+    details: Mit N.N.
+    links:
+      - "https://kalender.digital/574d155c91900caea879/event/1008285137"
+    start: "2026-11-22T18:00:00+01:00"
+    end: "2026-11-22T21:00:00+01:00"
+    country: Germany
+    city: Karlsruhe
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: KA-BALFOLK
