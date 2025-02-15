@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Live and Local
+    links:
+      - "https://www.liveandlocal.org.uk/event/?id=9005"
+    start: "2025-05-11T19:00:00+01:00"
+    end: "2025-05-11T20:30:00+01:00"
+    country: UK
+    city: Grantham
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Cri du Canard
+    price: £10-£16
+    organisation: Cri du Canard
