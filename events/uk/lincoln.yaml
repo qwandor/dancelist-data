@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Live and Local
+    links:
+      - "https://www.liveandlocal.org.uk/event/?id=9001"
+    start_date: 2025-05-10
+    end_date: 2025-05-10
+    country: UK
+    city: Lincoln
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Cri du Canard
+    organisation: ~
