@@ -1,19 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Trip Hazard in Bristol
-    links:
-      - "https://bristolcontra.wordpress.com/"
-    start_date: 2024-11-22
-    end_date: 2024-11-22
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Trip Hazard
-    organisation: Webfeet
   - name: "James Delarre and Saul Rose in Chandler's Ford"
     links:
       - "http://www.shocc.co.uk/"
@@ -198,67 +184,8 @@ events:
     bands:
       - Diatonics
     organisation: Webfeet
-  - name: "sessionista in Bath French, Bath"
-    links:
-      - "http://mister.red/dance/bath.htm#D.AL.20250202"
-    start_date: 2025-02-02
-    end_date: 2025-02-02
-    country: UK
-    city: "Bath French, Bath"
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - sessionista
-    organisation: Webfeet
-  - name: live music in Bath
-    links:
-      - "http://mister.red/dance/bath.htm#D.AN.20250205"
-    start_date: 2025-02-05
-    end_date: 2025-02-05
-    country: UK
-    city: Bath
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: Deep Street in Witcombe
-    links:
-      - "http://mister.red/dance/gloucester.htm#D.VB.20250205"
-    start_date: 2025-02-05
-    end_date: 2025-02-05
-    country: UK
-    city: Witcombe
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Deep Street
-    organisation: Webfeet
-  - name: Contrasaurus. in Alcester
-    links:
-      - "http://mister.red/dance/alcester.htm#D.3B.20250207"
-    start_date: 2025-02-07
-    end_date: 2025-02-07
-    country: UK
-    city: Alcester
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Contrasaurus.
-    callers:
-      - Jack Kanutin
-    organisation: Webfeet
   - name: The Pigeon Swing in Kennington
     links:
-      - "http://mister.red/dance/oxford.htm#D.FR.20250208"
       - "http://www.oxfolk.org.uk/"
     start_date: 2025-02-08
     end_date: 2025-02-08
@@ -389,7 +316,7 @@ events:
   - name: Banter in Gloucester
     links:
       - "https://www.banter.band/gigs/"
-      - "http://mister.red/dance/gloucester.htm#D.AW.20250216"
+      - "http://mister.red/dance/gloucester.htm#D.AV.20250216"
     start_date: 2025-02-16
     end_date: 2025-02-16
     country: UK
@@ -435,7 +362,7 @@ events:
     organisation: Webfeet
   - name: Deep Street in Witcombe
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VC.20250219"
+      - "http://mister.red/dance/gloucester.htm#D.VB.20250219"
     start_date: 2025-02-19
     end_date: 2025-02-19
     country: UK
@@ -598,7 +525,7 @@ events:
     organisation: Webfeet
   - name: "Baily's Beads in Witcombe"
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VD.20250305"
+      - "http://mister.red/dance/gloucester.htm#D.VC.20250305"
     start_date: 2025-03-05
     end_date: 2025-03-05
     country: UK
@@ -703,6 +630,20 @@ events:
       - Vertical Expression
     callers:
       - Adam Hughes
+    organisation: Webfeet
+  - name: Levriad in Exeter
+    links:
+      - "http://mister.red/dance/exeter.htm#D.AM.20250314"
+    start_date: 2025-03-14
+    end_date: 2025-03-14
+    country: UK
+    city: Exeter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Levriad
     organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     details: "[To Be Confirmed]"
@@ -827,7 +768,7 @@ events:
     organisation: Webfeet
   - name: Folkus Pocus in Alcester
     links:
-      - "http://mister.red/dance/alcester.htm#D.3C.20250321"
+      - "http://mister.red/dance/alcester.htm#D.3B.20250321"
     start_date: 2025-03-21
     end_date: 2025-03-21
     country: UK
@@ -1007,6 +948,20 @@ events:
     bands:
       - Venn
     organisation: Webfeet
+  - name: live music in Bath
+    links:
+      - "http://mister.red/dance/bath.htm#D.AN.20250402"
+    start_date: 2025-04-02
+    end_date: 2025-04-02
+    country: UK
+    city: Bath
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - live music
+    organisation: Webfeet
   - name: Ann Summers Duo in Frenchay
     links:
       - "http://mister.red/dance/bristol.htm#D.AC.20250402"
@@ -1025,7 +980,7 @@ events:
     organisation: Webfeet
   - name: King Kontra String Band in Alcester
     links:
-      - "http://mister.red/dance/alcester.htm#D.3D.20250404"
+      - "http://mister.red/dance/alcester.htm#D.3C.20250404"
     start_date: 2025-04-04
     end_date: 2025-04-04
     country: UK
@@ -1098,6 +1053,20 @@ events:
       - Mad Hatters
     callers:
       - Mike Courthold
+    organisation: Webfeet
+  - name: "sessionista in Bath French, Bath"
+    links:
+      - "http://mister.red/dance/bath.htm#D.AL.20250406"
+    start_date: 2025-04-06
+    end_date: 2025-04-06
+    country: UK
+    city: "Bath French, Bath"
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - sessionista
     organisation: Webfeet
   - name: Pair of in Pucklechurch
     links:
@@ -1258,6 +1227,20 @@ events:
     callers:
       - Jean Crook
     organisation: Webfeet
+  - name: Duo Confluence in Exeter
+    links:
+      - "http://mister.red/dance/exeter.htm#D.AM.20250418"
+    start_date: 2025-04-18
+    end_date: 2025-04-18
+    country: UK
+    city: Exeter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Confluence
+    organisation: Webfeet
   - name: "Banter in Chandler's Ford"
     links:
       - "http://www.shocc.co.uk/"
@@ -1288,6 +1271,20 @@ events:
     social: true
     bands:
       - Emily Bowden and Simon Dumpleton
+    organisation: Webfeet
+  - name: Randwick All Stars in Randwick
+    links:
+      - "http://mister.red/dance/stroud.htm#D.AW.20250421"
+    start_date: 2025-04-21
+    end_date: 2025-04-21
+    country: UK
+    city: Randwick
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Randwick All Stars
     organisation: Webfeet
   - name: Dave Byett in Pucklechurch
     links:
@@ -1545,6 +1542,20 @@ events:
     callers:
       - Jane Bird
     organisation: Webfeet
+  - name: Poisson Rouge in Exeter
+    links:
+      - "http://mister.red/dance/exeter.htm#D.AM.20250509"
+    start_date: 2025-05-09
+    end_date: 2025-05-09
+    country: UK
+    city: Exeter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Poisson Rouge
+    organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -1593,7 +1604,7 @@ events:
     organisation: Webfeet
   - name: Audrey Leigh Jaber and Bruce Rosen all from USA. in Alcester
     links:
-      - "http://mister.red/dance/alcester.htm#D.3E.20250516"
+      - "http://mister.red/dance/alcester.htm#D.3D.20250516"
     start_date: 2025-05-16
     end_date: 2025-05-16
     country: UK
@@ -1849,7 +1860,7 @@ events:
     organisation: Webfeet
   - name: Larry Unger and Elke Baker (USA) in Alcester
     links:
-      - "http://mister.red/dance/alcester.htm#D.3F.20250613"
+      - "http://mister.red/dance/alcester.htm#D.3E.20250613"
     start_date: 2025-06-13
     end_date: 2025-06-13
     country: UK
@@ -2075,7 +2086,7 @@ events:
     organisation: Webfeet
   - name: Dave Fran and Phil. in Alcester
     links:
-      - "http://mister.red/dance/alcester.htm#D.3G.20250912"
+      - "http://mister.red/dance/alcester.htm#D.3F.20250912"
     start_date: 2025-09-12
     end_date: 2025-09-12
     country: UK
@@ -2152,7 +2163,7 @@ events:
     organisation: Webfeet
   - name: Vertical Expression in Alcester
     links:
-      - "http://mister.red/dance/alcester.htm#D.3H.20251010"
+      - "http://mister.red/dance/alcester.htm#D.3G.20251010"
     start_date: 2025-10-10
     end_date: 2025-10-10
     country: UK
@@ -2289,7 +2300,7 @@ events:
     organisation: Webfeet
   - name: Box of Frogs. in Alcester
     links:
-      - "http://mister.red/dance/alcester.htm#D.3I.20251107"
+      - "http://mister.red/dance/alcester.htm#D.3H.20251107"
     start_date: 2025-11-07
     end_date: 2025-11-07
     country: UK
