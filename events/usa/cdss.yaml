@@ -38060,6 +38060,8 @@ events:
     social: true
     bands:
       - Alchemy
+    callers:
+      - Julie Esch
     organisation: AACTMAD
   - name: Experienced Contra at Guiding Star Grange
     details: "The dances in this series are open to all but will be geared toward experienced dancers. “Experienced” means: \n\nYou know how to do a roll away, California twirl, pass through to a wave, contra corners, and basic moves without teaching\nYou know where to be at the start of each dance phrase and how to recover from a lapse\nYou assist your partner and neighbor to the next move\nYou execute flourishes safely and on time without disturbing others\nYou respond to confusion and missteps by others with grace, encouragement and good humor\n\nAdmission: $12-20 \nPlease help us make this a scent-free and substance-free event. \nSee venue website for this month’s details and Covid policy. \nQuestions: Steve Zakon-Anderson or Katie Olmstead."
@@ -38174,6 +38176,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: donation
     organisation: York Region English Country Dancers
   - name: Scissortail English Country Dance
     details: "Scissortail English Country Dance in Oklahoma City, first and third Saturdays.  Check our Facebook or our website for more details!"
@@ -38222,20 +38225,101 @@ events:
     callers:
       - Bob Green
     organisation: Childgrove Country Dancers
-  - name: Buena Vista 1st Saturday Community Contra & Band Jam
+  - name: Goshen Community Contra Dance
+    details: "The Goshen Community Contra Dance celebrates its 24th season of dancing contras, squares, reels, circles & waltzes in downtown Goshen, In. \n\nNo experience or partner needed. New dancers are always welcome and are invited to the beginners’ workshop at 6:30pm. \nAlways live local and regional bands, and all dances are led by experienced callers.\nWear layers of comfortable, lightweight clothing and shoes for active movement.\nYou’ll be dancing on a springy wood floor!\n\nGeneral Public: Non-members $8, Members $6\nStudents: Non-members $5, Members $3\nChildren under 12: Free\nFamily maximum cost: $18"
+    links:
+      - "http://godancing.org/"
+      - "https://cdss.org/event/goshen-community-contra-dance/2025-03-01/"
+    start: "2025-03-01T19:00:00-05:00"
+    end: "2025-03-01T22:00:00-05:00"
+    country: USA
+    state: IN
+    city: Goshen
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $3-$8
+    organisation: Goshen Community Contra Dance
+  - name: Wooster Contra Dance
+    details: "Longways set dancing plus fun squares and mixers. Instruction included. It’s aerobic and social; no partner necessary. Beautiful Celtic music with Pocketful o’ Gimmick, calling by Susan English. \n\nSuggested donation: $7 adults, $5 students.\nPlease carry clean shoes and personal water bottle.\nSponsored by Valley College Grange.  \nMore info and videos at Woosterdance.com and on Facebook at Wooster Dance.\nRecommended for ages 8 to 80+. Must be able to follow directions."
+    links:
+      - "https://www.woosterdance.com/contra"
+      - "https://cdss.org/event/wooster-contra-dance/2025-03-01/"
+    start: "2025-03-01T19:00:00-05:00"
+    end: "2025-03-01T21:30:00-05:00"
+    country: USA
+    state: OH
+    city: Wooster
+    styles:
+      - contra
+    workshop: false
+    social: true
+    callers:
+      - Susan English
+    price: $5-$7
+    organisation: Wooster Dance
+  - name: Buena Vista Community Contra & Band Jam
     details: "Saturday, March 1st; Saturday, April 5th; Saturday, May 3, 2025\n\nBand Jam starts at 5:30pm\nDance is 7:00 – 9:00pm\nPotluck dinner at the May 3rd dance, starting at 6pm. Bring a dish to share.\n\nCome contra dance with us!  \n\nOur Band Jam starts at 5:30 pm – all musicians welcome to join our AVMAD Band! \n\nAnd we will have live music to dance to, starting at 7 PM. \nEach dance will be taught before it is danced. \nPartners are not required, nor is previous dance experience. \nDonations will be accepted at the door.  \nIf you have questions, feel free to call Connie or 719-395-8386 at Lee at 210-275-3355. \nor\nEmail us at:  ArkValleyMusicAndDance@Gmail.com \nSponsored by Arkansas Valley Music and Dance."
     links:
+      - "http://www.arkvalleymusicanddance.org/"
       - "https://cdss.org/event/buena-vista-1st-saturday-community-contra-band-jam/2025-03-01/"
     start: "2025-03-01T17:30:00-07:00"
     end: "2025-03-01T21:00:00-07:00"
     country: USA
-    state: Buena Vista
-    city: 217 Crossman Ave
+    state: CO
+    city: Buena Vista
     styles:
       - contra
     workshop: false
     social: true
     organisation: Arkansas Valley Music and Dance
+  - name: Tucson Contra Dance
+    details: "Join us for our first and third Saturday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check https://tucsoncontradancers.org for more details"
+    links:
+      - "https://tucsoncontradancers.org/"
+      - "https://cdss.org/event/tucson-contra-dance-2/2025-03-01/"
+    start: "2025-03-01T18:30:00-07:00"
+    end: "2025-03-01T22:00:00-07:00"
+    country: USA
+    state: AZ
+    city: Tucson
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Tucson Friends of Traditional Music%2C Inc.
+  - name: Friends of Traditional Dance Contra
+    details: "Contra Dance every 1st and 3rd Saturday \nWe dance at the fabulous Masonic Ballroom, with its gorgeous sprung wood dance floor."
+    links:
+      - "https://fotd.org/"
+      - "https://cdss.org/event/friends-of-traditional-dance-contra/2025-03-01/"
+    start: "2025-03-01T19:00:00-07:00"
+    end: "2025-03-01T22:00:00-07:00"
+    country: USA
+    state: CO
+    city: Fort Collins
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Friends of Traditional Dance
+  - name: Circle Left
+    details: Circle Left is a gender-neutral contra dance in Oakland on the first Saturday of the month.
+    links:
+      - "https://www.queercontradance.org/circleleft.html"
+      - "https://cdss.org/event/circle-left/2025-03-01/"
+    start: "2025-03-01T19:00:00-08:00"
+    end: "2025-03-01T22:00:00-08:00"
+    country: USA
+    state: CA
+    city: Oakland
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: CDSS
   - name: Sun Assembly Spring DanceFest
     details: "Join us March 8-9, 2025 for a weekend of English Country Dancing led by Jenna Simpson! Live music will be provided by our wonderful local musicians Mara Shea, Julie Gorka, Dean Herington, Joey O’Donnell, Walt Robinson, and friends.  \nThe weekend consists of two Saturday workshops followed by an evening dance party. On Sunday, there will be a farewell dance. All workshops and dances will be held at the Shared Visions Retreat Center in Durham, NC.  \nPlease visit Sun Assembly’s website for registration and other information. \nWhile we would love for you to join us for the entire weekend, you may also just attend individual sessions."
     links:
