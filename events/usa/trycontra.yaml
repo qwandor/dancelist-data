@@ -1172,6 +1172,7 @@ events:
     city: Plymouth
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     callers:
@@ -1228,7 +1229,7 @@ events:
       - Wendy Graham
       - Gaye Fifer
     organisation: TryContra
-  - name: Campers’ Week
+  - name: Campers' Week
     links:
       - "https://camp.cdss.org/camp-weeks/campers-week-at-pinewoods/"
     start_date: 2024-08-17
@@ -2487,19 +2488,22 @@ events:
   - name: "Dance, Music & Spice"
     links:
       - "https://camp.cdss.org/camp-weeks/dance-music-spice-at-cavell/"
-    start_date: 2025-06-14
-    end_date: 2025-06-21
+    start: "2025-06-14T16:00:00-04:00"
+    end: "2025-06-21T12:00:00-04:00"
     country: USA
     state: MI
     city: Lexington
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
       - Countercurrent
     callers:
       - Lindsey Dono
+      - Susan Kevra
+    price: $850-$1500
     organisation: TryContra
   - name: Taste of Haven
     links:
@@ -2580,8 +2584,10 @@ events:
     city: Pleasantville
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
+    price: $675-$1075
     organisation: TryContra
   - name: July Fourth
     links:
@@ -2593,6 +2599,8 @@ events:
     city: Plymouth
     styles:
       - contra
+      - ecd
+      - irish-set
     workshop: true
     social: true
     callers:
@@ -2608,12 +2616,17 @@ events:
     city: Plymouth
     styles:
       - contra
+      - ecd
+      - scd
     workshop: true
     social: true
     bands:
       - Frost and Fire
     callers:
+      - Anna Rain
       - Ben Sachs-Hamilton
+      - Kat Dutton
+    price: $345-$467
     organisation: TryContra
   - name: Roanoke Railroader
     links:
@@ -2638,14 +2651,15 @@ events:
     organisation: TryContra
   - name: Ashokan Northern Week
     links:
-      - "https://ashokancenter.org/product/northern-week-2024/"
-    start_date: 2025-07-13
-    end_date: 2025-07-19
+      - "https://ashokancenter.org/product/northern-week-2025/"
+    start: "2025-07-13T13:00:00-04:00"
+    end: "2025-07-19T14:00:00-04:00"
     country: USA
     state: NY
     city: Olivebridge
     styles:
       - contra
+      - scandi
     workshop: true
     social: true
     bands:
@@ -2654,12 +2668,13 @@ events:
       - Will Mentor
       - Susan Kevra
       - John Krumm
+    price: $585-$1035
     organisation: TryContra
   - name: American Dance & Music Week
     links:
-      - "https://camp.cdss.org/camp-weeks/american-dance-music-week-2/"
-    start_date: 2025-07-19
-    end_date: 2025-07-26
+      - "https://camp.cdss.org/camp-weeks/american-dance-music-week/"
+    start: "2025-07-19T15:00:00-04:00"
+    end: "2025-07-26T10:00:00-04:00"
     country: USA
     state: MA
     city: Plymouth
@@ -2667,6 +2682,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $850-$1500
     organisation: TryContra
   - name: Harmony of Song & Dance
     links:
@@ -2678,8 +2694,13 @@ events:
     city: Plymouth
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
+    callers:
+      - Adina Gordon
+      - Gaye Fifer
+    price: $850-$1500
     organisation: TryContra
   - name: Sugar Hill Dance Weekend
     links:
@@ -2703,41 +2724,48 @@ events:
     state: ME
     city: Poland
     styles:
+      - balfolk
       - contra
+      - ecd
     workshop: true
     social: true
+    price: $850-$1500
     organisation: TryContra
   - name: Cascade of Music & Dance
     links:
       - "https://camp.cdss.org/camp-weeks/cascade-of-music-dance-at-louise/"
-    start_date: 2025-08-11
-    end_date: 2025-08-17
+    start: "2025-08-11T16:00:00-04:00"
+    end: "2025-08-17T10:00:00-04:00"
     country: USA
     state: MD
     city: Cascade
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
+    price: $750-$1400
     organisation: TryContra
-  - name: Campers’ Week
+  - name: Campers' Week
     links:
       - "https://camp.cdss.org/camp-weeks/campers-week-at-pinewoods/"
-    start_date: 2025-08-16
-    end_date: 2025-08-23
+    start: "2025-08-16T15:00:00-04:00"
+    end: "2025-08-23T10:00:00-04:00"
     country: USA
     state: MA
     city: Plymouth
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
+    price: $750-$1400
     organisation: TryContra
-  - name: Good Life Gallup
+  - name: Good Life Gallop
     links:
       - "https://www.thegoodlifegallop.org/"
-    start_date: 2025-08-02
-    end_date: 2025-08-04
+    start: "2025-08-15T19:00:00-05:00"
+    end: "2025-08-17T16:00:00-05:00"
     country: USA
     state: NE
     city: Omaha
@@ -2745,10 +2773,7 @@ events:
       - contra
     workshop: true
     social: true
-    bands:
-      - Kaw Creek
-    callers:
-      - Kate McBride
+    price: $30-$75
     organisation: TryContra
   - name: Mentone
     links:
@@ -2884,6 +2909,7 @@ events:
     city: Plymouth
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     organisation: TryContra
@@ -2947,8 +2973,8 @@ events:
   - name: ContraStock
     links:
       - "https://fsgw.org/contrastock"
-    start_date: 2025-09-07
-    end_date: 2025-09-07
+    start: "2025-09-07T13:00:00-04:00"
+    end: "2025-09-07T22:00:00-04:00"
     country: USA
     state: MD
     city: Glen Echo
@@ -2964,7 +2990,7 @@ events:
     end_date: 2025-10-05
     country: USA
     state: ID
-    city: "Harrison,"
+    city: Harrison
     styles:
       - contra
     workshop: true
@@ -2975,6 +3001,7 @@ events:
     callers:
       - Susan Petrick
       - William Watson
+    price: $235-$395
     organisation: TryContra
   - name: Harvest Moon
     links:
@@ -2999,8 +3026,8 @@ events:
   - name: Peterbough Fall Ball
     links:
       - "https://www.monadnockfolk.org/event/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-saturday-october-25-2025/"
-    start_date: 2025-10-25
-    end_date: 2025-10-25
+    start: "2025-10-25T12:00:00-04:00"
+    end: "2025-10-25T23:30:00-04:00"
     country: USA
     state: NH
     city: Peterborough
@@ -3025,6 +3052,7 @@ events:
       - Engine Room
     callers:
       - Darlene Underwood
+    price: $65-$165
     organisation: TryContra
   - name: Fire Ant Frolic
     links:
@@ -3046,8 +3074,8 @@ events:
   - name: Contra NYC
     links:
       - "https://www.contradance.nyc/"
-    start_date: 2025-10-24
-    end_date: 2025-10-26
+    start: "2025-10-24T19:30:00-04:00"
+    end: "2025-10-26T17:00:00-04:00"
     country: USA
     state: NY
     city: New York
