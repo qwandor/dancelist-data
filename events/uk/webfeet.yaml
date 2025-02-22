@@ -1,51 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "James Delarre and Saul Rose in Chandler's Ford"
-    links:
-      - "http://www.shocc.co.uk/"
-    start_date: 2024-11-23
-    end_date: 2024-11-23
-    country: UK
-    city: "Chandler's Ford"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - James Delarre and Saul Rose
-    callers:
-      - Cate Haynes
-    organisation: Webfeet
-  - name: Famous Potatoes in Southend on Sea
-    links:
-      - "http://famouspotatoes.co.uk/events/barn-dance-in-shoebury-on-23-november-2024/"
-    start_date: 2024-11-23
-    end_date: 2024-11-23
-    country: UK
-    city: Southend on Sea
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Famous Potatoes
-    organisation: Webfeet
-  - name: Bosun Higgs in Welshampton
-    links:
-      - "https://www.bosunhiggs.co.uk/gig-diary.html"
-    start_date: 2024-11-23
-    end_date: 2024-11-23
-    country: UK
-    city: Welshampton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Bosun Higgs
-    callers:
-      - Hilary Evans
-    organisation: Webfeet
   - name: The Linda Game Band in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
@@ -232,27 +186,9 @@ events:
     callers:
       - Clif Strover
     organisation: Webfeet
-  - name: Banter in Baldock
-    links:
-      - "https://www.banter.band/gigs/"
-      - "https://www.areyoudancing.com/dance-event/732566/"
-    start_date: 2025-02-14
-    end_date: 2025-02-14
-    country: UK
-    city: Baldock
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    callers:
-      - Tim Walker
-    organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
-      - "http://www.sadfolk.co.uk/listings.php"
     start_date: 2025-02-14
     end_date: 2025-02-14
     country: UK
@@ -282,7 +218,6 @@ events:
     organisation: Webfeet
   - name: ruffContra with Box of Frogs in Morganstown
     links:
-      - "https://eceilidh.org.uk/cps/gigs/boxoffrogs-5f66b2.php"
       - "http://mister.red/dance/cardiff.htm#D.HA.20250215"
     start_date: 2025-02-15
     end_date: 2025-02-15
@@ -293,10 +228,8 @@ events:
     workshop: false
     social: true
     bands:
-      - Box of Frogs
       - ruffContra with Box of Frogs
     callers:
-      - Rhodri Davies
       - Rhodri Davies - in at Morganstown Village Hall (
     organisation: Webfeet
   - name: sessionista in Bristol
@@ -315,7 +248,6 @@ events:
     organisation: Webfeet
   - name: Banter in Gloucester
     links:
-      - "https://www.banter.band/gigs/"
       - "http://mister.red/dance/gloucester.htm#D.AV.20250216"
     start_date: 2025-02-16
     end_date: 2025-02-16
@@ -479,6 +411,20 @@ events:
     bands:
       - Cheltenham Ceilidh Band
     organisation: Webfeet
+  - name: Spinach for Norman in Exeter
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2025-03-01
+    end_date: 2025-03-01
+    country: UK
+    city: Exeter
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Spinach for Norman
+    organisation: Webfeet
   - name: "sessionista in Bath French, Bath"
     links:
       - "http://mister.red/dance/bath.htm#D.AL.20250302"
@@ -631,6 +577,20 @@ events:
     callers:
       - Adam Hughes
     organisation: Webfeet
+  - name: Allan Yn Y fan in Ebbw Vale
+    links:
+      - "http://www.silversprings.plus.com/website/gigs.htm"
+    start_date: 2025-03-14
+    end_date: 2025-03-14
+    country: UK
+    city: Ebbw Vale
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Allan Yn Y fan
+    organisation: Webfeet
   - name: Levriad in Exeter
     links:
       - "http://mister.red/dance/exeter.htm#D.AM.20250314"
@@ -674,6 +634,22 @@ events:
     social: true
     bands:
       - Banter
+    organisation: Webfeet
+  - name: 3 Sticks in Weedon Bec
+    links:
+      - "https://www.efdss.org/calendar-events/14872-1ae6464c6b5d51b363d7d96f97132c75"
+    start_date: 2025-03-14
+    end_date: 2025-03-14
+    country: UK
+    city: Weedon Bec
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - 3 Sticks
+    callers:
+      - Lisa Heywood
     organisation: Webfeet
   - name: Hobsons Choice in Bristol
     links:
@@ -2099,6 +2075,20 @@ events:
       - Dave Fran and Phil.
     callers:
       - Liam Binley
+    organisation: Webfeet
+  - name: Naragonia in Cirencester
+    links:
+      - "https://balfolkstroud.uk/cps/gigs/naragoniaduo-f4e4d4.php"
+    start_date: 2025-09-13
+    end_date: 2025-09-13
+    country: UK
+    city: Cirencester
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Naragonia
     organisation: Webfeet
   - name: Box of Frogs in Englefield Green
     links:
