@@ -37903,6 +37903,21 @@ events:
       - Gaye Fifer
     price: $15
     organisation: Pittsburgh Contra Dance
+  - name: Phoenix 4th Friday Contra Dance
+    details: "Free lesson at 6:30 pm \n$10 General • $5 for 25 years & younger"
+    links:
+      - "https://cdss.org/event/phoenix-4th-friday-contra-dance/2025-02-28/"
+    start: "2025-02-28T19:00:00-07:00"
+    end: "2025-02-28T22:00:00-07:00"
+    country: USA
+    state: AZ
+    city: Phoenix
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Phoenix Traditional Music & Dance
   - name: Monrovia English Country Dance
     details: "Please join us for English Country Dancing on the 2nd and 4th Friday of every month from 7:30-10pm in the Guildhall of St Luke’s Episcopal Church. $5 admission (cash only). Beginners welcome! All dances are taught, walked through and called. No partner or costume required; just bring comfortable closed-toed shoes and a water bottle. We’re friendly, laid-back, and welcoming!"
     links:
@@ -38364,6 +38379,8 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Danse Café
     price: $15
     organisation: Danse Caf%C3%A9
   - name: Roseville English Country Dance
@@ -38992,23 +39009,6 @@ events:
       - Jenna Simpson
     organisation: Sun Assembly
   - name: TECDA March Monthly Dance
-    details: "TECDA is hosting an ECD monthly dance at St. Barnabas Hall on Saturday March 8, 2025, 2-5, Bev Birnbaum calling. \nMusicians: Pat Mearns and Elena Spanu  \nMasks are optional. Please bring your dancing shoes and water bottle. \nPreregistration at info@tecda.ca, but walk-ins are welcome.  \nSuggested donation of $25 (or pay what you can). This can be paid by e-transfer to payments@tecda.ca or cash at the door. \nSee you on the dance floor."
-    links:
-      - "https://cdss.org/event/tecda-march-monthly-dance-2/"
-    start: "2025-03-08T14:00:00-05:00"
-    end: "2025-03-08T17:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: Toronto
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Bev Birnbaum
-    price: $25
-    organisation: Toronto English Country Dance Assembly (TECDA)
-  - name: TECDA March Monthly Dance
     details: "TECDA is hosting an ECD monthly dance at St. Barnabas Hall on Saturday March 8, 2025, 2-5, Bev Bernbaum calling. \nMusicians: Pat Mearns, Elena Spanu  \nMasks are optional. Please bring your dancing shoes and water bottle. \nPreregistration at info@tecda.ca, but walk-ins are welcome.  \nSuggested donation $25. This can be paid by e-transfer to payments@tecda.ca or cash at the door. \nSee you on the dance floor."
     links:
       - "https://cdss.org/event/tecda-march-monthly-dance/"
@@ -39023,6 +39023,67 @@ events:
     social: true
     price: $25
     organisation: Toronto English Country Dance Assembly (TECDA)
+  - name: Dover Monthly English Country Dance
+    details: "Monthly English country dance with live music.  Newcomers are always welcome, and each dance is taught with a walk-through before it is danced. \nDress is casual (“regular” clothes) except for special events (Spring and Holiday dances), when attendees may dress in formal/cocktail or 18th century attire. \nAnnual membership for the January – December season is $10. Membership admission for regular monthly dances is $7. \nRegular monthly dance admission for non-members is $10. \nAdmission price may change for special dances. \nTimes and locations may be subject to change. \nLocation: Ehinger Hall, Dover DE\nEhinger Hall (#14 Kings Highway) is located directly at the intersection of Kent Avenue and Division Street / Route 8 For those using GPS, the intersection of Kent Avenue and Division Street works best. Best parking will likely be found on Kent Avenue."
+    links:
+      - "http://www.doverdancers.org/"
+      - "https://cdss.org/event/dover-english-country-dancers-monthly-dance/2025-03-08/"
+    start: "2025-03-08T18:30:00-05:00"
+    end: "2025-03-08T21:30:00-05:00"
+    country: USA
+    state: DE
+    city: Dover
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $7-$10
+    organisation: Dover Dancers
+  - name: Zesty Contra Dance
+    details: The Zesty contra dance is for dancers with some experience with dancing. There is no lesson before the dance; and easier dances may be called with no walk through.
+    links:
+      - "https://cdss.org/event/zesty-contra-dance/2025-03-08/"
+    start: "2025-03-08T19:00:00-07:00"
+    end: "2025-03-08T22:00:00-07:00"
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Colorado Friends of Old Time Music and Dance
+  - name: San Luis Obispo Monthly Contra Dance
+    details: "Live music and gender-neutral calling at the monthly contra dance in San Luis Obispo, CA. Dances are monthly on the 2nd Saturday. 6:30 lesson, dancing until 9:30."
+    links:
+      - "https://www.cccds.org/schedule/"
+      - "https://cdss.org/event/san-luis-obispo-monthly-contra-dance/2025-03-08/"
+    start: "2025-03-08T18:30:00-08:00"
+    end: "2025-03-08T21:30:00-08:00"
+    country: USA
+    state: CA
+    city: San Luis Obispo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Central Coast Country Dance Society
+  - name: Sacramento Contra Dance
+    details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $12 for adults; $8 for college students with ID; $5 for dancers under 18; $25 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
+    links:
+      - "https://sactocds.wordpress.com/"
+      - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays/2025-03-08/"
+    start: "2025-03-08T19:00:00-08:00"
+    end: "2025-03-08T22:00:00-08:00"
+    country: USA
+    state: CA
+    city: Sacramento
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$25
+    organisation: Sacramento Country Dance Society
   - name: Carolina Meltdown
     details: "Come join us for an amazing contra dance weekend featuring the bands Topspin (Owen Morrison, Anna Patton, Emily Troll, & Stefan Amidon) and Hot Coffee Breakdown (Tom Cunningham, Kate Sanders, & Luis de Leon). Our wonderful callers will be Rick Mohr and Darlene Underwood. \nHosted by the Charlotte Contra Dancers and held at beautiful YMCA Camp Thunderbird in Lake Wylie, South Carolina. Visit our website for more details."
     links:
@@ -39098,11 +39159,11 @@ events:
       - Brad Foster
     organisation: AACTMAD
   - name: "#Dance Weekend"
-    details: "#Dance Weekend is an ultra challenging urban dance weekend featuring mind bending figures, non-gendered calling, and phenomenal music. Two days of amazing workshops, dancing, community, fun, and food in the fabulous open air, covered Bumper Car Pavilion; workshops throughout Glen Echo Park, Glen Echo, MD\n \nCallers: Lisa Greenleaf and River Rainbowface \nBands: Free Raisins (Audrey Jaber, Amy Engelsberg, Jeff Kaufman), and Bowrider (Kelsey Wells, Alex Sturbaum, Brian Lindsay)"
+    details: "#Dance Weekend is an ultra-challenging urban dance weekend featuring mind-bending figures, non-gendered calling, and phenomenal music. Two days of amazing workshops, dancing, community, fun, and food in the fabulous open-air, covered Bumper Car Pavilion; workshops throughout Glen Echo Park, Glen Echo, MD.\n \nCallers: Lisa Greenleaf and River Rainbowface \nBands: Free Raisins (Audrey Jaber, Amy Engelsberg, Jeff Kaufman), and Bowrider (Kelsey Wells, Alex Sturbaum, Brian Lindsay)."
     links:
-      - "https://cdss.org/event/dance-weekend-2/"
+      - "https://cdss.org/event/dance-weekend/2025-03-29/"
     start_date: 2025-03-29
-    end_date: 2025-03-30
+    end_date: 2025-03-29
     country: USA
     state: MD
     city: Glen Echo
@@ -39119,8 +39180,8 @@ events:
   - name: "#Dance Weekend"
     details: "#Dance Weekend is an ultra-challenging urban dance weekend featuring mind-bending figures, non-gendered calling, and phenomenal music. Two days of amazing workshops, dancing, community, fun, and food in the fabulous open-air, covered Bumper Car Pavilion; workshops throughout Glen Echo Park, Glen Echo, MD.\n \nCallers: Lisa Greenleaf and River Rainbowface \nBands: Free Raisins (Audrey Jaber, Amy Engelsberg, Jeff Kaufman), and Bowrider (Kelsey Wells, Alex Sturbaum, Brian Lindsay)."
     links:
-      - "https://cdss.org/event/dance-weekend/"
-    start_date: 2025-03-29
+      - "https://cdss.org/event/dance-weekend/2025-03-30/"
+    start_date: 2025-03-30
     end_date: 2025-03-30
     country: USA
     state: MD
@@ -39516,6 +39577,24 @@ events:
       - Alex Deis-Lauby
       - Will Mentor
     organisation: Bay Area Country Dance Society
+  - name: Dance Camp North 2025
+    details: "The Dam Beavers with caller Jeremy Korr \nDance Camp North is the signature weekend event of the Contra Borealis Dancers.  It takes place on Labor Day weekend each year.  There is a dance in Fairbanks Friday evening followed by a dance weekend at the Lost Lake Boy Scout Camp about 60 minutes south of Fairbanks. \nExcellent food, cabins or tent accommodations and bathrooms provided, but you bring your own bedding, up to 110 people enjoy the rural settings with a dance hall, workshop rooms, swimming or boating on Lost Lake, and nice fall hiking with great views of the Tanana River basin. Aurora viewing is a definite possibility."
+    links:
+      - "https://cdss.org/event/dance-camp-north-2025/"
+    start_date: 2025-08-29
+    end_date: 2025-09-01
+    country: USA
+    state: AK
+    city: Fairbanks
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Dam Beavers
+    callers:
+      - Jeremy Korr
+    organisation: Contra Borealis Dancers
   - name: Bear Hug Contra Dance Weekend
     details: "Come dance on the shores of beautiful Flathead Lake in Montana! Bear Hug is an all-inclusive camp, including food, cabins/camping, and use of boats and swimming. Dance to Countercurrent with Michael Karcher; more coming soon! \nPay-what-you-can."
     links:
@@ -39561,7 +39640,7 @@ events:
     start_date: 2025-10-17
     end_date: 2025-10-19
     country: USA
-    city: CT
+    city: AZ
     styles:
       - ecd
     workshop: false
@@ -39570,27 +39649,6 @@ events:
       - Beverly Francis
       - Dan Blim
     organisation: English Country Dancers of Columbus
-  - name: Pittsburgh Fall Dance Weekend
-    details: "Mark your calendars now to join us once again in the heart of Pittsburgh for our annual Fall Dance Weekend, happening Oct 17–19, 2025 at the Wightman School community building in the Squirrel Hill neighborhood! Dance all weekend long to music by \n\nThe Dam Beavers (Ben Schreiber, Scotty Leach, Ness Smith-Savedoff)\nTopspin (Anna Patton, Owen Morrison, Emily Troll, Stefan Amidon)\n\nwith calling by \n\nGaye Fifer and\n\nWill Mentor\n\nWatch this space for more details as they become known. Registration is expected to open by summer. \n$120 early admission, $75 for dancers under 25. After September 30 or at the door: add $20; $75 for financial need."
-    links:
-      - "https://cdss.org/event/pittsburgh-fall-dance-weekend/"
-    start: "2025-10-17T19:30:00-04:00"
-    end: "2025-10-19T15:00:00-04:00"
-    country: USA
-    state: PA
-    city: Pittsburgh
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - The Dam Beavers
-      - Topspin
-    callers:
-      - Gaye Fifer
-      - Will Mentor
-    price: $20-$120
-    organisation: Pittsburgh Contra Dance
   - name: Dance in the Desert
     details: "A weekend of contra dancing with lots of jamming, featuring music by The Faux Paws and The Free Raisins. Callers are Koren Wake and Steve Zakon-Anderson."
     links:
