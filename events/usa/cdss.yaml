@@ -10118,11 +10118,12 @@ events:
     social: true
     price: $10-$20
     organisation: Lake City Contra Dance
-  - name: "Contra Dance! Sue Rosen with Eileen O’Grady, Guillaume Sparrow-Pepin, and Donal Sheets"
+  - name: Contra Dance
     details: "Doors open at 6:45; introductory pre-dance workshop at 7:10pm. $10-15, sliding scale."
     links:
+      - "https://www.neffa.org/thursday-contras/"
       - "https://cdss.org/event/contra-dance-sue-rosen-with-eileen-ogrady-guillaume-sparrow-pepin-and-donal-sheets/"
-    start: "2025-03-06T19:30:00-05:00"
+    start: "2025-03-06T19:10:00-05:00"
     end: "2025-03-06T22:00:00-05:00"
     country: USA
     state: MA
@@ -10133,7 +10134,7 @@ events:
     social: true
     callers:
       - Sue Rosen
-    price: $10
+    price: $10-$15
     organisation: CDSS
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
@@ -10252,7 +10253,7 @@ events:
     links:
       - "http://www.hcdance.org/quiet-corner-contra/"
       - "https://cdss.org/event/quiet-corner-contra-dance-2/"
-    start: "2025-03-07T19:30:00-05:00"
+    start: "2025-03-07T19:15:00-05:00"
     end: "2025-03-07T22:30:00-05:00"
     country: USA
     state: CT
@@ -10261,6 +10262,8 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Kitch 'n Sync
     callers:
       - Don Veino
     price: $6-$13
@@ -10411,6 +10414,8 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Daev Clysdale & Susanne Maziarz
     callers:
       - Bev Bernbaum
     price: $22
@@ -10488,18 +10493,20 @@ events:
     links:
       - "https://www.worcesterdance.org/"
       - "https://cdss.org/event/worcester-contra-dance/"
-    start: "2025-03-08T19:30:00-05:00"
+    start: "2025-03-08T19:15:00-05:00"
     end: "2025-03-08T22:30:00-05:00"
     country: USA
     state: MA
     city: Worcester
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Joy Factor
     callers:
       - Don Heinold
-    price: $6-$25
+    price: $6-$12
     organisation: CDSS
   - name: Princeton English Country Dance
     details: "English Country Dance every 2nd Saturday (except November and December), 7:30-10:30."
@@ -10535,6 +10542,7 @@ events:
   - name: Lawrence Barn Dance Association Contra
     details: "Contra dance at Woodlawn Elementary School, Lawrence, KS. All ages welcome. Newcomers lesson at 7:00; dance starts at 7:30. \n$8-15 sliding scale \n$5 students\nunder 16 free"
     links:
+      - "https://lawrencecontra.wordpress.com/calendar/"
       - "https://cdss.org/event/lawrence-barn-dance-association-contra/"
     start: "2025-03-08T19:00:00-06:00"
     end: "2025-03-08T22:00:00-06:00"
@@ -10545,7 +10553,11 @@ events:
       - contra
     workshop: true
     social: true
-    price: $5-$8
+    bands:
+      - Coreopsis
+    callers:
+      - Jill Allen
+    price: $5-$15
     organisation: Lawrence Barn Dance Association
   - name: TopHill Music Contradance Party
     details: "Please check the Guiding Star Grange website for details. \nSchedule: There will be a newcomers workshop at 7:45pm. Please come early to help our new dancing friends! All are welcome! \nCost: $12-20 sliding scale \n\nHigh-level masks are mandated for this dance.\nPlease bring your own water bottle.\nUp-to-date vaccinations are encouraged but not required.\nIf you are not feeling well, please do not attend, but rather care for yourself and others and join us next time!\n\nSee venue website for this month’s details and Covid policy."
@@ -10858,9 +10870,10 @@ events:
     workshop: false
     social: true
     organisation: Nashville Country Dancers
-  - name: "Contra Dance for a Cause, Sunday 03/09/2025"
+  - name: Contra Dance for a Cause
     details: "Hosted by Arlington Knights of Columbus #109 \n\nWhen: Dance 6:00-9:00 pm (it is easy to learn the ropes here)\nWhat: For a great cause: Coats for Kids, The Campaign for People with Intellectual Disabilities OR EVkids (after covering the cost of holding the dance) and to celebrate the traditions of community dancing! AND you do not even need to know how!\nWho: It is a public and community shindig! All are welcome AND no need to bring a partner, as we partner up there and you will find a partner!\nWhy? To have one heck of a good time and support local charities!\nLive Music by: “Here on the Hill”!\nCaller: Don Heinold.\nAdmission: $15 suggested donation per person, or $10 for students per person!\nParking: plenty of well lighted parking.\nClothing & Footwear: Just bring clean shoes to dance in to preserve the floor (no high heels please). Dress is comfortable and as you like.\nRole Terms are: “Ladies & Gents” or “Women & Men” but dancers are welcome to choose whatever role that works for them. Some do with no worries."
     links:
+      - "https://www.kofc109.com/contra"
       - "https://cdss.org/event/contra-dance-for-a-cause-sunday-03-09-2025/"
     start: "2025-03-09T18:00:00-04:00"
     end: "2025-03-09T21:00:00-04:00"
@@ -10871,6 +10884,8 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Here on the Hill
     callers:
       - Don Heinold
     price: $10-$15
@@ -11425,6 +11440,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Dover New England Traditional Dance
     details: "A mix of contras, couple dances, triplets and square dances to live music. At least one “chestnut” is done each month. \nNo experience nor partner necessary. Dances are taught before the music and prompted while dancing. The experienced dancers are happy to help the new dancers because they are the future. \nAlthough you may choose your role, the traditional terms ladies and gents will be used. Updated vaccinations are strongly encouraged; masks are welcome but not required. \n$10; students $5"
@@ -11469,7 +11485,7 @@ events:
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-03-14/"
-    start: "2025-03-14T20:00:00-04:00"
+    start: "2025-03-14T19:30:00-04:00"
     end: "2025-03-14T23:00:00-04:00"
     country: USA
     state: MD
@@ -11478,6 +11494,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Missoula Folklore Society English Country Dance
     details: "Monthly ECD held October–May. All dances taught. Live and some recorded music. \n$5-$10 donations appreciated."
@@ -11500,7 +11517,7 @@ events:
     links:
       - "https://www.cfootmad.org/"
       - "https://cdss.org/event/denver-contra-dance/2025-03-14/"
-    start: "2025-03-14T19:30:00-06:00"
+    start: "2025-03-14T19:00:00-06:00"
     end: "2025-03-14T22:30:00-06:00"
     country: USA
     state: CO
@@ -11509,6 +11526,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $8-$15
     organisation: Colorado Friends of Old Time Music and Dance
   - name: Monrovia English Country Dance
     details: "Please join us for English Country Dancing on the 2nd and 4th Friday of every month from 7:30-10pm in the Guildhall of St Luke’s Episcopal Church. $5 admission (cash only). Beginners welcome! All dances are taught, walked through and called. No partner or costume required; just bring comfortable closed-toed shoes and a water bottle. We’re friendly, laid-back, and welcoming!"
@@ -11529,6 +11547,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, musicians, COVID policies, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6091"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2025-03-14/"
     start: "2025-03-14T19:30:00-07:00"
     end: "2025-03-14T22:30:00-07:00"
@@ -11539,6 +11558,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - David Macemon
     price: $7-$20
     organisation: CDSS
   - name: Lenox Contra Dance
@@ -11546,7 +11567,7 @@ events:
     links:
       - "https://lenoxcontradance.org/sched.php"
       - "https://cdss.org/event/lenox-contra-dance/2025-03-15/"
-    start: "2025-03-15T07:15:00-04:00"
+    start: "2025-03-15T19:15:00-04:00"
     end: "2025-03-15T22:30:00-04:00"
     country: USA
     state: MA
@@ -11555,7 +11576,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $8-$12
+    price: $8-$15
     organisation: Lenox Contra Dance
   - name: Carolina Meltdown
     details: "Come join us for an amazing contra dance weekend featuring the bands Topspin (Owen Morrison, Anna Patton, Emily Troll, & Stefan Amidon) and Hot Coffee Breakdown (Tom Cunningham, Kate Sanders, & Luis de Leon). Our wonderful callers will be Rick Mohr and Darlene Underwood. \nHosted by the Charlotte Contra Dancers and held at beautiful YMCA Camp Thunderbird in Lake Wylie, South Carolina. Visit our website for more details."
@@ -11981,9 +12002,10 @@ events:
       - Kalia Kliban
     price: $125
     organisation: North Bay Country Dance Society
-  - name: "30th Annual FolkMADness Music, Song & Dance Weekend"
+  - name: FolkMADness Music & Dance Camp
     details: "Bands and Music Workshops: \n\nJeffrey Spero and Ryan McKasson (Syncopaths) and Ness Smith-Savedoff (The Dam Beavers) \nLarry Unger (Notorious) and Eric Boodman (Calico) and Emily Troll (Pine Tree Flyers and Anadama)\nLindsay Taylor and Brian Nelson (Glorieta Pines)\nmore local musicians announced soon\n\nCalling and Dance workshops led by: Gaye Fifer and Alexandra Deis-Lauby \nSinging Workshops led by Deirdre Murtha"
     links:
+      - "http://folkmads.org/events/camps/folkmadness/"
       - "https://cdss.org/event/30th-annual-folkmadness-music-song-dance-weekend/"
     start_date: 2025-05-23
     end_date: 2025-05-26
@@ -11995,12 +12017,10 @@ events:
       - ecd
     workshop: true
     social: true
-    bands:
-      - Calico
-      - Notorious
-      - The Dam Beavers
     callers:
+      - Alex Deis-Lauby
       - Gaye Fifer
+    price: $90-$185
     organisation: FolkMADS
   - name: Meet Me In St Louis
     details: "Join us for 4 days of music, dance, and more, with music from Supertrad & The Mound City Slickers and calling by Emily Rush and you! \nRegister online at MMISL_Registration@childgrove.org"
