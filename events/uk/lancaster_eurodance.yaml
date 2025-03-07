@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Lancaster Eurodance
+    links:
+      - "https://www.lancaster-eurodance.org.uk/"
+    start: "2025-04-02T20:00:00+01:00"
+    end: "2025-04-02T23:00:00+01:00"
+    country: UK
+    city: Lancaster
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: £4
+    organisation: Lancaster Eurodance
