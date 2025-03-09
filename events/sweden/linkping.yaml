@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Dance evening
+    links:
+      - "https://www.facebook.com/events/1410019219968064/"
+    start: "2025-03-21T19:00:00+01:00"
+    end: "2025-03-21T22:00:00+01:00"
+    country: Sweden
+    city: Linköping
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    price: 100 SEK
+    organisation: Strängar & Rör
