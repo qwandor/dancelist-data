@@ -12596,13 +12596,14 @@ events:
       - contra
     workshop: false
     social: true
+    price: $10
     organisation: Charley Harvey
   - name: Contra at Guiding Star Grange
     details: "Caller and featured musicians vary each month; please check the Guiding Star Grange website for details. \nOther musicians are welcome to come and be part of the amorphous “Back Row Band.” \nSchedule: 8:00 PM: Contra Dancing for All; often a beginner session at 7:45. \nCost: $10 or barter equivalent \nSee venue website for this month’s details and Covid policy."
     links:
       - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/third-friday-contra-at-guiding-star-grange/2025-03-21/"
-    start: "2025-03-21T20:00:00-04:00"
+    start: "2025-03-21T19:45:00-04:00"
     end: "2025-03-21T23:00:00-04:00"
     country: USA
     state: MA
@@ -12620,7 +12621,7 @@ events:
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-03-21/"
-    start: "2025-03-21T20:00:00-04:00"
+    start: "2025-03-21T19:30:00-04:00"
     end: "2025-03-21T23:00:00-04:00"
     country: USA
     state: MD
@@ -12629,13 +12630,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Pittsburgh Contra Dance
     details: "Come dance to live music by Grayscale with caller Bob Devaty. Our free beginner lesson begins at 7:30pm. Complete beginners are welcome! As always, we will offer a couple waltzes during breaks.  \n$15 suggested donation"
     links:
       - "https://pittsburghcontra.org/"
       - "https://cdss.org/event/pittsburgh-contra-dance-5/"
-    start: "2025-03-21T20:00:00-04:00"
+    start: "2025-03-21T19:30:00-04:00"
     end: "2025-03-21T23:00:00-04:00"
     country: USA
     state: PA
@@ -12707,8 +12709,9 @@ events:
   - name: Mid-Winter Festival
     details: "The Mid-Winter Festival returns at a new location! Join us Saturday, March 22nd at Browne Academy in Alexandria, VA for this FREE folk festival, featuring musical performances, dance demonstrations, singing and instrument workshops, storytelling, family programing, and more! \nProgramming from 11am–6pm, plus community dance from 7–10pm. \nFeatured performers include Capital Accord Chorus, Capitol Hillbillies, Mortal Wombat, Rock Creek Morris Women, Foggy Bottom Morris Men, Ray Music, Archie Edwards Blues Heritage Foundation, Fiddlin’ Willie Band, and more!"
     links:
+      - "https://fsgw.org/mini-fest"
       - "https://cdss.org/event/mid-winter-festival/"
-    start: "2025-03-22T11:00:00-04:00"
+    start: "2025-03-22T19:00:00-04:00"
     end: "2025-03-22T22:00:00-04:00"
     country: USA
     state: VA
@@ -12717,6 +12720,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: free
     organisation: Folklore Society of Greater Washington
   - name: Gentle English Country Dance
     details: Please join us as we reinstate our Gentle English Dances! We hope to get these dances underway on a monthly basis.
@@ -12731,13 +12735,16 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Mike Franch
+    price: $10-$15
     organisation: CDSS
   - name: Berea 4th Saturday English Country Dance
     details: "We dance nearly every 4th Saturday from 4-6 pm, with a beginner workshop at 3:45 pm. We welcome everyone! All dances are taught and usually start off fairly simple and progress a bit in difficulty as the program unfolds. Held at the Russel Acton Folk Center, 212 Jefferson St, Berea, KY 40403. Admission: $5 adults, $3 students. \nWe are blessed with many callers from Berea, Lexington, Frankfort, and environs, so there are many callers throughout the evening. We also are blessed with talented local musicians who provide delightful music for our dances! \nJoin us! We are friendly and happy to welcome beginners and all levels of dancers. No partner or special clothing required. Flat, leather-soled shoes usually provide the best experience. Sometimes we are part of other events, such as Swing Shift (January), Hands Four dance weekend (April), or Balance the Star dance festival (September), where times will change. For more information, visit the website or call  859-869-8043."
     links:
       - "https://www.berea-folk-circle.org/english-country-dance"
       - "https://cdss.org/event/berea-4th-saturday-english-country-dance/2025-03-22/"
-    start: "2025-03-22T16:00:00-04:00"
+    start: "2025-03-22T15:45:00-04:00"
     end: "2025-03-22T18:00:00-04:00"
     country: USA
     state: KY
@@ -12748,9 +12755,10 @@ events:
     social: true
     price: $3-$5
     organisation: The Folk Circle Association of Berea
-  - name: Mendocino English Country Dance Workshop with Kalia Kliban
+  - name: Mendocino English Country Dance Workshop
     details: "All are invited to a free English Country Dance workshop with world renowned guest caller Kalia Kliban. Kalia’s clear and pleasant presentation of the dances will lead us through the basics, and complexities, of English Country Dance, using music recorded by excellent ECD musicians. \nThe workshop is from 2:00–3:30. Join us later, 7:30–10:00, for our regular monthly English Country Dance evening with Kalia, and Take a Dance, our long-time house band. Beginners welcome too! \nContact marykchampagne@gmail.com for any information you need."
     links:
+      - "https://www.mendoecd.org/event/free-workshop-with-kalia-kliban/"
       - "https://cdss.org/event/mendocino-english-country-dance-2/"
     start: "2025-03-22T14:00:00-07:00"
     end: "2025-03-22T15:30:00-07:00"
@@ -12761,10 +12769,9 @@ events:
       - ecd
     workshop: true
     social: true
-    bands:
-      - Take a Dance
     callers:
       - Kalia Kliban
+    price: free
     organisation: Mendocino English Country Dance
   - name: Jax Contra Dance
     details: "Monthly contra dance, occurring on the 4th Saturday of the month in Jacksonville, Florida (Riverside area). \n$10 adult, $5 child."
@@ -12832,6 +12839,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: Anaheim Contra Dance
     details: "Anaheim Contra Dances are held every 4th Saturday January-November 6:30-9:30pm PST. \nAlways live music! \nFamily-friendly, no partner required. \nEasy introductory lesson for beginners @ 6:30pm.\n\nFree parking."
@@ -12847,22 +12855,23 @@ events:
       - contra
     workshop: true
     social: true
+    price: $12-$18
     organisation: The Living Tradition
   - name: Sacramento Contra Dance
     details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $12 for adults; $8 for college students with ID; $5 for dancers under 18; $25 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
     links:
       - "https://sactocds.wordpress.com/"
       - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays/2025-03-22/"
-    start: "2025-03-22T19:00:00-07:00"
+    start: "2025-03-22T18:30:00-07:00"
     end: "2025-03-22T22:00:00-07:00"
     country: USA
     state: CA
     city: Sacramento
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
-    price: $5-$25
+    price: $5-$12
     organisation: Sacramento Country Dance Society
   - name: 4th Saturdays Contra Dance
     details: "Mark your calendars now for the next Saturday night dance at Fulton Hall. Dances are called using gender-neutral terms. \nCovid precautions are suspended indefinitely! We will continue to monitor potential exposures at PCDC events and adjust policies as needed. Refer to the PCDC Covid policy for details. \n\n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSome dancers head to a pub for “afters”—all are welcome!"
@@ -12878,6 +12887,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $6-$20
     organisation: CDSS
   - name: Melt Into Spring Ball Weekend
     details: "We’d love to see travelers at Ann Arbor’s Melt Into Spring Ball weekend March 28-29! The excellent Brad Foster will lead a Welcome English dance Friday night, ball practice/style workshop Saturday afternoon, and the Ball Saturday night, and Debbie Jackson, Josh Burdick, and Matt McCoy will play splendid music. All dance events are at Concourse Hall. Sunday morning there’s a potluck brunch at a private home, probably with some kind of discussion/activity with Brad. \nThis is likely to be a very nice weekend! Online registration is available at our website (small PayPal fee) or you can mail a check."
