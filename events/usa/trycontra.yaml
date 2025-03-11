@@ -2404,8 +2404,8 @@ events:
   - name: Contradancers Delight Holiday
     links:
       - "https://www.contradancersdelight.com/"
-    start_date: 2025-05-09
-    end_date: 2025-05-16
+    start: "2025-05-09T16:00:00-04:00"
+    end: "2025-05-16T12:00:00-04:00"
     country: USA
     state: TN
     city: Mountain City
@@ -2418,12 +2418,13 @@ events:
       - Playing with Fyre
       - Atlanta Folk Orchestra
       - Ed Howe & Friends
-      - The Buzz Band
+      - Buzz Band
     callers:
       - Terry Doyle
       - Bob Isaacs
       - Devin Pohly
       - Warren Doyle
+    price: $170-$260
     organisation: TryContra
   - name: Butterfly Whirl
     links:
@@ -3268,12 +3269,12 @@ events:
     organisation: Dancing Fish
   - name: Contradancers Delight Holiday
     links:
-      - "http://www.contradancersdelight.com/about-winter-cdh"
+      - "http://www.contradancersdelight.com/"
     start_date: 2025-12-26
     end_date: 2025-12-31
     country: USA
     state: WV
-    city: "Morgantown,"
+    city: Morgantown
     styles:
       - contra
     workshop: true
@@ -3281,7 +3282,7 @@ events:
     bands:
       - Toss the Possum
       - Spintuition
-      - The Buzz Band
+      - Buzz Band
       - George Paul
     callers:
       - Terry Doyle
