@@ -13047,7 +13047,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance-2/2025-03-23/"
-    start: "2025-03-23T16:00:00-04:00"
+    start: "2025-03-23T15:30:00-04:00"
     end: "2025-03-23T18:15:00-04:00"
     country: USA
     state: NC
@@ -13056,6 +13056,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: free
     organisation: CDSS
   - name: Hayward Contra Dance
     details: "We typically dance on the 2nd & 4th Sunday of each month. \nFor years, the Hayward Contra has drawn dancers from all over the Bay Area and beyond. \nSome of the unique features that have drawn a loyal following are: \nHayward is centrally located and the venue, The Hill and Valley Club, 1808 ‘B’ Street, Hayward, CA, is easy to reach by BART or car. \nAs a weekend dance, we have attracted dancers with busy work schedules. \nMeeting in the afternoon from 4-7pm, dancers coming from greater distances were able to manage the travel time both before and after the dances. \nOur venue, the Hill and Valley Club, is one of the airiest dance halls in the bay area. \nThese features have allowed us to attract a very diverse multigenerational crowd that is comfortable with our gender-neutral atmosphere. \nDetails at our website. \nWe also have a Facebook group."
@@ -13071,6 +13072,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15-$20
     organisation: CDSS
   - name: English Country Dance at Tapestry Folkdance Center
     details: "Every Sunday \nSmall Studio\n7:00 – 9:00 pm \n\n\n\n\n\n\n\n2nd Sunday of the Month\nLive Music with Anytime English Players | 6:30 – 9:00 pm \n​Cost:\n​Recorded Music:  $12 General Admission | $9 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\nLive Music: $15 General Admission | $12 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\n\n​“Pay What You Choose” first seven days of every month (1st through the 7th) – Newcomers especially encouraged to attend! \n\n\n\n\n\n\n\nEnglish country dancing is an accessible social dance form with a history going back several centuries. This is the dancing of Queen Elizabeth I, of Jane Austen, and a living tradition that inspires musical compositions and choreographies today. The music can be stately or spritely, traditional or modern, recorded or live. It is danced with simple walking or skipping steps in time to the music. All dances are taught and are usually done in “long-ways sets” with partners facing in lines down the hall. After a walk-through, the easy-to-learn figures are called throughout the dance as you interact with other couples in your set and then move on to the next and repeat.\n​\nYou can come by yourself and be assured of dancing throughout the evening, since our tradition is to welcome and teach beginners and change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience.  English country dance will satisfy your wish for pleasurable exercise, a warm social community, mental stimulation, or even transcendent aesthetic experiences. We invite you to join us!"
@@ -13086,24 +13088,23 @@ events:
       - ecd
     workshop: true
     social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: Contra Dance in St Louis
     details: Weekly contra dance in St Louis area (actually Webster Groves MO). Always great live music. First dance each month features open calling.
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2025-03-23/"
-    start: "2025-03-23T19:00:00-05:00"
+    start: "2025-03-23T18:30:00-05:00"
     end: "2025-03-23T21:30:00-05:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Melt Into Spring Ball Weekend
     details: "We’d love to see travelers at Ann Arbor’s Melt Into Spring Ball weekend March 28-29! The excellent Brad Foster will lead a Welcome English dance Friday night, ball practice/style workshop Saturday afternoon, and the Ball Saturday night, and Debbie Jackson, Josh Burdick, and Matt McCoy will play splendid music. All dance events are at Concourse Hall. Sunday morning there’s a potluck brunch at a private home, probably with some kind of discussion/activity with Brad. \nThis is likely to be a very nice weekend! Online registration is available at our website (small PayPal fee) or you can mail a check."
@@ -13472,6 +13473,7 @@ events:
   - name: Dancing Bears Dance Camp
     details: "The Dancing Bears Dance Camp is held every Memorial Day Weekend at King’s Lake Camp in Wasilla, Alaska. Our next camp will be May 23-26, 2025 with calling by Will Mentor and Lindsey Dono and music by River Road (Jesse Ball, Sarah-Hadley Yakir, Kristin Planeaux) and Rhys Jones and the Imaginary Beings (Rhys Jones, Nogosee Fields, Mandy King, Brian DeMarcus)."
     links:
+      - "https://www.thedancingbears.org/dance-camp-1"
       - "https://cdss.org/event/dancing-bears-dance-camp/"
     start_date: 2025-05-23
     end_date: 2025-05-26
@@ -13480,10 +13482,11 @@ events:
     city: Wasilla
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     bands:
       - River Road
+      - Rhys Jones and the Imaginary Beings
     callers:
       - Lindsey Dono
       - Will Mentor
@@ -13512,6 +13515,7 @@ events:
     details: "Join us for an action-packed music adventure complete with a ceilidh dance, a contradance, 7 concerts, over 20 workshops, and endless jamming. Make memories, form friendships, and take your playing to the next level during a fun and friendly weekend at Juniata College. Early Bird Registration ends April 15, 2025."
     links:
       - "https://cdss.org/event/folk-college/"
+      - "https://cdss.org/event/folk-college-contradance/"
     start: "2025-05-23T15:00:00-04:00"
     end: "2025-05-25T17:30:00-04:00"
     country: USA
@@ -13519,8 +13523,14 @@ events:
     city: Huntingdon
     styles:
       - contra
+      - s-ceilidh
     workshop: true
     social: true
+    bands:
+      - Midnight on the Water
+    callers:
+      - Bob Nicholson
+    price: $250-$300
     organisation: CDSS
   - name: Meet Me In St Louis
     details: "Join us for 4 days of music, dance, and more, with music from Supertrad & The Mound City Slickers and calling by Emily Rush and you! \nRegister online at MMISL_Registration@childgrove.org"
@@ -13544,22 +13554,6 @@ events:
       - Emily Rush
     price: $55-$110
     organisation: Childgrove Country Dancers
-  - name: Folk College Contradance
-    details: "Join us at Rosenberger Auditorium for a band-packed concert featuring Jamie Anderson, Midnight on the Water, and Acoustic Nomads. End your evening with a high energy contradance expertly led by Bob Nicholson."
-    links:
-      - "https://cdss.org/event/folk-college-contradance/"
-    start: "2025-05-24T19:00:00-04:00"
-    end: "2025-05-24T22:00:00-04:00"
-    country: USA
-    state: PA
-    city: Huntingdon
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Midnight on the Water
-    organisation: CDSS
   - name: Flamingo Fling
     details: Flamingo Fling is Oklahoma City’s annual Contra Dance weekend! This year will feature Alex Deis-Lauby calling and music from River Road!
     links:
