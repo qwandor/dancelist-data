@@ -1474,6 +1474,7 @@ events:
     city: Eindhoven
     styles:
       - balfolk
+      - scandi
     workshop: true
     social: true
     bands:
@@ -1947,6 +1948,9 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Duo Brotto Milleret
+      - Groove Factory
     price: €15-€20
     organisation: balfolk.nl
   - name: Dansavond
@@ -2441,7 +2445,7 @@ events:
     social: true
     price: €5
     organisation: balfolk.nl
-  - name: VAN HIER Festival 2025
+  - name: VAN HIER Festival
     details: "De tweede editie van het VAN HIER Festival in Westelbeers kent weer een dansvloer en meerdere balfolkoptredens. Dit kleinschalige evenement in de \"achtertuin\" van de Cultuurboerderij in Westelbeers heeft in totaal drie podia waarvan er één met enkel balfolk. Vier bands zullen daar gaan spelen:\n\n \tKabál (BE/NL)\n \tParacetamol (NL)\n \tMomiro (NL)\n \t(nnnb)\n\nEntree:\n\n \t€15 vroege vogels (t/m 15 maart)\n \t€20 voorverkoop\n \t€25 aan de kassa"
     links:
       - "https://www.balfolk.nl/agenda/van-hier-festival-2025/"
@@ -2452,8 +2456,9 @@ events:
     styles:
       - balfolk
     workshop: false
-    social: false
+    social: true
     bands:
+      - Kabál
       - Momiro
       - Paracetamol
     price: €15-€25
@@ -2640,7 +2645,7 @@ events:
     social: true
     price: €5
     organisation: balfolk.nl
-  - name: Folkbal Wilhelmina — Diaton (B/DE)
+  - name: Folkbal Wilhelmina
     details: "Deze maand speelt een internationaal duo in ons café: Diaton bestaat uit Simon Gielen en Johannes Uhlmann. Beiden meesters op de diatonische accordeon."
     links:
       - "https://www.balfolk.nl/agenda/folkbal-wilhelmina-diaton-b-de/"
@@ -2652,19 +2657,9 @@ events:
       - balfolk
     workshop: true
     social: true
-    organisation: balfolk.nl
-  - name: Balfolk intensive
-    details: "Dansweekend waar de gevorderde balfolkdanser zich 2,5 dag kan verdiepen.\n\n \n\n𝗟𝗲𝘁'𝘀 𝗴𝗲𝘁 𝗯𝗲𝘆𝗼𝗻𝗱 𝘁𝗵𝗲 𝘀𝘁𝗲𝗽𝘀...\n\nHeb je je ooit afgevraagd \"Wie ben ik als danser en wie zou ik willen zijn?\"\n\nDeze intensive is een danservaring die (ervaren) dansers ertoe leidt hun volledige potentieel te bereiken om hun dans te ontwikkelen en dieper te duiken in beweging, lichaamscontrole en co-creatie (improvisatie). Na een succesvolle editie in 2022, 2023 en 2024, komt er een nieuwe editie eind dit jaar.\n\n \n\nMAX. AANTAL PLAATSEN: 16\n\nTAAL: Nederlands\n\nDUUR: 2,5 dag\n\nAANMELDEN: link volgt\n\n \n\n𝗪𝗮𝘁 𝗶𝘀 𝗲𝗲𝗻 𝗶𝗻𝘁𝗲𝗻𝘀𝗶𝘃𝗲: Een weekend op een besloten locatie om je te verdiepen in dans, je eigen lichaam en een ontwikkelproces aan te gaan met behulp van gespecialiseerde workshops. Met veel persoonlijke aandacht en gerichte oefeningen. Een intensive onderscheidt zich van een enkele workshop in een totaal opbouw met dieper detailniveau waarop wordt gewerkt. Met persoonlijke feedback uit de groep en van docent(en). De intensive is gericht op dansers die willen groeien en vanuit een technischere basis willen leren bewegen. Met als doel uiteindelijk meer vrijheid in hun dans te kunnen vinden (betere connectie en meer variatie). De duur van de intensive geeft de mogelijkheid om langer stil te staan bij onderwerpen en te werken met ervarend leren. Waarbij ruimte wordt gemaakt voor het invullen van een persoonlijk leerdoel."
-    links:
-      - "https://www.balfolk.nl/agenda/balfolk-intensive/"
-    start: "2025-11-14T16:00:00+01:00"
-    end: "2025-11-16T22:00:00+01:00"
-    country: Netherlands
-    city: Ubbergen (Nijmegen)
-    styles:
-      - balfolk
-    workshop: true
-    social: false
+    bands:
+      - DiaTon
+    price: €10
     organisation: balfolk.nl
   - name: Balfolk Social
     details: "Balfolk op zondag\nDe Mezrab host iedere derde zondag van de maand het leukste Balfolkfeestje van Amsterdam. Bestel hier alvast een ticket en kom dansen op de livemuziek van ... en ....\n\nTicket\n- Voorverkoop: 16 euro\n- Aan de deur: 18 euro\nTickets >>>\n\nProgramma\n16:15 Deuren open16:30 Dansworkshop voor beginners\n17:30 Bal met ...\n18:00 Pauze\n19:00 Bal met ...21:00 Sessie\n\nBands\n\n \t...\n\n\n\nBeschrijving volgt\n\n\n\n \t...\n\nBeschrijving volgt\n\nLocatie\nMezrab draagt Balfolk een warm hart toe en nodigt ons iedere maand uit te komen dansen. Je kunt in de Mezrab op andere dagen vooral terecht voor storytelling. Het café dient als inspiratiebron voor vele theaters, centra, musea en festivals om ook storytelling te programmeren. Mezrab programmeert meerdere keren per week regelmatig vertelavonden. Op de andere avonden wordt storytelling gecombineerd met andere kunstdisciplines (dans, beeldende kunst, poëzie, etc.) en een wereldmuziekprogramma.\n\nEr is plek voor zo'n 100 dansers.\n\nAdres:\nMezrab\nVeemkade 576\n1019 BL Amsterdam\n\nFotocredit\nBalfolk Amsterdam"
@@ -2749,7 +2744,7 @@ events:
     social: true
     price: €5
     organisation: balfolk.nl
-  - name: Folkbal Wilhelmina — Momiro (NL)
+  - name: Folkbal Wilhelmina
     details: "Met de verhuizing van Tim naar Zweden was het voor Andoorn moeilijk om als groep op de been te blijven. De mannen Kris, Wouter en Jasper bleven achter EN samen muziek maken, onder de naam Momiro. Oftewel: doedels en snaren!"
     links:
       - "https://www.balfolk.nl/agenda/folkbal-wilhelmina-momiro-nl/"
@@ -2763,6 +2758,7 @@ events:
     social: true
     bands:
       - Momiro
+    price: €10
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
