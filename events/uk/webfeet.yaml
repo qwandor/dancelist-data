@@ -1,37 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: The Linda Game Band in Englefield Green
-    links:
-      - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
-    start_date: 2024-12-08
-    end_date: 2024-12-08
-    country: UK
-    city: Englefield Green
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - The Linda Game Band
-    callers:
-      - Charlie Turner
-    organisation: Webfeet
-  - name: "Melrose Quintet in Chandler's Ford"
-    links:
-      - "http://www.shocc.co.uk/"
-    start_date: 2024-12-14
-    end_date: 2024-12-14
-    country: UK
-    city: "Chandler's Ford"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Melrose Quintet
-    callers:
-      - Ian Nichols
-    organisation: Webfeet
   - name: Bosun Higgs in Chippenham
     links:
       - "https://www.bosunhiggs.co.uk/gig-diary.html"
@@ -217,120 +185,6 @@ events:
     callers:
       - Emma Wooders
     organisation: Webfeet
-  - name: Portmanteau in Sheffield
-    links:
-      - "https://portmanteaufolk.com/"
-    start_date: 2025-02-28
-    end_date: 2025-02-28
-    country: UK
-    city: Sheffield
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Portmanteau
-    organisation: Webfeet
-  - name: Cheltenham Ceilidh Band in Cheltenham
-    links:
-      - "http://mister.red/dance/cheltenham.htm#D.DA.20250301"
-    start_date: 2025-03-01
-    end_date: 2025-03-01
-    country: UK
-    city: Cheltenham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Cheltenham Ceilidh Band
-    organisation: Webfeet
-  - name: Spinach for Norman in Exeter
-    links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2025-03-01
-    end_date: 2025-03-01
-    country: UK
-    city: Exeter
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Spinach for Norman
-    organisation: Webfeet
-  - name: "sessionista in Bath French, Bath"
-    links:
-      - "http://mister.red/dance/bath.htm#D.AL.20250302"
-    start_date: 2025-03-02
-    end_date: 2025-03-02
-    country: UK
-    city: "Bath French, Bath"
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - sessionista
-    organisation: Webfeet
-  - name: live music in Bath
-    links:
-      - "http://mister.red/dance/bath.htm#D.AN.20250305"
-    start_date: 2025-03-05
-    end_date: 2025-03-05
-    country: UK
-    city: Bath
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: Dave Byett in Frenchay
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AC.20250305"
-    start_date: 2025-03-05
-    end_date: 2025-03-05
-    country: UK
-    city: Frenchay
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Dave Byett
-    callers:
-      - Jean & Friends
-    organisation: Webfeet
-  - name: "Baily's Beads in Witcombe"
-    links:
-      - "http://mister.red/dance/gloucester.htm#D.VB.20250305"
-    start_date: 2025-03-05
-    end_date: 2025-03-05
-    country: UK
-    city: Witcombe
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Baily's Beads"
-    organisation: Webfeet
-  - name: Keel Band in Norwich
-    links:
-      - "http://www.mardles.org/mardles/ceilidhs/"
-    start_date: 2025-03-07
-    end_date: 2025-03-07
-    country: UK
-    city: Norwich
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Keel Band
-    organisation: Webfeet
   - name: Hekety in Kennington
     links:
       - "http://mister.red/dance/oxford.htm#D.FR.20250308"
@@ -379,20 +233,6 @@ events:
       - own music
     callers:
       - Jean Crook
-    organisation: Webfeet
-  - name: Banter in Bath
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2025-03-13
-    end_date: 2025-03-13
-    country: UK
-    city: Bath
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
     organisation: Webfeet
   - name: Vertical Expression in Baldock
     links:
@@ -518,6 +358,20 @@ events:
     callers:
       - Jane Bird
     organisation: Webfeet
+  - name: Famous Potatoes in Rugby
+    links:
+      - "http://famouspotatoes.co.uk/events/hoedown-at-rochford-rugby-club/"
+    start_date: 2025-03-15
+    end_date: 2025-03-15
+    country: UK
+    city: Rugby
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Famous Potatoes
+    organisation: Webfeet
   - name: sessionista in Bristol
     links:
       - "http://mister.red/dance/bristol.htm#D.AI.20250316"
@@ -620,20 +474,6 @@ events:
     bands:
       - Live Music
     organisation: Webfeet
-  - name: Catsfield Steamers in Canterbury
-    links:
-      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
-    start_date: 2025-03-22
-    end_date: 2025-03-22
-    country: UK
-    city: Canterbury
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Catsfield Steamers
-    organisation: Webfeet
   - name: "Jigfoot in Chandler's Ford"
     links:
       - "http://www.shocc.co.uk/"
@@ -650,6 +490,20 @@ events:
       - Jigfoot
     callers:
       - Barry Goodman
+    organisation: Webfeet
+  - name: Join the Dots in Ludlow
+    links:
+      - "http://mister.red/dance/ludlow.htm#D.AY.20250322"
+    start_date: 2025-03-22
+    end_date: 2025-03-22
+    country: UK
+    city: Ludlow
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Join the Dots
     organisation: Webfeet
   - name: Banter in Newstead
     links:
@@ -835,7 +689,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DB.20250405"
+      - "http://mister.red/dance/cheltenham.htm#D.DA.20250405"
     start_date: 2025-04-05
     end_date: 2025-04-05
     country: UK
@@ -893,6 +747,20 @@ events:
       - Pair of
     callers:
       - Pat Hicks
+    organisation: Webfeet
+  - name: Hartwin Dhoore in Bristol
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AW.20250409"
+    start_date: 2025-04-09
+    end_date: 2025-04-09
+    country: UK
+    city: Bristol
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Hartwin Dhoore
     organisation: Webfeet
   - name: Frog on a Bike in Baldock
     links:
@@ -972,6 +840,22 @@ events:
       - Rainbow Folk
     callers:
       - Lisa Heywood
+    organisation: Webfeet
+  - name: Jeroka in Bridport
+    links:
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2025-04-12
+    end_date: 2025-04-12
+    country: UK
+    city: Bridport
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Jeroka
+    callers:
+      - Ruth Thompson
     organisation: Webfeet
   - name: Trinculo in Kennington
     links:
@@ -1128,7 +1012,7 @@ events:
     organisation: Webfeet
   - name: Randwick All Stars in Randwick
     links:
-      - "http://mister.red/dance/stroud.htm#D.AW.20250421"
+      - "http://mister.red/dance/stroud.htm#D.AV.20250421"
     start_date: 2025-04-21
     end_date: 2025-04-21
     country: UK
@@ -1231,6 +1115,20 @@ events:
     bands:
       - Portland Duo
     organisation: Webfeet
+  - name: live music in Bath
+    links:
+      - "http://mister.red/dance/bath.htm#D.AN.20250430"
+    start_date: 2025-04-30
+    end_date: 2025-04-30
+    country: UK
+    city: Bath
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - live music
+    organisation: Webfeet
   - name: Dave Byett in Frenchay
     links:
       - "http://mister.red/dance/bristol.htm#D.AC.20250430"
@@ -1262,6 +1160,20 @@ events:
       - Martin et al
     callers:
       - "- in Rugby Club ("
+    organisation: Webfeet
+  - name: "sessionista in Bath French, Bath"
+    links:
+      - "http://mister.red/dance/bath.htm#D.AL.20250504"
+    start_date: 2025-05-04
+    end_date: 2025-05-04
+    country: UK
+    city: "Bath French, Bath"
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - sessionista
     organisation: Webfeet
   - name: The Bash Street Dance Band in Bradfield
     links:
@@ -1457,7 +1369,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DC.20250510"
+      - "http://mister.red/dance/cheltenham.htm#D.DB.20250510"
     start_date: 2025-05-10
     end_date: 2025-05-10
     country: UK
@@ -1485,6 +1397,20 @@ events:
       - Panjandrum
     callers:
       - Nancy Potts
+    organisation: Webfeet
+  - name: Catsfield Steamers in Eastbourne
+    links:
+      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
+    start_date: 2025-05-15
+    end_date: 2025-05-15
+    country: UK
+    city: Eastbourne
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Catsfield Steamers
     organisation: Webfeet
   - name: Audrey Leigh Jaber and Bruce Rosen all from USA. in Alcester
     links:
@@ -1669,7 +1595,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DD.20250607"
+      - "http://mister.red/dance/cheltenham.htm#D.DC.20250607"
     start_date: 2025-06-07
     end_date: 2025-06-07
     country: UK
@@ -1710,6 +1636,20 @@ events:
       - Portland Duo
     callers:
       - Geoff Cubitt
+    organisation: Webfeet
+  - name: Jigfoot in Wimborne Minster
+    links:
+      - "https://www.jigfoot.com/google-calendar/"
+    start_date: 2025-06-07
+    end_date: 2025-06-07
+    country: UK
+    city: Wimborne Minster
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Jigfoot
     organisation: Webfeet
   - name: Remix Reeling in Bristol
     links:
@@ -1837,7 +1777,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DE.20250705"
+      - "http://mister.red/dance/cheltenham.htm#D.DD.20250705"
     start_date: 2025-07-05
     end_date: 2025-07-05
     country: UK
@@ -1848,6 +1788,20 @@ events:
     social: true
     bands:
       - Cheltenham Ceilidh Band
+    organisation: Webfeet
+  - name: Catsfield Steamers in Winchelsea
+    links:
+      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
+    start_date: 2025-07-05
+    end_date: 2025-07-05
+    country: UK
+    city: Winchelsea
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Catsfield Steamers
     organisation: Webfeet
   - name: Blackbeards Tea Party in Ely
     links:
@@ -1955,7 +1909,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DF.20250906"
+      - "http://mister.red/dance/cheltenham.htm#D.DE.20250906"
     start_date: 2025-09-06
     end_date: 2025-09-06
     country: UK
@@ -1983,9 +1937,10 @@ events:
     callers:
       - Liam Binley
     organisation: Webfeet
-  - name: Naragonia Duo in Cirencester
+  - name: Naragonia in Cirencester
     links:
       - "https://balfolkstroud.uk/cps/gigs/naragoniaduo-f4e4d4.php"
+      - "http://mister.red/dance/cirencester.htm#D.AX.20250913"
     start_date: 2025-09-13
     end_date: 2025-09-13
     country: UK
@@ -1995,6 +1950,7 @@ events:
     workshop: false
     social: true
     bands:
+      - Naragonia
       - Naragonia Duo
     organisation: Webfeet
   - name: Box of Frogs in Englefield Green
@@ -2046,7 +2002,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DG.20251004"
+      - "http://mister.red/dance/cheltenham.htm#D.DF.20251004"
     start_date: 2025-10-04
     end_date: 2025-10-04
     country: UK
@@ -2165,7 +2121,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DH.20251101"
+      - "http://mister.red/dance/cheltenham.htm#D.DG.20251101"
     start_date: 2025-11-01
     end_date: 2025-11-01
     country: UK
@@ -2292,7 +2248,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DI.20251206"
+      - "http://mister.red/dance/cheltenham.htm#D.DH.20251206"
     start_date: 2025-12-06
     end_date: 2025-12-06
     country: UK
