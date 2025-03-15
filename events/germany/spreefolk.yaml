@@ -1311,8 +1311,7 @@ events:
       - Ciac Boum
     price: €16-€25
     organisation: Spreefolk e.V.
-  - name: Folk & Dance at Schäfersee
-    details: "Tanznachmittag mit Live-Musik\nSo 13.04.2025 15-17 Uhr\n-weitere Infos folgen bald-\n \nOrt: M5 am Franz-Neumann-Platz, Markstraße 5, 13409 Berlin\nDer Eintritt ist frei\n Eine Veranstaltung der NaturFreunde Berlin in Zusammenarbeit mit Spreefolk e.V."
+  - name: Folk & Dance at Schäfersee-Bals Occitans
     links:
       - "https://spreefolk.de/events/2504-tanz-m5"
     start: "2025-04-13T15:00:00+02:00"
@@ -1323,8 +1322,24 @@ events:
       - balfolk
     workshop: false
     social: true
-    price: free
+    bands:
+      - Kördeböf
     organisation: NaturFreunde Berlin
+  - name: Tanz zum Frühlingsfest
+    links:
+      - "https://spreefolk.de/events/2505-fruehlingsfest"
+    start: "2025-05-10T15:00:00+02:00"
+    end: "2025-05-10T20:00:00+02:00"
+    country: Germany
+    city: Berlin
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - I Pizzicati
+      - Kördeböf
+    organisation: Quartiersmanagement Auguste-Viktoria-Allee und SmArt GbR
   - name: TANZhaus WABE
     details: Infos folgen bald
     links:
