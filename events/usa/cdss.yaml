@@ -13807,7 +13807,7 @@ events:
     links:
       - "https://capitalcitygrange.org/dancing/contradancing/"
       - "https://cdss.org/event/montpelier-contra-dance/2025-03-29/"
-    start: "2025-03-29T20:00:00-04:00"
+    start: "2025-03-29T19:40:00-04:00"
     end: "2025-03-29T23:00:00-04:00"
     country: USA
     state: VT
@@ -13823,7 +13823,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2025-03-29/"
-    start: "2025-03-29T20:00:00-05:00"
+    start: "2025-03-29T19:30:00-05:00"
     end: "2025-03-29T23:00:00-05:00"
     country: USA
     state: MN
@@ -13873,6 +13873,7 @@ events:
   - name: BACDS Playford Ball
     details: "Registration for the Bay Area Country Dance Society’s Playford Ball is open!  Join us for “One Charming Night” at the lovely San Jose Womans Club.  We’ll have a fun program by dancing master David Newitt and music by our beloved Charlie Hancock, Shira Kammen, and Jim Oakden, with special guest Caroline Armitage. Plus an amazing and amusing array of refreshments.  $55 until March 15, $60 March 16 or later.  Other weekend events include a Friday rehearsal dance and Sunday Brunch."
     links:
+      - "https://www.bacds.org/events/playfordball2025/"
       - "https://cdss.org/event/bacds-playford-ball/"
     start: "2025-03-29T19:15:00-07:00"
     end: "2025-03-29T23:00:00-07:00"
@@ -13917,6 +13918,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: Louisville English Country Dancers
   - name: 5th Sunday English Country Dance
     details: "HATDS ECD meets most 1st, 3rd, and 5th Sundays. All levels are welcomed at the 1st and 3rd Sundays. 5th Sunday dances are usually, but not always, for experienced dancers. The schedule sometimes changes, so check our event calendar before coming."
@@ -13932,11 +13934,12 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Houston Area Traditional Dance Society
   - name: Sebastopol 5th Sunday Advanced English Dance
     details: "The Sebastopol 5th Sunday dance is a chance for our callers, dancers and musicians to enjoy an afternoon of challenging material and streamlined teaching. We expect dancers attending these sessions to be completely comfortable with heys for 3 and 4, dolphin heys, double figure 8s, and triple minor progression. They should also be able to maintain their sense of orientation within the set. This is not the time to bring your friends who are new to English country dancing, though we’d love to see them at the 1st and 3rd Sundays. \nNote: We occasionally change our venue or time to accommodate special events, so please check the NBCDS calendar to confirm."
     links:
-      - "https://nbcds.org/english-country-dance/"
+      - "https://nbcds.org/event/sebastopol-advanced-english-country-dance-2-2022-07-31-2023-10-29-2024-06-30-2024-09-29-2024-12-29-2025-03-30/"
       - "https://cdss.org/event/sebastopol-5th-sunday-advanced-english-dance/2025-03-30/"
     start: "2025-03-30T14:00:00-07:00"
     end: "2025-03-30T16:30:00-07:00"
@@ -13947,6 +13950,9 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Margaret Bary
+    price: $5-$15
     organisation: North Bay Country Dance Society
   - name: Hayward Contra Dance
     details: "We typically dance on the 2nd & 4th Sunday of each month. \nFor years, the Hayward Contra has drawn dancers from all over the Bay Area and beyond. \nSome of the unique features that have drawn a loyal following are: \nHayward is centrally located and the venue, The Hill and Valley Club, 1808 ‘B’ Street, Hayward, CA, is easy to reach by BART or car. \nAs a weekend dance, we have attracted dancers with busy work schedules. \nMeeting in the afternoon from 4-7pm, dancers coming from greater distances were able to manage the travel time both before and after the dances. \nOur venue, the Hill and Valley Club, is one of the airiest dance halls in the bay area. \nThese features have allowed us to attract a very diverse multigenerational crowd that is comfortable with our gender-neutral atmosphere. \nDetails at our website. \nWe also have a Facebook group."
@@ -13962,7 +13968,9 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15-$20
     organisation: CDSS
+    cancelled: true
   - name: English Country Dance at Tapestry Folkdance Center
     details: "Every Sunday \nSmall Studio\n7:00 – 9:00 pm \n\n\n\n\n\n\n\n2nd Sunday of the Month\nLive Music with Anytime English Players | 6:30 – 9:00 pm \n​Cost:\n​Recorded Music:  $12 General Admission | $9 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\nLive Music: $15 General Admission | $12 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\n\n​“Pay What You Choose” first seven days of every month (1st through the 7th) – Newcomers especially encouraged to attend! \n\n\n\n\n\n\n\nEnglish country dancing is an accessible social dance form with a history going back several centuries. This is the dancing of Queen Elizabeth I, of Jane Austen, and a living tradition that inspires musical compositions and choreographies today. The music can be stately or spritely, traditional or modern, recorded or live. It is danced with simple walking or skipping steps in time to the music. All dances are taught and are usually done in “long-ways sets” with partners facing in lines down the hall. After a walk-through, the easy-to-learn figures are called throughout the dance as you interact with other couples in your set and then move on to the next and repeat.\n​\nYou can come by yourself and be assured of dancing throughout the evening, since our tradition is to welcome and teach beginners and change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience.  English country dance will satisfy your wish for pleasurable exercise, a warm social community, mental stimulation, or even transcendent aesthetic experiences. We invite you to join us!"
     links:
@@ -13977,24 +13985,23 @@ events:
       - ecd
     workshop: true
     social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: Contra Dance in St Louis
     details: Weekly contra dance in St Louis area (actually Webster Groves MO). Always great live music. First dance each month features open calling.
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2025-03-30/"
-    start: "2025-03-30T19:00:00-05:00"
+    start: "2025-03-30T18:30:00-05:00"
     end: "2025-03-30T21:30:00-05:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Set for Spring
     details: "Set for Spring is an ECD weekend that rotates between Austin, Houston, Dallas, and Oklahoma City! This year’s SFS features Joanna Reiner calling and Karen Axelrod, Eric Martin, and Anna Patton playing music. We look forward to a fabulous time!"
