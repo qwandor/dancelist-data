@@ -283,7 +283,6 @@ events:
     details: "[To Be Confirmed]"
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
-      - "http://www.sadfolk.co.uk/listings.php"
     start_date: 2025-03-14
     end_date: 2025-03-14
     country: UK
@@ -294,36 +293,6 @@ events:
     social: true
     bands:
       - Arish Mel
-    organisation: Webfeet
-  - name: Banter in Manchester
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2025-03-14
-    end_date: 2025-03-14
-    country: UK
-    city: Manchester
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
-  - name: 3 Sticks in Weedon Bec
-    links:
-      - "https://www.efdss.org/calendar-events/14872-1ae6464c6b5d51b363d7d96f97132c75"
-    start_date: 2025-03-14
-    end_date: 2025-03-14
-    country: UK
-    city: Weedon Bec
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - 3 Sticks
-    callers:
-      - Lisa Heywood
     organisation: Webfeet
   - name: Hobsons Choice in Bristol
     links:
@@ -343,7 +312,6 @@ events:
     organisation: Webfeet
   - name: Melobo in Cardiff
     links:
-      - "https://eceilidh.org.uk/cps/gigs/melobo-3067c3.php"
       - "http://mister.red/dance/cardiff.htm#D.HA.20250315"
     start_date: 2025-03-15
     end_date: 2025-03-15
@@ -415,20 +383,6 @@ events:
       - Pair of Shears
     callers:
       - Ray Goodswen
-    organisation: Webfeet
-  - name: Banter in Eastleigh
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2025-03-20
-    end_date: 2025-03-20
-    country: UK
-    city: Eastleigh
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
     organisation: Webfeet
   - name: Folkus Pocus in Alcester
     links:
@@ -520,6 +474,7 @@ events:
       - Banter
     organisation: Webfeet
   - name: GIG CB! in Stroud
+    details: "[Sold Out]"
     links:
       - "https://eceilidh.org.uk/cps/gigs/gigcb-1624d3.php"
       - "https://stroud.dance/ceilidh/cps/gigs/gigcb-c8412d.php"
@@ -1495,6 +1450,7 @@ events:
     organisation: Webfeet
   - name: Portmanteau in Chippenham
     links:
+      - "https://www.bandsintown.com/e/106612419-blackbeard&#x27;s-tea-party-at-st-andrew&#x27;s-church"
       - "https://portmanteaufolk.com/"
     start_date: 2025-05-23
     end_date: 2025-05-23
@@ -1502,10 +1458,26 @@ events:
     city: Chippenham
     styles:
       - balfolk
+      - e-ceilidh
     workshop: false
     social: true
     bands:
+      - "Blackbeard's Tea Party"
       - Portmanteau
+    organisation: Webfeet
+  - name: Blackbeards Tea Party in Chippenham
+    links:
+      - "http://www.blackbeardsteaparty.com/gigs/"
+    start_date: 2025-05-26
+    end_date: 2025-05-26
+    country: UK
+    city: Chippenham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Blackbeards Tea Party
     organisation: Webfeet
   - name: Topette in London
     links:
@@ -1730,21 +1702,25 @@ events:
     callers:
       - Amanda Whatley
     organisation: Webfeet
-  - name: Fiddlechicks in Bristol
+  - name: Jigfoot in Bristol
     links:
       - "https://bristolcontra.wordpress.com/"
       - "http://mister.red/dance/bristol.htm#D.1@.20250620"
+      - "https://www.jigfoot.com/google-calendar/"
     start_date: 2025-06-20
     end_date: 2025-06-20
     country: UK
     city: Bristol
     styles:
       - contra
+      - e-ceilidh
     workshop: false
     social: true
     bands:
       - Fiddlechicks
+      - Jigfoot
     callers:
+      - Ian Nichols
       - Louise Siddons
     organisation: Webfeet
   - name: Crowdy Kit in Exeter
@@ -1846,6 +1822,34 @@ events:
       - Box of Frogs
     callers:
       - Barrie Bullimore
+    organisation: Webfeet
+  - name: "Blackbeard's Tea Party in Trowbridge"
+    links:
+      - "https://www.bandsintown.com/e/106612325-blackbeard&#x27;s-tea-party-at-greenhill-fields"
+    start_date: 2025-07-25
+    end_date: 2025-07-25
+    country: UK
+    city: Trowbridge
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
+    organisation: Webfeet
+  - name: Blackbeards Tea Party in Trowbridge
+    links:
+      - "http://www.blackbeardsteaparty.com/gigs/"
+    start_date: 2025-07-26
+    end_date: 2025-07-26
+    country: UK
+    city: Trowbridge
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Blackbeards Tea Party
     organisation: Webfeet
   - name: Whapweasel in Durham
     links:
