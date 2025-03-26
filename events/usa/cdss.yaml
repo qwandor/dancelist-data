@@ -15217,21 +15217,24 @@ events:
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2025-04-06/"
-    start: "2025-04-06T19:00:00-05:00"
+    start: "2025-04-06T18:30:00-05:00"
     end: "2025-04-06T21:30:00-05:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Possum Comsum
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
     links:
       - "https://cdss.org/event/gainesville-florida-english-country-dance/2025-04-07/"
-    start: "2025-04-07T18:30:00-04:00"
+    start: "2025-04-07T18:10:00-04:00"
     end: "2025-04-07T20:30:00-04:00"
     country: USA
     state: FL
@@ -15242,7 +15245,7 @@ events:
     social: true
     bands:
       - Hoggetowne Fancy
-    price: $5
+    price: $10
     organisation: Gainesville English Country Dance
   - name: Ashland Country Dancers
     details: "The Ashland Branch of the Heather and the Rose Country Dancers hosts a weekly English dance (with some Scottish). Since formation in 1980, all dances are taught with positional/global language. We use recorded music most evenings."
@@ -15258,6 +15261,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: Springforth Ball & Dance Weekend
     details: "Featuring Playing with Fyre \nGeorge Paul (keyboard)\nRob Zisette (fiddle), and\nSteve Kemble (percussion) \nwith calling by Bob Isaacs"
