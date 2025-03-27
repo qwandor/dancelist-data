@@ -1,13 +1,12 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Bal unique
-    details: 1 day balfolk festival in Switzerland
+  - name: Bal Unique
+    details: 1 day balfolk festival in Switzerland.
     links:
-      - "https://balunique.ch"
-    start_date: 2025-09-27
-    end_date: 2025-09-27
+      - "https://balunique.ch/"
+    start: "2025-09-27T10:00:00+02:00"
+    end: "2025-09-28T03:00:00+02:00"
     country: Switzerland
-    state: Vaud
     city: Vevey
     styles:
       - balfolk
@@ -17,5 +16,5 @@ events:
       - No&Mi
       - Snaarmaarwaar
       - Le Mange Bal
-    price: 28-35
+    price: 28-65 CHF
     organisation: Les Grands bals de Lausanne
