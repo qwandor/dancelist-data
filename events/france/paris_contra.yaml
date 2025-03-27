@@ -8,7 +8,8 @@ events:
     end_date: 2022-03-12
     country: France
     city: Paris
-    styles: [contra]
+    styles:
+      - contra
     workshop: true
     social: true
     bands:
@@ -16,16 +17,16 @@ events:
     callers:
       - Will Mentor
     organisation: Paris Contra Dance
-
   - name: Bal du Climat et de la Terre
     links:
       - "https://sites.google.com/site/americancontradanceinparis/"
       - "https://www.facebook.com/events/957821868264609/"
-    start: 2022-04-30T18:00:00+02:00
-    end: 2022-04-30T20:00:00+02:00
+    start: "2022-04-30T18:00:00+02:00"
+    end: "2022-04-30T20:00:00+02:00"
     country: France
     city: Paris
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -33,16 +34,16 @@ events:
     callers:
       - Jeremy Kuhn
     organisation: Paris Contra Dance
-
   - name: American Contra Dance in Paris
     links:
       - "https://sites.google.com/site/americancontradanceinparis/"
       - "https://www.facebook.com/events/3150695308479739/"
-    start: 2022-09-17T16:30:00+02:00
-    end: 2022-09-17T22:00:00+02:00
+    start: "2022-09-17T16:30:00+02:00"
+    end: "2022-09-17T22:00:00+02:00"
     country: France
     city: Paris
-    styles: [contra]
+    styles:
+      - contra
     workshop: true
     social: true
     bands:
@@ -50,16 +51,16 @@ events:
     callers:
       - Charlotte Rich-Griffin
     organisation: Paris Contra Dance
-
   - name: American Contra Dance in Paris
     links:
       - "https://sites.google.com/site/americancontradanceinparis/"
       - "https://www.facebook.com/events/490769106480821/"
-    start: 2022-11-28T19:00:00+01:00
-    end: 2022-11-28T22:30:00+01:00
+    start: "2022-11-28T19:00:00+01:00"
+    end: "2022-11-28T22:30:00+01:00"
     country: France
     city: Paris
-    styles: [contra]
+    styles:
+      - contra
     workshop: true
     social: true
     bands:
@@ -68,25 +69,24 @@ events:
       - Jeremy Kuhn
     price: €10
     organisation: Paris Contra Dance
-
   - name: American Contra Dance in Paris
     links:
       - "https://sites.google.com/site/americancontradanceinparis/"
       - "https://www.facebook.com/events/3324771134458468/"
       - "https://www.facebook.com/groups/156727372682/posts/10159578028632683/"
-    start: 2023-01-14T17:00:00+01:00
-    end: 2023-01-14T22:00:00+01:00
+    start: "2023-01-14T17:00:00+01:00"
+    end: "2023-01-14T22:00:00+01:00"
     country: France
     city: Paris
-    styles: [contra]
+    styles:
+      - contra
     workshop: true
     social: true
+    bands:
+      - "Thomas Bailey, Léopoldine Guillaume, Valentin Nivetav and Camille Moreddu"
     callers:
       - Charlie Turner
-    bands:
-      - Thomas Bailey, Léopoldine Guillaume, Valentin Nivetav and Camille Moreddu
     organisation: Paris Contra Dance
-
   - name: American Contra Dance in Paris
     links:
       - "https://sites.google.com/site/americancontradanceinparis/"
@@ -103,15 +103,15 @@ events:
       - Nozzy
     price: €5-€10
     organisation: Paris Contra Dance
-
-  - name: Weekend de Pentecôte au Moulin d'Andé
+  - name: "Weekend de Pentecôte au Moulin d'Andé"
     links:
       - "https://www.facebook.com/events/734945548075893/"
-    start: 2023-05-27T00:00:00+02:00
-    end: 2023-05-29T15:00:00+02:00
+    start: "2023-05-27T00:00:00+02:00"
+    end: "2023-05-29T15:00:00+02:00"
     country: France
     city: Val-de-Reuil
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -120,7 +120,6 @@ events:
       - Will Mentor
     price: €420-€720
     organisation: Paris Contra Dance
-
   - name: Paris Contra Dance
     details: "5-5:30pm beginners' lesson, 5:30-7pm dance, 7-8pm potluck dinner, 8-10pm dance. Annexe de la Mairie du 14eme, 12 rue Pierre Castagnou 75014. Metro/Bus/RER Denfert-Rochereau. Beginners very welcome."
     links:
@@ -140,7 +139,6 @@ events:
       - Seth Tepfer
     price: €10
     organisation: Paris Contra Dance
-
   - name: American Contra Dance in Paris
     links:
       - "https://sites.google.com/site/americancontradanceinparis/"
@@ -223,6 +221,22 @@ events:
       - Darlene Underwood
     price: €7-€25
     organisation: Paris Contra Dance
+  - name: Contra Workshop
+    links:
+      - "https://www.helloasso.com/associations/american-contra-dance-in-paris/evenements/contra-atelier-april"
+    start: "2025-04-05T19:00:00+02:00"
+    end: "2025-04-05T21:00:00+02:00"
+    country: France
+    city: Paris
+    styles:
+      - contra
+    workshop: true
+    social: false
+    callers:
+      - Camille Schmoeker
+      - Jen Werfelman
+    price: €5
+    organisation: Paris Contra Dance
   - name: Paris Contra Dance
     links:
       - "https://sites.google.com/site/americancontradanceinparis/"
@@ -240,7 +254,7 @@ events:
     callers:
       - Seth Tepfer
     organisation: Paris Contra Dance
-  - name: Moulin d'Andé Weekend
+  - name: "Moulin d'Andé Weekend"
     details: "A contra dance weekend in Normandy with Kappy Laning & Janine Smith (callers) and Nozzy (musicians, from UK). Lodging and all meals provided in a beautiful and historic venue, the 13th century restored Moulin d’Andé. \nPrices in euros for those who haven’t yet attended a Paris Contra Dance: 520 in a single room, 420 euros in a double or triple room, 320 in a dormitory (6-8 in a room). 100 euros discount for previous attendees. \nTransportation via train (1:30) from Gare St Lazare in Paris and then (20 minutes) by bus or taxi from Gare Val de Reuil. \nIf you are interested or if you have questions, send me a message."
     links:
       - "https://sites.google.com/site/americancontradanceinparis/"
