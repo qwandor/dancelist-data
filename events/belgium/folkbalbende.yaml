@@ -20214,14 +20214,14 @@ events:
     social: false
     price: donation
     organisation: Folk In Limburg
-  - name: Atelier
+  - name: Festival du jeu de rôle
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.facebook.com/events/1212388506975074?active_tab=about"
+      - "https://www.facebook.com/events/1212388506975074/"
       - "https://folkbalbende.be/event/2706"
-    start_date: 2025-03-29
-    end_date: 2025-03-29
+    start: "2025-03-29T10:00:00+01:00"
+    end: "2025-03-29T18:00:00+01:00"
     country: Belgium
     city: Charleroi
     styles:
@@ -20230,6 +20230,7 @@ events:
     social: true
     bands:
       - Aïe Mon Pied!
+    price: free
     organisation: ~
   - name: Dansaarde Folkbal
     details: Ball
@@ -20550,18 +20551,22 @@ events:
       - Folkensemble Van De Genkse Academie
       - Naragonia Quartet
     organisation: ~
-  - name: Folkbal RSL- BVBA VANDAMME- FIOR (Allemagne)
+  - name: Folkbal RSL
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.facebook.com/events/1007286841337170?active_tab=about"
+      - "https://www.facebook.com/events/1007286841337170/"
       - "https://folkbalbende.be/event/2730"
-    start_date: 2025-04-18
-    end_date: 2025-04-18
+    start: "2025-04-18T18:30:00+02:00"
+    end: "2025-04-18T22:45:00+02:00"
     country: Belgium
     city: Roeselare
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Bvba Vandamme
+      - Fior
+    price: €5
     organisation: ~
