@@ -42604,6 +42604,7 @@ events:
   - name: English Country Dancing
     details: "We invite you to dance with us on the first Friday of each month at Massanutten Presbyterian Church. It’s free and open to the public; most appropriate for people 10 years old and up; no experience needed; no partner needed. Wear casual clothes and comfortable shoes. \nTom Mack is the caller and we dance to recorded music enjoying dances from the 1700’s and 1800’s: lines, circles and squares. \nHealth issues: If you feel sick, stay home."
     links:
+      - "https://sites.google.com/corp/site/svcwed/home-1/2025-practice-schedule"
       - "https://cdss.org/event/english-country-dancing/2025-04-05/"
     start: "2025-04-05T05:00:00-04:00"
     end: "2026-03-07T01:00:00-05:00"
@@ -42616,6 +42617,7 @@ events:
     social: true
     callers:
       - Tom Mack
+    price: free
     organisation: Shenandoah Valley Civil War Era Dancers
   - name: York Region English Country Dancers
     details: "English Country Dance in central York Region (Ontario, Canada)! Beginners welcome; all dances taught; you don’t need to bring a partner. Admission by donation; your first class is free. Join us on the first, third, and (when there is one) fifth Saturday of the month from 2:00 to 4:00. (Please check the website for possible last-minute changes.)"
@@ -43640,6 +43642,21 @@ events:
       - Steve Otlowski
     price: $10
     organisation: English Country Dance Cleveland
+  - name: Friday Night Contra at Glen Echo
+    details: "Join us in Glen Echo, Maryland, for a fun night of contras and an occasional square! There’s a free lesson at 7:30pm."
+    links:
+      - "https://www.fridaynightdance.com/"
+      - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-04-11/"
+    start: "2025-04-11T20:00:00-04:00"
+    end: "2025-04-11T23:00:00-04:00"
+    country: USA
+    state: MD
+    city: Glen Echo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Friday Night Dancers
   - name: Queer Contra Dance Camp
     details: Queer Contra Dance Camp is a queer-normative contra dance weekend in the California redwoods with incredible talent and an enthusiastic and friendly community.
     links:
@@ -43700,6 +43717,130 @@ events:
     workshop: false
     social: true
     price: $7-$20
+    organisation: Portland Country Dance Community
+  - name: English Country Dance
+    details: Second Saturdays English Dance in Pittsburgh. (3rd Saturday this March.)
+    links:
+      - "https://cdssp.org/"
+      - "https://cdss.org/event/english-country-dance-in-pittsburgh/2025-04-12/"
+    start: "2025-04-12T12:30:00-04:00"
+    end: "2025-04-12T15:00:00-04:00"
+    country: USA
+    state: PA
+    city: Pittsburgh
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: CDSSP
+  - name: CDK Contra & Square Dance
+    details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \nSuggested donation $5-$20"
+    links:
+      - "https://www.countrydancinginkalamazoo.com/"
+      - "https://cdss.org/event/cdk-contra-square-dance-2/2025-04-12/"
+    start: "2025-04-12T19:00:00-04:00"
+    end: "2025-04-12T22:30:00-04:00"
+    country: USA
+    state: MI
+    city: Kalamazoo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$20
+    organisation: CDSS
+  - name: Floyd Contra Dance
+    details: "A small, local dance in the heart of the Blue Ridge Mountains. We’re on the Crooked Road Trail, which highlights Appalachian music and heritage. Beginners lessons start at 7, dance starts at 7:30."
+    links:
+      - "https://www.floydcontradance.org/"
+      - "https://cdss.org/event/floyd-contra-dance/2025-04-12/"
+    start: "2025-04-12T19:00:00-04:00"
+    end: "2025-04-12T22:30:00-04:00"
+    country: USA
+    state: VA
+    city: Floyd
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: CDSS
+  - name: Space Coast Contra Dance
+    details: "Our second Saturday contra dance on the Space Coast of FL featuring live bands, awesome callers, and a friendly crowd. All are welcome. No partner needed. For more information, visit our website. We’d love to have you join us! \n$15; $5 for 25 and under."
+    links:
+      - "https://spacecoastcontra.org/calendar-upcoming-contra-dances/"
+      - "https://cdss.org/event/space-coast-contra-dance/2025-04-12/"
+    start: "2025-04-12T19:30:00-04:00"
+    end: "2025-04-12T22:30:00-04:00"
+    country: USA
+    state: FL
+    city: Cocoa
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$15
+    organisation: Space Coast Contra Dance
+  - name: Scissortail Contra Dance
+    details: "Scissortail Contra Dance in Oklahoma City, second and fourth Saturdays. Check our Facebook or our website for more details!"
+    links:
+      - "https://scissortail.org/calendar/"
+      - "https://cdss.org/event/scissortail-contra-dance-in-oklahoma-city/2025-04-12/"
+    start: "2025-04-12T19:00:00-05:00"
+    end: "2025-04-12T22:00:00-05:00"
+    country: USA
+    state: OK
+    city: Oklahoma City
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Scissortail Traditional Dance Society
+  - name: San Luis Obispo Monthly Contra Dance
+    details: "Live music and gender-neutral calling at the monthly contra dance in San Luis Obispo, CA. Dances are monthly on the 2nd Saturday. 6:30 lesson, dancing until 9:30."
+    links:
+      - "https://www.cccds.org/schedule/"
+      - "https://cdss.org/event/san-luis-obispo-monthly-contra-dance/2025-04-12/"
+    start: "2025-04-12T18:30:00-07:00"
+    end: "2025-04-12T21:30:00-07:00"
+    country: USA
+    state: CA
+    city: San Luis Obispo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Central Coast Country Dance Society
+  - name: Sacramento Contra Dance
+    details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $12 for adults; $8 for college students with ID; $5 for dancers under 18; $25 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
+    links:
+      - "https://sactocds.wordpress.com/"
+      - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays/2025-04-12/"
+    start: "2025-04-12T19:00:00-07:00"
+    end: "2025-04-12T22:00:00-07:00"
+    country: USA
+    state: CA
+    city: Sacramento
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$25
+    organisation: Sacramento Country Dance Society
+  - name: 2nd Saturdays Contra Dance
+    details: "7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSliding scale $6-$20. \nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."
+    links:
+      - "https://portlandcountrydance.org/upcoming/"
+      - "https://cdss.org/event/portland-country-dance-community-2nd-saturdays-contra-dance/2025-04-12/"
+    start: "2025-04-12T19:00:00-07:00"
+    end: "2025-04-12T22:30:00-07:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $6-$20
     organisation: Portland Country Dance Community
   - name: "When in Doubt, Swing! Contra Dance Weekend"
     details: "Caller: Jeremy Korr\nLive Music: STEAM! \n\nAlice Boyle (fiddle, viola)\nDavid Firestine (mandolin, bouzouki)\nRobert Rosenberg (guitar, banjo)\nClaire Zucker (bodhran, concertina, flatfooting, vocals)\n\n\n\nJeremy is a popular bicoastal caller, based in Southern California most of the year and in Eastern Massachusetts during the summer. A dancer since childhood, he has been calling contras and squares around the country since 2003 and children and family dances since 1993. Jeremy is acclaimed for his fun dances, efficient walkthroughs, precise calling, and community spirit. \nSTEAM! is a high-energy contra dance band that plays an eclectic, fun mix of Irish, modern, goopy waltzes, and hard-driving old time tunes. We intersperse fiddle tune classics with originals and the occasional song. We love to have fun, and we love for YOU to have fun, dancing and listening."
@@ -44219,6 +44360,21 @@ events:
       - Will Mentor
     price: $20-$120
     organisation: Pittsburgh Contra Dance
+  - name: Head for the Hills
+    details: "A getaway weekend of dance, music and song at Camp Harlam near Kresgeville, PA in the Poconos, with many of your favorite musicians, callers, and workshop leaders. Sponsored by Princeton Country Dancers."
+    links:
+      - "https://cdss.org/event/head-for-the-hills/"
+    start_date: 2025-11-07
+    end_date: 2025-11-09
+    country: USA
+    state: PA
+    city: Kunkletown
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    organisation: CDSS
   - name: Dance in the Desert
     details: "A weekend of contra dancing with lots of jamming, featuring music by The Faux Paws and The Free Raisins. Callers are Koren Wake and Steve Zakon-Anderson."
     links:
