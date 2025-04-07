@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Wimborne Folk Festival
+    details: "Part of the all-weekend Wimborne Folk Festival. Ceilidh on Saturday evening at the Allendale and balfolk on Sunday afternoon at the Methodist Church on King Street. Entry by donation - workshop with Steve Earwicker, and a bal."
+    links:
+      - "https://www.wmff.co.uk/"
+      - "https://www.facebook.com/events/1268025964512356/"
+    start: "2025-06-07T19:30:00+01:00"
+    end: "2025-06-08T16:45:00+01:00"
+    country: UK
+    city: Wimborne Minster
+    styles:
+      - balfolk
+      - e-ceilidh
+    workshop: true
+    social: true
+    bands:
+      - Confluence
+      - Jigfoot
+    callers:
+      - Tom Gregory
+    organisation: Wimborne Minster Folk Festival
