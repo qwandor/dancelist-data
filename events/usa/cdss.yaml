@@ -16492,15 +16492,22 @@ events:
   - name: Monday Cincinnati Contra Dance
     details: "Weekly Contra Dance at Wyoming Fine Arts Center, including waltz and maybe squares. Live music from many rotating bands. Many rotating callers using gendered or gender-free prompts. Teaching at 7 pm. Dance from 7:30 pm to 9:30 pm."
     links:
+      - "https://www.cincinnaticontradance.org/schedule.htm"
       - "https://cdss.org/event/monday-cincinnati-contra-dance/2025-04-14/"
-    start: "2025-04-14T19:30:00-04:00"
+    start: "2025-04-14T19:00:00-04:00"
     end: "2025-04-14T21:30:00-04:00"
-    country: "45215"
+    country: USA
+    state: OH
     city: Wyoming
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Serendipity
+    callers:
+      - Kenny Greer
+    price: $2-$5
     organisation: Cincinnati Contra Dance
   - name: Monday Contra Dance
     details: "What better way to start the week? Only $5! It’s Monday, and we (almost) always dance on Monday."
@@ -17156,6 +17163,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: CDSS
   - name: "Swingin' Tern Contra Dance"
     details: "Our contra dances are held every first and third Saturday evening year-round from 7:30pm–10:30pm with a beginners’ workshop at 7pm.  We have occasional double dances along with a New Year’s Eve dance. \nOur full calendar \nUseful Information:\n\nNewcomers are welcome to come at 7pm for an introductory lesson on the basics of contra dancing. No partner is necessary. All dances are taught with a “walk-through” by the caller.\nWe no longer require vaccination. Masks are optional.\nAll dances at Swingin’ Tern are called to the gender-neutral terms Larks & Robins. Dance whatever role you’re comfortable in.\nWe are air-conditioned. We have windows on three sides when we want to let the breeze come in.\nOur dance is two blocks from the Chatham station on the Morris/Essex line out of Penn Station, NYC.\nWe welcome contributions of home-baked [or not] goodies to share at the break.\nPlease bring your own water bottle. Water bottles may be filled at the kitchen sink.\nWear comfortable clothing. Contra dancing is aerobic. We prefer you carry in your shoes.\nWe are a friendly, inclusive group. Pack plenty of smiles!\n\n$15 adults/$5 students"
@@ -17178,7 +17186,7 @@ events:
     links:
       - "https://lancastercontra.org/"
       - "https://cdss.org/event/lancaster-pa-contra-dance-4/2025-04-19/"
-    start: "2025-04-19T19:00:00-04:00"
+    start: "2025-04-19T18:15:00-04:00"
     end: "2025-04-19T22:00:00-04:00"
     country: USA
     state: PA
@@ -17187,7 +17195,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    price: $12-$20
     organisation: Lancaster Contra Dance
   - name: Blacksburg Contra Dance
     details: "In the heart of the New River Valley, join us for a local Contra Dance! Every 3rd Saturday (note change in Nov and Dec) at the YMCA."
@@ -17203,6 +17211,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $10-$12
     organisation: Blacksburg Contra Dance
   - name: Contra Dance
     details: Monthly Contra Dance
@@ -17218,21 +17227,25 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Friends of Traditional Dance Contra
     details: "Contra Dance every 1st and 3rd Saturday \nWe dance at the fabulous Masonic Ballroom, with its gorgeous sprung wood dance floor."
     links:
       - "https://fotd.org/"
       - "https://cdss.org/event/friends-of-traditional-dance-contra/2025-04-19/"
-    start: "2025-04-19T19:00:00-06:00"
+    start: "2025-04-19T18:15:00-06:00"
     end: "2025-04-19T22:00:00-06:00"
     country: USA
     state: CO
     city: Fort Collins
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Rodney & the Coffee People
+    price: $5-$20
     organisation: Friends of Traditional Dance
   - name: Wasatch Contra Dance
     details: "We Dance every Third Saturday of the Month!\nBeginner’s session starts at 7:00 pm\nDance starts at 7:30 pm\nGeneral admission $10\nSliding Scale (financial hardship) $8\nYouth $5"
@@ -17286,11 +17299,13 @@ events:
       - Tanya Merchant
     price: $5-$30
     organisation: Monterey Country Dance Community
-  - name: "3rd Saturdays Contra Dance, Grass Valley CA"
+  - name: 3rd Saturdays Contra Dance
     details: "Live music, historic ballroom, sprung dance floor, beginner/refresher session at 6:45pm. Dance 7-10pm. Doors open 6:30. $15. Potluck snacks/treats at halftime! \nElks Lodge in downtown Grass Valley: 109 S. School St., 95945 (fairly easy parking on street and town lots); across from the Center for the Arts. Check KVMR Arts Calendar up to 2 weeks in advance for band & caller info."
     links:
+      - "https://www.contradancenc.org/"
+      - "https://www.kvmr.org/kvmr-event/third-saturdays-contra-dance-nevada-county/"
       - "https://cdss.org/event/3rd-saturdays-contra-dance-grass-valley-ca/2025-04-19/"
-    start: "2025-04-19T19:00:00-07:00"
+    start: "2025-04-19T18:45:00-07:00"
     end: "2025-04-19T22:00:00-07:00"
     country: USA
     state: CA
@@ -17299,6 +17314,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Wild Goose Chase
+    callers:
+      - Delphine Griffith
     price: $15
     organisation: CDSS
   - name: "When in Doubt, Swing!"
