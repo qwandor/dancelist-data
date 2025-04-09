@@ -15927,9 +15927,10 @@ events:
     workshop: false
     social: true
     organisation: CDSSP
-  - name: Worcester Potluck & Contra Dance!
+  - name: Worcester Potluck & Contra Dance
     details: "**Live Music & Contra Dancing 2nd Saturdays Sept to June!** \n\nWhen: Potluck 6:00 pm, Introductory Session 7:15 pm. Dancing to Live Music 7:30-10:30 pm!\nThis is so wicked fun! We dance to live fiddle tunes of Ireland, Scotland, England, France, Appalachia and America! We switch partners after every dance so there is no need to bring a partner, and there is no need to know how to have a fantastic time!\nParking: at Wesley United Methodist Church. There is plenty of parking and additional parking behind the building (enter by driving up State St and turning Left into the parking area @ 10-12 State St, Worcester, MA 01609).\nAdmission: (your choice) $10 – $12 p.p., $6 – $8 students, families $25. Donations are gratefully appreciated!\nFood: Donations of snacks for the break are wanted and gleefully appreciated!"
     links:
+      - "https://www.worcesterdance.org/"
       - "https://cdss.org/event/worcester-potluck-contra-dance/"
     start: "2025-04-12T18:00:00-04:00"
     end: "2025-04-12T22:30:00-04:00"
@@ -15940,7 +15941,11 @@ events:
       - contra
     workshop: true
     social: true
-    price: $6-$25
+    bands:
+      - Dandelion
+    callers:
+      - Luke Donforth
+    price: $6-$12
     organisation: CDSS
   - name: CDK Contra & Square Dance
     details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \nSuggested donation $5-$20"
@@ -17244,29 +17249,32 @@ events:
     social: true
     bands:
       - The Moving Violations
-    price: $8-$12
+    callers:
+      - Bev Bernbaum
+    price: $8-$20
     organisation: Van Kaynor
   - name: 3rd Saturday Contra Dance
     details: "Every 3rd Saturday from September through May. See our website for this month’s band and caller. \nWe use gender neutral role terms at all dances. \nProud Associate member of PATMAD and CDSS. \nPayment is on a sliding scale."
     links:
       - "https://3rdsaturday.thursdaycontra.com/"
       - "https://cdss.org/event/3rd-saturday-contra-dance-in-philadelphia/2025-04-19/"
-    start: "2025-04-19T19:30:00-04:00"
+    start: "2025-04-19T19:15:00-04:00"
     end: "2025-04-19T22:30:00-04:00"
     country: USA
     state: PA
     city: Philadelphia
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $10-$20
     organisation: PATMAD
   - name: Montpelier Contra Dance
     details: "Montpelier Contra Dance with callers and bands that perform regionally and nationally—see website or Facebook events\nBeginners, singles, and all ages are welcome; all dances are taught.\nGender-neutral role terms (Larks and Robins)\nNewcomers lesson 7:40 pm. Dancing 8-11pm.\nPlease bring clean soft-soled shoes.\nMasks optional / Excellent ventilation with open windows and ceiling exhaust fan (bring a sweater in cooler months)\nMore info at our website. \n$12 adults, $5 kids/low-income, $20 dance supporters.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDancing 1st, 3rd, and 5th Saturdays year round"
     links:
       - "https://capitalcitygrange.org/dancing/contradancing/"
       - "https://cdss.org/event/montpelier-contra-dance/2025-04-19/"
-    start: "2025-04-19T20:00:00-04:00"
+    start: "2025-04-19T19:40:00-04:00"
     end: "2025-04-19T23:00:00-04:00"
     country: USA
     state: VT
@@ -17316,7 +17324,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2025-04-19/"
-    start: "2025-04-19T20:00:00-05:00"
+    start: "2025-04-19T19:30:00-05:00"
     end: "2025-04-19T23:00:00-05:00"
     country: USA
     state: MN
@@ -17325,8 +17333,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Northern Aire
     callers:
-      - Beau Farmer
+      - Tommy VanDeusen
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: Wasatch Contra Dance
@@ -17375,6 +17385,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: Missoula Folklore Society
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first Sundays and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \n\nFirst Sundays: Lessons at 3:40 PM; dance from 4–7 PM\nThird Saturdays: Lessons at 6:40; dance from 7–10 PM.\n\n​Prices: \n\n$15-$30, sliding scale, general admission\n$10-$25, members of MCDC, BACDS, CDSS or other sister organizations;\n$5, active military & full-time students, with ID;\nFREE! for children 12 & under"
