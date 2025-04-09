@@ -6192,7 +6192,7 @@ events:
     price: €5
     organisation: balfolk.nl
   - name: VAN HIER Festival 2025
-    details: "De tweede editie van het VAN HIER Festival in Westelbeers kent weer een dansvloer en meerdere balfolkoptredens. Dit kleinschalige evenement in de \"achtertuin\" van de Cultuurboerderij in Westelbeers heeft in totaal drie podia waarvan er één met enkel balfolk. Vier bands zullen daar gaan spelen:\n\n \tKabál (BE/NL)\n \tParacetamol (NL)\n \tMomiro (NL)\n \t(nnnb)\n\nEntree:\n\n \t€15 vroege vogels (t/m 15 maart)\n \t€20 voorverkoop\n \t€25 aan de kassa"
+    details: "De tweede editie van het VAN HIER Festival in Westelbeers kent weer een dansvloer en meerdere balfolkoptredens. Dit kleinschalige evenement in de \"achtertuin\" van de Cultuurboerderij in Westelbeers heeft in totaal drie podia waarvan er één met enkel balfolk. De volgende bands zullen daar elk een set gaan spelen:\n\n \tKabál (BE/NL)\n \tParacetamol (NL)\n \tMomiro (NL)\n \tFolie du Nord (NL/BE)\n\nEntree:\n\n \t€20 voorverkoop\n \t€25 aan de kassa"
     links:
       - "https://www.balfolk.nl/agenda/van-hier-festival-2025/"
     start: "2025-08-31T11:30:00+02:00"
@@ -6204,10 +6204,11 @@ events:
     workshop: false
     social: false
     bands:
+      - Folie du Nord
       - Kabál
       - Momiro
       - Paracetamol
-    price: €15-€25
+    price: €20-€25
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
@@ -6236,6 +6237,19 @@ events:
     workshop: true
     social: true
     price: €5
+    organisation: balfolk.nl
+  - name: "Folkbal Wilhelmina — A cat's Tale (BE)"
+    details: "Folkbal Wilhelmina - A cat&#039;s Tale (BE), De Belgische formatie A cat's Tale speelt ten bal op het eerste folkbalavond na de zomer. Met natuurlijk dansuitleg door Bo en Paul vooraf."
+    links:
+      - "https://www.balfolk.nl/agenda/folkbal-wilhelmina-a-cats-tale-be/"
+    start: "2025-09-10T20:15:00+02:00"
+    end: "2025-09-10T23:30:00+02:00"
+    country: Netherlands
+    city: Eindhoven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
@@ -6358,6 +6372,21 @@ events:
     workshop: true
     social: true
     price: €5
+    organisation: balfolk.nl
+  - name: Folkbal Wilhelmina — Kabál (BE/NL)
+    details: "Na de vuurdoop op het VAN HIER Festival deze zomer komt de band Kabál ook in ons eigen Wilhelmina spelen!\n\nVooraf dansuitleg door Bo en Paul."
+    links:
+      - "https://www.balfolk.nl/agenda/folkbal-wilhelmina-kabal-be-nl/"
+    start: "2025-10-08T20:15:00+02:00"
+    end: "2025-10-08T23:30:00+02:00"
+    country: Netherlands
+    city: Eindhoven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Kabál
     organisation: balfolk.nl
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\n\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\n\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\n\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
