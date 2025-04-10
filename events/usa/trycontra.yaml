@@ -243,7 +243,7 @@ events:
     organisation: Houston Area Traditional Dance Society
   - name: Supersonic
     links:
-      - "http://www.supersoniccontra.com/"
+      - "https://www.supersoniccontra.com/"
     start_date: 2024-02-02
     end_date: 2024-02-04
     country: USA
@@ -2291,25 +2291,6 @@ events:
       - Will Mentor
     price: $30-$75
     organisation: TryContra
-  - name: Trillium Twirl
-    links:
-      - "https://michigandanceheritage.org/trilliumtwirl/"
-    start_date: 2025-04-25
-    end_date: 2025-04-27
-    country: USA
-    state: MI
-    city: Dowling
-    styles:
-      - contra
-      - ecd
-    workshop: true
-    social: true
-    bands:
-      - Toss the Possum
-    callers:
-      - Bob Isaacs
-    price: $160-$275
-    organisation: TryContra
   - name: Portland Raindance Weekend
     links:
       - "http://www.portlandraindance.org/"
@@ -2429,19 +2410,20 @@ events:
   - name: Camp Sturtevant
     links:
       - "https://www.sccdc.org/special-events/camp-sturtevant/"
-    start_date: 2025-05-23
-    end_date: 2025-05-26
+    start: "2025-05-23T13:45:00-07:00"
+    end: "2025-05-26T17:00:00-07:00"
     country: USA
     state: CA
     city: Arcadia
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     bands:
       - Uncle Farmer
     callers:
       - Susan Petrick
+    price: $425
     organisation: TryContra
   - name: Chain Reaction
     links:
@@ -2574,7 +2556,7 @@ events:
     social: true
     bands:
       - Lissa & Friends
-      - Synchopaths
+      - The Syncopaths
     callers:
       - Cis Hinkle
       - Jacqui Grennan
@@ -2966,8 +2948,9 @@ events:
       - "https://sactocds.wordpress.com/special-events/echo-summit-dance-camp-2025"
     start_date: 2025-09-12
     end_date: 2025-09-14
-    country: Sacremento
-    city: Camp
+    country: USA
+    state: CA
+    city: Sacremento
     styles:
       - contra
     workshop: true
@@ -3399,11 +3382,11 @@ events:
     city: Pasadena
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     bands:
       - Playing with Fyre
-      - Eloise &co
+      - Eloise & Co.
     callers:
       - Frannie Marr
       - Cis Hinkle
@@ -3458,7 +3441,7 @@ events:
       - Wendy Graham
       - Will Mentor
     organisation: TryContra
-  - name: Epicenter dance weekend
+  - name: Epicenter
     links:
       - "https://nbcds.org/epicenter-2025/"
     start_date: 2026-03-27
@@ -3486,7 +3469,9 @@ events:
     state: NY
     city: Silver Bay
     styles:
+      - balfolk
       - contra
+      - ecd
     workshop: true
     social: true
-    organisation: TryContra
+    organisation: DanceFlurry
