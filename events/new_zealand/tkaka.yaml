@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfolk Golden Bay
+    links:
+      - "https://www.balfolk.co.nz/golden_bay"
+      - "https://www.facebook.com/events/9244675465661960/"
+    start: "2025-04-20T15:00:00+12:00"
+    end: "2025-04-24T17:30:00+12:00"
+    country: New Zealand
+    city: Tākaka
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Hullabalou
+    price: donation
+    organisation: Balfolk Golden Bay Collective
