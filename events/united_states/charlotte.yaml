@@ -1,0 +1,22 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Carolina Meltdown
+    details: "Contra Dance Weekend sponsored by Charlotte Contra Dancers. Held at Camp Thunderbird, Lake Wylie, SC"
+    links:
+      - "https://www.charlottecontradance.org/carolina-meltdown"
+    start: "2026-03-20T19:00:00-04:00"
+    end: "2026-03-22T16:00:00-04:00"
+    country: United States
+    state: NC
+    city: Charlotte
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Dam Beavers
+      - The Engine Room
+    callers:
+      - Lisa Greenleaf
+      - Cis Hinkle
+    organisation: Charlotte Contra Dancers
