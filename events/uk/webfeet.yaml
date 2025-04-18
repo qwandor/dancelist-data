@@ -1,83 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Crowdy-Kit in Kennington
-    links:
-      - "http://www.oxfolk.org.uk/"
-    start_date: 2025-01-11
-    end_date: 2025-01-11
-    country: UK
-    city: Kennington
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Crowdy-Kit
-    callers:
-      - Fee Lock
-    organisation: Webfeet
-  - name: The Linda Game Band in Englefield Green
-    links:
-      - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
-    start_date: 2025-01-12
-    end_date: 2025-01-12
-    country: UK
-    city: Englefield Green
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - The Linda Game Band
-    callers:
-      - Victoria Yeomans
-    organisation: Webfeet
-  - name: "Hekety in Chandler's Ford"
-    links:
-      - "http://www.shocc.co.uk/"
-    start_date: 2025-01-18
-    end_date: 2025-01-18
-    country: UK
-    city: "Chandler's Ford"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Hekety
-    callers:
-      - Rhi Davies
-    organisation: Webfeet
-  - name: Famous Potatoes in Leigh on Sea
-    links:
-      - "http://famouspotatoes.co.uk/events/famous-potatoes-at-hoy-folk-club-leigh-on-sea-21-jan-2025/"
-    start_date: 2025-01-21
-    end_date: 2025-01-21
-    country: UK
-    city: Leigh on Sea
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Famous Potatoes
-    organisation: Webfeet
-  - name: Chaotic Good in Bristol
-    links:
-      - "https://bristolcontra.wordpress.com/"
-    start_date: 2025-01-24
-    end_date: 2025-01-24
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Chaotic Good
-    callers:
-      - Daisy Black
-    organisation: Webfeet
   - name: Diatonics in Sherfield on Loddon
     links:
       - "http://diatonics.co.uk/events.html"
@@ -263,20 +185,6 @@ events:
     bands:
       - Arish Mel
     organisation: Webfeet
-  - name: Famous Potatoes in Rugby
-    links:
-      - "http://famouspotatoes.co.uk/events/hoedown-at-rochford-rugby-club/"
-    start_date: 2025-03-15
-    end_date: 2025-03-15
-    country: UK
-    city: Rugby
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Famous Potatoes
-    organisation: Webfeet
   - name: "Jigfoot in Chandler's Ford"
     links:
       - "http://www.shocc.co.uk/"
@@ -293,42 +201,9 @@ events:
     callers:
       - Barry Goodman
     organisation: Webfeet
-  - name: Dampiers in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20250326"
-    start_date: 2025-03-26
-    end_date: 2025-03-26
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Dampiers
-    callers:
-      - Jane Hunter
-    organisation: Webfeet
-  - name: Join the Dots in Brecon
-    links:
-      - "http://mister.red/dance/brecon.htm#D.AY.20250328"
-    start_date: 2025-03-28
-    end_date: 2025-03-28
-    country: UK
-    city: Brecon
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Join the Dots
-    callers:
-      - Issi
-    organisation: Webfeet
   - name: Contrary Faeries in Bristol
     links:
       - "https://bristolcontra.wordpress.com/"
-      - "http://mister.red/dance/bristol.htm#D.1@.20250328"
     start_date: 2025-03-28
     end_date: 2025-03-28
     country: UK
@@ -339,68 +214,6 @@ events:
     social: true
     bands:
       - Contrary Faeries
-    callers:
-      - Rob Humphrey
-    organisation: Webfeet
-  - name: Amber Fire in Exeter
-    links:
-      - "http://mister.red/dance/exeter.htm#D.YB.20250329"
-    start_date: 2025-03-29
-    end_date: 2025-03-29
-    country: UK
-    city: Exeter
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Amber Fire
-    organisation: Webfeet
-  - name: Venn in Horsley
-    links:
-      - "https://balfolkstroud.uk/cps/gigs/venn-b3f23b.php"
-      - "http://mister.red/dance/horsley.htm#D.TA.20250329"
-    start_date: 2025-03-29
-    end_date: 2025-03-29
-    country: UK
-    city: Horsley
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Venn
-    organisation: Webfeet
-  - name: Join the Dots in Knighton
-    links:
-      - "http://mister.red/dance/knighton.htm#D.AZ.20250329"
-    start_date: 2025-03-29
-    end_date: 2025-03-29
-    country: UK
-    city: Knighton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Join the Dots
-    callers:
-      - Issi
-    organisation: Webfeet
-  - name: Dobunni in Stroud
-    links:
-      - "https://eceilidh.org.uk/cps/gigs/dobunni-f73cba.php"
-      - "https://stroud.dance/ceilidh/cps/gigs/dahootinwhoopindobunni-b2c6a3.php"
-    start_date: 2025-03-29
-    end_date: 2025-03-29
-    country: UK
-    city: Stroud
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Dobunni
     organisation: Webfeet
   - name: live music in Bath
     links:
@@ -448,6 +261,22 @@ events:
     callers:
       - Jane & Chris Andrews
     organisation: Webfeet
+  - name: Reely Good Band in Witcombe
+    links:
+      - "http://mister.red/dance/gloucester.htm#D.VB.20250402"
+    start_date: 2025-04-02
+    end_date: 2025-04-02
+    country: UK
+    city: Witcombe
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Reely Good Band
+    callers:
+      - Karen and Sue.
+    organisation: Webfeet
   - name: King Kontra String Band in Alcester
     links:
       - "http://mister.red/dance/alcester.htm#D.3B.20250404"
@@ -463,21 +292,6 @@ events:
       - King Kontra String Band
     callers:
       - Nicola Scott
-    organisation: Webfeet
-  - name: Banter in Halsway Manor
-    links:
-      - "https://www.banter.band/gigs/"
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2025-04-04
-    end_date: 2025-04-06
-    country: UK
-    city: Halsway Manor
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
@@ -604,7 +418,6 @@ events:
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
-      - "http://www.sadfolk.co.uk/listings.php"
     start_date: 2025-04-11
     end_date: 2025-04-11
     country: UK
@@ -618,7 +431,6 @@ events:
     organisation: Webfeet
   - name: Banter in Oxford
     links:
-      - "https://www.banter.band/gigs/"
       - "http://mister.red/dance/oxford.htm#D.NA.20250411"
     start_date: 2025-04-11
     end_date: 2025-04-11
@@ -632,38 +444,6 @@ events:
       - Banter
     callers:
       - Sheena Masson
-    organisation: Webfeet
-  - name: Rainbow Folk in Wellingborough
-    links:
-      - "https://www.efdss.org/calendar-events/14870-c0356641f421b381e475776b602a5da8"
-    start_date: 2025-04-11
-    end_date: 2025-04-11
-    country: UK
-    city: Wellingborough
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Rainbow Folk
-    callers:
-      - Lisa Heywood
-    organisation: Webfeet
-  - name: Jeroka in Bridport
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2025-04-12
-    end_date: 2025-04-12
-    country: UK
-    city: Bridport
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Jeroka
-    callers:
-      - Ruth Thompson
     organisation: Webfeet
   - name: Trinculo in Kennington
     links:
@@ -680,20 +460,6 @@ events:
       - Trinculo
     callers:
       - Alison Rowley
-    organisation: Webfeet
-  - name: Banter in Lincoln
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2025-04-12
-    end_date: 2025-04-12
-    country: UK
-    city: Lincoln
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
     organisation: Webfeet
   - name: Trinculo in Oxford
     links:
@@ -758,6 +524,22 @@ events:
       - Matt Norman
     callers:
       - Jean Crook
+    organisation: Webfeet
+  - name: Downfielders in Witcombe
+    links:
+      - "http://mister.red/dance/gloucester.htm#D.VC.20250416"
+    start_date: 2025-04-16
+    end_date: 2025-04-16
+    country: UK
+    city: Witcombe
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Downfielders
+    callers:
+      - Elaine Gillett
     organisation: Webfeet
   - name: Duo Confluence in Exeter
     links:
@@ -867,7 +649,7 @@ events:
     organisation: Webfeet
   - name: Flash Co in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YC.20250426"
+      - "http://mister.red/dance/exeter.htm#D.YB.20250426"
     start_date: 2025-04-26
     end_date: 2025-04-26
     country: UK
@@ -878,6 +660,22 @@ events:
     social: true
     bands:
       - Flash Co
+    organisation: Webfeet
+  - name: The Four Foot Four in Fordingbridge
+    links:
+      - "https://eceilidh.org.uk/cps/gigs/thefourfootfour-42a829.php"
+    start_date: 2025-04-26
+    end_date: 2025-04-26
+    country: UK
+    city: Fordingbridge
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Four Foot Four
+    callers:
+      - Phil Preen
     organisation: Webfeet
   - name: Flash Company in Kennford
     links:
@@ -952,6 +750,52 @@ events:
       - Dave Byett
     callers:
       - Barry Reeves
+    organisation: Webfeet
+  - name: Imogen and Friends in Witcombe
+    links:
+      - "http://mister.red/dance/gloucester.htm#D.VD.20250430"
+    start_date: 2025-04-30
+    end_date: 2025-04-30
+    country: UK
+    city: Witcombe
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Imogen and Friends
+    callers:
+      - Ellie and Sue.
+    organisation: Webfeet
+  - name: Tatterdemalion in Dorchester
+    links:
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2025-05-01
+    end_date: 2025-05-01
+    country: UK
+    city: Dorchester
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Tatterdemalion
+    callers:
+      - Angela Laycock
+    organisation: Webfeet
+  - name: Banter in Upton
+    links:
+      - "https://www.banter.band/gigs/"
+    start_date: 2025-05-02
+    end_date: 2025-05-05
+    country: UK
+    city: Upton
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Banter
     organisation: Webfeet
   - name: Martin et al in Upton upon Severn
     links:
@@ -1145,6 +989,7 @@ events:
     links:
       - "https://www.areyoudancing.com/dance-event/733052/"
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+      - "https://www.areyoudancing.com/dance-event/751127/"
     start_date: 2025-05-09
     end_date: 2025-05-09
     country: UK
@@ -1248,6 +1093,22 @@ events:
     bands:
       - live music
     organisation: Webfeet
+  - name: Dampiers Round in Witcombe
+    links:
+      - "http://mister.red/dance/gloucester.htm#D.VE.20250514"
+    start_date: 2025-05-14
+    end_date: 2025-05-14
+    country: UK
+    city: Witcombe
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Dampiers Round
+    callers:
+      - Keith and Karen
+    organisation: Webfeet
   - name: Catsfield Steamers in Eastbourne
     links:
       - "http://catsfieldsteamers.co.uk/index.php/bookings/"
@@ -1295,6 +1156,20 @@ events:
     callers:
       - Charlie Turner
     organisation: Webfeet
+  - name: Banter in Northampton
+    links:
+      - "https://www.banter.band/gigs/"
+    start_date: 2025-05-16
+    end_date: 2025-05-16
+    country: UK
+    city: Northampton
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Banter
+    organisation: Webfeet
   - name: "Fool's Jig in Worsall"
     links:
       - "https://www.efdss.org/calendar-events/14703-95c8f422f9c3308d391cbcefae21d5ad"
@@ -1330,7 +1205,7 @@ events:
   - name: Deux Sans Frontieres in Horsley
     links:
       - "https://balfolkstroud.uk/cps/gigs/deuxsansfrontires-4fdaba.php"
-      - "http://mister.red/dance/horsley.htm#D.TB.20250517"
+      - "http://mister.red/dance/horsley.htm#D.TA.20250517"
     start_date: 2025-05-17
     end_date: 2025-05-17
     country: UK
@@ -1356,6 +1231,20 @@ events:
     social: true
     bands:
       - sessionista
+    organisation: Webfeet
+  - name: Banter in Chippenham
+    links:
+      - "https://www.banter.band/gigs/"
+    start_date: 2025-05-23
+    end_date: 2025-05-26
+    country: UK
+    city: Chippenham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Banter
     organisation: Webfeet
   - name: Portmanteau in Chippenham
     links:
@@ -1388,6 +1277,22 @@ events:
     bands:
       - Blackbeards Tea Party
     organisation: Webfeet
+  - name: Reely Good Band in Witcombe
+    links:
+      - "http://mister.red/dance/gloucester.htm#D.VF.20250528"
+    start_date: 2025-05-28
+    end_date: 2025-05-28
+    country: UK
+    city: Witcombe
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Reely Good Band
+    callers:
+      - Geoff Elwell.
+    organisation: Webfeet
   - name: Topette in London
     links:
       - "https://www.bandsintown.com/e/1033659827-topette-at-cecil-sharp-house"
@@ -1404,7 +1309,7 @@ events:
     organisation: Webfeet
   - name: Skermish in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YD.20250531"
+      - "http://mister.red/dance/exeter.htm#D.YC.20250531"
     start_date: 2025-05-31
     end_date: 2025-05-31
     country: UK
@@ -1562,6 +1467,22 @@ events:
     callers:
       - Ivan Aitken
     organisation: Webfeet
+  - name: Dampiers Round in Witcombe
+    links:
+      - "http://mister.red/dance/gloucester.htm#D.VG.20250611"
+    start_date: 2025-06-11
+    end_date: 2025-06-11
+    country: UK
+    city: Witcombe
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Dampiers Round
+    callers:
+      - Mike Courthold
+    organisation: Webfeet
   - name: Larry Unger and Elke Baker (USA) in Alcester
     links:
       - "http://mister.red/dance/alcester.htm#D.3D.20250613"
@@ -1594,6 +1515,34 @@ events:
       - Arish Mel
     callers:
       - Malcolm Churchill
+    organisation: Webfeet
+  - name: Blue Jewel in Stoke Gabriel
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2025-06-13
+    end_date: 2025-06-13
+    country: UK
+    city: Stoke Gabriel
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Blue Jewel
+    organisation: Webfeet
+  - name: Blue Jewel in Totnes
+    links:
+      - "http://devonfolk.org/events-diary/"
+    start_date: 2025-06-13
+    end_date: 2025-06-13
+    country: UK
+    city: Totnes
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Blue Jewel
     organisation: Webfeet
   - name: The Oakstone Trio in Grove
     links:
@@ -1632,9 +1581,39 @@ events:
       - Ian Nichols
       - Louise Siddons
     organisation: Webfeet
+  - name: Banter in Evesham
+    links:
+      - "https://www.banter.band/gigs/"
+    start_date: 2025-06-20
+    end_date: 2025-06-20
+    country: UK
+    city: Evesham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Banter
+    organisation: Webfeet
+  - name: Dave Byett in Witcombe
+    links:
+      - "http://mister.red/dance/gloucester.htm#D.VH.20250625"
+    start_date: 2025-06-25
+    end_date: 2025-06-25
+    country: UK
+    city: Witcombe
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Dave Byett
+    callers:
+      - Nicola Scott
+    organisation: Webfeet
   - name: Crowdy Kit in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YE.20250628"
+      - "http://mister.red/dance/exeter.htm#D.YD.20250628"
     start_date: 2025-06-28
     end_date: 2025-06-28
     country: UK
@@ -1688,19 +1667,19 @@ events:
     bands:
       - Catsfield Steamers
     organisation: Webfeet
-  - name: Blackbeards Tea Party in Ely
+  - name: "Baily's Beads in Witcombe"
     links:
-      - "http://www.blackbeardsteaparty.com/gigs/"
-    start_date: 2025-07-11
-    end_date: 2025-07-13
+      - "http://mister.red/dance/gloucester.htm#D.VI.20250709"
+    start_date: 2025-07-09
+    end_date: 2025-07-09
     country: UK
-    city: Ely
+    city: Witcombe
     styles:
       - e-ceilidh
     workshop: false
     social: true
     bands:
-      - Blackbeards Tea Party
+      - "Baily's Beads"
     organisation: Webfeet
   - name: "Blackbeard's Tea Party in Ely"
     links:
@@ -1715,6 +1694,48 @@ events:
     social: true
     bands:
       - "Blackbeard's Tea Party"
+    organisation: Webfeet
+  - name: "Blackbeard's Tea Party in Walsall"
+    links:
+      - "https://www.bandsintown.com/e/106740822-blackbeard&#x27;s-tea-party-at-the-poundland-bescot-stadium"
+    start_date: 2025-07-11
+    end_date: 2025-07-11
+    country: UK
+    city: Walsall
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
+    organisation: Webfeet
+  - name: Blackbeards Tea Party in Walsall
+    links:
+      - "http://www.blackbeardsteaparty.com/gigs/"
+    start_date: 2025-07-12
+    end_date: 2025-07-12
+    country: UK
+    city: Walsall
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Blackbeards Tea Party
+    organisation: Webfeet
+  - name: Blackbeards Tea Party in Ely
+    links:
+      - "http://www.blackbeardsteaparty.com/gigs/"
+    start_date: 2025-07-13
+    end_date: 2025-07-13
+    country: UK
+    city: Ely
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Blackbeards Tea Party
     organisation: Webfeet
   - name: Box of Frogs in Englefield Green
     links:
@@ -1864,6 +1885,20 @@ events:
     bands:
       - Cheltenham Ceilidh Band
     organisation: Webfeet
+  - name: Blackbeards Tea Party in Hutton
+    links:
+      - "http://www.blackbeardsteaparty.com/gigs/"
+    start_date: 2025-09-07
+    end_date: 2025-09-07
+    country: UK
+    city: Hutton
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Blackbeards Tea Party
+    organisation: Webfeet
   - name: Dave Fran and Phil. in Alcester
     links:
       - "http://mister.red/dance/alcester.htm#D.3E.20250912"
@@ -1912,10 +1947,40 @@ events:
     callers:
       - Geoff Cubitt
     organisation: Webfeet
+  - name: live music in Oxford
+    links:
+      - "http://mister.red/dance/oxford.htm#D.AY.20250914"
+    start_date: 2025-09-14
+    end_date: 2025-09-14
+    country: UK
+    city: Oxford
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - live music
+    organisation: Webfeet
+  - name: 3sticks in Cardiff
+    links:
+      - "https://eceilidh.org.uk/cps/gigs/sticks-474fb8.php"
+    start_date: 2025-09-20
+    end_date: 2025-09-20
+    country: UK
+    city: Cardiff
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - 3sticks
+    callers:
+      - Chris Jewell
+    organisation: Webfeet
   - name: Venn in Horsley
     links:
       - "https://balfolkstroud.uk/cps/gigs/venn-75fa10.php"
-      - "http://mister.red/dance/horsley.htm#D.TC.20250927"
+      - "http://mister.red/dance/horsley.htm#D.TB.20250927"
     start_date: 2025-09-27
     end_date: 2025-09-27
     country: UK
@@ -1956,6 +2021,20 @@ events:
     social: true
     bands:
       - Cheltenham Ceilidh Band
+    organisation: Webfeet
+  - name: Sugar Loaf Band in Sedlescombe
+    links:
+      - "http://www.sugarloafband.co.uk/"
+    start_date: 2025-10-04
+    end_date: 2025-10-04
+    country: UK
+    city: Sedlescombe
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Sugar Loaf Band
     organisation: Webfeet
   - name: Vertical Expression in Alcester
     links:
@@ -2046,6 +2125,22 @@ events:
       - Helen Gentile & Lewis Wood
     callers:
       - Jane Bird
+    organisation: Webfeet
+  - name: WillPower in Morganstown
+    links:
+      - "https://eceilidh.org.uk/cps/gigs/willpower-e145ab.php"
+    start_date: 2025-10-18
+    end_date: 2025-10-18
+    country: UK
+    city: Morganstown
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - WillPower
+    callers:
+      - Mic Spenceley
     organisation: Webfeet
   - name: Crowdy Kit in Stroud
     links:
@@ -2234,7 +2329,7 @@ events:
   - name: Venn in Horsley
     links:
       - "https://balfolkstroud.uk/cps/gigs/venn-8c1451.php"
-      - "http://mister.red/dance/horsley.htm#D.TD.20251213"
+      - "http://mister.red/dance/horsley.htm#D.TC.20251213"
     start_date: 2025-12-13
     end_date: 2025-12-13
     country: UK
@@ -2275,6 +2370,34 @@ events:
     social: true
     bands:
       - Arish Mel
+    organisation: Webfeet
+  - name: Blackbeards Tea Party in Blackpool
+    links:
+      - "http://www.blackbeardsteaparty.com/gigs/"
+    start_date: 2026-01-23
+    end_date: 2026-01-23
+    country: UK
+    city: Blackpool
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Blackbeards Tea Party
+    organisation: Webfeet
+  - name: The Marisca Trio in Norwich
+    links:
+      - "http://www.mardles.org/mardles/ceilidhs/"
+    start_date: 2026-02-13
+    end_date: 2026-02-13
+    country: UK
+    city: Norwich
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Marisca Trio
     organisation: Webfeet
   - name: Portland Drive in Preston
     links:
