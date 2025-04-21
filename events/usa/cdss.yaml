@@ -14894,6 +14894,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: donation
     organisation: Arkansas Valley Music and Dance
   - name: Contra at Guiding Star Grange
     details: "Wild Asparagus with George Marshall, David Cantieni, Becky Tracy, Ann Percival and guests. Please check the Guiding Star Grange website for details. \nSchedule: 7:30-8:00 beginners’ workshop, 8:00-11:00 contra dance \nCost: $12 – $20 sliding scale \nSee venue website for this month’s details and Covid policy."
@@ -14985,7 +14986,9 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$25
     organisation: Scissortail Traditional Dance Society
+    cancelled: true
   - name: Montpelier Contra Dance
     details: "Montpelier Contra Dance with callers and bands that perform regionally and nationally—see website or Facebook events\nBeginners, singles, and all ages are welcome; all dances are taught.\nGender-neutral role terms (Larks and Robins)\nNewcomers lesson 7:40 pm. Dancing 8-11pm.\nPlease bring clean soft-soled shoes.\nMasks optional / Excellent ventilation with open windows and ceiling exhaust fan (bring a sweater in cooler months)\nMore info at our website. \n$12 adults, $5 kids/low-income, $20 dance supporters.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDancing 1st, 3rd, and 5th Saturdays year round"
     links:
@@ -18947,7 +18950,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/english-country-dance-asheville-nc-3/2025-04-30/"
-    start: "2025-04-30T19:00:00-04:00"
+    start: "2025-04-30T18:40:00-04:00"
     end: "2025-04-30T21:00:00-04:00"
     country: USA
     state: NC
@@ -18956,6 +18959,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: donation
     organisation: Luanne Stiles
   - name: Bloomington Contra Dance
     details: "Please see our home page for the latest information. \nEntrance fee: by sliding scale donation, with a suggested range from $3 to $20.  \nStriving Toward Safe Space Policy: We hope to create a dance in which everyone feels safe and welcome. Please take a moment to review our policy on respect and consent. \nMembership: Membership is optional. Both members and non-members pay a sliding scale entrance fee; see above.  \nVolunteers are always welcome! Sign up with a dance coordinator for set-up or clean-up if you’d like! Many of us also go out for drinks and munchies after each Wednesday night dance."
@@ -18994,7 +18998,7 @@ events:
     links:
       - "https://www.bfms.org/squarecontra.php"
       - "https://cdss.org/event/monday-night-english-country-dance-2/2025-04-30/"
-    start: "2025-04-30T20:00:00-04:00"
+    start: "2025-04-30T19:30:00-04:00"
     end: "2025-04-30T22:30:00-04:00"
     country: USA
     state: MD
@@ -19008,8 +19012,9 @@ events:
   - name: FSGW English Country Dance
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
+      - "https://fsgw.org/event-6110347"
       - "https://cdss.org/event/fsgw-english-country-dance/2025-04-30/"
-    start: "2025-04-30T20:00:00-04:00"
+    start: "2025-04-30T19:30:00-04:00"
     end: "2025-04-30T22:30:00-04:00"
     country: USA
     state: MD
@@ -19018,6 +19023,8 @@ events:
       - ecd
     workshop: true
     social: true
+    callers:
+      - Kappy Laning
     price: $8-$17
     organisation: Folklore Society of Greater Washington
   - name: Princeton Country Dancers’ Contra Dance
@@ -19025,15 +19032,16 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2025-04-30/"
-    start: "2025-04-30T20:00:00-04:00"
+    start: "2025-04-30T19:30:00-04:00"
     end: "2025-04-30T22:30:00-04:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: Cleveland Thursday English Country Dance
     details: "Come join us every Thursday afternoon for English Country Dancing. \nCombination of live and recorded music, in an air-conditioned hall."
@@ -19041,7 +19049,7 @@ events:
       - "https://englishcountryorg.wordpress.com/"
       - "https://cdss.org/event/cleveland-thursday-english-country-dance/2025-05-01/"
     start: "2025-05-01T13:30:00-04:00"
-    end: "2025-05-01T15:00:00-04:00"
+    end: "2025-05-01T15:30:00-04:00"
     country: USA
     state: OH
     city: Cleveland Heights
@@ -19049,6 +19057,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $2
     organisation: Cleveland English Dance Community
   - name: Indy English Country Dance
     details: "Calling by Alice Smith-Goeke at the Joy of All Who Sorrow Orthodox Church, 1516 N Delaware St (enter via 16th Street parking lot entrance). Suggested donation $5 per adult. \nRecorded music may be used. \nAdditional events the first Thursday of each month in 2025 at the Joy of All Who Sorrow Orthodox Church."
@@ -19082,21 +19091,27 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-250/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2025-05-01/"
-    start: "2025-05-01T19:30:00-04:00"
+    start: "2025-05-01T19:00:00-04:00"
     end: "2025-05-01T22:30:00-04:00"
     country: USA
     state: NY
     city: Rochester
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Sister Haggis
+    callers:
+      - Katy Heine
+    price: $12
     organisation: Country Dancers of Rochester
   - name: Thursday Contra Dance
     details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n\n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing\nMasks are no longer required but are welcomed.\nOur sliding scale is $10-$15-$20.\nOur role terms are Larks and Robins."
@@ -19114,20 +19129,23 @@ events:
     social: true
     price: $10-$20
     organisation: PATMAD
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley Contra Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2025-05-01/"
-    start: "2025-05-01T20:00:00-07:00"
-    end: "2025-05-01T22:30:00-07:00"
+    start: "2025-04-29T20:00:00-07:00"
+    end: "2025-04-29T22:30:00-07:00"
     country: USA
     state: CA
     city: Berkeley
     styles:
       - contra
-      - ecd
     workshop: true
     social: true
+    callers:
+      - Erik Hoffman
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: Flying Shoes Community Dance & Contra Dance
     details: "Everyone is welcome at this two-part monthly dance series. From neophytes to lifelong participants, and so many other demographic variations, we all collaborate to make this community-building participatory arts program a joyful success. See you at the dance! \nSchedule:\n\n6:00 pm ~ Musicians Warmup ~ Tunes on the All Comers Band page\n6:30-7:30 pm ~ Community Dance ~ Lisa Newcomb & Chrissy Fowler calling with the All Comers Band, led by Benjamin Foss & Willy Clemetson ~ Community Dance admission is $1 kids, $2 adults\n8:00-11:00 pm ~ Contra Dance ~ We use the terms lark and robin to identify the dance roles. (More on roles here.) ~ Contra Dance Admission is $20 – $15 (a sliding scale lets us cover expenses and compensate performers; please pay as much as you can!)\n\nLocation: First Church in Belfast UCC, 8 Court St, Belfast (enter via Spring St) \nPolicies:  See Community Care Policy and First Friday FAQ ~ BFS programs are chem free (please be sober) ~ Stay home if you don’t feel well \nSponsors: Artisan Builders, Belfast Community Co-op, Colburn Shoe Store, Daisychain Farm, First National Bank, Grace Chiropractic, The Green Store, Searsport Shores Oceanfront Camping, Thomas Fowler PE, Trillium Caterers, and Worth Real Estate"
@@ -19144,11 +19162,13 @@ events:
     workshop: false
     social: true
     bands:
-      - Trillium
+      - All Comers Band
+      - Thunderwing
     callers:
       - Chrissy Fowler
       - Lisa Newcomb
-    price: $1-$20
+      - Rick Mohr
+    price: $15-$27
     organisation: Belfast Flying Shoes
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
@@ -19169,6 +19189,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Orlando Contra Dance
     details: "Welcome to the Orlando Contra Dance! We feature high-tempo, gender-neutral dancing. We are Florida’s only gender-neutral contra series. Dancing is open to everyone and free for students and returning beginners (2nd dance is free)! \nWe usually dance on the first and third Friday of the month. Holidays, semester breaks, and regional events happen, so check the schedule before going!"
@@ -19184,6 +19205,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Orlando Contra Dance
   - name: ContraATL Weekly Dance
     details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
@@ -19199,6 +19221,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Whitewater Whirl
     details: "Join FOOTMAD for the 18th annual Whitewater Whirl Contra Dance Weekend in West Virginia’s scenic New River Gorge area. \nOur bands are Supertrad, a regular on the dance weekend circuit, featuring Sam Bartlett (banjo), Eric Schedler (piano and accordion), and Owen Morrison (guitar and foot percussion) and The Johns featuring Ruby John (fiddle), John Warstler (guitar), and Budd Greenman (mandolin, tenor banjo, fiddle, percussion). \nOur callers are the well-traveled Darlene Underwood from Cincinnati and Michael Karcher, now based in Allentown, PA. \nOur talented sound engineer, Hanno Meingast, will be making the music in the hall sound great. \nTwo evening contra dances, contra dance sessions during the day plus a late-night techno-contra, waltz, squares, English Country and Kerry Sets. We’ll be dancing in our wood and stone New Deal-era hall with suspended wooden floor and barn doors opened or closed to suite the weather. The calling terms will be larks and robins. \nCabin accommodation or camping is included in the weekend price. The camp will open Thursday night for early arrivals and stay open Sunday night for late departures. Online registration starts December 1 on our website."
@@ -19229,7 +19252,7 @@ events:
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-05-02/"
-    start: "2025-05-02T20:00:00-04:00"
+    start: "2025-05-02T19:30:00-04:00"
     end: "2025-05-02T23:00:00-04:00"
     country: USA
     state: MD
@@ -19238,6 +19261,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Friday Contra Dance
     details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$5 – $25, pay what you can."
@@ -19258,6 +19282,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6098"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2025-05-02/"
     start: "2025-05-02T19:30:00-07:00"
     end: "2025-05-02T22:30:00-07:00"
@@ -19268,6 +19293,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Ric Goldman
     price: $7-$20
     organisation: Portland Country Dance Community
   - name: English Country Dancing
@@ -19275,8 +19302,8 @@ events:
     links:
       - "https://sites.google.com/corp/site/svcwed/home-1/2025-practice-schedule"
       - "https://cdss.org/event/english-country-dancing/2025-05-03/"
-    start: "2025-05-03T05:00:00-04:00"
-    end: "2026-04-04T02:00:00-04:00"
+    start: "2025-05-02T18:30:00-04:00"
+    end: "2026-04-02T21:00:00-04:00"
     country: USA
     state: VA
     city: Penn Laird
@@ -19318,6 +19345,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: Baton Rouge Contra Dance
     details: Baton Rouge Contra Dance at St. Albans Chapel
@@ -19333,13 +19361,14 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$7
     organisation: Charlene Heaton & David Porter
   - name: Goshen Community Contra Dance
     details: "The Goshen Community Contra Dance celebrates its 24th season of dancing contras, squares, reels, circles & waltzes in downtown Goshen, In. \n\nNo experience or partner needed. New dancers are always welcome and are invited to the beginners’ workshop at 6:30pm. \nAlways live local and regional bands, and all dances are led by experienced callers.\nWear layers of comfortable, lightweight clothing and shoes for active movement.\nYou’ll be dancing on a springy wood floor!\n\nGeneral Public: Non-members $8, Members $6\nStudents: Non-members $5, Members $3\nChildren under 12: Free\nFamily maximum cost: $18"
     links:
       - "http://godancing.org/"
       - "https://cdss.org/event/goshen-community-contra-dance/2025-05-03/"
-    start: "2025-05-03T19:00:00-04:00"
+    start: "2025-05-03T18:30:00-04:00"
     end: "2025-05-03T22:00:00-04:00"
     country: USA
     state: IN
@@ -19396,13 +19425,16 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - "Pocketful o' Gimmick"
     callers:
       - Susan English
     price: $5-$7
     organisation: Wooster Dance
-  - name: "Spring Ball at Historic Tuckahoe (Richmond, Virginia)"
+  - name: Spring Ball at Historic Tuckahoe
     details: "You are invited to step into a world of elegance at the Spring Ball at Historic Tuckahoe.  Don your finest 18th- or 19th-century attire (or Sunday best) for an unforgettable evening of music, dance, and revelry. This event will be held at the stunning 18th-century Manor House in the heart of Richmond, Virginia. \nOur evening begins with a beginner lesson in English country dancing, ensuring all guests are ready to take part in the two-hour Ball. All participants will be enchanted with live music. Whether you are a seasoned dancer or a newcomer, our  instructors will guide you through the graceful movements of the past. \n VIP guests will have the rare opportunity to explore the grandeur of the original 18th-century manor house, complete with period furnishings and collectables. This exclusive guided tour will offer a glimpse into the grandeur and history of this colonial-era estate. Throughout the evening, all will be welcome to indulge in delectable party treats and adult beverages available for purchase. \nWith candlelight flickering and music filling the air, the Spring Ball at Historic Tuckahoe promises to be a night of magic, romance, and timeless charm. \nDress Code: 18th- or 19th-century period attire (or Sunday best) \nSchedule: \n\n5:30 VIP House Tour\n6:30 General admission\n7:00 Beginner Dance Lesson\n8:00 Ball begins\n10:00 Event is over\n\nTickets: \n\nOnce everything is approved until April 26 (one week prior to event)\n\n$30 – general admission\n$45 VIP\n\n\nApril 26 – May 3\n\n$35 – general admission\n$50 VIP\n\n\nVIP Ticket gets:\n\nGuided House Tour\n+ one drink ticket\n\n\n\nTickets are available in two locations: \n\nHistoric Tuckahoe Website\nEventbrite\n\nQ: Are young people welcome to attend the event?  \nA: Yes! This is a family friendly event. Anyone under the age of 16 must be accompanied with a paying adult. \nQ: Do Attendees have to wear a Colonial costume? \nA: 18th- and 19th–century style clothing is requested to create the proper ambiance for the event.  If you do not wish to wear historic clothing, no problem. Please arrive in your “Sunday best.” Thank you. \nQ: What is the floor surface where the dance will be held? \nA: The dance will be held under a huge party tent with string lights on the grounds of Historic Tuckahoe. The floor is flat, perfectly level, and paved with brick pavers. Dancers may wish to bring shoes appropriate for this type of surface."
     links:
+      - "https://www.visithistorictuckahoe.com/event/spring-ball/"
       - "https://cdss.org/event/spring-ball-at-historic-tuckahoe-richmond-virginia/"
     start: "2025-05-03T19:00:00-04:00"
     end: "2025-05-03T22:00:00-04:00"
@@ -19429,6 +19461,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: donation
     organisation: Arkansas Valley Music and Dance
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Tulsa, first Saturdays. Check our Facebook or our website for more details!"
@@ -19444,6 +19477,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$25
     organisation: Scissortail Traditional Dance Society
   - name: Friends of Traditional Dance Contra
     details: "Contra Dance every 1st and 3rd Saturday \nWe dance at the fabulous Masonic Ballroom, with its gorgeous sprung wood dance floor."
@@ -19459,6 +19493,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$20
     organisation: Friends of Traditional Dance
   - name: Tucson Contra Dance
     details: "Join us for our first and third Saturday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check https://tucsoncontradancers.org for more details"
@@ -19476,9 +19511,10 @@ events:
     social: true
     price: $5-$10
     organisation: Tucson Friends of Traditional Music%2C Inc.
-  - name: "Contra Dance in Moab, UT"
+  - name: Moab Contra Dance
     details: "Contra Dance in Moab, UT with local community callers and live music by the Moab Community Dance Band. Beginners workshop at 7:30, and the dance starts 8pm. At the Moab Arts and Recreation Center, 111 E. 100 N., just off Main St."
     links:
+      - "https://www.facebook.com/events/1778781186000448/"
       - "https://cdss.org/event/contra-dance-in-moab-ut/"
     start: "2025-05-03T19:30:00-06:00"
     end: "2025-05-03T22:00:00-06:00"
@@ -19491,21 +19527,25 @@ events:
     social: true
     bands:
       - Moab Community Dance Band
+    price: $10
     organisation: Moab Community Dance Band
   - name: Circle Left
     details: Circle Left is a gender-neutral contra dance in Oakland on the first Saturday of the month.
     links:
       - "https://www.queercontradance.org/circleleft.html"
       - "https://cdss.org/event/circle-left/2025-05-03/"
-    start: "2025-05-03T19:00:00-07:00"
+    start: "2025-05-03T18:30:00-07:00"
     end: "2025-05-03T22:00:00-07:00"
     country: USA
     state: CA
     city: Oakland
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    callers:
+      - Yoyo Zhou
+    price: $5-$20
     organisation: CDSS
   - name: Apple Blossom Bliss
     details: "Join us in Ann Arbor for a new contra dance weekend! Branded last year as the NexGen Contra Dance Weekend, we are back with a new name and great talent. \nBands:\nRiver Road (Sarah-Hadley Yakir, Kristen Planeaux, & Jesse Ball)\nThe Jig Lords (Brad Battey & Kendall Rogers) \nGender-Free Callers:\nLisa Greenleaf\nMaeve Devlin \nFor more information, visit our website."
