@@ -9670,7 +9670,7 @@ events:
     bands:
       - Danse Café
     price: $15
-    organisation: Danse Caf%C3%A9
+    organisation: Danse Café
   - name: Roseville English Country Dance
     details: "English Country Dance at the Masonic Lodge, 235 Vernon St., Roseville! Check our website for the most current information."
     links:
@@ -19060,21 +19060,23 @@ events:
     social: true
     price: $2
     organisation: Cleveland English Dance Community
-  - name: Gentle English (Swarthmore PA)
+  - name: Gentle English
     details: "English Country Dancing for those who enjoy relaxed tempos and familiar figures. Jenny Beer leading, music by laptop."
     links:
+      - "https://parkavenuecontra.org/GentleEnglish"
       - "https://cdss.org/event/gentle-english-swarthmore-pa/2025-05-01/"
     start: "2025-05-01T14:00:00-04:00"
     end: "2025-05-01T16:00:00-04:00"
     country: USA
-    state: Swarthmore
-    city: 1229 Park Ave
+    state: PA
+    city: Swarthmore
     styles:
       - ecd
     workshop: false
     social: true
     callers:
       - Jenny Beer
+    price: $5-$10
     organisation: Jenny Beer
   - name: Indy English Country Dance
     details: "Calling by Alice Smith-Goeke at the Joy of All Who Sorrow Orthodox Church, 1516 N Delaware St (enter via 16th Street parking lot entrance). Suggested donation $5 per adult. \nRecorded music may be used. \nAdditional events the first Thursday of each month in 2025 at the Joy of All Who Sorrow Orthodox Church."
@@ -19393,6 +19395,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Hoosier Recruits
+    callers:
+      - Barry Dupen
     price: $3-$8
     organisation: Goshen Community Contra Dance
   - name: "Swingin' Tern Contra Dance"
@@ -19740,6 +19746,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $10
     organisation: New Hampshire English Country Dance Society
   - name: Contra Dance
     details: "Contra Dance in Colorado Springs, CO with live music. \nBeginner’s lesson at start of session. \n$10 adults; $5 students; children under 13 free with a paying adult."
@@ -19771,12 +19778,13 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Houston Area Traditional Dance Society
-  - name: Balfolk—dance and jam session
+  - name: Balfolk dance and jam session
     details: "Please join us for another Pioneer Valley Balfolk on May 4th to celebrate La Fête du Muguet—Lily of the Valley Day! \n\nBecky Tracy will instruct and call the dances.  \nLive music with Danse Café: Cynthia Thomas—fiddle, Doug Feeney—guitar, and Tom Gajewski—clarinet. \nBalfolk jam session from 2:45-3:45\nBalfolk dance from 4:00-6:00\n\n$15 suggested donation"
     links:
       - "https://cdss.org/event/balfolk-dance-and-jam-session/"
-    start: "2025-05-04T16:00:00-04:00"
+    start: "2025-05-04T14:45:00-04:00"
     end: "2025-05-04T18:00:00-04:00"
     country: USA
     state: MA
@@ -19788,7 +19796,7 @@ events:
     bands:
       - Danse Café
     price: $15
-    organisation: Danse Caf%C3%A9
+    organisation: Danse Café
   - name: Roseville English Country Dance
     details: "English Country Dance at the Masonic Lodge, 235 Vernon St., Roseville! Check our website for the most current information."
     links:
@@ -19808,6 +19816,7 @@ events:
   - name: May the 4th Be With You Dance Party
     details: "Join our stellar performer, caller Lindsay Verbil, with Stepwise (Liam Lewis, Olivia Breidenthal, and James Yoshizawa) in an out-of-this-world dance experience. Our playful program will focus on the connective forces that surround us on the dance floor, bind us together, and bring out the best in ourselves and those around us. Surely this IS the dance you are looking for. \nFor details and registration, click here \nBeginners welcome!\nNo partner needed!\nCostumes are not required!"
     links:
+      - "https://historicalteaanddance.org/"
       - "https://cdss.org/event/may-the-4th-be-with-you-dance-party/"
     start: "2025-05-04T14:00:00-07:00"
     end: "2025-05-04T18:30:00-07:00"
@@ -19816,10 +19825,13 @@ events:
     city: South Pasadena
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Stepwise
     callers:
       - Lindsay Verbil
+    price: $25
     organisation: Historical Tea & Dance Society
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first Sundays and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \n\nFirst Sundays: Lessons at 3:40 PM; dance from 4–7 PM\nThird Saturdays: Lessons at 6:40; dance from 7–10 PM.\n\n​Prices: \n\n$15-$30, sliding scale, general admission\n$10-$25, members of MCDC, BACDS, CDSS or other sister organizations;\n$5, active military & full-time students, with ID;\nFREE! for children 12 & under"
@@ -19842,8 +19854,8 @@ events:
     links:
       - "https://nbcds.org/english-country-dance/"
       - "https://cdss.org/event/sebastopol-1st-and-3rd-sunday-english-dance/2025-05-04/"
-    start: "2025-05-04T17:00:00-07:00"
-    end: "2025-05-04T19:30:00-07:00"
+    start: "2025-05-04T14:00:00-07:00"
+    end: "2025-05-04T16:30:00-07:00"
     country: USA
     state: CA
     city: Sebastopol
@@ -19851,6 +19863,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Kalia Kliban
     price: $3-$15
     organisation: North Bay Country Dance Society
   - name: Apple Blossom Bliss
@@ -20181,8 +20195,9 @@ events:
   - name: Falcon Ridge Folk Festival
     details: A Three Day Community of Folk Music and Dance in the Litchfield Hills of CT.
     links:
+      - "http://falconridgefolk.com/"
       - "https://cdss.org/event/falcon-ridge-folk-festival/"
-    start: "2025-07-25T08:00:00-04:00"
+    start: "2025-07-25T09:00:00-04:00"
     end: "2025-07-27T17:00:00-04:00"
     country: USA
     state: CT
@@ -20191,6 +20206,8 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - The Gaslight Tinkers
     organisation: Falcon Ridge Folk Festival
   - name: Lark Camp
     details: "Music, Song & Dance Workshops in the beautiful Mendocino Woodlands of California \nFamily Friendly • Dances, Jams & Sessions • Great Food • Camping \nFull Camp for 8 Days, or Half Camp for 4 Days; Learn music, song, and dance traditions from Ireland, British Isles, Greece, Eastern Europe, Sweden, Latin America, North America, Spain, France, the Middle East, Asia, and Africa"
