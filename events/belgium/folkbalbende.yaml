@@ -16141,16 +16141,20 @@ events:
   - name: "Folk In 't Kasteel"
     details: Ball
     links:
+      - "https://www.schoten.be/academie/agenda/folkbal-3"
       - "https://folkbalbende.be/event/2301"
     start: "2025-06-07T19:00:00+02:00"
-    end: "2025-06-07T23:00:00+02:00"
+    end: "2025-06-07T22:45:00+02:00"
     country: Belgium
     city: Antwerp
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
-    organisation: ~
+    bands:
+      - Folkorkest Academie Schoten
+      - Griff
+    organisation: Academie Schoten
   - name: Celtival
     details: Ball
     links:
