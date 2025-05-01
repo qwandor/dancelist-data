@@ -3,55 +3,55 @@ events:
   - name: Cam-French
     links:
       - "https://www.facebook.com/events/300360528955805/"
-    start: 2022-05-22T14:00:00+01:00
-    end: 2022-05-22T17:00:00+01:00
+    start: "2022-05-22T14:00:00+01:00"
+    end: "2022-05-22T17:00:00+01:00"
     country: UK
     city: Cambridge
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     organisation: Cam-French
-
   - name: Cam-French outdoor session
     links:
       - "https://www.facebook.com/events/564856581688201/"
-    start: 2022-07-17T14:00:00+01:00
-    end: 2022-07-17T17:00:00+01:00
+    start: "2022-07-17T14:00:00+01:00"
+    end: "2022-07-17T17:00:00+01:00"
     country: UK
     city: Cambridge
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     price: free
     organisation: Cam-French
     cancelled: true
-
   - name: Cam-French music and dance session
     links:
       - "https://www.facebook.com/events/401331945273738/"
-    start: 2022-09-03T14:00:00+01:00
-    end: 2022-09-03T17:00:00+01:00
+    start: "2022-09-03T14:00:00+01:00"
+    end: "2022-09-03T17:00:00+01:00"
     country: UK
     city: Cambridge
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     price: £2-£4
     organisation: Cam-French
-
   - name: Cam-French music and dance session
     links:
       - "https://www.facebook.com/events/635803474689611/"
-    start: 2022-11-19T14:00:00+00:00
-    end: 2022-11-19T17:00:00+00:00
+    start: "2022-11-19T14:00:00+00:00"
+    end: "2022-11-19T17:00:00+00:00"
     country: UK
     city: Cambridge
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     price: £2-£4
     organisation: Cam-French
-
   - name: Cam-French music and dance session
     links:
       - "https://www.facebook.com/events/1139331503435810/"
@@ -65,7 +65,6 @@ events:
     social: true
     price: £2-£4
     organisation: Cam-French
-
   - name: French Music and Dance session
     links:
       - "https://www.facebook.com/events/1392874774805089/"
@@ -79,7 +78,6 @@ events:
     social: true
     price: £2-£4
     organisation: Cam-French
-
   - name: French Music and Dance session
     links:
       - "https://www.facebook.com/events/1503324360406699/"
@@ -93,7 +91,6 @@ events:
     social: true
     price: £2-£4
     organisation: Cam-French
-
   - name: French Music and Dance session
     links:
       - "https://www.facebook.com/events/711581557462093/"
@@ -107,7 +104,6 @@ events:
     social: true
     price: £2-£4
     organisation: Cam-French
-
   - name: French Music and Dance session
     links:
       - "https://www.facebook.com/events/1206451686800520/"
@@ -121,12 +117,11 @@ events:
     social: true
     price: £2-£4
     organisation: Cam-French
-
   - name: Cam-French Mini Bal
     links:
       - "https://www.facebook.com/events/873655821161382/"
-    start: "2024-01-20T14:00:00Z"
-    end: "2024-01-20T17:00:00Z"
+    start: "2024-01-20T14:00:00+00:00"
+    end: "2024-01-20T17:00:00+00:00"
     country: UK
     city: Cambridge
     styles:
@@ -137,7 +132,6 @@ events:
       - Portmanteau
     price: £2-£4
     organisation: Cam-French
-
   - name: French Music and Dance session
     links:
       - "https://www.facebook.com/events/3830250543927815/"
@@ -211,6 +205,7 @@ events:
   - name: Cam-French final celebration
     links:
       - "https://www.camfrench.co.uk/"
+      - "https://www.facebook.com/events/2613173408881074/"
     start: "2025-06-22T14:00:00+01:00"
     end: "2025-06-22T22:00:00+01:00"
     country: UK
@@ -221,4 +216,5 @@ events:
     social: true
     bands:
       - Portmanteau
+    price: free
     organisation: Cam-French
