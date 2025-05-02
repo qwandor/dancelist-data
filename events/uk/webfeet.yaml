@@ -1,19 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Diatonics in Sherfield on Loddon
-    links:
-      - "http://diatonics.co.uk/events.html"
-    start_date: 2025-02-01
-    end_date: 2025-02-01
-    country: UK
-    city: Sherfield on Loddon
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Diatonics
-    organisation: Webfeet
   - name: The Pigeon Swing in Kennington
     links:
       - "http://www.oxfolk.org.uk/"
@@ -307,56 +293,9 @@ events:
     callers:
       - Phil Bassindale
     organisation: Webfeet
-  - name: Randwick All Stars in Randwick
-    links:
-      - "http://mister.red/dance/stroud.htm#D.AT.20250421"
-    start_date: 2025-04-21
-    end_date: 2025-04-21
-    country: UK
-    city: Randwick
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Randwick All Stars
-    organisation: Webfeet
-  - name: Dave Byett in Pucklechurch
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AB.20250422"
-    start_date: 2025-04-22
-    end_date: 2025-04-22
-    country: UK
-    city: Pucklechurch
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Dave Byett
-    callers:
-      - Geoff Elwell
-    organisation: Webfeet
-  - name: Dampiers in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20250423"
-    start_date: 2025-04-23
-    end_date: 2025-04-23
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Dampiers
-    callers:
-      - Bubbles
-    organisation: Webfeet
   - name: Dodging Pheasants in Bristol
     links:
       - "https://bristolcontra.wordpress.com/"
-      - "http://mister.red/dance/bristol.htm#D.1@.20250425"
     start_date: 2025-04-25
     end_date: 2025-04-25
     country: UK
@@ -369,50 +308,6 @@ events:
       - Dodging Pheasants
     callers:
       - Lisa Heywood
-    organisation: Webfeet
-  - name: Flash Co in Exeter
-    links:
-      - "http://mister.red/dance/exeter.htm#D.YB.20250426"
-    start_date: 2025-04-26
-    end_date: 2025-04-26
-    country: UK
-    city: Exeter
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Flash Co
-    organisation: Webfeet
-  - name: The Four Foot Four in Fordingbridge
-    links:
-      - "https://eceilidh.org.uk/cps/gigs/thefourfootfour-42a829.php"
-    start_date: 2025-04-26
-    end_date: 2025-04-26
-    country: UK
-    city: Fordingbridge
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - The Four Foot Four
-    callers:
-      - Phil Preen
-    organisation: Webfeet
-  - name: Flash Company in Kennford
-    links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2025-04-26
-    end_date: 2025-04-26
-    country: UK
-    city: Kennford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Flash Company
     organisation: Webfeet
   - name: Ali and Mollie in Leeds
     links:
@@ -430,22 +325,6 @@ events:
     callers:
       - Lynne Render
     organisation: Webfeet
-  - name: Whiffeldy in Ludlow
-    links:
-      - "http://mister.red/dance/ludlow.htm#D.AY.20250426"
-    start_date: 2025-04-26
-    end_date: 2025-04-26
-    country: UK
-    city: Ludlow
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Whiffeldy
-    callers:
-      - Rob Eddon
-    organisation: Webfeet
   - name: Portland Duo in St. Albans
     links:
       - "http://portland-drive.co.uk/events/"
@@ -459,66 +338,6 @@ events:
     social: true
     bands:
       - Portland Duo
-    organisation: Webfeet
-  - name: live music in Bath
-    links:
-      - "http://mister.red/dance/bath.htm#D.AN.20250430"
-    start_date: 2025-04-30
-    end_date: 2025-04-30
-    country: UK
-    city: Bath
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: Dave Byett in Frenchay
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AC.20250430"
-    start_date: 2025-04-30
-    end_date: 2025-04-30
-    country: UK
-    city: Frenchay
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Dave Byett
-    callers:
-      - Barry Reeves
-    organisation: Webfeet
-  - name: Banjacs in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20250430"
-    start_date: 2025-04-30
-    end_date: 2025-04-30
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Banjacs
-    organisation: Webfeet
-  - name: Imogen and Friends in Witcombe
-    links:
-      - "http://mister.red/dance/gloucester.htm#D.VB.20250430"
-    start_date: 2025-04-30
-    end_date: 2025-04-30
-    country: UK
-    city: Witcombe
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Imogen and Friends
-    callers:
-      - Ellie and Sue.
     organisation: Webfeet
   - name: Tatterdemalion in Dorchester
     links:
@@ -879,7 +698,7 @@ events:
     organisation: Webfeet
   - name: Cradle to Grave in Hereford
     links:
-      - "http://mister.red/dance/hereford.htm#D.A0.20250510"
+      - "http://mister.red/dance/hereford.htm#D.AZ.20250510"
     start_date: 2025-05-10
     end_date: 2025-05-10
     country: UK
@@ -984,7 +803,7 @@ events:
     organisation: Webfeet
   - name: Dampiers Round in Witcombe
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VC.20250514"
+      - "http://mister.red/dance/gloucester.htm#D.VB.20250514"
     start_date: 2025-05-14
     end_date: 2025-05-14
     country: UK
@@ -1214,7 +1033,7 @@ events:
     organisation: Webfeet
   - name: Reely Good Band in Witcombe
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VD.20250528"
+      - "http://mister.red/dance/gloucester.htm#D.VC.20250528"
     start_date: 2025-05-28
     end_date: 2025-05-28
     country: UK
@@ -1244,7 +1063,7 @@ events:
     organisation: Webfeet
   - name: Skermish in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YC.20250531"
+      - "http://mister.red/dance/exeter.htm#D.YB.20250531"
     start_date: 2025-05-31
     end_date: 2025-05-31
     country: UK
@@ -1464,7 +1283,7 @@ events:
     organisation: Webfeet
   - name: Dampiers Round in Witcombe
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VE.20250611"
+      - "http://mister.red/dance/gloucester.htm#D.VD.20250611"
     start_date: 2025-06-11
     end_date: 2025-06-11
     country: UK
@@ -1538,6 +1357,20 @@ events:
     social: true
     bands:
       - Blue Jewel
+    organisation: Webfeet
+  - name: Live Band in Stroud
+    links:
+      - "http://mister.red/dance/stroud.htm#D.A0.20250613"
+    start_date: 2025-06-13
+    end_date: 2025-06-13
+    country: UK
+    city: Stroud
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Live Band
     organisation: Webfeet
   - name: Blue Jewel in Totnes
     links:
@@ -1634,6 +1467,20 @@ events:
     bands:
       - Banter
     organisation: Webfeet
+  - name: live music in Bath
+    links:
+      - "http://mister.red/dance/bath.htm#D.AN.20250625"
+    start_date: 2025-06-25
+    end_date: 2025-06-25
+    country: UK
+    city: Bath
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - live music
+    organisation: Webfeet
   - name: Brian McMinn & Mike Green in Frenchay
     links:
       - "http://mister.red/dance/bristol.htm#D.AC.20250625"
@@ -1652,7 +1499,7 @@ events:
     organisation: Webfeet
   - name: Dave Byett in Witcombe
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VF.20250625"
+      - "http://mister.red/dance/gloucester.htm#D.VE.20250625"
     start_date: 2025-06-25
     end_date: 2025-06-25
     country: UK
@@ -1668,7 +1515,7 @@ events:
     organisation: Webfeet
   - name: Crowdy Kit in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YD.20250628"
+      - "http://mister.red/dance/exeter.htm#D.YC.20250628"
     start_date: 2025-06-28
     end_date: 2025-06-28
     country: UK
@@ -1740,7 +1587,7 @@ events:
     organisation: Webfeet
   - name: "Baily's Beads in Witcombe"
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VG.20250709"
+      - "http://mister.red/dance/gloucester.htm#D.VF.20250709"
     start_date: 2025-07-09
     end_date: 2025-07-09
     country: UK
