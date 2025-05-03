@@ -31,6 +31,7 @@ events:
     bands:
       - Duo Bottasso
       - Duo Antolí-Todorovski
+    organisation: ~
   - name: Französischer Volkstanz
     links:
       - "https://www.facebook.com/ohmi.deux/posts/pfbid0eFKhgGnvXxkb5uTPbrFg3W1w1dTjFN1TrevzMX1HdTPKmEioZwHJrWjCYf7C3GWgl"
@@ -46,6 +47,7 @@ events:
     organisation: Maximilian Ohmacht
   - name: Breton dance workshop
     details: Workshop with Yves Defrance (Rennes). Anmeldung via Email an Martina Krammer (krammer@mdw.ac.at)
+    links: []
     start: "2024-01-11T19:00:00+01:00"
     end: "2024-01-11T21:00:00+01:00"
     country: Austria
@@ -70,9 +72,9 @@ events:
     price: €10
     organisation: Maximilian Ohmacht
   - name: "Dance Workshop: Marinette Bonnert"
-    details: Leicht zugängliche Tänze des Bal Folk, wie Rundtänze, Kettentänze oder Mixer, und begleitet die Tanzenden am Diatonischen Knopfakkordeon.
+    details: "Leicht zugängliche Tänze des Bal Folk, wie Rundtänze, Kettentänze oder Mixer, und begleitet die Tanzenden am Diatonischen Knopfakkordeon."
     links:
-      - https://akkordeonfestival.at/events/tanzworkshop-mit-marinette-bonnert/
+      - "https://akkordeonfestival.at/events/tanzworkshop-mit-marinette-bonnert/"
     start: "2024-03-09T15:00:00+01:00"
     end: "2024-03-09T18:00:00+01:00"
     country: Austria
@@ -170,4 +172,20 @@ events:
     bands:
       - Lauge Dideriksen
     price: €120-€210
+    organisation: Leben & Hacker
+  - name: Bal Folk Tanzworkshop
+    details: "workshop weekend with live music\r\nteaching: Wanda Leben and Anton Hacker"
+    links:
+      - "https://tradivarium.at/event/2025-05-31-100000-to-2025-06-01-170000/bal-folk-tanz-workshop"
+    start: "2025-05-31T10:00:00+02:00"
+    end: "2025-06-01T17:00:00+02:00"
+    country: Austria
+    city: Vienna
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    bands:
+      - Lauge Dideriksen
+    price: €100-€210
     organisation: Leben & Hacker
