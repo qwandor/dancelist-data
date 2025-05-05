@@ -4670,7 +4670,7 @@ events:
     workshop: true
     social: true
     bands:
-      - J’en Rafolk
+      - "J'en Rafolk"
     organisation: ~
   - name: Concert Kadril & Folkbal @ De Foyer
     details: Ball
@@ -7518,7 +7518,7 @@ events:
     workshop: false
     social: true
     bands:
-      - J’en Rafolk
+      - "J'en Rafolk"
     organisation: ~
   - name: Folkdansles Limburg (begonners)
     details: Course
@@ -21099,54 +21099,54 @@ events:
       - Poelbalorkest
     price: free
     organisation: Poelband
-  - name: Jam
+  - name: Boeuf Folk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.facebook.com/events/2170080150056414/2170080156723080"
+      - "https://www.facebook.com/events/2170080150056414/2170080166723079"
       - "https://folkbalbende.be/event/2783"
-    start_date: 2025-05-04
-    end_date: 2025-05-04
+    start: "2025-05-04T19:00:00+02:00"
+    end: "2025-05-04T22:30:00+02:00"
     country: Belgium
     city: Brussels
     styles:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - Possibilité De Danser
-    organisation: ~
-  - name: Folkbal
+    price: €2
+    organisation: Les Boeufs Folk Bruxellois
+  - name: Quatre Quart
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://contretempsetmarees.wixsite.com/contretempsetmarees"
+      - "https://contretempsetmarees.wixsite.com/contretempsetmarees/journal-de-bord"
       - "https://folkbalbende.be/event/2784"
-    start_date: 2025-05-18
-    end_date: 2025-05-18
+    start: "2025-05-18T15:00:00+02:00"
+    end: "2025-05-18T19:00:00+02:00"
     country: Belgium
     city: Wavre
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
-      - Contre Temps Et Marees
+      - Contretemps et Marées
     organisation: ~
-  - name: Eä
+  - name: Bal Folk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://lacompagniedelhydre.yapsody.com/event/index/837487/bal-folk"
       - "https://folkbalbende.be/event/2785"
-    start_date: 2025-05-23
-    end_date: 2025-05-23
+    start: "2025-05-23T18:30:00+02:00"
+    end: "2025-05-23T22:00:00+02:00"
     country: Belgium
     city: Brussels
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Eä
+    price: €13-€16
     organisation: ~
   - name: Festival Maintenant
     details: Ball
@@ -21154,8 +21154,8 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.festivalmaintenant.be/"
       - "https://folkbalbende.be/event/2786"
-    start_date: 2025-05-24
-    end_date: 2025-05-24
+    start: "2025-05-24T18:00:00+02:00"
+    end: "2025-05-24T22:00:00+02:00"
     country: Belgium
     city: Louvain-la-Neuve
     styles:
@@ -21163,7 +21163,7 @@ events:
     workshop: false
     social: true
     bands:
-      - "J'En Rafolk"
+      - "J'en Rafolk"
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -21171,8 +21171,8 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://eledanse.be/event/bal-gabriel-lenoir-2024/?fbclid=IwZXh0bgNhZW0CMTAAAR2OrnR6mggtd33z8uo_L-hLM_xM724lq7ojW7GoQKP_aq3PfDS9nh0Xfnk_aem_powHozBLUtO8Fmx9N3SFKQ"
       - "https://folkbalbende.be/event/2787"
-    start_date: 2025-05-25
-    end_date: 2025-05-25
+    start: "2025-05-25T19:00:00+02:00"
+    end: "2025-05-25T22:00:00+02:00"
     country: Belgium
     city: Rixensart
     styles:
@@ -21180,33 +21180,32 @@ events:
     workshop: false
     social: true
     bands:
-      - "Tout L'barda"
+      - Gabriel Lenoir
+    price: €15
     organisation: EléDanse ASBL
   - name: Jam
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.facebook.com/events/2170080150056414/2170080156723080"
       - "https://folkbalbende.be/event/2788"
-    start_date: 2025-06-01
-    end_date: 2025-06-01
+    start: "2025-06-01T19:00:00+02:00"
+    end: "2025-06-01T22:30:00+02:00"
     country: Belgium
     city: Brussels
     styles:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - Possibilité De Danser
-    organisation: ~
+    price: €2
+    organisation: Les Boeufs Folk Bruxellois
   - name: Baleynbal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.tey.be/"
+      - "https://tey.be/programma/2025/06/08/limbrant"
       - "https://folkbalbende.be/event/2789"
-    start_date: 2025-06-06
-    end_date: 2025-06-06
+      - "https://www.facebook.com/events/9183521388369563/"
+    start: "2025-06-08T16:00:00+02:00"
+    end: "2025-06-08T21:00:00+02:00"
     country: Belgium
     city: Belsele
     styles:
@@ -21214,9 +21213,8 @@ events:
     workshop: false
     social: true
     bands:
-      - ": Bal"
       - Limbrant
-      - Puis Jam
+    price: free
     organisation: "Muziekclub 't Ey"
   - name: Celtival
     details: Ball
@@ -21232,6 +21230,7 @@ events:
       - balfolk
     workshop: false
     social: true
+    price: €17-€21
     organisation: ~
   - name: Celtival
     details: Ball
@@ -21248,6 +21247,6 @@ events:
     workshop: false
     social: true
     bands:
-      - Entre Autres
       - Duo Macke-Bornauw
+    price: €15-€18
     organisation: ~
