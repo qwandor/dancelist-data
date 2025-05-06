@@ -21768,7 +21768,7 @@ events:
     links:
       - "https://lenoxcontradance.org/sched.php"
       - "https://cdss.org/event/lenox-contra-dance/2025-05-17/"
-    start: "2025-05-17T07:15:00-04:00"
+    start: "2025-05-17T19:15:00-04:00"
     end: "2025-05-17T22:30:00-04:00"
     country: USA
     state: MA
@@ -21777,7 +21777,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $8-$12
+    price: $8-$15
     organisation: Lenox Contra Dance
   - name: York Region English Country Dancers
     details: "English Country Dance in central York Region (Ontario, Canada)! Beginners welcome; all dances taught; you don’t need to bring a partner. Admission by donation; your first class is free. Join us on the first, third, and (when there is one) fifth Saturday of the month from 2:00 to 4:00. (Please check the website for possible last-minute changes.)"
@@ -21809,6 +21809,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: Southern Illinois Community Contra Dance
     details: "Our monthly dance is “Blue Zone” living in a war zone world. Connect with neighbors, move your body, eat healthy(ish) food, give your social media a downtime. Southern Illinois Community Contra Dance might just help you live to age 100. \n$5 or pay what you can."
@@ -21838,10 +21839,9 @@ events:
       - ecd
     workshop: true
     social: true
-    callers:
-      - Ann Fallon
     price: $5-$15
     organisation: Annapolis Traditional Dance Society
+    cancelled: true
   - name: South Florida Contradance
     details: "Enjoying contra dance\nYou’ll be smiling and laughing.\nNo partner is necessary. Lesson at the beginning. Wear casual clothes and soft soled shoes.\nAge range 10-100\nDances are called.\nPut the phone down and destress your life."
     links:
@@ -21856,21 +21856,23 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: CDSS
   - name: Friends of Traditional Dance Contra
     details: "Contra Dance every 1st and 3rd Saturday \nWe dance at the fabulous Masonic Ballroom, with its gorgeous sprung wood dance floor."
     links:
       - "https://fotd.org/"
       - "https://cdss.org/event/friends-of-traditional-dance-contra/2025-05-17/"
-    start: "2025-05-17T19:00:00-06:00"
+    start: "2025-05-17T18:15:00-06:00"
     end: "2025-05-17T22:00:00-06:00"
     country: USA
     state: CO
     city: Fort Collins
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $5-$20
     organisation: Friends of Traditional Dance
   - name: Wasatch Contra Dance
     details: "We Dance every Third Saturday of the Month!\nBeginner’s session starts at 7:00 pm\nDance starts at 7:30 pm\nGeneral admission $10\nSliding Scale (financial hardship) $8\nYouth $5"
@@ -21918,6 +21920,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Forgery
+    callers:
+      - Kelsey Hartman
     price: $5-$30
     organisation: Monterey Country Dance Community
   - name: 3rd Saturdays Contra Dance
@@ -21926,7 +21932,7 @@ events:
       - "https://www.contradancenc.org/"
       - "https://www.kvmr.org/kvmr-event/third-saturdays-contra-dance-nevada-county/"
       - "https://cdss.org/event/3rd-saturdays-contra-dance-grass-valley-ca/2025-05-17/"
-    start: "2025-05-17T19:00:00-07:00"
+    start: "2025-05-17T18:45:00-07:00"
     end: "2025-05-17T22:00:00-07:00"
     country: USA
     state: CA
