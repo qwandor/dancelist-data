@@ -1,67 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: The Pigeon Swing in Kennington
-    links:
-      - "http://www.oxfolk.org.uk/"
-    start_date: 2025-02-08
-    end_date: 2025-02-08
-    country: UK
-    city: Kennington
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - The Pigeon Swing
-    callers:
-      - Baz Parkes
-    organisation: Webfeet
-  - name: Box of Frogs in Englefield Green
-    links:
-      - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
-    start_date: 2025-02-09
-    end_date: 2025-02-09
-    country: UK
-    city: Englefield Green
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Box of Frogs
-    callers:
-      - Mark Elvins
-    organisation: Webfeet
-  - name: Arish Mel in Kimmeridge
-    links:
-      - "http://www.earwicker.org/about_arish_mel.htm"
-    start_date: 2025-02-14
-    end_date: 2025-02-14
-    country: UK
-    city: Kimmeridge
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Arish Mel
-    organisation: Webfeet
-  - name: Banter in Letchworth
-    links:
-      - "http://www.unicornceilidhs.org.uk/uc05prog.html"
-    start_date: 2025-02-14
-    end_date: 2025-02-14
-    country: UK
-    city: Letchworth
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    callers:
-      - Tim Walker
-    organisation: Webfeet
   - name: "Diatonics in Chandler's Ford"
     links:
       - "http://diatonics.co.uk/events.html"
@@ -325,50 +263,6 @@ events:
     callers:
       - Lynne Render
     organisation: Webfeet
-  - name: Portland Duo in St. Albans
-    links:
-      - "http://portland-drive.co.uk/events/"
-    start_date: 2025-04-26
-    end_date: 2025-04-26
-    country: UK
-    city: St. Albans
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Portland Duo
-    organisation: Webfeet
-  - name: Tatterdemalion in Dorchester
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2025-05-01
-    end_date: 2025-05-01
-    country: UK
-    city: Dorchester
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Tatterdemalion
-    callers:
-      - Angela Laycock
-    organisation: Webfeet
-  - name: Banter in Upton
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2025-05-02
-    end_date: 2025-05-05
-    country: UK
-    city: Upton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
   - name: Martin et al in Upton upon Severn
     links:
       - "http://mister.red/dance/upton_upon_severn.htm#D.IC.20250502"
@@ -500,20 +394,6 @@ events:
     bands:
       - Bash Street Dance Band
       - The Bash Street Dance Band
-    organisation: Webfeet
-  - name: Maiden Oak in Corfe Castle
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2025-05-05
-    end_date: 2025-05-05
-    country: UK
-    city: Corfe Castle
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Maiden Oak
     organisation: Webfeet
   - name: The Bash Street Dance Band in Doncaster
     links:
@@ -714,6 +594,7 @@ events:
     links:
       - "http://mister.red/dance/oxford.htm#D.FR.20250510"
       - "http://www.oxfolk.org.uk/"
+      - "http://dedics.co.uk/Panjandrum/index.html"
     start_date: 2025-05-10
     end_date: 2025-05-10
     country: UK
@@ -1203,6 +1084,7 @@ events:
     workshop: false
     social: true
     bands:
+      - Portland Drive
       - Portland Duo
     callers:
       - Geoff Cubitt
@@ -1759,6 +1641,20 @@ events:
     bands:
       - Whapweasel
     organisation: Webfeet
+  - name: Threepenny Bit in Wareham
+    links:
+      - "https://www.bandsintown.com/e/106832835-threepenny-bit-at-purbeck-valley-farmhouse"
+    start_date: 2025-08-14
+    end_date: 2025-08-14
+    country: UK
+    city: Wareham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Threepenny Bit
+    organisation: Webfeet
   - name: PolkaWorks in Grove
     links:
       - "http://mister.red/dance/wantage.htm#D.UC.20250816"
@@ -1848,6 +1744,20 @@ events:
       - Dave Fran and Phil.
     callers:
       - Liam Binley
+    organisation: Webfeet
+  - name: Panjandrum in Baldock
+    links:
+      - "http://dedics.co.uk/Panjandrum/index.html"
+    start_date: 2025-09-12
+    end_date: 2025-09-12
+    country: UK
+    city: Baldock
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Panjandrum
     organisation: Webfeet
   - name: Naragonia in Cirencester
     links:
@@ -2305,6 +2215,20 @@ events:
     bands:
       - Arish Mel
     organisation: Webfeet
+  - name: Fairgreen Ceilidh Band in Norwich
+    links:
+      - "http://www.mardles.org/mardles/ceilidhs/"
+    start_date: 2026-01-09
+    end_date: 2026-01-09
+    country: UK
+    city: Norwich
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Fairgreen Ceilidh Band
+    organisation: Webfeet
   - name: Blackbeards Tea Party in Blackpool
     links:
       - "http://www.blackbeardsteaparty.com/gigs/"
@@ -2379,3 +2303,17 @@ events:
       - Martyn Harvey
     organisation: Webfeet
     cancelled: true
+  - name: The Hosepipe Band in Norwich
+    links:
+      - "http://www.mardles.org/mardles/ceilidhs/"
+    start_date: 2026-05-15
+    end_date: 2026-05-15
+    country: UK
+    city: Norwich
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Hosepipe Band
+    organisation: Webfeet
