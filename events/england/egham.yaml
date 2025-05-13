@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Afternoon of Dance
+    links:
+      - "https://friendsofenglishdance.org.uk/events/fed-afternoon-of-dance/"
+    start: "2025-06-01T02:30:00+01:00"
+    end: "2025-06-01T17:30:00+01:00"
+    country: England
+    city: Egham
+    styles:
+      - contra
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Box of Frogs
+    callers:
+      - Brooke Friendly
+    price: £15 (£13 members)
+    organisation: Friends of English dance
