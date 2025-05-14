@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Day of Dance
+    details: "Callers: Liam Binley & Bernie Culkin.\r\nMusicians: Audrey Jaber & Alex Cumming"
+    links:
+      - "https://friendsofenglishdance.org.uk/events/fed-day-of-dance/"
+    start: "2025-08-10T10:00:00+01:00"
+    end: "2025-08-10T17:00:00+01:00"
+    country: UK
+    city: Oakham
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Alex Cumming & Audrey Jaber
+    callers:
+      - Liam Binley
+      - Bernie Culkin
+    organisation: Friends of English dance
