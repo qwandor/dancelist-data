@@ -1,22 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "Diatonics in Chandler's Ford"
-    links:
-      - "http://diatonics.co.uk/events.html"
-      - "http://www.shocc.co.uk/"
-    start_date: 2025-02-22
-    end_date: 2025-02-22
-    country: UK
-    city: "Chandler's Ford"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Diatonics
-    callers:
-      - Emma Wooders
-    organisation: Webfeet
   - name: Arish Mel in Stoborough
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -263,261 +246,9 @@ events:
     callers:
       - Lynne Render
     organisation: Webfeet
-  - name: Martin et al in Upton upon Severn
-    links:
-      - "http://mister.red/dance/upton_upon_severn.htm#D.IC.20250502"
-    start_date: 2025-05-02
-    end_date: 2025-05-02
-    country: UK
-    city: Upton upon Severn
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Martin et al
-    organisation: Webfeet
-  - name: Ross Grant & EFDSS in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.XB.20250503"
-    start_date: 2025-05-03
-    end_date: 2025-05-03
-    country: UK
-    city: Bristol
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Ross Grant & EFDSS
-    organisation: Webfeet
-  - name: Oxford Nags in Upton upon Severn
-    links:
-      - "http://mister.red/dance/upton_upon_severn.htm#D.ID.20250503"
-    start_date: 2025-05-03
-    end_date: 2025-05-03
-    country: UK
-    city: Upton upon Severn
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Oxford Nags
-    callers:
-      - Barry Goodman - in Memorial Hall (
-    organisation: Webfeet
-  - name: "sessionista in Bath French, Bath"
-    links:
-      - "http://mister.red/dance/bath.htm#D.AL.20250504"
-    start_date: 2025-05-04
-    end_date: 2025-05-04
-    country: UK
-    city: "Bath French, Bath"
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - sessionista
-    organisation: Webfeet
-  - name: Banter in Upton upon Severn
-    links:
-      - "http://mister.red/dance/upton_upon_severn.htm#D.IE.20250504"
-    start_date: 2025-05-04
-    end_date: 2025-05-04
-    country: UK
-    city: Upton upon Severn
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    callers:
-      - Tim Walker - in Memorial Hall (
-    organisation: Webfeet
-  - name: The Bash Street Dance Band in Bradfield
-    links:
-      - "http://www.bashstreetband.co.uk/"
-    start_date: 2025-05-05
-    end_date: 2025-05-05
-    country: UK
-    city: Bradfield
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Bash Street Dance Band
-      - The Bash Street Dance Band
-    organisation: Webfeet
-  - name: The Bash Street Dance Band in Chesterfield
-    links:
-      - "http://www.bashstreetband.co.uk/"
-    start_date: 2025-05-05
-    end_date: 2025-05-05
-    country: UK
-    city: Chesterfield
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - The Bash Street Dance Band
-    organisation: Webfeet
-  - name: The Bash Street Dance Band in Chilwell
-    links:
-      - "http://www.bashstreetband.co.uk/"
-    start_date: 2025-05-05
-    end_date: 2025-05-05
-    country: UK
-    city: Chilwell
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - The Bash Street Dance Band
-    organisation: Webfeet
-  - name: The Bash Street Dance Band in Coal Aston
-    links:
-      - "http://www.bashstreetband.co.uk/"
-    start_date: 2025-05-05
-    end_date: 2025-05-05
-    country: UK
-    city: Coal Aston
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Bash Street Dance Band
-      - The Bash Street Dance Band
-    organisation: Webfeet
-  - name: The Bash Street Dance Band in Doncaster
-    links:
-      - "http://www.bashstreetband.co.uk/"
-    start_date: 2025-05-05
-    end_date: 2025-05-05
-    country: UK
-    city: Doncaster
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - The Bash Street Dance Band
-    organisation: Webfeet
-  - name: The Bash Street Dance Band in Dronfield
-    links:
-      - "http://www.bashstreetband.co.uk/"
-    start_date: 2025-05-05
-    end_date: 2025-05-05
-    country: UK
-    city: Dronfield
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Bash Street Dance Band
-      - The Bash Street Dance Band
-    organisation: Webfeet
-  - name: The Bash Street Dance Band in Hathersage
-    links:
-      - "http://www.bashstreetband.co.uk/"
-    start_date: 2025-05-05
-    end_date: 2025-05-05
-    country: UK
-    city: Hathersage
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - The Bash Street Dance Band
-    organisation: Webfeet
-  - name: The Bash Street Dance Band in Mansfield
-    links:
-      - "http://www.bashstreetband.co.uk/"
-    start_date: 2025-05-05
-    end_date: 2025-05-05
-    country: UK
-    city: Mansfield
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - The Bash Street Dance Band
-    organisation: Webfeet
-  - name: Bash Street Dance Band in Newark
-    links:
-      - "http://www.bashstreetband.co.uk/"
-    start_date: 2025-05-05
-    end_date: 2025-05-05
-    country: UK
-    city: Newark
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Bash Street Dance Band
-    organisation: Webfeet
-  - name: The Bash Street Dance Band in Sheffield
-    links:
-      - "http://www.bashstreetband.co.uk/"
-    start_date: 2025-05-05
-    end_date: 2025-05-05
-    country: UK
-    city: Sheffield
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Bash Street Dance Band
-      - The Bash Street Dance Band
-    organisation: Webfeet
-  - name: Chris Toyne in Pucklechurch
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AB.20250506"
-    start_date: 2025-05-06
-    end_date: 2025-05-06
-    country: UK
-    city: Pucklechurch
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Chris Toyne
-    callers:
-      - Mike Courthold
-    organisation: Webfeet
-  - name: Dampiers in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20250507"
-    start_date: 2025-05-07
-    end_date: 2025-05-07
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Dampiers
-    callers:
-      - Roger Middleton
-    organisation: Webfeet
   - name: The Pigeon Swing in Baldock
     links:
-      - "https://www.areyoudancing.com/dance-event/733052/"
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
-      - "https://www.areyoudancing.com/dance-event/751127/"
     start_date: 2025-05-09
     end_date: 2025-05-09
     country: UK
@@ -527,30 +258,13 @@ events:
     workshop: false
     social: true
     bands:
-      - Gas Mark V
-      - The Old Swan Band
       - The Pigeon Swing
     callers:
       - Jane Bird
     organisation: Webfeet
-  - name: Poisson Rouge in Exeter
-    links:
-      - "http://mister.red/dance/exeter.htm#D.AM.20250509"
-    start_date: 2025-05-09
-    end_date: 2025-05-09
-    country: UK
-    city: Exeter
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Poisson Rouge
-    organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
-      - "http://www.sadfolk.co.uk/listings.php"
     start_date: 2025-05-09
     end_date: 2025-05-09
     country: UK
@@ -562,37 +276,8 @@ events:
     bands:
       - Arish Mel
     organisation: Webfeet
-  - name: Cheltenham Ceilidh Band in Cheltenham
-    links:
-      - "http://mister.red/dance/cheltenham.htm#D.DA.20250510"
-    start_date: 2025-05-10
-    end_date: 2025-05-10
-    country: UK
-    city: Cheltenham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Cheltenham Ceilidh Band
-    organisation: Webfeet
-  - name: Cradle to Grave in Hereford
-    links:
-      - "http://mister.red/dance/hereford.htm#D.AZ.20250510"
-    start_date: 2025-05-10
-    end_date: 2025-05-10
-    country: UK
-    city: Hereford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Cradle to Grave
-    organisation: Webfeet
   - name: Panjandrum in Kennington
     links:
-      - "http://mister.red/dance/oxford.htm#D.FR.20250510"
       - "http://www.oxfolk.org.uk/"
       - "http://dedics.co.uk/Panjandrum/index.html"
     start_date: 2025-05-10
@@ -607,96 +292,6 @@ events:
       - Panjandrum
     callers:
       - Nancy Potts
-    organisation: Webfeet
-  - name: Jigsmith in Whitchurch
-    links:
-      - "https://www.areyoudancing.com/dance-event/753786/"
-    start_date: 2025-05-10
-    end_date: 2025-05-10
-    country: UK
-    city: Whitchurch
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Jigsmith
-    organisation: Webfeet
-  - name: live music in Oxford
-    links:
-      - "http://mister.red/dance/oxford.htm#D.AV.20250511"
-    start_date: 2025-05-11
-    end_date: 2025-05-11
-    country: UK
-    city: Oxford
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: live music in Bath
-    links:
-      - "http://mister.red/dance/bath.htm#D.AN.20250514"
-    start_date: 2025-05-14
-    end_date: 2025-05-14
-    country: UK
-    city: Bath
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: Dave Yeomans & Christina Woods in Frenchay
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AC.20250514"
-    start_date: 2025-05-14
-    end_date: 2025-05-14
-    country: UK
-    city: Frenchay
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Dave Yeomans & Christina Woods
-    callers:
-      - Barry Reeves
-    organisation: Webfeet
-  - name: Banjacs in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20250514"
-    start_date: 2025-05-14
-    end_date: 2025-05-14
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Banjacs
-    callers:
-      - Roger Middleton
-    organisation: Webfeet
-  - name: Dampiers Round in Witcombe
-    links:
-      - "http://mister.red/dance/gloucester.htm#D.VB.20250514"
-    start_date: 2025-05-14
-    end_date: 2025-05-14
-    country: UK
-    city: Witcombe
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Dampiers Round
-    callers:
-      - Keith and Karen
     organisation: Webfeet
   - name: Catsfield Steamers in Eastbourne
     links:
@@ -744,36 +339,6 @@ events:
       - Box of Frogs
     callers:
       - Charlie Turner
-    organisation: Webfeet
-  - name: Banter in Northampton
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2025-05-16
-    end_date: 2025-05-16
-    country: UK
-    city: Northampton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
-  - name: "Fool's Jig in Worsall"
-    links:
-      - "https://www.efdss.org/calendar-events/14703-95c8f422f9c3308d391cbcefae21d5ad"
-    start_date: 2025-05-16
-    end_date: 2025-05-16
-    country: UK
-    city: Worsall
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Fool's Jig"
-    callers:
-      - Bob Carter
     organisation: Webfeet
   - name: KettleHawk in Cardiff
     links:
@@ -868,8 +433,45 @@ events:
       - "Blackbeard's Tea Party"
       - Portmanteau
     organisation: Webfeet
+  - name: Crowdy-Kit in Chippenham
+    links:
+      - "https://www.chippfolk.co.uk/WhatsOnWhen"
+    start_date: 2025-05-24
+    end_date: 2025-05-24
+    country: UK
+    city: Chippenham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Banter
+      - Crowdy-Kit
+    callers:
+      - Fee Lock
+      - Gordon Potts
+    organisation: Webfeet
+  - name: Out of Hand in Chippenham
+    links:
+      - "https://www.chippfolk.co.uk/WhatsOnWhen"
+    start_date: 2025-05-25
+    end_date: 2025-05-25
+    country: UK
+    city: Chippenham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Crowdy-Kit
+      - Downfielders
+      - Out of Hand
+    callers:
+      - Fee Lock
+    organisation: Webfeet
   - name: Blackbeards Tea Party in Chippenham
     links:
+      - "https://www.chippfolk.co.uk/WhatsOnWhen"
       - "http://www.blackbeardsteaparty.com/gigs/"
     start_date: 2025-05-26
     end_date: 2025-05-26
@@ -880,7 +482,10 @@ events:
     workshop: false
     social: true
     bands:
+      - "Blackbeard's Tea Party"
       - Blackbeards Tea Party
+    callers:
+      - Gordon Potts
     organisation: Webfeet
   - name: live music in Bath
     links:
@@ -912,9 +517,25 @@ events:
     callers:
       - Rob Dawson
     organisation: Webfeet
+  - name: Dampiers in Sytchampton
+    links:
+      - "http://mister.red/dance/worcester.htm#D.AF.20250528"
+    start_date: 2025-05-28
+    end_date: 2025-05-28
+    country: UK
+    city: Sytchampton
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Dampiers
+    callers:
+      - Brian Stanton
+    organisation: Webfeet
   - name: Reely Good Band in Witcombe
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VC.20250528"
+      - "http://mister.red/dance/gloucester.htm#D.VB.20250528"
     start_date: 2025-05-28
     end_date: 2025-05-28
     country: UK
@@ -1014,6 +635,22 @@ events:
     callers:
       - Ray Goodswen
     organisation: Webfeet
+  - name: Brian in Sytchampton
+    links:
+      - "http://mister.red/dance/worcester.htm#D.AF.20250604"
+    start_date: 2025-06-04
+    end_date: 2025-06-04
+    country: UK
+    city: Sytchampton
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Brian
+    callers:
+      - Kim Smith
+    organisation: Webfeet
   - name: Topette! in Kennington
     links:
       - "http://mister.red/dance/oxford.htm#D.FR.20250605"
@@ -1044,9 +681,23 @@ events:
     bands:
       - Catsfield Steamers
     organisation: Webfeet
+  - name: Melrose Quartet in Bristol
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AX.20250607"
+    start_date: 2025-06-07
+    end_date: 2025-06-07
+    country: UK
+    city: Bristol
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Melrose Quartet
+    organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DB.20250607"
+      - "http://mister.red/dance/cheltenham.htm#D.DA.20250607"
     start_date: 2025-06-07
     end_date: 2025-06-07
     country: UK
@@ -1163,9 +814,25 @@ events:
     callers:
       - Rob Taylor
     organisation: Webfeet
+  - name: Banjacs in Sytchampton
+    links:
+      - "http://mister.red/dance/worcester.htm#D.AF.20250611"
+    start_date: 2025-06-11
+    end_date: 2025-06-11
+    country: UK
+    city: Sytchampton
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Banjacs
+    callers:
+      - Eve Evans
+    organisation: Webfeet
   - name: Dampiers Round in Witcombe
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VD.20250611"
+      - "http://mister.red/dance/gloucester.htm#D.VC.20250611"
     start_date: 2025-06-11
     end_date: 2025-06-11
     country: UK
@@ -1242,7 +909,7 @@ events:
     organisation: Webfeet
   - name: Live Band in Stroud
     links:
-      - "http://mister.red/dance/stroud.htm#D.A0.20250613"
+      - "http://mister.red/dance/stroud.htm#D.AW.20250613"
     start_date: 2025-06-13
     end_date: 2025-06-13
     country: UK
@@ -1318,6 +985,7 @@ events:
     links:
       - "https://bristolcontra.wordpress.com/"
       - "http://mister.red/dance/bristol.htm#D.1@.20250620"
+      - "http://mister.red/dance/bristol.htm#D.AZ.20250620"
       - "https://www.jigfoot.com/google-calendar/"
     start_date: 2025-06-20
     end_date: 2025-06-20
@@ -1348,6 +1016,20 @@ events:
     social: true
     bands:
       - Banter
+    organisation: Webfeet
+  - name: Portmanteau in Cambridge
+    links:
+      - "https://portmanteaufolk.com/"
+    start_date: 2025-06-22
+    end_date: 2025-06-22
+    country: UK
+    city: Cambridge
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Portmanteau
     organisation: Webfeet
   - name: live music in Bath
     links:
@@ -1381,7 +1063,7 @@ events:
     organisation: Webfeet
   - name: Dave Byett in Witcombe
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VE.20250625"
+      - "http://mister.red/dance/gloucester.htm#D.VD.20250625"
     start_date: 2025-06-25
     end_date: 2025-06-25
     country: UK
@@ -1441,7 +1123,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DC.20250705"
+      - "http://mister.red/dance/cheltenham.htm#D.DB.20250705"
     start_date: 2025-07-05
     end_date: 2025-07-05
     country: UK
@@ -1467,9 +1149,37 @@ events:
     bands:
       - Catsfield Steamers
     organisation: Webfeet
+  - name: "sessionista in Bath French, Bath"
+    links:
+      - "http://mister.red/dance/bath.htm#D.AL.20250706"
+    start_date: 2025-07-06
+    end_date: 2025-07-06
+    country: UK
+    city: "Bath French, Bath"
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - sessionista
+    organisation: Webfeet
+  - name: live music in Bath
+    links:
+      - "http://mister.red/dance/bath.htm#D.AN.20250709"
+    start_date: 2025-07-09
+    end_date: 2025-07-09
+    country: UK
+    city: Bath
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - live music
+    organisation: Webfeet
   - name: "Baily's Beads in Witcombe"
     links:
-      - "http://mister.red/dance/gloucester.htm#D.VF.20250709"
+      - "http://mister.red/dance/gloucester.htm#D.VE.20250709"
     start_date: 2025-07-09
     end_date: 2025-07-09
     country: UK
@@ -1494,6 +1204,22 @@ events:
     social: true
     bands:
       - "Blackbeard's Tea Party"
+    organisation: Webfeet
+  - name: Blackbeards Tea Party in Priddy
+    links:
+      - "https://www.bandsintown.com/e/106855950-blackbeard&#x27;s-tea-party-at-priddy-green"
+      - "http://www.blackbeardsteaparty.com/gigs/"
+    start_date: 2025-07-11
+    end_date: 2025-07-11
+    country: UK
+    city: Priddy
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
+      - Blackbeards Tea Party
     organisation: Webfeet
   - name: "Blackbeard's Tea Party in Walsall"
     links:
@@ -1555,7 +1281,7 @@ events:
     organisation: Webfeet
   - name: live music in Oxford
     links:
-      - "http://mister.red/dance/oxford.htm#D.AW.20250713"
+      - "http://mister.red/dance/oxford.htm#D.AU.20250713"
     start_date: 2025-07-13
     end_date: 2025-07-13
     country: UK
@@ -1687,7 +1413,6 @@ events:
     organisation: Webfeet
   - name: Blackbeards Tea Party in Moira
     links:
-      - "https://www.bandsintown.com/e/1034055589-blackbeard&#x27;s-tea-party-at-the-moira-village-hall-de12-6dz"
       - "http://www.blackbeardsteaparty.com/gigs/"
     start_date: 2025-09-05
     end_date: 2025-09-05
@@ -1698,12 +1423,11 @@ events:
     workshop: false
     social: true
     bands:
-      - "Blackbeard's Tea Party"
       - Blackbeards Tea Party
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DD.20250906"
+      - "http://mister.red/dance/cheltenham.htm#D.DC.20250906"
     start_date: 2025-09-06
     end_date: 2025-09-06
     country: UK
@@ -1762,7 +1486,7 @@ events:
   - name: Naragonia in Cirencester
     links:
       - "https://balfolkstroud.uk/cps/gigs/naragoniaduo-f4e4d4.php"
-      - "http://mister.red/dance/cirencester.htm#D.AU.20250913"
+      - "http://mister.red/dance/cirencester.htm#D.AT.20250913"
     start_date: 2025-09-13
     end_date: 2025-09-13
     country: UK
@@ -1793,7 +1517,7 @@ events:
     organisation: Webfeet
   - name: live music in Oxford
     links:
-      - "http://mister.red/dance/oxford.htm#D.AX.20250914"
+      - "http://mister.red/dance/oxford.htm#D.AV.20250914"
     start_date: 2025-09-14
     end_date: 2025-09-14
     country: UK
@@ -1854,7 +1578,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DE.20251004"
+      - "http://mister.red/dance/cheltenham.htm#D.DD.20251004"
     start_date: 2025-10-04
     end_date: 2025-10-04
     country: UK
@@ -2003,7 +1727,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DF.20251101"
+      - "http://mister.red/dance/cheltenham.htm#D.DE.20251101"
     start_date: 2025-11-01
     end_date: 2025-11-01
     country: UK
@@ -2130,7 +1854,7 @@ events:
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.DG.20251206"
+      - "http://mister.red/dance/cheltenham.htm#D.DF.20251206"
     start_date: 2025-12-06
     end_date: 2025-12-06
     country: UK
@@ -2228,6 +1952,20 @@ events:
     social: true
     bands:
       - Fairgreen Ceilidh Band
+    organisation: Webfeet
+  - name: Striding Edge in Addingham
+    links:
+      - "http://www.striding-edge.org/diary/"
+    start_date: 2026-01-11
+    end_date: 2026-01-11
+    country: UK
+    city: Addingham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Striding Edge
     organisation: Webfeet
   - name: Blackbeards Tea Party in Blackpool
     links:
