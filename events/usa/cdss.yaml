@@ -23858,7 +23858,7 @@ events:
     links:
       - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/fifth-friday-contra-at-guiding-star-grange/2025-05-30/"
-    start: "2025-05-30T20:00:00-04:00"
+    start: "2025-05-30T19:30:00-04:00"
     end: "2025-05-30T23:00:00-04:00"
     country: USA
     state: MA
@@ -23867,28 +23867,37 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Calico
+    callers:
+      - Luke Donforth
     price: $12-$20
     organisation: Jesse Ball
-  - name: Fifth Saturday Contra at Guiding Star Grange
+  - name: Fifth Saturday Double Dance
     details: "Caller and featured musicians vary each time; please check the Guiding Star Grange website for details. \nNote: Each dance series now has its own COVID protocol. We hope every dancer will feel comfortable at one or more dances."
     links:
+      - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/fifth-saturday-contra-at-guiding-star-grange/2025-05-31/"
-    start_date: 2025-05-31
-    end_date: 2025-05-31
+    start: "2025-05-31T15:30:00-04:00"
+    end: "2025-05-31T23:00:00-04:00"
     country: USA
     state: MA
     city: Greenfield
     styles:
       - contra
-    workshop: false
+      - ecd
+    workshop: true
     social: true
+    callers:
+      - Joanna Reiner Wilkinson
+      - Steve Zakon-Anderson
     organisation: CDSS
   - name: Friday Night Contra at Glen Echo
     details: "Join us in Glen Echo, Maryland, for a fun night of contras and an occasional square! There’s a free lesson at 7:30pm."
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-05-30/"
-    start: "2025-05-30T20:00:00-04:00"
+    start: "2025-05-30T19:30:00-04:00"
     end: "2025-05-30T23:00:00-04:00"
     country: USA
     state: MD
@@ -23897,13 +23906,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Pittsburgh Contra Dance
     details: "Come dance to live music by Good Intentions with caller River Rainbowface. Our free beginner lesson begins at 7:30pm. Complete beginners are welcome! As always, we will offer a couple waltzes during breaks.  \n$15 suggested donation"
     links:
       - "https://pittsburghcontra.org/"
       - "https://cdss.org/event/pittsburgh-contra-dance-11/"
-    start: "2025-05-30T20:00:00-04:00"
+    start: "2025-05-30T19:30:00-04:00"
     end: "2025-05-30T23:00:00-04:00"
     country: USA
     state: PA
@@ -23973,7 +23983,7 @@ events:
     links:
       - "https://capitalcitygrange.org/dancing/contradancing/"
       - "https://cdss.org/event/montpelier-contra-dance/2025-05-31/"
-    start: "2025-05-31T20:00:00-04:00"
+    start: "2025-05-31T19:40:00-04:00"
     end: "2025-05-31T23:00:00-04:00"
     country: USA
     state: VT
@@ -23989,7 +23999,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2025-05-31/"
-    start: "2025-05-31T20:00:00-05:00"
+    start: "2025-05-31T19:30:00-05:00"
     end: "2025-05-31T23:00:00-05:00"
     country: USA
     state: MN
@@ -23998,6 +24008,8 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Patchwork Players
     callers:
       - Beau Farmer
     price: $4-$15
@@ -24010,8 +24022,8 @@ events:
     start: "2025-05-31T18:30:00-07:00"
     end: "2025-05-31T22:00:00-07:00"
     country: USA
-    state: Tucson
-    city: 405 E Wetmore Rd
+    state: AZ
+    city: Tucson
     styles:
       - contra
     workshop: true
@@ -24021,6 +24033,7 @@ events:
   - name: 5th Saturdays Open Mike/Open Band Contra Dance
     details: "Our Saturday night Open Mike Open Band dance at Fulton Hall. \nTwo local musicians will organize the music. Please contact them in advance so that you can learn about their musical plans. \nA local caller will lead the callers’ Open Mike. You can contact them in advance or show up and sign up for a calling slot. \n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSliding scale $6-$20. \nSome dancers head to a pub for “afters”—all are welcome!"
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6079"
       - "https://cdss.org/event/pcdc-5th-saturdays-open-mike-open-band-contra-dance/2025-05-31/"
     start: "2025-05-31T19:00:00-07:00"
     end: "2025-05-31T22:30:00-07:00"
@@ -24031,6 +24044,8 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Kelly Tabor
     price: $6-$20
     organisation: Portland Country Dance Community
   - name: Brownsville English Country Dance
@@ -24081,6 +24096,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $10
     organisation: New Hampshire English Country Dance Society
   - name: Contra Dance
     details: "Contra Dance in Colorado Springs, CO with live music. \nBeginner’s lesson at start of session. \n$10 adults; $5 students; children under 13 free with a paying adult."
@@ -24112,10 +24128,12 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Houston Area Traditional Dance Society
-  - name: Tea & Dancing with visiting Dance Master Bruce Hamilton and music by Green Willow
+  - name: Tea & Dancing
     details: "Click here to register and purchase tickets\n  \nComing to us from Palo Alto, Bruce Hamilton is one of the preeminent dance leaders in the country!\nBeloved by all who know him, Bruce’s many writings on English country dance are used by teachers around the world. We are extremely fortunate to be provided the opportunity to host a special event where our community can dance and learn from him. Don’t miss out on spending the afternoon with this exceptional dance master, Bruce Hamilton. \nWith music by the fabulous Green Willow (Jeffrey Spero, Laura Osborn, and Frank Hoppe). SCHEDULE for the day: \n\nSchedule for the day: \n\n1:30pm: Hall opens – please check-in at the front desk \n** Allow extra time as we will be collecting 2025 Waivers from each attendee. \n** (If you are designated to bring a food item, please arrive by 1:30pm!)\n2:00pm FUN-damentals\n2:30pm: Dance Program\n6:30pm: Event ends\n7:00pm: Hall closes\n\n\nBeginners welcome! \nNo partner needed! \nCostumes are not required! \nImportant costume note:  \nIf you choose to wear one, please be certain you can move easily in your costume and do not wear anything that would impede you, or others, while dancing. Please note dresses that trail on the floor are not allowed as they impede dancing for all. High heels are not recommended for this style dance in general \nMore Info at HTDS site"
     links:
+      - "https://historicalteaanddance.org/"
       - "https://cdss.org/event/tea-dancing-with-visiting-dance-master-bruce-hamilton-and-music-by-green-willow/"
     start: "2025-06-01T13:30:00-07:00"
     end: "2025-06-01T19:00:00-07:00"
@@ -24124,10 +24142,13 @@ events:
     city: South Pasadena
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Green Willow
     callers:
       - Bruce Hamilton
+    price: $30
     organisation: Historical Tea & Dance Society
   - name: Roseville English Country Dance
     details: "English Country Dance at the Masonic Lodge, 235 Vernon St., Roseville! Check our website for the most current information."
@@ -24143,6 +24164,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5-$12
     organisation: Sacramento Country Dance Society
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first Sundays and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \n\nFirst Sundays: Lessons at 3:40 PM; dance from 4–7 PM\nThird Saturdays: Lessons at 6:40; dance from 7–10 PM.\n\n​Prices: \n\n$15-$30, sliding scale, general admission\n$10-$25, members of MCDC, BACDS, CDSS or other sister organizations;\n$5, active military & full-time students, with ID;\nFREE! for children 12 & under"
@@ -24165,8 +24187,8 @@ events:
     links:
       - "https://nbcds.org/english-country-dance/"
       - "https://cdss.org/event/sebastopol-1st-and-3rd-sunday-english-dance/2025-06-01/"
-    start: "2025-06-01T17:00:00-07:00"
-    end: "2025-06-01T19:30:00-07:00"
+    start: "2025-06-01T14:00:00-07:00"
+    end: "2025-06-01T16:30:00-07:00"
     country: USA
     state: CA
     city: Sebastopol
@@ -24190,9 +24212,7 @@ events:
       - ecd
     workshop: false
     social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: Dance Trance
     details: "Dance Trance 2025 Contra Dance Weekend – June 6-8, 2025 – featuring Toss the Possum and callers Darlene Underwood and Terry Doyle. Come join us in June in Lexington, Kentucky in the beautiful bluegrass region.  The weekend offers contra dances, English country dance, flatfooting, blues dance, musicians’ jam, and more!"
