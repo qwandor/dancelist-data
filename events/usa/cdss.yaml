@@ -23113,6 +23113,7 @@ events:
   - name: Toronto Contra Dance
     details: "Ready to shake off the week and hit the floor? Join us for a high-energy evening of contra dancing you won’t forget! \nWith Tom Calwell & Myra Hirschberg (Peterborough) calling the steps and live tunes from the electrifying trio Big Fun, your feet won’t stop flying! \nNo partner? No problem! \nBeginners are always welcome—we’ll teach you everything you need to know. Just bring your energy and get ready to move! \nSchedule: \n\n7:00 PM – Beginner lesson (led by Tom, Myra, or both!)\n7:30 PM – Let the dancing begin!\n\n\nThis is a mask mandatory event. Masks are available if you do not have one.\nPay what you can (suggested $22)—your support keeps these magical nights going strong.\nSamosa fundraiser – $4 for 6 / $8 for 12\nBring your water bottle – refill stations available\nTag your crew, lace up those shoes, and meet us on the floor—it’s going to be a night of pure contra joy!"
     links:
+      - "https://www.tcdance.org/"
       - "https://cdss.org/event/toronto-contra-dance/"
     start: "2025-05-24T19:00:00-04:00"
     end: "2025-05-24T22:30:00-04:00"
@@ -23127,7 +23128,8 @@ events:
       - Big Fun
     callers:
       - Myra Hirschberg
-    price: $4-$22
+      - Tom Callwell
+    price: $22
     organisation: Toronto Contra Dance
   - name: CDK Contra & Square Dance
     details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \nSuggested donation $5-$20"
@@ -24404,7 +24406,7 @@ events:
     links:
       - "https://www.indycontra.org/"
       - "https://cdss.org/event/indy-contra-dance/2025-06-03/"
-    start: "2025-06-03T19:00:00-04:00"
+    start: "2025-06-03T18:40:00-04:00"
     end: "2025-06-03T21:00:00-04:00"
     country: USA
     state: IN
@@ -24467,7 +24469,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/english-country-dance-asheville-nc-3/2025-06-04/"
-    start: "2025-06-04T19:00:00-04:00"
+    start: "2025-06-04T18:40:00-04:00"
     end: "2025-06-04T21:00:00-04:00"
     country: USA
     state: NC
@@ -24476,6 +24478,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: donation
     organisation: Luanne Stiles
   - name: Bloomington Contra Dance
     details: "Please see our home page for the latest information. \nEntrance fee: by sliding scale donation, with a suggested range from $3 to $20.  \nStriving Toward Safe Space Policy: We hope to create a dance in which everyone feels safe and welcome. Please take a moment to review our policy on respect and consent. \nMembership: Membership is optional. Both members and non-members pay a sliding scale entrance fee; see above.  \nVolunteers are always welcome! Sign up with a dance coordinator for set-up or clean-up if you’d like! Many of us also go out for drinks and munchies after each Wednesday night dance."
@@ -24514,7 +24517,7 @@ events:
     links:
       - "https://www.bfms.org/squarecontra.php"
       - "https://cdss.org/event/monday-night-english-country-dance-2/2025-06-04/"
-    start: "2025-06-04T20:00:00-04:00"
+    start: "2025-06-04T19:30:00-04:00"
     end: "2025-06-04T22:30:00-04:00"
     country: USA
     state: MD
@@ -24528,8 +24531,9 @@ events:
   - name: FSGW English Country Dance
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
+      - "https://fsgw.org/event-6187692"
       - "https://cdss.org/event/fsgw-english-country-dance/2025-06-04/"
-    start: "2025-06-04T20:00:00-04:00"
+    start: "2025-06-04T19:30:00-04:00"
     end: "2025-06-04T22:30:00-04:00"
     country: USA
     state: MD
@@ -24538,6 +24542,8 @@ events:
       - ecd
     workshop: true
     social: true
+    callers:
+      - Kappy Laning
     price: $8-$17
     organisation: Folklore Society of Greater Washington
   - name: Dance Trance
