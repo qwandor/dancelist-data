@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Fantasy Court
+    details: Free fantasy event with a balfolk section
+    links:
+      - "https://fantasycourt.nl/"
+    start: "2025-06-08T11:00:00+02:00"
+    end: "2025-06-08T18:00:00+02:00"
+    country: Netherlands
+    city: Eindhoven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: free
+    organisation: Knights of the Kitchen Talbe
