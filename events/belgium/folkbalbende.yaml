@@ -22309,10 +22309,11 @@ events:
   - name: CaBal
     details: Ball
     links:
+      - "https://www.cabalfolk.be"
       - "https://folkbalbende.be/event/2750"
       - "https://www.facebook.com/cabalfolk"
-    start: "2025-12-12T19:30:00+01:00"
-    end: "2025-12-13T00:00:00+01:00"
+    start: "2025-12-13T19:30:00+01:00"
+    end: "2025-12-14T00:00:00+01:00"
     country: Belgium
     city: Kortrijk
     styles:
@@ -23145,3 +23146,36 @@ events:
     social: false
     price: donation
     organisation: Frisse Folk Vzw/asbl
+  - name: Bal Van Morgen
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2820"
+      - "https://www.facebook.com/events/4211245605814754"
+    start: "2025-06-25T19:00:00+02:00"
+    end: "2025-06-25T22:00:00+02:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Hilde & Yas
+    price: donation
+    organisation: Stanistil
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "https://folkbalbende.be/event/2821"
+    start_date: 2025-08-07
+    end_date: 2025-08-07
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Mizu Mizi
+    organisation: ~
