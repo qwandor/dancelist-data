@@ -22818,18 +22818,19 @@ events:
       - Gaye Fifer
     price: $90-$185
     organisation: FolkMADS
-  - name: 54th Annual Northwest Folklife Festival
+  - name: Northwest Folklife
     details: "Ikigai: A Life Worth Living\nNorthwest Folklife Festival is a community-powered celebration of the music, arts, and heritage of the Pacific Northwest. With over 4,000 performers on 20+ stages, 200 food/craft/import vendors, and 500 volunteers, the Northwest Folklife Festival remains one of the largest access-for-all festivals in the nation since 1972."
     links:
+      - "https://nwfolklife.org/festival/home.html"
       - "https://cdss.org/event/54th-annual-northwest-folklife-festival/"
-    start_date: 2025-05-23
-    end_date: 2025-05-26
+    start: "2025-05-23T16:00:00-04:00"
+    end: "2025-05-26T21:00:00-04:00"
     country: USA
-    state: Seattle
-    city: 305 Harrison St
+    state: WA
+    city: Seattle
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     organisation: CDSS
   - name: Berkeley Contra Dance
@@ -24642,21 +24643,25 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-254/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2025-06-05/"
-    start: "2025-06-05T19:30:00-04:00"
+    start: "2025-06-05T19:00:00-04:00"
     end: "2025-06-05T22:30:00-04:00"
     country: USA
     state: NY
     city: Rochester
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Lake Effect
+    price: $5-$12
     organisation: Country Dancers of Rochester
   - name: Thursday Contra Dance
     details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n\n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing\nMasks are no longer required but are welcomed.\nOur sliding scale is $10-$15-$20.\nOur role terms are Larks and Robins."
