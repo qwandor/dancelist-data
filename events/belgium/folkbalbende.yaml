@@ -20005,6 +20005,7 @@ events:
     social: false
     price: donation
     organisation: Stanistil
+    cancelled: true
   - name: (Allemagne)
     details: Ball
     links:
@@ -20958,7 +20959,7 @@ events:
       - Wouter Zonder Draak
       - Triple-X
     organisation: CaBal
-  - name: Entre Autres
+  - name: Valse
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -20973,6 +20974,8 @@ events:
     workshop: false
     social: true
     bands:
+      - Sanseveria Sextet
+      - Airoxes
       - Triple-X
     organisation: ~
   - name: Danslessen Folk Limburg - Begonners
@@ -23391,3 +23394,21 @@ events:
     bands:
       - Musique Live
     organisation: ~
+  - name: Bal Macabre
+    details: Ball
+    links:
+      - "https://stanistil.be/"
+      - "https://folkbalbende.be/event/2841"
+    start: "2025-11-09T13:00:00+01:00"
+    end: "2025-11-09T18:00:00+01:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Zéphyr Combo
+      - Cardboard Cabin
+    price: €13-€26
+    organisation: Stanistil
