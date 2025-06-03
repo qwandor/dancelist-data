@@ -4,16 +4,33 @@ events:
     details: Public bal after French dance workshop week.
     links:
       - "https://halswaymanor.org.uk/event/balfolk-french-and-breton-dance-night/"
-    start: 2022-03-17T20:00:00+00:00
-    end: 2022-03-17T23:00:00+00:00
+    start: "2022-03-17T20:00:00+00:00"
+    end: "2022-03-17T23:00:00+00:00"
     country: UK
     city: Halsway
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     price: £5
     organisation: Halsway Manor
-
+  - name: Halsway Playford Assembly
+    links:
+      - "https://halswaymanor.org.uk/event/halsway-playford-assembly-2/"
+    start_date: 2022-04-01
+    end_date: 2022-04-03
+    country: UK
+    city: Halsway
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - "Purcell's Polyphonic Party"
+    callers:
+      - Andrew Swaine
+    price: £165-£270
+    organisation: Halsway Manor
   - name: Halsway Contra Dance Weekend
     links:
       - "https://halswaymanor.org.uk/event/contra-weekend/"
@@ -21,7 +38,8 @@ events:
     end_date: 2022-06-05
     country: UK
     city: Halsway
-    styles: [contra]
+    styles:
+      - contra
     workshop: true
     social: true
     bands:
@@ -31,35 +49,18 @@ events:
       - Charlie Turner
     price: £165-£270
     organisation: Halsway Manor
-
-  - name: Halsway Playford Assembly
-    links:
-      - "https://halswaymanor.org.uk/event/halsway-playford-assembly-2/"
-    start_date: 2022-04-01
-    end_date: 2022-04-03
-    country: UK
-    city: Halsway
-    styles: [ecd]
-    workshop: true
-    social: true
-    bands:
-      - Purcell's Polyphonic Party
-    callers:
-      - Andrew Swaine
-    price: £165-£270
-    organisation: Halsway Manor
-
   - name: Blowzabella Festival
     details: Separate tickets available for Saturday evening bal.
     links:
       - "https://halswaymanor.org.uk/event/blowzabella-festival-with-guests-les-poufs-a-cordes/"
       - "https://halswaymanor.org.uk/event/bal-blowzabella-2022/"
       - "https://www.facebook.com/events/558582549321310/"
-    start: 2022-06-24T16:00:00+01:00
-    end: 2022-06-26T16:00:00+01:00
+    start: "2022-06-24T16:00:00+01:00"
+    end: "2022-06-26T16:00:00+01:00"
     country: UK
     city: Halsway
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -67,117 +68,120 @@ events:
       - Duo Rivaud-Lacouchie
     price: £6-£270
     organisation: Halsway Manor
-
-  - name: Folk Dance, Music and Strawcraft
+  - name: "Folk Dance, Music and Strawcraft"
     links:
       - "https://halswaymanor.org.uk/event/folk-dance-music-and-strawcraft/"
-    start: 2022-11-11T16:00:00+00:00
-    end: 2022-11-14T10:00:00+00:00
+    start: "2022-11-11T16:00:00+00:00"
+    end: "2022-11-14T10:00:00+00:00"
     country: UK
     city: Halsway
-    styles: [ecd, e-ceilidh]
+    styles:
+      - ecd
+      - e-ceilidh
     workshop: true
     social: true
     price: £165-£295
     organisation: Halsway Manor
-
   - name: 19th Zesty Contra Weekend
     links:
       - "https://halswaymanor.org.uk/event/the-19th-zesty-contra-weekend/"
-    start: 2022-11-18T16:00:00+00:00
-    end: 2022-11-20T16:00:00+00:00
+    start: "2022-11-18T16:00:00+00:00"
+    end: "2022-11-20T16:00:00+00:00"
     country: UK
     city: Halsway
-    styles: [contra]
+    styles:
+      - contra
     workshop: true
     social: true
+    bands:
+      - Ali & Mollie
     callers:
       - Rhodri Davies
       - Mark Elvins
-    bands:
-      - Ali & Mollie
     price: £165-£270
     organisation: Halsway Manor
-
   - name: Christmas Dinner and Dance
     links:
       - "https://halswaymanor.org.uk/event/christmas-dinner-and-dance/"
-    start: 2022-12-22T18:00:00+00:00
-    end: 2022-12-22T23:00:00+00:00
+    start: "2022-12-22T18:00:00+00:00"
+    end: "2022-12-22T23:00:00+00:00"
     country: UK
     city: Halsway
-    styles: [ecd, e-ceilidh]
+    styles:
+      - ecd
+      - e-ceilidh
     workshop: false
     social: true
-    callers:
-      - Simon Maplesden
     bands:
       - Chris Toyne & Henry Lovegrove
+    callers:
+      - Simon Maplesden
     price: £5-£62
     organisation: Halsway Manor
-
   - name: Christmas House Party
     links:
       - "https://halswaymanor.org.uk/event/christmas-house-party-4/"
-    start: 2022-12-23T16:00:00+00:00
-    end: 2022-12-27T10:00:00+00:00
+    start: "2022-12-23T16:00:00+00:00"
+    end: "2022-12-27T10:00:00+00:00"
     country: UK
     city: Halsway
-    styles: [contra]
+    styles:
+      - contra
     workshop: true
     social: true
+    bands:
+      - "Gareth Kiddier, Linda Game & Hannah Cummings"
     callers:
       - Lynne Render
-    bands:
-      - Gareth Kiddier, Linda Game & Hannah Cummings
     price: £370-£560
     organisation: Halsway Manor
-
   - name: New Year House Party
     links:
       - "https://halswaymanor.org.uk/event/new-year-house-party-2022/"
-    start: 2022-12-29T16:00:00+00:00
-    end: 2023-01-02T16:00:00+00:00
+    start: "2022-12-29T16:00:00+00:00"
+    end: "2023-01-02T16:00:00+00:00"
     country: UK
     city: Halsway
-    styles: [ecd, e-ceilidh]
+    styles:
+      - ecd
+      - e-ceilidh
     workshop: true
     social: true
+    bands:
+      - Rod & Francis Stradling
     callers:
       - Ted Morse
       - Pat Morse
-    bands:
-      - Rod & Francis Stradling
     price: £325-£515
     organisation: Halsway Manor
-
   - name: Contra & Square Dance Week
     links:
       - "https://halswaymanor.org.uk/event/contra-and-square-dance-week-2/"
-    start: 2023-03-06T16:00:00+00:00
-    end: 2023-03-10T10:00:00+00:00
+    start: "2023-03-06T16:00:00+00:00"
+    end: "2023-03-10T10:00:00+00:00"
     country: UK
     city: Halsway
-    styles: [contra]
+    styles:
+      - contra
     workshop: true
     social: true
-    callers:
-      - Geoff Cubitt
     bands:
       - English Contra Dance Band
+    callers:
+      - Geoff Cubitt
     price: £225-£400
     organisation: Halsway Manor
-
   - name: French & Breton Dance Week
     details: Separate tickets available for Thursday evening bal.
     links:
       - "https://halswaymanor.org.uk/event/french-breton-dance-week-6/"
       - "https://halswaymanor.org.uk/event/bal-peter-clifton/"
-    start: 2023-03-13T16:00:00+00:00
-    end: 2023-03-17T10:00:00+00:00
+    start: "2023-03-13T16:00:00+00:00"
+    end: "2023-03-17T10:00:00+00:00"
     country: UK
     city: Halsway
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -185,33 +189,33 @@ events:
       - Nigel Eaton
     price: £6-£400
     organisation: Halsway Manor
-
   - name: Irish Set Dance Weekend
     links:
       - "https://halswaymanor.org.uk/event/irish-set-dance-weekend-6/"
-    start: 2023-03-31T16:00:00+01:00
-    end: 2023-04-02T16:00:00+01:00
+    start: "2023-03-31T16:00:00+01:00"
+    end: "2023-04-02T16:00:00+01:00"
     country: UK
     city: Halsway
-    styles: [irish-set]
+    styles:
+      - irish-set
     workshop: true
     social: true
+    bands:
+      - Rise the Dust
     callers:
       - Maggie Daniel
       - Lucy Slemmings
-    bands:
-      - Rise the Dust
     price: £175-£285
     organisation: Halsway Manor
-
   - name: Halsway Contra Dance Weekend
     links:
       - "https://halswaymanor.org.uk/event/halsway-contra-dance-weekend-3/"
-    start: 2023-04-14T16:00:00+01:00
-    end: 2023-04-16T16:00:00+01:00
+    start: "2023-04-14T16:00:00+01:00"
+    end: "2023-04-16T16:00:00+01:00"
     country: UK
     city: Halsway
-    styles: [contra]
+    styles:
+      - contra
     workshop: true
     social: true
     bands:
@@ -221,152 +225,154 @@ events:
       - Charlotte Rich-Griffin
     price: £175-£285
     organisation: Halsway Manor
-
   - name: English & Scottish Dance Week
     links:
       - "https://halswaymanor.org.uk/event/english-scottish-dance-week-2/"
-    start: 2023-04-17T16:00:00+01:00
-    end: 2023-04-21T10:00:00+01:00
+    start: "2023-04-17T16:00:00+01:00"
+    end: "2023-04-21T10:00:00+01:00"
     country: UK
     city: Halsway
-    styles: [ecd, scd]
+    styles:
+      - ecd
+      - scd
     workshop: true
     social: true
-    callers:
-      - Frances Richardson
     bands:
       - Chris & Julie Dewhurst
+    callers:
+      - Frances Richardson
     price: £225-£400
     organisation: Halsway Manor
-
   - name: Falconers Dance Club weekend
     links:
       - "https://halswaymanor.org.uk/event/falconers-dance-club-2023/"
       - "https://www.falconers.org.uk/programme2022.html"
-    start: 2023-04-21T16:00:00+01:00
-    end: 2023-04-23T16:00:00+01:00
+    start: "2023-04-21T16:00:00+01:00"
+    end: "2023-04-23T16:00:00+01:00"
     country: UK
     city: Halsway
-    styles: [ecd]
+    styles:
+      - ecd
     workshop: false
     social: true
-    callers:
-      - Lynne Render
     bands:
       - The Falconers
+    callers:
+      - Lynne Render
     organisation: Falconers Folk Dance Club
-
   - name: Halsway Playford Assembly
     links:
       - "https://halswaymanor.org.uk/event/halsway-playford-assembly-2023/"
-    start: 2023-05-05T16:00:00+01:00
-    end: 2023-05-07T17:00:00+01:00
+    start: "2023-05-05T16:00:00+01:00"
+    end: "2023-05-07T17:00:00+01:00"
     country: UK
     city: Halsway
-    styles: [ecd]
+    styles:
+      - ecd
     workshop: true
     social: true
-    callers:
-      - Andrew Swaine
     bands:
       - Warleggan Village Band
+    callers:
+      - Andrew Swaine
     price: £175-£285
     organisation: Halsway Manor
-
   - name: American Contra Dance Week
     links:
       - "https://halswaymanor.org.uk/event/american-contra-spring-dance/"
-    start: 2023-05-15T16:00:00+01:00
-    end: 2023-05-19T10:00:00+01:00
+    start: "2023-05-15T16:00:00+01:00"
+    end: "2023-05-19T10:00:00+01:00"
     country: UK
     city: Halsway
-    styles: [contra]
+    styles:
+      - contra
     workshop: true
     social: true
-    callers:
-      - Cis Hinkle
     bands:
       - English Contra Dance Band
+    callers:
+      - Cis Hinkle
     price: £225-£400
     organisation: Halsway Manor
-
   - name: French Music & Dance Week
     details: Separate tickets available for Thursday night bal.
     links:
       - "https://halswaymanor.org.uk/event/french-music-and-dance-2023/"
       - "https://halswaymanor.org.uk/event/bal-nathalie-oliver-selsis-emmanuel-pariselle-didier-oliver/"
-    start: 2023-06-05T16:00:00+01:00
-    end: 2023-06-09T10:00:00+01:00
+    start: "2023-06-05T16:00:00+01:00"
+    end: "2023-06-09T10:00:00+01:00"
     country: UK
     city: Halsway
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
       - Didier Oliver & Emmanuel Pariselle
     price: £6-£400
     organisation: Halsway Manor
-
   - name: Summer Country Dance Week
     links:
       - "https://halswaymanor.org.uk/event/summer-country-dance-week/"
       - "https://www.facebook.com/events/124782023910951/"
-    start: 2023-06-12T16:00:00+01:00
-    end: 2023-06-16T10:00:00+01:00
+    start: "2023-06-12T16:00:00+01:00"
+    end: "2023-06-16T10:00:00+01:00"
     country: UK
     city: Halsway
-    styles: [contra, ecd]
+    styles:
+      - contra
+      - ecd
     workshop: true
     social: true
+    bands:
+      - "Ali, Jane & Meg"
     callers:
       - Mark Elvins
-    bands:
-      - Ali, Jane & Meg
     price: £225-£400
     organisation: Halsway Manor
-
   - name: Topette Weekend public bal
     details: Public bal as part of a weekend for musicians.
     links:
       - "https://halswaymanor.org.uk/event/bal-topette/"
       - "https://www.facebook.com/events/426805482642427/"
-    start: 2023-06-23T20:00:00+01:00
-    end: 2023-06-23T22:00:00+01:00
+    start: "2023-06-23T20:00:00+01:00"
+    end: "2023-06-23T22:00:00+01:00"
     country: UK
     city: Halsway
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     bands:
       - Topette
     price: £6-£12
     organisation: Halsway Manor
-
   - name: Halsway Folk Dance Holiday
     links:
       - "https://halswaymanor.org.uk/event/halsway-folk-dance-holiday/"
-    start: 2023-08-14T16:00:00+01:00
-    end: 2023-08-21T10:00:00+01:00
+    start: "2023-08-14T16:00:00+01:00"
+    end: "2023-08-21T10:00:00+01:00"
     country: UK
     city: Halsway
-    styles: [ecd]
+    styles:
+      - ecd
     workshop: true
     social: true
-    callers:
-      - Geoff Cubitt
     bands:
       - Richard Jones & Chris Jewell
+    callers:
+      - Geoff Cubitt
     price: £355-£570
     organisation: Halsway Manor
-
   - name: Halsway Harvest Weekend
     links:
       - "https://halswaymanor.org.uk/event/halsway-harvest-weekend/"
-    start: 2023-09-22T16:00:00+01:00
-    end: 2023-09-24T16:00:00+01:00
+    start: "2023-09-22T16:00:00+01:00"
+    end: "2023-09-24T16:00:00+01:00"
     country: UK
     city: Halsway
-    styles: [ecd]
+    styles:
+      - ecd
     workshop: true
     social: true
     bands:
@@ -377,15 +383,15 @@ events:
       - Pat Hicks
       - Rob Dawson
     organisation: Halsway Harvest
-
   - name: Autumn American Contra Dance Week
     links:
       - "https://halswaymanor.org.uk/event/autumn-american-contra-dance-week-3/"
-    start: 2023-10-02T16:00:00+01:00
-    end: 2023-10-06T10:00:00+01:00
+    start: "2023-10-02T16:00:00+01:00"
+    end: "2023-10-06T10:00:00+01:00"
     country: UK
     city: Halsway
-    styles: [contra]
+    styles:
+      - contra
     workshop: true
     social: true
     bands:
@@ -394,12 +400,11 @@ events:
       - Seth Tepfer
     price: £225-£400
     organisation: Halsway Manor
-
   - name: Contra and Square Dance Week
     links:
       - "https://halswaymanor.org.uk/event/contra-and-square-dance-week-2024/"
-    start: "2024-03-04T16:00:00Z"
-    end: "2024-03-08T10:00:00Z"
+    start: "2024-03-04T16:00:00+00:00"
+    end: "2024-03-08T10:00:00+00:00"
     country: UK
     city: Halsway
     styles:
@@ -412,12 +417,11 @@ events:
       - Geoff Cubitt
     price: £240-£430
     organisation: Halsway Manor
-
   - name: French & Breton Dance Week
     links:
       - "https://halswaymanor.org.uk/event/french-breton-dance-week-2024/"
-    start: "2024-03-11T16:00:00Z"
-    end: "2024-03-15T10:00:00Z"
+    start: "2024-03-11T16:00:00+00:00"
+    end: "2024-03-15T10:00:00+00:00"
     country: UK
     city: Halsway
     styles:
@@ -426,12 +430,11 @@ events:
     social: true
     price: £240-£430
     organisation: Halsway Manor
-
   - name: Walking and Dancing Holiday
     links:
       - "https://halswaymanor.org.uk/event/walking-and-dancing-holiday/"
-    start: "2024-03-25T16:00:00Z"
-    end: "2024-03-29T10:00:00Z"
+    start: "2024-03-25T16:00:00+00:00"
+    end: "2024-03-29T10:00:00+00:00"
     country: UK
     city: Halsway
     styles:
@@ -444,7 +447,6 @@ events:
       - Rhodri Davies
     price: £240-£430
     organisation: Halsway Manor
-
   - name: Easter House Party
     links:
       - "https://halswaymanor.org.uk/event/easter-house-party/"
@@ -461,7 +463,6 @@ events:
       - English Contra Dance Band
     price: £240-£430
     organisation: Halsway Manor
-
   - name: Contra Camp
     links:
       - "https://halswaymanor.org.uk/event/contra-camp-2024/"
@@ -481,7 +482,6 @@ events:
       - Heather McAslan
     price: £100-£310
     organisation: Halsway Manor
-
   - name: English & Scottish Dance Week
     links:
       - "https://halswaymanor.org.uk/event/english-scottish-dance-week-2024/"
@@ -500,7 +500,6 @@ events:
       - Frances Richardson
     price: £240-£430
     organisation: Halsway Manor
-
   - name: Falconers Dance Club
     links:
       - "https://halswaymanor.org.uk/event/falconers-dance-club-2024/"
@@ -515,7 +514,6 @@ events:
     bands:
       - The Falconers
     organisation: Falconers Folk Dance Club
-
   - name: American Contra Dance Week
     links:
       - "https://halswaymanor.org.uk/event/american-contra-dance-week/"
@@ -533,7 +531,6 @@ events:
       - Will Mentor
     price: £240-£430
     organisation: Halsway Manor
-
   - name: Irish Set Dance Weekend
     links:
       - "https://halswaymanor.org.uk/event/irish-set-dance-weekend/"
@@ -552,7 +549,6 @@ events:
       - Lucy Slemmings
     price: £190-£310
     organisation: Halsway Manor
-
   - name: French Music & Dance Week
     links:
       - "https://halswaymanor.org.uk/event/french-music-dance-week/"
@@ -566,7 +562,6 @@ events:
     social: true
     price: £240-£430
     organisation: Halsway Manor
-
   - name: Halsway Playford Assembly
     links:
       - "https://halswaymanor.org.uk/event/halsway-playford-assembly/"
@@ -584,7 +579,6 @@ events:
       - Andrew Swaine
     price: £190-£310
     organisation: Halsway Manor
-
   - name: Blowzabella Festival
     links:
       - "https://halswaymanor.org.uk/event/blowzabella-festival-2024/"
@@ -601,7 +595,6 @@ events:
       - Garenne
     price: £190-£370
     organisation: Halsway Manor
-
   - name: Balfolk
     links:
       - "https://halswaymanor.org.uk/event/bal-blowzabella-and-la-garenne/"
@@ -618,7 +611,6 @@ events:
       - Garenne
     price: £20
     organisation: Halsway Manor
-
   - name: Summer Country Dancing
     links:
       - "https://halswaymanor.org.uk/event/summer-country-dance-week/"
@@ -637,7 +629,6 @@ events:
       - Mark Elvins
     price: £240-£430
     organisation: Halsway Manor
-
   - name: Halsway Folk Dance Holiday
     links:
       - "https://halswaymanor.org.uk/event/halsway-folk-dance-holiday/"
@@ -655,7 +646,6 @@ events:
       - Ivan Aitken
     price: £380-£610
     organisation: Halsway Manor
-
   - name: Halsway Regency Assembley
     links:
       - "https://halswaymanor.org.uk/event/the-halsway-regency-assembly-2024/"
@@ -673,7 +663,6 @@ events:
       - Georgia Delve
     price: £200-£310
     organisation: Halsway Manor
-
   - name: Halsway Harvest Weekend
     links:
       - "https://halswaymanor.org.uk/event/halsway-harvest-weekend-sept2024/"
@@ -693,7 +682,6 @@ events:
       - Barrie Bullimore
       - Laura Hodges
     organisation: Halsway Harvest
-
   - name: Autumn American Contra Dance Week
     links:
       - "https://halswaymanor.org.uk/event/autumn-american-contra-dance-week2024/"
@@ -711,12 +699,11 @@ events:
       - Diane Silver
     price: £240-£430
     organisation: Halsway Manor
-
   - name: Zesty Contra Weekend
     links:
       - "https://halswaymanor.org.uk/event/zesty-contra-2024/"
-    start: "2024-11-15T16:00:00Z"
-    end: "2024-11-17T16:00:00Z"
+    start: "2024-11-15T16:00:00+00:00"
+    end: "2024-11-17T16:00:00+00:00"
     country: UK
     city: Halsway
     styles:
@@ -794,7 +781,7 @@ events:
       - Rhodri Davies
     price: £255-£460
     organisation: Halsway Manor
-  - name: Music, dance and song
+  - name: "Music, dance and song"
     links:
       - "https://halswaymanor.org.uk/event/banter-2025/"
       - "https://www.facebook.com/events/533644946056981/"
@@ -891,7 +878,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Purcell's Polyphonic Party
+      - "Purcell's Polyphonic Party"
     callers:
       - Andrew Swaine
     price: £200-£330
@@ -1030,10 +1017,10 @@ events:
       - contra
     workshop: true
     social: true
-    callers:
-      - Geoff Cubitt
     bands:
       - Will Pound & Linda Game
+    callers:
+      - Geoff Cubitt
     price: £420-£645
     organisation: Halsway Manor
   - name: Winter Warmer
@@ -1047,11 +1034,29 @@ events:
       - ecd
     workshop: true
     social: true
+    bands:
+      - "Dampier's Round"
     callers:
       - Madeleine Smith
       - Jane Hunter
       - Mark Hunter
-    bands:
-      - "Dampier's Round"
     price: £240-£460
+    organisation: Halsway Manor
+  - name: Contra Camp
+    links:
+      - "https://www.halswaymanor.org.uk/event/contra-camp-2026"
+    start: "2026-04-10T06:00:00+01:00"
+    end: "2026-04-12T16:00:00+01:00"
+    country: UK
+    city: Halsway
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - WillPower
+      - Linda Game
+    callers:
+      - Louise Siddons
+    price: £100-£330
     organisation: Halsway Manor
