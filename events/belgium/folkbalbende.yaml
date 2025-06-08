@@ -22563,8 +22563,9 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://www.tey.be/"
       - "https://folkbalbende.be/event/2789"
-    start_date: 2025-06-08
-    end_date: 2025-06-08
+      - "https://www.facebook.com/events/9183521388369563"
+    start: "2025-06-08T16:00:00+02:00"
+    end: "2025-06-08T19:00:00+02:00"
     country: Belgium
     city: Belsele
     styles:
@@ -22572,9 +22573,8 @@ events:
     workshop: false
     social: true
     bands:
-      - ": Bal"
+      - Concert
       - Limbrant
-      - Puis Jam
     organisation: "Muziekclub 't Ey"
   - name: Celtival
     details: Ball
@@ -23345,3 +23345,18 @@ events:
     social: false
     price: donation
     organisation: Frisse Folk Vzw/asbl
+  - name: Zomerbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://www.warddebeer.be"
+      - "https://folkbalbende.be/event/2858"
+    start_date: 2025-06-18
+    end_date: 2025-06-18
+    country: Belgium
+    city: Borgerhout
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
