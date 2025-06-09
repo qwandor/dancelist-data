@@ -26775,9 +26775,10 @@ events:
     social: true
     price: $10-$20
     organisation: PATMAD
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley Contra Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2025-06-19/"
     start: "2025-06-19T20:00:00-07:00"
     end: "2025-06-19T22:30:00-07:00"
@@ -26786,9 +26787,11 @@ events:
     city: Berkeley
     styles:
       - contra
-      - ecd
+    bands:
+      - The New Vintage Revelers
     workshop: true
     social: true
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: English Country Dancing
     details: "We invite you to dance with us on the third Friday of every month at Luray United Methodist Church. Parking behind the adjacent bank building. It’s free and open to the public; most appropriate for people 10 years old and up; no experience needed; no partner needed. Wear casual clothes and comfortable shoes. \nTom Mack is the caller and we dance to recorded music enjoying dances from the 1700’s and 1800’s: lines, circles and squares. \nHealth issues: If you feel sick, stay home."
@@ -26827,6 +26830,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Orlando Contra Dance
     details: "Welcome to the Orlando Contra Dance! We feature high-tempo, gender-neutral dancing. We are Florida’s only gender-neutral contra series. Dancing is open to everyone and free for students and returning beginners (2nd dance is free)! \nWe usually dance on the first and third Friday of the month. Holidays, semester breaks, and regional events happen, so check the schedule before going!"
@@ -26842,6 +26846,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Orlando Contra Dance
   - name: Rivanna Contra Dance
     details: "Third Friday contra dances in Charlottesville, VA. A few miles off I-64. Mask optional. Larks & Robins. Intro lesson 7:00 PM. Dance starts 7:30 PM.\nSliding scale admission: recommend $20"
@@ -26872,6 +26877,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Hot Springs Contradance
     details: "Monthly 3rd Friday dance in Hot Springs North Carolina, a mere 200 yards from the Appalachian Trail! \nFind us on Facebook: Friends of Hot Springs Contradance"
@@ -26886,13 +26892,14 @@ events:
       - contra
     workshop: false
     social: true
+    price: $10
     organisation: Charley Harvey
   - name: Contra at Guiding Star Grange
     details: "Caller and featured musicians vary each month; please check the Guiding Star Grange website for details. \nOther musicians are welcome to come and be part of the amorphous “Back Row Band.” \nSchedule: 8:00 PM: Contra Dancing for All; often a beginner session at 7:45. \nCost: $10 or barter equivalent \nSee venue website for this month’s details and Covid policy."
     links:
       - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/third-friday-contra-at-guiding-star-grange/2025-06-20/"
-    start: "2025-06-20T20:00:00-04:00"
+    start: "2025-06-20T19:45:00-04:00"
     end: "2025-06-20T23:00:00-04:00"
     country: USA
     state: MA
@@ -26905,12 +26912,13 @@ events:
       - Back Row Band
     price: $10
     organisation: Joe Blumenthal
+    cancelled: true
   - name: Friday Night Contra at Glen Echo
     details: "Join us in Glen Echo, Maryland, for a fun night of contras and an occasional square! There’s a free lesson at 7:30pm."
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-06-20/"
-    start: "2025-06-20T20:00:00-04:00"
+    start: "2025-06-20T19:30:00-04:00"
     end: "2025-06-20T23:00:00-04:00"
     country: USA
     state: MD
@@ -26919,6 +26927,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Friday Contra Dance
     details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$5 – $25, pay what you can."
@@ -26939,6 +26948,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6105"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2025-06-20/"
     start: "2025-06-20T19:30:00-07:00"
     end: "2025-06-20T22:30:00-07:00"
@@ -26949,6 +26959,10 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Full Circle
+    callers:
+      - Nan Evans
     price: $7-$20
     organisation: Portland Country Dance Community
   - name: Lenox Contra Dance
@@ -26956,7 +26970,7 @@ events:
     links:
       - "https://lenoxcontradance.org/sched.php"
       - "https://cdss.org/event/lenox-contra-dance/2025-06-21/"
-    start: "2025-06-21T07:15:00-04:00"
+    start: "2025-06-21T19:15:00-04:00"
     end: "2025-06-21T22:30:00-04:00"
     country: USA
     state: MA
@@ -26965,7 +26979,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $8-$12
+    price: $8-$15
     organisation: Lenox Contra Dance
   - name: York Region English Country Dancers
     details: "English Country Dance in central York Region (Ontario, Canada)! Beginners welcome; all dances taught; you don’t need to bring a partner. Admission by donation; your first class is free. Join us on the first, third, and (when there is one) fifth Saturday of the month from 2:00 to 4:00. (Please check the website for possible last-minute changes.)"
@@ -26997,6 +27011,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: Southern Illinois Community Contra Dance
     details: "Our monthly dance is “Blue Zone” living in a war zone world. Connect with neighbors, move your body, eat healthy(ish) food, give your social media a downtime. Southern Illinois Community Contra Dance might just help you live to age 100. \n$5 or pay what you can."
@@ -27016,6 +27031,7 @@ events:
   - name: Pride Techno Contra
     details: "Brooklyn Contra celebrates the legacy of Village Contra by returning to its old home at the LGBT Center for a Pride Spectacular! \nMaia McCormick calling, and DJ Wavefold (Talya Raitzyk) bringing the euphoric energy of classic and modern house and club music to the contra dance floor."
     links:
+      - "https://www.brooklyncontra.org/dance-schedule/2024/04/21-pnjjz-hzg37-955ap"
       - "https://cdss.org/event/pride-techno-contra/"
     start: "2025-06-21T17:30:00-04:00"
     end: "2025-06-21T21:30:00-04:00"
@@ -27026,12 +27042,14 @@ events:
       - contra
     workshop: false
     social: true
-    bands:
-      - Euphor
+    callers:
+      - Maia McCormick
+    price: $22
     organisation: Brooklyn Contra
   - name: Annapolis English Country Dance
     details: "English Country Dance to delightful live music \n\nIntro lesson at 6:30; dance at 7:00. \nPre-registration is not required, but please email aefallon@verizon.net to let us know if you can help with pre-dance setup and/or post-dance hall restoration. Such help is much appreciated!\nFace masks are optional.\nVenue has windows and filter fans for circulation and ventilation.\nPlease bring own water.\nSnacks to share are welcome if you bring napkins, appropriate paper goods, and utensils and plan to clean up after snack time.\nNo experience or partner required.\n$15; students $5; children through 5 years old free. \nInfo: Ann Fallon, 410-507-0934, or Jan Scopel, 443-540-0867."
     links:
+      - "https://www.facebook.com/events/517192678047030/"
       - "https://cdss.org/event/annapolis-english-country-dance/2025-06-21/"
     start: "2025-06-21T18:30:00-04:00"
     end: "2025-06-21T21:30:00-04:00"
@@ -27042,8 +27060,8 @@ events:
       - ecd
     workshop: true
     social: true
-    callers:
-      - Ann Fallon
+    bands:
+      - Some Assembly
     price: $5-$15
     organisation: Annapolis Traditional Dance Society
   - name: South Florida Contradance
@@ -27060,6 +27078,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: CDSS
   - name: "Swingin' Tern Contra Dance"
     details: "Our contra dances are held every first and third Saturday evening year-round from 7:30pm–10:30pm with a beginners’ workshop at 7pm.  We have occasional double dances along with a New Year’s Eve dance. \nOur full calendar \nUseful Information:\n\nNewcomers are welcome to come at 7pm for an introductory lesson on the basics of contra dancing. No partner is necessary. All dances are taught with a “walk-through” by the caller.\nWe no longer require vaccination. Masks are optional.\nAll dances at Swingin’ Tern are called to the gender-neutral terms Larks & Robins. Dance whatever role you’re comfortable in.\nWe are air-conditioned. We have windows on three sides when we want to let the breeze come in.\nOur dance is two blocks from the Chatham station on the Morris/Essex line out of Penn Station, NYC.\nWe welcome contributions of home-baked [or not] goodies to share at the break.\nPlease bring your own water bottle. Water bottles may be filled at the kitchen sink.\nWear comfortable clothing. Contra dancing is aerobic. We prefer you carry in your shoes.\nWe are a friendly, inclusive group. Pack plenty of smiles!\n\n$15 adults/$5 students"
@@ -27091,6 +27110,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $10-$12
     organisation: Blacksburg Contra Dance
   - name: Contra at Guiding Star Grange
     details: "The Moving Violations are: Ron Grosslein (fiddle, mandolin, djembe), Autumn Rose Lester (fiddle), and Eric Eid-Reiner (piano). Caller varies each month; please check the Guiding Star Grange website for details. \nSchedule: Newcomers workshop 7:30-8:00 p.m. Contra dance 8:00-11:00 p.m. \nCost: $12-20 sliding scale ($10 for students and children, $8 for under 13) at the door. \nCalling terms: Gender-neutral terms (larks and robins) are used at the 3rd Saturday dance. \nThere is no preregistration or verified dancer list for the 3rd Sat. dance. There is also no attendance cap. \nSee venue website for this month’s details. \nMasks are welcome but optional. Ventilation will be provided to the extent possible, depending on temperature, humidity, and number of dancers. If you are experiencing any symptoms, have tested positive for Covid in the last 10 days, or have a household member with Covid, please stay home and join us a future month."
@@ -27108,26 +27128,30 @@ events:
     social: true
     bands:
       - The Moving Violations
-    price: $8-$12
+    callers:
+      - Liz Nelson
+    price: $8-$20
     organisation: Van Kaynor
   - name: 3rd Saturday Contra Dance
     details: "Every 3rd Saturday from September through May. See our website for this month’s band and caller. \nWe use gender neutral role terms at all dances. \nProud Associate member of PATMAD and CDSS. \nPayment is on a sliding scale."
     links:
       - "https://3rdsaturday.thursdaycontra.com/"
       - "https://cdss.org/event/3rd-saturday-contra-dance-in-philadelphia/2025-06-21/"
-    start: "2025-06-21T19:30:00-04:00"
+    start: "2025-06-21T19:15:00-04:00"
     end: "2025-06-21T22:30:00-04:00"
     country: USA
     state: PA
     city: Philadelphia
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $10-$20
     organisation: PATMAD
   - name: Bridgerton-Inspired Ball
     details: "Step into Regency-era elegance at the Bridgerton-Inspired Ball on Saturday, June 21, 2025! Enjoy a night filled with glamour, grace, and unforgettable moments as we dance the night away and crown the “Diamond of the Ball.” \nWhat to Expect: \n\nDelicious food and refreshments\nEnglish country dancing\nPhoto opportunities with Queen Charlotte herself\nA special edition Lady Whistledown paper\n…and much more fun fit for royalty!\n\nMore details to come soon, including ticket information! Be sure to stay tuned to this page for all the latest updates and exciting announcements. Don’t forget to share with your friends—this is one event you won’t want to miss!"
     links:
+      - "https://riversidewc.wixsite.com/bridgerton"
       - "https://cdss.org/event/bridgerton-inspired-ball/"
     start: "2025-06-21T17:00:00-07:00"
     end: "2025-06-21T21:00:00-07:00"
@@ -27138,13 +27162,16 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Bob Vega
+    price: $55.20-$75
     organisation: "Riverside Woman's Club"
   - name: Louisville Third-Saturday Contra Dance
     details: "Louisville, Kentucky’s monthly third-Saturday contra dance. Check our website for details on bands and callers. Don’t miss the free lesson at 7:30pm. First-time attendees dance free! Waltzing and snacks at the break."
     links:
       - "https://www.louisvillecountrydancers.org/dance-with-us-1"
       - "https://cdss.org/event/louisville-third-saturday-contra-dance/2025-06-21/"
-    start: "2025-06-21T20:00:00-04:00"
+    start: "2025-06-21T19:30:00-04:00"
     end: "2025-06-21T23:00:00-04:00"
     country: USA
     state: KY
@@ -27153,10 +27180,12 @@ events:
       - contra
     workshop: true
     social: true
+    price: $8-$15
     organisation: Louisville Country Dancers
   - name: Austin Third Saturday Contra Dance
     details: "Join us for our contra dance at our Go Dance Studio (it’s pretty great), with one of our favorite local bands, and the talented Rich Goss calling. \nGo Dance Studio, 2525 W Anderson Ln. #530 in Northcross Mall Plaza (near First Watch and the Guitar Center)."
     links:
+      - "https://taada.us/wp/events/"
       - "https://cdss.org/event/austin-third-saturday-contra-dance/"
     start: "2025-06-21T19:00:00-05:00"
     end: "2025-06-21T21:55:00-05:00"
@@ -27169,13 +27198,14 @@ events:
     social: true
     callers:
       - Rich Goss
+    price: $10
     organisation: CDSS
   - name: Montpelier Contra Dance
     details: "Montpelier Contra Dance with callers and bands that perform regionally and nationally—see website or Facebook events\nBeginners, singles, and all ages are welcome; all dances are taught.\nGender-neutral role terms (Larks and Robins)\nNewcomers lesson 7:40 pm. Dancing 8-11pm.\nPlease bring clean soft-soled shoes.\nMasks optional / Excellent ventilation with open windows and ceiling exhaust fan (bring a sweater in cooler months)\nMore info at our website. \n$12 adults, $5 kids/low-income, $20 dance supporters.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDancing 1st, 3rd, and 5th Saturdays year round"
     links:
       - "https://capitalcitygrange.org/dancing/contradancing/"
       - "https://cdss.org/event/montpelier-contra-dance/2025-06-21/"
-    start: "2025-06-21T20:00:00-04:00"
+    start: "2025-06-21T19:40:00-04:00"
     end: "2025-06-21T23:00:00-04:00"
     country: USA
     state: VT
@@ -27200,21 +27230,23 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Friends of Traditional Dance Contra
     details: "Contra Dance every 1st and 3rd Saturday \nWe dance at the fabulous Masonic Ballroom, with its gorgeous sprung wood dance floor."
     links:
       - "https://fotd.org/"
       - "https://cdss.org/event/friends-of-traditional-dance-contra/2025-06-21/"
-    start: "2025-06-21T19:00:00-06:00"
+    start: "2025-06-21T18:15:00-06:00"
     end: "2025-06-21T22:00:00-06:00"
     country: USA
     state: CO
     city: Fort Collins
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $5-$20
     organisation: Friends of Traditional Dance
   - name: Contra Dance at Tapestry Folkdance Center
     details: "Every Saturday\nLARGE STUDIO\n\n\n\n\n\n\n\n\n7:30 – 8:00 pm  Lesson\n8:00 – 11:00 pm  Dance\n \nCost:\nLive Music: $15 General Admission | $12 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free \n“Pay What You Choose” first seven days of every month (1st through the 7th)\nRecorded Music:  $12 General | $10 Members | $7 Young Adult & Youth (Ages 10 -21) \nWhat is Contra Dance?\nIn a Contra dance, a leader, known as a caller, teaches basic dance steps during an introductory “walk-through” of the dance. Dancers learn by walking through the steps and formations, following the caller’s instructions. The dance figures are similar to those of old-time square dancing except the figures are usually danced in a line, with leaders and followers facing each other. \n​These dances are lively, social, easy to learn, and aerobic. Although you will dance with a partner, it isn’t necessary to come with one. All dances are taught and are usually done in “long-ways sets” (partners facing in long lines down the hall).  Many of the regular Tapestry Folkdance Center Contra bands play old-time music (similar to bluegrass), but the music at any given Saturday night Contra may reflect a range of music traditions, such as New England, French Canadian, Irish, Scottish, Cape Breton and modern compositions. \nHow does Contra Dance Work?\n“A contra dance can be thought of as a triangle of energy with the three vertices being the musicians, the dancers and the caller. Magical evenings occur when all three come together, feeding off of each others’ energy to raise and sustain an atmosphere of fun and joy. The caller’s role in this is paramount. Good music and dancers without a good caller may not be magical. Poor teaching, lack of rapport or inappropriately selected dances can lead to frustration. But a good caller can make even new dancers feel like they are good, and by working with the musicians to match music to dances, set the right tempo, and feed off the energy of everyone in the hall, the caller can help make magic.”\nby Beau Farmer, Tapestry Folkdance Center Contra Caller"
@@ -27230,8 +27262,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Tunebuggy
     callers:
-      - Beau Farmer
+      - Qwill DuVall
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: Wasatch Contra Dance
@@ -27288,7 +27322,7 @@ events:
       - "https://www.contradancenc.org/"
       - "https://www.kvmr.org/kvmr-event/third-saturdays-contra-dance-nevada-county/"
       - "https://cdss.org/event/3rd-saturdays-contra-dance-grass-valley-ca/2025-06-21/"
-    start: "2025-06-21T19:00:00-07:00"
+    start: "2025-06-21T18:45:00-07:00"
     end: "2025-06-21T22:00:00-07:00"
     country: USA
     state: CA
