@@ -26062,6 +26062,7 @@ events:
   - name: Syracuse Country Dancers ECD
     details: English country dance every 2nd and 4th Saturday.
     links:
+      - "https://syracusecountrydancers.org/upcoming-dances/"
       - "https://cdss.org/event/syracuse-country-dancers-ecd/2025-06-14/"
     start: "2025-06-14T19:00:00-04:00"
     end: "2025-06-14T22:00:00-04:00"
@@ -26072,6 +26073,9 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Katy Heine
+    price: $5-$15
     organisation: Syracuse Country Dancers
   - name: Valley Contra Dance
     details: "We dance twice a month, 2nd and 4th Saturdays.\nDance instruction at 7:00 PM\nNo partner or experience needed!\nThe moves in the dances are called by a caller, and the music is always live.\nParking is available right next to the church or on the street. Please enter on Prospect St.\nPlease carry in clean soft-soled shoes for dancing, to protect the floor (and our reputation). Sneakers are usually fine. FREE large socks with treads are provided to cover your street shoes if necessary.\nSliding scale—pay what you wish. Suggested: $8 (student), $15 (friend of VCDS), $20+ (supporter). Children 12 and under accompanied by a paying adult FREE.\nSpecial Pricing for Double Dances"
@@ -26089,11 +26093,12 @@ events:
     social: true
     price: $8-$20
     organisation: Valley Contra Dance Society
-  - name: HCD’s 2nd Saturday Contra Dance!
+  - name: Hartfort Community Dance Contra
     details: "We are a second Saturday contra dance year round! \n\nWhen: Dance 7:30-10:30pm [newcomer’s workshop 7:15pm]\nWhere: Right Side Hall, Temple Beth Torah, 130 Main St., Wethersfield, CT 06109\nWhat: A contra dance is a public and community shindig! Bring your family, friends or just bring yourself to our traditional public contra dance! No fancy footwork needed to attend, just come, enjoy the friendly camaraderie, dance to live fiddle music and see everyone’s smiling faces!\nWhy: To have a wicked good time dancing to live music, meeting and making friends!\nMore information on Facebook or Town Planner."
     links:
+      - "http://www.hcdance.org/contra-dance/"
       - "https://cdss.org/event/hcds-2nd-saturday-contra-dance/"
-    start: "2025-06-14T19:30:00-04:00"
+    start: "2025-06-14T19:15:00-04:00"
     end: "2025-06-14T22:30:00-04:00"
     country: USA
     state: CT
@@ -26102,6 +26107,11 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - The New Haven Jammers
+    callers:
+      - George Thompson
+    price: $5-$15
     organisation: Hartford Community Dance
   - name: Space Coast Contra Dance
     details: "Our second Saturday contra dance on the Space Coast of FL featuring live bands, awesome callers, and a friendly crowd. All are welcome. No partner needed. For more information, visit our website. We’d love to have you join us! \n$15; $5 for 25 and under."
@@ -26128,7 +26138,7 @@ events:
     links:
       - "https://www.worcesterdance.org/"
       - "https://cdss.org/event/worcester-contra-dance-2/"
-    start: "2025-06-14T19:30:00-04:00"
+    start: "2025-06-14T19:15:00-04:00"
     end: "2025-06-14T22:30:00-04:00"
     country: USA
     state: MA
@@ -26137,6 +26147,11 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Treble Play
+    callers:
+      - Tod Whittemore
+    price: $6-$12
     organisation: CDSS
   - name: Princeton English Country Dance
     details: "English Country Dance every 2nd Saturday (except November and December), 7:30-10:30."
@@ -27142,6 +27157,7 @@ events:
   - name: Syracuse Country Dancers Contra Dance
     details: Contra dancing every 1st and 3rd Saturday.
     links:
+      - "https://syracusecountrydancers.org/upcoming-dances/"
       - "https://cdss.org/event/syracuse-country-dancers-contra-dance/2025-06-21/"
     start: "2025-06-21T19:00:00-04:00"
     end: "2025-06-21T22:00:00-04:00"
@@ -27152,6 +27168,12 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Groove Effect
+    callers:
+      - David Smukler
+      - Mimi Mortensen
+    price: $5-$15
     organisation: Syracuse Country Dancers
   - name: Blacksburg Contra Dance
     details: "In the heart of the New River Valley, join us for a local Contra Dance! Every 3rd Saturday (note change in Nov and Dec) at the YMCA."
@@ -27559,27 +27581,12 @@ events:
     social: true
     price: $0-$50
     organisation: Meredith RosemanYager
-  - name: Chicago Contra Dance
-    details: "The Chicago Barn Dance Company sponsors and supports contra dance, traditional square dance, and old-time music in the Chicago area. Our dances are held every Monday night, except holidays, in the beautiful fourth-floor Erin Ballroom at Chicago’s Irish American Heritage Center. The dance venue is near the Montrose Blue Line stop, or you can park in the large FREE parking lot on site. \nAdmission is $7-$10 for adults, $5 for seniors and students. Come at 6:30pm if you would like a beginner/refresher lesson."
-    links:
-      - "https://www.chicagobarndance.org/calendar/"
-      - "https://cdss.org/event/chicago-contra-dance/2025-06-23/"
-    start: "2025-06-23T19:00:00-05:00"
-    end: "2025-06-23T21:40:00-05:00"
-    country: USA
-    state: IL
-    city: Chicago
-    styles:
-      - contra
-    workshop: true
-    social: true
-    price: $5-$10
-    organisation: Chicago Barn Dance Company
   - name: Monday Night Contra & Square Dance
     details: "The Chicago Barn Dance Company sponsors and supports contra dance, traditional square dance and old-time music in the Chicago area. Our dances are open to the public, with no costume, partner or experience necessary. Beginners are welcome and should arrive early in the evening, when the dances are usually easier and taught more completely. Lesson is at 6:30. \nWe usually dance in the 4th floor ballroom. \nVaccines are not required and masks are optional. Attendance will be registered at all dances for contact tracing."
     links:
       - "https://www.chicagobarndance.org/calendar/"
       - "https://cdss.org/event/monday-night-contra-square-dance/2025-06-23/"
+      - "https://cdss.org/event/chicago-contra-dance/2025-06-23/"
     start: "2025-06-23T18:30:00-05:00"
     end: "2025-06-23T21:30:00-05:00"
     country: USA
@@ -27629,6 +27636,7 @@ events:
   - name: Country Dancers of Rochester Pride Dance
     details: "This will be a whole day full of dancing, connections and celebrating Pride! Two contras, a twisted English country dance and a late-night fusion dance! \nThere will be snacks, a craft station, ways to learn more about Rochester Pride and local queer-owned and supported businesses, as much more! A portion of the proceeds from the dance will be donated to Trillium Health, a long-time local non-profit organization that has been a big support of the LGBTQIA+ community. \nAnd did we mention how lucky we are with the amazing musicians and callers we will have that day?! Music by Lake Effect, Matthew Sloboda, Chuck Abell, Cat Sloboda, Quicksilver, Catherine McCallen Sloboda, Alex Fortier and special guest Eileen Kalfass – with our evening dance being a MEGA band composed of everyone! What fun that will be! And we will have Sunny Lawrence and Carmen Giunta calling the dances throughout the day and are so excited to see what they will have in store for us. \nAll are welcome at this dance and we encourage beginners to attend, even if they have never danced before! There is gender-neutral dance calling. \nCome solo or with a friend, and please plan to wear your most colorful, creative outfits!"
     links:
+      - "https://cdrochester.org/events/pride-day-dance/"
       - "https://cdss.org/event/country-dancers-of-rochester-pride-dance/"
     start: "2025-06-28T13:00:00-04:00"
     end: "2025-06-28T22:30:00-04:00"
@@ -27642,7 +27650,11 @@ events:
     social: true
     bands:
       - Lake Effect
-      - Trillium
+      - Quicksilver
+    callers:
+      - Carmen Giunta
+      - Sunny Lawrence
+    price: $40
     organisation: Country Dancers of Rochester
   - name: Family Week at Pinewoods
     details: "Community. Song. Dance. Laughter. \nJoin us among the pines for a week full of magic and joy, music and dance, for young, old, and everyone in between. Family Week at Pinewoods is a rejuvenating and inspiring way to spend time with your children, your grandchildren, your nieces and nephews, or other children dear to you. Together, we participate in the rich traditional music, dance, and song program offered by our skilled staff. \nMorning classes are enjoyed by age groupings, with younger participants delighting in traditional song, dance, stories, and crafts, facilitated by expert children’s educators. Meanwhile, teens and adults choose from an array of energizing community dance classes. Teens are welcome to join in adult activities throughout the day but also have a daily class of their own that will weave together music and dance with dynamic instructors. \nEach day there are two all-community gatherings (morning and evening) where staff and campers alike share stories, songs, and talents. There is also time in the afternoon for campers to offer one-off classes, so bring your talents to share! \nNestled between two pristine New England ponds offering daily idyllic swimming and canoeing, both natural beauty and community spirit are ever-present. Together, we celebrate the charm of living in woodland cabins, eating delicious home-cooked meals, and participating in the rich traditional music, dance, and song program offered by our skilled staff."
