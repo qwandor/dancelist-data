@@ -2989,9 +2989,10 @@ events:
     social: true
     price: €5
     organisation: balfolk.nl
-  - name: "Droezjba, weer eens wat anders ... !!"
+  - name: "Droezjba Balfolk"
     details: "Volksdansvereniging Droezjba organiseert een bal in Eindhoven!\nVoor Droezjba weer eens wat anders!\n\nDroezjba bestaat dit jaar 50 jaar, en wil eens wat anders doen.\n\n\"Droezjba\" komt uit het Bulgaars en betekent \"vriendschap\". Dat is ook wat we vieren met Balfolk!\n\nVan 13 uur tot 14 uur is er een initiatie door Wim Scherpenzeel en Jeannette Snier.\nDaarna tot 16.30 dansen met muziek van Wouter Kuyper."
     links:
+      - "http://www.droezjba.nl/?p=2805"
       - "https://www.balfolk.nl/agenda/droezjba-weer-eens-wat-anders/"
     start: "2025-09-06T13:00:00+02:00"
     end: "2025-09-06T16:30:00+02:00"
@@ -2999,11 +3000,12 @@ events:
     city: Eindhoven
     styles:
       - balfolk
-    workshop: false
-    social: false
+    workshop: true
+    social: true
     bands:
       - Wouter Kuyper
-    organisation: balfolk.nl
+    price: €5
+    organisation: Droezjba
   - name: Sloterbal
     details: Volgt
     links:
@@ -3076,21 +3078,25 @@ events:
     social: false
     price: donation
     organisation: balfolk.nl
-  - name: Elfia Arcen 2025 — zaterdag
-    details: "Elfia Arcen 2025 - zaterdag,"
+  - name: Elfia Arcen
     links:
+      - "https://www.elfia.com/en/"
       - "https://www.balfolk.nl/agenda/elfia-arcen-2025-zaterdag/"
+      - "https://www.balfolk.nl/agenda/elfia-arcen-2025-zondag/"
     start: "2025-09-20T10:00:00+02:00"
-    end: "2025-09-20T22:00:00+02:00"
+    end: "2025-09-21T20:00:00+02:00"
     country: Netherlands
     city: Arcen
     styles:
       - balfolk
-    workshop: false
-    social: false
+    workshop: true
+    social: true
+    bands:
+      - Duo Gambetta-Sanczuk
+      - Laouen
     organisation: balfolk.nl
   - name: Spanish Dance Workshop and Bal Hoorn
-    details: "Start 12:15\nEind 15:15\nThema: Fandango, Arin Arin en andere spaanse dansen\n\nMeer info volgt"
+    details: "Start 12:15\nEind 15:15\nThema: Fandango, Arin Arin en andere spaanse dansen\n\n15:30 - 16:30 - Dance instructie\n16:45 - 18:45 - Band 1\n18:45 - 19:45 - Potluck picnic\n20:00 - 22:00 - Band 2\n22:00 - 23:30 - Sessie / Afterparty\n\nMeer info volgt"
     links:
       - "https://www.balfolk.nl/agenda/workshop-spaanse-dansen/"
       - "https://www.balfolk.nl/agenda/bal-hoorn/"
@@ -3102,19 +3108,6 @@ events:
       - balfolk
     workshop: true
     social: true
-    organisation: balfolk.nl
-  - name: Elfia Arcen 2025 — Zondag
-    details: "Elfia Arcen 2025 - Zondag,"
-    links:
-      - "https://www.balfolk.nl/agenda/elfia-arcen-2025-zondag/"
-    start: "2025-09-21T10:00:00+02:00"
-    end: "2025-09-21T20:00:00+02:00"
-    country: Netherlands
-    city: Arcen
-    styles:
-      - balfolk
-    workshop: false
-    social: false
     organisation: balfolk.nl
   - name: Balfolk Social
     details: "Balfolk op zondag\nDe Mezrab host iedere derde zondag van de maand het leukste Balfolkfeestje van Amsterdam. Bestel hier alvast een ticket en kom dansen op de livemuziek van ... en ....\n\nTicket\n- Voorverkoop: 16 euro\n- Aan de deur: 18 euro\nTickets >>>\n\nProgramma\n16:15 Deuren open16:30 Dansworkshop voor beginners\n17:30 Bal met ...\n18:00 Pauze (soep en desserttafel)\n19:00 Bal met ...21:00 Sessie\n\nEten en drinken\nWe organiseren een desserttafel. Het is een potluck zoals je gewend bent, maar enkel met zoetigheden  Voor de hartige maaltijd kan je nog steeds terecht aan de bar van de Mezrab. Ze hebben een heerlijke Iraanse linzensoep. Ook drankjes bestel je aan de bar. Water is gratis verkrijgbaar. Als service aan de dansers zet het personeel kannen water klaar.\nBands\n\n \t...\n\n\n\nBeschrijving volgt\n\n\n\n \t...\n\nBeschrijving volgt\n\nLocatie\nMezrab draagt Balfolk een warm hart toe en nodigt ons iedere maand uit te komen dansen. Je kunt in de Mezrab op andere dagen vooral terecht voor storytelling. Het café dient als inspiratiebron voor vele theaters, centra, musea en festivals om ook storytelling te programmeren. Mezrab programmeert meerdere keren per week regelmatig vertelavonden. Op de andere avonden wordt storytelling gecombineerd met andere kunstdisciplines (dans, beeldende kunst, poëzie, etc.) en een wereldmuziekprogramma.\n\nEr is plek voor zo'n 100 dansers.\n\nAdres:\nMezrab\nVeemkade 576\n1019 BL Amsterdam\n\nFotocredit\nBalfolk Amsterdam"
