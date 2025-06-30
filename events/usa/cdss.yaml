@@ -30023,7 +30023,7 @@ events:
     links:
       - "http://www.tallydancer.com/"
       - "https://cdss.org/event/tallahassee-contra-dance-2/2025-07-11/"
-    start: "2025-07-11T19:30:00-04:00"
+    start: "2025-07-11T19:15:00-04:00"
     end: "2025-07-11T22:00:00-04:00"
     country: USA
     state: FL
@@ -30048,10 +30048,12 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
-  - name: "Lambertville Country Dancers (English Country Dance in Newtown, PA)"
+  - name: Lambertville Country Dancers
     details: "English Country Dance called by Sam Rotenberg. Music by Kathy Talvitie, Bob Pasquarello, Lee Dieterich and Tom Goslin."
     links:
+      - "https://lambertvillecountrydancers.org/"
       - "https://cdss.org/event/lambertville-country-dancers-english-country-dance-in-newtown-pa/"
     start: "2025-07-11T19:30:00-04:00"
     end: "2025-07-11T22:30:00-04:00"
@@ -30062,13 +30064,16 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Sam Rotenberg
+    price: $5-$15
     organisation: Lambertville Country Dancers
   - name: Friday Night Contra at Glen Echo
     details: "Join us in Glen Echo, Maryland, for a fun night of contras and an occasional square! There’s a free lesson at 7:30pm."
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-07-11/"
-    start: "2025-07-11T20:00:00-04:00"
+    start: "2025-07-11T19:30:00-04:00"
     end: "2025-07-11T23:00:00-04:00"
     country: USA
     state: MD
@@ -30077,6 +30082,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Family Week at Pinewoods
     details: "Community. Song. Dance. Laughter. \nJoin us among the pines for a week full of magic and joy, music and dance, for young, old, and everyone in between. Family Week at Pinewoods is a rejuvenating and inspiring way to spend time with your children, your grandchildren, your nieces and nephews, or other children dear to you. Together, we participate in the rich traditional music, dance, and song program offered by our skilled staff. \nMorning classes are enjoyed by age groupings, with younger participants delighting in traditional song, dance, stories, and crafts, facilitated by expert children’s educators. Meanwhile, teens and adults choose from an array of energizing community dance classes. Teens are welcome to join in adult activities throughout the day but also have a daily class of their own that will weave together music and dance with dynamic instructors. \nEach day there are two all-community gatherings (morning and evening) where staff and campers alike share stories, songs, and talents. There is also time in the afternoon for campers to offer one-off classes, so bring your talents to share! \nNestled between two pristine New England ponds offering daily idyllic swimming and canoeing, both natural beauty and community spirit are ever-present. Together, we celebrate the charm of living in woodland cabins, eating delicious home-cooked meals, and participating in the rich traditional music, dance, and song program offered by our skilled staff."
@@ -30100,7 +30106,7 @@ events:
     links:
       - "https://monroviaecd.org/"
       - "https://cdss.org/event/monrovia-english-country-dance/2025-07-11/"
-    start: "2025-07-11T19:30:00-07:00"
+    start: "2025-07-11T19:15:00-07:00"
     end: "2025-07-11T22:00:00-07:00"
     country: USA
     state: CA
@@ -30114,6 +30120,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6108"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2025-07-11/"
     start: "2025-07-11T19:30:00-07:00"
     end: "2025-07-11T22:30:00-07:00"
@@ -30124,7 +30131,7 @@ events:
       - ecd
     workshop: false
     social: true
-    price: $7-$20
+    price: free
     organisation: Portland Country Dance Community
   - name: English Country Dance
     details: Second Saturdays English Dance in Pittsburgh. (3rd Saturday this March.)
@@ -30187,6 +30194,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5-$15
     organisation: Syracuse Country Dancers
   - name: Valley Contra Dance
     details: "We dance twice a month, 2nd and 4th Saturdays.\nDance instruction at 7:00 PM\nNo partner or experience needed!\nThe moves in the dances are called by a caller, and the music is always live.\nParking is available right next to the church or on the street. Please enter on Prospect St.\nPlease carry in clean soft-soled shoes for dancing, to protect the floor (and our reputation). Sneakers are usually fine. FREE large socks with treads are provided to cover your street shoes if necessary.\nSliding scale—pay what you wish. Suggested: $8 (student), $15 (friend of VCDS), $20+ (supporter). Children 12 and under accompanied by a paying adult FREE.\nSpecial Pricing for Double Dances"
@@ -30209,15 +30217,19 @@ events:
     links:
       - "https://spacecoastcontra.org/calendar-upcoming-contra-dances/"
       - "https://cdss.org/event/space-coast-contra-dance/2025-07-12/"
-    start: "2025-07-12T19:30:00-04:00"
+    start: "2025-07-12T19:00:00-04:00"
     end: "2025-07-12T22:30:00-04:00"
     country: USA
     state: FL
     city: Cocoa
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - McIntyre
+    callers:
+      - Jonathan King
     price: $5-$15
     organisation: Space Coast Contra Dance
   - name: Princeton English Country Dance
@@ -30225,7 +30237,7 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-english-country-dance/2025-07-12/"
-    start: "2025-07-12T19:30:00-04:00"
+    start: "2025-07-12T19:00:00-04:00"
     end: "2025-07-12T22:30:00-04:00"
     country: USA
     state: NJ
@@ -30234,13 +30246,14 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: TopHill Music Contradance Party
     details: "Please check the Guiding Star Grange website for details. \nSchedule: There will be a newcomers workshop at 7:45pm. Please come early to help our new dancing friends! All are welcome! \nCost: $12-20 sliding scale \n\nHigh-level masks are mandated for this dance.\nPlease bring your own water bottle.\nUp-to-date vaccinations are encouraged but not required.\nIf you are not feeling well, please do not attend, but rather care for yourself and others and join us next time!\n\nSee venue website for this month’s details and Covid policy."
     links:
       - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/second-saturday-tophill-music-contradance-party-at-guiding-star-grange/2025-07-12/"
-    start: "2025-07-12T20:00:00-04:00"
+    start: "2025-07-12T19:45:00-04:00"
     end: "2025-07-12T23:00:00-04:00"
     country: USA
     state: MA
@@ -30249,7 +30262,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    price: $12-$20
     organisation: Alice Kenney
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Oklahoma City, second and fourth Saturdays. Check our Facebook or our website for more details!"
@@ -30265,12 +30278,13 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: NACDS Contra Dance
     details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
     links:
       - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2025-07-12/"
-    start: "2025-07-12T19:30:00-05:00"
+    start: "2025-07-12T18:30:00-05:00"
     end: "2025-07-12T23:00:00-05:00"
     country: USA
     state: AL
@@ -30295,6 +30309,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Contra Dance
     details: "HATDS hosts contra dances on the 2nd and 4th Saturdays of most months. We dance to live music. All skill levels are welcome and all dances are called. Bring water and clean shoes! \nThe admission price for contra dances is $10 for members, $15 for non-members. Cash, checks, credit cards, and digital wallets are currently accepted at the door. If paying cash, please bring correct change. No large bills accepted."
@@ -30317,7 +30332,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2025-07-12/"
-    start: "2025-07-12T20:00:00-05:00"
+    start: "2025-07-12T19:30:00-05:00"
     end: "2025-07-12T23:00:00-05:00"
     country: USA
     state: MN
@@ -30326,8 +30341,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Compass Rose String Band
     callers:
-      - Beau Farmer
+      - Mattie Rynkiewicz
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: San Luis Obispo Monthly Contra Dance
@@ -30344,20 +30361,21 @@ events:
       - contra
     workshop: true
     social: true
+    price: $10
     organisation: Central Coast Country Dance Society
   - name: Sacramento Contra Dance
     details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $12 for adults; $8 for college students with ID; $5 for dancers under 18; $25 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
     links:
       - "https://sactocds.wordpress.com/"
       - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays/2025-07-12/"
-    start: "2025-07-12T19:00:00-07:00"
+    start: "2025-07-12T18:30:00-07:00"
     end: "2025-07-12T22:00:00-07:00"
     country: USA
     state: CA
     city: Sacramento
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $5-$25
     organisation: Sacramento Country Dance Society
@@ -30382,7 +30400,7 @@ events:
     links:
       - "https://tadamsva.org/dances/"
       - "https://cdss.org/event/richmond-va-2nd-sunday-afternoon-contra-dance/2025-07-13/"
-    start: "2025-07-13T14:30:00-04:00"
+    start: "2025-07-13T13:45:00-04:00"
     end: "2025-07-13T17:30:00-04:00"
     country: USA
     state: VA
@@ -30423,6 +30441,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: Louisville English Country Dancers
   - name: English Country Dance
     details: "Twice-monthly English Country Dance session in Colorado Springs, CO. Each dance will be taught and then practiced. Great social atmosphere and fun!"
@@ -30443,7 +30462,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance-2/2025-07-13/"
-    start: "2025-07-13T16:00:00-04:00"
+    start: "2025-07-13T15:30:00-04:00"
     end: "2025-07-13T18:15:00-04:00"
     country: USA
     state: NC
@@ -30452,6 +30471,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: free
     organisation: CDSS
   - name: Culver City ECD
     details: "English Country Dance with live musicians in the afternoon on the Westside of Los Angeles. No partner required. Masks optional. Preregistration requested. \n$20 (sliding scale)"
@@ -30483,6 +30503,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15-$20
     organisation: CDSS
   - name: Common Floor Contra Dance
     details: "Contra dancing in Portland, ME every second Sunday. For details, visit our website. \n$15 suggested donation."
@@ -30505,23 +30526,6 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-2/"
-    start: "2025-07-13T18:30:00-05:00"
-    end: "2025-07-13T21:00:00-05:00"
-    country: USA
-    state: MN
-    city: Minneapolis
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
-    organisation: Tapestry Folkdance Center
-  - name: English Country Dance at Tapestry Folkdance Center
-    details: "Every Sunday \nSmall Studio\n7:00 – 9:00 pm \n\n\n\n\n\n\n\n2nd Sunday of the Month\nLive Music with Anytime English Players | 6:30 – 9:00 pm \n​Cost:\n​Recorded Music:  $12 General Admission | $9 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\nLive Music: $15 General Admission | $12 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\n\n​“Pay What You Choose” first seven days of every month (1st through the 7th) – Newcomers especially encouraged to attend! \n\n\n\n\n\n\n\nEnglish country dancing is an accessible social dance form with a history going back several centuries. This is the dancing of Queen Elizabeth I, of Jane Austen, and a living tradition that inspires musical compositions and choreographies today. The music can be stately or spritely, traditional or modern, recorded or live. It is danced with simple walking or skipping steps in time to the music. All dances are taught and are usually done in “long-ways sets” with partners facing in lines down the hall. After a walk-through, the easy-to-learn figures are called throughout the dance as you interact with other couples in your set and then move on to the next and repeat.\n​\nYou can come by yourself and be assured of dancing throughout the evening, since our tradition is to welcome and teach beginners and change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience.  English country dance will satisfy your wish for pleasurable exercise, a warm social community, mental stimulation, or even transcendent aesthetic experiences. We invite you to join us!"
-    links:
-      - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center/2025-07-13/"
     start: "2025-07-13T18:30:00-05:00"
     end: "2025-07-13T21:00:00-05:00"
@@ -30541,21 +30545,26 @@ events:
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2025-07-13/"
-    start: "2025-07-13T19:00:00-05:00"
+    start: "2025-07-13T18:30:00-05:00"
     end: "2025-07-13T21:30:00-05:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Roger Wilco
+    callers:
+      - Karen Jackson
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
     links:
       - "https://cdss.org/event/gainesville-florida-english-country-dance/2025-07-14/"
-    start: "2025-07-14T18:30:00-04:00"
+    start: "2025-07-14T18:10:00-04:00"
     end: "2025-07-14T20:30:00-04:00"
     country: USA
     state: FL
@@ -30566,14 +30575,14 @@ events:
     social: true
     bands:
       - Hoggetowne Fancy
-    price: $5
+    price: $10
     organisation: Gainesville English Country Dance
   - name: Chicago Contra Dance
     details: "The Chicago Barn Dance Company sponsors and supports contra dance, traditional square dance, and old-time music in the Chicago area. Our dances are held every Monday night, except holidays, in the beautiful fourth-floor Erin Ballroom at Chicago’s Irish American Heritage Center. The dance venue is near the Montrose Blue Line stop, or you can park in the large FREE parking lot on site. \nAdmission is $7-$10 for adults, $5 for seniors and students. Come at 6:30pm if you would like a beginner/refresher lesson."
     links:
       - "https://www.chicagobarndance.org/calendar/"
       - "https://cdss.org/event/chicago-contra-dance/2025-07-14/"
-    start: "2025-07-14T19:00:00-05:00"
+    start: "2025-07-14T18:30:00-05:00"
     end: "2025-07-14T21:40:00-05:00"
     country: USA
     state: IL
@@ -30598,6 +30607,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: American Dance & Music Week at Pinewoods
     details: "Does an incomparable week in the woods full of transcendent contras, delightful squares, and swingin’ songs sound appealing to you? \nIf so, then American Week will be a week full of what you love plus the joy of discovering some new things, too. Young or old, new or experienced, come relax amidst our participatory, welcoming vibe and the pressure-relieving radiance of Pinewoods Camp. \n2025 highlights: In addition to the dancing you might expect, some highlights this year include classes on calling, musicianship, singing, flatfooting, tai chi, and fusion dancing. \nAnd of course, we have our contras and squares. We have calling from Cis Hinkle, Janine Smith, and Michael Karcher. Meanwhile, this year’s music revolves around soaring New England melodies from the Stringrays (five piece version!) and deep doses of hot-hot-hot old-time from Jet Bridge. The staff is a unique dream-team of superlatively supportive, talented, world-class teacher-performers."
@@ -31217,6 +31227,7 @@ events:
   - name: 75th National Square Dance Convention
     details: "Enjoy several days of contra dancing at the 75th National Square Dance Convention in Waco, TX June 24-27, 2026. \nNote: Contra callers who register by Dec 31, 2025 and indicate their interest on the registration form can be scheduled to call contra dances or other traditional formations at this national convention, which will have 3,000 attendees!   \nRegistration is $80 for adults until May 1, 2026, when it increases to $95. \nRegister on our website. The contra hall schedule (which might include you as a caller!) will be posted in the Spring of 2026 on the Contralab Facebook page."
     links:
+      - "https://75nsdctx.com/"
       - "https://cdss.org/event/contra-hall-at-the-75th-national-square-dance-convention/"
     start_date: 2026-06-24
     end_date: 2026-06-27
@@ -31230,11 +31241,12 @@ events:
     social: true
     price: $80-$95
     organisation: Contralab
-  - name: Contra Hall at the 76th National Square Dance Convention
+  - name: 76th National Square Dance Convention
     details: "Enjoy hours and hours of contra dancing and related traditional dance (English, squares, community dance) at the 76th NSDC in Loveland, CO. Registration is open and the cost is currently $70 per adult.   \nContra callers! If you register by Dec. 31, 2026, you can be included as a caller in the Contra Hall! 3,000 attendees are expected at this national square dance convention! \nMore information available as we get closer to the date!"
     links:
+      - "https://76nsdc.com/"
       - "https://cdss.org/event/contra-hall-at-the-76th-national-square-dance-convention/"
-    start_date: 2027-06-22
+    start_date: 2027-06-23
     end_date: 2027-06-26
     country: USA
     state: CO
@@ -31242,7 +31254,7 @@ events:
     styles:
       - contra
       - ecd
-    workshop: false
+    workshop: true
     social: true
     price: $70
     organisation: Contralab
