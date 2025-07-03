@@ -30849,6 +30849,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $2
     organisation: Cleveland English Dance Community
   - name: Gentle English
     details: "English Country Dancing for those who enjoy relaxed tempos and familiar figures. Jenny Beer leading, music by laptop."
@@ -30866,6 +30867,7 @@ events:
     social: true
     callers:
       - Jenny Beer
+    price: $5-$10
     organisation: Jenny Beer
   - name: Old Tyme Contra & Community Dance
     details: "Third Thursday of every month:* lesson at 6:30, dance 7-9pm.\nLive band and dance caller for contras, squares, round, and fun crazy family dances, too.\nBeginners are welcome! No need to bring a partner, but you are welcome to do so.\nChildren over age 8 who are game to participate may also attend.\nBring a closed water container and a snack if you choose.\nSmooth-soled shoes work best on the Library’s wonderful wood floor.\nPlease do not wear perfume or scents to the dances.\n\nSuggested donation: $10 adults; kids under 14 free. \n* Note: Our venue will be under repair from February to April or May 2025. Please check our Facebook page for updates."
@@ -30896,21 +30898,27 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-260/"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2025-07-17/"
-    start: "2025-07-17T19:30:00-04:00"
+    start: "2025-07-17T19:10:00-04:00"
     end: "2025-07-17T22:30:00-04:00"
     country: USA
     state: NY
     city: Rochester
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Spindrift
+    callers:
+      - Rachel Ameen
+    price: $12
     organisation: Country Dancers of Rochester
   - name: Thursday Contra Dance
     details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n\n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing\nMasks are no longer required but are welcomed.\nOur sliding scale is $10-$15-$20.\nOur role terms are Larks and Robins."
@@ -30967,6 +30975,7 @@ events:
     social: true
     bands:
       - The Gaslight Tinkers
+      - The Russet Trio
     organisation: Falcon Ridge Folk Festival
   - name: Harmony of Song & Dance at Pinewoods
     details: "Join us for a week of singing, dancing, and more! At Harmony of Song & Dance, we’ll enjoy learning and sharing in a variety of song and dance traditions. This year, the week is loosely focused on percussive dance and the musical conversations between and among dancers, vocalists, and instrument-players. If you love to sing, dance, jam, or do all of those at the same time, this is the week for you! Though there will also be plenty of opportunities to do them just one at a time as well. \nEach day’s schedule includes an all-camp singing session, an all-camp dance session (where both newcomer and experienced dancers will find a lesson for their skill level), and many types of singing, dancing, and instrumental workshops, including some that invite collaboration between and among dancers, musicians, and singers. \nEvery evening, we will enjoy mini-concerts by our brilliant staff, followed by a dance featuring contra and English country dancing, plus some late-night festivities. Within each jam-packed day, there is also time built into the schedule for jamming, snoozing, swimming, chatting, or taking some solo time if you need it. Pinewoods offers a beautiful venue for a glorious week of song, dance, learning, connection, revelry, and rejuvenation. I look forward to singing and dancing with you there!"
@@ -31144,9 +31153,9 @@ events:
   - name: Dance Camp North
     details: "The Dam Beavers with caller Jeremy Korr \nDance Camp North is the signature weekend event of the Contra Borealis Dancers.  It takes place on Labor Day weekend each year.  There is a dance in Fairbanks Friday evening followed by a dance weekend at the Lost Lake Boy Scout Camp about 60 minutes south of Fairbanks. \nExcellent food, cabins or tent accommodations and bathrooms provided, but you bring your own bedding, up to 110 people enjoy the rural settings with a dance hall, workshop rooms, swimming or boating on Lost Lake, and nice fall hiking with great views of the Tanana River basin. Aurora viewing is a definite possibility."
     links:
-      - "https://contraborealis.org/dance-camp-north/"
+      - "https://contraborealis.org/dcn-2025-registration-open/"
       - "https://cdss.org/event/dance-camp-north-2025/"
-    start_date: 2025-08-29
+    start_date: 2025-08-30
     end_date: 2025-09-01
     country: USA
     state: AK
