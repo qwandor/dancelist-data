@@ -2545,6 +2545,7 @@ events:
       - Elijah Jaime
       - Katie Zanders
     organisation: TryContra
+    cancelled: true
   - name: Dancing Fish
     links:
       - "https://dancingfish.dance/event/july-4th-weekend-kingfisher/"
@@ -2699,6 +2700,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - open band
+    callers:
+      - open calling
     organisation: TryContra
   - name: Cascade of Music & Dance
     links:
@@ -2713,7 +2718,25 @@ events:
       - ecd
     workshop: true
     social: true
+    callers:
+      - Mary Wesley
     price: $750-$1400
+    organisation: TryContra
+  - name: Falcon Ridge Folk Festival
+    links:
+      - "http://falconridgefolk.com/"
+    start_date: 2025-07-25
+    end_date: 2025-07-27
+    country: USA
+    state: CT
+    city: Goshen
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Gaslight Tinkers
+      - The Russet Trio
     organisation: TryContra
   - name: Good Life Gallop
     links:
@@ -2797,6 +2820,40 @@ events:
     callers:
       - Will Mentor
       - Alex Deis-Lauby
+    organisation: TryContra
+  - name: Michigan Dance Heritage Fall Weekend
+    links:
+      - "https://michigandanceheritage.org/fall/"
+    start_date: 2025-09-26
+    end_date: 2025-09-28
+    country: USA
+    state: MI
+    city: Lexington
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Sister Haggis
+    callers:
+      - Darlene Underwood
+    organisation: TryContra
+  - name: Dance Camp North
+    links:
+      - "https://contraborealis.org/dcn-2025-registration-open/"
+    start_date: 2025-08-30
+    end_date: 2025-09-01
+    country: USA
+    state: AK
+    city: Fairbanks
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Dam Beavers
+    callers:
+      - Jeremy Korr
     organisation: TryContra
   - name: Feet Retreat
     links:
@@ -2887,6 +2944,23 @@ events:
       - ecd
     workshop: true
     social: true
+    callers:
+      - Lisa Greenleaf
+    organisation: TryContra
+  - name: Youth Dance Weekend
+    links:
+      - "http://youthdanceweekend.org/"
+    start_date: 2025-09-26
+    end_date: 2025-09-28
+    country: USA
+    state: VT
+    city: Weston
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Alyssa Adkins
     organisation: TryContra
   - name: Cascade Contras
     links:
@@ -2906,6 +2980,23 @@ events:
     callers:
       - Isaac Banner
       - Adina Gordon
+    organisation: TryContra
+  - name: Balance The Star Dance Weekend
+    links:
+      - "https://www.berea-folk-circle.org/fall-mountain-folk-festival"
+    start_date: 2025-09-27
+    end_date: 2025-09-28
+    country: USA
+    state: KY
+    city: Berea
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Berea Castoffs
+    callers:
+      - Wendy Graham
     organisation: TryContra
   - name: ContraStock
     links:
@@ -3230,6 +3321,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - The Dam Beavers
+      - The Newtime Keepers
+    callers:
+      - Mary Wesley
+      - Michael Karcher
     organisation: TryContra
   - name: Dancing Fish
     links:
