@@ -30936,9 +30936,10 @@ events:
     social: true
     price: $10-$20
     organisation: PATMAD
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley Contra Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2025-07-17/"
     start: "2025-07-17T20:00:00-07:00"
     end: "2025-07-17T22:30:00-07:00"
@@ -30947,9 +30948,13 @@ events:
     city: Berkeley
     styles:
       - contra
-      - ecd
     workshop: true
     social: true
+    bands:
+      - Raven & Goose
+    callers:
+      - Doe Taryn
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: English Country Dancing
     details: "We invite you to dance with us on the third Friday of every month at Luray United Methodist Church. Parking behind the adjacent bank building. It’s free and open to the public; most appropriate for people 10 years old and up; no experience needed; no partner needed. Wear casual clothes and comfortable shoes. \nTom Mack is the caller and we dance to recorded music enjoying dances from the 1700’s and 1800’s: lines, circles and squares. \nHealth issues: If you feel sick, stay home."
@@ -30988,6 +30993,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Orlando Contra Dance
     details: "Welcome to the Orlando Contra Dance! We feature high-tempo, gender-neutral dancing. We are Florida’s only gender-neutral contra series. Dancing is open to everyone and free for students and returning beginners (2nd dance is free)! \nWe usually dance on the first and third Friday of the month. Holidays, semester breaks, and regional events happen, so check the schedule before going!"
@@ -31003,6 +31009,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Orlando Contra Dance
   - name: Rivanna Contra Dance
     details: "Third Friday contra dances in Charlottesville, VA. A few miles off I-64. Mask optional. Larks & Robins. Intro lesson 7:00 PM. Dance starts 7:30 PM.\nSliding scale admission: recommend $20"
@@ -31033,6 +31040,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: American Dance & Music Week at Pinewoods
     details: "Does an incomparable week in the woods full of transcendent contras, delightful squares, and swingin’ songs sound appealing to you? \nIf so, then American Week will be a week full of what you love plus the joy of discovering some new things, too. Young or old, new or experienced, come relax amidst our participatory, welcoming vibe and the pressure-relieving radiance of Pinewoods Camp. \n2025 highlights: In addition to the dancing you might expect, some highlights this year include classes on calling, musicianship, singing, flatfooting, tai chi, and fusion dancing. \nAnd of course, we have our contras and squares. We have calling from Cis Hinkle, Janine Smith, and Michael Karcher. Meanwhile, this year’s music revolves around soaring New England melodies from the Stringrays (five piece version!) and deep doses of hot-hot-hot old-time from Jet Bridge. The staff is a unique dream-team of superlatively supportive, talented, world-class teacher-performers."
@@ -31076,6 +31084,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6109"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2025-07-18/"
     start: "2025-07-18T19:30:00-07:00"
     end: "2025-07-18T22:30:00-07:00"
@@ -31086,6 +31095,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Lindsey Dono
     price: $7-$20
     organisation: Portland Country Dance Community
   - name: Falcon Ridge Folk Festival
