@@ -22293,8 +22293,8 @@ events:
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://folkbalbende.be/event/2911"
-    start_date: 2025-07-21
-    end_date: 2025-07-21
+    start: "2025-07-21T21:00:00+02:00"
+    end: "2025-07-21T23:00:00+02:00"
     country: Belgium
     city: Louvain-la-Neuve
     styles:
@@ -22303,15 +22303,18 @@ events:
     social: true
     bands:
       - "J'En Rafolk"
+    price: free
     organisation: ~
   - name: Folkbal
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.de-pikkeling.be/"
+      - "https://www.de-pikkeling.be/programma"
       - "https://folkbalbende.be/event/2912"
-    start_date: 2025-07-25
-    end_date: 2025-07-25
+      - "https://www.facebook.com/events/3219323274899421/"
+      - "https://www.ceciliafolk.be/en/shows/vielle-en-flandre-2/"
+    start: "2025-07-26T16:45:00+02:00"
+    end: "2025-07-26T19:00:00+02:00"
     country: Belgium
     city: Baardegem
     styles:
@@ -22320,6 +22323,7 @@ events:
     social: true
     bands:
       - Cecilia
+    price: free
     organisation: ~
   - name: Zilleghem Folk
     details: Ball
@@ -22327,25 +22331,9 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.zilleghemfolk.be/"
       - "https://folkbalbende.be/event/2913"
-    start_date: 2025-07-25
-    end_date: 2025-07-25
-    country: Belgium
-    city: Loppem
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Duo Bucsan/Gielen
-    organisation: ~
-  - name: Zilleghem Folk
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.zilleghemfolk.be/"
       - "https://folkbalbende.be/event/2914"
-    start_date: 2025-07-26
-    end_date: 2025-07-26
+    start: "2025-07-25T12:00:00+02:00"
+    end: "2025-07-27T01:00:00+02:00"
     country: Belgium
     city: Loppem
     styles:
@@ -22353,5 +22341,8 @@ events:
     workshop: false
     social: true
     bands:
-      - Embrunvariomatic
-    organisation: ~
+      - Duo Bucsan-Gielen
+      - EmBRUN
+      - Variomatic
+    price: €95-€115
+    organisation: Zilleghem Folk
