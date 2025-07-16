@@ -31092,6 +31092,7 @@ events:
   - name: Midway Community Contra Dance
     details: "5pm–6pm: children’s dance\n6pm–6:30pm: beginner’s workshop\n6:30pm–9pm: dance"
     links:
+      - "https://www.midwaycommunitydance.com/"
       - "https://cdss.org/event/midway-community-contra-dance/"
     start: "2025-07-18T17:00:00-06:00"
     end: "2025-07-18T21:00:00-06:00"
@@ -31102,6 +31103,11 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Doxatunes
+    callers:
+      - Carrie Dayton-Madsen
+    price: donation
     organisation: Sleepy Sun Studios
   - name: Rivanna Contra Dance
     details: "Third Friday contra dances in Charlottesville, VA. A few miles off I-64. Mask optional. Larks & Robins. Intro lesson 7:00 PM. Dance starts 7:30 PM.\nSliding scale admission: recommend $20"
@@ -32712,7 +32718,7 @@ events:
     details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
     links:
       - "https://cdss.org/event/gainesville-florida-english-country-dance/2025-07-28/"
-    start: "2025-07-28T18:30:00-04:00"
+    start: "2025-07-28T18:10:00-04:00"
     end: "2025-07-28T20:30:00-04:00"
     country: USA
     state: FL
@@ -32723,7 +32729,7 @@ events:
     social: true
     bands:
       - Hoggetowne Fancy
-    price: $5
+    price: $10
     organisation: Gainesville English Country Dance
   - name: Nashville Monday Night English Country Dance Class
     details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
@@ -32748,7 +32754,7 @@ events:
     links:
       - "https://www.chicagobarndance.org/calendar/"
       - "https://cdss.org/event/chicago-contra-dance/2025-07-28/"
-    start: "2025-07-28T19:00:00-05:00"
+    start: "2025-07-28T18:30:00-05:00"
     end: "2025-07-28T21:40:00-05:00"
     country: USA
     state: IL
@@ -32773,6 +32779,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: Lark Camp
     details: "Music, Song & Dance Workshops in the beautiful Mendocino Woodlands of California \nFamily Friendly • Dances, Jams & Sessions • Great Food • Camping \nFull Camp for 8 Days, or Half Camp for 4 Days; Learn music, song, and dance traditions from Ireland, British Isles, Greece, Eastern Europe, Sweden, Latin America, North America, Spain, France, the Middle East, Asia, and Africa"
@@ -33140,6 +33147,7 @@ events:
   - name: The Five Borough Fling
     details: "Join Brooklyn Contra for its annual dance weekend in the Church of St. Paul and St. Andrew on NYC’s Upper West Side.  \nWe’re joined this year by some of America’s best contra talent, including Kingfisher, Will Mentor, The Red Case Band, Lyss Adkins and Some Assembly Required! Together they’re spanning genres with funky modern contra sounds, classic New England tunes, and everything in between. Plus we’ll have Sunday morning workshops, live break music, and more! \nCommunity Housing and Volunteer Spots are Available!"
     links:
+      - "https://www.contradance.nyc/"
       - "https://cdss.org/event/the-five-borough-fling/"
     start: "2025-10-24T18:00:00-04:00"
     end: "2025-10-26T18:30:00-04:00"
@@ -33153,7 +33161,9 @@ events:
     bands:
       - Kingfisher
       - Red Case Band
+      - Some Assembly Required
     callers:
+      - Alyssa Adkins
       - Will Mentor
     organisation: Brooklyn Contra
   - name: "Atlanta Dance Weekend: Contra Fantasia"
