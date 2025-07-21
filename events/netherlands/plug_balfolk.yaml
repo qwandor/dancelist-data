@@ -524,10 +524,12 @@ events:
     social: true
     price: donation
     organisation: Balfolk in Lent
-  - name: Proefles Balfolk in Utrecht bij Balfolk Express
+  - name: Balfolk Express trial lesson
     details: "Zoek jij een leuke uitdaging, gezellige community, of gewoon een manier om je balfolk-skills te verbeteren? Kom balfolk dansen bij Balfolk Express! Wij organiseren lessen, bals en workshops in Utrecht. Op dinsdag 9 september gaat ons nieuwe seizoen van start voor zowel beginners als (half)gevorderden.\r\n\r\nSchrijf je in: https://docs.google.com/forms/d/e/1FAIpQLSe7CLWEIXsJ-ktBdZbMgp8YA1mwBktSGGxNPXCD4-PxpokeBw/viewform"
     links:
       - "https://www.plug.events/event/proefles-balfolk-in-utrecht-bij-balfolk-express"
+      - "https://www.facebook.com/events/625724420560464/"
+      - "https://balfolkexpress.nl/lessen"
     start: "2025-09-09T19:15:00+02:00"
     end: "2025-09-09T22:00:00+02:00"
     country: Netherlands
@@ -536,6 +538,7 @@ events:
       - balfolk
     workshop: true
     social: false
+    price: €5
     organisation: Balfolk Express
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
@@ -634,9 +637,10 @@ events:
       - Laouen
       - StatiK
     organisation: Vana Events
-  - name: Balfolk met OMGDude en PFM! / Sessie met Manon Elout
+  - name: Balfolk
     details: "De Mezrab host iedere derde zondag van de maand het leukste Balfolk feest van Amsterdam.\r\n \r\nBestel alvast een ticket en kom dansen op de livemuziek van OMGDude en PFM!. Blijf na het bal vooral hangen voor de sessie geleid door Manon Elout, bekend van Duo/Trio Baftig!"
     links:
+      - "https://balfolkamsterdam.nl/balfolk-social-met-omgdude-en-pfm"
       - "https://www.plug.events/event/balfolk-met-omgdude-en-pfm-sessie-met-manon-elout"
     start: "2025-09-21T16:15:00+02:00"
     end: "2025-09-21T22:00:00+02:00"
@@ -644,12 +648,13 @@ events:
     city: Amsterdam
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
+      - OMGDude
       - PFM!
-      - Trio Baftig
-    organisation: ~
+    price: €16-€18
+    organisation: Balfolk Amsterdam
   - name: Balfolk Dansavond
     details: "De discoavonden van Balfolk Amsterdam zijn de ideale manier om op een laagdrempelige en ontspannen manier Balfolk te oefenen. Het is altijd super gezellig, dus kom ook langs!"
     links:
