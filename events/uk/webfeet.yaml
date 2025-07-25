@@ -1,37 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Dodging Pheasants in Bristol
-    links:
-      - "https://bristolcontra.wordpress.com/"
-    start_date: 2025-04-25
-    end_date: 2025-04-25
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Dodging Pheasants
-    callers:
-      - Lisa Heywood
-    organisation: Webfeet
-  - name: Ali and Mollie in Leeds
-    links:
-      - "http://www.leedscontra.freeuk.com/specialevents.html"
-    start_date: 2025-04-26
-    end_date: 2025-04-26
-    country: UK
-    city: Leeds
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Ali and Mollie
-    callers:
-      - Lynne Render
-    organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -265,120 +233,6 @@ events:
       - Catsfield Steamers
     organisation: Webfeet
     cancelled: true
-  - name: live music in Bath
-    links:
-      - "http://mister.red/dance/bath.htm#D.AN.20250709"
-    start_date: 2025-07-09
-    end_date: 2025-07-09
-    country: UK
-    city: Bath
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: "Baily's Beads in Witcombe"
-    links:
-      - "http://mister.red/dance/gloucester.htm#D.VB.20250709"
-    start_date: 2025-07-09
-    end_date: 2025-07-09
-    country: UK
-    city: Witcombe
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Baily's Beads"
-    organisation: Webfeet
-  - name: "Blackbeard's Tea Party in Ely"
-    links:
-      - "https://www.bandsintown.com/e/106153220-blackbeard&#x27;s-tea-party-at-stuntney-estate"
-    start_date: 2025-07-11
-    end_date: 2025-07-11
-    country: UK
-    city: Ely
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-    organisation: Webfeet
-  - name: Blackbeards Tea Party in Priddy
-    links:
-      - "https://www.bandsintown.com/e/106855950-blackbeard&#x27;s-tea-party-at-priddy-green"
-      - "http://www.blackbeardsteaparty.com/gigs/"
-    start_date: 2025-07-11
-    end_date: 2025-07-11
-    country: UK
-    city: Priddy
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-      - Blackbeards Tea Party
-    organisation: Webfeet
-  - name: Banter in South Petherton
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2025-07-11
-    end_date: 2025-07-11
-    country: UK
-    city: South Petherton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
-  - name: "Blackbeard's Tea Party in Walsall"
-    links:
-      - "https://www.bandsintown.com/e/106740822-blackbeard&#x27;s-tea-party-at-the-poundland-bescot-stadium"
-    start_date: 2025-07-11
-    end_date: 2025-07-11
-    country: UK
-    city: Walsall
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-    organisation: Webfeet
-  - name: Blackbeards Tea Party in Walsall
-    links:
-      - "http://www.blackbeardsteaparty.com/gigs/"
-    start_date: 2025-07-12
-    end_date: 2025-07-12
-    country: UK
-    city: Walsall
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Blackbeards Tea Party
-    organisation: Webfeet
-  - name: Blackbeards Tea Party in Ely
-    links:
-      - "http://www.blackbeardsteaparty.com/gigs/"
-    start_date: 2025-07-13
-    end_date: 2025-07-13
-    country: UK
-    city: Ely
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Blackbeards Tea Party
-    organisation: Webfeet
   - name: Box of Frogs in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
@@ -395,20 +249,6 @@ events:
     callers:
       - Barrie Bullimore
     organisation: Webfeet
-  - name: live music in Oxford
-    links:
-      - "http://mister.red/dance/oxford.htm#D.AT.20250713"
-    start_date: 2025-07-13
-    end_date: 2025-07-13
-    country: UK
-    city: Oxford
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
   - name: Arish Mel in Stoborough
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -424,64 +264,6 @@ events:
       - Arish Mel
     callers:
       - Malcolm Churchill
-    organisation: Webfeet
-  - name: own music in Pucklechurch
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AB.20250715"
-    start_date: 2025-07-15
-    end_date: 2025-07-15
-    country: UK
-    city: Pucklechurch
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - own music
-    callers:
-      - Mic Spenceley
-    organisation: Webfeet
-  - name: sessionista in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AI.20250720"
-    start_date: 2025-07-20
-    end_date: 2025-07-20
-    country: UK
-    city: Bristol
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - sessionista
-    organisation: Webfeet
-  - name: live music in Bath
-    links:
-      - "http://mister.red/dance/bath.htm#D.AN.20250723"
-    start_date: 2025-07-23
-    end_date: 2025-07-23
-    country: UK
-    city: Bath
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: Banter in Stafford
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2025-07-23
-    end_date: 2025-07-23
-    country: UK
-    city: Stafford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
     organisation: Webfeet
   - name: "Blackbeard's Tea Party in Trowbridge"
     links:
@@ -555,6 +337,90 @@ events:
     bands:
       - Banter
     organisation: Webfeet
+  - name: "Stepcote Hill in Anchor Gardens, Sidmouth"
+    links:
+      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
+    start_date: 2025-08-01
+    end_date: 2025-08-01
+    country: UK
+    city: "Anchor Gardens, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Bailey & Keely
+      - Stepcote Hill
+    callers:
+      - Fee Lock
+      - Nancy Potts
+    organisation: Webfeet
+  - name: "Jigfoot in Blackmore Gardens, Sidmouth"
+    links:
+      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
+    start_date: 2025-08-01
+    end_date: 2025-08-01
+    country: UK
+    city: "Blackmore Gardens, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Jigfoot
+    callers:
+      - Barry Goodman
+    organisation: Webfeet
+  - name: Downfielders in Stroud
+    links:
+      - "http://mister.red/dance/stroud.htm#D.AX.20250801"
+    start_date: 2025-08-01
+    end_date: 2025-08-01
+    country: UK
+    city: Stroud
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Downfielders
+    callers:
+      - Elaine Gillett
+    organisation: Webfeet
+  - name: "Sunbird in Anchor Gardens, Sidmouth"
+    links:
+      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
+    start_date: 2025-08-02
+    end_date: 2025-08-02
+    country: UK
+    city: "Anchor Gardens, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Jigfoot
+      - Sunbird
+    callers:
+      - Fee Lock
+      - Martin Clarke
+    organisation: Webfeet
+  - name: "Diatonics in Blackmore Gardens, Sidmouth"
+    links:
+      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
+    start_date: 2025-08-02
+    end_date: 2025-08-02
+    country: UK
+    city: "Blackmore Gardens, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Diatonics
+    callers:
+      - Ian Nichols
+    organisation: Webfeet
   - name: Catsfield Steamers in Catsfield
     links:
       - "http://catsfieldsteamers.co.uk/index.php/bookings/"
@@ -568,6 +434,22 @@ events:
     social: true
     bands:
       - Catsfield Steamers
+    organisation: Webfeet
+  - name: "Sheilas Reels in Humber Ceildih, nr Stoke Prior"
+    links:
+      - "http://mister.red/dance/stoke_prior.htm#D.AZ.20250802"
+    start_date: 2025-08-02
+    end_date: 2025-08-02
+    country: UK
+    city: "Humber Ceildih, nr Stoke Prior"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Sheilas Reels
+    callers:
+      - Sheila Thakray
     organisation: Webfeet
   - name: "sessionista in Bath French, Bath"
     links:
@@ -583,6 +465,22 @@ events:
     bands:
       - sessionista
     organisation: Webfeet
+  - name: "Threepenny Bit in Blackmore Gardens, Sidmouth"
+    links:
+      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
+    start_date: 2025-08-03
+    end_date: 2025-08-03
+    country: UK
+    city: "Blackmore Gardens, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Threepenny Bit
+    callers:
+      - Nick Walden
+    organisation: Webfeet
   - name: Threepenny Bit in Sidmouth
     links:
       - "https://www.bandsintown.com/e/106987942-threepenny-bit-at-blackmore-gardens"
@@ -597,6 +495,102 @@ events:
     bands:
       - Threepenny Bit
     organisation: Webfeet
+  - name: "Out to Lunch in Anchor Gardens, Sidmouth"
+    links:
+      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
+    start_date: 2025-08-04
+    end_date: 2025-08-04
+    country: UK
+    city: "Anchor Gardens, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Frog on a Bike
+      - Out to Lunch
+    callers:
+      - Ian Nichols
+      - Nick Walden
+    organisation: Webfeet
+  - name: "Wren Music in Blackmore Gardens, Sidmouth"
+    links:
+      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
+    start_date: 2025-08-04
+    end_date: 2025-08-04
+    country: UK
+    city: "Blackmore Gardens, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Whapweasel
+      - Wren Music
+    organisation: Webfeet
+  - name: "The Barber Band in Anchor Gardens, Sidmouth"
+    links:
+      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
+    start_date: 2025-08-05
+    end_date: 2025-08-05
+    country: UK
+    city: "Anchor Gardens, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Diatonics
+      - The Barber Band
+    callers:
+      - Sue Coe
+    organisation: Webfeet
+  - name: "Relentless Ceilidh Band in Blackmore Gardens, Sidmouth"
+    links:
+      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
+    start_date: 2025-08-05
+    end_date: 2025-08-05
+    country: UK
+    city: "Blackmore Gardens, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Relentless Ceilidh Band
+    callers:
+      - Erin Mansfield
+    organisation: Webfeet
+  - name: "Brown Boots in St. Teresa's Church Hall, Sidmouth"
+    links:
+      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
+    start_date: 2025-08-05
+    end_date: 2025-08-05
+    country: UK
+    city: "St. Teresa's Church Hall, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Brown Boots
+    organisation: Webfeet
+  - name: "Folk Camps Party Band in Anchor Gardens, Sidmouth"
+    links:
+      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
+    start_date: 2025-08-06
+    end_date: 2025-08-06
+    country: UK
+    city: "Anchor Gardens, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Folk Camps Party Band
+    callers:
+      - Jane Bird
+    organisation: Webfeet
   - name: live music in Bath
     links:
       - "http://mister.red/dance/bath.htm#D.AN.20250806"
@@ -610,6 +604,58 @@ events:
     social: true
     bands:
       - live music
+    organisation: Webfeet
+  - name: "The Gloworms in Blackmore Gardens, Sidmouth"
+    links:
+      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
+    start_date: 2025-08-06
+    end_date: 2025-08-06
+    country: UK
+    city: "Blackmore Gardens, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Lasair
+      - The Gloworms
+    callers:
+      - Alison Rowley
+      - Gordon Potts
+    organisation: Webfeet
+  - name: "Sidmouth Seaside Stompers in Blackmore Gardens, Sidmouth"
+    links:
+      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
+    start_date: 2025-08-07
+    end_date: 2025-08-07
+    country: UK
+    city: "Blackmore Gardens, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Sidmouth Seaside Stompers
+    callers:
+      - Nick Walden
+    organisation: Webfeet
+  - name: "Stepcote Hill in Anchor Gardens, Sidmouth"
+    links:
+      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
+    start_date: 2025-08-08
+    end_date: 2025-08-08
+    country: UK
+    city: "Anchor Gardens, Sidmouth"
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Bellows & Bows
+      - Stepcote Hill
+    callers:
+      - Fee Lock
+      - Michael Catovsky
     organisation: Webfeet
   - name: Cock and Bull in Broadstairs
     links:
@@ -718,6 +764,20 @@ events:
     bands:
       - sessionista
     organisation: Webfeet
+  - name: Poisson Groove in Okehampton
+    links:
+      - "http://mister.red/dance/okehampton.htm#D.AY.20250817"
+    start_date: 2025-08-17
+    end_date: 2025-08-17
+    country: UK
+    city: Okehampton
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Poisson Groove
+    organisation: Webfeet
   - name: live music in Bath
     links:
       - "http://mister.red/dance/bath.htm#D.AN.20250820"
@@ -760,6 +820,20 @@ events:
     bands:
       - Catsfield Steamers
     organisation: Webfeet
+  - name: Banter in Claydon Estate
+    links:
+      - "https://www.banter.band/gigs/"
+    start_date: 2025-08-24
+    end_date: 2025-08-24
+    country: UK
+    city: Claydon Estate
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Banter
+    organisation: Webfeet
   - name: Naragonia in Shrewsbury
     links:
       - "https://www.bandsintown.com/e/107036017-naragonia-at-shrewsbury"
@@ -774,9 +848,23 @@ events:
     bands:
       - Naragonia
     organisation: Webfeet
+  - name: Freedom Fields Ceilidh Band in Scorriton
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2025-08-25
+    end_date: 2025-08-25
+    country: UK
+    city: Scorriton
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Freedom Fields Ceilidh Band
+    organisation: Webfeet
   - name: Live Band in Cheltenham
     links:
-      - "http://mister.red/dance/cheltenham.htm#D.A1.20250830"
+      - "http://mister.red/dance/cheltenham.htm#D.AW.20250830"
     start_date: 2025-08-30
     end_date: 2025-08-30
     country: UK
@@ -788,8 +876,23 @@ events:
     bands:
       - Live Band
     organisation: Webfeet
+  - name: live music in Bath
+    links:
+      - "http://mister.red/dance/bath.htm#D.AN.20250903"
+    start_date: 2025-09-03
+    end_date: 2025-09-03
+    country: UK
+    city: Bath
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - live music
+    organisation: Webfeet
   - name: Blackbeards Tea Party in Moira
     links:
+      - "https://www.bandsintown.com/e/1034055589-blackbeard&#x27;s-tea-party-at-the-moira-village-hall-de12-6dz"
       - "http://www.blackbeardsteaparty.com/gigs/"
     start_date: 2025-09-05
     end_date: 2025-09-05
@@ -800,6 +903,7 @@ events:
     workshop: false
     social: true
     bands:
+      - "Blackbeard's Tea Party"
       - Blackbeards Tea Party
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
@@ -860,6 +964,7 @@ events:
     organisation: Webfeet
   - name: Blackbeards Tea Party in Hutton
     links:
+      - "https://www.bandsintown.com/e/106740839-blackbeard&#x27;s-tea-party-at-hutton-rudby-village-hall"
       - "http://www.blackbeardsteaparty.com/gigs/"
     start_date: 2025-09-07
     end_date: 2025-09-07
@@ -870,7 +975,22 @@ events:
     workshop: false
     social: true
     bands:
+      - "Blackbeard's Tea Party"
       - Blackbeards Tea Party
+    organisation: Webfeet
+  - name: Banter in Surbiton
+    links:
+      - "https://www.banter.band/gigs/"
+    start_date: 2025-09-09
+    end_date: 2025-09-09
+    country: UK
+    city: Surbiton
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Banter
     organisation: Webfeet
   - name: Dave Fran and Phil. in Alcester
     links:
@@ -935,6 +1055,20 @@ events:
       - Naragonia
       - Naragonia Duo
     organisation: Webfeet
+  - name: Truffet&ecirc;te in Exeter
+    links:
+      - "http://mister.red/dance/exeter.htm#D.AM.20250913"
+    start_date: 2025-09-13
+    end_date: 2025-09-13
+    country: UK
+    city: Exeter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Truffet&ecirc;te
+    organisation: Webfeet
   - name: Box of Frogs in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
@@ -953,7 +1087,7 @@ events:
     organisation: Webfeet
   - name: live music in Oxford
     links:
-      - "http://mister.red/dance/oxford.htm#D.AU.20250914"
+      - "http://mister.red/dance/oxford.htm#D.AT.20250914"
     start_date: 2025-09-14
     end_date: 2025-09-14
     country: UK
@@ -964,6 +1098,34 @@ events:
     social: true
     bands:
       - live music
+    organisation: Webfeet
+  - name: live music in Bath
+    links:
+      - "http://mister.red/dance/bath.htm#D.AN.20250917"
+    start_date: 2025-09-17
+    end_date: 2025-09-17
+    country: UK
+    city: Bath
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - live music
+    organisation: Webfeet
+  - name: Join the Dots in Hereford
+    links:
+      - "http://mister.red/dance/hereford.htm#D.A0.20250919"
+    start_date: 2025-09-19
+    end_date: 2025-09-19
+    country: UK
+    city: Hereford
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Join the Dots
     organisation: Webfeet
   - name: Striding Edge in Heysham
     links:
@@ -979,10 +1141,24 @@ events:
     bands:
       - Striding Edge
     organisation: Webfeet
+  - name: Banter in Lincoln
+    links:
+      - "https://www.banter.band/gigs/"
+    start_date: 2025-09-19
+    end_date: 2025-09-22
+    country: UK
+    city: Lincoln
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Banter
+    organisation: Webfeet
   - name: Brewery Band in Bristol
     links:
       - "https://eceilidh.org.uk/cps/gigs/thebreweryband-a6c836.php"
-      - "http://mister.red/dance/bristol.htm#D.AW.20250920"
+      - "http://mister.red/dance/bristol.htm#D.AU.20250920"
     start_date: 2025-09-20
     end_date: 2025-09-20
     country: UK
@@ -1011,6 +1187,34 @@ events:
       - 3sticks
     callers:
       - Chris Jewell
+    organisation: Webfeet
+  - name: Catsfield Steamers in Hurst Green
+    links:
+      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
+    start_date: 2025-09-20
+    end_date: 2025-09-20
+    country: UK
+    city: Hurst Green
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Catsfield Steamers
+    organisation: Webfeet
+  - name: sessionista in Bristol
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AI.20250921"
+    start_date: 2025-09-21
+    end_date: 2025-09-21
+    country: UK
+    city: Bristol
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - sessionista
     organisation: Webfeet
   - name: Portmanteau in Hollingbourne
     links:
@@ -1087,6 +1291,7 @@ events:
     organisation: Webfeet
   - name: Spinach for Norman in Hennock
     links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
       - "http://devonfolk.org/events-diary/"
     start_date: 2025-10-04
     end_date: 2025-10-04
@@ -1171,6 +1376,20 @@ events:
     social: true
     bands:
       - Syzewell Gap
+    organisation: Webfeet
+  - name: Dave Shepherd & Anna Pack in Exeter
+    links:
+      - "http://mister.red/dance/exeter.htm#D.AM.20251011"
+    start_date: 2025-10-11
+    end_date: 2025-10-11
+    country: UK
+    city: Exeter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Dave Shepherd & Anna Pack
     organisation: Webfeet
   - name: The Linda Game Band in Englefield Green
     links:
@@ -1279,6 +1498,20 @@ events:
     bands:
       - Crowdy Kit
     organisation: Webfeet
+  - name: Freedom Fields Ceilidh Band in Plymouth
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2025-10-31
+    end_date: 2025-10-31
+    country: UK
+    city: Plymouth
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Freedom Fields Ceilidh Band
+    organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
       - "http://mister.red/dance/cheltenham.htm#D.DC.20251101"
@@ -1340,6 +1573,20 @@ events:
       - Box of Frogs.
     callers:
       - Geoff Cubitt
+    organisation: Webfeet
+  - name: Kantref (inc afternoon w/shop) in Exeter
+    links:
+      - "http://mister.red/dance/exeter.htm#D.AM.20251108"
+    start_date: 2025-11-08
+    end_date: 2025-11-08
+    country: UK
+    city: Exeter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Kantref (inc afternoon w/shop)
     organisation: Webfeet
   - name: Box of Frogs in Englefield Green
     links:
@@ -1414,6 +1661,22 @@ events:
     social: true
     bands:
       - Trinculo
+    callers:
+      - Martin Clarke
+    organisation: Webfeet
+  - name: Freedom Fields Ceilidh Band in Plymouth
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2025-11-28
+    end_date: 2025-11-28
+    country: UK
+    city: Plymouth
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Freedom Fields Ceilidh Band
     organisation: Webfeet
   - name: Portland Drive in Leeds
     details: "[To Be Confirmed]"
@@ -1552,6 +1815,20 @@ events:
     bands:
       - Beatroot
     organisation: Webfeet
+  - name: Steve Turner & Helena Torpy in Exeter
+    links:
+      - "http://mister.red/dance/exeter.htm#D.AM.20251213"
+    start_date: 2025-12-13
+    end_date: 2025-12-13
+    country: UK
+    city: Exeter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Steve Turner & Helena Torpy
+    organisation: Webfeet
   - name: Venn in Horsley
     links:
       - "https://balfolkstroud.uk/cps/gigs/venn-8c1451.php"
@@ -1596,6 +1873,20 @@ events:
     social: true
     bands:
       - Arish Mel
+    organisation: Webfeet
+  - name: Freedom Fields Ceilidh Band in Plymouth
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2025-12-19
+    end_date: 2025-12-19
+    country: UK
+    city: Plymouth
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Freedom Fields Ceilidh Band
     organisation: Webfeet
   - name: "Threepenny Bit in Chandler's Ford"
     links:
@@ -1659,6 +1950,7 @@ events:
     organisation: Webfeet
   - name: Blackbeards Tea Party in Blackpool
     links:
+      - "https://www.bandsintown.com/e/106740886-blackbeard&#x27;s-tea-party-at-winter-gardens-blackpool"
       - "http://www.blackbeardsteaparty.com/gigs/"
     start_date: 2026-01-23
     end_date: 2026-01-23
@@ -1669,6 +1961,7 @@ events:
     workshop: false
     social: true
     bands:
+      - "Blackbeard's Tea Party"
       - Blackbeards Tea Party
     organisation: Webfeet
   - name: "Bow &Box in Chandler's Ford"
