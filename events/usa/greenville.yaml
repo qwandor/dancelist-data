@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfolk Workshop and Concert
+    links:
+      - "https://greenvilleinternationalfolkdance.weebly.com/registration--events.html"
+    start: "2025-08-21T18:30:00-04:00"
+    end: "2025-08-21T20:00:00-04:00"
+    country: USA
+    state: SC
+    city: Greenville
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Geraud Barralon
+    price: $10
+    organisation: Greenville International Folk Dancers
