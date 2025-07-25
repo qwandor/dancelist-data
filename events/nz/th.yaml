@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: ou
+    links:
+      - "http://foo"
+    start: "0003-02-01T01:00:00-00:16"
+    end: "0200-02-01T01:00:00-00:16"
+    country: NZ
+    city: th
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
