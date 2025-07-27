@@ -1707,8 +1707,8 @@ events:
   - name: Phylla Mae Fall Fest
     links:
       - "https://syracusecountrydancers.org/special-events/phylla-mae-fall-fest/"
-    start_date: 2024-10-18
-    end_date: 2024-10-19
+    start: "2024-10-18T18:00:00-04:00"
+    end: "2024-10-19T23:30:00-04:00"
     country: USA
     state: NY
     city: Fayetteville
@@ -1725,7 +1725,7 @@ events:
       - Katy Heine
       - David Smukler
       - Rita Wood
-    organisation: TryContra
+    organisation: Syracuse Country Dancers
   - name: Peterbough Fall Ball
     links:
       - "https://www.monadnockfolk.org/event/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-2024/"
@@ -2361,58 +2361,6 @@ events:
       - Jacqui Grennan
       - Melissa Running
     price: $120
-    organisation: TryContra
-  - name: Northwest Folklife
-    links:
-      - "https://nwfolklife.org/festival/home.html"
-    start_date: 2025-05-23
-    end_date: 2025-05-26
-    country: USA
-    state: WA
-    city: Seattle
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Hummingbird
-      - Sound Crossing
-      - The Electrodes
-      - RiffRaff
-      - Orb Weavers
-      - Les Fabulous Girls de la Ouest Coast
-      - Raven & Goose
-      - Celitc Bay
-      - Natterjack
-      - The Fiddle Hellions
-      - Swiftcurrent
-      - Portland Megaband
-      - Forgery
-      - Odd Sock
-      - Joyride
-      - The Legers
-      - Countercurrent
-      - Contra Quartet
-      - Clever Hans
-    callers:
-      - Abigail Golden
-      - Amu Wimmer
-      - Tom Wimmer
-      - Eric Curl
-      - Isaac Banner
-      - Craig Wolfe
-      - Koren Wake
-      - Charlie Fenton
-      - Victoria Fox
-      - Shell Stowell
-      - Annie Kidwell
-      - Kelsey Hartman
-      - Elisabeth Monica
-      - Michael Karcher
-      - Michael Karcher
-      - Frannie Marr
-      - Angela DeCarlis
-      - Shannon Horst
     organisation: TryContra
   - name: Contradancers Delight Holiday
     links:
@@ -3159,21 +3107,22 @@ events:
   - name: Phylla Mae Fall Fest
     links:
       - "https://syracusecountrydancers.org/special-events/phylla-mae-fall-fest/"
-    start_date: 2025-10-18
-    end_date: 2025-10-19
+    start: "2025-10-17T18:00:00-04:00"
+    end: "2025-10-18T23:30:00-04:00"
     country: USA
     state: NY
     city: Fayetteville
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
-      - Anadama
-      - Contranella
+      - Stove Dragon
+      - Raven & Goose
     callers:
-      - Sarah VanNorstrand
-    organisation: TryContra
+      - Michael Karcher
+    organisation: Syracuse Country Dancers
   - name: Peterbough Fall Ball
     links:
       - "https://www.monadnockfolk.org/event/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-saturday-october-25-2025/"
@@ -3408,25 +3357,6 @@ events:
       - Janine Smith
     price: $15-$30
     organisation: Dancing Fish
-  - name: Winter Warmup Dance Weekend
-    links:
-      - "https://bigscioty.com/winterwarmup/"
-    start_date: 2025-12-05
-    end_date: 2025-12-07
-    country: USA
-    state: OH
-    city: Worthington
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Toss the Possum
-      - The Dam Beavers
-    callers:
-      - Terry Doyle
-      - Frank Buschelmann
-    organisation: TryContra
   - name: Contradancers Delight Holiday
     links:
       - "http://www.contradancersdelight.com/"
@@ -3473,8 +3403,11 @@ events:
     city: Berea
     styles:
       - contra
+      - ecd
+      - irish-set
     workshop: true
     social: true
+    price: $375-$575
     organisation: TryContra
   - name: Contra Carnivale
     links:
@@ -3553,25 +3486,6 @@ events:
     callers:
       - Seth Tepfer
     organisation: TryContra
-  - name: Fiddling Frog Dance Festival
-    links:
-      - "https://www.caldancecoop.org/special-events/fiddling-frog/"
-    start_date: 2025-02-21
-    end_date: 2025-02-23
-    country: USA
-    state: CA
-    city: Pasadena
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - The Syncopaths
-      - River Road
-    callers:
-      - Susan Petrick
-      - Lindsey Dono
-    organisation: TryContra
   - name: Lava Meltdown
     links:
       - "http://www.lavameltdown2025.com/"
@@ -3642,7 +3556,7 @@ events:
       - Gaye Fifer
       - Liz Nelson
     organisation: TryContra
-  - name: Call of the Loon Dance Weekend
+  - name: Call of the Loon
     links:
       - "https://www.tapestryfolkdance.org/call-of-the-loon"
     start_date: 2026-04-10
@@ -3660,24 +3574,7 @@ events:
     callers:
       - Gaye Fifer
       - Robin Nelson
-    organisation: TryContra
-  - name: "When In Doubt, Swing! "
-    links:
-      - "https://www.nttds.org/wids/home.html"
-    start_date: 2025-04-25
-    end_date: 2025-04-27
-    country: USA
-    state: TX
-    city: Dallas
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Steam!
-    callers:
-      - Jeremy Korr
-    organisation: TryContra
+    organisation: Tapestry Folkdance Center
   - name: AmWeek
     links:
       - "https://amweek.camp/"

@@ -22833,6 +22833,44 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Hummingbird
+      - Sound Crossing
+      - The Electrodes
+      - RiffRaff
+      - Orb Weavers
+      - Les Fabulous Girls de la Ouest Coast
+      - Raven & Goose
+      - Celitc Bay
+      - Natterjack
+      - The Fiddle Hellions
+      - Swiftcurrent
+      - Portland Megaband
+      - Forgery
+      - Odd Sock
+      - Joyride
+      - The Legers
+      - Countercurrent
+      - Contra Quartet
+      - Clever Hans
+    callers:
+      - Abigail Golden
+      - Amu Wimmer
+      - Tom Wimmer
+      - Eric Curl
+      - Isaac Banner
+      - Craig Wolfe
+      - Koren Wake
+      - Charlie Fenton
+      - Victoria Fox
+      - Shell Stowell
+      - Annie Kidwell
+      - Kelsey Hartman
+      - Elisabeth Monica
+      - Michael Karcher
+      - Frannie Marr
+      - Angela DeCarlis
+      - Shannon Horst
     organisation: CDSS
   - name: Berkeley Contra Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
@@ -30286,6 +30324,7 @@ events:
     social: true
     price: $12-$20
     organisation: Alice Kenney
+    cancelled: true
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Oklahoma City, second and fourth Saturdays. Check our Facebook or our website for more details!"
     links:
@@ -34334,6 +34373,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5-$15
     organisation: Syracuse Country Dancers
   - name: Valley Contra Dance
     details: "We dance twice a month, 2nd and 4th Saturdays.\nDance instruction at 7:00 PM\nNo partner or experience needed!\nThe moves in the dances are called by a caller, and the music is always live.\nParking is available right next to the church or on the street. Please enter on Prospect St.\nPlease carry in clean soft-soled shoes for dancing, to protect the floor (and our reputation). Sneakers are usually fine. FREE large socks with treads are provided to cover your street shoes if necessary.\nSliding scale—pay what you wish. Suggested: $8 (student), $15 (friend of VCDS), $20+ (supporter). Children 12 and under accompanied by a paying adult FREE.\nSpecial Pricing for Double Dances"
@@ -34356,15 +34396,19 @@ events:
     links:
       - "https://spacecoastcontra.org/calendar-upcoming-contra-dances/"
       - "https://cdss.org/event/space-coast-contra-dance/2025-08-09/"
-    start: "2025-08-09T19:30:00-04:00"
+    start: "2025-08-09T19:00:00-04:00"
     end: "2025-08-09T22:30:00-04:00"
     country: USA
     state: FL
     city: Cocoa
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Rafter Ringers
+    callers:
+      - Ric Goldman
     price: $5-$15
     organisation: Space Coast Contra Dance
   - name: Princeton English Country Dance
@@ -34372,7 +34416,7 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-english-country-dance/2025-08-09/"
-    start: "2025-08-09T19:30:00-04:00"
+    start: "2025-08-09T19:00:00-04:00"
     end: "2025-08-09T22:30:00-04:00"
     country: USA
     state: NJ
@@ -34381,23 +34425,8 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $15
     organisation: CDSS
-  - name: TopHill Music Contradance Party
-    details: "Please check the Guiding Star Grange website for details. \nSchedule: There will be a newcomers workshop at 7:45pm. Please come early to help our new dancing friends! All are welcome! \nCost: $12-20 sliding scale \n\nHigh-level masks are mandated for this dance.\nPlease bring your own water bottle.\nUp-to-date vaccinations are encouraged but not required.\nIf you are not feeling well, please do not attend, but rather care for yourself and others and join us next time!\n\nSee venue website for this month’s details and Covid policy."
-    links:
-      - "https://www.guidingstargrange.org/events.html"
-      - "https://cdss.org/event/second-saturday-tophill-music-contradance-party-at-guiding-star-grange/2025-08-09/"
-    start: "2025-08-09T20:00:00-04:00"
-    end: "2025-08-09T23:00:00-04:00"
-    country: USA
-    state: MA
-    city: Greenfield
-    styles:
-      - contra
-    workshop: true
-    social: true
-    price: $12
-    organisation: Alice Kenney
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Oklahoma City, second and fourth Saturdays. Check our Facebook or our website for more details!"
     links:
@@ -34412,12 +34441,13 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: NACDS Contra Dance
     details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
     links:
       - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2025-08-09/"
-    start: "2025-08-09T19:30:00-05:00"
+    start: "2025-08-09T18:30:00-05:00"
     end: "2025-08-09T23:00:00-05:00"
     country: USA
     state: AL
@@ -34442,6 +34472,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Contra Dance
     details: "HATDS hosts contra dances on the 2nd and 4th Saturdays of most months. We dance to live music. All skill levels are welcome and all dances are called. Bring water and clean shoes! \nThe admission price for contra dances is $10 for members, $15 for non-members. Cash, checks, credit cards, and digital wallets are currently accepted at the door. If paying cash, please bring correct change. No large bills accepted."
@@ -34464,7 +34495,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2025-08-09/"
-    start: "2025-08-09T20:00:00-05:00"
+    start: "2025-08-09T19:30:00-05:00"
     end: "2025-08-09T23:00:00-05:00"
     country: USA
     state: MN
@@ -34473,8 +34504,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Flannels & Fishnets
     callers:
-      - Beau Farmer
+      - Abigail Hobart
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: San Luis Obispo Monthly Contra Dance
@@ -34498,7 +34531,7 @@ events:
     links:
       - "https://phxtmd.org/"
       - "https://cdss.org/event/second-saturday-contra/2025-08-09/"
-    start: "2025-08-09T19:00:00-07:00"
+    start: "2025-08-09T18:30:00-07:00"
     end: "2025-08-09T22:00:00-07:00"
     country: USA
     state: AZ
@@ -34514,14 +34547,14 @@ events:
     links:
       - "https://sactocds.wordpress.com/"
       - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays/2025-08-09/"
-    start: "2025-08-09T19:00:00-07:00"
+    start: "2025-08-09T18:30:00-07:00"
     end: "2025-08-09T22:00:00-07:00"
     country: USA
     state: CA
     city: Sacramento
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $5-$25
     organisation: Sacramento Country Dance Society
