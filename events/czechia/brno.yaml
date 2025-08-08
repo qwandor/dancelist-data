@@ -524,8 +524,9 @@ events:
   - name: FolCon
     links:
       - "https://www.folcon.cz/en/folcon-brno-english/"
-    start: "2025-08-28T10:00:00+02:00"
-    end: "2025-08-31T18:30:00+02:00"
+      - "https://www.facebook.com/events/565898219380811/"
+    start: "2025-08-27T12:30:00+02:00"
+    end: "2025-08-31T20:00:00+02:00"
     country: Czechia
     city: Brno
     styles:
@@ -535,6 +536,10 @@ events:
       - scd
       - scandi
     workshop: true
-    social: false
+    social: true
+    bands:
+      - Akleja
+      - Yanyk
+      - Adam Scott Revival
     price: 3500-3800 CZK
     organisation: FolCon
