@@ -7860,7 +7860,7 @@ events:
     social: true
     bands:
       - Stringrays
-      - Tea&Whiskey
+      - Tea & Whiskey
     callers:
       - Lisa Greenleaf
     price: $50-$145
@@ -36304,16 +36304,24 @@ events:
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-266"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2025-08-21/"
-    start: "2025-08-21T19:30:00-04:00"
+    start: "2025-08-21T18:00:00-04:00"
     end: "2025-08-21T22:30:00-04:00"
     country: USA
     state: NY
     city: Rochester
     styles:
+      - balfolk
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - New Brew
+      - Tom Santarsiero & Jane Knoeck
+    callers:
+      - Bob Fabinski
+    price: $12
     organisation: Country Dancers of Rochester
   - name: Thursday Contra Dance
     details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n\n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing\nMasks are no longer required but are welcomed.\nOur sliding scale is $10-$15-$20.\nOur role terms are Larks and Robins."
@@ -36331,9 +36339,10 @@ events:
     social: true
     price: $10-$20
     organisation: PATMAD
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley Contra Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2025-08-21/"
     start: "2025-08-21T20:00:00-07:00"
     end: "2025-08-21T22:30:00-07:00"
@@ -36342,9 +36351,11 @@ events:
     city: Berkeley
     styles:
       - contra
-      - ecd
     workshop: true
     social: true
+    callers:
+      - Erik Hoffman
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: Flint Hills Contra Dance
     details: "Contra dance in Manhattan, Kansas. Open to everyone!"
@@ -36359,10 +36370,12 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: Flint Hills Contradance and Music Society
-  - name: "Queen City Contras - August Dance in Shelburne, VT"
+  - name: Queen City Contras
     details: "Contra Dance presented by Queen City Contras. Guillaume Sparrow-Pepin, Helen Kuhar and Rose Jackson will play for us, with calling by Dereck Kalish. All are welcome; all dances are taught; no partner or experience necessary. Please bring a pair of clean soft-soled shoes to dance in and a water bottle to keep you hydrated. Masks welcome but optional. Please stay home if you have symptoms. Doors open at 6:30, beginner lesson at 6:45, dancing from 7 to 10. Shelburne Town Hall is at 5374 Shelburne Rd, Shelburne, VT."
     links:
+      - "https://queencitycontras.com/schedule"
       - "https://cdss.org/event/queen-city-contras-august-dance-in-shelburne-vt/"
     start: "2025-08-22T18:45:00-04:00"
     end: "2025-08-22T22:00:00-04:00"
@@ -36375,6 +36388,7 @@ events:
     social: true
     callers:
       - Dereck Kalish
+    price: $5-$12
     organisation: Queen City Contras
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
@@ -36395,6 +36409,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Milford Contra Dance
     details: "The Milford contra dance happens every 4th Friday, unless the 4th Friday happens on Thanksgiving weekend or a Christmas weekend. Music is provided by a large 15+ member band, which allows anyone to sit in for just a single dance or the whole evening. Callers are usually local callers. The dance is usually large, with 100 or more in attendance. The dance is located in the Milford NH town hall, in the center  of town. Entry is on either side of the building, but not the big front steps. \nUnder 10 free; students/seniors $5; adults $12"
@@ -36417,7 +36432,7 @@ events:
     links:
       - "http://www.tallydancer.com/"
       - "https://cdss.org/event/tallahassee-contra-dance-2/2025-08-22/"
-    start: "2025-08-22T19:30:00-04:00"
+    start: "2025-08-22T19:15:00-04:00"
     end: "2025-08-22T22:00:00-04:00"
     country: USA
     state: FL
@@ -36426,6 +36441,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - The Little Mercies
+    callers:
+      - Drew Thomas
     price: $6-$10
     organisation: Tallahassee Community Friends of Old Time Dance
   - name: ContraATL Weekly Dance
@@ -36442,6 +36461,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Experienced Contra at Guiding Star Grange
     details: "The dances in this series are open to all but will be geared toward experienced dancers. “Experienced” means: \n\nYou know how to do a roll away, California twirl, pass through to a wave, contra corners, and basic moves without teaching\nYou know where to be at the start of each dance phrase and how to recover from a lapse\nYou assist your partner and neighbor to the next move\nYou execute flourishes safely and on time without disturbing others\nYou respond to confusion and missteps by others with grace, encouragement and good humor\n\nAdmission: $12-20 \nPlease help us make this a scent-free and substance-free event. \nSee venue website for this month’s details and Covid policy. \nQuestions: Steve Zakon-Anderson or Katie Olmstead."
@@ -36457,16 +36477,18 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Calico
     callers:
-      - Steve Zakon-Anderson
-    price: $12
+      - Angela DeCarlis
+    price: $12-$20
     organisation: Steve Zakon-Anderson
   - name: Friday Night Contra at Glen Echo
     details: "Join us in Glen Echo, Maryland, for a fun night of contras and an occasional square! There’s a free lesson at 7:30pm."
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-08-22/"
-    start: "2025-08-22T20:00:00-04:00"
+    start: "2025-08-22T19:30:00-04:00"
     end: "2025-08-22T23:00:00-04:00"
     country: USA
     state: MD
@@ -36475,6 +36497,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Childgrove English Country Dance
     details: "The regular dance generally starts out with simpler dances early in the evening, progressing to dances with more difficulty later on, depending on the experience level of the crowd."
@@ -36490,13 +36513,14 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Phoenix 4th Friday Contra Dance
     details: "Join us for our Fourth Friday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check our website for changes in dance schedule or location.  \n$10 General • $5 for 25 years & younger"
     links:
       - "https://phxtmd.org/"
       - "https://cdss.org/event/phoenix-4th-friday-contra-dance/2025-08-22/"
-    start: "2025-08-22T19:00:00-07:00"
+    start: "2025-08-22T18:30:00-07:00"
     end: "2025-08-22T22:00:00-07:00"
     country: USA
     state: AZ
@@ -36512,7 +36536,7 @@ events:
     links:
       - "https://monroviaecd.org/"
       - "https://cdss.org/event/monrovia-english-country-dance/2025-08-22/"
-    start: "2025-08-22T19:30:00-07:00"
+    start: "2025-08-22T19:15:00-07:00"
     end: "2025-08-22T22:00:00-07:00"
     country: USA
     state: CA
@@ -36526,6 +36550,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6114"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2025-08-22/"
     start: "2025-08-22T19:30:00-07:00"
     end: "2025-08-22T22:30:00-07:00"
@@ -36536,6 +36561,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Ric Goldman
     price: $7-$20
     organisation: Portland Country Dance Community
   - name: Floyd Contra Dance
@@ -36554,6 +36581,9 @@ events:
     social: true
     bands:
       - The McKenzies
+    callers:
+      - George Segebade
+    price: free
     organisation: CDSS
   - name: Columbia Contra Dance
     details: "Live Music: Tea & Whiskey\nCaller: Dianne Palmer-Quay (using role terms Larks & Robins) \nThe August dance will offer a time of community fellowship around a potluck meal at 6pm, followed by a short review of contra dance basics for new and out-of-practice dancers starting at about 6:30pm. The first contra will be at 7pm. (The doors open at 5:45pm to allow setup for the potluck.) \nFor the potluck, bring a dish to share and any needed serving utensils. Water and cups will be provided. The contra dance basics review will start once everyone has finished eating. \nSchedule:\n5:45pm Doors open\n6:00pm Socializing and potluck! Bring a dish to share.\n~6:30pm Review of contra dance basics\n7pm-10pm Contras \nGive what you can. Suggested donation is $10 per dancer. If using Venmo to @contracola-sc, add 50 cents. No donation expected for kids 12 & under, and they and must be supervised by a parent.  \nDress comfortably and please bring clean, soft-soled, non-marking shoes."
@@ -36569,6 +36599,8 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Tea & Whiskey
     callers:
       - Dianne Palmer-Quay
     price: $10
@@ -36587,6 +36619,9 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - 112 and Then Some
+    price: $10-$15
     organisation: Southern Nevada Old-Time Contra Dancers (SNOCD)
   - name: Dance Camp North
     details: "The Dam Beavers with caller Jeremy Korr \nDance Camp North is the signature weekend event of the Contra Borealis Dancers.  It takes place on Labor Day weekend each year.  There is a dance in Fairbanks Friday evening followed by a dance weekend at the Lost Lake Boy Scout Camp about 60 minutes south of Fairbanks. \nExcellent food, cabins or tent accommodations and bathrooms provided, but you bring your own bedding, up to 110 people enjoy the rural settings with a dance hall, workshop rooms, swimming or boating on Lost Lake, and nice fall hiking with great views of the Tanana River basin. Aurora viewing is a definite possibility."
