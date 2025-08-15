@@ -1,66 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Arish Mel in Kimmeridge
-    links:
-      - "http://www.earwicker.org/about_arish_mel.htm"
-    start_date: 2025-05-09
-    end_date: 2025-05-09
-    country: UK
-    city: Kimmeridge
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Arish Mel
-    organisation: Webfeet
-  - name: Panjandrum in Kennington
-    links:
-      - "http://www.oxfolk.org.uk/"
-      - "http://dedics.co.uk/Panjandrum/index.html"
-    start_date: 2025-05-10
-    end_date: 2025-05-10
-    country: UK
-    city: Kennington
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Panjandrum
-    callers:
-      - Nancy Potts
-    organisation: Webfeet
-  - name: Catsfield Steamers in Eastbourne
-    links:
-      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
-    start_date: 2025-05-15
-    end_date: 2025-05-15
-    country: UK
-    city: Eastbourne
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Catsfield Steamers
-    organisation: Webfeet
-  - name: Box of Frogs in Bristol
-    links:
-      - "https://bristolcontra.wordpress.com/"
-    start_date: 2025-05-16
-    end_date: 2025-05-16
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Box of Frogs
-    callers:
-      - Charlie Turner
-    organisation: Webfeet
   - name: Crowdy-Kit in Chippenham
     links:
       - "https://www.chippfolk.co.uk/WhatsOnWhen"
@@ -265,34 +204,6 @@ events:
     callers:
       - Malcolm Churchill
     organisation: Webfeet
-  - name: "Blackbeard's Tea Party in Charlbury"
-    links:
-      - "https://www.bandsintown.com/e/106855958-blackbeard&#x27;s-tea-party-at-cornbury-park"
-    start_date: 2025-07-31
-    end_date: 2025-07-31
-    country: UK
-    city: Charlbury
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-    organisation: Webfeet
-  - name: Banter in Sidmouth
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2025-07-31
-    end_date: 2025-08-08
-    country: UK
-    city: Sidmouth
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
   - name: "Stepcote Hill in Anchor Gardens, Sidmouth"
     links:
       - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
@@ -436,20 +347,6 @@ events:
       - Threepenny Bit
     callers:
       - Nick Walden
-    organisation: Webfeet
-  - name: Threepenny Bit in Sidmouth
-    links:
-      - "https://www.bandsintown.com/e/106987942-threepenny-bit-at-blackmore-gardens"
-    start_date: 2025-08-03
-    end_date: 2025-08-03
-    country: UK
-    city: Sidmouth
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Threepenny Bit
     organisation: Webfeet
   - name: "Out to Lunch in Anchor Gardens, Sidmouth"
     links:
@@ -747,6 +644,20 @@ events:
     social: true
     bands:
       - live music
+    organisation: Webfeet
+  - name: Threepenny Bit in Whitby
+    links:
+      - "https://www.bandsintown.com/e/107199125-threepenny-bit-at-whitby-pavilion-theatre"
+    start_date: 2025-08-22
+    end_date: 2025-08-22
+    country: UK
+    city: Whitby
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Threepenny Bit
     organisation: Webfeet
   - name: Naragonia in Shrewsbury
     links:
