@@ -12207,7 +12207,7 @@ events:
     social: true
     bands:
       - Trio Loubelya
-      - Feather And The Fox
+      - Feather And Fox
     organisation: "Rif Zans L'Fiesse"
   - name: Bal Folk RZF
     details: Ball
@@ -22176,45 +22176,6 @@ events:
   - name: Weekbal Antwerpen
     details: Ball
     links:
-      - "https://folkbalbende.be/event/2759"
-    start: "2025-12-17T19:00:00+01:00"
-    end: "2025-12-17T23:00:00+01:00"
-    country: Belgium
-    city: Antwerp
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    organisation: ~
-  - name: Groot Bal Antwerpen
-    details: Ball
-    links:
-      - "https://folkbalbende.be/event/2760"
-    start: "2026-02-07T15:00:00+01:00"
-    end: "2026-02-07T23:00:00+01:00"
-    country: Belgium
-    city: Antwerp
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    organisation: ~
-  - name: Groot Bal Antwerpen
-    details: Ball
-    links:
-      - "https://folkbalbende.be/event/2761"
-    start: "2026-03-21T15:00:00+01:00"
-    end: "2026-03-21T23:00:00+01:00"
-    country: Belgium
-    city: Antwerp
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    organisation: ~
-  - name: Weekbal Antwerpen
-    details: Ball
-    links:
       - "https://folkbalbende.be/event/2762"
     start: "2026-06-03T19:00:00+02:00"
     end: "2026-06-03T23:00:00+02:00"
@@ -24111,3 +24072,87 @@ events:
       - Kabál
     price: €20-€25
     organisation: CaBal
+  - name: Groot Bal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2951"
+      - "https://www.facebook.com/events/1845286526222851"
+    start: "2025-10-18T15:00:00+02:00"
+    end: "2025-10-18T22:00:00+02:00"
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Wim Te Groen
+      - JAM.pt
+    organisation: BalAFolk
+  - name: Workshop Portugese Dansen
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/2952"
+      - "https://www.facebook.com/events/1845286526222851"
+    start: "2025-10-18T14:00:00+02:00"
+    end: "2025-10-18T15:00:00+02:00"
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: BalAFolk
+  - name: Kerstbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2953"
+      - "https://www.facebook.com/events/681371704264138"
+    start: "2025-12-17T19:00:00+01:00"
+    end: "2025-12-17T23:00:00+01:00"
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - "L'Air Inconnu"
+    price: €10-€20
+    organisation: BalAFolk
+  - name: Groot Bal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2954"
+      - "https://www.facebook.com/events/1471834534190503"
+    start: "2026-02-07T15:00:00+01:00"
+    end: "2026-02-07T22:00:00+01:00"
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Trio Thézé-Vandenabeele
+      - Cardboard Cabin
+    price: €15-€25
+    organisation: BalAFolk
+  - name: Groot Bal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/2955"
+      - "https://www.facebook.com/events/648374848193137"
+    start: "2026-03-21T15:00:00+01:00"
+    end: "2026-03-21T21:00:00+01:00"
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Accords Perdus
+      - Roots Bal Sjanté
+    price: €15-€25
+    organisation: BalAFolk
