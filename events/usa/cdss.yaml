@@ -38942,19 +38942,23 @@ events:
     social: true
     price: $10-$15
     organisation: CDSS
-  - name: Austin English Country Dance
+  - name: Austin ECD Autumn Ball
     details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
     links:
+      - "https://taada.us/wp/events/"
       - "https://cdss.org/event/austin-english-country-dance/2025-09-08/"
-    start: "2025-09-08T19:30:00-05:00"
+      - "https://www.facebook.com/events/1982824865791101/"
+    start: "2025-09-08T19:15:00-05:00"
     end: "2025-09-08T21:30:00-05:00"
     country: USA
     state: TX
     city: Austin
     styles:
       - ecd
-    workshop: true
+    workshop: false
     social: true
+    bands:
+      - Mockingbird
     price: $5
     organisation: CDSS
   - name: Ashland Country Dancers
@@ -39139,22 +39143,23 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2025-09-10/"
-    start: "2025-09-10T20:00:00-04:00"
+    start: "2025-09-10T19:30:00-04:00"
     end: "2025-09-10T22:30:00-04:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: San Francisco Contra Dance
     details: "2nd & 4th Wednesday in San Francisco! \nRole names: The role names usually used at this series are “Larks” and “Robins.” \nBeginner lesson at 7:30, dance 8:00-10:30 \nCheck our website for details. \n$25 supporters; $20 non-members; $15 members; $6 students or low-income; or pay what you can."
     links:
       - "https://bacds.org/series/contra/san_francisco_wed/"
       - "https://cdss.org/event/san-francisco-contra-dance/2025-09-10/"
-    start: "2025-09-10T20:00:00-07:00"
+    start: "2025-09-10T19:30:00-07:00"
     end: "2025-09-10T22:30:00-07:00"
     country: USA
     state: CA
@@ -39179,6 +39184,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $3
     organisation: Cleveland English Dance Community
   - name: Cleveland Butterfly Twirl
     details: "An exciting weekend dance, in Cleveland, with two wonderful bands: George Paul and Playing with Fire, & Tom Cunningham and Hot Coffee Breakdown. Two wonderful callers: Gaye Fifer and Darlene Underwood. Sound by Hanno. We’d love you and your friends to join us for a dance weekend of smiling faces, joyous laughter, wonderful music, hands four, friendship and community."

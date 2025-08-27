@@ -1,19 +1,24 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
   - name: Bailando Entre Montañas XVIII
-    details: "Dancing Among Mountains returns to Miraflores de la Sierra at El Colladito! 3-day folk festival with dancing, concerts, delicious food, community, dance & music workshops. Weekend meal pass just 30€ covers all meals plus breakfasts with vegan/veggie options. Tickets: 95€ reduced (limited 20 spots)/125€ standard/150€ generous, or 18€ single concerts. Tickets include accommodation.\r\nStunning concerts such as Trio Loubelya, Parasol, Dos en Trío and Plan B, plus DJ session by Kiririkiwi and 3 dance workshops\r\n\r\nhttps://entradium.com/events/xviii-bailando-entre-montanas"
+    details: "Dancing Among Mountains returns to Miraflores de la Sierra at El Colladito! 3-day folk festival with dancing, concerts, delicious food, community, dance & music workshops. Weekend meal pass just 30€ covers all meals plus breakfasts with vegan/veggie options. Tickets: 95€ reduced (limited 20 spots)/125€ standard/150€ generous, or 18€ single concerts. Tickets include accommodation.\r\nStunning concerts such as Trio Loubelya, Parasol, Dos en Trío and Plan B, plus DJ session by Kiririkiwi and 3 dance workshops"
     links:
+      - "https://entradium.com/events/xviii-bailando-entre-montanas"
+      - "https://docs.google.com/forms/d/e/1FAIpQLScnDwGYwYigNvh6uNt5jO-fgEQqgetrCMUdR_jWjYciBwdX-g/viewform"
       - "https://www.plug.events/event/bailando-entre-montanas-xviii"
+      - "https://www.facebook.com/events/1407479210247988/"
     start: "2025-10-03T19:00:00+02:00"
     end: "2025-10-05T15:00:00+02:00"
     country: Spain
     city: Miraflores de la Sierra
     styles:
       - balfolk
-    workshop: false
-    social: false
+    workshop: true
+    social: true
     bands:
+      - Dos en Trío
       - Parasol
+      - Plan B
       - Trio Loubelya
-    price: €95-€150
-    organisation: Folqué?
+    price: €95-€153
+    organisation: Folqué Madrid
