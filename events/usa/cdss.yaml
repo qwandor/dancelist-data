@@ -60337,39 +60337,6 @@ events:
     workshop: false
     social: true
     organisation: North Bay Country Dance Society
-  - name: English Country Dance at Tapestry Folkdance Center
-    details: "Every Sunday \nSmall Studio\n7:00 – 9:00 pm \n\n\n\n\n\n\n\n2nd Sunday of the Month\nLive Music with Anytime English Players | 6:30 – 9:00 pm \n​Cost:\n​Recorded Music:  $12 General Admission | $9 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\nLive Music: $15 General Admission | $12 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\n\n​“Pay What You Choose” first seven days of every month (1st through the 7th) – Newcomers especially encouraged to attend! \n\n\n\n\n\n\n\nEnglish country dancing is an accessible social dance form with a history going back several centuries. This is the dancing of Queen Elizabeth I, of Jane Austen, and a living tradition that inspires musical compositions and choreographies today. The music can be stately or spritely, traditional or modern, recorded or live. It is danced with simple walking or skipping steps in time to the music. All dances are taught and are usually done in “long-ways sets” with partners facing in lines down the hall. After a walk-through, the easy-to-learn figures are called throughout the dance as you interact with other couples in your set and then move on to the next and repeat.\n​\nYou can come by yourself and be assured of dancing throughout the evening, since our tradition is to welcome and teach beginners and change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience.  English country dance will satisfy your wish for pleasurable exercise, a warm social community, mental stimulation, or even transcendent aesthetic experiences. We invite you to join us!"
-    links:
-      - "https://www.tapestryfolkdance.org/english-country-dance"
-      - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2025-08-31/"
-    start: "2025-08-31T19:00:00-05:00"
-    end: "2025-08-31T21:00:00-05:00"
-    country: USA
-    state: MN
-    city: Minneapolis
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
-    organisation: Tapestry Folkdance Center
-  - name: Contra Dance in St Louis
-    details: Weekly contra dance in St Louis area (actually Webster Groves MO). Always great live music. First dance each month features open calling.
-    links:
-      - "https://www.childgrove.org/"
-      - "https://cdss.org/event/contra-dance-in-st-louis/2025-08-31/"
-    start: "2025-08-31T19:00:00-05:00"
-    end: "2025-08-31T21:30:00-05:00"
-    country: USA
-    state: MO
-    city: Webster Groves
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
     links:
@@ -61915,6 +61882,7 @@ events:
   - name: Lewiston Contra Dance
     details: "Join us for Greg and Aiden Boardman with Hadithi Abdulle, and TBA calling! We dance in the beautiful Trinity Commons at 247 Bates Street, Lewiston, ME. Sliding Scale $15-25, teens $5, kids under 12 free. Pay what you can! We’d love to dance with you! Beginners’ lesson at 7, dancing from 7:30-10. For more information, see our website or find us on Facebook!"
     links:
+      - "https://sites.google.com/view/lewistoncontradance/home"
       - "https://cdss.org/event/lewiston-contra-dance/"
     start: "2025-09-12T19:00:00-04:00"
     end: "2025-09-12T22:00:00-04:00"
@@ -61925,6 +61893,8 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Greg & Aiden Boardman
     price: $5-$15
     organisation: Lewiston Contra Dance
   - name: Tallahassee Contra Dance
@@ -61998,6 +61968,7 @@ events:
   - name: Contra Caller Workshop
     details: Come try your hand at calling contra dances or support those who want to learn to call at this free workshop.
     links:
+      - "https://www.nashvillecountrydancers.org/contra-dances"
       - "https://cdss.org/event/contra-caller-workshop/2025-09-12/"
     start: "2025-09-12T19:00:00-05:00"
     end: "2025-09-12T21:30:00-05:00"
@@ -62007,7 +61978,8 @@ events:
     styles:
       - contra
     workshop: true
-    social: true
+    social: false
+    price: free
     organisation: Nashville Country Dancers
   - name: Monrovia English Country Dance
     details: "Please join us for English Country Dancing on the 2nd and 4th Friday of every month from 7:30-10pm in the Guildhall of St Luke’s Episcopal Church. $5 admission (cash only). Beginners welcome! All dances are taught, walked through and called. No partner or costume required; just bring comfortable closed-toed shoes and a water bottle. We’re friendly, laid-back, and welcoming!"
@@ -62103,6 +62075,71 @@ events:
     social: true
     price: $8-$20
     organisation: Valley Contra Dance Society
+  - name: Floyd Contra Dance
+    details: "Come join us with The Rythmajigs playing and Dan Kappus calling! No experience needed. Lesson at 7, Dance 7:30 – 10:30. $10 ($5 for students)."
+    links:
+      - "https://www.floydcontradance.org/"
+      - "https://cdss.org/event/floyd-contra-dance-2/"
+    start: "2025-09-13T19:00:00-04:00"
+    end: "2025-09-13T22:30:00-04:00"
+    country: USA
+    state: VA
+    city: Floyd
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Dan Kappus
+    price: $5-$10
+    organisation: CDSS
+  - name: Space Coast Contra Dance
+    details: "Our second Saturday contra dance on the Space Coast of FL featuring live bands, awesome callers, and a friendly crowd. All are welcome. No partner needed. For more information, visit our website. We’d love to have you join us! \n$15; $5 for 25 and under."
+    links:
+      - "https://spacecoastcontra.org/calendar-upcoming-contra-dances/"
+      - "https://cdss.org/event/space-coast-contra-dance/2025-09-13/"
+    start: "2025-09-13T19:30:00-04:00"
+    end: "2025-09-13T22:30:00-04:00"
+    country: USA
+    state: FL
+    city: Cocoa
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$15
+    organisation: Space Coast Contra Dance
+  - name: Princeton English Country Dance
+    details: "English Country Dance every 2nd Saturday (except November and December), 7:30-10:30."
+    links:
+      - "https://www.princetoncountrydancers.org/"
+      - "https://cdss.org/event/princeton-country-dancers-english-country-dance/2025-09-13/"
+    start: "2025-09-13T19:30:00-04:00"
+    end: "2025-09-13T22:30:00-04:00"
+    country: USA
+    state: NJ
+    city: Princeton
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: CDSS
+  - name: TopHill Music Contradance Party
+    details: "Please check the Guiding Star Grange website for details. \nSchedule: There will be a newcomers workshop at 7:45pm. Please come early to help our new dancing friends! All are welcome! \nCost: $12-20 sliding scale \n\nHigh-level masks are mandated for this dance.\nPlease bring your own water bottle.\nUp-to-date vaccinations are encouraged but not required.\nIf you are not feeling well, please do not attend, but rather care for yourself and others and join us next time!\n\nSee venue website for this month’s details and Covid policy."
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+      - "https://cdss.org/event/second-saturday-tophill-music-contradance-party-at-guiding-star-grange/2025-09-13/"
+    start: "2025-09-13T20:00:00-04:00"
+    end: "2025-09-13T23:00:00-04:00"
+    country: USA
+    state: MA
+    city: Greenfield
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $12
+    organisation: Alice Kenney
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Oklahoma City, second and fourth Saturdays. Check our Facebook or our website for more details!"
     links:
@@ -62118,6 +62155,52 @@ events:
     workshop: false
     social: true
     organisation: Scissortail Traditional Dance Society
+  - name: NACDS Contra Dance
+    details: "Every 2nd & 4th Saturday starting 2024.\nContra Dance in the gym at Faith Presbyterian Church, Huntsville, AL.\nNewcomers at 6:30pm; dance 7 pm Central time.\nCheck Facebook for updated info under North Alabama Country Dance Society.\nWear soft-soled shoes and bring your own resealable water container.\nMembers $10;  non-members $15."
+    links:
+      - "https://cdss.org/event/north-alabama-country-dance-society-contra-dance/2025-09-13/"
+    start: "2025-09-13T19:30:00-05:00"
+    end: "2025-09-13T23:00:00-05:00"
+    country: USA
+    state: AL
+    city: Huntsville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: CDSS
+  - name: English Country Dance
+    details: English Country Dance with live music every 2nd Saturday.
+    links:
+      - "https://www.nttds.org/"
+      - "https://cdss.org/event/2nd-saturday-english-country-dance/2025-09-13/"
+    start: "2025-09-13T19:30:00-05:00"
+    end: "2025-09-13T22:30:00-05:00"
+    country: USA
+    state: TX
+    city: Dallas
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: North Texas Traditional Dance Society (NTTDS)
+  - name: Contra Dance
+    details: "HATDS hosts contra dances on the 2nd and 4th Saturdays of most months. We dance to live music. All skill levels are welcome and all dances are called. Bring water and clean shoes! \nThe admission price for contra dances is $10 for members, $15 for non-members. Cash, checks, credit cards, and digital wallets are currently accepted at the door. If paying cash, please bring correct change. No large bills accepted."
+    links:
+      - "https://hatds.org/"
+      - "https://cdss.org/event/contra-dancing-in-houston-tx/2025-09-13/"
+    start: "2025-09-13T19:30:00-05:00"
+    end: "2025-09-13T22:30:00-05:00"
+    country: USA
+    state: TX
+    city: Houston
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10-$15
+    organisation: Houston Area Traditional Dance Society
   - name: San Luis Obispo Monthly Contra Dance
     details: "Live music and gender-neutral calling at the monthly contra dance in San Luis Obispo, CA. Dances are monthly on the 2nd Saturday. 6:30 lesson, dancing until 9:30."
     links:
@@ -62133,6 +62216,23 @@ events:
     workshop: true
     social: true
     organisation: Central Coast Country Dance Society
+  - name: "Contra Dance in Moab, Utah"
+    details: "Contra dance in beautiful Moab, UT at a beautiful time of year! Beginners workshop at 7:30, and the dance starts at 8pm. Tunes by the Moab Community Dance Band with guest caller from Grand Junction, CO, Ron Young. $10 suggested donation."
+    links:
+      - "https://cdss.org/event/contra-dance-in-moab-utah/"
+    start: "2025-09-13T19:30:00-06:00"
+    end: "2025-09-13T22:00:00-06:00"
+    country: USA
+    state: UT
+    city: Moab
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Moab Community Dance Band
+    price: $10
+    organisation: Moab Community Dance Band
   - name: Second Saturday Contra
     details: "Join us for our Second Saturday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check our website for changes in dance schedule or location.  \n$10 General • $5 for 25 years & younger"
     links:
