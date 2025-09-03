@@ -55,6 +55,7 @@ jobs:
         run: dancelist import dresden events/germany/dresden.yaml
       - name: Import freiburg
         run: dancelist import freiburg events/germany/freiburg_i_br.yaml
+        continue-on-error: true
       - name: Import burghausen
         run: dancelist import burghausen events/germany/burghausen.yaml
       - name: Import skandia
