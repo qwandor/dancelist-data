@@ -1,37 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: The Linda Game Band in Englefield Green
-    links:
-      - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
-    start_date: 2025-06-08
-    end_date: 2025-06-08
-    country: UK
-    city: Englefield Green
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - The Linda Game Band
-    callers:
-      - Ivan Aitken
-    organisation: Webfeet
-  - name: Arish Mel in Kimmeridge
-    links:
-      - "http://www.earwicker.org/about_arish_mel.htm"
-    start_date: 2025-06-13
-    end_date: 2025-06-13
-    country: UK
-    city: Kimmeridge
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Arish Mel
-    callers:
-      - Malcolm Churchill
-    organisation: Webfeet
   - name: Catsfield Steamers in Winchelsea
     details: "[Cancelled]"
     links:
@@ -639,10 +607,25 @@ events:
     bands:
       - Arish Mel
     organisation: Webfeet
+  - name: Naragonia in London
+    links:
+      - "https://www.bandsintown.com/e/106748998-naragonia-at-heath-street-baptist-church"
+    start_date: 2025-09-12
+    end_date: 2025-09-12
+    country: UK
+    city: London
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Naragonia
+    organisation: Webfeet
   - name: Naragonia in Cirencester
     links:
       - "https://balfolkstroud.uk/cps/gigs/naragoniaduo-f4e4d4.php"
       - "http://mister.red/dance/cirencester.htm#D.AS.20250913"
+      - "https://www.bandsintown.com/e/106749004-naragonia-at-corinium-museum"
     start_date: 2025-09-13
     end_date: 2025-09-13
     country: UK
@@ -668,6 +651,20 @@ events:
     social: true
     bands:
       - Truffet&ecirc;te
+    organisation: Webfeet
+  - name: Cambridge University Ceilidh Band in Holbrook
+    links:
+      - "https://eceilidh.org.uk/cps/gigs/cambridgeuniversityceilidhband-c641a9.php"
+    start_date: 2025-09-13
+    end_date: 2025-09-13
+    country: UK
+    city: Holbrook
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Cambridge University Ceilidh Band
     organisation: Webfeet
   - name: Box of Frogs in Englefield Green
     links:
@@ -1015,6 +1012,20 @@ events:
     callers:
       - Kim Smith
     organisation: Webfeet
+  - name: Naragonia in Todmorden
+    links:
+      - "https://www.bandsintown.com/e/106749025-naragonia-at-todmorden-town-hall"
+    start_date: 2025-10-03
+    end_date: 2025-10-03
+    country: UK
+    city: Todmorden
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Naragonia
+    organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
       - "http://mister.red/dance/cheltenham.htm#D.DB.20251004"
@@ -1123,6 +1134,7 @@ events:
   - name: Bristol Ceilidh Quartet in Baldock
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+      - "https://www.areyoudancing.com/dance-event/768869/"
     start_date: 2025-10-10
     end_date: 2025-10-10
     country: UK
@@ -1335,6 +1347,20 @@ events:
       - Mic Spenceley
       - Mic Spenseley
     organisation: Webfeet
+  - name: Freedom Fields Ceilidh Band in Plymouth
+    links:
+      - "http://devonfolk.org/events-diary/"
+    start_date: 2025-10-18
+    end_date: 2025-10-18
+    country: UK
+    city: Plymouth
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Freedom Fields Ceilidh Band
+    organisation: Webfeet
   - name: sessionista in Bristol
     links:
       - "http://mister.red/dance/bristol.htm#D.AI.20251019"
@@ -1453,6 +1479,22 @@ events:
     social: true
     bands:
       - Freedom Fields Ceilidh Band
+    organisation: Webfeet
+  - name: Brown Boots in Waterloo
+    links:
+      - "https://waterlooceilidhs.co.uk/events/"
+    start_date: 2025-10-31
+    end_date: 2025-10-31
+    country: UK
+    city: Waterloo
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Brown Boots
+    callers:
+      - Hannah Moore
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
@@ -1582,6 +1624,7 @@ events:
     links:
       - "http://www.chalktown.co.uk/chalkgigs.html#D.20251113"
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+      - "https://www.areyoudancing.com/dance-event/768870/"
     start_date: 2025-11-14
     end_date: 2025-11-14
     country: UK
@@ -1740,6 +1783,7 @@ events:
     organisation: Webfeet
   - name: Jigfoot in Stroud
     links:
+      - "https://www.jigfoot.com/google-calendar/"
       - "https://eceilidh.org.uk/cps/gigs/jigfoot-9cba9d.php"
       - "https://stroud.dance/ceilidh/cps/gigs/jigfoot-61271f.php"
     start_date: 2025-11-29
@@ -1768,6 +1812,20 @@ events:
     social: true
     bands:
       - Arish Mel
+    organisation: Webfeet
+  - name: "Blackbeard's Tea Party in York"
+    links:
+      - "https://www.bandsintown.com/e/107305082-blackbeard&#x27;s-tea-party-at-the-crescent-community-venue"
+    start_date: 2025-12-05
+    end_date: 2025-12-05
+    country: UK
+    city: York
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
     organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
@@ -1811,9 +1869,24 @@ events:
     bands:
       - Banana Band
     organisation: Webfeet
+  - name: "Blackbeard's Tea Party in Stowmarket"
+    links:
+      - "https://www.bandsintown.com/e/107305061-blackbeard&#x27;s-tea-party-at-john-peel-centre-for-creative-arts"
+    start_date: 2025-12-06
+    end_date: 2025-12-06
+    country: UK
+    city: Stowmarket
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
+    organisation: Webfeet
   - name: Tonic in Baldock
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+      - "https://www.areyoudancing.com/dance-event/768871/"
     start_date: 2025-12-12
     end_date: 2025-12-12
     country: UK
@@ -1900,6 +1973,20 @@ events:
     callers:
       - Nicola Scott
     organisation: Webfeet
+  - name: "Blackbeard's Tea Party in London"
+    links:
+      - "https://www.bandsintown.com/e/107305098-blackbeard&#x27;s-tea-party-at-cecil-sharp-house"
+    start_date: 2025-12-19
+    end_date: 2025-12-19
+    country: UK
+    city: London
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
+    organisation: Webfeet
   - name: Arish Mel in Piddletrenthide
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -1961,6 +2048,7 @@ events:
   - name: The Geckoes in Baldock
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+      - "https://www.areyoudancing.com/dance-event/768873/"
     start_date: 2025-12-31
     end_date: 2025-12-31
     country: UK
@@ -2077,20 +2165,6 @@ events:
     social: true
     bands:
       - Shivelight
-    organisation: Webfeet
-  - name: "Blackbeard's Tea Party in Newcastle upon Tyne"
-    links:
-      - "https://www.bandsintown.com/e/107079567-blackbeard&#x27;s-tea-party-at-the-cluny"
-    start_date: 2026-02-13
-    end_date: 2026-02-13
-    country: UK
-    city: Newcastle upon Tyne
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
     organisation: Webfeet
   - name: The Marisca Trio in Norwich
     links:
