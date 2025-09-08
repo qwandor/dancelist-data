@@ -22873,7 +22873,7 @@ events:
     bands:
       - Fyndus
     organisation: ~
-  - name: Folkbal
+  - name: Stage
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -22923,3 +22923,47 @@ events:
     social: false
     price: €15-€40
     organisation: Frisse Folk Vzw/asbl
+  - name: Bal@herk
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/3018"
+    start: "2025-10-12T10:30:00+02:00"
+    end: "2025-10-12T18:00:00+02:00"
+    country: Belgium
+    city: Herk-de-Stad
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Pantonim
+      - Duo Parasol
+    price: €13-€40
+    organisation: Folk In Limburg
+  - name: Stage
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/3019"
+    start: "2025-10-12T10:30:00+02:00"
+    end: "2025-10-12T12:30:00+02:00"
+    country: Belgium
+    city: Herk-de-Stad
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €25-€40
+    organisation: Folk In Limburg
+  - name: Nieuwjaarsbal@herk
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/3023"
+    start: "2025-12-31T20:00:00+01:00"
+    end: "2025-12-31T21:30:00+01:00"
+    country: Belgium
+    city: Herk-de-Stad
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
