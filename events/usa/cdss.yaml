@@ -39295,6 +39295,8 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - Les Quatre Patates
     callers:
       - Alan Rosenthal
       - Cathy Campbell
@@ -39447,9 +39449,10 @@ events:
       - Ric Goldman
     price: $7-$20
     organisation: Portland Country Dance Community
-  - name: September Monthly Dance
+  - name: TECDA Monthly Dance
     details: "TECDA is hosting an ECD monthly dance at St. Barnabas Hall on Saturday September 13, 2025, 2:30-5, Drew Delaware calling. \nMusicians: Les Quatre Patates \nMasks are optional.  Please bring your dancing shoes, water bottle. \nPreregistration at info@tecda.ca, but walk ins are welcome.  \nDoors open at 1:30 \nSaturday, September 13, 2:30-5:30 at St. Barnabas Hall \nThere will be a free Beginners lesson at 2 pm sharp for new dancers (to ECD) including the dancers who attended the dance on Friday September 5. Free Admission to the Monthly dance that starts at 2:30 pm for the new dancers who attend the whole session from 2 -2:30 \nSee you on the dance floor. \nThere will be a group dinner, potluck or bring your own, from 5:30 to 6:30. \nIt’s always great to socialize over food and catch up on all the news after the dance and not during the dance when the caller is teaching! \nSuggested donation of $25 or PWYC for ECD.  This can be paid by e-transfer to  payments@tecda.ca  or cash at the door. \nThere is a contra dance in the evening,  with Drew and les Quatre Patates,  with beginner lesson at 7.  check out tcdance.org. \nTECDA Friday Evening Dance \nCome and join us Every Friday for an evening of dance with our talented callers: Cathy Campbell, Dave Berman, Alan Rosenthal and Walter Zagorski \nMasks are optional.  Please bring your dancing shoes, water bottle, and come and enjoy an evening of English Country Dancing.."
     links:
+      - "https://www.tecda.ca/special_dances.html"
       - "https://cdss.org/event/september-monthly-dance/"
     start: "2025-09-13T14:00:00-04:00"
     end: "2025-09-13T17:30:00-04:00"
@@ -39460,12 +39463,10 @@ events:
       - ecd
     workshop: true
     social: true
+    bands:
+      - Les Quatre Patates
     callers:
-      - Alan Rosenthal
-      - Cathy Campbell
-      - Dave Berman
       - Drew Delaware
-      - Walter Zagorski
     price: $25
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Dover Monthly English Country Dance
@@ -40785,6 +40786,7 @@ events:
   - name: Brooklyn Contra Annual Harvest Ball
     details: "We’ve got the High Strung string band coming up from Philly for an extra long set, Abigail Hobart all the way from Spain to call an evening of amazing dances, and a special late night DJ set from Chloe Rosenthal followed by a little more blues dancing at our after party! \nDance Schedule: \n\n7:00pm Lesson\n7:30pm Dancing Starts\n9:20pm Second Half Dancing w/Advanced Dances\n11:00pm Techno Set\n12:00pm Afters at Logan’s Run\n\nHigh Strung is a vibrant new four-piece from Philadelphia. With foot-stomping reels, pulsing marches, and soaring jigs, High Strung blends Celtic, Canadian, and American folk traditions into an electrifying sound, guaranteed to keep the floor moving until the last waltz. \n\n\n\n\n\n\nAbigail hails from the Pacific Northwest, where she grew up contra dancing, fiddling, and scraping her shins on tree trunks in the verdant woods of coastal Washington State. \nAfter studying ethnomusicology and sustainable food systems in New England for a while, she returned to the Pacific Northwest and worked in the woods for a few years before settling in the Washington, D.C. area. There, she helped produce folk festivals for the National Council of the Traditional Arts, and studied bluegrass fiddle with master fiddler, Rickie Simpkins through a Maryland State Arts Council grant. \nNow, Abigail is based in sunny Granada, Spain, where she is a regular at the local Irish music session, calls square and contra dances anywhere in Europe, sings in a gospel choir, and plays way too much country music for her own good."
     links:
+      - "https://www.brooklyncontra.org/dance-schedule/2025/9/20"
       - "https://cdss.org/event/brooklyn-contra-annual-harvest-ball/"
     start: "2025-09-20T19:00:00-04:00"
     end: "2025-09-21T00:00:00-04:00"
@@ -40795,6 +40797,11 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - High Strung
+    callers:
+      - Abigail Hobart
+    price: $25
     organisation: Brooklyn Contra
   - name: Syracuse Country Dancers Contra Dance
     details: Contra dancing every 1st and 3rd Saturday.
@@ -41071,7 +41078,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2025-09-21/"
-    start: "2025-09-21T19:00:00-05:00"
+    start: "2025-09-21T18:30:00-05:00"
     end: "2025-09-21T21:00:00-05:00"
     country: USA
     state: MN
@@ -41080,9 +41087,9 @@ events:
       - ecd
     workshop: false
     social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
+    callers:
+      - Midge Olsen
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: Contra Dance in St Louis
     details: Weekly contra dance in St Louis area (actually Webster Groves MO). Always great live music. First dance each month features open calling.
@@ -41096,8 +41103,13 @@ events:
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Driftwood Jam Band
+    callers:
+      - Mac McKeever
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Nashville Monday Night English Country Dance Class
     details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
@@ -41113,6 +41125,8 @@ events:
       - ecd
     workshop: true
     social: false
+    callers:
+      - Juliette Webb
     price: free
     organisation: Nashville Country Dancers
   - name: Adirondack Dance Weekend
