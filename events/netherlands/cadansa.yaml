@@ -6,11 +6,12 @@ events:
       - "https://www.cadansa.nl/"
       - "https://www.balfolk.nl/agenda/cadansa-2022/"
       - "https://www.facebook.com/events/1017795078982635/"
-    start: 2022-10-20T18:00:00+02:00
-    end: 2022-10-23T19:00:00+02:00
+    start: "2022-10-20T18:00:00+02:00"
+    end: "2022-10-23T19:00:00+02:00"
     country: Netherlands
     city: Steenwijk
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -31,17 +32,17 @@ events:
       - Wim te Groen
     price: €96.50-€107.50
     organisation: CaDansa
-
   - name: CaDansa
     links:
       - "https://www.cadansa.nl/"
       - "https://www.facebook.com/events/6393983630660680/"
       - "https://www.balfolk.nl/agenda/cadansa-balfolkfestival-2023/"
-    start: 2023-10-26T18:00:00+02:00
-    end: 2023-10-29T19:00:00+02:00
+    start: "2023-10-26T18:00:00+02:00"
+    end: "2023-10-29T19:00:00+02:00"
     country: Netherlands
     city: Steenwijk
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -54,7 +55,7 @@ events:
       - Wouter en de Draak
       - Beat Bouet Trio
       - Duo Tanghe-Coudroy
-      - L'air Inconnu
+      - "L'air Inconnu"
       - La Réveilleuse
       - Marie Paulette
       - Maarten Decombel & Toon Van Mierlo
@@ -62,7 +63,6 @@ events:
       - Naragonia Quartet
     price: €105-€165
     organisation: CaDansa
-
   - name: CaDansa
     links:
       - "https://www.cadansa.nl/"
@@ -99,11 +99,28 @@ events:
       - "https://www.balfolk.nl/agenda/cadansa-balfolkfestival-2025/"
       - "https://www.facebook.com/events/1548949209828868/"
     start: "2025-10-23T18:00:00+01:00"
-    end: "2025-10-26T19:00:00+01:00"
+    end: "2025-10-26T19:30:00+01:00"
     country: Netherlands
     city: Steenwijk
     styles:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Duo Pilartz-Gielen
+      - Flos
+      - Naragonia Quartet
+      - Swinco
+      - Balphoria
+      - Shillelagh
+      - Accordzéâm
+      - Lo Gat
+      - Marie Paulette
+      - e = m(T²)
+      - Duo Menguy-Berenguer
+      - Rémi Geffroy Septet
+      - Thalas
+      - Duo Des Cimes
+      - Floating Sofa Quartet
+    price: €120-€180
     organisation: CaDansa
