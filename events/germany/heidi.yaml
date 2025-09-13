@@ -1,23 +1,36 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Heidi's Silvester-Folk 2022
+  - name: "Heidi's Silvester-Folk 2022"
     links:
       - "https://eveeno.com/silvester2022heidi"
-    start: 2022-12-27T16:00:00+01:00
-    end: 2023-01-01T16:00:00+01:00
+    start: "2022-12-27T16:00:00+01:00"
+    end: "2023-01-01T16:00:00+01:00"
     country: Germany
     city: Witzenhausen
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
       - Bargainatt
       - Arquèthi
-      - L'air Inconnu
+      - "L'air Inconnu"
       - Trio Molzahn-Hense-Horwath
       - Bal Affaire
       - Ilmfidelhupf
       - Bal-à-Deux
       - Eins68
       - Duo Rudi Winkler & Alexander Loch
+    organisation: Heidi
+  - name: Silvester-Folk Burg-Ludwigstein
+    links:
+      - "https://www.modjesch.de/heidi/Silvester/"
+    start_date: 2025-12-27
+    end_date: 2026-01-01
+    country: Germany
+    city: Witzenhausen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
     organisation: Heidi
