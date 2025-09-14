@@ -20541,8 +20541,10 @@ events:
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Geronimo
     organisation: Boombal
   - name: Boombal
     details: Ball
@@ -22987,3 +22989,50 @@ events:
       - Bouton
     price: €11-€19
     organisation: Frisse Folk Vzw/asbl
+  - name: Mazurka Magic
+    details: Course
+    links:
+      - "https://stanistil.be/event/59"
+      - "https://folkbalbende.be/event/3055"
+      - "https://www.facebook.com/events/1197166985599224"
+    start: "2025-10-15T20:30:00+02:00"
+    end: "2025-10-15T23:00:00+02:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: Stanistil
+  - name: "Bourrée In 2 : Flow"
+    details: Course
+    links:
+      - "https://stanistil.be/event/54"
+      - "https://folkbalbende.be/event/3056"
+      - "https://www.facebook.com/events/1197166985599224"
+    start: "2025-11-19T20:30:00+01:00"
+    end: "2025-11-19T23:00:00+01:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: Stanistil
+  - name: Folkdans Workshop
+    details: Course
+    links:
+      - "https://stanistil.be/event/55"
+      - "https://folkbalbende.be/event/3057"
+    start: "2025-12-10T20:30:00+01:00"
+    end: "2025-12-10T23:00:00+01:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: donation
+    organisation: Stanistil
