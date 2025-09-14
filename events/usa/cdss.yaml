@@ -41482,8 +41482,9 @@ events:
   - name: FSGW English Country Dance
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
+      - "https://fsgw.org/event-6292907"
       - "https://cdss.org/event/fsgw-english-country-dance/2025-09-24/"
-    start: "2025-09-24T20:00:00-04:00"
+    start: "2025-09-24T19:30:00-04:00"
     end: "2025-09-24T22:30:00-04:00"
     country: USA
     state: MD
@@ -41492,6 +41493,8 @@ events:
       - ecd
     workshop: true
     social: true
+    callers:
+      - Dan Gillespie
     price: $8-$17
     organisation: Folklore Society of Greater Washington
   - name: Princeton Country Dancers’ Contra Dance
@@ -41499,15 +41502,16 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2025-09-24/"
-    start: "2025-09-24T20:00:00-04:00"
+    start: "2025-09-24T19:30:00-04:00"
     end: "2025-09-24T22:30:00-04:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: English Country Dance Open House
     details: "Come and experience the joy of English Country Dance! Village Green English Dancers is a vibrant community group celebrating 50 years in Winnipeg. Join us and share our love of English Dance and Music. The evening, with wonderful live music, called instructions, and welcoming dancers will introduce you to this historic and living tradition. There will be dances from the 17th to the 21st centuries. The dances range from the energetic to the elegant. As well, learn about membership, our class schedule and social events. No partner necessary. Wear comfortable clothes, bring along some soft-soled indoor shoes and your water bottle."
@@ -41542,6 +41546,8 @@ events:
     social: true
     bands:
       - Local On-Call Orchestra
+    callers:
+      - Marc Airhart
     price: free
     organisation: CDSS
   - name: San Francisco Contra Dance
@@ -41549,7 +41555,7 @@ events:
     links:
       - "https://bacds.org/series/contra/san_francisco_wed/"
       - "https://cdss.org/event/san-francisco-contra-dance/2025-09-24/"
-    start: "2025-09-24T20:00:00-07:00"
+    start: "2025-09-24T19:30:00-07:00"
     end: "2025-09-24T22:30:00-07:00"
     country: USA
     state: CA
@@ -41558,6 +41564,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - The New Vintage Revelers
+    callers:
+      - Dane Wallinga
     price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: Cleveland Thursday English Country Dance
@@ -41574,6 +41584,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $3
     organisation: Cleveland English Dance Community
   - name: Lake City Contra Dance
     details: "Thursday nights; doors open at 7 pm \nDances: intro/refresher workshop 7:15 pm, dancing 7:30 till 10:00 pm \nAdmission on a sliding scale $10 – 20 – pay what you can \nThe hall is well-ventilated and air-conditioned! \nFor more information call 206-525-0932, or send us email."
@@ -41589,21 +41600,27 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: Rochester Thursday Night Contras
     details: "We are a welcoming contra group, dancing every week to live music. Please come! Check our website in case of last minute changes, and check out our videos on our Country Dancers of Rochester YouTube channel!"
     links:
+      - "https://cdrochester.org/events/thursday-night-contra-271"
       - "https://cdss.org/event/rochester-ny-thursday-night-contras/2025-09-25/"
-    start: "2025-09-25T19:30:00-04:00"
+    start: "2025-09-25T19:10:00-04:00"
     end: "2025-09-25T22:30:00-04:00"
     country: USA
     state: NY
     city: Rochester
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Glenrose Trio
+    callers:
+      - Nancy Spero
+    price: $12
     organisation: Country Dancers of Rochester
   - name: Adirondack Dance Weekend
     details: "A weekend of Contra, English Country and Balfolk dancing, tucked into the Adirondack Mountains on the shores of Lake George. Featuring Will Mentor, River Road, Gaye Fifer and more to be announced. Dance, sing, jam, hike, swim, kayak and more."
@@ -41642,21 +41659,29 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Max Brown and his Band of Renown
+    callers:
+      - Jan Alter
+    price: free
     organisation: PATMAD
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley English Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://www.bacds.org/series/english/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2025-09-25/"
-    start: "2025-09-25T20:00:00-07:00"
-    end: "2025-09-25T22:30:00-07:00"
+    start: "2025-09-25T19:15:00-07:00"
+    end: "2025-09-25T22:00:00-07:00"
     country: USA
     state: CA
     city: Berkeley
     styles:
-      - contra
       - ecd
     workshop: true
     social: true
+    callers:
+      - David Newitt
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: Flint Hills Contra Dance
     details: "Contra dance in Manhattan, Kansas. Open to everyone!"
@@ -41671,10 +41696,12 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: Flint Hills Contradance and Music Society
-  - name: "Queen City Contras - September Dance in Shelburne, VT"
+  - name: Queen City Contras
     details: "Contra Dance presented by Queen City Contras. \nHere on the Hill (Tory Horner, Annie McDougall, and Rose Powell) will play for us, with calling by Julian Blechner. \nAll are welcome; all dances are taught; no partner or experience necessary. Please bring a pair of clean soft-soled shoes to dance in and a water bottle to keep you hydrated. Masks welcome but optional. Please stay home if you have symptoms. Doors open at 6:30, beginner lesson at 6:45, dancing from 7 to 10. Shelburne Town Hall is at 5374 Shelburne Rd, Shelburne, VT."
     links:
+      - "https://queencitycontras.com/schedule"
       - "https://cdss.org/event/queen-city-contras-september-dance-in-shelburne-vt/"
     start: "2025-09-26T18:45:00-04:00"
     end: "2025-09-26T22:00:00-04:00"
@@ -41689,6 +41716,7 @@ events:
       - Here on the Hill
     callers:
       - Julian Blechner
+    price: $5-$12
     organisation: Queen City Contras
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
@@ -41709,6 +41737,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Milford Contra Dance
     details: "The Milford contra dance happens every 4th Friday, unless the 4th Friday happens on Thanksgiving weekend or a Christmas weekend. Music is provided by a large 15+ member band, which allows anyone to sit in for just a single dance or the whole evening. Callers are usually local callers. The dance is usually large, with 100 or more in attendance. The dance is located in the Milford NH town hall, in the center  of town. Entry is on either side of the building, but not the big front steps. \nUnder 10 free; students/seniors $5; adults $12"
@@ -41731,7 +41760,7 @@ events:
     links:
       - "http://www.tallydancer.com/"
       - "https://cdss.org/event/tallahassee-contra-dance-2/2025-09-26/"
-    start: "2025-09-26T19:30:00-04:00"
+    start: "2025-09-26T19:15:00-04:00"
     end: "2025-09-26T22:00:00-04:00"
     country: USA
     state: FL
@@ -41740,6 +41769,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Bunny Bread Bandits
+    callers:
+      - Kenny Greer
     price: $6-$10
     organisation: Tallahassee Community Friends of Old Time Dance
   - name: ContraATL Weekly Dance
@@ -41756,6 +41789,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Childgrove English Country Dance
     details: "The regular dance generally starts out with simpler dances early in the evening, progressing to dances with more difficulty later on, depending on the experience level of the crowd."
@@ -41771,13 +41805,14 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Phoenix 4th Friday Contra Dance
     details: "Join us for our Fourth Friday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check our website for changes in dance schedule or location.  \n$10 General • $5 for 25 years & younger"
     links:
       - "https://phxtmd.org/"
       - "https://cdss.org/event/phoenix-4th-friday-contra-dance/2025-09-26/"
-    start: "2025-09-26T19:00:00-07:00"
+    start: "2025-09-26T18:30:00-07:00"
     end: "2025-09-26T22:00:00-07:00"
     country: USA
     state: AZ
@@ -41793,7 +41828,7 @@ events:
     links:
       - "https://monroviaecd.org/"
       - "https://cdss.org/event/monrovia-english-country-dance/2025-09-26/"
-    start: "2025-09-26T19:30:00-07:00"
+    start: "2025-09-26T19:15:00-07:00"
     end: "2025-09-26T22:00:00-07:00"
     country: USA
     state: CA
