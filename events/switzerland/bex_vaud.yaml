@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Le Merveilleux Bal Folk
+    links:
+      - "https://www.facebook.com/events/802812055583464/"
+      - "https://laboumtrad.ch/"
+      - "https://infomaniak.events/fr-ch/concerts/bal-avec-lequipe-et-djiga-24-octobre-2025/1b0364ab-9816-4b77-a0ee-1c862dfee90d/event/1417326"
+    start: "2025-10-24T19:00:00+02:00"
+    end: "2025-10-24T23:30:00+02:00"
+    country: Switzerland
+    city: Bex Vaud
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Djîga
+      - "L'Equipe"
+    price: 25-45 CHF
+    organisation: La Boum Trad
