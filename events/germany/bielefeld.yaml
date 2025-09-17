@@ -50,14 +50,18 @@ events:
     organisation: "Freizeit- und Kulturzentrum Neue Schmiede, Bielefeld"
     cancelled: true
   - name: Balfolk in der Neuen Schmiede
+    details: "Tanzworkshop 18:30 / Ball 20:00"
     links:
       - "https://www.neue-schmiede.de/unsere-angebote/kultur/kultur-am-abend"
-    start_date: 2025-11-15
-    end_date: 2025-11-15
+    start: "2025-11-15T18:30:00+01:00"
+    end: "2025-11-15T23:00:00+01:00"
     country: Germany
     city: Bielefeld
     styles:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Duo Wolff & Moschcau
+    price: "15,30€"
     organisation: "Freizeit- und Kulturzentrum Neue Schmiede, Bielefeld"
