@@ -18244,6 +18244,8 @@ events:
   - name: BAL Des 40 Ans De RZF
     details: Ball
     links:
+      - "https://www.rzf.be/en_US/event/bal-folk-avec-s-tref-balbuzar-et-grand-boeuf-2025-09-20-74/register"
+      - "https://www.facebook.com/events/9938725196203450/"
       - "https://folkbalbende.be/event/2508"
     start: "2025-09-20T20:00:00+02:00"
     end: "2025-09-21T01:30:00+02:00"
@@ -18251,16 +18253,18 @@ events:
     city: Alleur
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
     bands:
       - Balbuzar
-      - Tref
-      - Boeuf (avec Joachim Loneux)
+      - S-Tref
+    price: €8-€16
     organisation: "Rif Zans L'Fiesse"
   - name: Bal Folk RZF
     details: Ball
     links:
+      - "https://www.rzf.be/en_US/event/bal-folk-avec-fublene-manacken-2025-10-11-75/register"
+      - "https://www.facebook.com/events/1301074614747995/"
       - "https://folkbalbende.be/event/2509"
     start: "2025-10-11T19:30:00+02:00"
     end: "2025-10-12T00:30:00+02:00"
@@ -18273,10 +18277,13 @@ events:
     bands:
       - Manäcken
       - Fublène
+    price: €8-€16
     organisation: "Rif Zans L'Fiesse"
   - name: Bal Folk RZF
     details: Ball
     links:
+      - "https://www.rzf.be/en_US/event/bal-folk-avec-ea-duo-pilartz-gilen-2025-11-01-76/register"
+      - "https://www.facebook.com/events/709152855490149/"
       - "https://folkbalbende.be/event/2510"
     start: "2025-11-01T19:30:00+01:00"
     end: "2025-11-02T00:00:00+01:00"
@@ -18289,10 +18296,13 @@ events:
     bands:
       - Eä
       - Duo Pilartz-Gielen
+    price: €8-€16
     organisation: "Rif Zans L'Fiesse"
   - name: Bal Folk RZF
     details: Ball
     links:
+      - "https://www.rzf.be/en_US/event/bal-folk-avec-naragonia-carac-2025-12-12-77/register"
+      - "https://www.facebook.com/events/680965775111410/"
       - "https://folkbalbende.be/event/2511"
     start: "2025-12-12T19:30:00+01:00"
     end: "2025-12-13T00:00:00+01:00"
@@ -18303,8 +18313,9 @@ events:
     workshop: true
     social: true
     bands:
-      - CaraƆ Trio
+      - CaraƆ
       - Naragonia Quartet
+    price: €8-€16
     organisation: "Rif Zans L'Fiesse"
   - name: Folkbal
     details: Ball
@@ -23055,30 +23066,32 @@ events:
     social: true
     price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Folkbal
-    details: Ball
+  - name: Uilenbos Boerderijbal
     links:
+      - "https://www.facebook.com/events/771529715427264/"
+      - "https://uilenbos.be/?p=news&id=95"
       - "https://folkbalbende.be/event/3073"
     start: "2025-09-20T19:00:00+02:00"
     end: "2025-09-20T23:00:00+02:00"
     country: Belgium
-    city: Moerbeke
+    city: Moerbeke-Waas
     styles:
       - balfolk
     workshop: true
     social: true
     bands:
-      - Karel En De Uilengasten
+      - Karel en de Uilegasten
       - Marasc
-    organisation: ~
-  - name: Congo De Captieux & Luxey + Variaties
+    price: free
+    organisation: "Bioboerderij 't Uilenbos"
+  - name: Congo De Captieux & Luxey + Variations
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Congo de Captieux & Luxey + variaties/1312/"
+      - "https://frissefolk.be/en/event-en/congo-de-captieux-&-luxey-+-variations/1312/"
       - "https://folkbalbende.be/event/3074"
       - "https://www.facebook.com/events/1293718615025197"
-    start_date: 2025-11-22
-    end_date: 2025-11-22
+    start: "2025-11-22T13:15:00+01:00"
+    end: "2025-11-22T18:15:00+01:00"
     country: Belgium
     city: Brussels
     styles:
@@ -23087,13 +23100,13 @@ events:
     social: false
     price: €20-€55
     organisation: Frisse Folk Vzw/asbl
-  - name: Rondeaus & Variaties
+  - name: Rondeaus & Variations
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Rondeaus & variaties/1314/"
+      - "https://frissefolk.be/en/event-en/rondeaus-&-variations/1314/"
       - "https://folkbalbende.be/event/3075"
-    start_date: 2025-11-30
-    end_date: 2025-11-30
+    start: "2025-11-30T10:00:00+01:00"
+    end: "2025-11-30T15:00:00+01:00"
     country: Belgium
     city: Brussels
     styles:
@@ -23105,10 +23118,10 @@ events:
   - name: Sauts Béarnais
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Sauts béarnais/1313/"
+      - "https://frissefolk.be/en/event-en/sauts-b%C3%A9arnais/1313/"
       - "https://folkbalbende.be/event/3076"
-    start_date: 2025-11-29
-    end_date: 2025-11-29
+    start: "2025-11-29T13:15:00+01:00"
+    end: "2025-11-29T18:15:00+01:00"
     country: Belgium
     city: Brussels
     styles:
