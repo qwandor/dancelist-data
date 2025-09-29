@@ -2875,9 +2875,9 @@ events:
       - scandi
     workshop: true
     social: false
-    price: $10-$35
+    price: $10-$12
     organisation: Skandia Folkdance Society
-  - name: Skandia First Friday LIVE - Andrea Hoag!
+  - name: Skandia First Friday LIVE
     details: '<span><b> </b></span>               <p><b>Judy Patterson and Jerry Walsh </b>will teach Valdresspringar from Norway. This is a fun and energetic dance done to mesmerizing music.See <font><u><a href="https://www.youtube.com/watch?v=QBdyC5JXthA" target="_blank">www.youtube.com/watch?v=QBdyC5JXthA</a></u></font>.</p><p>For our music this evening, it’s a homecoming and a reunion! Renowned former local fiddler <b>Andrea Hoag </b>returns to Seattleto play for Skandia’s First Friday dance In a rare and delightful revival, members of Norrsken (Irene Myers, Bill Boyd, and Leslie Foley), who played together with Andrea in the 1980s, will reconvene to perform a set with her (Irene in the first half, Bill and Leslie joining in the second half). Welcome home, Andrea, and welcome to Norrsken!  </p><p><span>You might be familiar with<b> Andrea''s music CD series "Hambo in the xxx"</b> beginning with Hambo in the Barn, then Hambo in the Snow, and most recently Hambo in the Garden.  </span></p><p><span><b>Skandia members, $10; nonmembers, $15; kids, free  The price of admission includes a free dance class.</b></span></p>'
     links:
       - "https://skandia-folkdance.org/"
@@ -2890,6 +2890,9 @@ events:
       - scandi
     workshop: true
     social: true
+    bands:
+      - Andrea Hoag
+      - Norrsken
     price: $10-$15
     organisation: Skandia Folkdance Society
   - name: Dance at the Swedish Club
@@ -2905,6 +2908,8 @@ events:
       - scandi
     workshop: false
     social: true
+    bands:
+      - Fat Fiddles
     price: $10
     organisation: Skandia Folkdance Society
   - name: Scandinavian dance beginner class
@@ -2935,7 +2940,7 @@ events:
       - scandi
     workshop: true
     social: false
-    price: $10-$35
+    price: $10-$12
     organisation: Skandia Folkdance Society
   - name: Scandinavian dance beginner class
     details: '<p>The focus is on beginners.   Singles and couples are welcome. We change partners frequently, and anybody can do either role. We will cover basic turning skills and variants of waltz, pivot, schottis, hambo, and other lovely couple turning dances, as well as fun mixers. </p><p></p>Send questions to <a href="mailto:lisa@hambo.us" target="_blank">lisa@hambo.us</a> or (206) 258-2580.'
@@ -2965,9 +2970,9 @@ events:
       - scandi
     workshop: true
     social: false
-    price: $15-$35
+    price: $15
     organisation: Skandia Folkdance Society
-  - name: Skandia Third Friday dance LIVE-Danish musicians!
+  - name: Skandia Third Friday dance LIVE
     details: "We will have a lively evening with visiting Danes <b>Henrik Larsen,also known as Henrik fra Stevns</b>, and <b>Kristian Bugge</b>. Henrik is an expert in Danish dances and loves to share his enthusiasm with students.  Kristian Bugge is a well-known, energetic, and expressive fiddler who has taught in this area many times, as well as all across the United State and Europe.<p>After the dance lessons with Henrik (7:30–8:30 p.m.), Kristian wil lplay for Skandia dancers, including tunes from the Danish dance class session. Our own well-loved <b>Skandia Kapell</b> will alternate its performance with Kristian Bugge: Kristian will play 8:30–9 and9:30–10, and Skandia Kapell will perform, 9–9:30 and 10–10:30.Dancers will get the best of both worlds—visiting musicians/dancers and skilled local musicians!</p><span><b>Skandia members, $10; nonmembers, $15; kids, free  The price of admission includes a free dance class.</b></span>"
     links:
       - "https://skandia-folkdance.org/"
@@ -2981,6 +2986,7 @@ events:
     workshop: true
     social: true
     bands:
+      - Kristian Bugge
       - Skandia Kapell
     price: $10-$15
     organisation: Skandia Folkdance Society
@@ -2995,8 +3001,10 @@ events:
     city: Seattle
     styles:
       - scandi
-    workshop: false
+    workshop: true
     social: false
+    bands:
+      - Kristian Bugge
     price: $25-$30
     organisation: Skandia Folkdance Society
   - name: Scandinavian dance beginner class
@@ -3027,7 +3035,7 @@ events:
       - scandi
     workshop: true
     social: false
-    price: $10-$35
+    price: $10-$12
     organisation: Skandia Folkdance Society
   - name: Scandinavian dance beginner class
     details: '<p>The focus is on beginners.   Singles and couples are welcome. We change partners frequently, and anybody can do either role. We will cover basic turning skills and variants of waltz, pivot, schottis, hambo, and other lovely couple turning dances, as well as fun mixers. </p><p></p>Send questions to <a href="mailto:lisa@hambo.us" target="_blank">lisa@hambo.us</a> or (206) 258-2580.'
@@ -3057,7 +3065,7 @@ events:
       - scandi
     workshop: true
     social: false
-    price: $10-$35
+    price: $10-$12
     organisation: Skandia Folkdance Society
   - name: Scandinavian dance beginner class
     details: '<p>The focus is on beginners.   Singles and couples are welcome. We change partners frequently, and anybody can do either role. We will cover basic turning skills and variants of waltz, pivot, schottis, hambo, and other lovely couple turning dances, as well as fun mixers. </p><p></p>Send questions to <a href="mailto:lisa@hambo.us" target="_blank">lisa@hambo.us</a> or (206) 258-2580.'
@@ -3161,7 +3169,7 @@ events:
     styles:
       - scandi
     workshop: true
-    social: false
+    social: true
     price: $10-$15
     organisation: Skandia Folkdance Society
   - name: Dance at the Swedish Club
