@@ -1,5 +1,129 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
+  - name: Bal folk workshop
+    links:
+      - "https://www.facebook.com/events/963376321050850"
+    start_date: 2022-02-23
+    end_date: 2022-02-23
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Bal folk workshop
+    links:
+      - "https://www.facebook.com/events/5066607246728716/"
+    start_date: 2022-03-09
+    end_date: 2022-03-09
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Bal folk workshop
+    links:
+      - "https://www.facebook.com/events/537081304502520"
+    start_date: 2022-03-30
+    end_date: 2022-03-30
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Bal folk / fest noz
+    links:
+      - "https://www.facebook.com/events/3129443180655434/"
+    start_date: 2022-04-06
+    end_date: 2022-04-06
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Thomas/Faure
+    price: 20 PLN
+    organisation: Numinosum
+  - name: May Bal Folk
+    links:
+      - "https://www.facebook.com/events/378286280980767/"
+    start_date: 2022-05-11
+    end_date: 2022-05-11
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Balfolk before Blues Exchange
+    links:
+      - "https://www.facebook.com/events/459813985597841/"
+    start: "2022-07-13T20:00:00+02:00"
+    end: "2022-07-13T23:45:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Bal folk before Balfolk summer weekend Warsaw
+    links:
+      - "https://www.facebook.com/events/5203268343124644/"
+    start: "2022-07-20T20:00:00+02:00"
+    end: "2022-07-20T23:45:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Balfolk summer weekend
+    links:
+      - "https://docs.google.com/forms/d/e/1FAIpQLSeEVhIMASK77TC0l1QkPQhaVr-AXyyf5n9D1dznR9d_gYti2Q/viewform"
+      - "https://www.facebook.com/events/402766374760784/"
+    start: "2022-07-22T20:00:00+02:00"
+    end: "2022-07-24T02:00:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Geronimo
+      - Hartwin Dhoore
+      - Viorel
+    price: 95 PLN
+    organisation: Numinosum
+  - name: Bal folk before Numinosum
+    links:
+      - "https://www.facebook.com/events/383746257242728/"
+    start: "2022-09-07T20:00:00+02:00"
+    end: "2022-09-07T23:45:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
+    organisation: Numinosum
   - name: Numinosum Festival 2022
     links:
       - "http://festival.numinosum.pl/?lang=en"
@@ -27,6 +151,53 @@ events:
       - Mr Folxlide
       - Duo Sienkiewicz
       - Kovecs es Viz
+    organisation: Numinosum
+  - name: "New Year's Dance"
+    links:
+      - "https://www.facebook.com/events/865698571477307/"
+      - "https://forms.gle/Bb8QcPt6ERvUKkXK6"
+    start: "2022-12-31T20:00:00+01:00"
+    end: "2023-01-01T03:00:00+01:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Balladum
+    price: 130 PLN
+    organisation: Numinosum
+  - name: Jubilee balfolk
+    links:
+      - "https://www.facebook.com/events/1599250670555604/"
+    start: "2023-06-14T20:00:00+02:00"
+    end: "2023-06-14T23:45:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Balladum
+    price: 10 PLN
+    organisation: Numinosum
+  - name: Polka workshop and Bal Folk
+    links:
+      - "https://www.facebook.com/events/983458609539864/"
+      - "https://www.facebook.com/events/282967750830552/"
+    start: "2023-07-06T18:30:00+02:00"
+    end: "2023-07-06T23:00:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - ŠakarMakar
+    price: 20-30 PLN
     organisation: Numinosum
   - name: Breton dance workshop and balfolk
     links:
@@ -102,6 +273,20 @@ events:
       - The Stouters
     price: 30 PLN
     organisation: Numinosum
+  - name: Roztańczona Noc Muzeów
+    links:
+      - "https://www.facebook.com/events/979492697236903/"
+    start: "2024-05-18T19:30:00+02:00"
+    end: "2024-05-18T22:00:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Igrce
+    organisation: Numinosum
   - name: Numinosum Festival 2024
     links:
       - "https://festival.numinosum.pl/en"
@@ -145,6 +330,19 @@ events:
     social: true
     price: 20 PLN
     organisation: Numinosum
+  - name: Balfolk workshops
+    links:
+      - "https://www.facebook.com/events/537888645694682/"
+    start: "2024-12-01T12:00:00+01:00"
+    end: "2024-12-01T17:30:00+01:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: 130-140 PLN
+    organisation: Numinosum
   - name: Wednesday Balfolk
     links:
       - "https://www.facebook.com/events/618937950461219/"
@@ -157,6 +355,21 @@ events:
     workshop: true
     social: true
     price: 10 PLN
+    organisation: Numinosum
+  - name: Balfolk
+    links:
+      - "https://www.facebook.com/events/2596297637223856/"
+    start: "2024-12-05T19:30:00+01:00"
+    end: "2024-12-05T22:00:00+01:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Moore & Moss
+    price: 40 PLN
     organisation: Numinosum
   - name: "New Year's Eve Dance Night"
     links:
@@ -188,6 +401,19 @@ events:
     bands:
       - Yanyk
     price: 40 PLN
+    organisation: Numinosum
+  - name: Balfolk before Numinosum
+    links:
+      - "https://www.facebook.com/events/1239099847972755/"
+    start: "2025-10-01T20:00:00+02:00"
+    end: "2025-10-01T23:45:00+02:00"
+    country: Poland
+    city: Warsaw
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: 10 PLN
     organisation: Numinosum
   - name: Numinosum Autumn Vibes
     links:
