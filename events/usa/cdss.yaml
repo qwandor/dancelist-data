@@ -41996,7 +41996,7 @@ events:
     social: true
     price: $8-$20
     organisation: Valley Contra Dance Society
-  - name: Mystic Pie Dance!
+  - name: Mystic Pie Dance
     details: "A fourth Saturday live music, contra dance in Southeastern Connecticut! \n\nWhen: This month we start at 7:00pm and go to 10:00pm!\nWhere: Groton Thrive+ Active Living Center @ 102 Newtown Road, Groton, CT 06340\nWhat: Contra dancing dates back to the 17th century with roots in England, Scotland, and France. According to those who practice it today, it remains alive and well as a way to socialize, exercise, and have fun.\nWhy: To have a wicked good time dancing to live music, meet and make friends and eat delicious homemade pie slices!\nMore info on Facebook and Town Planner"
     links:
       - "https://mysticpiedance.wixsite.com/mystic-pie-dance"
@@ -42010,6 +42010,11 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Mickey Koth & John Kalinowski
+    callers:
+      - Steve Holland
+    price: $7-$10
     organisation: Mystic Pie Dance
   - name: "Princeton Country Dancers' Combination Dance"
     details: "Combination Contra and English Country Dance every 4th Saturday, 7:30-10:30 (except February)"
@@ -43466,21 +43471,22 @@ events:
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2025-10-05/"
-    start: "2025-10-05T19:00:00-05:00"
+    start: "2025-10-05T18:30:00-05:00"
     end: "2025-10-05T21:30:00-05:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
     links:
       - "https://cdss.org/event/gainesville-florida-english-country-dance/2025-10-06/"
-    start: "2025-10-06T18:30:00-04:00"
+    start: "2025-10-06T18:10:00-04:00"
     end: "2025-10-06T20:30:00-04:00"
     country: USA
     state: FL
@@ -43491,7 +43497,7 @@ events:
     social: true
     bands:
       - Hoggetowne Fancy
-    price: $5
+    price: $10
     organisation: Gainesville English Country Dance
   - name: Asheville Monday Night Contra Dance
     details: "New Location, Times, & Admission \nThe Ivy Building at Asheville-Buncombe Technical Community College\n9 Genevieve Circle, Asheville, NC 28801\n(On GPS, type the address, not the building name! The building looks like an old church and is across from the Ferguson Medical Building at 10 Genevieve Circle.) \n\nLesson: 7:00pm – 7:30pm\nDance: 7:30pm – 10:00pm\n$0 – $50 Sliding Scale; $12 Suggested\nCheck our Facebook page for caller and musician info\n\nThe Asheville Monday Night Contra Dance, every Monday. Dancing to a live band and caller! Contra dancing is fun and energetic. The welcoming atmosphere makes it a perfect evening for beginners as well as seasoned contra dancers. \nBeginners are welcome, lesson 7:00pm–7:30pm. Contra dancing from 7:30pm–10:00pm. A waltz ends the night! \nSafe dance for all! Families welcome. All ages, races & ethnicities, LGBTQIA+ welcome. No discrimination or bullying of any kind will be tolerated. Volunteers earn a free dance. \nBring a water bottle. Bring comfortable, smooth soled shoes to dance in. No partner required. No experience needed for the beginners’ lesson."
@@ -43522,6 +43528,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: Knoxville Contra Dance
   - name: Nashville Monday Night English Country Dance Class
     details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
@@ -43560,7 +43567,7 @@ events:
     links:
       - "https://www.cincinnaticontradance.org/schedule.htm"
       - "https://cdss.org/event/monday-cincinnati-contra-dance/2025-10-06/"
-    start: "2025-10-06T19:30:00-04:00"
+    start: "2025-10-06T19:00:00-04:00"
     end: "2025-10-06T21:30:00-04:00"
     country: USA
     state: OH
@@ -43576,7 +43583,7 @@ events:
     links:
       - "https://www.chicagobarndance.org/calendar/"
       - "https://cdss.org/event/chicago-contra-dance/2025-10-06/"
-    start: "2025-10-06T19:00:00-05:00"
+    start: "2025-10-06T18:30:00-05:00"
     end: "2025-10-06T21:40:00-05:00"
     country: USA
     state: IL
@@ -43592,7 +43599,7 @@ events:
     links:
       - "https://www.louisvillecountrydancers.org/dance-with-us-1"
       - "https://cdss.org/event/louisville-contra-dance/2025-10-06/"
-    start: "2025-10-06T20:00:00-04:00"
+    start: "2025-10-06T19:30:00-04:00"
     end: "2025-10-06T22:30:00-04:00"
     country: USA
     state: KY
@@ -43603,6 +43610,7 @@ events:
     social: true
     bands:
       - Monday Night All Stars
+    price: $5-$10
     organisation: Louisville Country Dancers
   - name: Monday Evening English Country Dance
     details: "All are welcome to join us for an evening of English country dance with live music. All dances talked and walked through. Easy parking, air conditioning, and fans. Snacks are encouraged for the break! Please register online at our website."
@@ -43618,13 +43626,14 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10-$15
     organisation: CDSS
   - name: Austin English Country Dance
     details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
     links:
       - "https://taada.us/wp/events/"
       - "https://cdss.org/event/austin-english-country-dance/2025-10-06/"
-    start: "2025-10-06T19:30:00-05:00"
+    start: "2025-10-06T19:15:00-05:00"
     end: "2025-10-06T21:30:00-05:00"
     country: USA
     state: TX
@@ -43649,6 +43658,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: Star of the North
     details: "Join us for our annual English Country Dance Weekend, October 10-12, 2025 at Tapestry Folkdance Center. \nEnjoy caller Gene Murrow with musicians Audrey Leigh Jaber, fiddle; Ben Schreiber, fiddle; Jacob Chen, keyboard \nGet swept away in the joy of live music and dance at Tapestry Folkdance Center’s annual Star of the North English Country Dance Weekend! Expand your English Country dance repertoire while experiencing expert calling, lively music, and a vibrant community of dancers. \n\n$140 Early Bird Registration (until September 21)\n$150 Regular Registration (until October 8)\nÀ la carte registration priced per event is also available online and at the door during the event weekend."
