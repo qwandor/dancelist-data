@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: BalFolk Tanzhaus / Casseler Herbstball
+    details: "Dancing evening with Budweis-Wunderlich and Verwegenes Wohnzimmer\r\n\r\nElisabeth-Selbert-Haus, Frankfurter Str. 298"
+    links:
+      - "https://janbudweis.de/shows/"
+    start: "2025-11-08T19:00:00+01:00"
+    end: "2025-11-08T23:55:00+01:00"
+    country: Germany
+    state: Hessen
+    city: Kassel
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - "Budweis-Wunderlich, Verwegenes Wohnzimmer"
+    price: 15 Eur and something to eat for the buffet
+    organisation: Klemens
