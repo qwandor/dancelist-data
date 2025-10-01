@@ -1,5 +1,24 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
+  - name: BalFolk in Trebnitz
+    details: "Duo Gilles Le Bigot & Anne Le Garff playing Breton music, for listening and dance\r\nDuo Budweis-Wunderlich playing groovy neotrad and balfolk tunes\r\nTrio Basta as Septett playing powerful balfolk tunes\r\nSession"
+    links:
+      - "http://www.zur-ostbahn.de/index.php?seite=1&lang=1"
+      - "https://www.facebook.com/events/293580046932756/"
+    start: "2023-10-28T20:00:00+02:00"
+    end: "2023-10-28T23:59:00+02:00"
+    country: Germany
+    city: Trebnitz
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Gilles Le Bigot & Anne Le Garff
+      - Budweis-Wunderlich
+      - Trio Basta
+    price: €12-€20
+    organisation: Balfolk im Oderland
   - name: BalFolk Tanzhaus
     details: "BalFolk dancing evening with Budweis-Wunderlich, Anders Adin, Ira Shiran, Struppi, Trio Basta"
     links:
@@ -21,22 +40,22 @@ events:
       - Trio Basta
     price: €15
     organisation: Balfolk im Oderland
-  - name: BalFolk in Trebnitz
-    details: "Duo Gilles Le Bigot & Anne Le Garff playing Breton music, for listening and dance\r\nDuo Budweis-Wunderlich playing groovy neotrad and balfolk tunes\r\nTrio Basta as Septett playing powerful balfolk tunes\r\nSession"
+  - name: Tanz & Folk Festival Oderland
     links:
-      - "http://www.zur-ostbahn.de/index.php?seite=1&lang=1"
-      - "https://www.facebook.com/events/293580046932756/"
-    start: "2023-10-28T20:00:00+02:00"
-    end: "2023-10-28T23:59:00+02:00"
+      - "https://www.balfolk-im-oderland.de/termine-2025"
+    start_date: 2026-09-04
+    end_date: 2026-09-06
     country: Germany
     city: Trebnitz
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
-      - Duo Gilles Le Bigot & Anne Le Garff
-      - Budweis-Wunderlich
+      - Naragonia Quartet
+      - Snaarmaarwaar
+      - Hot Griselda
+      - Maarten Decombel & Toon Van Mierlo
+      - Geronimo
       - Trio Basta
-    price: €12-€20
     organisation: Balfolk im Oderland
