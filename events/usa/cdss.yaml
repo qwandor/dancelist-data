@@ -44687,13 +44687,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: Knoxville Contra Dance
   - name: Verona Monday Night Contra Dance
     details: "Join Shenandoah Valley Contra Dance at the Verona Community Center for our monthly Monday Night Contra. No experience necessary – we’ll teach you everything you need to know – and you don’t need to bring a partner (but if you want to bring a crew of people – the more the merrier!). \nA brief beginner workshop will be held at 6:45 pm and then we’ll dance from 7 pm to 9 pm. Please check our website and/or Facebook for more details about each month’s dance. \nTo protect the floor at VCC, please wear soft-soled, clean, and comfortable shoes. \nAdmission: Pay-what-you-will (we recommend ~$10 to help pay for the room rental and to compensate our band and caller for their time and skill) \nThis is a mask-optional event. There are no vaccination requirements. As always, for the health and safety of the community, please stay home if you are displaying any symptoms of illness or have been recently exposed to someone who tested positive for an infectious disease."
     links:
       - "https://shenandoahvalleycontradance.weebly.com/monday-night-contra.html"
       - "https://cdss.org/event/verona-va-monday-night-contra-dance-2/2025-10-13/"
-    start: "2025-10-13T19:00:00-04:00"
+    start: "2025-10-13T18:45:00-04:00"
     end: "2025-10-13T21:00:00-04:00"
     country: USA
     state: VA
@@ -44702,7 +44703,11 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    bands:
+      - Janie and the Fine Tuners
+    callers:
+      - Janine Smith
+    price: $10-$15
     organisation: Shenandoah Valley Contra Dance
   - name: Monday Contra Dance
     details: "What better way to start the week? Only $5! It’s Monday, and we (almost) always dance on Monday."
@@ -44725,7 +44730,7 @@ events:
     links:
       - "https://www.cincinnaticontradance.org/schedule.htm"
       - "https://cdss.org/event/monday-cincinnati-contra-dance/2025-10-13/"
-    start: "2025-10-13T19:30:00-04:00"
+    start: "2025-10-13T19:00:00-04:00"
     end: "2025-10-13T21:30:00-04:00"
     country: USA
     state: OH
@@ -44741,7 +44746,7 @@ events:
     links:
       - "https://www.chicagobarndance.org/calendar/"
       - "https://cdss.org/event/chicago-contra-dance/2025-10-13/"
-    start: "2025-10-13T19:00:00-05:00"
+    start: "2025-10-13T18:30:00-05:00"
     end: "2025-10-13T21:40:00-05:00"
     country: USA
     state: IL
@@ -44766,13 +44771,14 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10-$15
     organisation: CDSS
   - name: Austin English Country Dance
     details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
     links:
       - "https://taada.us/wp/events/"
       - "https://cdss.org/event/austin-english-country-dance/2025-10-13/"
-    start: "2025-10-13T19:30:00-05:00"
+    start: "2025-10-13T19:15:00-05:00"
     end: "2025-10-13T21:30:00-05:00"
     country: USA
     state: TX
@@ -44797,6 +44803,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: Columbus English Country Dance Weekend
     details: "English country dance weekend in Columbus, Ohio with music by Jacqueline Schwab, Mary Lea, Earl Gaddis, and Dan Beerbohm and calling by Beverly Francis and Dan Blim. (More details coming.)"
