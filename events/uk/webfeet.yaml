@@ -1,21 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Catsfield Steamers in Winchelsea
-    details: "[Cancelled]"
-    links:
-      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
-    start_date: 2025-07-05
-    end_date: 2025-07-05
-    country: UK
-    city: Winchelsea
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Catsfield Steamers
-    organisation: Webfeet
-    cancelled: true
   - name: Box of Frogs in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
@@ -439,54 +423,9 @@ events:
     callers:
       - Geoff Cubitt
     organisation: Webfeet
-  - name: Catsfield Steamers in Hurst Green
-    links:
-      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
-    start_date: 2025-09-20
-    end_date: 2025-09-20
-    country: UK
-    city: Hurst Green
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Catsfield Steamers
-    organisation: Webfeet
-  - name: Dampiers in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20250924"
-    start_date: 2025-09-24
-    end_date: 2025-09-24
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Dampiers
-    callers:
-      - Peter Dunkley
-    organisation: Webfeet
-  - name: Catsfield Steamers in Bodle Street Green
-    links:
-      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
-    start_date: 2025-09-26
-    end_date: 2025-09-26
-    country: UK
-    city: Bodle Street Green
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Catsfield Steamers
-    organisation: Webfeet
-  - name: Willpower in Bristol
+  - name: WillPower in Bristol
     links:
       - "https://bristolcontra.wordpress.com/"
-      - "http://mister.red/dance/bristol.htm#D.1@.20250926"
     start_date: 2025-09-26
     end_date: 2025-09-26
     country: UK
@@ -497,84 +436,6 @@ events:
     social: true
     bands:
       - WillPower
-      - Willpower
-    callers:
-      - Sam Tetley Smith
-    organisation: Webfeet
-  - name: "Da Hootin' Whoopin' Dobunni! in Brimscombe"
-    links:
-      - "https://eceilidh.org.uk/cps/gigs/dahootinwhoopindobunni-3c7001.php"
-      - "https://stroud.dance/ceilidh/cps/gigs/dahootinwhoopindobunni-5485bd.php"
-    start_date: 2025-09-27
-    end_date: 2025-09-27
-    country: UK
-    city: Brimscombe
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Da Hootin' Whoopin' Dobunni!"
-    organisation: Webfeet
-  - name: Stepcote Hill in Exeter
-    links:
-      - "http://mister.red/dance/exeter.htm#D.YB.20250927"
-    start_date: 2025-09-27
-    end_date: 2025-09-27
-    country: UK
-    city: Exeter
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Stepcote Hill
-    organisation: Webfeet
-  - name: Venn in Horsley
-    links:
-      - "https://balfolkstroud.uk/cps/gigs/venn-75fa10.php"
-      - "http://mister.red/dance/horsley.htm#D.TA.20250927"
-    start_date: 2025-09-27
-    end_date: 2025-09-27
-    country: UK
-    city: Horsley
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Venn
-    organisation: Webfeet
-  - name: That Shallot in Huntley
-    links:
-      - "http://mister.red/dance/mitchedean.htm#D.A5.20250927"
-    start_date: 2025-09-27
-    end_date: 2025-09-27
-    country: UK
-    city: Huntley
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - That Shallot
-    callers:
-      - Andy Scarf
-    organisation: Webfeet
-  - name: Stepcote Hill in Kennford
-    links:
-      - "http://devonfolk.org/events-diary/"
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2025-09-27
-    end_date: 2025-09-27
-    country: UK
-    city: Kennford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Stepcote Hill
     organisation: Webfeet
   - name: Contrary Faeries in Leeds
     links:
@@ -591,20 +452,6 @@ events:
       - Contrary Faeries
     callers:
       - Charlie Turner
-    organisation: Webfeet
-  - name: live music in Oxford
-    links:
-      - "http://mister.red/dance/oxford.htm#D.AS.20250928"
-    start_date: 2025-09-28
-    end_date: 2025-09-28
-    country: UK
-    city: Oxford
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - live music
     organisation: Webfeet
   - name: live music in Bath
     links:
@@ -668,20 +515,6 @@ events:
     callers:
       - Nicola Scott.
     organisation: Webfeet
-  - name: Naragonia in Todmorden
-    links:
-      - "https://www.bandsintown.com/e/106749025-naragonia-at-todmorden-town-hall"
-    start_date: 2025-10-03
-    end_date: 2025-10-03
-    country: UK
-    city: Todmorden
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Naragonia
-    organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
       - "http://mister.red/dance/cheltenham.htm#D.DA.20251004"
@@ -698,7 +531,7 @@ events:
     organisation: Webfeet
   - name: live music in Chepstow
     links:
-      - "http://mister.red/dance/chepstow.htm#D.A0.20251004"
+      - "http://mister.red/dance/chepstow.htm#D.AZ.20251004"
     start_date: 2025-10-04
     end_date: 2025-10-04
     country: UK
@@ -729,7 +562,7 @@ events:
     organisation: Webfeet
   - name: Whiffeldy in Leominster
     links:
-      - "http://mister.red/dance/leominster.htm#D.A2.20251004"
+      - "http://mister.red/dance/leominster.htm#D.A1.20251004"
     start_date: 2025-10-04
     end_date: 2025-10-04
     country: UK
@@ -756,6 +589,22 @@ events:
     social: true
     bands:
       - Sugar Loaf Band
+    organisation: Webfeet
+  - name: Live music in Stroud
+    links:
+      - "http://mister.red/dance/stroud.htm#D.A6.20251004"
+    start_date: 2025-10-04
+    end_date: 2025-10-04
+    country: UK
+    city: Stroud
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Live music
+    callers:
+      - Hannah Moore
     organisation: Webfeet
   - name: "sessionista in Bath French, Bath"
     links:
@@ -861,6 +710,22 @@ events:
     social: true
     bands:
       - Syzewell Gap
+    organisation: Webfeet
+  - name: The Barber Band in Derby
+    links:
+      - "https://eceilidh.org.uk/cps/gigs/thebarberband-0034d7.php"
+    start_date: 2025-10-11
+    end_date: 2025-10-11
+    country: UK
+    city: Derby
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Barber Band
+    callers:
+      - Phil Preen
     organisation: Webfeet
   - name: Dave Shepherd & Anna Pack in Exeter
     links:
@@ -1080,7 +945,7 @@ events:
     organisation: Webfeet
   - name: WillPower in Morganstown
     links:
-      - "http://mister.red/dance/cardiff.htm#D.AU.20251018"
+      - "http://mister.red/dance/cardiff.htm#D.AT.20251018"
       - "https://eceilidh.org.uk/cps/gigs/willpower-e145ab.php"
     start_date: 2025-10-18
     end_date: 2025-10-18
@@ -1128,7 +993,7 @@ events:
     organisation: Webfeet
   - name: Helen Gentile & Lewis Wood in Oxford
     links:
-      - "http://mister.red/dance/oxford.htm#D.AX.20251019"
+      - "http://mister.red/dance/oxford.htm#D.AW.20251019"
     start_date: 2025-10-19
     end_date: 2025-10-19
     country: UK
@@ -1190,7 +1055,7 @@ events:
     organisation: Webfeet
   - name: Blowzabella in Oxford
     links:
-      - "http://mister.red/dance/oxford.htm#D.AY.20251024"
+      - "http://mister.red/dance/oxford.htm#D.AX.20251024"
     start_date: 2025-10-24
     end_date: 2025-10-24
     country: UK
@@ -1220,7 +1085,7 @@ events:
     organisation: Webfeet
   - name: Spinach for Norman in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YC.20251025"
+      - "http://mister.red/dance/exeter.htm#D.YB.20251025"
     start_date: 2025-10-25
     end_date: 2025-10-25
     country: UK
@@ -1250,7 +1115,7 @@ events:
     links:
       - "https://eceilidh.org.uk/cps/gigs/crowdykit-94e1b3.php"
       - "https://stroud.dance/ceilidh/cps/gigs/crowdykit-090e6b.php"
-      - "http://mister.red/dance/stroud.htm#D.A3.20251025"
+      - "http://mister.red/dance/stroud.htm#D.A2.20251025"
     start_date: 2025-10-25
     end_date: 2025-10-25
     country: UK
@@ -1632,6 +1497,22 @@ events:
     callers:
       - Martin Clarke
     organisation: Webfeet
+  - name: Bristol Spelmanslag in Bristol
+    links:
+      - "http://mister.red/dance/bristol.htm#D.A5.20251123"
+    start_date: 2025-11-23
+    end_date: 2025-11-23
+    country: UK
+    city: Bristol
+    styles:
+      - scandi
+    workshop: false
+    social: true
+    bands:
+      - Bristol Spelmanslag
+    callers:
+      - Liz
+    organisation: Webfeet
   - name: by Brian McMinn & Mike Green in Frenchay
     links:
       - "http://mister.red/dance/bristol.htm#D.AC.20251126"
@@ -1698,7 +1579,7 @@ events:
     organisation: Webfeet
   - name: Tight Squeeze in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YD.20251129"
+      - "http://mister.red/dance/exeter.htm#D.YC.20251129"
     start_date: 2025-11-29
     end_date: 2025-11-29
     country: UK
@@ -1936,7 +1817,7 @@ events:
   - name: Venn in Horsley
     links:
       - "https://balfolkstroud.uk/cps/gigs/venn-8c1451.php"
-      - "http://mister.red/dance/horsley.htm#D.TB.20251213"
+      - "http://mister.red/dance/horsley.htm#D.TA.20251213"
     start_date: 2025-12-13
     end_date: 2025-12-13
     country: UK
@@ -2025,7 +1906,7 @@ events:
     organisation: Webfeet
   - name: Twixmas Ceilidh with Barnstormers in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YE.20251227"
+      - "http://mister.red/dance/exeter.htm#D.YD.20251227"
     start_date: 2025-12-27
     end_date: 2025-12-27
     country: UK
@@ -2180,7 +2061,7 @@ events:
     organisation: Webfeet
   - name: Dartmoor Pixies in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YF.20260131"
+      - "http://mister.red/dance/exeter.htm#D.YE.20260131"
     start_date: 2026-01-31
     end_date: 2026-01-31
     country: UK
@@ -2208,7 +2089,7 @@ events:
     organisation: Webfeet
   - name: Bristol Ceilidh Quartet in Melksham
     links:
-      - "http://mister.red/dance/melksham.htm#D.A4.20260131"
+      - "http://mister.red/dance/melksham.htm#D.A3.20260131"
     start_date: 2026-01-31
     end_date: 2026-01-31
     country: UK
@@ -2235,6 +2116,20 @@ events:
     social: true
     bands:
       - Shivelight
+    organisation: Webfeet
+  - name: Striding Edge in Borrowdale
+    links:
+      - "http://www.striding-edge.org/diary/"
+    start_date: 2026-02-13
+    end_date: 2026-02-13
+    country: UK
+    city: Borrowdale
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Striding Edge
     organisation: Webfeet
   - name: "Blackbeard's Tea Party in Newcastle upon Tyne"
     links:
@@ -2298,7 +2193,7 @@ events:
     organisation: Webfeet
   - name: Bearded Dragons in Morganstown
     links:
-      - "http://mister.red/dance/cardiff.htm#D.AV.20260221"
+      - "http://mister.red/dance/cardiff.htm#D.AU.20260221"
     start_date: 2026-02-21
     end_date: 2026-02-21
     country: UK
@@ -2343,7 +2238,7 @@ events:
     organisation: Webfeet
   - name: Flash Co in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YG.20260228"
+      - "http://mister.red/dance/exeter.htm#D.YF.20260228"
     start_date: 2026-02-28
     end_date: 2026-02-28
     country: UK
@@ -2431,7 +2326,7 @@ events:
     organisation: Webfeet
   - name: Phoenix in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YH.20260328"
+      - "http://mister.red/dance/exeter.htm#D.YG.20260328"
     start_date: 2026-03-28
     end_date: 2026-03-28
     country: UK
@@ -2492,7 +2387,7 @@ events:
     organisation: Webfeet
   - name: Skermish in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YI.20260425"
+      - "http://mister.red/dance/exeter.htm#D.YH.20260425"
     start_date: 2026-04-25
     end_date: 2026-04-25
     country: UK
@@ -2517,6 +2412,23 @@ events:
     social: true
     bands:
       - Skermish
+    organisation: Webfeet
+  - name: Panjandrum in Stroud
+    links:
+      - "https://eceilidh.org.uk/cps/gigs/panjandrum-0fc236.php"
+      - "https://stroud.dance/ceilidh/cps/gigs/panjandrum-11774f.php"
+    start_date: 2026-04-25
+    end_date: 2026-04-25
+    country: UK
+    city: Stroud
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Panjandrum
+    callers:
+      - Gordon Potts
     organisation: Webfeet
   - name: Bosun Higgs in Upton upon Severn
     details: "[Cancelled]"
@@ -2583,7 +2495,7 @@ events:
     organisation: Webfeet
   - name: Red Shed in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YJ.20260530"
+      - "http://mister.red/dance/exeter.htm#D.YI.20260530"
     start_date: 2026-05-30
     end_date: 2026-05-30
     country: UK
@@ -2641,7 +2553,7 @@ events:
     organisation: Webfeet
   - name: Amber Fire in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YK.20260627"
+      - "http://mister.red/dance/exeter.htm#D.YJ.20260627"
     start_date: 2026-06-27
     end_date: 2026-06-27
     country: UK
