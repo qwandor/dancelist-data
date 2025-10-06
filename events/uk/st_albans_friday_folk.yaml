@@ -1,107 +1,105 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
   - name: Saturday Special Contra Dance organised by Friday Folk
+    details: "Dancing for everyone. Come on your own or with a partner. Beginners welcome.\n"
     links:
       - "https://fridayfolk.org.uk/"
       - "http://www.contrasaurus.com/diary.html"
-    start: 2022-05-21T19:30:00+01:00
-    end: 2022-05-21T22:30:00+01:00
+    start: "2022-05-21T19:30:00+01:00"
+    end: "2022-05-21T22:30:00+01:00"
     country: UK
     city: St Albans
-    styles: [contra]
-    social: true
+    styles:
+      - contra
     workshop: false
+    social: true
     bands:
       - Contrasaurus
     callers:
       - Geoff Cubitt
     price: £10
-    details: >
-      Dancing for everyone. Come on your own or with a partner. Beginners
-      welcome.
     organisation: Friday Folk
-
   - name: Friday Folk Saturday Special
     links:
       - "https://fridayfolk.org.uk/"
-    start: 2022-11-26T19:30:00+00:00
-    end: 2022-11-26T22:30:00+00:00
+    start: "2022-11-26T19:30:00+00:00"
+    end: "2022-11-26T22:30:00+00:00"
     country: UK
     city: St Albans
-    styles: [contra]
-    social: true
+    styles:
+      - contra
     workshop: false
+    social: true
     bands:
       - Momentum
     callers:
       - Bob Morgan
     price: £10
     organisation: Friday Folk
-
   - name: Friday Folk Saturday Special
     links:
       - "https://fridayfolk.org.uk/"
-    start: 2023-06-24T19:30:00+01:00
-    end: 2023-06-24T22:30:00+01:00
+    start: "2023-06-24T19:30:00+01:00"
+    end: "2023-06-24T22:30:00+01:00"
     country: UK
     city: St Albans
-    styles: [contra]
-    social: true
+    styles:
+      - contra
     workshop: false
+    social: true
     bands:
       - Box of Frogs
     callers:
       - Louise Siddons
     price: £10
     organisation: Friday Folk
-
   - name: Friday Folk Saturday Special
     links:
       - "https://fridayfolk.org.uk/"
-    start: 2023-11-25T19:30:00+00:00
-    end: 2023-11-25T22:30:00+00:00
+    start: "2023-11-25T19:30:00+00:00"
+    end: "2023-11-25T22:30:00+00:00"
     country: UK
     city: St Albans
     styles:
       - ecd
+    workshop: false
+    social: true
     bands:
       - Folkus Pocus
     callers:
       - Liam Binley
-    social: true
-    workshop: false
     price: £12
     organisation: Friday Folk
   - name: Friday Folk Saturday Special
     links:
       - "https://fridayfolk.org.uk/"
-    start: 2024-04-20T19:30:00+00:00
-    end: 2024-04-20T22:30:00+00:00
+    start: "2024-04-20T19:30:00+00:00"
+    end: "2024-04-20T22:30:00+00:00"
     country: UK
     city: St Albans
     styles:
       - contra
       - ecd
+    workshop: false
+    social: true
     bands:
       - Nozzy
     callers:
       - Ivan Aitken
-    social: true
-    workshop: false
     price: £12
     organisation: Friday Folk
   - name: Friday Folk Saturday Special
     links:
       - "https://fridayfolk.org.uk/"
-    start: 2024-11-23T19:30:00+00:00
-    end: 2024-11-23T22:30:00+00:00
+    start: "2024-11-23T19:30:00+00:00"
+    end: "2024-11-23T22:30:00+00:00"
     country: UK
     city: St Albans
     styles:
       - contra
       - ecd
-    social: true
     workshop: false
+    social: true
     bands:
       - Momentum
     callers:
@@ -111,15 +109,15 @@ events:
   - name: Friday Folk Saturday Special
     links:
       - "https://fridayfolk.org.uk/"
-    start: 2025-04-26T19:30:00+00:00
-    end: 2025-04-26T22:30:00+00:00
+    start: "2025-04-26T19:30:00+00:00"
+    end: "2025-04-26T22:30:00+00:00"
     country: UK
     city: St Albans
     styles:
       - contra
       - ecd
-    social: true
     workshop: false
+    social: true
     bands:
       - Portland Duo
     callers:
@@ -129,26 +127,30 @@ events:
   - name: Friday Folk Saturday Special
     links:
       - "https://fridayfolk.org.uk/"
-    start: 2025-11-22T19:30:00+00:00
-    end: 2025-11-22T22:30:00+00:00
+    start: "2025-11-22T19:30:00+00:00"
+    end: "2025-11-22T22:30:00+00:00"
     country: UK
     city: St Albans
     styles:
-      - ecd
-    social: true
+      - contra
     workshop: false
+    social: true
+    bands:
+      - Bearded Dragons
+    callers:
+      - Charlotte Rich-Griffin
     price: £12
     organisation: Friday Folk
   - name: Friday Folk Saturday Special
     links:
       - "https://fridayfolk.org.uk/"
-    start: 2026-11-25T19:30:00+00:00
-    end: 2026-11-25T22:30:00+00:00
+    start: "2026-11-25T19:30:00+00:00"
+    end: "2026-11-25T22:30:00+00:00"
     country: UK
     city: St Albans
     styles:
       - ecd
-    social: true
     workshop: false
+    social: true
     price: £12
     organisation: Friday Folk
