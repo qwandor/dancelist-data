@@ -3457,7 +3457,7 @@ events:
     price: free
     organisation: Skandia Folkdance Society
   - name: Skandia BALL begins at 6 pm
-    details: "<u></u><u></u><span><b>SAVE THE DATE! </b></span><br><span><b> </b></span><br>Doors open at 6. Potluck dinner at 6:15, Dancing begins at 7:30 pm<br>No dance class <br><span><b> </b></span><br><span><b>Skandia members, $10; nonmembers, $15; kids, free  </b></span><br><br><br><u></u><br><u></u><u></u>"
+    details: "<u></u><u></u><span><b>SAVE THE DATE! </b></span><br><span><b> </b></span><br>Doors open at 6. Potluck dinner at 6:15, Dancing begins at 7:30 pm<br><br>Music by: <br>Hale Bill & the Bopps<br>SUS<br>Allspel, led by Peter Michaelsen<br>Irene Myers and John Peekstock <br><span><b> </b></span><br><span><b>Skandia members, $10; nonmembers, $15; kids, free  </b></span><br><br><br><u></u><br><u></u><u></u>"
     links:
       - "https://skandia-folkdance.org/"
     start: "2025-11-07T18:00:00-08:00"
@@ -3467,8 +3467,10 @@ events:
     city: Lynnwood
     styles:
       - scandi
-    workshop: true
+    workshop: false
     social: false
+    bands:
+      - Hale Bill & the Bopps
     price: $10-$15
     organisation: Skandia Folkdance Society
   - name: Scandinavian dance beginner class
