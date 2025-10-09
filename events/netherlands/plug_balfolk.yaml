@@ -1386,7 +1386,6 @@ events:
     bands:
       - Adriano Sangineto
       - Duo Baftig
-      - TriBoT
     price: €16-€18
     organisation: Balfolk Amsterdam
   - name: Balfolk Dansavond
@@ -1574,14 +1573,20 @@ events:
       - Musac
     price: €5
     organisation: Musac
-  - name: Dansavond met livemuziek van Geronimo
+  - name: Dansavond met livemuziek
     details: "Ook dit jaar is er weer een we een verjaardags-combi-bal in november bij Balfolk Zeist, want Henri en Max, blijken op dezelfde dag jarig te zijn! Het is op 7 november misschien niet hun daadwerkelijke verjaardag, maar ze vieren het dan wel. Het gaat zeker een feest worden met niemand minder dan Geronimo!\r\n\r\nWij, de organisatie van Balfolk Zeist, hebben veel zin in deze dansavond, maar willen ons ook goed voorbereiden op eventuele drukte. Daarom vragen wij je of je een plek wil reserveren. Dat doe je hier: https://forms.gle/9u7aJzVmeqGnQJWj8"
     links:
       - "https://www.plug.events/event/dansavond-met-livemuziek-van-geronimo606"
+      - "https://www.facebook.com/events/815040297585339/"
     start: "2025-11-07T19:30:00+01:00"
     end: "2025-11-07T22:30:00+01:00"
     country: Netherlands
     city: Zeist
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
       - Geronimo
     price: €5
     organisation: Balfolk Zeist
@@ -1899,10 +1904,10 @@ events:
     styles:
       - balfolk
     workshop: true
-    social: false
+    social: true
     bands:
       - Celtic Constellation
-      - Constellation
+    price: €15
     organisation: Balfolk Groningen
   - name: Balfolk Dansavond
     details: "De discoavonden van Balfolk Amsterdam zijn de ideale manier om op een laagdrempelige en ontspannen manier Balfolk te oefenen. Het is altijd super gezellig, dus kom ook langs!"
