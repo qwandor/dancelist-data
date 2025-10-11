@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Contra Dance
+    links:
+      - "http://christchurch.contradance.nz/"
+    start: "2025-10-11T19:00:00+13:00"
+    end: "2025-10-11T21:30:00+13:00"
+    country: New Zealand
+    city: Christchurch
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Entrada
+    callers:
+      - Bill
+    price: $15
+    organisation: Christchurch Contra Dance
