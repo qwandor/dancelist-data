@@ -45478,16 +45478,22 @@ events:
   - name: Lancaster Monthly Contra Dance
     details: "Join us on the third Saturday of each month for a community contra dance! Fall, winter and spring at the church; summer in the park pavilion."
     links:
+      - "https://lancastercontra.org/"
       - "https://cdss.org/event/lancaster-pa-monthly-contra-dance/2025-10-18/"
-    start: "2025-10-18T19:00:00-04:00"
+    start: "2025-10-18T18:30:00-04:00"
     end: "2025-10-18T22:00:00-04:00"
     country: USA
     state: PA
     city: Lancaster
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Contra Rebels
+    callers:
+      - Greg Frock
+    price: $12-$20
     organisation: Lancaster Contra Dance
   - name: Blacksburg Contra Dance
     details: "Join us with The McKenzies playing and Stephanie Marie calling. Lessons at 7, dance at 7:30. $12 ($10 for students)."
@@ -45665,17 +45671,22 @@ events:
   - name: LITMA Contradance
     details: "LITMA Contradances are usually held on the 3rd Sunday of the month from 2:00-5:00PM from September through June at the Brush Barn, 211 E Main St, Smithtown, Long Island. \nBasic instruction at 1:45 PM \n$15 General admission\n$10 LITMA Members\nStudents Half Price\nChildren under 16 FREE with paid Adult"
     links:
+      - "https://litma.org/"
       - "https://cdss.org/event/litma-contradance/2025-10-19/"
-    start: "2025-10-19T14:00:00-04:00"
+    start: "2025-10-19T13:45:00-04:00"
     end: "2025-10-19T17:00:00-04:00"
     country: USA
     state: NY
     city: Smithtown
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
-    price: $10-$15
+    bands:
+      - LITMA Contra Band
+    callers:
+      - Jim Gregory
+    price: $5-$15
     organisation: Long Island Traditional Music Association
   - name: Old Tyme Contra & Community Dance
     details: "Third Thursday of every month:* lesson at 2:30, dance 3-5pm.\nLive band and dance caller for contras, squares, round, and fun crazy family dances, too.\nBeginners are welcome! No need to bring a partner, but you are welcome to do so.\nChildren over age 8 who are game to participate may also attend.\nBring a closed water container and a snack if you choose.\nSmooth-soled shoes work best on the Library’s wonderful wood floor.\nPlease do not wear perfume or scents to the dances.\n\nSuggested donation: $10 adults; kids under 14 free. \n* Note: Our venue changes often. Please check our Facebook page for updates."
@@ -46856,6 +46867,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: Louisville English Country Dancers
   - name: English Country Dance
     details: "Twice-monthly English Country Dance session in Colorado Springs, CO. Each dance will be taught and then practiced. Great social atmosphere and fun!"
@@ -46876,7 +46888,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance-2/2025-10-26/"
-    start: "2025-10-26T16:00:00-04:00"
+    start: "2025-10-26T15:30:00-04:00"
     end: "2025-10-26T18:15:00-04:00"
     country: USA
     state: NC
@@ -46885,6 +46897,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: free
     organisation: CDSS
   - name: 4th Sunday Albuquerque Contra Dance
     details: "No Boo Camp this year. But we can have a dress up dance! Let’s go to Tomasitas for dinner afterwards and scare them (or make them laugh). \nEveryone is welcome at contra dancing; no partner required. For more details about contra or the FolkMADS organization, see our website at folkmads.org \nAll dances are Pay What You Want – suggested $10/person, $10-20/family.  \nCalling: Jake Turin \nBand: Cheap Shots"
@@ -46900,6 +46913,10 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Cheap Shots
+    callers:
+      - Jake Turin
     price: $10
     organisation: New Mexico Folk Music &amp%3B Dance Society
   - name: English Country Dance at Tapestry Folkdance Center
@@ -46907,7 +46924,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2025-10-26/"
-    start: "2025-10-26T19:00:00-05:00"
+    start: "2025-10-26T18:30:00-05:00"
     end: "2025-10-26T21:00:00-05:00"
     country: USA
     state: MN
@@ -46917,7 +46934,9 @@ events:
     workshop: false
     social: true
     bands:
-      - Anytime English Players
+      - Curtsy Chord
+    callers:
+      - Midge Olsen
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: "Atlanta Dance Weekend: Contra Fantasia"
