@@ -3728,9 +3728,10 @@ events:
   - name: Bonjour-Hey
     links:
       - "https://www.contramontreal.org/en/bonjour-hey"
-    start_date: 2026-04-17
-    end_date: 2026-04-19
-    country: QC
+    start: "2026-04-17T19:00:00-04:00"
+    end: "2026-04-19T16:00:00-04:00"
+    country: Canada
+    state: QC
     city: Montreal
     styles:
       - contra
@@ -3741,6 +3742,7 @@ events:
     callers:
       - Bev Bernbaum
       - Luke Donforth
+    price: $70-$165
     organisation: TryContra
   - name: Portland Raindance Weekend
     links:
