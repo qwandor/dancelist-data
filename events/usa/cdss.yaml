@@ -47565,6 +47565,7 @@ events:
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-10-31/"
+      - "https://www.eventbrite.com/e/contra-dance-with-gaye-fifer-calling-to-wild-wombats-of-the-chesapeake-tickets-1629219672899"
     start: "2025-10-31T19:30:00-04:00"
     end: "2025-10-31T23:00:00-04:00"
     country: USA
@@ -47574,6 +47575,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Wild Wombats of the Chesapeake
+    callers:
+      - Gaye Fifer
     price: $15
     organisation: Friday Night Dancers
   - name: Friday Contra Dance
@@ -48615,20 +48620,23 @@ events:
     social: true
     price: $10-$20
     organisation: PATMAD
-  - name: Berkeley Contra and English Dances
+  - name: Berkeley Contra Dance
     details: "BACDS (Bay Area Country Dance Society) presents dances every Thursday night (except holidays) at \nChrist Church Berkeley, 2138 Cedar St, Berkeley, CA. \nContra dancing happens on the 1st, 3rd, & 5th Thursday of the month, from 8pm to 10:30pm. \nEnglish Country Dancing happens on the 2nd & 4th Thursday of the month, from 7:45pm to 10pm. \nBoth are are preceded by beginners’ lessons. \nIn addition, there is an experienced English dance on the 4th Saturday of the month from 7:30pm to 10pm at the same location. \nDetails at our website. \nWe also have Facebook groups: \n\nBerkeley Contra Dance\nBerkeley English Country Dance"
     links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
       - "https://cdss.org/event/berkeley-ca-contra-and-english-dances/2025-11-06/"
-    start: "2025-11-06T20:00:00-08:00"
-    end: "2025-11-06T22:30:00-08:00"
+    start: "2025-11-05T20:00:00-08:00"
+    end: "2025-11-05T22:30:00-08:00"
     country: USA
     state: CA
     city: Berkeley
     styles:
       - contra
-      - ecd
     workshop: true
     social: true
+    callers:
+      - Isaac Banner
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: Flying Shoes Community Dance & Contra Dance
     details: "Everyone is welcome at this two-part monthly dance series. From neophytes to lifelong participants, and so many other demographic variations, we all collaborate to make this community-building participatory arts program a joyful success. See you at the dance! \nSchedule:\n\n6:00 pm ~ Musicians Warmup ~ Tunes on the All Comers Band page\n6:30-7:30 pm ~ Community Dance ~ Lisa Newcomb & Chrissy Fowler calling with the All Comers Band, led by Benjamin Foss & Willy Clemetson ~ Community Dance admission is $1 kids, $2 adults\n8:00-11:00 pm ~ Contra Dance ~ We use the terms lark and robin to identify the dance roles. (More on roles here.) ~ Contra Dance Admission is $20 – $15 (a sliding scale lets us cover expenses and compensate performers; please pay as much as you can!)\n\nLocation: First Church in Belfast UCC, 8 Court St, Belfast (enter via Spring St) \nPolicies:  See Community Care Policy and First Friday FAQ ~ BFS programs are chem free (please be sober) ~ Stay home if you don’t feel well \nSponsors: Artisan Builders, Belfast Community Co-op, Colburn Shoe Store, Daisychain Farm, First National Bank, Grace Chiropractic, The Green Store, Searsport Shores Oceanfront Camping, Thomas Fowler PE, Trillium Caterers, and Worth Real Estate"
@@ -48645,11 +48653,12 @@ events:
     workshop: false
     social: true
     bands:
-      - Trillium
+      - All Comers Band
+      - Cojiro
     callers:
       - Chrissy Fowler
-      - Lisa Newcomb
-    price: $1-$20
+      - Qwill Duvall
+    price: $15-$25
     organisation: Belfast Flying Shoes
   - name: English Country Dancing
     details: "We invite you to dance with us on the first Friday of each month at Massanutten Presbyterian Church. It’s free and open to the public; most appropriate for people 10 years old and up; no experience needed; no partner needed. Wear casual clothes and comfortable shoes. \nTom Mack is the caller and we dance to recorded music enjoying dances from the 1700’s and 1800’s: lines, circles and squares. \nHealth issues: If you feel sick, stay home."
@@ -48688,6 +48697,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Orlando Contra Dance
     details: "Welcome to the Orlando Contra Dance! We feature high-tempo, gender-neutral dancing. We are Florida’s only gender-neutral contra series. Dancing is open to everyone and free for students and returning beginners (2nd dance is free)! \nWe usually dance on the first and third Friday of the month. Holidays, semester breaks, and regional events happen, so check the schedule before going!"
@@ -48701,8 +48711,13 @@ events:
     city: Winter Park
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - The Little Mercies
+    callers:
+      - Ang DeCarlis
+    price: $15
     organisation: Orlando Contra Dance
   - name: ContraATL Weekly Dance
     details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
@@ -48718,6 +48733,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Dance in the Desert
     details: "A weekend of contra dancing with lots of jamming, featuring music by The Faux Paws and The Free Raisins. Callers are Koren Wake and Steve Zakon-Anderson."
@@ -48745,7 +48761,8 @@ events:
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-11-07/"
-    start: "2025-11-07T20:00:00-05:00"
+      - "https://www.eventbrite.com/e/contra-dance-with-will-mentor-calling-to-stomp-rocket-tickets-1635279457879"
+    start: "2025-11-07T19:30:00-05:00"
     end: "2025-11-07T23:00:00-05:00"
     country: USA
     state: MD
@@ -48754,12 +48771,18 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Stomp Rocket
+    callers:
+      - Will Mentor
+    price: $15
     organisation: Friday Night Dancers
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Norman, first Fridays during the school year. Check our Facebook or our website for more details!"
     links:
       - "https://scissortail.org/calendar/"
       - "https://cdss.org/event/scissortail-contra-dance-in-norman-ok/2025-11-07/"
+      - "https://www.facebook.com/events/620125564472097/"
     start: "2025-11-07T19:00:00-06:00"
     end: "2025-11-07T22:00:00-06:00"
     country: USA
@@ -48769,6 +48792,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$25
     organisation: Scissortail Traditional Dance Society
   - name: Friday Contra Dance
     details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$7 – $25, pay what you can."
@@ -48789,6 +48813,8 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6368"
+      - "https://portlandecdball.info/schedule"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2025-11-07/"
     start: "2025-11-07T19:30:00-08:00"
     end: "2025-11-07T22:30:00-08:00"
@@ -48799,7 +48825,10 @@ events:
       - ecd
     workshop: false
     social: true
-    price: $7-$20
+    callers:
+      - Dilip Sequeira
+      - Rachel Pusey
+    price: $10-$20
     organisation: Portland Country Dance Community
   - name: Dover Monthly English Country Dance
     details: "Monthly English country dance with live music.  Newcomers are always welcome, and each dance is taught with a walk-through before it is danced. \nDress is casual (“regular” clothes) except for special events (Spring and Holiday dances), when attendees may dress in formal/cocktail or 18th century attire. \nAnnual membership for the January – December season is $10. Membership admission for regular monthly dances is $7. \nRegular monthly dance admission for non-members is $10. \nAdmission price may change for special dances. \nTimes and locations may be subject to change. \nLocation: Ehinger Hall, Dover DE\nEhinger Hall (#14 Kings Highway) is located directly at the intersection of Kent Avenue and Division Street / Route 8 For those using GPS, the intersection of Kent Avenue and Division Street works best. Best parking will likely be found on Kent Avenue."
@@ -48831,6 +48860,9 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Kris Rosar
+    price: $7-$35
     organisation: Toronto Contra Dance
   - name: CDK Contra & Square Dance
     details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \nSuggested donation $5-$20"
@@ -48862,6 +48894,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5-$15
     organisation: Syracuse Country Dancers
   - name: Valley Contra Dance
     details: "We dance twice a month, 2nd and 4th Saturdays.\nDance instruction at 7:00 PM\nNo partner or experience needed!\nThe moves in the dances are called by a caller, and the music is always live.\nParking is available right next to the church or on the street. Please enter on Prospect St.\nPlease carry in clean soft-soled shoes for dancing, to protect the floor (and our reputation). Sneakers are usually fine. FREE large socks with treads are provided to cover your street shoes if necessary.\nSliding scale—pay what you wish. Suggested: $8 (student), $15 (friend of VCDS), $20+ (supporter). Children 12 and under accompanied by a paying adult FREE.\nSpecial Pricing for Double Dances"
@@ -48893,6 +48926,8 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Charlotte Critten
     price: $5-$10
     organisation: CDSS
   - name: Scissortail Contra Dance
@@ -48909,6 +48944,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: 3rd Saturday Contra Dance in Austin
     details: "This monthly contra dance meets most 3rd Saturdays at Go Dance Studio, in Northcross Mall Plaza near First Watch and Guitar Center (NE corner).  \nNo partners necessary. Beginners welcome. All dances taught and called. Dance either role—or both. Newer dancers should arrive early for instructions on the basics. \nSuggested admission $10 sliding scale. Tips for the band are appreciated. You can see the band and caller on the schedule on our website. \nThis is a fragrance-free event. Sober event. Family-friendly. LGBTQ+. Everyone is welcome!"
@@ -48931,7 +48967,7 @@ events:
     links:
       - "https://phxtmd.org/"
       - "https://cdss.org/event/second-saturday-contra/2025-11-08/"
-    start: "2025-11-08T19:00:00-07:00"
+    start: "2025-11-08T18:30:00-07:00"
     end: "2025-11-08T22:00:00-07:00"
     country: USA
     state: AZ
@@ -48956,22 +48992,23 @@ events:
       - contra
     workshop: true
     social: true
+    price: $10
     organisation: Central Coast Country Dance Society
   - name: Sacramento Contra Dance
     details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $12 for adults; $8 for college students with ID; $5 for dancers under 18; $25 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
     links:
       - "https://sactocds.wordpress.com/"
       - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays/2025-11-08/"
-    start: "2025-11-08T19:00:00-08:00"
+    start: "2025-11-08T18:30:00-08:00"
     end: "2025-11-08T22:00:00-08:00"
     country: USA
     state: CA
     city: Sacramento
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
-    price: $5-$25
+    price: $5-$15
     organisation: Sacramento Country Dance Society
   - name: 2nd Saturdays Contra Dance
     details: "7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSliding scale $6-$20. \nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."
