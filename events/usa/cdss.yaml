@@ -47082,6 +47082,8 @@ events:
       - ecd
     workshop: true
     social: false
+    callers:
+      - Ed Wilkinson
     price: free
     organisation: Nashville Country Dancers
   - name: Monday Contra Dance
@@ -49330,7 +49332,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance-2/2025-11-09/"
-    start: "2025-11-09T16:00:00-05:00"
+    start: "2025-11-09T15:30:00-05:00"
     end: "2025-11-09T18:15:00-05:00"
     country: USA
     state: NC
@@ -49339,6 +49341,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: free
     organisation: CDSS
   - name: Nashville Second Sunday English Country Dances
     details: "Sunday English Dances to Live Music, once a month from 4pm – 6pm\nThis dance is open to beginning and experienced dancers alike.\nCost: $5-20 sliding scale, pay what you can."
@@ -49354,7 +49357,11 @@ events:
       - ecd
     workshop: false
     social: true
-    price: $5
+    bands:
+      - Mountain Laurels
+    callers:
+      - Susan Kevra
+    price: $5-$20
     organisation: Nashville Country Dancers
   - name: Culver City ECD
     details: "English Country Dance with live musicians in the afternoon on the Westside of Los Angeles. No partner required. Masks optional. Preregistration requested. \n$20 (sliding scale)"
@@ -49418,14 +49425,19 @@ events:
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - ArcoTones
+    callers:
+      - Georges Augustin
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
     links:
       - "https://cdss.org/event/gainesville-florida-english-country-dance/2025-11-10/"
-    start: "2025-11-10T18:30:00-05:00"
+    start: "2025-11-10T18:10:00-05:00"
     end: "2025-11-10T20:30:00-05:00"
     country: USA
     state: FL
@@ -49436,7 +49448,7 @@ events:
     social: true
     bands:
       - Hoggetowne Fancy
-    price: $5
+    price: $10
     organisation: Gainesville English Country Dance
   - name: Nashville Monday Night English Country Dance Class
     details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
@@ -49716,11 +49728,12 @@ events:
       - Jenna Simpson
     price: $125
     organisation: Nashville Country Dancers
-  - name: Call of the Loon 13th Annual Contra Dance Weekend
+  - name: Call of the Loon
     details: "April 10, 11 & 12, 2026 | Tapestry Folkdance Center, Minneapolis, MN \n\n\n\n\n\n\n\nFeaturing callers Gaye Fifer and Beau Farmer with live music by Toss the Possum & Toot, Squeeze & Co.!\nLearn more or register at our website. \n\n\n\nRegistration Fee:\n$125 (before Jan 1)\n$135 (Jan. 1 – Mar 1)\nLate Registration $145 (after Mar 1) \n$75 Student/Young Adult (before Mar 1)\n$85 Student/Young Adult (after Mar 1) \nFriday \n6:45 pm   Registration opens \n7:30–11:30 pm  Welcome dance\n11:30–12:30 am    Campfire gathering  \n\n\n\n\n\n\n\n\nSaturday \n9 am   Coffee and registration \n9:30–10:30 am  Workshop\n10:45 am–12:30 pm   Contra dance\n12:30–2 pm   Lunch break & caller roundtable \n(sandwiches for those who ordered with registration) \n2-3:30 pm Contra dance/Workshop\n3:45-5 pm Contra dance/Workshop\n5–7:30 pm   Dinner break \n7:30–8:00 pm   Concert\n8:15–11:30 pm   Flower Power Ball\n11:30 pm–1 am   Techno contra with DJ Rynkie / Jam session \n\n\n\n\n\n\n\n\nSunday\n9:30–11 am   Brunch for those registered for the weekend \n10:30–11:30 am   Workshop\n11–11:45 am   Singing around the campfire\n11:45 am–2:30 pm   Farewell dance"
     links:
+      - "https://www.tapestryfolkdance.org/call-of-the-loon"
       - "https://cdss.org/event/call-of-the-loon-13th-annual-contra-dance-weekend/"
-    start: "2026-04-10T19:30:00-05:00"
+    start: "2026-04-10T18:45:00-05:00"
     end: "2026-04-12T14:30:00-05:00"
     country: USA
     state: MN
@@ -49731,6 +49744,7 @@ events:
     social: true
     bands:
       - Toss the Possum
+      - Toot, Squeeze & Co.
     callers:
       - Beau Farmer
       - Gaye Fifer
