@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Nieuwjaarsbal
+    details: "BALFOLK DANCE CONCERT - At the magical farm/camping De Uelenspieghel \r\n\r\n16:00 Tune Learning session (TLS, bring your own instrument!)\r\n17:00 Mazurka dance instructions \r\n18:00 Sharing a meal \r\n19:00 Basic Dance instructions\r\n20:00 Bal with Balfolk Band Paracetamol\r\n21:45 Session - join with your instrument!"
+    links:
+      - "https://uelenspieghel.nl/evenementen/meike"
+    start: "2026-01-03T16:00:00+01:00"
+    end: "2026-01-03T23:55:00+01:00"
+    country: Netherlands
+    city: Uffelte
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Paracetamol
+    price: €15
+    organisation: De Uelenspieghel
