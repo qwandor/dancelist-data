@@ -98,12 +98,13 @@ events:
       - "https://www.cadansa.nl/"
       - "https://www.balfolk.nl/agenda/cadansa-balfolkfestival-2025/"
       - "https://www.facebook.com/events/1548949209828868/"
-    start: "2025-10-23T18:00:00+01:00"
+    start: "2025-10-23T18:00:00+02:00"
     end: "2025-10-26T19:30:00+01:00"
     country: Netherlands
     city: Steenwijk
     styles:
       - balfolk
+      - scandi
     workshop: true
     social: true
     bands:
@@ -123,4 +124,16 @@ events:
       - Duo Des Cimes
       - Floating Sofa Quartet
     price: €120-€180
+    organisation: CaDansa
+  - name: CaDansa
+    links:
+      - "https://www.cadansa.nl/"
+    start: "2026-10-15T18:00:00+02:00"
+    end: "2026-10-18T19:30:00+02:00"
+    country: Netherlands
+    city: Steenwijk
+    styles:
+      - balfolk
+    workshop: true
+    social: true
     organisation: CaDansa
