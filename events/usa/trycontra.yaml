@@ -3633,7 +3633,7 @@ events:
       - Michael Karcher
       - Lisa Greenleaf
     organisation: TryContra
-  - name: Peterbough Snow Ball
+  - name: Peterborough Snow Ball
     links:
       - "https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2026/"
     start: "2026-01-24T12:00:00-05:00"
@@ -3656,18 +3656,6 @@ events:
       - Lisa Greenleaf
       - Steve Zakon-Anderson
     price: $30
-    organisation: TryContra
-  - name: IVFDF
-    links:
-      - "https://ivfdf2026.org.uk/"
-    start_date: 2026-02-27
-    end_date: 2026-03-01
-    country: UK
-    city: York
-    styles:
-      - contra
-    workshop: true
-    social: true
     organisation: TryContra
   - name: Chattaboogie
     links:
@@ -3748,9 +3736,9 @@ events:
     organisation: TryContra
   - name: Dancing Fish
     links:
-      - "https://dancingfish.dance/"
-    start_date: 2026-02-06
-    end_date: 2026-02-07
+      - "https://dancingfish.dance/event/hannah-chamberlain-with-larry-unger-emily-troll-eric-boodman/"
+    start: "2026-02-06T19:00:00-05:00"
+    end: "2026-02-07T21:00:00-05:00"
     country: USA
     state: FL
     city: Melrose
@@ -3759,9 +3747,10 @@ events:
     workshop: true
     social: true
     bands:
-      - "Larry Unger, Emily Troll, & Eric Boodman"
+      - "Larry Unger, Emily Troll & Eric Boodman"
     callers:
       - Hannah Chamberlain
+    price: $15-$60
     organisation: Dancing Fish
   - name: Tropical Dance Vacation Contra Week
     links:
@@ -3835,8 +3824,8 @@ events:
   - name: Corvallis Contra Weekend
     links:
       - "https://corvallisfolklore.org/home/ccw/"
-    start_date: 2026-02-13
-    end_date: 2026-02-15
+    start: "2026-02-13T18:30:00-08:00"
+    end: "2026-02-15T22:30:00-08:00"
     country: USA
     state: OR
     city: Corvallis
@@ -3850,6 +3839,7 @@ events:
     callers:
       - Gaye Fifer
       - Jeremy Korr
+    price: $100
     organisation: TryContra
   - name: Galhalla
     links:
@@ -3873,9 +3863,9 @@ events:
     organisation: SheDances
   - name: Dancing Fish
     links:
-      - "https://dancingfish.dance/"
-    start_date: 2026-03-06
-    end_date: 2026-03-07
+      - "https://dancingfish.dance/event/will-mentor-jet-bridge-2/"
+    start: "2026-03-06T19:00:00-05:00"
+    end: "2026-03-07T21:00:00-05:00"
     country: USA
     state: FL
     city: Melrose
@@ -3887,6 +3877,7 @@ events:
       - Jet Bridge
     callers:
       - Will Mentor
+    price: $15-$60
     organisation: Dancing Fish
   - name: Lava Meltdown
     links:
@@ -3900,6 +3891,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Bandáge à Trois
+      - Drive Train
+    callers:
+      - Christine Merryman
+    price: $75-$150
     organisation: TryContra
   - name: Carolina Meltdown
     links:
