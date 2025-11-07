@@ -1,51 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "Stepcote Hill in Anchor Gardens, Sidmouth"
-    links:
-      - "https://sidmouthfolkfestival.co.uk/wp-content/uploads/2025/07/SFF-Programme-25-Web.pdf"
-    start_date: 2025-08-08
-    end_date: 2025-08-08
-    country: UK
-    city: "Anchor Gardens, Sidmouth"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Bellows & Bows
-      - Stepcote Hill
-    callers:
-      - Fee Lock
-      - Michael Catovsky
-    organisation: Webfeet
-  - name: Whapweasel in Durham
-    links:
-      - "http://www.whapweasel.com/events/"
-    start_date: 2025-08-14
-    end_date: 2025-08-14
-    country: UK
-    city: Durham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Whapweasel
-    organisation: Webfeet
-  - name: Threepenny Bit in Wareham
-    links:
-      - "https://www.bandsintown.com/e/106832835-threepenny-bit-at-purbeck-valley-farmhouse"
-    start_date: 2025-08-14
-    end_date: 2025-08-14
-    country: UK
-    city: Wareham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Threepenny Bit
-    organisation: Webfeet
   - name: Threepenny Bit in Whitby
     links:
       - "https://www.bandsintown.com/e/107199125-threepenny-bit-at-whitby-pavilion-theatre"
@@ -328,20 +282,6 @@ events:
     callers:
       - Malcolm Churchill
     organisation: Webfeet
-  - name: Spinach for Norman in Kennford
-    links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2025-10-25
-    end_date: 2025-10-25
-    country: UK
-    city: Kennford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Spinach for Norman
-    organisation: Webfeet
   - name: live music in Bath
     links:
       - "http://mister.red/dance/bath.htm#D.AN.20251029"
@@ -404,51 +344,6 @@ events:
     callers:
       - Elaine Gillett.
     organisation: Webfeet
-  - name: Wren Music in Exeter
-    links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2025-10-31
-    end_date: 2025-10-31
-    country: UK
-    city: Exeter
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Wren Music
-    organisation: Webfeet
-  - name: Freedom Fields Ceilidh Band in Plymouth
-    links:
-      - "http://devonfolk.org/events-diary/"
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2025-10-31
-    end_date: 2025-10-31
-    country: UK
-    city: Plymouth
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Freedom Fields Ceilidh Band
-    organisation: Webfeet
-  - name: Brown Boots in Waterloo
-    links:
-      - "https://waterlooceilidhs.co.uk/events/"
-    start_date: 2025-10-31
-    end_date: 2025-10-31
-    country: UK
-    city: Waterloo
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Brown Boots
-    callers:
-      - Hannah Moore
-    organisation: Webfeet
   - name: Cheltenham Ceilidh Band in Cheltenham
     links:
       - "http://mister.red/dance/cheltenham.htm#D.DA.20251101"
@@ -462,22 +357,6 @@ events:
     social: true
     bands:
       - Cheltenham Ceilidh Band
-    organisation: Webfeet
-  - name: Portland Drive in Hazel Grove
-    links:
-      - "http://portland-drive.co.uk/events/"
-    start_date: 2025-11-01
-    end_date: 2025-11-01
-    country: UK
-    city: Hazel Grove
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Portland Drive
-    callers:
-      - Trevor Monson
     organisation: Webfeet
   - name: Box of Frogs in Leeds
     links:
@@ -494,36 +373,6 @@ events:
       - Box of Frogs
     callers:
       - Louise Siddons
-    organisation: Webfeet
-  - name: Banter in Old Basing
-    details: "[Postponed]"
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2025-11-01
-    end_date: 2025-11-01
-    country: UK
-    city: Old Basing
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
-    cancelled: true
-  - name: Confluence Duo in Winchcombe
-    links:
-      - "https://balfolkstroud.uk/cps/gigs/confluenceduo-963076.php"
-    start_date: 2025-11-01
-    end_date: 2025-11-01
-    country: UK
-    city: Winchcombe
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Confluence Duo
     organisation: Webfeet
   - name: "sessionista in Bath French, Bath"
     links:
@@ -1487,6 +1336,7 @@ events:
     links:
       - "https://www.banter.band/gigs/"
       - "http://mister.red/dance/bath.htm#D.EB.20260117"
+      - "http://www.sadfolk.co.uk/listings.php"
     start_date: 2026-01-17
     end_date: 2026-01-17
     country: UK
@@ -1498,6 +1348,7 @@ events:
     bands:
       - Banter
     callers:
+      - Tim Walker
       - "Tim Walker - in Claverton Down Community Hall, Bath ("
     organisation: Webfeet
   - name: The Oxford Nags in Cardiff
@@ -1518,6 +1369,20 @@ events:
     callers:
       - Aidan Hansell
       - Aiden Hansell
+    organisation: Webfeet
+  - name: Catsfield Steamers in Robertsbridge
+    links:
+      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
+    start_date: 2026-01-17
+    end_date: 2026-01-17
+    country: UK
+    city: Robertsbridge
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Catsfield Steamers
     organisation: Webfeet
   - name: Polka Dots in York
     links:
