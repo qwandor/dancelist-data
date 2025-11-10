@@ -7,7 +7,10 @@ events:
     end_date: 2022-05-02
     country: UK
     city: Evesham
-    styles: [balfolk, contra, ecd]
+    styles:
+      - balfolk
+      - contra
+      - ecd
     workshop: true
     social: true
     bands:
@@ -16,7 +19,7 @@ events:
       - Keeping Thyme
       - Klerizma
       - Portland Duo
-      - Purcell's Polyphonic Party
+      - "Purcell's Polyphonic Party"
       - Wild Ride
     callers:
       - Andrew Swaine
@@ -28,7 +31,6 @@ events:
       - Nigel Close
     price: £48-£97
     organisation: May Heydays
-
   - name: May Heydays at Evesham
     links:
       - "http://mayheydays.org.uk/"
@@ -36,7 +38,10 @@ events:
     end_date: 2023-05-01
     country: UK
     city: Evesham
-    styles: [contra, ecd, balfolk]
+    styles:
+      - contra
+      - ecd
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -44,7 +49,7 @@ events:
       - English Contra Dance Band
       - Knotted Chord
       - Keeping Thyme
-      - The Old Boys' Network
+      - "The Old Boys' Network"
       - Stradivarious
     callers:
       - Brian Stanton
@@ -62,7 +67,6 @@ events:
       - Paula Evans
     price: £48-£97
     organisation: May Heydays
-
   - name: May Heydays at Evesham
     links:
       - "http://mayheydays.org.uk/"
@@ -70,7 +74,10 @@ events:
     end_date: 2024-05-06
     country: UK
     city: Evesham
-    styles: [contra, ecd, balfolk]
+    styles:
+      - contra
+      - ecd
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -108,12 +115,15 @@ events:
     end_date: 2025-05-05
     country: UK
     city: Evesham
-    styles: [contra, ecd, balfolk]
+    styles:
+      - contra
+      - ecd
+      - balfolk
     workshop: true
     social: true
     bands:
       - Box of Frogs
-      - Dampier's Round
+      - "Dampier's Round"
       - Sarah Matthews & Doug Eunson
       - Folkus Pocus
       - Nicky McConkey
@@ -139,4 +149,20 @@ events:
       - Rhodri Davies
       - Seth Tepfer
       - Ted Morse
+    organisation: May Heydays
+  - name: May Heydays at Evesham
+    links:
+      - "https://mayheydays.org.uk/"
+    start_date: 2026-05-01
+    end_date: 2026-05-04
+    country: UK
+    city: Evesham
+    styles:
+      - balfolk
+      - contra
+      - ecd
+      - scandi
+    workshop: true
+    social: true
+    price: £50-£120
     organisation: May Heydays
