@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: French Bal
+    links:
+      - "https://www.stamfordartscentre.com/whats-on/all-shows/cri-du-canard-french-bal/13964"
+    start: "2026-01-03T19:30:00+00:00"
+    end: "2026-01-03T22:30:00+00:00"
+    country: UK
+    city: Stamford
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Cri du Canard
+    price: £8-£15
+    organisation: ~
