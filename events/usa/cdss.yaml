@@ -51211,30 +51211,10 @@ events:
       - Tom Mack
     price: free
     organisation: Shenandoah Valley Civil War Era Dancers
-  - name: TECDA Friday Evening Dance
-    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
-    links:
-      - "https://www.tecda.ca/weekly_dances.html"
-      - "https://cdss.org/event/tecda-friday-evening-dance/2025-11-21/"
-    start: "2025-11-21T19:00:00-05:00"
-    end: "2025-11-21T21:00:00-05:00"
-    country: Canada
-    state: Ontario
-    city: Toronto
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Alan Rosenthal
-      - Cathy Campbell
-      - Dave Berman
-      - Walter Zagorski
-    price: $10
-    organisation: Toronto English Country Dance Assembly (TECDA)
   - name: TECDA Friday Night Dance
     details: "TECDA is hosting a special Friday night dance at the Ralph Thornton Centre on Friday November 21, 2025, 7 – 9 pm. Gaye Fifer calling. \nMusicians: Catherine Sloboda and Alex Fortier \nMasks are optional.  Please bring your dancing shoes, water bottle. \nPreregistration at info@tecda.ca, but walk-ins are welcome.  \nSuggested donation $10.00 This can be paid by e-transfer to payments@tecda.ca or cash at the door. \nSee you on the dance floor."
     links:
+      - "https://www.tecda.ca/weekly_dances.html"
       - "https://cdss.org/event/tecda-friday-night-dance/"
     start: "2025-11-21T19:00:00-05:00"
     end: "2025-11-21T21:00:00-05:00"
@@ -51261,8 +51241,13 @@ events:
     city: Winter Park
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Coral Riff
+    callers:
+      - Alice Raibourn
+    price: $15
     organisation: Orlando Contra Dance
   - name: Rivanna Contra Dance
     details: "Third Friday contra dances in Charlottesville, VA. A few miles off I-64. Mask optional. Larks & Robins. Intro lesson 7:00 PM. Dance starts 7:30 PM.\nSliding scale admission: recommend $20"
@@ -51293,6 +51278,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Hot Springs Contradance
     details: "Monthly 3rd Friday dance in Hot Springs North Carolina, a mere 200 yards from the Appalachian Trail! \nFind us on Facebook: Friends of Hot Springs Contradance"
@@ -51307,13 +51293,14 @@ events:
       - contra
     workshop: false
     social: true
+    price: $10
     organisation: Charley Harvey
   - name: Contra at Guiding Star Grange
     details: "Caller and featured musicians vary each month; please check the Guiding Star Grange website for details. \nOther musicians are welcome to come and be part of the amorphous “Back Row Band.” \nSchedule: 8:00 PM: Contra Dancing for All; often a beginner session at 7:45. \nCost: $10 or barter equivalent \nSee venue website for this month’s details and Covid policy."
     links:
       - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/third-friday-contra-at-guiding-star-grange/2025-11-21/"
-    start: "2025-11-21T20:00:00-05:00"
+    start: "2025-11-21T19:00:00-05:00"
     end: "2025-11-21T23:00:00-05:00"
     country: USA
     state: MA
@@ -51323,15 +51310,17 @@ events:
     workshop: true
     social: true
     bands:
-      - Back Row Band
-    price: $10
+      - Thunderwing
+    callers:
+      - Lisa Greenleaf
+    price: $12-$20
     organisation: Joe Blumenthal
   - name: Friday Night Contra at Glen Echo
     details: "Join us in Glen Echo, Maryland, for a fun night of contras and an occasional square! There’s a free lesson at 7:30pm."
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-11-21/"
-    start: "2025-11-21T20:00:00-05:00"
+    start: "2025-11-21T19:30:00-05:00"
     end: "2025-11-21T23:00:00-05:00"
     country: USA
     state: MD
@@ -51340,6 +51329,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Friday Contra Dance
     details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$7 – $25, pay what you can."
@@ -51389,7 +51379,7 @@ events:
       - Gaye Fifer
     price: $25
     organisation: Toronto English Country Dance Assembly (TECDA)
-  - name: "2025 CDSS Lifetime Contribution Award Celebration: Tony Parkes"
+  - name: "CDSS Lifetime Contribution Award Celebration"
     details: "You’re invited to a celebration honoring Tony Parkes! \nA renowned caller of contras and squares for more than 50 years, choreographer, musician, band leader, textbook author, workshop leader, dance historian, and organizer, Tony was widely recognized as a preeminent traditional New England dance caller at the time of his death. \nThis event is open to all—registration not required. Masks are optional. \n4:00 – Square dancing to Tony’s recorded calling (role terms: gents/ladies)\n5:45 – Lifetime Contribution Award presentation\n6:00 – Potluck supper and socializing\n7:30 – Contras and squares with callers Annie Kidwell, Ben Sachs-Hamilton, and Lisa Greenleaf and music by Stove Dragon (role terms: larks/robins)"
     links:
       - "https://cdss.org/event/2025-cdss-lifetime-contribution-award-celebration-tony-parkes/"
@@ -51408,6 +51398,8 @@ events:
       - Annie Kidwell
       - Ben Sachs-Hamilton
       - Lisa Greenleaf
+      - Tony Parkes
+    price: free
     organisation: Country Dance & Song Society
   - name: Jax Contra Dance
     details: "Monthly contra dance, occurring on the 4th Saturday of the month in Jacksonville, Florida (Riverside area). \n$10 adult, $5 child."
@@ -51439,6 +51431,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5-$15
     organisation: Syracuse Country Dancers
   - name: Wooster English Country Dance
     details: "English country dances 1600 to present with beautiful live music by Fourpence. Instruction and prompting by Susan English. No experience or partner necessary; we will change partners. Dance with grace and a quiet energy. \n$8 adults, $5 students."
@@ -51474,22 +51467,23 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: Sacramento Contra Dance
     details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $15 for adults; $10 for college students with ID; $5 for dancers under 18; $30 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
     links:
       - "https://sactocds.wordpress.com/"
       - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays-2/2025-11-22/"
-    start: "2025-11-22T19:00:00-08:00"
+    start: "2025-11-22T18:30:00-08:00"
     end: "2025-11-22T22:00:00-08:00"
     country: USA
     state: CA
     city: Sacramento
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
-    price: $5-$30
+    price: $5-$15
     organisation: Sacramento Country Dance Society
   - name: 4th Saturdays Contra Dance
     details: "Mark your calendars now for the next Saturday night dance at Fulton Hall. Dances are called using gender-neutral terms. \n\n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSliding scale $6-$20. \nSome dancers head to a pub for “afters”—all are welcome!"
