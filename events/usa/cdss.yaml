@@ -7042,7 +7042,7 @@ events:
       - Kalindi Devi-Dasi
       - Orly Krasner
     price: $65-$85
-    organisation: Eugene Country Dancers%2C branch of Heather &amp%3B Rose
+    organisation: "Eugene Country Dancers, branch of Heather & Rose"
   - name: Monrovia English Country Dance
     details: "Please join us for English Country Dancing on the 2nd and 4th Friday of every month from 7:30-10pm in the Guildhall of St Luke’s Episcopal Church. $5 admission (cash only). Beginners welcome! All dances are taught, walked through and called. No partner or costume required; just bring comfortable closed-toed shoes and a water bottle. We’re friendly, laid-back, and welcoming!"
     links:
@@ -15267,7 +15267,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Possum Comsum
+      - Possum Consommé
     price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
@@ -36910,7 +36910,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Possum Consume
+      - Possum Consommé
     callers:
       - Dale Wilson
     price: $10
@@ -44662,7 +44662,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Possum Consomm
+      - Possum Consommé
     callers:
       - Jim Hemphill
     price: $10
@@ -50771,6 +50771,7 @@ events:
     social: false
     price: free
     organisation: Nashville Country Dancers
+    cancelled: true
   - name: Monday Contra Dance
     details: "What better way to start the week? Only $5! It’s Monday, and we (almost) always dance on Monday."
     links:
@@ -51694,7 +51695,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance-2/2025-11-23/"
-    start: "2025-11-23T16:00:00-05:00"
+    start: "2025-11-23T15:30:00-05:00"
     end: "2025-11-23T18:15:00-05:00"
     country: USA
     state: NC
@@ -51703,6 +51704,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: free
     organisation: CDSS
   - name: 4th Sunday Albuquerque Contra Dance
     details: "Everyone is welcome at contra dancing, no partner required. For more details about contra or FolkMADS organization, see our website at folkmads.org \nAll dances are Pay What You Want – suggested $10/person, $10-20/family.  \nCalling: Marj Mullany\nBand: Albuquerque Mega Band"
@@ -51729,7 +51731,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2025-11-23/"
-    start: "2025-11-23T19:00:00-06:00"
+    start: "2025-11-23T18:30:00-06:00"
     end: "2025-11-23T21:00:00-06:00"
     country: USA
     state: MN
@@ -51738,30 +51740,35 @@ events:
       - ecd
     workshop: false
     social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
+    callers:
+      - Barbara Rice
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: Contra Dance in St Louis
     details: Weekly contra dance in St Louis area (actually Webster Groves MO). Always great live music. First dance each month features open calling.
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2025-11-23/"
-    start: "2025-11-23T19:00:00-06:00"
+    start: "2025-11-23T18:30:00-06:00"
     end: "2025-11-23T21:30:00-06:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Possum Consommé
+    callers:
+      - Karen Jackson
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "We dance to live music by Hoggetowne Fancy every Monday at United Church of Gainesville, 1624 NW 5th Avenue. Cost is $5 for the hall plus a similar amount for the band. This dance is open to all. All dances are taught, walked through and called. There is a lesson at 6:10."
     links:
       - "https://cdss.org/event/gainesville-florida-english-country-dance/2025-11-24/"
-    start: "2025-11-24T18:30:00-05:00"
+    start: "2025-11-24T18:10:00-05:00"
     end: "2025-11-24T20:30:00-05:00"
     country: USA
     state: FL
@@ -51772,7 +51779,7 @@ events:
     social: true
     bands:
       - Hoggetowne Fancy
-    price: $5
+    price: $10
     organisation: Gainesville English Country Dance
   - name: Nashville Monday Night English Country Dance Class
     details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
@@ -51790,20 +51797,29 @@ events:
     social: false
     price: free
     organisation: Nashville Country Dancers
+    cancelled: true
   - name: Eugene Winter Dance Event
     details: "The Eugene Country Dancers, a branch of the Heather and the Rose Country Dancers, is holding our second annual Winter Dance Event.  It will offer both English and some Scottish dances, workshops and evening dance parties. We have used global/positional terminology throughout our 45 year history."
     links:
+      - "http://heatherandrose.org/activities/eug2025decflyer.pdf"
       - "https://cdss.org/event/eugene-winter-dance-event/"
-    start_date: 2025-12-05
-    end_date: 2025-12-06
+    start: "2025-12-05T18:30:00-08:00"
+    end: "2025-12-06T22:00:00-08:00"
     country: USA
     state: OR
     city: Eugene
     styles:
       - ecd
+      - scd
     workshop: true
     social: true
-    organisation: Eugene Country Dancers%2C branch of Heather &amp%3B Rose
+    bands:
+      - Fine Companions
+    callers:
+      - Rachel Pusey
+      - Dilip Sequeira
+    price: $50-$70
+    organisation: "Eugene Country Dancers, branch of Heather & Rose"
   - name: Winter WarmUp
     details: "Toss the Possum: Rob and Laura Zisette\nDam Beavers: Ben Schreiber, Scotty Leach, Ness Smith-Savedoff\nCallers: Terry Doyle, Frank Buschelmann\nSound: Jamie Platt\n\nDetails & registration at Big Scioty Contra Dance"
     links:
@@ -51841,9 +51857,10 @@ events:
     workshop: true
     social: true
     organisation: North Texas Traditional Dance Society (NTTDS)
-  - name: "NEFFA's 38th Ralph Page Dance Event"
+  - name: 38th Ralph Page Dance Event
     details: "Sponsored by the New England Folk Festival Association \n\nWhen: Friday 01/09/2026: 7:30pm-10:30pm\n& Saturday 01/10/2026: 10:00am-10:00pm\nWhere: Wesley United Methodist Church’s Gymnasium, 114 Main Street, Worcester, MA 01608:\nCome to: Ralph Page Dance Weekend, one of NEFFA’s two major sponsored events. You’ll experience a full program of exceptional music, varied traditional dancing, and lots of opportunities to be learn what makes the Ralph Page community special."
     links:
+      - "https://www.neffa.org/annual-ralph-page-dance-event/"
       - "https://cdss.org/event/neffas-38th-ralph-page-dance-event/"
     start: "2026-01-09T19:30:00-05:00"
     end: "2026-01-10T22:00:00-05:00"
@@ -51852,9 +51869,19 @@ events:
     city: Worcester
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
-    organisation: Ralph Page Organizing Team
+    bands:
+      - George Wilson
+      - Selma Kaplan
+      - Anna Patton
+      - Naomi Morse
+      - Owen Morrison
+    callers:
+      - Nils Fredland
+      - Penn Fix
+    price: $70-$120
+    organisation: NEFFA
   - name: Winter Frolic
     details: "A mini-weekend of contradance featuring Susan Petrick calling to the Dam Beavers, plus English Country Dance and other attractions."
     links:
@@ -52029,9 +52056,10 @@ events:
       - Seth Tepfer
     price: $145-$160
     organisation: Charleston Folk
-  - name: Lava Meltdown Contra Dance Weekend 2026
+  - name: Lava Meltdown
     details: "Lava Meltdown is a dance weekend in Lava Hot Springs, Idaho held the last weekend of February 2026. The weekend kicks off with a potluck dinner, followed by a welcome contra dance session on Friday night. On Saturday, there is a continental breakfast followed by more contra dancing and workshops. Lunch is provided and followed by more contra dancing and workshops. Dinner is on your own, followed by our evening contra dances. The final dance follows a continental breakfast and concert on Sunday ending at noon. \nLava Meltdown features all-day dancing, plus a concert, jamming, and caller’s and music workshops by featured musicians and callers. This year we have the pleasure of dancing to the rhythms of Ed Howe and Bennett Konesni of Drive Train and formerly Perpetual E-Motion as well as the dynamic calling of Christine Merryman.  \n$150 Early Bird Adult"
     links:
+      - "https://www.lavameltdown.com/"
       - "https://cdss.org/event/lava-meltdown-contra-dance-weekend-2026/"
     start: "2026-02-27T17:00:00-07:00"
     end: "2026-03-01T12:00:00-07:00"
@@ -52046,7 +52074,7 @@ events:
       - Drive Train
     callers:
       - Christine Merryman
-    price: $150
+    price: $75-$165
     organisation: Sleepy Sun Studios
   - name: Spring Breakdown
     details: "Plan now for a full weekend of dancing, workshops and more!\nMarch 20-22, 2026\nIn Kimball Ballroom (Stephens College campus), 6 N. College Ave., Columbia, MO 65201 \nFeaturing:\nBig Brandy and Wendy Graham! \nBig Brandy—Four cross-genre musicians from the Cosmic Otters and Birdhouse Hollow combine forces to form Big Brandy. They take the best of old-time Appalachian, Irish, and French tunes and weave them into exhilarating arrangements, perfectly tailored for contra dancing. Meg Dedolph (guitar, percussion), Wren Eisenhauer (banjo, vocals), Jonathan Whitall (fiddle, piano), Qi Yang (accordion, piano). \nWendy Graham (Brasstown, NC) is a self-described “dance maniac.” Her passion for traditional folk music, song, and dance caught fire in 1991 on a youth dance tour in Denmark. Today, she leads many kinds of dance, including English Country, American contras and squares, partner (swing, latin, waltz, blues, country), and line dances at community and private events around the country and abroad—from Alaska to Denmark and everywhere in between. When not leading and teaching dance, Wendy programs dance weeks/weekends and classes for teens and adults at the John C. Campbell Folk School in Brasstown, North Carolina. She proudly served on the Lloyd Shaw Foundation and Country Dance and Song Society (CDSS) board and Lifetime Contribution Award committee. She is a current CDSS nominating committee member."
@@ -52200,6 +52228,7 @@ events:
   - name: Lady of the Lake Music and Dance Week
     details: "Lady of the Lake Music and Dance Week on the shores of Coeur d’Alene Lake, 75 minutes from Spokane, WA, features a unique blend of contra and English country dance, including workshops in dancing, calling, and playing music. \nOur community, made of campers from 20 different states and four Canadian provinces, is welcoming and supportive. Program includes singing and art as well. And there is plenty of time for swimming, hiking, canoeing and bicycling. Fabulous food with gluten-free, vegan, vegetarian and dairy-free options. \nStaff include: Lisa Greenleaf and Maia McCormick calling contras; Joanna Reiner Wilkenson caling English country. Contra Sutra and Audrey Jabor, Rachael Bell, and Karen Axelrod will play for both English and contras along with Countercurrent playing contras. \nTransportation provided from the Spokane Airport to camp and back."
     links:
+      - "https://ladyofthelake.org/june-week"
       - "https://cdss.org/event/lady-of-the-lake-music-and-dance-week/"
     start: "2026-06-21T15:00:00-07:00"
     end: "2026-06-27T11:00:00-07:00"
@@ -52212,10 +52241,13 @@ events:
     workshop: true
     social: true
     bands:
+      - Contra Sutra
       - Countercurrent
     callers:
       - Lisa Greenleaf
       - Maia McCormick
+      - Joanna Reiner Wilkinson
+    price: $775-$1095
     organisation: CDSS
   - name: 75th National Square Dance Convention
     details: "Enjoy several days of contra dancing at the 75th National Square Dance Convention in Waco, TX June 24-27, 2026. \nNote: Contra callers who register by Dec 31, 2025 and indicate their interest on the registration form can be scheduled to call contra dances or other traditional formations at this national convention, which will have 3,000 attendees!   \nRegistration is $80 for adults until May 1, 2026, when it increases to $95. \nRegister on our website. The contra hall schedule (which might include you as a caller!) will be posted in the Spring of 2026 on the Contralab Facebook page."
@@ -52254,6 +52286,7 @@ events:
   - name: Lady of the Lake Music and Dance Weekend
     details: "The 45th annual Lady of the Lake Music and Dance Weekend features a wonderful staff drawing from across the Northwest and well beyond. Callers Lindsey Dono and Jeremy Kors will lead contra dances and workshops. The Dam Beavers and the Baby Corns featuring Hayden Sterns will provide rousing music. Enjoy the falling leaves from heritage apple trees and the cry of loons from the bordering Coeur d’Alene Lake, just 75 minutes from Spokane, WA. Amazing food with five different dietary options."
     links:
+      - "https://ladyofthelake.org/fallwend"
       - "https://cdss.org/event/lady-of-the-lake-music-and-dance-weekend/"
     start: "2026-10-02T15:00:00-07:00"
     end: "2026-10-04T12:00:00-07:00"
@@ -52265,9 +52298,12 @@ events:
     workshop: true
     social: true
     bands:
+      - Baby Corns
       - The Dam Beavers
     callers:
+      - Jeremy Korr
       - Lindsey Dono
+    price: $235-$395
     organisation: CDSS
   - name: 76th National Square Dance Convention
     details: "Enjoy hours and hours of contra dancing and related traditional dance (English, squares, community dance) at the 76th NSDC in Loveland, CO. Registration is open and the cost is currently $70 per adult.   \nContra callers! If you register by Dec. 31, 2026, you can be included as a caller in the Contra Hall! 3,000 attendees are expected at this national square dance convention! \nMore information available as we get closer to the date!"
