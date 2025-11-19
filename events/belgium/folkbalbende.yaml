@@ -7691,7 +7691,7 @@ events:
     start_date: 2023-01-09
     end_date: 2023-01-09
     country: Belgium
-    city: Malines
+    city: Mechelen
     styles:
       - balfolk
     workshop: true
@@ -7706,7 +7706,7 @@ events:
     start_date: 2023-01-09
     end_date: 2023-01-09
     country: Belgium
-    city: Malines
+    city: Mechelen
     styles:
       - balfolk
     workshop: true
@@ -23734,8 +23734,8 @@ events:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "http://dekarekiet.be/"
       - "https://folkbalbende.be/event/3461"
-    start_date: 2026-01-17
-    end_date: 2026-01-17
+    start: "2026-01-17T19:30:00+01:00"
+    end: "2026-01-17T22:30:00+01:00"
     country: Belgium
     city: Lochristi
     styles:
@@ -23743,5 +23743,6 @@ events:
     workshop: false
     social: true
     bands:
-      - Musique Live Sous La Houlette De Lieven Lepeer
+      - Lieven Lepeer
+    price: €5
     organisation: ~
