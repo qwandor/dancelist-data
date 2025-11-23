@@ -3577,6 +3577,7 @@ events:
     callers:
       - Annie Kidwell
       - Gail Hintze
+    price: $50-$100
     organisation: TryContra
   - name: Contra Carnivale
     links:
@@ -3941,24 +3942,11 @@ events:
       - Gaye Fifer
       - Liz Nelson
     organisation: TryContra
-  - name: NEFFA
-    links:
-      - "https://www.neffa.org/"
-    start_date: 2026-04-24
-    end_date: 2026-04-26
-    country: USA
-    state: MA
-    city: Marlborough
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: NEFFA
   - name: Fiddlehead Frolic
     links:
       - "https://www.hands4dancers.org/upcoming-dances/2026/4/25/fiddlehead-frolic"
-    start_date: 2026-04-25
-    end_date: 2026-04-25
+    start: "2026-04-25T13:00:00-04:00"
+    end: "2026-04-25T22:00:00-04:00"
     country: USA
     state: NY
     city: Ithaca
@@ -3972,8 +3960,8 @@ events:
   - name: Hands Four Spring Dance Weekend
     links:
       - "https://www.hands4-berea.com/"
-    start_date: 2026-04-24
-    end_date: 2026-04-26
+    start: "2026-04-24T19:00:00-04:00"
+    end: "2026-04-26T14:30:00-04:00"
     country: USA
     state: KY
     city: Berea
@@ -3986,6 +3974,7 @@ events:
     callers:
       - Terry Doyle
       - Kenny Greer
+    price: $70-$80
     organisation: TryContra
   - name: Bonjour-Hey
     links:
@@ -4010,7 +3999,7 @@ events:
     links:
       - "https://www.dandelionromp.com"
     start_date: 2026-04-17
-    end_date: 2026-04-20
+    end_date: 2026-04-19
     country: USA
     state: OH
     city: Oberlin
@@ -4029,6 +4018,7 @@ events:
     city: Dowling
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
@@ -4055,9 +4045,9 @@ events:
       - Alex Deis-Lauby
       - Lisa Greenleaf
     organisation: TryContra
-  - name: Cascade Contras Dance Camp
+  - name: Cascade Contras
     links:
-      - "https://eugenefolklore.org/cascade-contras-on-the-river/"
+      - "https://eugenefolklore.org/cascade-contras-2025/"
     start_date: 2026-05-08
     end_date: 2026-05-10
     country: USA
@@ -4067,6 +4057,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Potato Factory
+      - Fiddle Hellions
+    callers:
+      - Frannie Marr
+      - Michael Karcher
     organisation: TryContra
   - name: Dancing Bear Dance Camp
     links:

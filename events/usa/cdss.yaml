@@ -18074,7 +18074,7 @@ events:
       - David Newitt
     price: $6-$25
     organisation: Bay Area Country Dance Society
-  - name: Trillium Twirl Dance Weekend
+  - name: Trillium Twirl
     details: "This residential dance camp has it all. The full registration fee covers everything: lodging Friday & Saturday nights, meals from Saturday breakfast through Sunday lunch, snacks, all dances and workshops. Headliners for Contra are caller Bob Isaacs with Toss the Possum providing music. Partial weekend options are available. English fans will enjoy Debbie Jackson as leading musician and the caller team including Bob Messer and Mae Wilson. \nHeld at Clear Lake Camp on M37 in Dowling, just 16 miles north of Battle Creek, MI. There’s 137 acres of fields & woods offering great walks, a bird observation cabin, and a lake for canoeing. We have two beautiful wood dance floors. \nCome early for the Friday Potluck at 5:30 pm. Dancing begins at 8 pm EST \nFees: Ages 30&up sliding scale $225-$275, ages 8-14 $70. À la carte options available—see website for details or contact trilliumtwirl@gmail.com"
     links:
       - "https://michigandanceheritage.org/trilliumtwirl/"
@@ -53231,6 +53231,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Orlando Contra Dance
     details: "Welcome to the Orlando Contra Dance! We feature high-tempo, gender-neutral dancing. We are Florida’s only gender-neutral contra series. Dancing is open to everyone and free for students and returning beginners (2nd dance is free)! \nWe usually dance on the first and third Friday of the month. Holidays, semester breaks, and regional events happen, so check the schedule before going!"
@@ -53244,8 +53245,13 @@ events:
     city: Winter Park
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Fret Knot
+    callers:
+      - Sam Sharpless
+    price: $15
     organisation: Orlando Contra Dance
   - name: ContraATL Weekly Dance
     details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
@@ -53261,13 +53267,15 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Friday Night Contra at Glen Echo
     details: "Join us in Glen Echo, Maryland, for a fun night of contras and an occasional square! There’s a free lesson at 7:30pm."
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2025-12-05/"
-    start: "2025-12-05T20:00:00-05:00"
+      - "https://www.eventbrite.com/e/contra-dance-with-qwill-duvall-calling-to-raven-goose-tickets-1698001160179"
+    start: "2025-12-05T19:30:00-05:00"
     end: "2025-12-05T23:00:00-05:00"
     country: USA
     state: MD
@@ -53276,6 +53284,11 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Raven & Goose
+    callers:
+      - Qwill Duvall
+    price: $15
     organisation: Friday Night Dancers
   - name: Lambertville Country Dancers
     details: "English Country Dance called by Gene Murrow. Music by Bare Necessities (Kate Barnes, Earl Gaddis, Mary Lea, and Jacqueline Schwab). Annual Holiday Dance."
@@ -53295,6 +53308,7 @@ events:
       - Bare Necessities
     callers:
       - Gene Murrow
+    price: $15-$25
     organisation: Lambertville Country Dancers
   - name: Winter WarmUp
     details: "Toss the Possum: Rob and Laura Zisette\nDam Beavers: Ben Schreiber, Scotty Leach, Ness Smith-Savedoff\nCallers: Terry Doyle, Frank Buschelmann\nSound: Jamie Platt\n\nDetails & registration at Big Scioty Contra Dance"
@@ -53322,6 +53336,7 @@ events:
     links:
       - "https://scissortail.org/calendar/"
       - "https://cdss.org/event/scissortail-contra-dance-in-norman-ok/2025-12-05/"
+      - "https://www.facebook.com/events/3676269366007273/"
     start: "2025-12-05T19:00:00-06:00"
     end: "2025-12-05T22:00:00-06:00"
     country: USA
@@ -53331,6 +53346,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$25
     organisation: Scissortail Traditional Dance Society
   - name: Friday Contra Dance
     details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$7 – $25, pay what you can."
@@ -53351,6 +53367,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6129"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2025-12-05/"
     start: "2025-12-05T19:30:00-08:00"
     end: "2025-12-05T22:30:00-08:00"
@@ -53361,6 +53378,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Lindsey Dono
     price: $7-$20
     organisation: Portland Country Dance Community
   - name: York Region English Country Dancers
@@ -53393,6 +53412,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: Baton Rouge Contra Dance
     details: Baton Rouge Contra Dance at St. Albans Chapel
@@ -53408,6 +53428,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$7
     organisation: Charlene Heaton & David Porter
   - name: "Fiddler's Dream"
     details: "This ALL-VOLUNTEER event is a 3-day/3-night weekend for callers, dancers, and traditional musicians to enjoy one another’s talents and company in a camp setting. The focus is contra dance and related music. Everyone has the opportunity to help provide the entertainment for this event. \nMusicians can jam, play for dancing, and lead workshops in tunes or techniques. \nCallers and others can lead a dance session (contra, square, English Country, folk, couples dance, etc.) a song session, or other activities (juggling, water color, or whatever you want to share), or just dance."
