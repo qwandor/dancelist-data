@@ -3369,8 +3369,8 @@ events:
   - name: Breaking Up Thanksgiving
     links:
       - "https://www.breakingupthanksgiving.com/"
-    start_date: 2025-11-28
-    end_date: 2025-11-30
+    start: "2025-11-28T18:00:00-06:00"
+    end: "2025-11-30T12:00:00-06:00"
     country: USA
     state: IL
     city: Evanston
@@ -3378,6 +3378,17 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Bobcat Opossum
+      - Elizabeth & friends
+      - Fred & Mitch
+      - Purple Martins
+      - Ravenswing
+      - Paul Tyler & friends
+      - Wabi Sabi
+      - Cosmic Otters
+      - Hillbilly Diaspora
+      - The Band You're About to Hear
     callers:
       - Devin Pohly
     price: $35-$45
