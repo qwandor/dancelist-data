@@ -54356,11 +54356,16 @@ events:
       - contra
     workshop: true
     social: true
-    price: $5-$15
+    bands:
+      - Here on the Hill
+    callers:
+      - Alyssa Adkins
+    price: $5-$25
     organisation: Lewiston Contra Dance
   - name: Jane Austen Ball
     details: "Join us for a Jane Austen Ball in celebration of her 250th birthday! The dance will be called by David Millstone, with live music by Trip to Norwich (Carol Compton and Thal Aylward). (Snow date: Saturday December 13, 7:00-9:00 pm.) \nJane Austen fans, English country dancers, Bridgerton aficionados, and the idly curious: All are welcome! English country dancing is a highly accessible social dance form. Instruction will be given and dances will be called. No experience necessary. Please note that the dance will take place on a carpeted floor. \nCostumes admired, but not required! No registration required. \nQuestions? jared.jenisch@thehowe.org"
     links:
+      - "https://thehowe.libcal.com/event/15424556"
       - "https://cdss.org/event/jane-austen-ball-2/"
     start: "2025-12-12T19:00:00-05:00"
     end: "2025-12-12T21:00:00-05:00"
@@ -54372,10 +54377,10 @@ events:
     workshop: false
     social: true
     bands:
-      - Ciona
       - Trip to Norwich
     callers:
       - David Millstone
+    price: free
     organisation: David Millstone
   - name: ContraATL Weekly Dance
     details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
@@ -54391,6 +54396,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Cleveland Second Friday English Country Dance
     details: "Come join us at our monthly Second Friday English Country Dance.  \nLive music by Toad in the Hole. Callers: Carol Kopp, Steve Otlowski, & Elizabeth Estep \nWood Floor. \nSuggested Donation $10 (Pay what you can)"
@@ -54435,7 +54441,7 @@ events:
     links:
       - "https://monroviaecd.org/"
       - "https://cdss.org/event/monrovia-english-country-dance/2025-12-12/"
-    start: "2025-12-12T19:30:00-08:00"
+    start: "2025-12-12T19:15:00-08:00"
     end: "2025-12-12T22:00:00-08:00"
     country: USA
     state: CA
@@ -54449,6 +54455,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6130"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2025-12-12/"
     start: "2025-12-12T19:30:00-08:00"
     end: "2025-12-12T22:30:00-08:00"
@@ -54459,6 +54466,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Laura Hatch
     price: $7-$20
     organisation: Portland Country Dance Community
   - name: "Fiddler's Dream"
