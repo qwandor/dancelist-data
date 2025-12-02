@@ -54500,23 +54500,10 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Drew Delaware
+    price: $7-$35
     organisation: Toronto Contra Dance
-  - name: Floyd Contra Dance
-    details: "Come celebrate the holidays with us! December 13th is a joint dance with Floyd and Blacksburg Contra Dance. The Morrison Brothers will be playing and Valerie Helbert will be calling. This dance will be in Blacksburg. Lessons at 7, Dance at 7:30. $10 ($5 for students)."
-    links:
-      - "https://www.floydcontradance.org/"
-      - "https://cdss.org/event/floyd-contra-dance-4-3/"
-    start: "2025-12-13T19:00:00-05:00"
-    end: "2025-12-13T22:30:00-05:00"
-    country: USA
-    state: Blacksburg
-    city: 1000 N. Main St
-    styles:
-      - contra
-    workshop: true
-    social: true
-    price: $5-$10
-    organisation: CDSS
   - name: CDK Contra & Square Dance
     details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \nSuggested donation $5-$20"
     links:
@@ -54567,11 +54554,13 @@ events:
     social: true
     price: $8-$20
     organisation: Valley Contra Dance Society
-  - name: Blacksburg Contra Dance
+  - name: Floyd & Blacksburg Contra Dance
     details: "Join us for a holiday with Floyd Contra Dance on Sat., Dec 13th. The Morrison Brothers are playing with Valerie Helbert calling. Lessons at 7, Dance at 7:30"
     links:
       - "https://blacksburgcontradance.com/contradance.html"
+      - "https://www.floydcontradance.org/"
       - "https://cdss.org/event/blacksburg-contra-dance-4/"
+      - "https://cdss.org/event/floyd-contra-dance-4-3/"
     start: "2025-12-13T19:00:00-05:00"
     end: "2025-12-13T22:30:00-05:00"
     country: USA
@@ -54581,36 +54570,44 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Morrison Brothers
+    callers:
+      - Valerie Helbert
+    price: $5-$10
     organisation: Blacksburg Contra Dance
   - name: Space Coast Contra Dance
     details: "Our second Saturday contra dance on the Space Coast of FL featuring live bands, awesome callers, and a friendly crowd. All are welcome. No partner needed. For more information, visit our website. We’d love to have you join us! \n$15; $5 for 25 and under."
     links:
       - "https://spacecoastcontra.org/calendar-upcoming-contra-dances/"
       - "https://cdss.org/event/space-coast-contra-dance/2025-12-13/"
-    start: "2025-12-13T19:30:00-05:00"
+    start: "2025-12-13T19:00:00-05:00"
     end: "2025-12-13T22:30:00-05:00"
     country: USA
     state: FL
     city: Cocoa
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $5-$15
     organisation: Space Coast Contra Dance
-  - name: "Williamstown, MA Contra Dance"
+  - name: Williamstown Contra Dance
     details: "Community contra dance, all welcome."
     links:
       - "https://cdss.org/event/williamstown-ma-contra-dance/2025-12-13/"
-    start: "2025-12-13T19:30:00-05:00"
+    start: "2025-12-13T19:15:00-05:00"
     end: "2025-12-13T22:30:00-05:00"
     country: USA
     state: MA
     city: Williamstown
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    callers:
+      - Luke Donforth
+    price: $12-$20
     organisation: North Berkshire Community Dance
   - name: Princeton English Country Dance
     details: "English Country Dance every 2nd Saturday (except November and December), 7:30-10:30."
@@ -54626,10 +54623,12 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: Hudson Valley Contra Dance
     details: "Music by Termites’ Delight: Michael Gorin on fiddle, Susie Deane Miller on piano, Chris Carpenter on mandolin, banjo and clarinet \nCaller Maggie McRae \nRole terms Larks and Robins \n\nBeginner lesson 7:15, dance 7:30-10:30pm. \nAdmission: $15-20 sliding scale, $7-10 with full-time student ID"
     links:
+      - "https://www.hudsonvalleydance.org/contra"
       - "https://cdss.org/event/hudson-valley-contra-dance/"
     start: "2025-12-13T19:30:00-05:00"
     end: "2025-12-13T22:30:00-05:00"
@@ -54640,7 +54639,11 @@ events:
       - contra
     workshop: true
     social: true
-    price: $7-$15
+    bands:
+      - Termites Delight
+    callers:
+      - Maggie McRae
+    price: $7-$20
     organisation: CDSS
   - name: Contra Dance
     details: "Join us for a Contra Dance at Woodlawn Elementary School in Lawrence, Kansas. \nDoors 6:30\nLesson 7:00\nDance begins 7:30 \nOpen to both beginners and newcomers without experience. Those new to contra should attend the free lesson at 6:45. All ages welcome! \nOur dances are social, inclusive, fun, and beginner friendly. No experience? No partner? No problem!\nWe strongly recommend that newcomers and beginners arrive at 6:45 for the lesson. The lesson is fun and an invaluable experience – you will enjoy the rest of the dance much more after the lesson. \n\nAll dances are taught and prompted, and feature live music.\nYou’ll hear our callers use gender-free terms like Larks and Robins. Larks dance on the left side of a pair of dancers; Robins dance on the right side.\nContra dancing is fun and vigorous! Wear comfortable clothes and clean shoes. No black heels and no dance powder allowed on the floor.\n\nFlexible admission rates for in-person dances:\nAdult admission pay what you can between $8 to $15+ to help support our dances.\nAdults just listening (not dancing) $5\nStudents $5\nChildren under 16 $free \nDon’t miss another dance opportunity! Sign up on our email list to get twice a month reminders of all upcoming events. \nOn our website, check out our tips for beginners, complete with videos of lessons. \nBand: Bodarc \nBodarc is an old-timey string band as firmly rooted, brawny, versatile, and quintessentially Kansas as their name. With Bob Atchison on fiddle, Derrick Doty on fiddle and banjo, and Nathan Page on guitar. \nCaller: Jill Allen"
@@ -54667,7 +54670,7 @@ events:
     links:
       - "https://www.guidingstargrange.org/events.html"
       - "https://cdss.org/event/second-saturday-tophill-music-contradance-party-at-guiding-star-grange/2025-12-13/"
-    start: "2025-12-13T20:00:00-05:00"
+    start: "2025-12-13T19:45:00-05:00"
     end: "2025-12-13T23:00:00-05:00"
     country: USA
     state: MA
@@ -54676,7 +54679,11 @@ events:
       - contra
     workshop: true
     social: true
-    price: $12
+    bands:
+      - Red Case Band
+    callers:
+      - Will Mentor
+    price: $12-$20
     organisation: Alice Kenney
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Oklahoma City, second and fourth Saturdays. Check our Facebook or our website for more details!"
@@ -54724,6 +54731,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Contra Dance
     details: "HATDS hosts contra dances on the 2nd and 4th Saturdays of most months. We dance to live music. All skill levels are welcome and all dances are called. Bring water and clean shoes! \nThe admission price for contra dances is $10 for members, $15 for non-members. Cash, checks, credit cards, and digital wallets are currently accepted at the door. If paying cash, please bring correct change. No large bills accepted."
@@ -54762,7 +54770,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2025-12-13/"
-    start: "2025-12-13T20:00:00-06:00"
+    start: "2025-12-13T19:30:00-06:00"
     end: "2025-12-13T23:00:00-06:00"
     country: USA
     state: MN
@@ -54771,6 +54779,8 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Sugar on the Roof
     callers:
       - Beau Farmer
     price: $4-$15
@@ -54795,6 +54805,7 @@ events:
     details: "Contra Dance with the Moab Community Dance Band, guest fiddler Audrey Jaber, and community callers. Beginner workshop at 7:30, and the dance starts at 8pm. Suggested donation $10."
     links:
       - "https://cdss.org/event/moab-contra-dance/"
+      - "https://www.facebook.com/events/761225593044361/"
     start: "2025-12-13T19:30:00-07:00"
     end: "2025-12-13T22:00:00-07:00"
     country: USA
