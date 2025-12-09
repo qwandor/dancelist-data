@@ -54565,7 +54565,7 @@ events:
     links:
       - "https://www.worcesterdance.org/"
       - "https://cdss.org/event/worcester-contra-dance-2/"
-    start: "2025-12-13T19:00:00-05:00"
+    start: "2025-12-13T18:45:00-05:00"
     end: "2025-12-13T22:00:00-05:00"
     country: USA
     state: MA
@@ -54574,7 +54574,11 @@ events:
       - contra
     workshop: true
     social: true
-    price: $6-$25
+    bands:
+      - Jumpstart
+    callers:
+      - Yaron Shragai
+    price: $6-$12
     organisation: CDSS
   - name: CDK Contra & Square Dance
     details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \nSuggested donation $5-$20"
@@ -55913,55 +55917,45 @@ events:
     links:
       - "https://lancastercontra.org/"
       - "https://cdss.org/event/lancaster-pa-monthly-contra-dance/2025-12-20/"
-    start: "2025-12-20T19:00:00-05:00"
+    start: "2025-12-20T18:30:00-05:00"
     end: "2025-12-20T22:00:00-05:00"
     country: USA
     state: PA
     city: Lancaster
     styles:
       - contra
-    workshop: false
-    social: true
-    organisation: Lancaster Contra Dance
-  - name: Contra at Guiding Star Grange
-    details: "The Moving Violations are: Ron Grosslein (fiddle, mandolin, djembe), Autumn Rose Lester (fiddle), and Eric Eid-Reiner (piano). Caller varies each month; please check the Guiding Star Grange website for details. \nSchedule: Newcomers workshop 7:30-8:00 p.m. Contra dance 8:00-11:00 p.m. \nCost: $12-20 sliding scale ($10 for students and children, $8 for under 13) at the door. \nCalling terms: Gender-neutral terms (larks and robins) are used at the 3rd Saturday dance. \nThere is no preregistration or verified dancer list for the 3rd Sat. dance. There is also no attendance cap. \nSee venue website for this month’s details. \nMasks are welcome but optional. Ventilation will be provided to the extent possible, depending on temperature, humidity, and number of dancers. If you are experiencing any symptoms, have tested positive for Covid in the last 10 days, or have a household member with Covid, please stay home and join us a future month."
-    links:
-      - "https://www.guidingstargrange.org/events.html"
-      - "https://cdss.org/event/third-saturday-contra-at-guiding-star-grange/2025-12-20/"
-    start: "2025-12-20T19:30:00-05:00"
-    end: "2025-12-20T23:00:00-05:00"
-    country: USA
-    state: MA
-    city: Greenfield
-    styles:
-      - contra
     workshop: true
     social: true
     bands:
-      - The Moving Violations
-    price: $8-$12
-    organisation: Van Kaynor
+      - Wild Wombats of the Chesapeake
+    callers:
+      - Penelope Weinberger
+    price: $12-$20
+    organisation: Lancaster Contra Dance
   - name: 3rd Saturday Contra Dance
     details: "Every 3rd Saturday from September through May. See our website for this month’s band and caller. \nWe use gender neutral role terms at all dances. \nProud Associate member of PATMAD and CDSS. \nPayment is on a sliding scale."
     links:
       - "https://3rdsaturday.thursdaycontra.com/"
       - "https://cdss.org/event/3rd-saturday-contra-dance-in-philadelphia/2025-12-20/"
-    start: "2025-12-20T19:30:00-05:00"
+    start: "2025-12-20T19:15:00-05:00"
     end: "2025-12-20T22:30:00-05:00"
     country: USA
     state: PA
     city: Philadelphia
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    callers:
+      - Rick Mohr
+    price: $10-$20
     organisation: PATMAD
   - name: Louisville Third-Saturday Contra Dance
     details: "Louisville, Kentucky’s monthly third-Saturday contra dance. Check our website for details on bands and callers. Don’t miss the free lesson at 7:30pm. First-time attendees dance free! Waltzing and snacks at the break."
     links:
       - "https://www.louisvillecountrydancers.org/dance-with-us-1"
       - "https://cdss.org/event/louisville-third-saturday-contra-dance/2025-12-20/"
-    start: "2025-12-20T20:00:00-05:00"
+    start: "2025-12-20T19:30:00-05:00"
     end: "2025-12-20T23:00:00-05:00"
     country: USA
     state: KY
@@ -55970,13 +55964,15 @@ events:
       - contra
     workshop: true
     social: true
+    price: $8-$15
     organisation: Louisville Country Dancers
   - name: Montpelier Contra Dance
     details: "Montpelier Contra Dance with callers and bands that perform regionally and nationally—see website or Facebook events\nBeginners, singles, and all ages are welcome; all dances are taught.\nGender-neutral role terms (Larks and Robins)\nNewcomers lesson 7:40 pm. Dancing 8-11pm.\nPlease bring clean soft-soled shoes.\nMasks optional / Excellent ventilation with open windows and ceiling exhaust fan (bring a sweater in cooler months)\nMore info at our website. \n$12 adults, $5 kids/low-income, $20 dance supporters.\nQuestions? 802-225-8921 or cdu.tim@gmail.com\nDancing 1st, 3rd, and 5th Saturdays year round"
     links:
-      - "https://capitalcitygrange.org/dancing/contradancing/"
+      - "https://www.montpeliercontradance.org/"
       - "https://cdss.org/event/montpelier-contra-dance/2025-12-20/"
-    start: "2025-12-20T20:00:00-05:00"
+      - "https://www.facebook.com/events/822327426813643/"
+    start: "2025-12-20T19:00:00-05:00"
     end: "2025-12-20T23:00:00-05:00"
     country: USA
     state: VT
@@ -55985,7 +55981,11 @@ events:
       - contra
     workshop: true
     social: true
-    price: $5-$20
+    bands:
+      - Eloise & Co.
+    callers:
+      - Nils Fredland
+    price: $5-$25
     organisation: Montpelier Contra Dance
   - name: Tucson Contra Dance
     details: "Join us for our first and third Saturday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check our website for more details."
@@ -56008,7 +56008,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2025-12-20/"
-    start: "2025-12-20T20:00:00-06:00"
+    start: "2025-12-20T19:30:00-06:00"
     end: "2025-12-20T23:00:00-06:00"
     country: USA
     state: MN
@@ -56017,8 +56017,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Flannels & Fishnets
     callers:
-      - Beau Farmer
+      - Qwill DuVall
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: Wasatch Contra Dance
@@ -56043,7 +56045,7 @@ events:
       - "https://www.contradancenc.org/"
       - "https://www.kvmr.org/kvmr-event/third-saturdays-contra-dance-nevada-county/"
       - "https://cdss.org/event/3rd-saturdays-contra-dance-grass-valley-ca-3-2/2025-12-20/"
-    start: "2025-12-20T19:00:00-08:00"
+    start: "2025-12-20T18:40:00-08:00"
     end: "2025-12-20T22:00:00-08:00"
     country: USA
     state: CA
@@ -56243,20 +56245,39 @@ events:
       - Chris Page
     price: $65.87-$161.90
     organisation: Knoxville Contra Dance
-  - name: The Flurry Festival
+  - name: Dance Flurry Festival
     details: "One of the largest traditional participatory dance and music festivals in North America, the 2026 Flurry will take place February 13-15, 2026, and will feature dance and music such as swing, blues, contra, square dancing, Cajun, Zydeco, English country, Balkan, Scandinavian, Latin, waltz, tango, Scottish, fusion, international, Irish, balfolk, African, Appalachian, Asian, hip hop, techno contra, instrument workshops, family programming, jams, storytelling, group singing, concerts, crafts, yoga and more! We offer a variety of ticket options ranging from single session to full weekend, discounts for young adults and seniors, and children under 12 are free! \nIn 2026 we will have four Pre-Festival Intensives on Friday afternoon, with Swing dancing starting at 12pm–5pm while Latin, Waltz, and Vocal Harmony are all 1pm–5pm. You can dedicate some extra hours to your favorite genre, or buy the combo ticket and take all four topics!"
     links:
+      - "http://www.flurryfestival.org/"
       - "https://cdss.org/event/the-flurry-festival/"
-    start: "2026-02-13T18:00:00-05:00"
+    start: "2026-02-13T12:00:00-05:00"
     end: "2026-02-15T18:00:00-05:00"
     country: USA
     state: NY
     city: Saratoga Springs
     styles:
+      - balfolk
       - contra
       - ecd
+      - scandi
+      - scd
     workshop: true
     social: true
+    bands:
+      - Good Company
+      - Malvenn
+      - Spare Parts
+      - Stomp Rocket
+      - Terpsechore
+      - The Faux Paws
+    callers:
+      - Alex Deis-Lauby
+      - Joanna Reiner Wilkinson
+      - Luke Donforth
+      - Maia McCormick
+      - Mary Wesley
+      - Paul Rosenberg
+      - Steve Zakon-Anderson
     organisation: Dance Flurry Organization (DFO)
   - name: Bayou Bedlam
     details: "Houston Area Traditional Dance Society invites you to The Bayou City for a contra dance weekend! \nBayou Bedlam 2026 (Feb 20-22) features the musical charisma of Eloise & Co. and the masterful calling talents of Cis Hinkle. \nBayou Bedlam is danced on a sprung wood floor. \nPlenty of snacks, an extensive Saturday lunch, and fabulous Sunday brunch are included. \nCallers in attendance have the chance to call with Eloise & Co. as well. \nWork trade and hospitality available! \nCis will be calling using gender-neutral terms (larks & robins)."
