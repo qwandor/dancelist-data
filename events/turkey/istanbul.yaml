@@ -1,26 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Balfolkist New Year Party
-    details: "Balfolkist, the Balfolk community in İstanbul, is organizing a New Year Party in Kadıköy, İstanbul. Live music all night, dancing, games, raffles, surprises..."
-    links:
-      - "https://www.facebook.com/share/1ALwkmLHgq/"
-      - "https://www.instagram.com/p/DSFX1D8jMgl/?igsh=MmR6M211cW00aDJv"
-    start: "0025-12-25T20:00:00+01:56"
-    end: "2025-12-25T23:59:00+03:00"
-    country: Turkey
-    city: İstanbul
-    styles:
-      - balfolk
-      - contra
-      - italian
-    workshop: false
-    social: true
-    bands:
-      - Deli Reçel
-      - Çılgın Marmelat
-      - 'Onur "Baffonz" Ucak'
-    price: 12 Euro
-    organisation: Balfolkist
   - name: "Balfest'day"
     links:
       - "https://www.facebook.com/events/325188639738631/"
@@ -107,4 +86,23 @@ events:
       - balfolk
     workshop: false
     social: true
+    organisation: Balfolkist
+  - name: Balfolkist New Year Party
+    details: "Balfolkist, the Balfolk community in İstanbul, is organizing a New Year Party in Kadıköy, İstanbul. Live music all night, dancing, games, raffles, surprises..."
+    links:
+      - "https://www.facebook.com/events/25187017664259375/"
+      - "https://www.instagram.com/p/DSFX1D8jMgl/?igsh=MmR6M211cW00aDJv"
+    start: "2025-12-25T20:00:00+01:56"
+    end: "2025-12-25T23:59:00+03:00"
+    country: Turkey
+    city: Istanbul
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Deli Reçel
+      - Çılgın Marmelat
+      - 'Onur "Baffonz" Ucak'
+    price: €12
     organisation: Balfolkist
