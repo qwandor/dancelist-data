@@ -57683,6 +57683,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $10
     organisation: New Hampshire English Country Dance Society
   - name: Contra Dance
     details: "Contra Dance in Colorado Springs, CO with live music. \nBeginner’s lesson at start of session. \n$10 adults; $5 students; children under 13 free with a paying adult."
@@ -57714,6 +57715,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Houston Area Traditional Dance Society
   - name: Roseville English Country Dance
     details: "English Country Dance at the Masonic Lodge, 235 Vernon St., Roseville! Check our website for the most current information. \nCost: $15 for adults; $10 for college students with ID; $5 for dancers under 18; $30 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
@@ -57752,8 +57754,8 @@ events:
     links:
       - "https://nbcds.org/english-country-dance/"
       - "https://cdss.org/event/sebastopol-1st-and-3rd-sunday-english-dance/2026-01-04/"
-    start: "2026-01-04T17:00:00-08:00"
-    end: "2026-01-04T19:30:00-08:00"
+    start: "2026-01-04T14:00:00-08:00"
+    end: "2026-01-04T16:30:00-08:00"
     country: USA
     state: CA
     city: Sebastopol
@@ -57761,14 +57763,14 @@ events:
       - ecd
     workshop: false
     social: true
-    price: $3-$15
+    price: $5-$15
     organisation: North Bay Country Dance Society
   - name: English Country Dance at Tapestry Folkdance Center
     details: "Every Sunday \nSmall Studio\n7:00 – 9:00 pm \n\n\n\n\n\n\n\n2nd Sunday of the Month\nLive Music with Anytime English Players | 6:30 – 9:00 pm \n​Cost:\n​Recorded Music:  $12 General Admission | $9 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\nLive Music: $15 General Admission | $12 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\n\n​“Pay What You Choose” first seven days of every month (1st through the 7th) – Newcomers especially encouraged to attend! \n\n\n\n\n\n\n\nEnglish country dancing is an accessible social dance form with a history going back several centuries. This is the dancing of Queen Elizabeth I, of Jane Austen, and a living tradition that inspires musical compositions and choreographies today. The music can be stately or spritely, traditional or modern, recorded or live. It is danced with simple walking or skipping steps in time to the music. All dances are taught and are usually done in “long-ways sets” with partners facing in lines down the hall. After a walk-through, the easy-to-learn figures are called throughout the dance as you interact with other couples in your set and then move on to the next and repeat.\n​\nYou can come by yourself and be assured of dancing throughout the evening, since our tradition is to welcome and teach beginners and change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience.  English country dance will satisfy your wish for pleasurable exercise, a warm social community, mental stimulation, or even transcendent aesthetic experiences. We invite you to join us!"
     links:
       - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2026-01-04/"
-    start: "2026-01-04T19:00:00-06:00"
+    start: "2026-01-04T18:30:00-06:00"
     end: "2026-01-04T21:00:00-06:00"
     country: USA
     state: MN
@@ -57777,24 +57779,27 @@ events:
       - ecd
     workshop: false
     social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
+    callers:
+      - Daniel Beal
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: Contra Dance in St Louis
     details: Weekly contra dance in St Louis area (actually Webster Groves MO). Always great live music. First dance each month features open calling.
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2026-01-04/"
-    start: "2026-01-04T19:00:00-06:00"
+    start: "2026-01-04T18:30:00-06:00"
     end: "2026-01-04T21:30:00-06:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Roger Wilco
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
@@ -57843,6 +57848,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: 38th Ralph Page Dance Event
     details: "Sponsored by the New England Folk Festival Association \n\nWhen: Friday 01/09/2026: 7:30pm-10:30pm\n& Saturday 01/10/2026: 10:00am-10:00pm\nWhere: Wesley United Methodist Church’s Gymnasium, 114 Main Street, Worcester, MA 01608:\nCome to: Ralph Page Dance Weekend, one of NEFFA’s two major sponsored events. You’ll experience a full program of exceptional music, varied traditional dancing, and lots of opportunities to be learn what makes the Ralph Page community special."
