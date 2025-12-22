@@ -3324,25 +3324,6 @@ events:
       - Lisa Greenleaf
     price: $125-$195
     organisation: Dance-A-Rama
-  - name: Atlanta Dance Weekend
-    links:
-      - "https://adw.contradance.org/"
-    start_date: 2025-11-07
-    end_date: 2025-11-09
-    country: USA
-    state: GA
-    city: Atlanta
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - River Road
-      - The Dam Beavers
-    callers:
-      - Alex Deis-Lauby
-      - Cis Hinkle
-    organisation: ContraATL
   - name: ContraCopia
     links:
       - "http://www.thursdaycontra.com/contracopia/"
@@ -3891,23 +3872,7 @@ events:
     callers:
       - Mary Wesley
       - Isaac Banner
-    organisation: TryContra
-  - name: Celebration!
-    links:
-      - "https://www.contradance.org/celebration/"
-    start_date: 2026-03-14
-    end_date: 2026-03-14
-    country: USA
-    state: GA
-    city: Decatur
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Playing with Fyre
-      - Playing with Lava
-      - "Ed, Tami, and the Dust Clouds"
+    price: $45-$120
     organisation: TryContra
   - name: Hash Dance Weekend
     links:
@@ -4125,8 +4090,8 @@ events:
   - name: Butterfly Whirl
     links:
       - "http://www.dancerhapsody.com/special-events/"
-    start_date: 2026-05-22
-    end_date: 2026-05-24
+    start: "2026-05-22T18:00:00-04:00"
+    end: "2026-05-24T15:00:00-04:00"
     country: USA
     state: GA
     city: Decatur
@@ -4140,7 +4105,7 @@ events:
     callers:
       - Cis Hinkle
       - Emily Rush
-    organisation: TryContra
+    organisation: Dance Rhapsody
   - name: AmWeek
     links:
       - "https://amweek.camp/"
@@ -4213,4 +4178,4 @@ events:
     callers:
       - Luke Donforth
       - Cis Hinkle
-    organisation: TryContra
+    organisation: ContraATL
