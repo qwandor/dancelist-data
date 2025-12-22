@@ -2352,12 +2352,12 @@ events:
     price: €5
     organisation: Balfolk Zeist
   - name: Knalbal
-    details: "Knalbal is het Balfolkfeest waar we het hele jaar naar uit kijken. We gaan knallend het jaar uit met Duo Leemans-Driessens, Zlabya en Trio Baftig. We zorgen voor een spetterend nieuwjaarsfeest met mooie muziek, leuke dansjes, champagne en oliebollen.\r\n \r\nWil je tot laat blijven of juist vroeg in de ochtend ;) Na het bal is er een sessie en sleep-in. Voor de sleep-in rekenen we 10 euro extra."
+    details: "Knalbal is het Balfolkfeest waar we het hele jaar naar uit kijken. We gaan knallend het jaar uit met Duo Leemans-Driessens, Zlabya en Trio Baftig. We zorgen voor een spetterend nieuwjaarsfeest met mooie muziek, leuke dansjes, champagne en oliebollen.\r\n \r\nWil je tot laat blijven of juist vroeg in de ochtend ;) Na het bal is er een sessie tot 04:00 en sleep-in tot 10:00. Voor de sleep-in rekenen we 10 euro extra."
     links:
       - "https://balfolkamsterdam.nl/knalbal"
       - "https://www.plug.events/event/festibal-een-balfolk-happening6"
-    start: "2025-12-31T20:00:00+01:00"
-    end: "2026-01-01T02:00:00+01:00"
+    start: "2025-12-31T19:00:00+01:00"
+    end: "2026-01-01T10:00:00+01:00"
     country: Netherlands
     city: Amsterdam
     styles:
@@ -2387,6 +2387,21 @@ events:
       - Paracetamol
     price: €25
     organisation: De Uelenspieghel
+  - name: Proefles Balfolkdansen Nijmegen
+    details: "Om in de sfeer te komen van het dansen en om aan mijn manier van lesgeven te proeven, is er op maandag 5 januari 2026 een proefles. In deze les leg ik een aantal dansen uit (waar we in de serie verder mee gaan). Er zijn 2 lessen van anderhalf uur, één voor beginners/begonners, voor iedereen die nog geen of pas een beetje danservaring heeft en één voor (half)gevorderde dansers. Zie hieronder de omschrijving van de beide groepen. \r\n\r\n19:00 – 20:30 (half)gevorderden\r\n20:30 – 22:00 beginners/begonners"
+    links:
+      - "https://www.plug.events/event/proefles-balfolkdansen-nijmegen"
+    start: "2026-01-05T19:00:00+01:00"
+    end: "2026-01-05T22:00:00+01:00"
+    country: Netherlands
+    city: Lent
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    bands:
+      - Louise Marius
+    organisation: Louise Marius
   - name: Dansavond
     details: "Tijdens onze vaste dansavond op dinsdag 6 januari komt Odevare spelen!\r\nOdevare is een Nederlandse folkband die hun muziek graag eens voor een balfolkpubliek wil spelen. Natuurlijk zijn ze daarvoor van harte welkom bij Balfolk Zeist! Een voorproefje van hun muziek vind je hier: https://youtu.be/E83S2G_Dk8o?si=Rv_b3mzxjedeFCB-\r\n\r\nZe spelen vanaf 20:00 uur, ongeveer een uur. De rest van de dansavond zetten we natuurlijk onze eigen muzieklijst aan. Wij hebben er al erg veel zin in!"
     links:
@@ -2629,17 +2644,19 @@ events:
     price: €6
     organisation: Balfolk Zuid-Holland
   - name: Folk Inferno XVIII
-    details: "Balfolk in Zwolle is terug van (nooit echt) weggeweest!\r\nHet 4e bal van dit seizoen..."
+    details: "Balfolk in Zwolle is terug van (nooit echt) weggeweest!\r\nHet 4e bal van dit seizoen: Mook!"
     links:
       - "https://www.plug.events/event/folk-inferno-xviii783"
     start: "2026-01-23T19:30:00+01:00"
-    end: "2026-01-23T22:30:00+01:00"
+    end: "2026-01-23T23:00:00+01:00"
     country: Netherlands
     city: Zwolle
     styles:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Mook
     price: €10-€20
     organisation: Folk Inferno
   - name: Drakenbal
@@ -2702,7 +2719,7 @@ events:
     workshop: true
     social: false
     price: donation
-    organisation: ~
+    organisation: Maarten Novemberbal
   - name: Balfolk Workshop Day with Pierre Chesneau (part 1)
     details: Dit is je kans om meer plezier te hebben in het dansen. Op zondag 1 februari komt Pierre Chesneau naar Nederland voor deel 1 van zijn introductie in de door hemzelf ontwikkelde Transformative Social Dance (TSD) methode. Op 8 maart volgt deel 2.
     links:
@@ -3452,6 +3469,24 @@ events:
     social: true
     price: €5
     organisation: Balfolk Zeist
+  - name: Dennefeest
+    details: "Dansen in het bos in het openlucht theater met 5 bands! Een band bij het eten en de mogelijkheid om een workshop voorafgaand te volgen.\r\n\r\nDe bands die dit jaar komen spelen zijn;\r\nAkleja\r\nDuo Du Balcon\r\nAndroneda\r\nFahrenheit\r\nLa Reveilleuse\r\n\r\nVandiekomsa\r\n\r\nDe workshop is nog niet bekend. Deze zal later bekend gemaakt worden."
+    links:
+      - "https://www.plug.events/event/dennefeest95"
+    start: "2026-06-27T11:30:00+02:00"
+    end: "2026-06-27T23:59:00+02:00"
+    country: Netherlands
+    city: Berghem
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Akleja
+      - Androneda
+      - Fahrenheit
+      - Vandiekomsa
+    organisation: Openluchttheater Hoessenbosch
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
