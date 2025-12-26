@@ -48472,7 +48472,7 @@ events:
     links:
       - "https://fsgw.org/event-6396178"
       - "https://cdss.org/event/fsgw-english-country-dance/2025-11-05/"
-    start: "2025-11-05T20:00:00-05:00"
+    start: "2025-11-05T19:30:00-05:00"
     end: "2025-11-05T22:30:00-05:00"
     country: USA
     state: MD
@@ -57300,6 +57300,7 @@ events:
   - name: Seacoast Contra Dance
     details: "First Fridays at Seacoast Contra – January Dance!  \nStart your year with music, movement, and community at First Fridays at Seacoast Contra! \nLineup\nBand: Free Association\n(Carol Bittenson, Debby Knight, Amy Larkin)\nCaller: Julie Whatmough\nSound: Steve Bittenson \nSchedule\n7:30 PM – Newcomer Lesson\n8:00–10:30 PM – Dancing\nAll dances are taught. No partner or experience needed. \nAdmission\nAdults: Sliding Scale $12–$20\nStudents: $10\nFamilies: $20\nChildren under 12: Free \nDance First, Pay Never!\nIf money’s tight, you can dance for free by volunteering:\nDoor greeting\nSetup or cleanup\nDance Angel for newcomers\nVolunteer sign-up \nCome dance, make new friends, and kick off the new year with us at Seacoast Contra!"
     links:
+      - "https://seacoastcontra.com/"
       - "https://cdss.org/event/seacoast-contra-dance/"
     start: "2026-01-02T19:30:00-05:00"
     end: "2026-01-02T22:30:00-05:00"
@@ -57310,6 +57311,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Free Association
+    callers:
+      - Julie Whatmough
     price: $10-$20
     organisation: Seacoast Contra
   - name: Lambertville Country Dancers
@@ -58149,7 +58154,7 @@ events:
     links:
       - "https://www.bfms.org/squarecontra.php"
       - "https://cdss.org/event/monday-night-english-country-dance-2/2026-01-07/"
-    start: "2026-01-07T20:00:00-05:00"
+    start: "2026-01-07T19:30:00-05:00"
     end: "2026-01-07T22:30:00-05:00"
     country: USA
     state: MD
@@ -58163,8 +58168,9 @@ events:
   - name: FSGW English Country Dance
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
+      - "https://fsgw.org/event-6430926"
       - "https://cdss.org/event/fsgw-english-country-dance/2026-01-07/"
-    start: "2026-01-07T20:00:00-05:00"
+    start: "2026-01-07T19:30:00-05:00"
     end: "2026-01-07T22:30:00-05:00"
     country: USA
     state: MD
@@ -58173,6 +58179,8 @@ events:
       - ecd
     workshop: true
     social: true
+    callers:
+      - Tom Roby
     price: $8-$17
     organisation: Folklore Society of Greater Washington
   - name: Princeton Country Dancers’ Contra Dance
@@ -58180,15 +58188,16 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2026-01-07/"
-    start: "2026-01-07T20:00:00-05:00"
+    start: "2026-01-07T19:30:00-05:00"
     end: "2026-01-07T22:30:00-05:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: Weekly Austin Contra Dance
     details: "A free weekly dance at Hancock Recreation Center, with music by the jam/pickup band, Local On-Call Orchestra (LOCO). We dance every week that Hancock Recreation Center is open. A brief beginners session is taught at 7:30, before the dance program begins. Dance ends about 9:30. Free parking lot.\n \n\nWe welcome beginners. If you can walk to a beat, you can contra dance! All dances are taught and called. No partner necessary. Dance either role – or both. Everyone is welcome. \n \nSober event. Family-friendly. LGBTQ+"
@@ -58240,12 +58249,14 @@ events:
     workshop: false
     social: true
     organisation: Cleveland English Dance Community
-  - name: Chattaboogie Dance Weekend
+  - name: Chattaboogie
     details: "Come on out to Chattanooga’s annual dance weekend! \nBands: Turnip The Beet with Christie Burns, and Evan Snoey with Alex Wilder \nCallers: Terry Doyle and Elijah Jaime \nSound: The Sound of Perfection with Ed Howe"
     links:
+      - "https://www.contranooga.dance/general-5"
+      - "https://www.facebook.com/events/804016632246250/"
       - "https://cdss.org/event/chattaboogie-dance-weekend/"
-    start_date: 2026-01-09
-    end_date: 2026-01-11
+    start: "2026-01-09T19:00:00-05:00"
+    end: "2026-01-11T15:00:00-05:00"
     country: USA
     state: GA
     city: Rossville
@@ -58256,8 +58267,11 @@ events:
     social: true
     bands:
       - Turnip the Beet
+      - Evan Snoey and Alex Wilder
     callers:
+      - Elijah Jaime
       - Terry Doyle
+    price: $102.50-$143.50
     organisation: Chattanooga Traditional Dance Society
   - name: Lake City Contra Dance
     details: "Thursday nights; doors open at 7 pm \nDances: intro/refresher workshop 7:15 pm, dancing 7:30 till 10:00 pm \nAdmission on a sliding scale $10 – 20 – pay what you can \nThe hall is well-ventilated and air-conditioned! \nFor more information call 206-525-0932, or send us email."
@@ -58273,7 +58287,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: 38th Ralph Page Dance Event
     details: "Sponsored by the New England Folk Festival Association \n\nWhen: Friday 01/09/2026: 7:30pm-10:30pm\n& Saturday 01/10/2026: 10:00am-10:00pm\nWhere: Wesley United Methodist Church’s Gymnasium, 114 Main Street, Worcester, MA 01608:\nCome to: Ralph Page Dance Weekend, one of NEFFA’s two major sponsored events. You’ll experience a full program of exceptional music, varied traditional dancing, and lots of opportunities to be learn what makes the Ralph Page community special."
