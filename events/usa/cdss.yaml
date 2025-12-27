@@ -57567,9 +57567,10 @@ events:
       - George Marshall
     price: $12-$20
     organisation: George Marshall
-  - name: Groton Grange Contra Dance!
+  - name: Groton Grange Contra Dance
     details: "Groton Grange #7 invites you to join the fun at our traditional New England Contra Dances on Saturdays in 2026 from 7:30 – 10 PM at Historic Groton Grange Hall, 80 Champney Street Groton, MA 01450 \nGroton Grange Contra Dances: Schedule for 2026: \nSaturday, January 3rd 2026: \n7:30PM-10:00PM – Contra Dance\nCaller: Don Heinold \nSuggested donation: $5 per person / $20 per couple or family / children under 3 free. \nRefreshments will be provided.\nThis dance is made possible by a grant from the Town of Groton’s Trust Fund Lecture Series."
     links:
+      - "https://grotongrange.org/events/contra-dance/"
       - "https://cdss.org/event/groton-grange-contra-dance/"
     start: "2026-01-03T19:30:00-05:00"
     end: "2026-01-03T22:00:00-05:00"
@@ -57580,9 +57581,11 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Contra Banditos
     callers:
       - Don Heinold
-    price: $5-$20
+    price: $5
     organisation: "Groton Grange #7"
   - name: Knoxville Contra Dance
     details: "Join us the first Saturday of every month (except February) for our monthly dance in the gymnasium of the Children’s Museum of Oak Ridge as we dance mostly contras. Neither partner or experience is required. All dances are taught. We usually have live music from a local band, and always live calling from a local caller. A donation is requested, but no one turned away."
@@ -58341,6 +58344,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Lewiston Contra Dance
     details: "We dance in the beautiful Trinity Commons at 247 Bates Street, Lewiston, ME. Sliding Scale $15-25, teens $5, kids under 12 free. Pay what you can! We’d love to dance with you! Beginners’ lesson at 7, dancing from 7:30-10. For more information, see our website or find us on Facebook!"
@@ -58356,7 +58360,11 @@ events:
       - contra
     workshop: true
     social: true
-    price: $5-$15
+    bands:
+      - Twitchell Hill Fiddleheads
+    callers:
+      - Hannah Chamberlain
+    price: $5-$25
     organisation: Lewiston Contra Dance
   - name: 38th Ralph Page Dance Event
     details: "Sponsored by the New England Folk Festival Association \n\nWhen: Friday 01/09/2026: 7:30pm-10:30pm\n& Saturday 01/10/2026: 10:00am-10:00pm\nWhere: Wesley United Methodist Church’s Gymnasium, 114 Main Street, Worcester, MA 01608:\nCome to: Ralph Page Dance Weekend, one of NEFFA’s two major sponsored events. You’ll experience a full program of exceptional music, varied traditional dancing, and lots of opportunities to be learn what makes the Ralph Page community special."
@@ -58425,7 +58433,7 @@ events:
     links:
       - "https://monroviaecd.org/"
       - "https://cdss.org/event/monrovia-english-country-dance/2026-01-09/"
-    start: "2026-01-09T19:30:00-08:00"
+    start: "2026-01-09T19:15:00-08:00"
     end: "2026-01-09T22:00:00-08:00"
     country: USA
     state: CA
@@ -58439,6 +58447,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6461"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2026-01-09/"
     start: "2026-01-09T19:30:00-08:00"
     end: "2026-01-09T22:30:00-08:00"
@@ -58449,6 +58458,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Melissa Running
     price: $7-$20
     organisation: Portland Country Dance Community
   - name: Stellar Days & Nights
