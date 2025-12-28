@@ -1,19 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: WillPower in Bristol
-    links:
-      - "https://bristolcontra.wordpress.com/"
-    start_date: 2025-09-26
-    end_date: 2025-09-26
-    country: UK
-    city: Bristol
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - WillPower
-    organisation: Webfeet
   - name: Sugar Loaf Band in Sedlescombe
     links:
       - "http://www.sugarloafband.co.uk/"
@@ -280,7 +266,6 @@ events:
   - name: The Tonic in Baldock
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
-      - "https://www.areyoudancing.com/dance-event/768871/"
     start_date: 2025-12-12
     end_date: 2025-12-12
     country: UK
@@ -324,50 +309,6 @@ events:
     callers:
       - Nicola Scott
     organisation: Webfeet
-  - name: Pair of Shears in Pucklechurch
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AB.20251216"
-    start_date: 2025-12-16
-    end_date: 2025-12-16
-    country: UK
-    city: Pucklechurch
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Pair of Shears
-    callers:
-      - Mic Spenceley
-    organisation: Webfeet
-  - name: Banjacs in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20251217"
-    start_date: 2025-12-17
-    end_date: 2025-12-17
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Banjacs
-    organisation: Webfeet
-  - name: "Blackbeard's Tea Party in London"
-    links:
-      - "https://www.bandsintown.com/e/107305098-blackbeard&#x27;s-tea-party-at-cecil-sharp-house"
-    start_date: 2025-12-19
-    end_date: 2025-12-19
-    country: UK
-    city: London
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-    organisation: Webfeet
   - name: Arish Mel in Piddletrenthide
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -381,49 +322,6 @@ events:
     social: true
     bands:
       - Arish Mel
-    organisation: Webfeet
-  - name: Freedom Fields Ceilidh Band in Plymouth
-    links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-      - "http://devonfolk.org/events-diary/"
-    start_date: 2025-12-19
-    end_date: 2025-12-19
-    country: UK
-    city: Plymouth
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Freedom Fields Ceilidh Band
-    organisation: Webfeet
-  - name: Banter in Bournemouth
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2025-12-20
-    end_date: 2025-12-20
-    country: UK
-    city: Bournemouth
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
-  - name: FittyGomash in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AX.20251220"
-    start_date: 2025-12-20
-    end_date: 2025-12-20
-    country: UK
-    city: Bristol
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - FittyGomash
     organisation: Webfeet
   - name: "Threepenny Bit in Chandler's Ford"
     links:
@@ -440,37 +338,6 @@ events:
       - Threepenny Bit
     callers:
       - Mary Panton
-    organisation: Webfeet
-  - name: Appledore Cielidh Band in Appledore
-    links:
-      - "http://mister.red/dance/appledore.htm#D.A0.20251221"
-    start_date: 2025-12-21
-    end_date: 2025-12-21
-    country: UK
-    city: Appledore
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Appledore Cielidh Band
-    organisation: Webfeet
-  - name: Will Power in Bristol
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AY.20251221"
-      - "http://mister.red/dance/bristol.htm#D.AI.20251221"
-    start_date: 2025-12-21
-    end_date: 2025-12-21
-    country: UK
-    city: Bristol
-    styles:
-      - balfolk
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - FittyGomash
-      - Will Power
     organisation: Webfeet
   - name: Polka Dots in York
     links:
@@ -516,8 +383,8 @@ events:
     organisation: Webfeet
   - name: Barnstormers in Kennford
     links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
       - "http://devonfolk.org/events-diary/"
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
     start_date: 2025-12-27
     end_date: 2025-12-27
     country: UK
@@ -560,6 +427,7 @@ events:
       - Jean Crook
     organisation: Webfeet
   - name: The Geckoes in Baldock
+    details: "[Sold Out]"
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
       - "https://www.areyoudancing.com/dance-event/768873/"
@@ -699,7 +567,21 @@ events:
     bands:
       - Snapdragon
     organisation: Webfeet
-  - name: Fairgreen Ceilidh Band in Norwich
+  - name: 3 Sticks in Baldock
+    links:
+      - "https://www.areyoudancing.com/dance-event/782537/"
+    start_date: 2026-01-09
+    end_date: 2026-01-09
+    country: UK
+    city: Baldock
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - 3 Sticks
+    organisation: Webfeet
+  - name: Fairgreen Band in Norwich
     links:
       - "http://www.mardles.org/mardles/ceilidhs/"
     start_date: 2026-01-09
@@ -711,7 +593,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Fairgreen Ceilidh Band
+      - Fairgreen Band
     organisation: Webfeet
   - name: Tatterdemalion in Dorchester
     links:
@@ -727,7 +609,7 @@ events:
     bands:
       - Tatterdemalion
     organisation: Webfeet
-  - name: Dave Shepherd & Anna Pack in Exeter
+  - name: "Text Box: Dave Shepherd & Anna Pack in Exeter"
     links:
       - "http://mister.red/dance/exeter.htm#D.AM.20260110"
     start_date: 2026-01-10
@@ -739,7 +621,23 @@ events:
     workshop: false
     social: true
     bands:
-      - Dave Shepherd & Anna Pack
+      - "Text Box: Dave Shepherd & Anna Pack"
+    organisation: Webfeet
+  - name: Warleggan in Kennington
+    links:
+      - "http://mister.red/dance/oxford.htm#D.FR.20260110"
+    start_date: 2026-01-10
+    end_date: 2026-01-10
+    country: UK
+    city: Kennington
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Warleggan
+    callers:
+      - Daisey Black
     organisation: Webfeet
   - name: Striding Edge in Addingham
     links:
@@ -1226,6 +1124,22 @@ events:
     callers:
       - Rob Taylor
     organisation: Webfeet
+  - name: The Hosepipe Band in Baldock
+    links:
+      - "https://www.areyoudancing.com/dance-event/782538/"
+    start_date: 2026-02-13
+    end_date: 2026-02-13
+    country: UK
+    city: Baldock
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Hosepipe Band
+    callers:
+      - Andy Rouse
+    organisation: Webfeet
   - name: Striding Edge in Borrowdale
     links:
       - "http://www.striding-edge.org/diary/"
@@ -1284,7 +1198,7 @@ events:
     callers:
       - Andy Rouse
     organisation: Webfeet
-  - name: Dave Shepherd & Anna Pack in Exeter
+  - name: "Text Box: Dave Shepherd & Anna Pack in Exeter"
     links:
       - "http://mister.red/dance/exeter.htm#D.AM.20260214"
     start_date: 2026-02-14
@@ -1296,7 +1210,37 @@ events:
     workshop: false
     social: true
     bands:
-      - Dave Shepherd & Anna Pack
+      - "Text Box: Dave Shepherd & Anna Pack"
+    organisation: Webfeet
+  - name: Melobo in Kennington
+    links:
+      - "http://mister.red/dance/oxford.htm#D.FR.20260214"
+    start_date: 2026-02-14
+    end_date: 2026-02-14
+    country: UK
+    city: Kennington
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Melobo
+    callers:
+      - Jane Bird
+    organisation: Webfeet
+  - name: Will Power in Bristol
+    links:
+      - "http://mister.red/dance/bristol.htm#D.AI.20260215"
+    start_date: 2026-02-15
+    end_date: 2026-02-15
+    country: UK
+    city: Bristol
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Will Power
     organisation: Webfeet
   - name: "Blackbeard's Tea Party in Edinburgh"
     links:
@@ -1356,6 +1300,20 @@ events:
       - Brian McMinn & Mike Green
     callers:
       - Mike Courthold
+    organisation: Webfeet
+  - name: "Blackbeard's Tea Party in Chester"
+    links:
+      - "https://www.bandsintown.com/e/107079559-blackbeard&#x27;s-tea-party-at-alexander&#x27;s-live"
+    start_date: 2026-02-19
+    end_date: 2026-02-19
+    country: UK
+    city: Chester
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Blackbeard's Tea Party"
     organisation: Webfeet
   - name: Stomping Ground in Bristol
     links:
@@ -1480,6 +1438,34 @@ events:
     bands:
       - Flash Co
     organisation: Webfeet
+  - name: Flash Company in Kennford
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2026-02-28
+    end_date: 2026-02-28
+    country: UK
+    city: Kennford
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Flash Company
+    organisation: Webfeet
+  - name: Freedom Fields Ceilidh Band in Plymouth
+    links:
+      - "http://devonfolk.org/events-diary/"
+    start_date: 2026-02-28
+    end_date: 2026-02-28
+    country: UK
+    city: Plymouth
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Freedom Fields Ceilidh Band
+    organisation: Webfeet
   - name: Dave Byett in Frenchay
     links:
       - "http://mister.red/dance/bristol.htm#D.AC.20260304"
@@ -1563,6 +1549,7 @@ events:
   - name: Kirkophany in Baldock
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
+      - "https://www.areyoudancing.com/dance-event/782545/"
     start_date: 2026-03-13
     end_date: 2026-03-13
     country: UK
@@ -1603,6 +1590,22 @@ events:
     social: true
     bands:
       - Striding Edge
+    organisation: Webfeet
+  - name: Dirty Big Canal Band in Kennington
+    links:
+      - "http://mister.red/dance/oxford.htm#D.FR.20260314"
+    start_date: 2026-03-14
+    end_date: 2026-03-14
+    country: UK
+    city: Kennington
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Dirty Big Canal Band
+    callers:
+      - Amy Gill
     organisation: Webfeet
   - name: Dave Yeomans in Frenchay
     links:
@@ -1853,6 +1856,20 @@ events:
     callers:
       - Gordon Potts
     organisation: Webfeet
+  - name: Cosmos Chocolat in Kennington
+    links:
+      - "http://mister.red/dance/oxford.htm#D.AX.20260426"
+    start_date: 2026-04-26
+    end_date: 2026-04-26
+    country: UK
+    city: Kennington
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Cosmos Chocolat
+    organisation: Webfeet
   - name: Bosun Higgs in Upton upon Severn
     details: "[Cancelled]"
     links:
@@ -1886,6 +1903,38 @@ events:
       - Contra Sutra
     callers:
       - Diane Silver
+    organisation: Webfeet
+  - name: Cock and Bull in Baldock
+    links:
+      - "https://www.areyoudancing.com/dance-event/782547/"
+    start_date: 2026-05-08
+    end_date: 2026-05-08
+    country: UK
+    city: Baldock
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Cock and Bull
+    callers:
+      - Barry Goodman
+    organisation: Webfeet
+  - name: Rainbow Folk in Kennington
+    links:
+      - "http://mister.red/dance/oxford.htm#D.FR.20260509"
+    start_date: 2026-05-09
+    end_date: 2026-05-09
+    country: UK
+    city: Kennington
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Rainbow Folk
+    callers:
+      - Lisa Heywood
     organisation: Webfeet
   - name: Contra Sutra in Englefield Green
     links:
@@ -2024,6 +2073,20 @@ events:
     social: true
     bands:
       - Catsfield Steamers
+    organisation: Webfeet
+  - name: Topette!! in Stroud
+    links:
+      - "https://balfolkstroud.uk/cps/gigs/topette-f7f34b.php"
+    start_date: 2026-06-13
+    end_date: 2026-06-13
+    country: UK
+    city: Stroud
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Topette!!
     organisation: Webfeet
   - name: Box of Frogs in Englefield Green
     links:
