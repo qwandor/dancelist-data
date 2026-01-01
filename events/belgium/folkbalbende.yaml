@@ -22614,7 +22614,9 @@ events:
   - name: Groot Bal
     details: Ball
     links:
+      - "https://oudebadhuis.antwerpen.be/groot-bal-maart"
       - "https://folkbalbende.be/event/2955"
+      - "https://folkbalbende.be/event/3778"
       - "https://www.facebook.com/events/648374848193137"
     start: "2026-03-21T15:00:00+01:00"
     end: "2026-03-21T22:00:00+01:00"
@@ -24770,6 +24772,7 @@ events:
     details: Ball
     links:
       - "https://folkbalbende.be/event/3760"
+      - "https://folkbalbende.be/event/3787"
     start: "2026-03-20T19:30:00+01:00"
     end: "2026-03-21T00:00:00+01:00"
     country: Belgium
@@ -24783,6 +24786,7 @@ events:
     details: Ball
     links:
       - "https://folkbalbende.be/event/3761"
+      - "https://folkbalbende.be/event/3789"
     start: "2026-05-15T19:30:00+02:00"
     end: "2026-05-16T00:00:00+02:00"
     country: Belgium
@@ -24809,6 +24813,7 @@ events:
     details: Ball
     links:
       - "https://folkbalbende.be/event/3763"
+      - "https://folkbalbende.be/event/3792"
     start: "2026-09-25T19:30:00+02:00"
     end: "2026-09-26T00:00:00+02:00"
     country: Belgium
@@ -24822,132 +24827,53 @@ events:
   - name: Ceilidh Ecossais
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.fullcircle.eu/event-6359510?"
+      - "https://fullcircle.eu/event-6359510"
+      - "https://www.thehoggies.be/upcoming-events/2026/02/06/ceilidh-at-full-circle-2x2wg"
       - "https://folkbalbende.be/event/3775"
-    start_date: 2026-02-06
-    end_date: 2026-02-06
+    start: "2026-02-06T19:30:00+01:00"
+    end: "2026-02-06T23:00:00+01:00"
     country: Belgium
     city: Brussels
     styles:
-      - balfolk
+      - s-ceilidh
     workshop: false
     social: true
     bands:
       - The Hoggies
+    price: €10-€22
     organisation: ~
-  - name: Souper/Ceilidh Ecossais
-    details: Ball
+  - name: Clan McKinnon Burns Supper and Ceilidh
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.debasiliek.be"
+      - "https://www.thehoggies.be/upcoming-events/2026/2/7/clan-mckinnon-burns-supper-and-ceilidh"
       - "https://folkbalbende.be/event/3776"
-    start_date: 2026-02-07
-    end_date: 2026-02-07
+    start: "2026-02-07T19:00:00+01:00"
+    end: "2026-02-07T23:30:00+01:00"
     country: Belgium
     city: Edegem
     styles:
-      - balfolk
+      - s-ceilidh
     workshop: false
     social: true
     bands:
       - The Hoggies
-    organisation: ~
-  - name: Bal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://accordsperdus.com/"
-      - "https://folkbalbende.be/event/3778"
-    start_date: 2026-03-15
-    end_date: 2026-03-15
-    country: Belgium
-    city: Antwerp
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Accords Perdus
-      - Roots Bal Sjanté
     organisation: ~
   - name: Ceilidh Ecossais
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://www.fullcircle.eu/event-6359510?"
+      - "https://www.thehoggies.be/upcoming-events/2025/9/19/ceilidh-at-full-circle-fsyw8"
       - "https://folkbalbende.be/event/3780"
-    start_date: 2026-04-24
-    end_date: 2026-04-24
+    start: "2026-04-24T19:30:00+02:00"
+    end: "2026-04-24T23:00:00+02:00"
     country: Belgium
     city: Brussels
     styles:
-      - balfolk
+      - s-ceilidh
     workshop: false
     social: true
     bands:
       - The Hoggies
+    price: €10-€22
     organisation: ~
-  - name: CaBal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.cabalfolk.be/"
-      - "https://folkbalbende.be/event/3787"
-    start_date: 2026-03-20
-    end_date: 2026-03-20
-    country: Belgium
-    city: Kortrijk
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: CaBal
-  - name: CaBal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.cabalfolk.be/"
-      - "https://folkbalbende.be/event/3789"
-    start_date: 2026-05-15
-    end_date: 2026-05-15
-    country: Belgium
-    city: Kortrijk
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: CaBal
-  - name: CaBal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.cabalfolk.be/"
-      - "https://folkbalbende.be/event/3791"
-    start_date: 2028-05-13
-    end_date: 2028-05-13
-    country: Belgium
-    city: Kortrijk
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: CaBal
-  - name: CaBal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.cabalfolk.be/"
-      - "https://folkbalbende.be/event/3792"
-    start_date: 2026-09-25
-    end_date: 2026-09-25
-    country: Belgium
-    city: Kortrijk
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: CaBal
   - name: CaBal
     details: Ball
     links:
@@ -24956,21 +24882,6 @@ events:
       - "https://folkbalbende.be/event/3793"
     start_date: 2026-11-13
     end_date: 2026-11-13
-    country: Belgium
-    city: Kortrijk
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: CaBal
-  - name: CaBal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.cabalfolk.be/"
-      - "https://folkbalbende.be/event/3802"
-    start_date: 2031-12-19
-    end_date: 2031-12-19
     country: Belgium
     city: Kortrijk
     styles:
