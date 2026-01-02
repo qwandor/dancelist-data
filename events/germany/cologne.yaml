@@ -545,7 +545,7 @@ events:
       - Wouter en de Draak
     price: €12-€17
     organisation: Balfolk Köln
-  - name: "Tanznachmittag - Stollwerck - Kost ar c'hoat"
+  - name: "Tanznachmittag - Stollwerck"
     details: "Der Kost ar c'hoat (angeblich übersetzt: Waldspaziergang) ist ein Tanz aus der Zentralbretagne. Er wird oft gespielt und hat ein paar mehr Elemente als andere bretonische Tänze wie die Gavotte oder An Dro.\n\nDaher nehmen wir uns die Zeit, um diesen Tanz ausführlich zu lernen. Eventuell noch eine zweite Variante, die man gut kombinieren kann.\n\nWenn die Zeit reicht, noch eine kleine Einführung in Dans Fisel, ohne Fußakkrobatik.\n\nZum Abschluss noch ein paar einfache bretonische Tänze.\n\nLink zum Tanz:\n\nhttps://de.wikipedia.org/wiki/Kost_ar_c%27hoat"
     links:
       - "https://www.balfolk-koeln.de/veranstaltungen/tanznachmittag-stollwerck-kost-ar-choat"
@@ -581,8 +581,8 @@ events:
     city: Cologne
     styles:
       - balfolk
-    workshop: false
-    social: true
+    workshop: true
+    social: false
     price: donation
     organisation: Balfolk Köln
   - name: Tanzlernabend - Tri Martolod
@@ -672,7 +672,7 @@ events:
     workshop: true
     social: false
     organisation: Balfolk Köln
-  - name: Tanznachmittag - Stollwerck - Rondeau
+  - name: Tanznachmittag - Stollwerck
     details: "An diesem Nachmittag vertiefen wir unsere Kenntnisse über Rondeaus.\n\nDer Rondeau-Schritt wird geübt und sowohl für den Rondeau en chaine und Rondeau en couple verwendet.\n\nDen Rondeau en chaine werden wir in der Grundform und mit einer Figur geübt.\n\nBeim Rondeau en couple üben wir die Bewegung, auch des gesamten Körpers, um mehr Sicherheit im Tanz zu finden. Einfache Figuren werden gezeigt als Einstieg in Variationen."
     links:
       - "https://www.balfolk-koeln.de/veranstaltungen/tanznachmittag-stollwerck-2"
@@ -701,7 +701,7 @@ events:
       - SkALD
     price: €12-€17
     organisation: Balfolk Köln
-  - name: Tanzlernabend - fällt aus
+  - name: Tanzlernabend
     details: "Da kein Dozent verfügbar ist, fällt dieser Termin aus."
     links:
       - "https://www.balfolk-koeln.de/veranstaltungen/tanzlernabend-16"
@@ -714,6 +714,7 @@ events:
     workshop: true
     social: false
     organisation: Balfolk Köln
+    cancelled: true
   - name: Tanzlernabend
     links:
       - "https://www.balfolk-koeln.de/veranstaltungen/tanzlernabend-17"
@@ -750,6 +751,7 @@ events:
       - balfolk
     workshop: true
     social: false
+    price: €50
     organisation: Balfolk Köln
   - name: Balfolk Köln
     links:
@@ -858,6 +860,7 @@ events:
     price: donation
     organisation: Balfolk Köln
   - name: Tanznachmittag - Stollwerck
+    details: Lernnachmittag im Bürgerhaus Stollwerck
     links:
       - "https://www.balfolk-koeln.de/veranstaltungen/tanznachmittag-stollwerck-8"
     start: "2026-02-01T15:00:00+01:00"
