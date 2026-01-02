@@ -34,6 +34,8 @@ jobs:
         run: dancelist import balfolknl events/netherlands/balfolk_nl.yaml
       - name: Import cdss
         run: dancelist import cdss events/usa/cdss.yaml
+      - name: Import cologne
+        run: dancelist import cologne events/germany/cologne.yaml
       - name: Import contrabridge
         run: dancelist import contrabridge events/uk/contrabridge.yaml
       - name: Import spreefolk
