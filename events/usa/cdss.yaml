@@ -58176,7 +58176,7 @@ events:
       - Kalia Kliban
     price: $6-$25
     organisation: Bay Area Country Dance Society
-  - name: Asheville English Country Dance for All
+  - name: English Country Dance for All
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:15 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition."
     links:
       - "https://oldfarmersball.com/english-country-dance/"
@@ -58184,8 +58184,8 @@ events:
     start: "2026-01-07T18:15:00-05:00"
     end: "2026-01-07T20:30:00-05:00"
     country: USA
-    state: Asheville
-    city: 30 George Washington Carver Ave
+    state: NC
+    city: Asheville
     styles:
       - ecd
     workshop: true
@@ -58983,15 +58983,16 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance/2026-01-11/"
-    start: "2026-01-11T16:00:00-05:00"
+    start: "2026-01-11T15:30:00-05:00"
     end: "2026-01-11T18:00:00-05:00"
     country: USA
-    state: Asheville
-    city: 236 Charlotte St
+    state: NC
+    city: Asheville
     styles:
       - ecd
     workshop: true
     social: true
+    price: free
     organisation: CDSS
   - name: Nashville Second Sunday English Country Dances
     details: "Sunday English Dances to Live Music, once a month from 4pm – 6pm\nThis dance is open to beginning and experienced dancers alike.\nCost: $5-20 sliding scale, pay what you can."
@@ -59025,23 +59026,6 @@ events:
     social: true
     price: $20
     organisation: Culver City English Country Dance
-  - name: "Musician's Workshop with Raven & Goose in Richmond"
-    details: "Following the Sunday afternoon contra dance, Corwin Zekley and Grace Fellows of Raven & Goose will teach a Dance Musician’s Workshop. \nKindly RSVP if possible, tadamsvacontra@gmail.com. \n\nRaven & Goose are a nationally touring contra duo. With fiery fiddlin’ from Corwin Zekley and foot stompin’ piano by Grace Fellows, they play original compositions and breathe new life into traditional tunes, all delivered with a passion that will get you up and dancing!  \nVirtuoso violinist, Corwin Zekley was born with a fiddle in their hands and plays with an intensity yet delicacy that pulls on the heartstrings of all who hear them. Corwin has eclectic musical roots, and enchants audiences playing anything from Celtic to Jazz to Country to Metal. Corwin studied at the Berklee College of Music, has played thousands of concerts, appeared on dozens of records, and has published books and albums of their own compositions. \nGrace Fellows grew up playing traditional musics on fiddle, and she synthesized her broad musical influences while studying at Calarts, and doing her masters at BIMM London. She became an accomplished pianist while performing as a singer/songwriter, and in the last couple years has become a powerhouse contra-pianist whose potent sense of rhythm will propel you around the dance floor. \n$5-20 sliding scale, Suggested $15"
-    links:
-      - "https://cdss.org/event/musicians-workshop-with-raven-goose-in-richmond-va/"
-    start: "2026-01-11T18:30:00-05:00"
-    end: "2026-01-11T20:30:00-05:00"
-    country: USA
-    state: VA
-    city: Richmond
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Raven & Goose
-    price: $5-$15
-    organisation: TADAMS (Traditional American Dance and Music Society)
   - name: Common Floor Contra Dance
     details: "Contra dancing in Portland, ME every second Sunday. For details, visit our website. \n$15 suggested donation."
     links:
@@ -59073,7 +59057,10 @@ events:
     workshop: false
     social: true
     bands:
-      - Anytime English Players
+      - Curtsy Chord
+    callers:
+      - Barbara Rice
+      - Midge Olsen
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: Contra Dance in St Louis
@@ -59081,15 +59068,18 @@ events:
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2026-01-11/"
-    start: "2026-01-11T19:00:00-06:00"
+    start: "2026-01-11T18:30:00-06:00"
     end: "2026-01-11T21:30:00-06:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    callers:
+      - Dale Wilson
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
@@ -59137,6 +59127,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: Knoxville Contra Dance
   - name: Nashville Monday Night English Country Dance Class
     details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
@@ -59159,7 +59150,7 @@ events:
     links:
       - "https://shenandoahvalleycontradance.weebly.com/monday-night-contra.html"
       - "https://cdss.org/event/verona-va-monday-night-contra-dance-2/2026-01-12/"
-    start: "2026-01-12T19:00:00-05:00"
+    start: "2026-01-12T18:45:00-05:00"
     end: "2026-01-12T21:00:00-05:00"
     country: USA
     state: VA
@@ -59168,7 +59159,11 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    bands:
+      - Raven & Goose
+    callers:
+      - Thea Nettleton
+    price: $10-$15
     organisation: Shenandoah Valley Contra Dance
   - name: Monday Contra Dance
     details: "What better way to start the week? Only $5! It’s Monday, and we (almost) always dance on Monday."
@@ -59191,7 +59186,7 @@ events:
     links:
       - "https://www.cincinnaticontradance.org/dance-schedule"
       - "https://cdss.org/event/monday-cincinnati-contra-dance/2026-01-12/"
-    start: "2026-01-12T19:30:00-05:00"
+    start: "2026-01-12T19:00:00-05:00"
     end: "2026-01-12T21:30:00-05:00"
     country: USA
     state: OH
@@ -59207,7 +59202,7 @@ events:
     links:
       - "https://www.chicagobarndance.org/calendar/"
       - "https://cdss.org/event/chicago-contra-dance/2026-01-12/"
-    start: "2026-01-12T19:00:00-06:00"
+    start: "2026-01-12T18:30:00-06:00"
     end: "2026-01-12T21:40:00-06:00"
     country: USA
     state: IL
@@ -59232,13 +59227,14 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10-$15
     organisation: CDSS
   - name: Austin English Country Dance
     details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
     links:
       - "https://taada.us/wp/events/"
       - "https://cdss.org/event/austin-english-country-dance/2026-01-12/"
-    start: "2026-01-12T19:30:00-06:00"
+    start: "2026-01-12T19:15:00-06:00"
     end: "2026-01-12T21:30:00-06:00"
     country: USA
     state: TX
@@ -59263,6 +59259,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: Stellar Days & Nights
     details: "You’re invited to the 17th “Annual” Stellar Days & Nights. \nA 4-day, 3-night winter music and dance event in the Rocky Mountains – Buena Vista, CO. Contra, English Country, and Couples Dancing, plus workshops and music jams.  Cozy accommodations. Amazing scenery. Yummy food. \nRegister now.\n$25 off per person early bird only runs thru October 15th. \nAnd we have our Talent Lineup:  \nCallers:\nDavid Millstone\nWendy Graham \nStomp Rocket\n(w/ Dave Langford, Glen Loper & Bethany Waickman) \nldlewild\n(w/ Mirinisa Stewart-Tengco, Clara Byom & Jacob Chen) \nCheck out the website for more information.   \nOrganized by: Arkansas Valley Music and Dance. \nPut this on your calendar now and plan to attend! Join our email list here or email us at Info@RockyMountainRanchDance.com to be added."
@@ -59356,18 +59353,20 @@ events:
   - name: Asheville Mid-Winter ECD Weekend
     details: "Mark your calendars now for an amazing weekend of English Country Dancing in charming, friendly and funky Asheville, North Carolina. With: Tom Roby. Music by Firecrest: Ben Schriber, Dave Wiesler & Paul Oorts. Check the website for details."
     links:
+      - "https://ashevillemidwinter.org/"
       - "https://cdss.org/event/asheville-mid-winter-ecd-weekend/"
-    start_date: 2026-02-06
-    end_date: 2026-02-08
+    start: "2026-02-06T19:00:00-05:00"
+    end: "2026-02-08T13:30:00-05:00"
     country: USA
     state: NC
     city: Asheville
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     callers:
       - Tom Roby
+    price: $120-$165
     organisation: CDSS
   - name: Cabin Fever
     details: "Three days of music, dance, and hanging out with couple hundred of your best friends. In 2026 we are featuring Chris Page calling to the music of Contraforce and Starling. Registration is limited to 200."
