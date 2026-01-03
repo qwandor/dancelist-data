@@ -494,16 +494,22 @@ events:
   - name: Birdsboro Contra Dance
     details: "Contra Dance on first Saturday of the month (Except July & August).  \nThe Birdsboro Contra Dance – Brought to you by the Conestoga Dance Association \nPosition terms: Larks & Robins. Beginners and all are welcome."
     links:
+      - "https://birdsborocontra.org/our-schedule/"
       - "https://cdss.org/event/birdsboro-contra-dance/2026-01-03/"
-    start: "2026-01-03T19:30:00-05:00"
+    start: "2026-01-03T19:10:00-05:00"
     end: "2026-01-03T22:30:00-05:00"
     country: USA
     state: PA
     city: Birdsboro
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Unbowed
+    callers:
+      - Terry Bachmann
+    price: $10-$20
     organisation: Jamey Hutchinson
   - name: Knoxville Contra Dance
     details: "Join us the first Saturday of every month (except February) for our monthly dance in the gymnasium of the Children’s Museum of Oak Ridge as we dance mostly contras. Neither partner or experience is required. All dances are taught. We usually have live music from a local band, and always live calling from a local caller. A donation is requested, but no one turned away."
@@ -1143,7 +1149,7 @@ events:
       - "https://austinbarndancers.org/"
       - "https://taada.us/wp/events/"
       - "https://cdss.org/event/weekly-austin-contra-dance/2026-01-07/"
-    start: "2026-01-07T19:30:00-06:00"
+    start: "2026-01-07T19:15:00-06:00"
     end: "2026-01-07T21:30:00-06:00"
     country: USA
     state: TX
@@ -1154,6 +1160,8 @@ events:
     social: true
     bands:
       - Local On-Call Orchestra
+    callers:
+      - Marc Airhart
     price: free
     organisation: CDSS
   - name: "Village Green English Country Dancers' Weekly Classes"
@@ -2082,7 +2090,7 @@ events:
     links:
       - "https://www.louisvillecountrydancers.org/dance-with-us-1"
       - "https://cdss.org/event/louisville-contra-dance/2026-01-12/"
-    start: "2026-01-12T20:00:00-05:00"
+    start: "2026-01-12T19:30:00-05:00"
     end: "2026-01-12T22:30:00-05:00"
     country: USA
     state: KY
@@ -2093,6 +2101,7 @@ events:
     social: true
     bands:
       - Monday Night All Stars
+    price: $5-$10
     organisation: Louisville Country Dancers
   - name: Monday Evening English Country Dance
     details: "All are welcome to join us for an evening of English country dance with live music. All dances talked and walked through. Easy parking, air conditioning, and fans. Snacks are encouraged for the break! Please register online at our website."
@@ -2163,22 +2172,23 @@ events:
     links:
       - "https://parkavenuecontra.org/"
       - "https://cdss.org/event/park-avenue-contra-swarthmore-pa/2026-01-13/"
-    start: "2026-01-13T19:30:00-05:00"
+    start: "2026-01-13T19:15:00-05:00"
     end: "2026-01-13T21:30:00-05:00"
     country: USA
     state: PA
     city: Swarthmore
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $10-$15
     organisation: Jenny Beer
   - name: Saint Louis Queer Contra
     details: "Come on out to Saint Louis Queer Contra \nSecond Tuesdays 7-9 pm (Lesson 6:45) at Focal Point – 2720 Sutton, Maplewood, MO\nOne of the most wholesome, friendly, and affirming things to do in St. Louis! \nAll dances taught, non-gendered calling, live music – no partner or experience needed."
     links:
       - "https://www.shedances.org/"
       - "https://cdss.org/event/saint-louis-queer-contra/2026-01-13/"
-    start: "2026-01-13T19:00:00-06:00"
+    start: "2026-01-13T18:45:00-06:00"
     end: "2026-01-13T21:00:00-06:00"
     country: USA
     state: MO
@@ -2187,6 +2197,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $10
     organisation: SheDances
   - name: English Country Dance Class
     details: "Whether you are brand new or LOVE this style of dancing, Tuesday nights in Pasadena is where you learn the skills to dance with elegance and ease! It’s a great mid-week pick-me-up with dance friends old and new. We dance on the 2nd, 4th, and 5th Tuesday of the month. \nPay $10 at the door, and pre-register on our website to receive all of the pertinent details! \nPlan on sticking around for after-hours socializing and getting the latest details on a favorite dance, the next ball, or that costume question you always wanted to ask."
@@ -2204,11 +2215,12 @@ events:
     social: false
     price: $10
     organisation: Historical Tea & Dance Society
-  - name: Asheville English Country Dance for All
+  - name: English Country Dance for All
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:15 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition."
     links:
+      - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-english-country-dance-for-all/2026-01-14/"
-    start: "2026-01-14T18:30:00-05:00"
+    start: "2026-01-14T18:15:00-05:00"
     end: "2026-01-14T20:30:00-05:00"
     country: USA
     state: NC
@@ -2269,8 +2281,9 @@ events:
   - name: FSGW English Country Dance
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
+      - "https://fsgw.org/event-6430927"
       - "https://cdss.org/event/fsgw-english-country-dance/2026-01-14/"
-    start: "2026-01-14T20:00:00-05:00"
+    start: "2026-01-14T19:30:00-05:00"
     end: "2026-01-14T22:30:00-05:00"
     country: USA
     state: MD
@@ -2279,6 +2292,8 @@ events:
       - ecd
     workshop: true
     social: true
+    callers:
+      - Dan Gillespie
     price: $8-$17
     organisation: Folklore Society of Greater Washington
   - name: Weekly Austin Contra Dance
@@ -2287,7 +2302,7 @@ events:
       - "https://austinbarndancers.org/"
       - "https://taada.us/wp/events/"
       - "https://cdss.org/event/weekly-austin-contra-dance/2026-01-14/"
-    start: "2026-01-14T19:30:00-06:00"
+    start: "2026-01-14T19:15:00-06:00"
     end: "2026-01-14T21:30:00-06:00"
     country: USA
     state: TX
@@ -2298,6 +2313,8 @@ events:
     social: true
     bands:
       - Local On-Call Orchestra
+    callers:
+      - Dale Rempert
     price: free
     organisation: CDSS
   - name: San Francisco Contra Dance
@@ -2305,7 +2322,7 @@ events:
     links:
       - "https://bacds.org/series/contra/san_francisco_wed/"
       - "https://cdss.org/event/san-francisco-contra-dance/2026-01-14/"
-    start: "2026-01-14T20:00:00-08:00"
+    start: "2026-01-14T19:30:00-08:00"
     end: "2026-01-14T22:30:00-08:00"
     country: USA
     state: CA
