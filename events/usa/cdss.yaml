@@ -2301,15 +2301,16 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2026-01-14/"
-    start: "2026-01-14T20:00:00-05:00"
+    start: "2026-01-14T19:30:00-05:00"
     end: "2026-01-14T22:30:00-05:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: Weekly Austin Contra Dance
     details: "A free weekly dance at Hancock Recreation Center, with music by the jam/pickup band, Local On-Call Orchestra (LOCO). We dance every week that Hancock Recreation Center is open. A brief beginners session is taught at 7:30, before the dance program begins. Dance ends about 9:30. Free parking lot.\n \n\nWe welcome beginners. If you can walk to a beat, you can contra dance! All dances are taught and called. No partner necessary. Dance either role – or both. Everyone is welcome. \n \nSober event. Family-friendly. LGBTQ+"
@@ -2395,6 +2396,7 @@ events:
     social: true
     callers:
       - Jenny Beer
+    price: $5-$10
     organisation: CDSS
   - name: Lake City Contra Dance
     details: "Thursday nights; doors open at 7 pm \nDances: intro/refresher workshop 7:15 pm, dancing 7:30 till 10:00 pm \nAdmission on a sliding scale $10 – 20 – pay what you can \nThe hall is well-ventilated and air-conditioned! \nFor more information call 206-525-0932, or send us email."
@@ -2410,7 +2412,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: Thursday Contra Dance
     details: "Weekly Contra Dance – See our website for this week’s band and caller(s).\nMostly contras with occasional squares, mixers, four facing fours, and more. \n\n7:30pm New Dancer Lesson; 8:00pm to 10:30pm dancing\nMasks are no longer required but are welcomed.\nOur sliding scale is $10-$15-$20.\nOur role terms are Larks and Robins."
@@ -2428,7 +2430,7 @@ events:
     social: true
     price: $10-$20
     organisation: PATMAD
-  - name: Third Thursday English Regency Dancing in Simi Valley
+  - name: Third Thursday English Regency Dancing
     details: "English Regency Dancing and Bridgerton™-era dance lessons for moderns (1795-1825). Be whisked through time as you learn smooth, elegant English Country Dance as Jane Austen might have danced herself. Light refreshments served; bring your own water. No costumes, partner, or experience required. Please, no high heels. \nLet’s all party like it’s 1799! \nPreregistration is mandatory\nEach participant must pre-register either in person at the community center or online. \nFor more information and registration, please contact the Rancho Santa Susana Community Center office staff at (805) 584-4456."
     links:
       - "https://www.valleyareaenglishregencysociety.org/about.html"
@@ -2442,6 +2444,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $10
     organisation: Valley Area English Regency Society
   - name: Stellar Days & Nights
     details: "You’re invited to the 17th “Annual” Stellar Days & Nights. \nA 4-day, 3-night winter music and dance event in the Rocky Mountains – Buena Vista, CO. Contra, English Country, and Couples Dancing, plus workshops and music jams.  Cozy accommodations. Amazing scenery. Yummy food. \nRegister now.\n$25 off per person early bird only runs thru October 15th. \nAnd we have our Talent Lineup:  \nCallers:\nDavid Millstone\nWendy Graham \nStomp Rocket\n(w/ Dave Langford, Glen Loper & Bethany Waickman) \nldlewild\n(w/ Mirinisa Stewart-Tengco, Clara Byom & Jacob Chen) \nCheck out the website for more information.   \nOrganized by: Arkansas Valley Music and Dance. \nPut this on your calendar now and plan to attend! Join our email list here or email us at Info@RockyMountainRanchDance.com to be added."
@@ -2484,22 +2487,24 @@ events:
       - Tom Mack
     price: free
     organisation: Shenandoah Valley Civil War Era Dancers
-  - name: Alice Raibourn & The Mystic Gorillas
+  - name: Gainesville Old Time Dance Society Contra Dance
     details: "The Mystic Gorillas are: \n\nRoger Eudy on guitar\nBuz Sibley on fiddle \nLloyd Baldwin on banjo and fiddle \n\nSchedule:  \n\n6:00pm – 7:00 – Setup\n7:00pm – 9:45pm – Introductory workshop & Contra Dance\n9:45 – 10:15pm — Cleanup\n\nSuggested Donation: \n\n$10 (ages 26+)\n$5 (ages 16-25)\nDancers ages 15 & under get in FREE when accompanied by an adult.\n\n\nPlease bring your own non-alcoholic beverage.\nThis is a friendly welcoming recreational activity and all are welcome.\nNo partner or experience is necessary.\nContra dancing is fun and we’ll teach you how.\nNo special dress is required.\nWear comfortable, casual attire & soft-soled non-marking shoes.\nSmoking and/or alcoholic beverages are not allowed at our dances."
     links:
+      - "https://godsdance.org/"
       - "https://cdss.org/event/contra-dance-with-alice-raibourn-the-mystic-gorillas/2026-01-16/"
     start: "2026-01-16T19:00:00-05:00"
     end: "2026-01-16T22:00:00-05:00"
-    country: "32603"
-    city: "Gainesville,"
+    country: USA
+    state: FL
+    city: Gainesville
     styles:
       - contra
     workshop: true
     social: true
     bands:
-      - Mystic Gorillas
+      - Coral Riff
     callers:
-      - Alice Raibourn
+      - Jonathan King
     price: $5-$10
     organisation: Gainesville Oldtime Dance Society (GODS)
   - name: TECDA Friday Evening Dance
@@ -2521,6 +2526,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Orlando Contra Dance
     details: "Welcome to the Orlando Contra Dance! We feature high-tempo, gender-neutral dancing. We are Florida’s only gender-neutral contra series. Dancing is open to everyone and free for students and returning beginners (2nd dance is free)! \nWe usually dance on the first and third Friday of the month. Holidays, semester breaks, and regional events happen, so check the schedule before going!"
@@ -2534,8 +2540,11 @@ events:
     city: Winter Park
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    callers:
+      - Sam Sharpless
+    price: $15
     organisation: Orlando Contra Dance
   - name: Rivanna Contra Dance
     details: "Third Friday contra dances in Charlottesville, VA. A few miles off I-64. Mask optional. Larks & Robins. Intro lesson 7:00 PM. Dance starts 7:30 PM.\nSliding scale admission: recommend $20"
@@ -2566,6 +2575,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Hot Springs Contradance
     details: "Monthly 3rd Friday dance in Hot Springs North Carolina, a mere 200 yards from the Appalachian Trail! \nFind us on Facebook: Friends of Hot Springs Contradance"
@@ -2580,13 +2590,14 @@ events:
       - contra
     workshop: false
     social: true
+    price: $10
     organisation: Charley Harvey
   - name: Friday Night Contra at Glen Echo
     details: "Join us in Glen Echo, Maryland, for a fun night of contras and an occasional square! There’s a free lesson at 7:30pm."
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2026-01-16/"
-    start: "2026-01-16T20:00:00-05:00"
+    start: "2026-01-16T19:30:00-05:00"
     end: "2026-01-16T23:00:00-05:00"
     country: USA
     state: MD
@@ -2595,6 +2606,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Friday Contra Dance
     details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$7 – $25, pay what you can."
