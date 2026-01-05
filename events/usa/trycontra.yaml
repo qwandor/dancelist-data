@@ -2421,7 +2421,7 @@ events:
       - Drive Train
       - Engine Room
     callers:
-      - Lyss Adkins
+      - Alyssa Adkins
       - Will Mentor
     price: $80-$120
     organisation: TryContra
@@ -2665,27 +2665,6 @@ events:
       - Susan Kevra
       - John Krumm
     price: $585-$1035
-    organisation: TryContra
-  - name: American Dance & Music Week
-    links:
-      - "https://camp.cdss.org/camp-weeks/american-dance-music-week/"
-    start: "2025-07-19T15:00:00-04:00"
-    end: "2025-07-26T10:00:00-04:00"
-    country: USA
-    state: MA
-    city: Plymouth
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Stringrays
-      - Jet Bridge
-    callers:
-      - Janine Smith
-      - Michael Karcher
-      - Lisa Greenleaf
-    price: $850-$1500
     organisation: TryContra
   - name: Sugar Hill Dance Weekend
     links:
@@ -3602,19 +3581,22 @@ events:
   - name: Contra Swing Shift Weekend
     links:
       - "https://www.swingshift.ltda.us/"
-    start_date: 2026-01-23
-    end_date: 2026-01-24
+    start: "2026-01-23T19:00:00-05:00"
+    end: "2026-01-25T01:00:00-05:00"
     country: USA
     state: KY
     city: Berea
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
       - Hot Coffee Breakdown
+      - Merry Maggots
     callers:
       - Katie Zanders
+    price: $35-$55
     organisation: TryContra
   - name: Peterborough Snow Ball
     links:
@@ -3636,7 +3618,7 @@ events:
     callers:
       - Liz Nelson
       - Nils Fredland
-      - Lyss Adkins
+      - Alyssa Adkins
       - Steve Zakon-Anderson
     price: $30
     organisation: TryContra
@@ -3899,6 +3881,7 @@ events:
     bands:
       - Contraforce
       - Playing with Fyre
+    price: $100-$145
     organisation: TryContra
   - name: Hash Dance Weekend
     links:
@@ -3920,28 +3903,11 @@ events:
       - Qwill Duvall
     price: $75-$120
     organisation: Folklore Society of Greater Washington
-  - name: Contra Camp
-    links:
-      - "https://www.halswaymanor.org.uk/event/contra-camp-2026"
-    start_date: 2026-04-10
-    end_date: 2026-04-12
-    country: UK
-    city: Halsway
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - WillPower
-      - Linda Game
-    callers:
-      - Louise Siddons
-    organisation: TryContra
   - name: Dancing Fish
     links:
-      - "https://dancingfish.dance/"
-    start_date: 2026-04-17
-    end_date: 2026-04-19
+      - "https://dancingfish.dance/event/wild-asparagus-weekend-2026/"
+    start: "2026-04-17T19:00:00-04:00"
+    end: "2026-04-19T15:00:00-04:00"
     country: USA
     state: FL
     city: Melrose
@@ -3953,6 +3919,7 @@ events:
       - Wild Asparagus
     callers:
       - George Marshall
+    price: $30-$60
     organisation: Dancing Fish
   - name: Epicenter
     links:
@@ -3972,6 +3939,7 @@ events:
     callers:
       - Gaye Fifer
       - Liz Nelson
+    price: $130-$195
     organisation: TryContra
   - name: SF Bay Queer Contra Dance Camp
     links:
@@ -3991,6 +3959,7 @@ events:
     callers:
       - Jeremy Korr
       - Koren Wake
+    price: $125-$635
     organisation: TryContra
   - name: Fiddlehead Frolic
     links:
@@ -4096,12 +4065,13 @@ events:
       - Alex Deis-Lauby
       - Lisa Greenleaf
     organisation: TryContra
-  - name: Spring Thaw Weekend
+  - name: Spring Thaw
     links:
       - "https://tcdance.org/thaw2026.php"
     start_date: 2026-05-08
     end_date: 2026-05-09
-    country: "ON"
+    country: Canada
+    state: Ontario
     city: Toronto
     styles:
       - contra
@@ -4111,8 +4081,8 @@ events:
   - name: Apple Blossom Bliss
     links:
       - "https://aactmad.org/appleblossombliss"
-    start_date: 2026-05-08
-    end_date: 2026-05-10
+    start: "2026-05-08T20:00:00-04:00"
+    end: "2026-05-10T20:00:00-04:00"
     country: USA
     state: MI
     city: Ann Arbor
@@ -4126,31 +4096,13 @@ events:
     callers:
       - Gaye Fifer
       - Sam Smith
-    organisation: TryContra
-  - name: May Heydays
-    links:
-      - "http://mayheydays.org.uk/"
-    start_date: 2026-05-01
-    end_date: 2026-05-04
-    country: UK
-    city: Evesham
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Bearded Dragons
-      - Contra Sutra
-    callers:
-      - Geoff Cubitt
-      - Louise Siddons
-      - Mark Elvins
+    price: $110-$130
     organisation: TryContra
   - name: Dancing Fish
     links:
-      - "https://dancingfish.dance/"
-    start_date: 2026-05-01
-    end_date: 2026-05-02
+      - "https://dancingfish.dance/event/lift-ticket-2/"
+    start: "2026-05-01T19:00:00-04:00"
+    end: "2026-05-02T21:00:00-04:00"
     country: USA
     state: FL
     city: Melrose
@@ -4160,26 +4112,8 @@ events:
     social: true
     bands:
       - Lift Ticket
+    price: $15-$60
     organisation: Dancing Fish
-  - name: Whitewater Whirl
-    links:
-      - "https://www.footmad.org/whirl"
-    start_date: 2026-05-01
-    end_date: 2026-05-03
-    country: USA
-    state: WV
-    city: Fayetteville
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Hot Coffee Breakdown
-      - The Hollertones
-    callers:
-      - Darlene Underwood
-      - Bob Isaacs
-    organisation: TryContra
   - name: Cascade Contras
     links:
       - "https://eugenefolklore.org/cascade-contras-2025/"
@@ -4194,29 +4128,10 @@ events:
     social: true
     bands:
       - Potato Factory
-      - The Fiddle Hellions
+      - Fiddle Hellions
     callers:
       - Frannie Marr
       - Michael Karcher
-    organisation: TryContra
-  - name: Meet Me in St Louis Dance Weekend
-    links:
-      - "https://childgrove.org/mmisl"
-    start_date: 2026-05-22
-    end_date: 2026-05-25
-    country: USA
-    state: MO
-    city: Webster Groves
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Playing with Fyre
-      - The Arcotones
-    callers:
-      - Sarah Kaiser
-      - Open Calling
     organisation: TryContra
   - name: FolkMADness Music & Dance Camp
     links:
@@ -4311,9 +4226,10 @@ events:
     organisation: Dance Rhapsody
   - name: Chain Reaction
     links:
+      - "https://www.tickettailor.com/events/chainreactiondance/1998112"
       - "https://www.facebook.com/events/4290369227949210/"
-    start_date: 2026-05-29
-    end_date: 2026-05-31
+    start: "2026-05-29T18:00:00-04:00"
+    end: "2026-05-31T13:00:00-04:00"
     country: USA
     state: ME
     city: Surry
@@ -4327,6 +4243,7 @@ events:
     callers:
       - Liz Nelson
       - Alex Deis-Lauby
+    price: $80-$120
     organisation: TryContra
   - name: Summer Soiree
     links:
@@ -4342,6 +4259,7 @@ events:
     social: true
     bands:
       - Engine Room
+      - Playing with Fyre
       - Stove Dragon
       - Rushfest
     callers:
@@ -4349,24 +4267,7 @@ events:
       - Jacqui Grennan
       - Emily Rush
     organisation: TryContra
-  - name: Stegastomp
-    links:
-      - "https://www.stegastomp.co.uk/"
-    start_date: 2026-07-03
-    end_date: 2026-07-05
-    country: UK
-    city: Harbury
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Contrasaurus
-    callers:
-      - Charlie Turner
-      - Sam Tetley Smith
-    organisation: TryContra
-  - name: Dance Trance Weekend
+  - name: Dance Trance
     links:
       - "https://www.dancetrance.ltda.us/"
     start_date: 2026-06-05
@@ -4378,12 +4279,12 @@ events:
       - contra
     workshop: true
     social: true
-    organisation: TryContra
+    organisation: Lexington Traditional Dance Association
   - name: Dancing Fish
     links:
-      - "https://dancingfish.dance/"
-    start_date: 2026-06-05
-    end_date: 2026-06-07
+      - "https://dancingfish.dance/event/seth-tepfer-potent-brew/"
+    start: "2026-06-06T19:00:00-04:00"
+    end: "2026-06-07T21:00:00-04:00"
     country: USA
     state: FL
     city: Melrose
@@ -4395,6 +4296,7 @@ events:
       - Potent Brew
     callers:
       - Seth Tepfer
+    price: $15-$60
     organisation: Dancing Fish
   - name: Gender-Free Dance Camp
     links:
@@ -4409,23 +4311,6 @@ events:
     workshop: true
     social: true
     organisation: TryContra
-  - name: Flamingo Fling Weekend
-    links:
-      - "http://scissortail.org/special-events/flamingo-fling/"
-    start_date: 2026-06-12
-    end_date: 2026-06-14
-    country: USA
-    state: OK
-    city: Oklahoma City
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Steam Packet
-    callers:
-      - Adina Gordon
-    organisation: TryContra
   - name: Swing into Summer
     links:
       - "http://www.swingintosummer.org/"
@@ -4438,25 +4323,6 @@ events:
       - contra
     workshop: true
     social: true
-    organisation: TryContra
-  - name: Lady of the Lake June Week
-    links:
-      - "http://www.ladyofthelake.org/june-week/"
-    start_date: 2026-06-21
-    end_date: 2026-06-27
-    country: USA
-    state: ID
-    city: "Harrison,"
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Contra Sutra
-      - Countercurrent
-    callers:
-      - Lisa Greenleaf
-      - Maia McCormick
     organisation: TryContra
   - name: Old Songs Festival
     links:
@@ -4486,14 +4352,16 @@ events:
     city: Aptos
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
+    price: $700-$1100
     organisation: TryContra
   - name: "Dance, Music & Spice"
     links:
       - "https://camp.cdss.org/camp-weeks/dance-music-spice-at-cavell/"
-    start_date: 2026-06-13
-    end_date: 2026-06-20
+    start: "2026-06-13T16:00:00-04:00"
+    end: "2026-06-20T12:00:00-04:00"
     country: USA
     state: MI
     city: Lexington
@@ -4505,6 +4373,7 @@ events:
       - Supertrad
     callers:
       - Gaye Fifer
+    price: $850-$1500
     organisation: TryContra
   - name: AmWeek
     links:
@@ -4525,19 +4394,6 @@ events:
       - Jacqui Grennan
       - Michael Karcher
     organisation: TryContra
-  - name: Cumberland Dance Week
-    links:
-      - "https://camp.cumberlanddanceweek.org/"
-    start_date: 2026-06-28
-    end_date: 2026-07-03
-    country: USA
-    state: TN
-    city: Pleasantville
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: TryContra
   - name: July Fourth
     links:
       - "https://cds-boston-j4weekend.weebly.com/"
@@ -4548,6 +4404,8 @@ events:
     city: Plymouth
     styles:
       - contra
+      - ecd
+      - irish-set
     workshop: true
     social: true
     organisation: TryContra
@@ -4561,8 +4419,11 @@ events:
     city: Plymouth
     styles:
       - contra
+      - ecd
+      - scd
     workshop: true
     social: true
+    price: $345-$467
     organisation: TryContra
   - name: Roanoke Railroader
     links:
@@ -4580,8 +4441,10 @@ events:
       - Toss the Possum
     callers:
       - Bob Isaacs
+      - Emily Rush
       - Janine Smith
       - Terry Doyle
+    price: $95-$175
     organisation: TryContra
   - name: River Rendezvous
     links:
@@ -4612,14 +4475,18 @@ events:
     state: NY
     city: Olivebridge
     styles:
+      - balfolk
       - contra
+      - scandi
     workshop: true
     social: true
     bands:
       - Andromeda
       - Pine Tree Flyers
+      - Vox Hunters
     callers:
       - Will Mentor
+    price: $615-$1065
     organisation: TryContra
   - name: American Dance & Music Week
     links:
@@ -4637,6 +4504,7 @@ events:
       - Good Time Old Time
       - Engine Room
     callers:
+      - Alyssa Adkins
       - Lisa Greenleaf
       - Will Mentor
       - Janine Smith
@@ -4644,8 +4512,8 @@ events:
   - name: Harmony of Song & Dance
     links:
       - "https://camp.cdss.org/camp-weeks/harmony-of-song-dance-at-pinewoods/"
-    start_date: 2026-08-08
-    end_date: 2026-08-13
+    start: "2026-08-08T15:00:00-04:00"
+    end: "2026-08-13T10:00:00-04:00"
     country: USA
     state: MA
     city: Plymouth
@@ -4653,6 +4521,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $850-$1500
     organisation: TryContra
   - name: Contradancers Delight Holiday
     links:
@@ -4669,7 +4538,7 @@ events:
     organisation: TryContra
   - name: Sugar Hill Dance Weekend
     links:
-      - "http://bloomingtoncontra.org/sugar-hill/"
+      - "https://bloomingtoncontra.org/sugar-hill/"
     start_date: 2026-08-28
     end_date: 2026-08-30
     country: USA
@@ -4679,56 +4548,59 @@ events:
       - contra
     workshop: true
     social: true
-    bands:
-      - Open Band
-    callers:
-      - Open Calling
     organisation: TryContra
   - name: Family Week
     links:
-      - "https://camp.cdss.org/camp-weeks/family-week-at-agassiz-village-2/"
-    start_date: 2026-08-08
-    end_date: 2026-08-14
+      - "https://camp.cdss.org/camp-weeks/family-week-at-agassiz-village/"
+    start: "2026-08-08T15:00:00-04:00"
+    end: "2026-08-14T10:00:00-04:00"
     country: USA
     state: ME
     city: Poland
     styles:
+      - balfolk
       - contra
+      - ecd
     workshop: true
     social: true
     callers:
       - Alex Deis-Lauby
       - Gaye Fifer
+    price: $850-$1500
     organisation: TryContra
   - name: Cascade of Music & Dance
     links:
       - "https://camp.cdss.org/camp-weeks/cascade-of-music-dance-at-louise/"
-    start_date: 2026-08-17
-    end_date: 2026-08-23
+    start: "2026-08-17T16:00:00-04:00"
+    end: "2026-08-23T10:00:00-04:00"
     country: USA
     state: MD
     city: Cascade
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
       - Stomp Rocket
     callers:
       - Mary Wesley
+    price: $750-$1400
     organisation: TryContra
-  - name: Campers’ Week
+  - name: Campers' Week
     links:
       - "https://camp.cdss.org/camp-weeks/campers-week-at-pinewoods/"
-    start_date: 2026-08-01
-    end_date: 2026-08-08
+    start: "2026-08-01T15:00:00-04:00"
+    end: "2026-08-08T10:00:00-04:00"
     country: USA
     state: MA
     city: Plymouth
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
+    price: $750-$1400
     organisation: TryContra
   - name: Mentone
     links:
@@ -4799,7 +4671,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Alex and Audrey
+      - Alex Cumming & Audrey Jaber
     callers:
       - Will Mentor
     organisation: TryContra
@@ -4813,6 +4685,7 @@ events:
     city: Plymouth
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     organisation: TryContra
@@ -4821,7 +4694,8 @@ events:
       - "https://chehalisdancecamp.com/"
     start_date: 2026-10-23
     end_date: 2026-10-25
-    country: BC
+    country: Canada
+    state: BC
     city: Surrey
     styles:
       - contra
@@ -4872,15 +4746,20 @@ events:
   - name: Mt. Nebo Dance Weekend
     links:
       - "https://www.arkansascountrydance.org/mtnebo"
-    start_date: 2026-09-18
-    end_date: 2026-09-20
+    start: "2026-09-18T19:00:00-00:00"
+    end: "2026-09-20T11:00:00-00:00"
     country: USA
     state: AR
     city: Mount Nebo State Park
     styles:
       - contra
+      - ecd
+      - scd
     workshop: true
     social: true
+    bands:
+      - The ACDS House Band
+    price: $45
     organisation: TryContra
   - name: ContraStock
     links:
@@ -4895,28 +4774,9 @@ events:
     workshop: true
     social: true
     organisation: TryContra
-  - name: Lady of the Lake Fall Camp
-    links:
-      - "http://www.ladyofthelake.org/fallwend/"
-    start_date: 2026-10-02
-    end_date: 2026-10-04
-    country: USA
-    state: ID
-    city: "Harrison,"
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - The Dam Beavers
-      - The Baby Corns
-    callers:
-      - Lindsey Dono
-      - Jeremy Korr
-    organisation: TryContra
   - name: Harvest Moon Dance Festival
     links:
-      - "http://www.sbcds.org/hm/"
+      - "https://www.sbcds.org/hm/"
     start_date: 2026-10-09
     end_date: 2026-10-11
     country: USA
@@ -4932,10 +4792,11 @@ events:
     callers:
       - Jacqui Grennan
       - Frannie Marr
+    price: $75-$195
     organisation: TryContra
   - name: Music City Masquerade
     links:
-      - "http://nashvillecountrydancers.org/music-city-masquerade/"
+      - "https://nashvillecountrydancers.org/music-city-masquerade/"
     start_date: 2026-10-23
     end_date: 2026-10-25
     country: USA
@@ -4952,7 +4813,7 @@ events:
     organisation: TryContra
   - name: Foggy Moon Dance Weekend
     links:
-      - "http://montereycontradance.org/foggy-moon.html"
+      - "https://montereycontradance.org/foggy-moon.html"
     start_date: 2026-11-06
     end_date: 2026-11-08
     country: USA
@@ -4989,7 +4850,7 @@ events:
     organisation: ContraATL
   - name: Fleur-de-Lis Fling
     links:
-      - "http://www.louisvillecountrydancers.org/fleur-de-lis-fling"
+      - "https://www.louisvillecountrydancers.org/fleur-de-lis-fling"
     start_date: 2026-11-20
     end_date: 2026-11-22
     country: USA
@@ -4999,7 +4860,7 @@ events:
       - contra
     workshop: true
     social: true
-    organisation: TryContra
+    organisation: Louisville Country Dancers
   - name: Winter Warmup Dance Weekend
     links:
       - "https://bigscioty.com/winterwarmup/"
@@ -5010,6 +4871,6 @@ events:
     city: Worthington
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
-    organisation: TryContra
+    organisation: Big Scioty Contra Dance

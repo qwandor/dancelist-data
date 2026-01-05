@@ -2644,7 +2644,7 @@ events:
     links:
       - "https://lenoxcontradance.org/sched.php"
       - "https://cdss.org/event/lenox-contra-dance/2026-01-17/"
-    start: "2026-01-17T07:15:00-05:00"
+    start: "2026-01-17T17:15:00-05:00"
     end: "2026-01-17T22:30:00-05:00"
     country: USA
     state: MA
@@ -2653,7 +2653,11 @@ events:
       - contra
     workshop: true
     social: true
-    price: $8-$12
+    bands:
+      - Spare Parts
+    callers:
+      - Maggie McRae
+    price: $8-$15
     organisation: Lenox Contra Dance
   - name: Salty Swirl
     details: "Salty Swirl will be back in 2026! Mark your calendars now, and plan to join us for our local contra dance mini weekend that will include the live tunes of ContraForce and Hot Coffee Breakdown, with Emily Rush and Kenny Greer calling our dances."
@@ -2707,6 +2711,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: Southern Illinois Community Contra Dance
     details: "Our monthly dance is “Blue Zone” living in a war zone world. Connect with neighbors, move your body, eat healthy(ish) food, give your social media a downtime. Southern Illinois Community Contra Dance might just help you live to age 100. \n$5 or pay what you can."
@@ -2726,6 +2731,7 @@ events:
   - name: Annapolis English Country Dance
     details: "English Country Dance to delightful live music \n\nIntro lesson at 6:30; dance at 7:00. \nPre-registration is not required, but please email aefallon@verizon.net to let us know if you can help with pre-dance setup and/or post-dance hall restoration. Such help is much appreciated!\nFace masks are optional.\nVenue has windows and filter fans for circulation and ventilation.\nPlease bring own water.\nSnacks to share are welcome if you bring napkins, appropriate paper goods, and utensils and plan to clean up after snack time.\nNo experience or partner required.\n$15; students $5; children through 5 years old free. \nInfo: Ann Fallon, 410-507-0934, or Jan Scopel, 443-540-0867."
     links:
+      - "https://www.facebook.com/events/1200896862149053/"
       - "https://cdss.org/event/annapolis-english-country-dance/2026-01-17/"
     start: "2026-01-17T18:30:00-05:00"
     end: "2026-01-17T21:30:00-05:00"
@@ -2736,8 +2742,10 @@ events:
       - ecd
     workshop: true
     social: true
+    bands:
+      - Amberwing
     callers:
-      - Ann Fallon
+      - Kappy Laning
     price: $5-$15
     organisation: Annapolis Traditional Dance Society
   - name: South Florida Contradance
@@ -2745,20 +2753,6 @@ events:
     links:
       - "https://southfloridacontradance.com/"
       - "https://cdss.org/event/south-florida-contra-dances/2026-01-17/"
-    start: "2026-01-17T19:00:00-05:00"
-    end: "2026-01-17T21:30:00-05:00"
-    country: USA
-    state: FL
-    city: Boca Raton
-    styles:
-      - contra
-    workshop: true
-    social: true
-    organisation: CDSS
-  - name: South Florida Contradance
-    details: "Enjoying contra dance\nYou’ll be smiling and laughing.\nNo partner is necessary. Lesson at the beginning. Wear casual clothes and soft soled shoes.\nAge range 10-100\nDances are called.\nPut the phone down and destress your life."
-    links:
-      - "https://southfloridacontradance.com/"
       - "https://cdss.org/event/south-florida-contradance/2026-01-17/"
     start: "2026-01-17T19:00:00-05:00"
     end: "2026-01-17T21:30:00-05:00"
@@ -2769,6 +2763,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: CDSS
   - name: Syracuse Country Dancers Contra Dance
     details: Contra dancing every 1st and 3rd Saturday.
@@ -2784,21 +2779,28 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$15
     organisation: Syracuse Country Dancers
   - name: Lancaster Monthly Contra Dance
     details: "Join us on the third Saturday of each month for a community contra dance! Fall, winter and spring at the church; summer in the park pavilion."
     links:
       - "https://lancastercontra.org/"
       - "https://cdss.org/event/lancaster-pa-monthly-contra-dance/2026-01-17/"
-    start: "2026-01-17T19:00:00-05:00"
+    start: "2026-01-17T18:30:00-05:00"
     end: "2026-01-17T22:00:00-05:00"
     country: USA
     state: PA
     city: Lancaster
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Gooseberries
+    callers:
+      - Luke Schoppert
+      - Megan Toomey
+    price: $12-$20
     organisation: Lancaster Contra Dance
   - name: 3rd Saturday Contra Dance in Austin
     details: "This monthly contra dance meets most 3rd Saturdays at Go Dance Studio, in Northcross Mall Plaza near First Watch (NE corner).  \nNo partners necessary. Beginners welcome. All dances taught and called. Dance either role—or both. Newer dancers should arrive early for instructions on the basics. \nSuggested admission $10 sliding scale. Tips for the band are appreciated. You can see the band and caller on the schedule on our website. \nThis is a fragrance-free event. Sober event. Family-friendly. LGBTQ+. Everyone is welcome!"
@@ -2854,7 +2856,7 @@ events:
       - "https://www.contradancenc.org/"
       - "https://www.kvmr.org/kvmr-event/third-saturdays-contra-dance-nevada-county/"
       - "https://cdss.org/event/3rd-saturdays-contra-dance-grass-valley-ca-3-2/2026-01-17/"
-    start: "2026-01-17T19:00:00-08:00"
+    start: "2026-01-17T18:40:00-08:00"
     end: "2026-01-17T22:00:00-08:00"
     country: USA
     state: CA
@@ -2970,29 +2972,18 @@ events:
     workshop: true
     social: true
     bands:
-      - Good Company
       - Malvenn
       - Northwoods
       - Red Case Band
       - Spare Parts
-      - Spare Parts
-      - Stomp Rocket
       - Stove Dragon
-      - Terpsechore
-      - The Faux Paws
       - The Mean Lids
     callers:
-      - Alex Deis-Lauby
+      - Alyssa Adkins
       - Ben Sachs-Hamilton
-      - Joanna Reiner Wilkinson
       - Lindsey Dono
       - Lisa Greenleaf
-      - Luke Donforth
-      - Lyss Adkins
-      - Maia McCormick
-      - Mary Wesley
       - Paul Rosenberg
-      - Steve Zakon-Anderson
       - Will Mentor
     organisation: Dance Flurry Organization (DFO)
   - name: Bayou Bedlam
@@ -3290,6 +3281,8 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Steam Packet
     callers:
       - Adina Gordon
     organisation: Scissortail Traditional Dance Society
