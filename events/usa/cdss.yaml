@@ -3025,6 +3025,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Houston Area Traditional Dance Society
   - name: Sacramento English Country Dance
     details: "English Country Dance at the Young Ladies’ Institute, 1400 27th St., Sacramento! Check our website for the most current information. \nCost: $15 for adults; $10 for college students with ID; $5 for dancers under 18; $30 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
@@ -3541,9 +3542,10 @@ events:
     social: true
     price: $425-$720
     organisation: CDSS
-  - name: Fandango! 2026
+  - name: Fandango
     details: "Join us in Atlanta/Decatur, GA for a weekend of English Country Dance! \nJoanna Reiner Wilkinson, caller \nMusic by Karen Axelrod, Shira Kammen, & Anna Patton \nRegistration opens April 2026—check our website for updates. \nSee you in September!"
     links:
+      - "https://ecdatlanta.org/fandango/"
       - "https://cdss.org/event/fandango-2026/"
     start_date: 2026-09-18
     end_date: 2026-09-20
@@ -3552,7 +3554,7 @@ events:
     city: Decatur
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     callers:
       - Joanna Reiner Wilkinson
