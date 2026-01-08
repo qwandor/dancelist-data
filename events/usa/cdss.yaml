@@ -3070,8 +3070,8 @@ events:
     links:
       - "https://nbcds.org/english-country-dance/"
       - "https://cdss.org/event/sebastopol-1st-and-3rd-sunday-english-dance/2026-01-18/"
-    start: "2026-01-18T17:00:00-08:00"
-    end: "2026-01-18T19:30:00-08:00"
+    start: "2026-01-18T14:00:00-08:00"
+    end: "2026-01-18T16:30:00-08:00"
     country: USA
     state: CA
     city: Sebastopol
@@ -3086,7 +3086,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2026-01-18/"
-    start: "2026-01-18T19:00:00-06:00"
+    start: "2026-01-18T18:30:00-06:00"
     end: "2026-01-18T21:00:00-06:00"
     country: USA
     state: MN
@@ -3095,24 +3095,29 @@ events:
       - ecd
     workshop: false
     social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
+    callers:
+      - George Ehrenberg
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: Contra Dance in St Louis
     details: Weekly contra dance in St Louis area (actually Webster Groves MO). Always great live music. First dance each month features open calling.
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2026-01-18/"
-    start: "2026-01-18T19:00:00-06:00"
+    start: "2026-01-18T18:30:00-06:00"
     end: "2026-01-18T21:30:00-06:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Jim Nelson & Friends
+    callers:
+      - John Coffman
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
@@ -3670,16 +3675,19 @@ events:
     start_date: 2027-04-07
     end_date: 2027-04-14
     country: UK
-    city: England
+    city: Ely
     styles:
       - contra
     workshop: false
     social: true
     bands:
+      - Linda Game Band
       - Wild Asparagus
     callers:
+      - Charlie Turner
       - George Marshall
       - Lisa Greenleaf
+    price: $1700
     organisation: Gwyn Williams
   - name: 76th National Square Dance Convention
     details: "Enjoy hours and hours of contra dancing and related traditional dance (English, squares, community dance) at the 76th NSDC in Loveland, CO. Registration is open and the cost is currently $70 per adult.   \nContra callers! If you register by Dec. 31, 2026, you can be included as a caller in the Contra Hall! 3,000 attendees are expected at this national square dance convention! \nMore information available as we get closer to the date!"
