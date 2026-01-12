@@ -3615,6 +3615,7 @@ events:
   - name: Winter Folk Dancing In The Sun
     details: "Our 6th annual Winter Folk Dance Festival in the Sun\nat the Hotel Alay, Benalmadena, Costa del Sol, Spain\n(overlooking the World Famous Marina and just 15 minutes from Malaga Airport) \nTen glorious days and nights of music, song, English folk dancing, including contra, square, Playford, and of course a ceilidh evening, plus tutorials and workshops daily!"
     links:
+      - "https://gerryflynnevents.com/winter-folk-dancing-2026"
       - "https://cdss.org/event/winter-folk-dancing-in-the-sun/"
     start_date: 2026-01-24
     end_date: 2026-02-03
@@ -3623,8 +3624,12 @@ events:
     styles:
       - contra
       - ecd
+      - e-ceilidh
     workshop: true
     social: true
+    callers:
+      - Cis Hinkle
+    price: £899
     organisation: Gerry Flynn Events
   - name: Milford Contra Dance
     details: "The Milford contra dance happens every 4th Friday, unless the 4th Friday happens on Thanksgiving weekend or a Christmas weekend. Music is provided by a large 15+ member band, which allows anyone to sit in for just a single dance or the whole evening. Callers are usually local callers. The dance is usually large, with 100 or more in attendance. The dance is located in the Milford NH town hall, in the center  of town. Entry is on either side of the building, but not the big front steps. \nUnder 10 free; students/seniors $5; adults $12"
@@ -3663,7 +3668,7 @@ events:
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2026-01-23/"
-    start: "2026-01-23T20:00:00-05:00"
+    start: "2026-01-23T19:30:00-05:00"
     end: "2026-01-23T23:00:00-05:00"
     country: USA
     state: MD
@@ -3672,6 +3677,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Childgrove English Country Dance
     details: "The regular dance generally starts out with simpler dances early in the evening, progressing to dances with more difficulty later on, depending on the experience level of the crowd."
@@ -3758,9 +3764,10 @@ events:
     social: true
     price: $7-$20
     organisation: Portland Country Dance Community
-  - name: Peterborough NH Snow Ball
+  - name: Peterborough Snow Ball
     details: "The 30th Annual Snow Ball\nSaturday, January 24, 2026 \nDancing from noon to midnight \n$35 \nSeniors 65+ $25 \nUnder 25 pay your age \nRole terms: Larks and Robins \nMasks optional but recommended"
     links:
+      - "https://www.monadnockfolk.org/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-snow-ball-2026/"
       - "https://cdss.org/event/peterborough-nh-snow-ball/"
     start: "2026-01-24T12:00:00-05:00"
     end: "2026-01-25T00:00:00-05:00"
@@ -3771,20 +3778,31 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Anna and the Alphabet
+      - The Dam Beavers
+      - Riptide
+      - Springtide
+    callers:
+      - Alyssa Adkins
+      - Liz Nelson
+      - Nils Fredland
+      - Steve Zakon-Anderson
     price: $25-$35
     organisation: Monadnock Folklore Society
-  - name: TECDA January Monthly Dance
+  - name: TECDA Monthly Dance
     details: "TECDA is hosting a January Monthly dance at St. Barnabas Hall on Saturday January 24, 2026 2:30 – 5:30 pm, Cathy Campbell calling. \nMusicians: Daev Clysdale, Dorothy de Val \nMasks are optional.  Please bring your dancing shoes, water bottle. \nPreregistration at info@tecda.ca, but walk-ins are welcome.  \nSuggested donation $25.00 (or PWYC). This can be paid by e-transfer to payments@tecda.ca or cash at the door. \nSee you on the dance floor."
     links:
+      - "https://www.tecda.ca/special_dances.html"
       - "https://cdss.org/event/tecda-january-monthly-dance/"
-    start: "2026-01-24T14:30:00-05:00"
+    start: "2026-01-24T14:00:00-05:00"
     end: "2026-01-24T17:30:00-05:00"
     country: Canada
     state: Ontario
     city: Toronto
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     callers:
       - Cathy Campbell
@@ -3820,6 +3838,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$35
     organisation: Toronto Contra Dance
   - name: CDK Contra & Square Dance
     details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \nSuggested donation $5-$20"
@@ -3851,6 +3870,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5-$15
     organisation: Syracuse Country Dancers
   - name: Wooster English Country Dance
     details: "English country dances 1600 to present with beautiful live music by Fourpence. Instruction and prompting by Susan English. No experience or partner necessary; we will change partners. Dance with grace and a quiet energy. \n$8 adults, $5 students."
@@ -3891,6 +3911,7 @@ events:
   - name: Chattanooga Contra Dance
     details: "Come on out to the dance floor! Bring your soft-soled shoes and water bottle! We host callers and bands from across the East Coast! The beginner lesson is at 7 pm, and the dance is from 7:30 pm to 9:30 pm!"
     links:
+      - "https://www.contranooga.dance/"
       - "https://cdss.org/event/chattanooga-contra-dance/2026-01-24/"
     start: "2026-01-24T19:00:00-05:00"
     end: "2026-01-24T21:30:00-05:00"
@@ -3901,13 +3922,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $10-$15
     organisation: Chattanooga Traditional Dance Society
   - name: "Princeton Country Dancers' Combination Dance"
     details: "Combination Contra and English Country Dance every 4th Saturday, 7:30-10:30 (except February)"
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-combination-contra-and-english-country-dance/2026-01-24/"
-    start: "2026-01-24T19:30:00-05:00"
+    start: "2026-01-24T19:00:00-05:00"
     end: "2026-01-24T22:30:00-05:00"
     country: USA
     state: NJ
@@ -3917,12 +3939,19 @@ events:
       - ecd
     workshop: true
     social: true
+    bands:
+      - Raise the Roof
+    callers:
+      - Bob Isaacs
+      - Robert Mills
+    price: free
     organisation: CDSS
-  - name: "Richmond Saturday Evening Contra Dance, Sponsored by TADAMS"
+  - name: Richmond Saturday Evening Contra Dance
     details: "Join us in Richmond, VA for a Saturday evening contra dance, hosted by TADAMS, at the West End Ballroom. Beginner lesson at 6:45pm, dance from 7:30-10:30pm. Please see our full website calendar for band and caller details. Admission is $15 non-members, $10 members & students, children under 13 are free."
     links:
+      - "https://tadamsva.org/dance/saturday-contra-dance-web-1-24-2025/"
       - "https://cdss.org/event/richmond-saturday-evening-contra-dance-sponsored-by-tadams/2026-01-24/"
-    start: "2026-01-24T19:30:00-05:00"
+    start: "2026-01-24T18:45:00-05:00"
     end: "2026-01-24T22:30:00-05:00"
     country: USA
     state: VA
@@ -3931,6 +3960,8 @@ events:
       - contra
     workshop: true
     social: true
+    callers:
+      - Greg Frock
     price: $10-$15
     organisation: TADAMS (Traditional American Dance and Music Society)
   - name: Scissortail Contra Dance
@@ -3947,6 +3978,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: Contra Dance
     details: "HATDS hosts contra dances on the 2nd and 4th Saturdays of most months. We dance to live music. All skill levels are welcome and all dances are called. Bring water and clean shoes! \nThe admission price for contra dances is $10 for members, $15 for non-members. Cash, checks, credit cards, and digital wallets are currently accepted at the door. If paying cash, please bring correct change. No large bills accepted."
@@ -3969,16 +4001,20 @@ events:
     links:
       - "https://sactocds.wordpress.com/"
       - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays-2/2026-01-24/"
-    start: "2026-01-24T19:00:00-08:00"
+    start: "2026-01-24T18:30:00-08:00"
     end: "2026-01-24T22:00:00-08:00"
     country: USA
     state: CA
     city: Sacramento
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
-    price: $5-$30
+    bands:
+      - Paddy on the Binge
+    callers:
+      - Sarah Trop
+    price: $5-$15
     organisation: Sacramento Country Dance Society
   - name: 4th Saturdays Contra Dance
     details: "Mark your calendars now for the next Saturday night dance at Fulton Hall. Dances are called using gender-neutral terms. \n\n\n7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSliding scale $6-$20. \nSome dancers head to a pub for “afters”—all are welcome!"
