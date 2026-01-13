@@ -4001,7 +4001,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2026-01-24/"
-    start: "2026-01-24T20:00:00-06:00"
+    start: "2026-01-24T19:30:00-06:00"
     end: "2026-01-24T23:00:00-06:00"
     country: USA
     state: MN
@@ -4010,8 +4010,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Lauluaika
     callers:
-      - Beau Farmer
+      - Lisa Leedham
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: Sacramento Contra Dance
@@ -4072,7 +4074,7 @@ events:
     links:
       - "https://www.northjerseyenglishcountrydancers.org/"
       - "https://cdss.org/event/north-jersey-english-country-dancers-2nd-and-4th-sundays/2026-01-25/"
-    start: "2026-01-25T14:00:00-05:00"
+    start: "2026-01-25T13:50:00-05:00"
     end: "2026-01-25T17:00:00-05:00"
     country: USA
     state: NJ
@@ -4082,13 +4084,8 @@ events:
     workshop: true
     social: true
     callers:
-      - Alex Deis-Lauby
-      - Daniel Popowich
-      - Dorothy Cummings
-      - Judi Rivkin
-      - Margaret Bary
-      - Orly Krasner
-      - Paul Ross
+      - Helen White
+    price: $20
     organisation: North Jersey English Country Dancers
   - name: English Country Dance Atlanta
     details: "2nd, 4th, and 5th Sunday afternoons \n$9, cash or check"
@@ -4120,6 +4117,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: Louisville English Country Dancers
   - name: English Country Dance
     details: "Twice-monthly English Country Dance session in Colorado Springs, CO. Each dance will be taught and then practiced. Great social atmosphere and fun!"
@@ -4140,7 +4138,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance/2026-01-25/"
-    start: "2026-01-25T16:00:00-05:00"
+    start: "2026-01-25T15:30:00-05:00"
     end: "2026-01-25T18:00:00-05:00"
     country: USA
     state: NC
@@ -4149,6 +4147,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: free
     organisation: CDSS
   - name: 4th Sunday Albuquerque Contra Dance
     details: "Everyone is welcome at contra dancing, no partner required. For more details about contra or FolkMADS organization, see our website at folkmads.org \nAll dances are Pay What You Want – suggested $10/person, $10-20/family."
@@ -4171,7 +4170,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2026-01-25/"
-    start: "2026-01-25T19:00:00-06:00"
+    start: "2026-01-25T18:30:00-06:00"
     end: "2026-01-25T21:00:00-06:00"
     country: USA
     state: MN
@@ -4180,24 +4179,30 @@ events:
       - ecd
     workshop: false
     social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
+    callers:
+      - Barbara Rice
+      - Margaret Cummings
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: Contra Dance in St Louis
     details: Weekly contra dance in St Louis area (actually Webster Groves MO). Always great live music. First dance each month features open calling.
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2026-01-25/"
-    start: "2026-01-25T19:00:00-06:00"
+    start: "2026-01-25T18:30:00-06:00"
     end: "2026-01-25T21:30:00-06:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Mound City Slickers
+    callers:
+      - Summer Shay
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Asheville Mid-Winter ECD Weekend
     details: "Mark your calendars now for an amazing weekend of English Country Dancing in charming, friendly and funky Asheville, North Carolina. With: Tom Roby. Music by Firecrest: Ben Schriber, Dave Wiesler & Paul Oorts. Check the website for details."
@@ -4517,9 +4522,10 @@ events:
       - Darlene Underwood
     price: $140
     organisation: Kanawha Valley Friends of Old Time Music and Dance
-  - name: Toronto Contra Dance - Spring Thaw 2026
+  - name: Spring Thaw
     details: "The annual Spring Thaw dance weekend will be held on Friday, May 8 and Saturday, May 9, 2026 in the St. Barnabas on the Danforth Church hall. There will be a mix of mask-mandatory and mask-optional events. \nFull details will be posted as soon as we have dotted all the i’s and crossed all the t’s. \nCalling by Alexandra Deis-Lauby. Music provided by Les Quatre Patates as well as Toronto musicans Adam Iredale-Gray, Áine Schyer-O’Gorman and Jon Cannon. Cost will be $30 to $115 CDN. \nSee our website for more details."
     links:
+      - "https://www.tcdance.org/spring-thaw-2026"
       - "https://cdss.org/event/toronto-contra-dance-spring-thaw-2026/"
     start_date: 2026-05-08
     end_date: 2026-05-09
@@ -4532,11 +4538,14 @@ events:
     social: true
     bands:
       - Les Quatre Patates
-    price: $30-$115
+    callers:
+      - Alex Deis-Lauby
+    price: $95-$115
     organisation: Toronto Contra Dance
   - name: Dancing Bears Dance Camp
     details: "The Dancing Bears Dance Camp is held every Memorial Day Weekend at King’s Lake Camp in Wasilla, Alaska. Our next camp will have calling by Lisa Greenleaf and Michael Karcher with music by Supertrad (Sam Bartlett, Eric Schedler, and Tadhg O’Meachair) and Steam Machine (AJ Srubas, Rina Rossi, Sam Bartlett, and Abby Ladin). \nRegistration will open in March 2026."
     links:
+      - "https://www.thedancingbears.org/dance-camp"
       - "https://cdss.org/event/dancing-bears-dance-camp/"
     start: "2026-05-22T16:00:00-08:00"
     end: "2026-05-25T12:00:00-08:00"
@@ -4548,6 +4557,7 @@ events:
     workshop: false
     social: true
     bands:
+      - Steam Machine
       - Supertrad
     callers:
       - Lisa Greenleaf
