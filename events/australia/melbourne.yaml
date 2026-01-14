@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Melbourne Balfolk
+    links:
+      - "https://www.instagram.com/melbourne.balfolk/"
+    start: "2026-02-19T19:30:00+11:00"
+    end: "2026-02-19T21:30:00+11:00"
+    country: Australia
+    state: VIC
+    city: Melbourne
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: $20
+    organisation: Melbourne Balfolk
