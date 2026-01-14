@@ -871,18 +871,21 @@ events:
     social: true
     price: donation
     organisation: Siebenschritt e.V.
-  - name: Frühlingsball
+  - name: Spring Ball
     details: "Bourrée 3 temps mit Les Brayauds\n\n\n\nBal Folk mit Minimum Syndical und …\n\n\n\nSamstag 21.03. und Sonntag 22.03.2026 in Freiburg i.Br.\n\n  Weitere Infos und Anmeldung folgen in Kürze."
     links:
       - "https://7schritt.de/kalender/fruehlingsball/"
     start_date: 2026-03-21
-    end_date: 2026-03-23
+    end_date: 2026-03-22
     country: Germany
     city: Freiburg i. Br
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Minimum Syndical
+    price: €60
     organisation: Siebenschritt e.V.
   - name: "Monday Dancing: Beginners"
     details: "20:00 Workshop für Anfänger\n21:00 Tanz für Alle"
