@@ -1,67 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: WillPower in Cardiff
-    links:
-      - "https://ruffceilidhs.org/"
-    start_date: 2025-10-18
-    end_date: 2025-10-18
-    country: UK
-    city: Cardiff
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - WillPower
-    callers:
-      - Mic Spenceley
-    organisation: Webfeet
-  - name: "Out of Hand in Chandler's Ford"
-    links:
-      - "http://www.shocc.co.uk/"
-    start_date: 2025-10-18
-    end_date: 2025-10-18
-    country: UK
-    city: "Chandler's Ford"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Out of Hand
-    callers:
-      - Fee Lock
-    organisation: Webfeet
-  - name: English Rebellion in Harrogate
-    links:
-      - "https://www.englishrebellion.co.uk/gigs.php"
-    start_date: 2025-10-18
-    end_date: 2025-10-18
-    country: UK
-    city: Harrogate
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - English Rebellion
-    organisation: Webfeet
-  - name: Arish Mel in Stoborough
-    links:
-      - "http://www.earwicker.org/about_arish_mel.htm"
-    start_date: 2025-10-20
-    end_date: 2025-10-20
-    country: UK
-    city: Stoborough
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Arish Mel
-    callers:
-      - Malcolm Churchill
-    organisation: Webfeet
   - name: Box of Frogs in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
@@ -247,99 +185,6 @@ events:
     callers:
       - Mary Panton
     organisation: Webfeet
-  - name: The Geckoes in Baldock
-    details: "[Sold Out]"
-    links:
-      - "https://www.areyoudancing.com/dance-event/768873/"
-    start_date: 2025-12-31
-    end_date: 2025-12-31
-    country: UK
-    city: Baldock
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - The Geckoes
-    callers:
-      - Barry Goodman
-    organisation: Webfeet
-  - name: The Barber Band in Brighouse
-    links:
-      - "https://www.areyoudancing.com/dance-event/778066/"
-    start_date: 2025-12-31
-    end_date: 2025-12-31
-    country: UK
-    city: Brighouse
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - The Barber Band
-    callers:
-      - Sue Coe
-    organisation: Webfeet
-  - name: live music in Bath
-    links:
-      - "http://mister.red/dance/bath.htm#D.AN.20260107"
-    start_date: 2026-01-07
-    end_date: 2026-01-07
-    country: UK
-    city: Bath
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: Ann Summers Duo in Frenchay
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AC.20260107"
-    start_date: 2026-01-07
-    end_date: 2026-01-07
-    country: UK
-    city: Frenchay
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Ann Summers Duo
-    callers:
-      - Rob Taylor
-    organisation: Webfeet
-  - name: Brian in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20260107"
-    start_date: 2026-01-07
-    end_date: 2026-01-07
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Brian
-    callers:
-      - Kim Smith
-    organisation: Webfeet
-  - name: Snapdragon in Witcombe
-    links:
-      - "http://mister.red/dance/gloucester.htm#D.VC.20260107"
-    start_date: 2026-01-07
-    end_date: 2026-01-07
-    country: UK
-    city: Witcombe
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Snapdragon
-    organisation: Webfeet
   - name: 3 Sticks in Baldock
     links:
       - "https://www.areyoudancing.com/dance-event/782537/"
@@ -367,64 +212,6 @@ events:
     social: true
     bands:
       - Fairgreen Band
-    organisation: Webfeet
-  - name: Tatterdemalion in Dorchester
-    links:
-      - "http://www.sadfolk.co.uk/listings.php"
-    start_date: 2026-01-10
-    end_date: 2026-01-10
-    country: UK
-    city: Dorchester
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Tatterdemalion
-    organisation: Webfeet
-  - name: live music in Exeter
-    links:
-      - "http://mister.red/dance/exeter.htm#D.AM.20260110"
-    start_date: 2026-01-10
-    end_date: 2026-01-10
-    country: UK
-    city: Exeter
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: Warleggan in Kennington
-    links:
-      - "http://mister.red/dance/oxford.htm#D.FR.20260110"
-    start_date: 2026-01-10
-    end_date: 2026-01-10
-    country: UK
-    city: Kennington
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Warleggan
-    callers:
-      - Daisey Black
-    organisation: Webfeet
-  - name: Striding Edge in Addingham
-    links:
-      - "http://www.striding-edge.org/diary/"
-    start_date: 2026-01-11
-    end_date: 2026-01-11
-    country: UK
-    city: Addingham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Striding Edge
     organisation: Webfeet
   - name: The Linda Game Band in Englefield Green
     links:
@@ -681,6 +468,22 @@ events:
     callers:
       - Mark Burton
     organisation: Webfeet
+  - name: Freedom Fields Ceilidh Band in Plymouth
+    links:
+      - "http://devonfolk.org/events-diary/"
+    start_date: 2026-01-30
+    end_date: 2026-01-30
+    country: UK
+    city: Plymouth
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Freedom Fields Ceilidh Band
+    callers:
+      - Christian Mayne
+    organisation: Webfeet
   - name: Dartmoor Pixies in Exeter
     links:
       - "http://mister.red/dance/exeter.htm#D.YB.20260131"
@@ -715,19 +518,21 @@ events:
     callers:
       - Jane Bird
     organisation: Webfeet
-  - name: Dartmoor Pixie Band in Kennford
+  - name: Barnfire in Hothfield
     links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+      - "https://www.efdss.org/calendar-events/15809-288cd2567953f06e460a33951f55daaf"
     start_date: 2026-01-31
     end_date: 2026-01-31
     country: UK
-    city: Kennford
+    city: Hothfield
     styles:
       - e-ceilidh
     workshop: false
     social: true
     bands:
-      - Dartmoor Pixie Band
+      - Barnfire
+    callers:
+      - John Sweeney
     organisation: Webfeet
   - name: live music in Leominster
     links:
@@ -927,20 +732,6 @@ events:
     callers:
       - Andy Rouse
     organisation: Webfeet
-  - name: Striding Edge in Borrowdale
-    links:
-      - "http://www.striding-edge.org/diary/"
-    start_date: 2026-02-13
-    end_date: 2026-02-13
-    country: UK
-    city: Borrowdale
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Striding Edge
-    organisation: Webfeet
   - name: "Blackbeard's Tea Party in Newcastle upon Tyne"
     links:
       - "https://www.bandsintown.com/e/107079567-blackbeard&#x27;s-tea-party-at-the-cluny"
@@ -969,6 +760,36 @@ events:
     bands:
       - The Marisca Trio
     organisation: Webfeet
+  - name: Chaotic Good in Oxford
+    links:
+      - "http://mister.red/dance/oxford.htm#D.AZ.20260213"
+    start_date: 2026-02-13
+    end_date: 2026-02-13
+    country: UK
+    city: Oxford
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Chaotic Good
+    callers:
+      - Charlotte Rich-Griffin
+    organisation: Webfeet
+  - name: Phoenix Barn Dance in Paignton
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2026-02-13
+    end_date: 2026-02-13
+    country: UK
+    city: Paignton
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Phoenix Barn Dance
+    organisation: Webfeet
   - name: The Hosepipe Band in Whitchurch
     links:
       - "http://www.unicornceilidhs.org.uk/uc05prog.html"
@@ -985,7 +806,7 @@ events:
     callers:
       - Andy Rouse
     organisation: Webfeet
-  - name: live music in Exeter
+  - name: Steve Day and Daniel Wolverson in Exeter
     links:
       - "http://mister.red/dance/exeter.htm#D.AM.20260214"
     start_date: 2026-02-14
@@ -997,7 +818,7 @@ events:
     workshop: false
     social: true
     bands:
-      - live music
+      - Steve Day and Daniel Wolverson
     organisation: Webfeet
   - name: Melobo in Kennington
     links:
@@ -1271,22 +1092,9 @@ events:
     bands:
       - Flash Co
     organisation: Webfeet
-  - name: Flash Company in Kennford
-    links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2026-02-28
-    end_date: 2026-02-28
-    country: UK
-    city: Kennford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Flash Company
-    organisation: Webfeet
   - name: Freedom Fields Ceilidh Band in Plymouth
     links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
       - "http://devonfolk.org/events-diary/"
     start_date: 2026-02-28
     end_date: 2026-02-28
@@ -1312,6 +1120,20 @@ events:
     social: true
     bands:
       - sessionista
+    organisation: Webfeet
+  - name: live music in Bath
+    links:
+      - "http://mister.red/dance/bath.htm#D.AN.20260304"
+    start_date: 2026-03-04
+    end_date: 2026-03-04
+    country: UK
+    city: Bath
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - live music
     organisation: Webfeet
   - name: Dave Byett in Frenchay
     links:
@@ -1440,6 +1262,20 @@ events:
     social: true
     bands:
       - Keel Band
+    organisation: Webfeet
+  - name: Confluence Duo in Exeter
+    links:
+      - "http://mister.red/dance/exeter.htm#D.AM.20260314"
+    start_date: 2026-03-14
+    end_date: 2026-03-14
+    country: UK
+    city: Exeter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Confluence Duo
     organisation: Webfeet
   - name: Striding Edge in Hest Bank
     links:
@@ -1608,6 +1444,20 @@ events:
     bands:
       - Confluence Duo
     organisation: Webfeet
+  - name: Teasing the Cat in Exeter
+    links:
+      - "http://mister.red/dance/exeter.htm#D.AM.20260408"
+    start_date: 2026-04-08
+    end_date: 2026-04-08
+    country: UK
+    city: Exeter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Teasing the Cat
+    organisation: Webfeet
   - name: Holk in Alcester
     links:
       - "http://mister.red/dance/alcester.htm#D.3F.20260410"
@@ -1688,20 +1538,6 @@ events:
       - Skermish
     callers:
       - Chris Jewell
-    organisation: Webfeet
-  - name: Skermish in Kennford
-    links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2026-04-25
-    end_date: 2026-04-25
-    country: UK
-    city: Kennford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Skermish
     organisation: Webfeet
   - name: Panjandrum in Stroud
     links:
@@ -1784,6 +1620,20 @@ events:
       - Cock and Bull
     callers:
       - Barry Goodman
+    organisation: Webfeet
+  - name: Deux sans Frontieres in Exeter
+    links:
+      - "http://mister.red/dance/exeter.htm#D.AM.20260509"
+    start_date: 2026-05-09
+    end_date: 2026-05-09
+    country: UK
+    city: Exeter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Deux sans Frontieres
     organisation: Webfeet
   - name: Raibow Folk in Kennington
     links:
@@ -1894,20 +1744,6 @@ events:
       - Red Shed
     callers:
       - Pete or Rosie
-    organisation: Webfeet
-  - name: Red Shed in Kennford
-    links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2026-05-30
-    end_date: 2026-05-30
-    country: UK
-    city: Kennford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Red Shed
     organisation: Webfeet
   - name: Box of Frogs. in Alcester
     links:
@@ -2222,7 +2058,6 @@ events:
       - Bev Langton
     organisation: Webfeet
   - name: Contrasaurus in Leeds
-    details: "[To Be Confirmed]"
     links:
       - "http://www.leedscontra.freeuk.com/specialevents.html"
     start_date: 2026-10-31
@@ -2235,6 +2070,8 @@ events:
     social: true
     bands:
       - Contrasaurus
+    callers:
+      - Lynne Render
     organisation: Webfeet
   - name: "Brian, Meg & Mike in Alcester"
     links:
