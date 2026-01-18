@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Scottish Country Dance Class
+    details: Join us in UpTown Waterloo for a weekly class of Scottish Country Dance. Class designed for beginners but open to all.
+    links:
+      - "https://linktr.ee/scd.waterloo"
+    start_date: 2026-01-16
+    end_date: 2026-03-27
+    country: Canada
+    state: Ontario
+    city: Waterloo
+    styles:
+      - reeling
+      - s-ceilidh
+      - scd
+    workshop: true
+    social: false
+    callers:
+      - Claire Cunin
+    organisation: UpTown Waterloo Scottish Country Dance
