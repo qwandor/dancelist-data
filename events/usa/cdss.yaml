@@ -3828,6 +3828,7 @@ events:
   - name: Jax Contra
     details: "Jax Contra is a community dance. You don’t need experience to join us and even people who say, “I can’t dance,” will find themselves captivated, laughing, and enjoying themselves right along with people who have been dancing all of their lives! \nNo partner or experience is necessary, and all ages are welcome. We love beginners; you are our future experienced dancers! There are always plenty of friendly people to dance with and changing dance partners with each dance is encouraged. \nAll dances feature live music and a caller who will walk you through each dance and then call it throughout. Our callers and bands will change from month to month, each offering their own unique style. \nJust before the break, about halfway through the evening, the band will play a waltz, and then there is a refreshment break with snacks brought in by the dancers (optional). Please bring your own water bottle. Water fountain available for refills. Lots more contra dancing after the break, and another waltz to close out the night."
     links:
+      - "https://jaxcontra.org/"
       - "https://cdss.org/event/jax-contra/2026-01-24/"
     start: "2026-01-24T18:30:00-05:00"
     end: "2026-01-24T22:00:00-05:00"
@@ -3838,6 +3839,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: CDSS
   - name: Toronto Contra Dance
     details: "Shake off the week and hit the floor for an unforgettable night of music, movement, and community joy. \nCaller and band change with every dance.\nDances are either mask optional or mask mandatory. Full details and schedule are at the Toronto Contra Dance website. \nNew to Contra? No problem!\nNo partner needed, and beginners are always welcome—we’ll teach you everything you need to know. \nSchedule:\n7:00 PM – Beginner Lesson\n7:30 PM – Dance the night away! \nBring a refillable water bottle – hydration stations available \nFull details at the Toronto Contra Dance website\nTag your dance crew, grab your shoes, and get ready for a night of pure Contra joy on the Danforth!"
@@ -5233,7 +5235,7 @@ events:
     links:
       - "https://www.louisvillecountrydancers.org/dance-with-us-1"
       - "https://cdss.org/event/louisville-contra-dance/2026-02-02/"
-    start: "2026-02-02T20:00:00-05:00"
+    start: "2026-02-02T19:30:00-05:00"
     end: "2026-02-02T22:30:00-05:00"
     country: USA
     state: KY
@@ -5244,6 +5246,7 @@ events:
     social: true
     bands:
       - Monday Night All Stars
+    price: $5-$10
     organisation: Louisville Country Dancers
   - name: Monday Evening English Country Dance
     details: "All are welcome to join us for an evening of English country dance with live music. All dances talked and walked through. Easy parking, air conditioning, and fans. Snacks are encouraged for the break! Please register online at our website."
@@ -5259,6 +5262,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10-$15
     organisation: CDSS
   - name: Austin English Country Dance
     details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
@@ -5322,14 +5326,14 @@ events:
       - ecd
     workshop: false
     social: true
-    price: $15-$20
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: English Country Dance for All
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:15 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition."
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-english-country-dance-for-all/2026-02-04/"
-    start: "2026-02-04T18:30:00-05:00"
+    start: "2026-02-04T18:15:00-05:00"
     end: "2026-02-04T20:30:00-05:00"
     country: USA
     state: NC
@@ -5353,6 +5357,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Imogen Mills
     price: $10-$20
     organisation: Graham Christian
   - name: Bloomington Contra Dance
@@ -5592,20 +5598,29 @@ events:
   - name: DownEast Country Dance Festival
     details: "Join us for the 36th annual DownEast Country Dance Festival, celebrating traditional music and dance in Maine. Friday night’s opening contra dance features Maine’s own Pine Tree Flyers with caller Dugan Murphy, and Cojiro with caller Adina Gordon.  \n$13-20, children under 10 free."
     links:
+      - "http://www.deffa.org/festival/"
       - "https://cdss.org/event/downeast-country-dance-festival/"
+      - "https://cdss.org/event/downeast-country-dance-festival-2/"
+      - "https://cdss.org/event/downeast-country-dance-festival-survivors-dance/"
     start: "2026-03-27T19:30:00-04:00"
-    end: "2026-03-27T23:30:00-04:00"
+    end: "2026-03-29T16:00:00-04:00"
     country: USA
     state: ME
     city: Topsham
     styles:
       - contra
-    workshop: false
+      - ecd
+      - scandi
+    workshop: true
     social: true
     bands:
       - Cojiro
+      - Pine Tree Flyers
+      - Scrod Pudding
     callers:
       - Adina Gordon
+      - Bill Olson
+      - Dugan Murphy
     price: $13
     organisation: DownEast Friends of the Folk Arts
   - name: Melt Into Spring
@@ -5625,44 +5640,6 @@ events:
     callers:
       - Joseph Pimentel
     organisation: AACTMAD
-  - name: DownEast Country Dance Festival
-    details: "Join us for the 36th annual DownEast Country Dance Festival celebrating traditional music and dance in Maine. Contradance all day or enjoy English, International, Scandi, swing & more with bands from Maine and beyond. Attend a workshop, jam session, or concert. Saturday night’s contradance features Maine’s own Scrod Pudding with caller Bill Olson and Cojiro with caller Adina Gordon.  \n$13-55, children 10 and under free."
-    links:
-      - "https://cdss.org/event/downeast-country-dance-festival-2/"
-    start: "2026-03-28T10:00:00-04:00"
-    end: "2026-03-28T23:30:00-04:00"
-    country: USA
-    state: ME
-    city: Topsham
-    styles:
-      - contra
-      - ecd
-    workshop: true
-    social: true
-    bands:
-      - Cojiro
-    callers:
-      - Adina Gordon
-    price: $13
-    organisation: DownEast Friends of the Folk Arts
-  - name: DownEast Country Dance Festival Survivors Dance
-    details: "Want to keep dancing after the festival? Join us for a final contradance at the Topsham Grange, featuring Cojiro with caller Adina Gordon. We have an hour of Spirited Singing from noon–1p, followed by dancing from 1–4p. Come on down!"
-    links:
-      - "https://cdss.org/event/downeast-country-dance-festival-survivors-dance/"
-    start: "2026-03-29T12:00:00-04:00"
-    end: "2026-03-29T16:00:00-04:00"
-    country: USA
-    state: ME
-    city: Topsham
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Cojiro
-    callers:
-      - Adina Gordon
-    organisation: DownEast Friends of the Folk Arts
   - name: Springforth Ball and Dance Weekend
     details: "The Traditional American Dance And Music Society\ninvites you to the\n29th Annual\nSpringforth Ball & Dance Weekend \n\n\nApril 10-11-12, 2026 \nFeaturing \nWild Asparagus \nAnn Percival (piano, guitar, vocals)\nDavid Cantieni (flutes, tin whistle, oboe, saxophone & bombard)\nBecky Tracy (fiddle), Mark Murphy (bass), George Marshall (concertina, bodhran, bones) \nwith George Marshall calling \nAcclaimed from coast to coast, Wild Asparagus is one of the most popular and sought after contradance bands in America! Clear concise teaching and calling will have you effortlessly dancing traditional as well as recently composed contras collected from around the country. Their creative high-energy music will surprise and delight dancers and listeners alike.  \nJoin us for a high energy weekend of food, dance, music, and workshops. \nHeld at our beautiful hall, the Lewis Ginter Recreation Center. \nCheck back in December for: \n\nRegistration\nWeekend Schedule\nAdditional Information\n\nSpringforth Ball Photo Archives \nIf you have any questions please email tadamsvacontra@gmail.com"
     links:
