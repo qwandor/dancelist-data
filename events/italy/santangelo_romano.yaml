@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Festival Internazionale del folklore
+    links:
+      - "http://www.montepatulo.it"
+    start: "2026-07-10T18:00:00+02:00"
+    end: "2026-07-12T23:59:00+02:00"
+    country: Italy
+    city: "Sant'Angelo Romano"
+    styles:
+      - balfolk
+      - italian
+    workshop: false
+    social: true
+    bands:
+      - Martin & David
+    price: free
+    organisation: "Gruppo folk di Sant'Angelo Romano"
