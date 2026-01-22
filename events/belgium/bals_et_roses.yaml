@@ -7,21 +7,22 @@ events:
     end_date: 2022-06-26
     country: Belgium
     city: Florenville
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     organisation: Bals et Roses
     cancelled: true
-
   - name: Bals et Roses
     links:
       - "https://www.festivalbalsetroses.be/"
       - "https://www.facebook.com/events/1351353665707748/"
-    start: 2023-06-30T20:00:00+02:00
-    end: 2023-07-02T20:00:00+02:00
+    start: "2023-06-30T20:00:00+02:00"
+    end: "2023-07-02T20:00:00+02:00"
     country: Belgium
     city: Florenville
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -47,7 +48,8 @@ events:
     end: "2025-06-29T20:00:00+02:00"
     country: Belgium
     city: Florenville
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -65,4 +67,33 @@ events:
       - Threo
       - Duo Niepold-Cutting
     price: €50-€70
+    organisation: Bals et Roses
+  - name: Bals et Roses
+    links:
+      - "https://www.festivalbalsetroses.be/"
+    start: "2026-06-26T20:00:00+02:00"
+    end: "2026-06-28T21:30:00+02:00"
+    country: Belgium
+    city: Florenville
+    styles:
+      - balfolk
+      - scandi
+    workshop: true
+    social: true
+    bands:
+      - Airboxes XL
+      - Androneda
+      - Balbuzar
+      - No&Mi
+      - "J'en Rafolk"
+      - Duo Cavez-Paulson
+      - Matrioske
+      - Snaarmaarwaar
+      - Dixit
+      - Ultra Tagada
+      - 21 BOuTONS
+      - Pink Folk
+      - Philippe Plard Trio
+      - Talweg
+    price: €55-€80
     organisation: Bals et Roses
