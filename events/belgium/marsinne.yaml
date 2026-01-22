@@ -4,11 +4,12 @@ events:
     links:
       - "https://www.facebook.com/events/1168314710612573/"
       - "https://www.folkfestivalmarsinne.be/joomla35/en/welcome"
-    start: 2022-09-09T20:00:00+02:00
-    end: 2022-09-11T23:59:00+02:00
+    start: "2022-09-09T20:00:00+02:00"
+    end: "2022-09-11T23:59:00+02:00"
     country: Belgium
     city: Marsinne
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -26,10 +27,9 @@ events:
       - A Contrabanda
       - Folk à Donf
       - Le Bour - Bodros
-      - Bal O'Gadjo
+      - "Bal O'Gadjo"
     price: €42-€65
     organisation: Musiques et Traditions
-
   - name: 30e Folk Festival Marsinne
     links:
       - "https://www.folkfestivalmarsinne.be/joomla35/en/welcome"
@@ -84,6 +84,18 @@ events:
       - "https://www.facebook.com/events/459129973798620/"
     start: "2025-09-12T18:00:00+02:00"
     end: "2025-09-14T23:45:00+02:00"
+    country: Belgium
+    city: Marsinne
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Musiques et Traditions
+  - name: 33e Folk Festival Marsinne
+    links:
+      - "https://www.folkfestivalmarsinne.be/en_GB"
+    start_date: 2026-09-11
+    end_date: 2026-09-13
     country: Belgium
     city: Marsinne
     styles:
