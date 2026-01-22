@@ -4837,9 +4837,10 @@ events:
     social: true
     price: $7-$25
     organisation: Nashville Country Dancers
-  - name: "Friday Techno Contra Dance, Nashville TN"
+  - name: Friday Techno Contra Dance
     details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$7–$25, pay what you can."
     links:
+      - "https://www.nashvillecountrydancers.org/contra-dances"
       - "https://cdss.org/event/friday-contra-dance-nashville-tn-2-2/"
     start: "2026-01-30T19:30:00-06:00"
     end: "2026-01-30T22:30:00-06:00"
@@ -4884,9 +4885,10 @@ events:
     social: true
     price: donation
     organisation: York Region English Country Dancers
-  - name: Nashville’s Mid-Winter Day of English Country Dance
+  - name: Mid-Winter Day of English Country Dance
     details: "Make plans now to join us on Saturday, January 31 for our annual Mid-Winter Day of English Country Dance! The afternoon and evening will be full of beautiful dances called by Anna Claire Camp to live music by The Mountain Laurels (Emma Rushton, Jeff Rohrbough, & Daniel Charlton) with special guest, Susan Kevra. Our annual potluck dinner is enjoyed by all at 6pm! \nPlease note: \nAdmission will be on a sliding scale for each session: $10–$25 for the afternoon and also for the evening. Thank you, in advance, for being generous! The fee pays for the hall rental, for the sound system, and thanks our caller and musicians for their time. \nNo experience is REQUIRED but some knowledge is helpful! Join us on Mondays at Sevier Park Community Center from 6–7:30/8pm for free English Country Dance classes. There will also be a brief introduction to basic steps at 1:30pm on January 31."
     links:
+      - "https://www.nashvillecountrydancers.org/midwinter-day-of-english-dance"
       - "https://cdss.org/event/nashvilles-mid-winter-day-of-english-country-dance/"
     start: "2026-01-31T13:30:00-06:00"
     end: "2026-01-31T21:30:00-06:00"
@@ -4895,9 +4897,12 @@ events:
     city: Nashville
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Mountain Laurels
     callers:
+      - Anna Claire Camp
       - Susan Kevra
     price: $10-$25
     organisation: Nashville Country Dancers
@@ -5470,7 +5475,7 @@ events:
     links:
       - "https://www.bfms.org/squarecontra.php"
       - "https://cdss.org/event/monday-night-english-country-dance-2/2026-02-04/"
-    start: "2026-02-04T20:00:00-05:00"
+    start: "2026-02-04T19:30:00-05:00"
     end: "2026-02-04T22:30:00-05:00"
     country: USA
     state: MD
@@ -5484,8 +5489,9 @@ events:
   - name: FSGW English Country Dance
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
+      - "https://fsgw.org/event-6512351"
       - "https://cdss.org/event/fsgw-english-country-dance/2026-02-04/"
-    start: "2026-02-04T20:00:00-05:00"
+    start: "2026-02-04T19:30:00-05:00"
     end: "2026-02-04T22:30:00-05:00"
     country: USA
     state: MD
@@ -5494,6 +5500,8 @@ events:
       - ecd
     workshop: true
     social: true
+    callers:
+      - April Blum
     price: $8-$17
     organisation: Folklore Society of Greater Washington
   - name: Princeton Country Dancers’ Contra Dance
@@ -5501,15 +5509,16 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2026-02-04/"
-    start: "2026-02-04T20:00:00-05:00"
+    start: "2026-02-04T19:30:00-05:00"
     end: "2026-02-04T22:30:00-05:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: Weekly Austin Contra Dance
     details: "A free weekly dance at Hancock Recreation Center, with music by the jam/pickup band, Local On-Call Orchestra (LOCO). We dance every week that Hancock Recreation Center is open. A brief beginners session is taught at 7:30, before the dance program begins. Dance ends about 9:30. Free parking lot.\n \n\nWe welcome beginners. If you can walk to a beat, you can contra dance! All dances are taught and called. No partner necessary. Dance either role – or both. Everyone is welcome. \n \nSober event. Family-friendly. LGBTQ+"
@@ -5560,6 +5569,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $2
     organisation: Cleveland English Dance Community
   - name: Gentle English
     details: "English Country Dancing for those who enjoy relaxed tempos and familiar figures. Jenny Beer leading, music by laptop."
@@ -5577,6 +5587,7 @@ events:
     social: true
     callers:
       - Jenny Beer
+    price: $5-$10
     organisation: CDSS
   - name: Indy English Country Dance
     details: "Calling by Alice Smith-Goeke at the Joy of All Who Sorrow Orthodox Church, 1516 N Delaware St (enter via 16th Street parking lot entrance). Suggested donation $5 per adult. \nRecorded music may be used. \nAdditional events the first Thursday of each month in 2025 at the Joy of All Who Sorrow Orthodox Church."
