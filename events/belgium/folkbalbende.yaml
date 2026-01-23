@@ -20595,8 +20595,11 @@ events:
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Balalacarte
+      - Pablo Golder
     organisation: Boombal
   - name: Boombal
     details: Ball
@@ -25166,3 +25169,18 @@ events:
     social: true
     price: donation
     organisation: Stanistil
+  - name: Folk Dance for Beginners - Level 1
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/folk-dance-for-beginners-level-1/1376/"
+      - "https://folkbalbende.be/event/3942"
+    start_date: 2026-05-30
+    end_date: 2026-05-30
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €20-€55
+    organisation: Frisse Folk Vzw/asbl
