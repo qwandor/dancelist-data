@@ -3829,6 +3829,23 @@ events:
       - Cathy Campbell
     price: $25
     organisation: Toronto English Country Dance Assembly (TECDA)
+  - name: Columbia Contra Dance
+    details: "The January 24th dance will be preceded by a time to socialize around finger foods and sweets at 6pm, followed by a short review of contra dance basics for new and out-of-practice dancers starting at about 6:30pm. The first contra will be at 7pm. (The doors open at 5:45pm to allow setup for the social.) \nIf you are joining us for the pre-dance social, please bring please bring something sweet or savory to share. Paper goods and water will be provided. \nSchedule: \n\n5:45pm Doors open\n6:00pm Pre-dance social! Bring something sweet or savory to share..\n~6:30pm Review of contra dance basics\n7pm-10pm Contras\n\nGive what you can. Suggested donation is $10 per dancer. If using Venmo to @contracola-sc, add 50 cents. No donation expected for kids 12 & under, and they must be supervised by a parent. Dress comfortably and please bring clean, soft-soled, non-marking shoes."
+    links:
+      - "https://www.contracola.org/"
+      - "https://cdss.org/event/columbia-contra-dance-at-arsenal-hill-park/"
+    start: "2026-01-24T18:00:00-05:00"
+    end: "2026-01-24T22:00:00-05:00"
+    country: USA
+    state: SC
+    city: Columbia
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10
+    organisation: Columbia Traditional Music and Dance
+    cancelled: true
   - name: Jax Contra
     details: "Jax Contra is a community dance. You don’t need experience to join us and even people who say, “I can’t dance,” will find themselves captivated, laughing, and enjoying themselves right along with people who have been dancing all of their lives! \nNo partner or experience is necessary, and all ages are welcome. We love beginners; you are our future experienced dancers! There are always plenty of friendly people to dance with and changing dance partners with each dance is encouraged. \nAll dances feature live music and a caller who will walk you through each dance and then call it throughout. Our callers and bands will change from month to month, each offering their own unique style. \nJust before the break, about halfway through the evening, the band will play a waltz, and then there is a refreshment break with snacks brought in by the dancers (optional). Please bring your own water bottle. Water fountain available for refills. Lots more contra dancing after the break, and another waltz to close out the night."
     links:
@@ -4924,6 +4941,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Sherlock's Meow
+    callers:
+      - Victor Gascon
     price: $10
     organisation: Columbia Traditional Music and Dance
   - name: Annapolis Contra Dance
@@ -5678,11 +5699,12 @@ events:
     workshop: false
     social: true
     bands:
-      - Trillium
+      - All Comers Band
+      - Sycamore
     callers:
       - Chrissy Fowler
-      - Lisa Newcomb
-    price: $1-$20
+      - Will Mentor
+    price: $15-$25
     organisation: Belfast Flying Shoes
   - name: English Country Dancing
     details: "We invite you to dance with us on the first Friday of each month at Massanutten Presbyterian Church. It’s free and open to the public; most appropriate for people 10 years old and up; no experience needed; no partner needed. Wear casual clothes and comfortable shoes. \nTom Mack is the caller and we dance to recorded music enjoying dances from the 1700’s and 1800’s: lines, circles and squares. \nHealth issues: If you feel sick, stay home."
@@ -5721,11 +5743,12 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Orlando Contra Dance
     details: "Welcome to the Orlando Contra Dance! We feature high-tempo, gender-neutral dancing. We are Florida’s only gender-neutral contra series. Dancing is open to everyone and free for students and returning beginners (2nd dance is free)! \nWe usually dance on the first and third Friday of the month. Holidays, semester breaks, and regional events happen, so check the schedule before going!"
     links:
-      - "https://orlandocontra.org/dances-and-events/"
+      - "https://orlandocontra.org/"
       - "https://cdss.org/event/orlando-contra-dance-2-2/2026-02-06/"
     start: "2026-02-06T19:00:00-05:00"
     end: "2026-02-06T22:30:00-05:00"
@@ -5734,8 +5757,13 @@ events:
     city: Winter Park
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Kettle of Fish
+    callers:
+      - JJ Luxe
+    price: $15
     organisation: Orlando Contra Dance
   - name: ContraATL Weekly Dance
     details: "Atlanta’s weekly contra dance features a variety of local and regional talent. We dance every Friday night except rare blackout dates, generally last two Fridays in December and the first Friday in January."
@@ -5751,23 +5779,27 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Lambertville Country Dancers
     details: "English Country Dance in Newtown, PA, called by Judi Rivkin. Music by Golders Green: Michael Bell, Wes Steenson, John Burkhalter, Jane Roberts"
     links:
       - "https://lambertvillecountrydancers.org/"
       - "https://cdss.org/event/lambertville-country-dancers-english-country-dance-in-newtown-pa-2/"
-    start: "2026-02-06T19:30:00-05:00"
+    start: "2026-02-06T19:00:00-05:00"
     end: "2026-02-06T22:30:00-05:00"
     country: USA
     state: NJ
     city: Newtown
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Golders Green
     callers:
       - Judi Rivkin
+    price: $5-$15
     organisation: Lambertville Country Dancers
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Norman, first Fridays during the school year. Check our Facebook or our website for more details!"
@@ -5783,6 +5815,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$25
     organisation: Scissortail Traditional Dance Society
   - name: Friday Contra Dance
     details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$7 – $25, pay what you can."
@@ -5803,6 +5836,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6465"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2026-02-06/"
     start: "2026-02-06T19:30:00-08:00"
     end: "2026-02-06T22:30:00-08:00"
