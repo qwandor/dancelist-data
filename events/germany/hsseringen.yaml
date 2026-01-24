@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: KlangRauschTreffen
+    details: "musicians meeting in open air museum, acustic only, with open bal folk and bal trad stage, short workshops"
+    links:
+      - "https://wwww.klangrauschtreffen.de/"
+    start: "2026-06-12T15:00:00+00:00"
+    end: "2026-06-14T15:00:00+00:00"
+    country: Germany
+    state: Niedersachsen
+    city: Hösseringen
+    styles:
+      - balfolk
+      - e-ceilidh
+    workshop: true
+    social: false
+    organisation: ~
