@@ -5903,6 +5903,7 @@ events:
       - "https://www.cds-boston.org/event/afternoon-advanced-english-workshop-with-margaret-bary/"
       - "https://www.cds-boston.org/event/experienced-ecd-evening-dance-with-margaret-bary/"
       - "https://cdss.org/event/advanced-challenging-english-dance-with-margaret-bary/"
+      - "https://cdss.org/event/experienced-ecd-evening-dance-with-margaret-bary/"
     start: "2026-02-07T13:30:00-05:00"
     end: "2026-02-07T22:30:00-05:00"
     country: USA
@@ -5980,6 +5981,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $10-$20
     organisation: CDSS
   - name: "Swingin' Tern Contra Dance"
     details: "Our contra dances are held every first and third Saturday evening year-round from 7:30pm–10:30pm with a beginners’ workshop at 7pm.  We have occasional double dances along with a New Year’s Eve dance. \nOur full calendar \nUseful Information:\n\nNewcomers are welcome to come at 7pm for an introductory lesson on the basics of contra dancing. No partner is necessary. All dances are taught with a “walk-through” by the caller.\nWe no longer require vaccination. Masks are optional.\nAll dances at Swingin’ Tern are called to the gender-neutral terms Larks & Robins. Dance whatever role you’re comfortable in.\nWe are air-conditioned. We have windows on three sides when we want to let the breeze come in.\nOur dance is two blocks from the Chatham station on the Morris/Essex line out of Penn Station, NYC.\nWe welcome contributions of home-baked [or not] goodies to share at the break.\nPlease bring your own water bottle. Water bottles may be filled at the kitchen sink.\nWear comfortable clothing. Contra dancing is aerobic. We prefer you carry in your shoes.\nWe are a friendly, inclusive group. Pack plenty of smiles!\n\n$15 adults/$5 students"
@@ -6048,26 +6050,10 @@ events:
     callers:
       - Susan English
     organisation: CDSS
-  - name: Experienced ECD Evening Dance with Margaret Bary
-    details: "For dancers who have complete familiarity with dance figures and can respond quickly to instructions \nCalling terminology: positional (or gendered when needed for teaching purposes) \nAdmission: $20 members, $25 non-members, sliding scale of $10 – $25."
-    links:
-      - "https://cdss.org/event/experienced-ecd-evening-dance-with-margaret-bary/"
-    start: "2026-02-07T19:30:00-05:00"
-    end: "2026-02-07T22:30:00-05:00"
-    country: USA
-    state: MA
-    city: Concord
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Margaret Bary
-    price: $10-$25
-    organisation: CDSS
-  - name: Groton Grange Contra Dance!
+  - name: Groton Grange Contra Dance
     details: "Groton Grange #7 invites you to join the fun at our traditional New England Contra Dances on Saturdays in 2026 from 7:30 – 10 PM at Historic Groton Grange Hall. \n\nCaller: Dudley Laufman, 2009 National Heritage Fellow\nSuggested donation: $5 per person / $20 max per couple or family / children under 3 free. Refreshments will be provided.\nThis dance is made possible by a grant from the Town of Groton’s Trust Fund Lecture Series.\nGroton’s own Contra Banditos will be playing their traditional old-time fiddle and americana music. Callers will teach New England style contra, square and line dances. No experience necessary!\nBeginners are welcome, no experience or partner is necessary.\nPLEASE NOTE: PARK ONLY ON THE GRANGE SIDE OF CHAMPNEY STREET!"
     links:
+      - "https://grotongrange.org/events/contra-dance/"
       - "https://cdss.org/event/groton-grange-contra-dance-2/"
     start: "2026-02-07T19:30:00-05:00"
     end: "2026-02-07T22:00:00-05:00"
@@ -6082,11 +6068,12 @@ events:
       - Contra Banditos
     callers:
       - Dudley Laufman
-    price: $5-$20
+    price: $5
     organisation: "Groton Grange #7"
-  - name: Big Scioty - Trillium with caller Dan Kappus
+  - name: Big Scioty
     details: "Be sure to come for the beginner’s lesson from 7:30–8:00, followed by dancing 8:00–10:30. All dances are taught; we will help you learn! Beginners always welcome, no need to bring a partner. \nCost is $10.00 adults, $5.00 ages 12-26. Under 12 free. Free parking in church lot. \nPlease bring your own refillable water bottle."
     links:
+      - "https://bigscioty.com/"
       - "https://cdss.org/event/big-scioty-trillium-with-caller-dan-kappus/"
     start: "2026-02-07T19:30:00-05:00"
     end: "2026-02-07T22:30:00-05:00"
@@ -6108,7 +6095,7 @@ events:
     links:
       - "https://birdsborocontra.org/our-schedule/"
       - "https://cdss.org/event/birdsboro-contra-dance/2026-02-07/"
-    start: "2026-02-07T19:30:00-05:00"
+    start: "2026-02-07T19:10:00-05:00"
     end: "2026-02-07T22:30:00-05:00"
     country: USA
     state: PA
@@ -6117,6 +6104,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Flying Circus
+    callers:
+      - Liesl Jandrey
     price: $10-$20
     organisation: Jamey Hutchinson
   - name: Scissortail Contra Dance
@@ -6140,7 +6131,7 @@ events:
     links:
       - "https://www.montpeliercontradance.org/"
       - "https://cdss.org/event/montpelier-contra-dance/2026-02-07/"
-    start: "2026-02-07T20:00:00-05:00"
+    start: "2026-02-07T19:40:00-05:00"
     end: "2026-02-07T23:00:00-05:00"
     country: USA
     state: VT
@@ -6188,7 +6179,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2026-02-07/"
-    start: "2026-02-07T20:00:00-06:00"
+    start: "2026-02-07T19:30:00-06:00"
     end: "2026-02-07T23:00:00-06:00"
     country: USA
     state: MN
@@ -6197,8 +6188,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Contratopia
     callers:
-      - Beau Farmer
+      - Rab Cummings
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: Santa Fe Contra Dance
@@ -6253,13 +6246,14 @@ events:
     social: true
     callers:
       - David Millstone
+    price: $15-$20
     organisation: David Millstone
   - name: North Jersey English Country Dancers
     details: "Our dances are on the second and fourth Sunday of every month, always with live music and friendly dancers. No partner needed – come alone or with a friend! Introduction for newcomers at 1:50 pm. In the summer, we enjoy ice cream during the break. \nOur Fabulous Callers:\nAlex Deis-Lauby\nDorothy Cummings\nDaniel Popowich\nHelen White\nJudi Rivkin\nMargaret Bary\nOrly Krasner\nPaul Ross \nOur Tiny Orchestra:\nDiane Fedora – bassoon\nDominik Landowne – violin, viola\nDonn Williams – mandolin\nNorma Castle – flute, percussion\nRobin Russell – piano \nSometimes with:\nDanny Elias – clarinet\nLisa Terry – viola da gamba\nMarnen Laibow-Koser -​ various"
     links:
       - "https://www.northjerseyenglishcountrydancers.org/"
       - "https://cdss.org/event/north-jersey-english-country-dancers-2nd-and-4th-sundays/2026-02-08/"
-    start: "2026-02-08T14:00:00-05:00"
+    start: "2026-02-08T13:50:00-05:00"
     end: "2026-02-08T17:00:00-05:00"
     country: USA
     state: NJ
@@ -6269,17 +6263,13 @@ events:
     workshop: true
     social: true
     callers:
-      - Alex Deis-Lauby
-      - Daniel Popowich
-      - Dorothy Cummings
-      - Judi Rivkin
-      - Margaret Bary
       - Orly Krasner
-      - Paul Ross
+    price: $20
     organisation: North Jersey English Country Dancers
-  - name: Nashville’s Second Sunday English Country Dance
+  - name: Nashville Second Sunday English Country Dance
     details: "Nashville Country Dancers cordially invites you to join us for our Second Sunday English Country Dance on February 8 from 2pm–4pm at the Friends’ Meeting House, 530 26th Avenue N. Admission is on a sliding scale. Music will be provided by The English Muffins (Nick Bergin, Susan Kevra, and Amberly Rosen) with caller, Emma Rushton. Your generosity is much appreciated as the funds collected are used to pay the musicians and the caller as well as rent the venue."
     links:
+      - "https://www.nashvillecountrydancers.org/english-country-dances"
       - "https://cdss.org/event/nashvilles-second-sunday-english-country-dance/"
     start: "2026-02-08T14:00:00-06:00"
     end: "2026-02-08T16:00:00-06:00"
@@ -6293,7 +6283,8 @@ events:
     bands:
       - The English Muffins
     callers:
-      - Susan Kevra
+      - Emma Rushton
+    price: $5-$20
     organisation: Nashville Country Dancers
   - name: English Country Dance
     details: "Twice-monthly English Country Dance session in Colorado Springs, CO. Each dance will be taught and then practiced. Great social atmosphere and fun!"
@@ -6846,9 +6837,10 @@ events:
       - Lindsey Dono
     price: $235-$395
     organisation: CDSS
-  - name: Nashville’s Music City Masquerade
+  - name: Music City Masquerade
     details: "Join us for an incredible weekend of music and dance October 23-25, 2026 in Music City, USA (aka Nashville). Countercurrent will provide the electrifying music for the creative calling of Luke Donforth! Registration opens April 1."
     links:
+      - "https://nashvillecountrydancers.org/music-city-masquerade/"
       - "https://cdss.org/event/nashvilles-music-city-masquerade/"
     start_date: 2026-10-23
     end_date: 2026-10-25
@@ -6857,7 +6849,7 @@ events:
     city: Nashville
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Countercurrent
