@@ -846,15 +846,21 @@ events:
       - "L'air Inconnu"
     price: €18-€20
     organisation: Balfolk Bonn e.V.
-  - name: Polska Workshop
+  - name: Polska Workshop and Ball
     links:
       - "http://balfolk-bonn.de/balfolk/Workshopabende.html"
-    start_date: 2026-01-31
-    end_date: 2026-01-31
+      - "https://bonn.jetzt/event/tanz-workshop-polska"
+      - "https://bonn.jetzt/event/balfolk-schwedisch-mit-reinlender"
+    start: "2026-01-31T14:00:00+01:00"
+    end: "2026-01-31T21:00:00+01:00"
     country: Germany
     city: Bonn
     styles:
       - balfolk
+      - scandi
     workshop: true
-    social: false
+    social: true
+    bands:
+      - Reinlender
+    price: €18-€40
     organisation: Balfolk Bonn e.V.
