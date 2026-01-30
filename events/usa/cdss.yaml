@@ -4859,7 +4859,7 @@ events:
     price: $7-$25
     organisation: Nashville Country Dancers
   - name: Friday Techno Contra Dance
-    details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$7–$25, pay what you can."
+    details: This Friday’s DJ contra dance is canceled. Stay tuned and be safe!
     links:
       - "https://www.nashvillecountrydancers.org/contra-dances"
       - "https://cdss.org/event/friday-contra-dance-nashville-tn-2-2/"
@@ -4870,10 +4870,10 @@ events:
     city: Nashville
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
-    price: $7-$25
     organisation: Nashville Country Dancers
+    cancelled: true
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
@@ -4907,7 +4907,7 @@ events:
     price: donation
     organisation: York Region English Country Dancers
   - name: Mid-Winter Day of English Country Dance
-    details: "Make plans now to join us on Saturday, January 31 for our annual Mid-Winter Day of English Country Dance! The afternoon and evening will be full of beautiful dances called by Anna Claire Camp to live music by The Mountain Laurels (Emma Rushton, Jeff Rohrbough, & Daniel Charlton) with special guest, Susan Kevra. Our annual potluck dinner is enjoyed by all at 6pm! \nPlease note: \nAdmission will be on a sliding scale for each session: $10–$25 for the afternoon and also for the evening. Thank you, in advance, for being generous! The fee pays for the hall rental, for the sound system, and thanks our caller and musicians for their time. \nNo experience is REQUIRED but some knowledge is helpful! Join us on Mondays at Sevier Park Community Center from 6–7:30/8pm for free English Country Dance classes. There will also be a brief introduction to basic steps at 1:30pm on January 31."
+    details: "This event has been postponed. New date to be announced.  \nMake plans now to join us for our annual Mid-Winter Day of English Country Dance! The afternoon and evening will be full of beautiful dances called by Anna Claire Camp to live music by The Mountain Laurels (Emma Rushton, Jeff Rohrbough, & Daniel Charlton) with special guest, Susan Kevra. Our annual potluck dinner is enjoyed by all at 6pm! \nPlease note: \nAdmission will be on a sliding scale for each session: $10–$25 for the afternoon and also for the evening. Thank you, in advance, for being generous! The fee pays for the hall rental, for the sound system, and thanks our caller and musicians for their time. \nNo experience is REQUIRED but some knowledge is helpful! Join us on Mondays at Sevier Park Community Center from 6–7:30/8pm for free English Country Dance classes. There will also be a brief introduction to basic steps at 1:30pm."
     links:
       - "https://www.nashvillecountrydancers.org/midwinter-day-of-english-dance"
       - "https://cdss.org/event/nashvilles-mid-winter-day-of-english-country-dance/"
@@ -4927,6 +4927,7 @@ events:
       - Susan Kevra
     price: $10-$25
     organisation: Nashville Country Dancers
+    cancelled: true
   - name: Columbia Contra Dance
     details: "The January 31st dance will be preceded by a time to socialize around finger foods and sweets at 6pm, followed by a short review of contra dance basics for new and out-of-practice dancers starting at about 6:30pm. The first contra will be at 7pm. (The doors open at 5:45pm to allow setup for the social.) \nIf you are joining us for the pre-dance social, please bring please bring something sweet or savory to share. Paper goods and water will be provided. \nSchedule: \n\n5:45pm Doors open\n6:00pm Pre-dance social! Bring something sweet or savory to share..\n~6:30pm Review of contra dance basics\n7pm-10pm Contras\n\nGive what you can. Suggested donation is $10 per dancer. If using Venmo to @contracola-sc, add 50 cents. No donation expected for kids 12 & under, and they must be supervised by a parent. Dress comfortably and please bring clean, soft-soled, non-marking shoes."
     links:
@@ -4947,6 +4948,7 @@ events:
       - Victor Gascon
     price: $10
     organisation: Columbia Traditional Music and Dance
+    cancelled: true
   - name: Annapolis Contra Dance
     details: "Join us for a lively evening of contra dancing on 5th Saturdays. Intro lesson at 6:30; dance at 7:00-9:30. No experience or partner required. Pre-registration is not required, but please email aefallon@verizon.net to let us know if you can help with pre-dance setup and/or post-dance hall restoration. Such help is much appreciated! \nFace masks are optional. Venue is air conditioned, with filter fans for air circulation and ventilation. Plenty of parking. Please bring own water. Snacks to share are welcome if you bring napkins+appropriate paper goods+utensils and plan to clean up after snack time. \n$15; students—$5; children through 5 years old—free."
     links:
@@ -6650,6 +6652,68 @@ events:
     social: true
     price: $5
     organisation: The Heather and the Rose Country Dancers
+  - name: Tuesday English Country Dance
+    details: "We dance to live music from our wonderful local musicians. All dances taught and prompted. Wear comfortable clothes and bring flat, non-slippy shoes to change into. Pay what you can; $8 donation helps cover the hall, band, and callers. Masks are welcome at the dance."
+    links:
+      - "https://aactmad.org/english-country"
+      - "https://cdss.org/event/ann-arbor-tuesday-english-country-dance/2026-02-10/"
+    start: "2026-02-10T19:00:00-05:00"
+    end: "2026-02-10T21:30:00-05:00"
+    country: USA
+    state: MI
+    city: Ann Arbor
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $8
+    organisation: AACTMAD
+  - name: Park Avenue Contra
+    details: Joyful community contra dancing on 2nd & 4th Tuesdays. Sit-in musicians welcome on 2nd Tuesdays for our By-Ear Open Band (tunes + other details on our website).
+    links:
+      - "https://parkavenuecontra.org/"
+      - "https://cdss.org/event/park-avenue-contra-swarthmore-pa/2026-02-10/"
+    start: "2026-02-10T19:30:00-05:00"
+    end: "2026-02-10T21:30:00-05:00"
+    country: USA
+    state: PA
+    city: Swarthmore
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Jenny Beer
+  - name: Saint Louis Queer Contra
+    details: "Come on out to Saint Louis Queer Contra \nSecond Tuesdays 7-9 pm (Lesson 6:45) at Focal Point – 2720 Sutton, Maplewood, MO\nOne of the most wholesome, friendly, and affirming things to do in St. Louis! \nAll dances taught, non-gendered calling, live music – no partner or experience needed."
+    links:
+      - "https://www.shedances.org/"
+      - "https://cdss.org/event/saint-louis-queer-contra/2026-02-10/"
+    start: "2026-02-10T19:00:00-06:00"
+    end: "2026-02-10T21:00:00-06:00"
+    country: USA
+    state: MO
+    city: Maplewood
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: SheDances
+  - name: English Country Dance Class
+    details: "Whether you are brand new or LOVE this style of dancing, Tuesday nights in Pasadena is where you learn the skills to dance with elegance and ease! It’s a great mid-week pick-me-up with dance friends old and new. We dance on the 2nd, 4th, and 5th Tuesday of the month. \nPay $10 at the door, and pre-register on our website to receive all of the pertinent details! \nPlan on sticking around for after-hours socializing and getting the latest details on a favorite dance, the next ball, or that costume question you always wanted to ask."
+    links:
+      - "https://historicalteaanddance.org/#Tuesdaydances"
+      - "https://cdss.org/event/english-country-dance-classes-in-pasadena/2026-02-10/"
+    start: "2026-02-10T19:15:00-08:00"
+    end: "2026-02-10T21:30:00-08:00"
+    country: USA
+    state: CA
+    city: Pasadena
+    styles:
+      - ecd
+    workshop: true
+    social: false
+    price: $10
+    organisation: Historical Tea & Dance Society
   - name: Cabin Fever
     details: "Three days of music, dance, and hanging out with couple hundred of your best friends. In 2026 we are featuring Chris Page calling to the music of Contraforce and Starling. Registration is limited to 200."
     links:
