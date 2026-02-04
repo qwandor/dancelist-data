@@ -6883,6 +6883,7 @@ events:
   - name: Silver Spring Contra Dance
     details: "This dance is in the Great Hall at the Silver Spring Civic Building.  \nThis dance will be an annual membership meeting for nominations for the FSGW Board—members of FSGW will get in for free. \nPlease note: There is no longer free parking at the Civic Center Parking Garage. \nCaller: Marshall Bradshaw & Luke Schoppert \nBand: Katie Stahl and William Brauneis \nCalling Terms: Larks and Robins \nLesson at 7:00pm, Dance is from 7:30pm to 10:00pm"
     links:
+      - "https://www.fsgw.org/event-6490149"
       - "https://cdss.org/event/silver-spring-contra-dance/"
     start: "2026-02-12T19:00:00-05:00"
     end: "2026-02-12T22:00:00-05:00"
@@ -6893,6 +6894,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Katie Stahl & William Brauneis
+    callers:
+      - Luke Schoppert
+      - Marshall Bradshaw
+    price: $5-$15
     organisation: Folklore Society of Greater Washington
   - name: Chattanooga Contra Dance
     details: "Come on out to the dance floor! Bring your soft-soled shoes and water bottle! We host callers and bands from across the East Coast! The beginner lesson is at 7 pm, and the dance goes from 7:30 pm to 9:30 pm."
@@ -7000,6 +7007,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Lewiston Contra Dance
     details: "We dance in the beautiful Trinity Commons at 247 Bates Street, Lewiston, ME. Sliding Scale $15-25, teens $5, kids under 12 free. Pay what you can! We’d love to dance with you! Beginners’ lesson at 7, dancing from 7:30-10. For more information, see our website or find us on Facebook!"
@@ -7015,14 +7023,14 @@ events:
       - contra
     workshop: true
     social: true
-    price: $5-$15
+    price: $5-$25
     organisation: Lewiston Contra Dance
   - name: Tally Contra Dance
     details: "Tallahassee community contra dances are in full swing the 2nd and 4th Fridays of most months! Refer to our website for details, as bands and callers vary each dance. Those new to contra dancing are strongly encouraged to come by 7:15, when a beginner lesson will be taught. Consider bringing a snack to share during the break! \nAdmission cost: $10 for adults, $9 seniors over 50, $6 for students, free for kids under 12. Admission is payable by cash, check, or card at the door. Newcomers get in to their 2nd dance free! \nSee a video of a recent contra dance here."
     links:
       - "http://www.tallydancer.com/"
       - "https://cdss.org/event/tally-contra-dance/2026-02-13/"
-    start: "2026-02-13T19:30:00-05:00"
+    start: "2026-02-13T19:15:00-05:00"
     end: "2026-02-13T22:00:00-05:00"
     country: USA
     state: FL
@@ -7047,6 +7055,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$15
     organisation: ContraATL
   - name: Cleveland Second Friday English Country Dance
     details: "Come join us at our monthly Second Friday English Country Dance.  \nLive music by Toad in the Hole. Callers: Carol Kopp, Steve Otlowski, & Elizabeth Estep \nWood Floor. \nSuggested Donation $10 (Pay what you can)"
@@ -7075,7 +7084,7 @@ events:
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2026-02-13/"
-    start: "2026-02-13T20:00:00-05:00"
+    start: "2026-02-13T19:30:00-05:00"
     end: "2026-02-13T23:00:00-05:00"
     country: USA
     state: MD
@@ -7084,6 +7093,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Contra Caller Workshop
     details: Come try your hand at calling contra dances or support those who want to learn to call at this free workshop.
@@ -7106,7 +7116,7 @@ events:
     links:
       - "https://monroviaecd.org/"
       - "https://cdss.org/event/monrovia-english-country-dance/2026-02-13/"
-    start: "2026-02-13T19:30:00-08:00"
+    start: "2026-02-13T19:15:00-08:00"
     end: "2026-02-13T22:00:00-08:00"
     country: USA
     state: CA
@@ -7120,6 +7130,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6466"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2026-02-13/"
     start: "2026-02-13T19:30:00-08:00"
     end: "2026-02-13T22:30:00-08:00"
@@ -7130,6 +7141,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Orly Krasner
     price: $7-$20
     organisation: Portland Country Dance Community
   - name: Dover Monthly English Country Dance
@@ -7153,7 +7166,7 @@ events:
     links:
       - "https://www.worcesterdance.org/"
       - "https://cdss.org/event/worcester-contra-dance-2/"
-    start: "2026-02-14T19:00:00-05:00"
+    start: "2026-02-14T18:45:00-05:00"
     end: "2026-02-14T22:00:00-05:00"
     country: USA
     state: MA
@@ -7178,6 +7191,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5-$15
     organisation: Syracuse Country Dancers
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Oklahoma City, second and fourth Saturdays. Check our Facebook or our website for more details!"
@@ -7193,12 +7207,14 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: Second Saturday Contra
     details: "Join us for our Second Saturday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check our website for changes in dance schedule or location.  \nPay what you can afford: $10 to $25 per person."
     links:
+      - "https://phxtmd.org/"
       - "https://cdss.org/event/second-saturday-contra-2/2026-02-14/"
-    start: "2026-02-14T19:00:00-07:00"
+    start: "2026-02-14T18:30:00-07:00"
     end: "2026-02-14T22:00:00-07:00"
     country: USA
     state: AZ
@@ -7223,22 +7239,27 @@ events:
       - contra
     workshop: true
     social: true
+    price: $10
     organisation: Central Coast Country Dance Society
   - name: Sacramento Contra Dance
     details: "Contra Dancing in Sacramento! Every 2nd and 4th Saturday, 7-10PM, at 4623 T St., Sacramento. Check our website for details. \nCost: $15 for adults; $10 for college students with ID; $5 for dancers under 18; $30 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
     links:
       - "https://sactocds.wordpress.com/"
       - "https://cdss.org/event/sacramento-ca-contra-dance-2nd-and-4th-saturdays-2/2026-02-14/"
-    start: "2026-02-14T19:00:00-08:00"
+    start: "2026-02-14T18:30:00-08:00"
     end: "2026-02-14T22:00:00-08:00"
     country: USA
     state: CA
     city: Sacramento
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
-    price: $5-$30
+    bands:
+      - Wild Goose Chase
+    callers:
+      - Talib Huff
+    price: $5-$15
     organisation: Sacramento Country Dance Society
   - name: 2nd Saturdays Contra Dance
     details: "7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSliding scale $6-$20. \nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."

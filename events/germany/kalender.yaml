@@ -1566,9 +1566,11 @@ events:
     workshop: false
     social: true
     organisation: Holger & Moritz & Vera
-  - name: gesellige Tänze
+  - name: Social Dances
     details: "hin und her und kreuz und quer (Mixer, Gassen ...)"
     links:
+      - "https://www.vhs-tuebingen.de/veranstaltungssuche/kurs/Gesellige-Taenze-Hin-und-her-und-kreuz-und-quer/252-20909"
+      - "http://mittanzen.jimdofree.com/"
       - "https://kalender.digital/574d155c91900caea879/event/2142450119"
     start: "2026-02-06T18:30:00+01:00"
     end: "2026-02-06T21:00:00+01:00"
@@ -1576,12 +1578,14 @@ events:
     city: Tübingen
     styles:
       - balfolk
-    workshop: false
-    social: true
+    workshop: true
+    social: false
+    price: €23
     organisation: Anja von Richthofen
-  - name: "Tanztag \\\"Tänze aus Frankreich\\\""
+  - name: "Tanztag: Tänze aus Frankreich"
     details: Neues und Altes
     links:
+      - "http://mittanzen.jimdofree.com/"
       - "https://kalender.digital/574d155c91900caea879/event/2142456291"
     start: "2026-02-08T14:00:00+01:00"
     end: "2026-02-08T18:00:00+01:00"
@@ -1589,9 +1593,10 @@ events:
     city: Tübingen
     styles:
       - balfolk
-    workshop: false
-    social: true
-    organisation: "Anja von Richthofen\\, www.mittanzen.jimdofree.com"
+    workshop: true
+    social: false
+    price: €20
+    organisation: Anja von Richthofen
   - name: "Faschings-Tanzhaus: Balkan-Balfolk"
     details: Ballkanesen mit dem Kontrabass
     links:
@@ -1688,19 +1693,23 @@ events:
     organisation: Silvia Fuchs
   - name: "Tänze aus Frankreich: u.a. Mazurka und Bourrée"
     links:
+      - "https://www.lag-tanz-bw.de/programm/2616"
+      - "http://mittanzen.jimdofree.com/"
       - "https://kalender.digital/574d155c91900caea879/event/2142461269"
-    start: "2026-03-14T14:00:00+01:00"
-    end: "2026-03-14T18:00:00+01:00"
+    start: "2026-03-07T14:00:00+01:00"
+    end: "2026-03-07T18:00:00+01:00"
     country: Germany
     city: Lenningen
     styles:
       - balfolk
-    workshop: false
-    social: true
-    organisation: "Anja von Richthofen\\, www.mittanzen.jimdofree.com"
+    workshop: true
+    social: false
+    price: €30-€40
+    organisation: Anja von Richthofen
   - name: Tänze aus Frankreich
     details: keine Paartänze
     links:
+      - "https://mittanzen.jimdofree.com/"
       - "https://kalender.digital/574d155c91900caea879/event/2142466131"
     start: "2026-03-17T19:30:00+01:00"
     end: "2026-03-17T21:30:00+01:00"
@@ -1710,7 +1719,7 @@ events:
       - balfolk
     workshop: false
     social: true
-    organisation: "Anja von Richthofen\\, www.mittanzen.jimdofree.com"
+    organisation: Anja von Richthofen
   - name: Balfolk und Tanzkurs
     details: Herzallerliebst & Erledanz
     links:
@@ -1745,6 +1754,7 @@ events:
   - name: Tänze aus Frankreich
     details: keine Paartänze
     links:
+      - "https://mittanzen.jimdofree.com/"
       - "https://kalender.digital/574d155c91900caea879/event/2142467234"
     start: "2026-03-24T19:30:00+01:00"
     end: "2026-03-24T21:30:00+01:00"
@@ -1754,7 +1764,7 @@ events:
       - balfolk
     workshop: false
     social: true
-    organisation: "Anja von Richthofen\\, www.mittanzen.jimdofree.com"
+    organisation: Anja von Richthofen
   - name: Irish set dance
     details: Irisches Wochenende
     links:
@@ -1771,6 +1781,8 @@ events:
   - name: Tanzreise durch Europa
     details: von der Bretagne bis zum Balkan
     links:
+      - "https://www.vhs-metzingen.de/kurssuche/kurs/Tanzreise-durch-Europa/HM35055"
+      - "https://mittanzen.jimdofree.com/"
       - "https://kalender.digital/574d155c91900caea879/event/2142471268"
     start: "2026-04-17T15:00:00+02:00"
     end: "2026-04-17T17:00:00+02:00"
@@ -1778,11 +1790,14 @@ events:
     city: Metzingen
     styles:
       - balfolk
-    workshop: false
-    social: true
-    organisation: "Anja von Richthofen\\, www.mittanzen.jimdofree.com"
+    workshop: true
+    social: false
+    price: €25
+    organisation: Anja von Richthofen
   - name: "Workshop: Balfolk"
     links:
+      - "https://www.vhs-tuebingen.de/veranstaltungssuche/kurs/Balfolk-Taenze-aus-Frankreich-und-der-Bretagne/261-20952"
+      - "https://mittanzen.jimdofree.com/"
       - "https://kalender.digital/574d155c91900caea879/event/2142475178"
     start: "2026-04-17T19:00:00+02:00"
     end: "2026-04-17T21:00:00+02:00"
@@ -1792,7 +1807,8 @@ events:
       - balfolk
     workshop: true
     social: false
-    organisation: "Anja von Richthofen\\, www.mittanzen.jimdofree.com"
+    price: €14
+    organisation: Anja von Richthofen
   - name: KA-Balfolk
     details: "Mit Emily & The Simons + Miriquidi; Workshop ab 17:30h"
     links:
@@ -1810,19 +1826,6 @@ events:
       - Emily & The Simons
       - Miriquidi
     organisation: KA-BALFOLK
-  - name: Tanz dich glücklich
-    details: internationale Tänze
-    links:
-      - "https://kalender.digital/574d155c91900caea879/event/2142489330"
-    start: "2026-04-19T14:30:00+02:00"
-    end: "2026-04-19T16:30:00+02:00"
-    country: Germany
-    city: VHS Reutlingen
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: "Anja von Richthofen\\, www.mittanzen.jimdofree.com"
   - name: BalFolk Rechberghausen
     details: BalFolk mit MaJo Plus
     links:
@@ -1841,6 +1844,8 @@ events:
     organisation: Johann Gerlmayer  07161 58 150
   - name: Tänze aus Frankreich und der Bretagne
     links:
+      - "https://www.vhs-metzingen.de/kurssuche/kurs/Taenze-aus-Frankreich-und-der-Bretagne/HM35059"
+      - "https://mittanzen.jimdofree.com/"
       - "https://kalender.digital/574d155c91900caea879/event/2142495889"
     start: "2026-05-09T10:00:00+02:00"
     end: "2026-05-09T12:00:00+02:00"
@@ -1848,9 +1853,10 @@ events:
     city: Metzingen
     styles:
       - balfolk
-    workshop: false
-    social: true
-    organisation: "Anja von Richthofen\\, www.mittanzen.jimdofree.com"
+    workshop: true
+    social: false
+    price: €25
+    organisation: Anja von Richthofen
   - name: SommerFolkBall
     details: Mit Lys und Trio Loubelya
     links:
@@ -1867,7 +1873,7 @@ events:
       - Lys
       - Trio Loubelya
     organisation: Felix Denzinger
-  - name: "Tanztag \\\"hin und her und kreuz und quer!"
+  - name: "Tanztag: hin und her und kreuz und quer"
     details: "Mixer, Gassen und mehr"
     links:
       - "https://kalender.digital/574d155c91900caea879/event/2142508817"
@@ -1877,9 +1883,10 @@ events:
     city: Tübingen
     styles:
       - balfolk
-    workshop: false
-    social: true
-    organisation: "Anja von Richthofen\\, www.mittanzen.jimdofree.com"
+    workshop: true
+    social: false
+    price: €20
+    organisation: Anja von Richthofen
   - name: Bal Folk
     details: "Workshop 13:00 - 15 :00 für Einsteiger, 15:30 - 17:30 für Fortgeschrittene, Bal Folk 18:00"
     links:
@@ -1897,19 +1904,6 @@ events:
       - Filippo Gambetta
     price: €15-€40
     organisation: Danzamol
-  - name: Tanz dich glücklich
-    details: "internationale Tänze, keine Paartänze"
-    links:
-      - "https://kalender.digital/574d155c91900caea879/event/2142516074"
-    start: "2026-06-13T14:30:00+02:00"
-    end: "2026-06-13T16:30:00+02:00"
-    country: Germany
-    city: VHS Reutlingen
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: "Anja von Richthofen\\, www.mittanzen.jimdofree.com"
   - name: Balfolk Stuttgart
     details: Altes Feuerwehrhaus Süd
     links:
@@ -1923,18 +1917,6 @@ events:
     workshop: false
     social: true
     organisation: Holger & Moritz & Vera
-  - name: Tänze aus aller Welt
-    links:
-      - "https://kalender.digital/574d155c91900caea879/event/2142521538"
-    start: "2026-06-14T14:00:00+02:00"
-    end: "2026-06-14T16:00:00+02:00"
-    country: Germany
-    city: Tübingen
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: "Anja von Richthofen\\, www.mittanzen.jimdofree.com"
   - name: "Sonnwend-Tanzhaus: Balkan-Balfolk"
     details: Ballkanesen mit dem Kontrabass
     links:
@@ -1951,7 +1933,7 @@ events:
     bands:
       - Ballkanesen
     organisation: Anja von Richthofen
-  - name: "Tanztag \\\"Bourrée\\\""
+  - name: "Tanztag: Bourrée"
     links:
       - "https://kalender.digital/574d155c91900caea879/event/2142533461"
     start: "2026-07-05T14:00:00+02:00"
@@ -1960,9 +1942,10 @@ events:
     city: Tübingen
     styles:
       - balfolk
-    workshop: false
-    social: true
-    organisation: "Anja von Richthofen\\, www.mittanzen.jimdofree.com"
+    workshop: true
+    social: false
+    price: €20
+    organisation: Anja von Richthofen
   - name: Tanztag am Bodensee
     details: "Balfolk mit Havok, Zephyr Combo und????"
     links:
@@ -2000,16 +1983,18 @@ events:
     details: Tanzwochenende in Trossingen (LAG Tanz-Baden-Würrtemberg)
     links:
       - "https://www.lag-tanz-bw.de/programm/2639"
+      - "https://mittanzen.jimdofree.com/"
       - "https://kalender.digital/574d155c91900caea879/event/2142539835"
-    start_date: 2026-10-09
-    end_date: 2026-10-11
+    start: "2026-10-09T18:00:00+02:00"
+    end: "2026-10-11T14:00:00+02:00"
     country: Germany
     city: Trossingen
     styles:
       - balfolk
-    workshop: false
-    social: true
-    organisation: "Anja von Richthofen\\, www.mittanzen.jimdofree.com"
+    workshop: true
+    social: false
+    price: €180-€240
+    organisation: Anja von Richthofen
   - name: Balfolk Stuttgart
     details: Altes Feuerwehrhaus Süd
     links:
