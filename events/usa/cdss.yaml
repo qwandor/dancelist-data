@@ -7517,6 +7517,7 @@ events:
   - name: Brattleboro Bal Folk
     details: "Fun, accessible French and European traditional dances. No experience or partner necessary. \nLive music and dance instruction by Eloise & Co. \nDance: Suggested donation sliding scale $12-$25 \nBal folk is a vibrant and inclusive dance tradition that started out in France, incorporated a bunch of other European influences, and took Europe and the UK by storm during the past 50 years or so. It has become increasingly popular in North America, no doubt due to its accessibility and captivating energy. You can easily join in even if you’ve never danced before. At Brattleboro Bal Folk, all dances are taught, and part of the big bal folk tradition all over the world is looking around to see what other people are doing and jumping in to try it out. No experience or partner required! Dances are in lines, spirals, circles, and pairs and range from hypnotic to meditative to raucous. The music is infectious! \nPlease bring a clean pair of shoes to change into, or clean your shoes off thoroughly once you get inside, before you step onto the dance floor. We want to protect that beautiful wood floor! \nShare our video with friends to whet their appetite! \nMasks are welcome but not required. Please stay home if you feel ill or are testing positive for Covid-19. \nUpcoming dances: \nMarch 15 or 22 TBA\nApril 26"
     links:
+      - "https://www.broadbrookcommunitycenter.org/events/bal-folk-dance-with-eloise-co-february"
       - "https://cdss.org/event/brattleboro-bal-folk/"
     start: "2026-02-15T18:30:00-05:00"
     end: "2026-02-15T21:00:00-05:00"
@@ -7536,8 +7537,8 @@ events:
     links:
       - "https://nbcds.org/english-country-dance/"
       - "https://cdss.org/event/sebastopol-1st-and-3rd-sunday-english-dance/2026-02-15/"
-    start: "2026-02-15T17:00:00-08:00"
-    end: "2026-02-15T19:30:00-08:00"
+    start: "2026-02-15T14:00:00-08:00"
+    end: "2026-02-15T16:30:00-08:00"
     country: USA
     state: CA
     city: Sebastopol
@@ -7552,7 +7553,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2026-02-15/"
-    start: "2026-02-15T19:00:00-06:00"
+    start: "2026-02-15T18:30:00-06:00"
     end: "2026-02-15T21:00:00-06:00"
     country: USA
     state: MN
@@ -7561,24 +7562,29 @@ events:
       - ecd
     workshop: false
     social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
+    callers:
+      - Midge Olsen
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: Contra Dance in St Louis
     details: Weekly contra dance in St Louis area (actually Webster Groves MO). Always great live music. First dance each month features open calling.
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2026-02-15/"
-    start: "2026-02-15T19:00:00-06:00"
+    start: "2026-02-15T18:30:00-06:00"
     end: "2026-02-15T21:30:00-06:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - 3 Crooked Men
+    callers:
+      - Keith Tuxthorn
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
@@ -7626,13 +7632,14 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: Knoxville Contra Dance
   - name: Chicago Contra Dance
     details: "The Chicago Barn Dance Company sponsors and supports contra dance, traditional square dance, and old-time music in the Chicago area. Our dances are held every Monday night, except holidays, in the beautiful fourth-floor Erin Ballroom at Chicago’s Irish American Heritage Center. The dance venue is near the Montrose Blue Line stop, or you can park in the large FREE parking lot on site. \nAdmission is $7-$10 for adults, $5 for seniors and students. Come at 6:30pm if you would like a beginner/refresher lesson."
     links:
       - "https://www.chicagobarndance.org/calendar/"
       - "https://cdss.org/event/chicago-contra-dance/2026-02-16/"
-    start: "2026-02-16T19:00:00-06:00"
+    start: "2026-02-16T18:30:00-06:00"
     end: "2026-02-16T21:40:00-06:00"
     country: USA
     state: IL
@@ -7657,6 +7664,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: Bayou Bedlam
     details: "Houston Area Traditional Dance Society invites you to The Bayou City for a contra dance weekend! \nBayou Bedlam 2026 (Feb 20-22) features the musical charisma of Eloise & Co. and the masterful calling talents of Cis Hinkle. \nBayou Bedlam is danced on a sprung wood floor. \nPlenty of snacks, an extensive Saturday lunch, and fabulous Sunday brunch are included. \nCallers in attendance have the chance to call with Eloise & Co. as well. \nWork trade and hospitality available! \nCis will be calling using gender-neutral terms (larks & robins)."
@@ -7951,9 +7959,10 @@ events:
     workshop: true
     social: true
     organisation: NEFFA
-  - name: "When in Doubt, Swing! Contra Dance Weekend"
+  - name: "When in Doubt, Swing!"
     details: "Will Mentor is a contra and square dance caller from Northern Vermont, known for his clear teaching, upbeat wit, and relaxed stage presence. He loves to choreograph evenings with a variety of dances and tempos that at times surprise and always delight, all the while keeping intact his guiding principle as a caller: “It’s about the dancers!” \nThe Figments are Anna Patton on clarinet, Ben Schreiber on Fiddle, and Owen Morrison on guitar. Besides playing as The Figments, these three are familiar from other bands including Elixir, the Dam Beavers, and the Faux Paws. They incorporate an eclectic mix of styles into their inspired performances of music for dancing or listening. Whether grooving on an Old-time, Irish or French Canadian fiddle tune, trading daring improvisations on a swing number, or exploring the nuances of a graceful waltz or elegant English country dance tune, this trio of versatile musicians makes dynamic, spontaneous, and electrifying music."
     links:
+      - "https://www.nttds.org/wids/home.html"
       - "https://cdss.org/event/when-in-doubt-swing-contra-dance-weekend/"
     start: "2026-04-24T19:00:00-05:00"
     end: "2026-04-26T16:00:00-05:00"
@@ -7965,9 +7974,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Elixir
-      - The Dam Beavers
-      - The Faux Paws
+      - The Figments
     callers:
       - Will Mentor
     organisation: North Texas Traditional Dance Society (NTTDS)
