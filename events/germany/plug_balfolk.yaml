@@ -1,0 +1,97 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Cornio in Munich
+    details: "Neofolk concert in the evening, singing and dance workshop during the day.\r\n\r\nAlessandro Cornio has created this event and will be teaching during the day. The evening will be a celebration of Neofolk with Alessando playing and special guest Indigo Baur."
+    links:
+      - "https://www.plug.events/event/cornio-in-munich"
+    start: "2026-02-14T09:00:00+01:00"
+    end: "2026-02-14T20:00:00+01:00"
+    country: Germany
+    city: Munich
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Cornio
+  - name: Balfolk Gala
+    details: An evening of balfolk with live music from Xenia Twarz and Alessandro Cornio
+    links:
+      - "https://www.plug.events/event/balfolk-gala"
+    start: "2026-02-21T20:00:00+01:00"
+    end: "2026-02-22T00:00:00+01:00"
+    country: Germany
+    city: Prenzlauer Berg
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Xenia Twarz
+    organisation: Spreefolk
+  - name: Spree Folk & Dance
+    details: "A social dance event with live music, all welcome"
+    links:
+      - "https://www.plug.events/event/folk-dance-in-lietzensee"
+    start: "2026-02-22T19:00:00+01:00"
+    end: "2026-02-22T21:00:00+01:00"
+    country: Germany
+    city: Charlottenburg
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Spreefolk
+  - name: Spree Folk & Dance
+    details: "A social dance event with live music, all welcome"
+    links:
+      - "https://www.plug.events/event/spree-folk-dance767"
+    start: "2026-03-01T15:00:00+01:00"
+    end: "2026-03-01T17:00:00+01:00"
+    country: Germany
+    city: Reinickendorf
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Spreefolk
+  - name: Balfolk Burghausen Balfolk Evening
+    details: "Regular dance evening with live session music the first Wednesday of the month.\r\n\r\nMusicians: come at 18:00 if you want to play - ALL instruments are welcome, even bagpipes!\r\n\r\nFrom 19:30 we will dance, dance, dance...\r\n\r\nFor those who are still unsure:\r\n- You don't need a partner\r\n- You don't need any prior knowledge"
+    links:
+      - "https://www.plug.events/event/balfolk-burghausen-balfolk-evening455"
+    start: "2026-03-04T18:00:00+01:00"
+    end: "2026-03-05T00:00:00+01:00"
+    country: Germany
+    city: Burghausen
+    styles:
+      - balfolk
+    workshop: false
+    social: false
+    organisation: Balfolk Berghausen
+  - name: Balfolk Burghausen Balfolk Evening
+    details: "Regular dance evening with live session music the first Wednesday of the month.\r\n\r\nMusicians: come at 18:00 if you want to play - ALL instruments are welcome, even bagpipes!\r\n\r\nFrom 19:30 we will dance, dance, dance...\r\n\r\nFor those who are still unsure:\r\n- You don't need a partner\r\n- You don't need any prior knowledge"
+    links:
+      - "https://www.plug.events/event/balfolk-burghausen-balfolk-evening193"
+    start: "2026-04-01T18:00:00+02:00"
+    end: "2026-04-02T00:00:00+02:00"
+    country: Germany
+    city: Burghausen
+    styles:
+      - balfolk
+    workshop: false
+    social: false
+    organisation: Balfolk Berghausen
+  - name: Fest-noz in Munich
+    details: "Dance evening with music from Brittany, with dance and accordion workshop during the day.\r\n\r\nDance in the evening with live music from  Kelt'Duo  from Brittany and the Die Hayner from Hesse.\r\n\r\nThe price for the dance workshop or music workshop includes the Fest-noz (evening event).\r\nThe fest-noz can also be booked separately. Tickets can also be purchased on the day, provided there is still space available."
+    links:
+      - "https://www.plug.events/event/fest-noz-in-munich"
+    start: "2026-04-17T09:00:00+02:00"
+    end: "2026-04-19T20:00:00+02:00"
+    country: Germany
+    city: Munich
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Die Hayner
+    organisation: Balfolk Munich
