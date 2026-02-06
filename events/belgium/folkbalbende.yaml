@@ -21888,14 +21888,17 @@ events:
     links:
       - "https://boombal.be"
       - "https://folkbalbende.be/event/2738"
-    start_date: 2026-05-30
-    end_date: 2026-05-30
+    start: "2026-05-30T20:00:00+02:00"
+    end: "2026-05-30T22:45:00+02:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Aurélien Claranbaux
+      - Naragonia
     organisation: Boombal
   - name: Workshop Folkdans
     details: Course
