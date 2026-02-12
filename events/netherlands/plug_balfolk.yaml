@@ -4402,8 +4402,8 @@ events:
       - Madlot
     price: €8
     organisation: ~
-  - name: Dansavond
-    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
+  - name: Dansavond met livemuziek van Odevare
+    details: "We moesten het even uitstellen vanwege winterweer, maar... op dinsdag 10 maart komt Odevare spelen tijdens onze wekelijkse dansavond!"
     links:
       - "https://www.plug.events/event/dansavond390"
     start: "2026-03-10T19:30:00+01:00"
@@ -4414,6 +4414,8 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Odevare
     price: €5
     organisation: Balfolk Zeist
   - name: Balfolkcafe Groningen
@@ -4799,6 +4801,22 @@ events:
     social: true
     price: €5
     organisation: Balfolk Zeist
+  - name: Balfolk
+    details: Kom gezellig balfolk dansen op live muziek door Musac in Geleen (Zuid-Limburg)
+    links:
+      - "https://www.plug.events/event/balfolk-met-musac811"
+    start: "2026-05-06T20:00:00+02:00"
+    end: "2026-05-06T22:15:00+02:00"
+    country: Netherlands
+    city: Geleen
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Musac
+    price: €5
+    organisation: Musac
   - name: 🐉 Drakenbal 🐉 met Akleja
     details: Drakenbal met Akleja
     links:
