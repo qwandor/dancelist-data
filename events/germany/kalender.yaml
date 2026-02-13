@@ -1801,7 +1801,7 @@ events:
     start: "2026-04-17T19:00:00+02:00"
     end: "2026-04-17T20:00:00+02:00"
     country: Germany
-    city: Friedrich Naumann Str 8
+    city: Karlsruhe
     styles:
       - balfolk
     workshop: false
@@ -1841,21 +1841,27 @@ events:
       - Emily & The Simons
       - Miriquidi
     organisation: KA-BALFOLK
-  - name: Ceilidh dance
+  - name: Ceilidh & Contra Dance
     details: "Ceilidh dance mit \\\"Emily & The Simons\\\" im Ziegersaal Karlsruhe 12:30h bis 16:00h"
     links:
       - "https://ka-balfolk.de/special-event-ceilidh-contra-dance/"
+      - "https://contradance-ka.wixsite.com/home-eng/events"
       - "https://kalender.digital/574d155c91900caea879/event/2231241746"
-    start_date: 2026-04-19
-    end_date: 2026-04-19
+    start: "2026-04-19T12:30:00+02:00"
+    end: "2026-04-19T16:00:00+02:00"
     country: Germany
     city: Karlsruhe
     styles:
-      - balfolk
-    workshop: false
+      - contra
+      - e-ceilidh
+    workshop: true
     social: true
     bands:
       - Emily & The Simons
+    callers:
+      - Caroline Dehini
+      - Rebecca Sass
+    price: €15-€20
     organisation: Rebecca Sass
   - name: BalFolk Rechberghausen
     details: BalFolk mit MaJo Plus
