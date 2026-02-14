@@ -1,53 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Box of Frogs in Englefield Green
-    links:
-      - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
-    start_date: 2025-11-09
-    end_date: 2025-11-09
-    country: UK
-    city: Englefield Green
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Box of Frogs
-    callers:
-      - Lynne Render
-    organisation: Webfeet
-  - name: Chalktown in Baldock
-    links:
-      - "http://www.chalktown.co.uk/chalkgigs.html#D.20251113"
-    start_date: 2025-11-14
-    end_date: 2025-11-14
-    country: UK
-    city: Baldock
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Chalktown
-    callers:
-      - Caller Sheena Masson
-    organisation: Webfeet
-  - name: Arish Mel in Kimmeridge
-    links:
-      - "http://www.earwicker.org/about_arish_mel.htm"
-    start_date: 2025-11-14
-    end_date: 2025-11-14
-    country: UK
-    city: Kimmeridge
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Arish Mel
-    callers:
-      - Malcolm Churchill
-    organisation: Webfeet
   - name: "Trinculo in Chandler's Ford"
     links:
       - "http://www.shocc.co.uk/"
@@ -154,20 +106,6 @@ events:
     callers:
       - Mary Panton
     organisation: Webfeet
-  - name: Portland Drive in Rainford
-    links:
-      - "http://portland-drive.co.uk/events/"
-    start_date: 2026-01-09
-    end_date: 2026-01-09
-    country: UK
-    city: Rainford
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Portland Drive
-    organisation: Webfeet
   - name: The Linda Game Band in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
@@ -246,41 +184,8 @@ events:
     callers:
       - Aidan Hansell
     organisation: Webfeet
-  - name: Freedom Fields Ceilidh Band in Plymouth
-    links:
-      - "http://devonfolk.org/events-diary/"
-    start_date: 2026-01-30
-    end_date: 2026-01-30
-    country: UK
-    city: Plymouth
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Freedom Fields Ceilidh Band
-    callers:
-      - Christian Mayne
-    organisation: Webfeet
-  - name: Dartmoor Pixies in Exeter
-    links:
-      - "http://mister.red/dance/exeter.htm#D.YB.20260131"
-    start_date: 2026-01-31
-    end_date: 2026-01-31
-    country: UK
-    city: Exeter
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Dartmoor Pixies
-    callers:
-      - Sarah
-    organisation: Webfeet
   - name: Sunbird in Grove
     links:
-      - "http://mister.red/dance/wantage.htm#D.UB.20260131"
       - "https://www.areyoudancing.com/dance-event/780814/"
     start_date: 2026-01-31
     end_date: 2026-01-31
@@ -291,193 +196,23 @@ events:
     workshop: false
     social: true
     bands:
-      - Sawney White Bird
       - Sunbird
     callers:
       - Jane Bird
     organisation: Webfeet
-  - name: Barnfire in Hothfield
+  - name: Diatonics in Sherfield on Loddon
     links:
-      - "https://www.efdss.org/calendar-events/15809-288cd2567953f06e460a33951f55daaf"
-    start_date: 2026-01-31
-    end_date: 2026-01-31
-    country: UK
-    city: Hothfield
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Barnfire
-    callers:
-      - John Sweeney
-    organisation: Webfeet
-  - name: live music in Leominster
-    links:
-      - "http://mister.red/dance/leominster.htm#D.AX.20260131"
-    start_date: 2026-01-31
-    end_date: 2026-01-31
-    country: UK
-    city: Leominster
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: Bristol Ceilidh Quartet in Melksham
-    links:
-      - "http://mister.red/dance/melksham.htm#D.AT.20260131"
-    start_date: 2026-01-31
-    end_date: 2026-01-31
-    country: UK
-    city: Melksham
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Bristol Ceilidh Quartet
-    callers:
-      - Alison Rowley
-    organisation: Webfeet
-  - name: Shivelight in Stroud
-    links:
-      - "https://balfolkstroud.uk/cps/gigs/shivelight-f6a454.php"
-      - "http://mister.red/dance/stroud.htm#D.BB.20260131"
-    start_date: 2026-01-31
-    end_date: 2026-01-31
-    country: UK
-    city: Stroud
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Shivelight
-    organisation: Webfeet
-  - name: "sessionista in Bath French, Bath"
-    links:
-      - "http://mister.red/dance/bath.htm#D.AL.20260201"
-    start_date: 2026-02-01
-    end_date: 2026-02-01
-    country: UK
-    city: "Bath French, Bath"
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - sessionista
-    organisation: Webfeet
-  - name: live music in Bath
-    links:
-      - "http://mister.red/dance/bath.htm#D.AN.20260204"
-    start_date: 2026-02-04
-    end_date: 2026-02-04
-    country: UK
-    city: Bath
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - live music
-    organisation: Webfeet
-  - name: Bees Knees in Frenchay
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AC.20260204"
-    start_date: 2026-02-04
-    end_date: 2026-02-04
-    country: UK
-    city: Frenchay
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Bees Knees
-    callers:
-      - Jean Crook
-    organisation: Webfeet
-  - name: Banjacs in Sytchampton
-    links:
-      - "http://mister.red/dance/worcester.htm#D.AF.20260204"
-    start_date: 2026-02-04
-    end_date: 2026-02-04
-    country: UK
-    city: Sytchampton
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Banjacs
-    callers:
-      - Paul & CHris Andrews
-    organisation: Webfeet
-  - name: Fleece Ceilidh Band in Bretforton
-    links:
-      - "http://mister.red/dance/evesham.htm#D.MA.20260205"
-    start_date: 2026-02-05
-    end_date: 2026-02-05
-    country: UK
-    city: Bretforton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Fleece Ceilidh Band
-    callers:
-      - Tina
-    organisation: Webfeet
-  - name: Will Power in Alcester
-    links:
-      - "http://mister.red/dance/alcester.htm#D.3C.20260206"
-    start_date: 2026-02-06
-    end_date: 2026-02-06
-    country: UK
-    city: Alcester
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Will Power
-    callers:
-      - Greig Hall
-    organisation: Webfeet
-  - name: Contra (American) in Exeter
-    links:
-      - "http://mister.red/dance/exeter.htm#D.YC.20260207"
+      - "http://diatonics.co.uk/events.html"
     start_date: 2026-02-07
     end_date: 2026-02-07
     country: UK
-    city: Exeter
+    city: Sherfield on Loddon
     styles:
       - e-ceilidh
     workshop: false
     social: true
     bands:
-      - Contra (American)
-    callers:
-      - Jeremy Child
-    organisation: Webfeet
-  - name: "Brian, Meg & Mike in Alcester"
-    links:
-      - "http://mister.red/dance/alcester.htm#D.3D.20260208"
-    start_date: 2026-02-08
-    end_date: 2026-02-08
-    country: UK
-    city: Alcester
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - "Brian, Meg & Mike"
+      - Diatonics
     organisation: Webfeet
   - name: Box of Frogs in Englefield Green
     links:
@@ -494,22 +229,6 @@ events:
       - Box of Frogs
     callers:
       - Louise Siddons
-    organisation: Webfeet
-  - name: Ann Summers Country Dance Band in Pucklechurch
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AB.20260210"
-    start_date: 2026-02-10
-    end_date: 2026-02-10
-    country: UK
-    city: Pucklechurch
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Ann Summers Country Dance Band
-    callers:
-      - Rob Taylor
     organisation: Webfeet
   - name: The Hosepipe Band in Baldock
     links:
@@ -543,7 +262,7 @@ events:
     organisation: Webfeet
   - name: Banter in Kennington
     links:
-      - "http://mister.red/dance/gloucester.htm#D.A4.20260213"
+      - "http://mister.red/dance/gloucester.htm#D.A2.20260213"
     start_date: 2026-02-13
     end_date: 2026-02-13
     country: UK
@@ -587,7 +306,7 @@ events:
     organisation: Webfeet
   - name: Chaotic Good in Oxford
     links:
-      - "http://mister.red/dance/oxford.htm#D.AZ.20260213"
+      - "http://mister.red/dance/oxford.htm#D.AX.20260213"
     start_date: 2026-02-13
     end_date: 2026-02-13
     country: UK
@@ -600,20 +319,6 @@ events:
       - Chaotic Good
     callers:
       - Charlotte Rich-Griffin
-    organisation: Webfeet
-  - name: Phoenix Barn Dance in Paignton
-    links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2026-02-13
-    end_date: 2026-02-13
-    country: UK
-    city: Paignton
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Phoenix Barn Dance
     organisation: Webfeet
   - name: The Hosepipe Band in Whitchurch
     links:
@@ -661,9 +366,23 @@ events:
     callers:
       - Jane Bird
     organisation: Webfeet
+  - name: Hambledon Hopstep Band in Misterton
+    links:
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2026-02-14
+    end_date: 2026-02-14
+    country: UK
+    city: Misterton
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Hambledon Hopstep Band
+    organisation: Webfeet
   - name: Dragonsfly in Nailsworth
     links:
-      - "http://mister.red/dance/nailsworth.htm#D.A0.20260214"
+      - "http://mister.red/dance/nailsworth.htm#D.AY.20260214"
       - "https://balfolkstroud.uk/cps/gigs/dragonsfly-b31763.php"
     start_date: 2026-02-14
     end_date: 2026-02-14
@@ -764,6 +483,22 @@ events:
     callers:
       - Mike Courthold
     organisation: Webfeet
+  - name: Bubbles in Sytchampton
+    links:
+      - "http://mister.red/dance/worcester.htm#D.AF.20260218"
+    start_date: 2026-02-18
+    end_date: 2026-02-18
+    country: UK
+    city: Sytchampton
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Bubbles
+    callers:
+      - Brian McMinn
+    organisation: Webfeet
   - name: "Blackbeard's Tea Party in Chester"
     links:
       - "https://www.bandsintown.com/e/107079559-blackbeard&#x27;s-tea-party-at-alexander&#x27;s-live"
@@ -826,7 +561,7 @@ events:
     organisation: Webfeet
   - name: Whiffeldy in Hereford
     links:
-      - "http://mister.red/dance/hereford.htm#D.AY.20260221"
+      - "http://mister.red/dance/hereford.htm#D.A5.20260221"
     start_date: 2026-02-21
     end_date: 2026-02-21
     country: UK
@@ -839,6 +574,22 @@ events:
       - Whiffeldy
     callers:
       - Rob Eddon
+    organisation: Webfeet
+  - name: Join the Dots in Leominster
+    links:
+      - "http://mister.red/dance/leominster.htm#D.A4.20260221"
+    start_date: 2026-02-21
+    end_date: 2026-02-21
+    country: UK
+    city: Leominster
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Join the Dots
+    callers:
+      - Issy
     organisation: Webfeet
   - name: Bearded Dragons in Morganstown
     links:
@@ -875,6 +626,7 @@ events:
       - Trevor Monson
     organisation: Webfeet
   - name: Cock and Bull Band in Stroud
+    details: "[Sold Out]"
     links:
       - "https://eceilidh.org.uk/cps/gigs/thecockandbullband-7a8767.php"
       - "https://stroud.dance/ceilidh/cps/gigs/thecockandbullband-5cbc59.php"
@@ -907,6 +659,22 @@ events:
     callers:
       - Mic Spenceley
     organisation: Webfeet
+  - name: Bubbles in Sytchampton
+    links:
+      - "http://mister.red/dance/worcester.htm#D.AF.20260225"
+    start_date: 2026-02-25
+    end_date: 2026-02-25
+    country: UK
+    city: Sytchampton
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Bubbles
+    callers:
+      - Brian McMinn
+    organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -921,9 +689,23 @@ events:
     bands:
       - Arish Mel
     organisation: Webfeet
+  - name: Freedom Fields Ceilidh Band in Plymouth
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2026-02-27
+    end_date: 2026-02-27
+    country: UK
+    city: Plymouth
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Freedom Fields Ceilidh Band
+    organisation: Webfeet
   - name: Flash Co in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YD.20260228"
+      - "http://mister.red/dance/exeter.htm#D.YB.20260228"
     start_date: 2026-02-28
     end_date: 2026-02-28
     country: UK
@@ -935,9 +717,22 @@ events:
     bands:
       - Flash Co
     organisation: Webfeet
-  - name: Freedom Fields Ceilidh Band in Plymouth
+  - name: Flash Company in Kennford
     links:
       - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2026-02-28
+    end_date: 2026-02-28
+    country: UK
+    city: Kennford
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Flash Company
+    organisation: Webfeet
+  - name: Freedom Fields Ceilidh Band in Plymouth
+    links:
       - "http://devonfolk.org/events-diary/"
     start_date: 2026-02-28
     end_date: 2026-02-28
@@ -949,6 +744,20 @@ events:
     social: true
     bands:
       - Freedom Fields Ceilidh Band
+    organisation: Webfeet
+  - name: Diatonics in Swindon
+    links:
+      - "http://diatonics.co.uk/events.html"
+    start_date: 2026-02-28
+    end_date: 2026-02-28
+    country: UK
+    city: Swindon
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Diatonics
     organisation: Webfeet
   - name: Banter in York
     details: "[To Be Confirmed]"
@@ -1008,6 +817,22 @@ events:
       - Dave Byett
     callers:
       - "Rob T, and Friends"
+    organisation: Webfeet
+  - name: Bubbles in Sytchampton
+    links:
+      - "http://mister.red/dance/worcester.htm#D.AF.20260304"
+    start_date: 2026-03-04
+    end_date: 2026-03-04
+    country: UK
+    city: Sytchampton
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Bubbles
+    callers:
+      - Brian McMinn
     organisation: Webfeet
   - name: Contrary Faeries in Alcester
     links:
@@ -1105,9 +930,25 @@ events:
     callers:
       - Geoff Elwell
     organisation: Webfeet
+  - name: Bubbles in Sytchampton
+    links:
+      - "http://mister.red/dance/worcester.htm#D.AF.20260311"
+    start_date: 2026-03-11
+    end_date: 2026-03-11
+    country: UK
+    city: Sytchampton
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Bubbles
+    callers:
+      - Brian McMinn
+    organisation: Webfeet
   - name: Fleece Ceilidh Band in Bretforton
     links:
-      - "http://mister.red/dance/evesham.htm#D.MB.20260312"
+      - "http://mister.red/dance/evesham.htm#D.MA.20260312"
     start_date: 2026-03-12
     end_date: 2026-03-12
     country: UK
@@ -1241,6 +1082,22 @@ events:
     callers:
       - Rob Dawson
     organisation: Webfeet
+  - name: Bubbles in Sytchampton
+    links:
+      - "http://mister.red/dance/worcester.htm#D.AF.20260318"
+    start_date: 2026-03-18
+    end_date: 2026-03-18
+    country: UK
+    city: Sytchampton
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Bubbles
+    callers:
+      - Brian McMinn
+    organisation: Webfeet
   - name: Green Mathews in Cardiff
     links:
       - "http://mister.red/dance/cardiff.htm#D.HA.20260321"
@@ -1287,7 +1144,7 @@ events:
     organisation: Webfeet
   - name: Contra (American) in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YE.20260321"
+      - "http://mister.red/dance/exeter.htm#D.YC.20260321"
     start_date: 2026-03-21
     end_date: 2026-03-21
     country: UK
@@ -1315,6 +1172,20 @@ events:
     social: true
     bands:
       - Venn
+    organisation: Webfeet
+  - name: Perfect Cure in Bristol
+    links:
+      - "http://mister.red/dance/bristol.htm#D.A7.20260322"
+    start_date: 2026-03-22
+    end_date: 2026-03-22
+    country: UK
+    city: Bristol
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    bands:
+      - Perfect Cure
     organisation: Webfeet
   - name: Matt Norman in Bristol
     links:
@@ -1346,9 +1217,40 @@ events:
     bands:
       - Arish Mel
     organisation: Webfeet
+  - name: Freedom Fields Ceilidh Band in Plymouth
+    details: "[Sold Out]"
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2026-03-27
+    end_date: 2026-03-27
+    country: UK
+    city: Plymouth
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Freedom Fields Ceilidh Band
+    callers:
+      - Christian Mayne
+    organisation: Webfeet
+  - name: Diatonics in Bath
+    links:
+      - "http://diatonics.co.uk/events.html"
+    start_date: 2026-03-28
+    end_date: 2026-03-28
+    country: UK
+    city: Bath
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Diatonics
+    organisation: Webfeet
   - name: Phoenix in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YF.20260328"
+      - "http://mister.red/dance/exeter.htm#D.YD.20260328"
     start_date: 2026-03-28
     end_date: 2026-03-28
     country: UK
@@ -1364,7 +1266,7 @@ events:
     organisation: Webfeet
   - name: Jenny Pipes Ceilidh Band in Leominster
     links:
-      - "http://mister.red/dance/leominster.htm#D.A3.20260328"
+      - "http://mister.red/dance/leominster.htm#D.A1.20260328"
     start_date: 2026-03-28
     end_date: 2026-03-28
     country: UK
@@ -1376,10 +1278,26 @@ events:
     bands:
       - Jenny Pipes Ceilidh Band
     organisation: Webfeet
+  - name: Jigs for Gigs in Seavington St Michael
+    links:
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2026-03-28
+    end_date: 2026-03-28
+    country: UK
+    city: Seavington St Michael
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Jigs for Gigs
+    callers:
+      - Simon Maplesden
+    organisation: Webfeet
   - name: Confluence in Stroud
     links:
       - "https://balfolkstroud.uk/cps/gigs/confluenceduo-7ed230.php"
-      - "http://mister.red/dance/stroud.htm#D.BC.20260328"
+      - "http://mister.red/dance/stroud.htm#D.BB.20260328"
     start_date: 2026-03-28
     end_date: 2026-03-28
     country: UK
@@ -1391,6 +1309,50 @@ events:
     bands:
       - Confluence
       - Confluence Duo
+    organisation: Webfeet
+  - name: live music in Bath
+    links:
+      - "http://mister.red/dance/bath.htm#D.AN.20260401"
+    start_date: 2026-04-01
+    end_date: 2026-04-01
+    country: UK
+    city: Bath
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - live music
+    organisation: Webfeet
+  - name: Belver in Grove
+    links:
+      - "https://www.areyoudancing.com/dance-event/792060/"
+    start_date: 2026-04-04
+    end_date: 2026-04-04
+    country: UK
+    city: Grove
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Belver
+    callers:
+      - Kate Holland
+    organisation: Webfeet
+  - name: "sessionista in Bath French, Bath"
+    links:
+      - "http://mister.red/dance/bath.htm#D.AL.20260405"
+    start_date: 2026-04-05
+    end_date: 2026-04-05
+    country: UK
+    city: "Bath French, Bath"
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - sessionista
     organisation: Webfeet
   - name: Teasing the Cat in Exeter
     links:
@@ -1408,7 +1370,7 @@ events:
     organisation: Webfeet
   - name: Fleece Ceilidh Band in Bretforton
     links:
-      - "http://mister.red/dance/evesham.htm#D.MC.20260409"
+      - "http://mister.red/dance/evesham.htm#D.MB.20260409"
     start_date: 2026-04-09
     end_date: 2026-04-09
     country: UK
@@ -1437,6 +1399,20 @@ events:
       - Holk
     callers:
       - Charlie Turner
+    organisation: Webfeet
+  - name: Tulla in Birmingham
+    links:
+      - "http://mister.red/dance/birmingham.htm#D.A6.20260410"
+    start_date: 2026-04-10
+    end_date: 2026-04-10
+    country: UK
+    city: Birmingham
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    bands:
+      - Tulla
     organisation: Webfeet
   - name: WillPower in Halsway Manor
     links:
@@ -1469,6 +1445,20 @@ events:
       - Glorystrokes
     callers:
       - Nick Walden
+    organisation: Webfeet
+  - name: Diatonics in Farnham
+    links:
+      - "http://diatonics.co.uk/events.html"
+    start_date: 2026-04-18
+    end_date: 2026-04-18
+    country: UK
+    city: Farnham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Diatonics
     organisation: Webfeet
   - name: Trip Hazard in Bristol
     links:
@@ -1505,7 +1495,7 @@ events:
     organisation: Webfeet
   - name: Skermish in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YG.20260425"
+      - "http://mister.red/dance/exeter.htm#D.YE.20260425"
     start_date: 2026-04-25
     end_date: 2026-04-25
     country: UK
@@ -1518,6 +1508,20 @@ events:
       - Skermish
     callers:
       - Chris Jewell
+    organisation: Webfeet
+  - name: Skermish in Kennford
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2026-04-25
+    end_date: 2026-04-25
+    country: UK
+    city: Kennford
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Skermish
     organisation: Webfeet
   - name: Portland Duo in Preston
     links:
@@ -1555,8 +1559,8 @@ events:
     organisation: Webfeet
   - name: Cosmos Chocolat in Kennington
     links:
-      - "http://mister.red/dance/oxford.htm#D.AU.20260426"
-      - "http://mister.red/dance/oxford.htm#D.A2.20260426"
+      - "http://mister.red/dance/oxford.htm#D.AT.20260426"
+      - "http://mister.red/dance/oxford.htm#D.A0.20260426"
     start_date: 2026-04-26
     end_date: 2026-04-26
     country: UK
@@ -1669,7 +1673,7 @@ events:
     organisation: Webfeet
   - name: Fleece Ceilidh Band in Bretforton
     links:
-      - "http://mister.red/dance/evesham.htm#D.MD.20260514"
+      - "http://mister.red/dance/evesham.htm#D.MC.20260514"
     start_date: 2026-05-14
     end_date: 2026-05-14
     country: UK
@@ -1716,6 +1720,7 @@ events:
     organisation: Webfeet
   - name: Diatonincs in Cardiff
     links:
+      - "http://diatonics.co.uk/events.html"
       - "https://ruffceilidhs.org/"
       - "http://mister.red/dance/cardiff.htm#D.HB.20260516"
     start_date: 2026-05-16
@@ -1747,7 +1752,7 @@ events:
     organisation: Webfeet
   - name: Red Shed in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YH.20260530"
+      - "http://mister.red/dance/exeter.htm#D.YF.20260530"
     start_date: 2026-05-30
     end_date: 2026-05-30
     country: UK
@@ -1760,6 +1765,20 @@ events:
       - Red Shed
     callers:
       - Pete or Rosie
+    organisation: Webfeet
+  - name: Red Shed in Kennford
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2026-05-30
+    end_date: 2026-05-30
+    country: UK
+    city: Kennford
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Red Shed
     organisation: Webfeet
   - name: Box of Frogs. in Alcester
     links:
@@ -1794,7 +1813,7 @@ events:
   - name: Topette!! in Stroud
     links:
       - "https://balfolkstroud.uk/cps/gigs/topette-f7f34b.php"
-      - "http://mister.red/dance/stroud.htm#D.AV.20260613"
+      - "http://mister.red/dance/stroud.htm#D.AU.20260613"
     start_date: 2026-06-13
     end_date: 2026-06-13
     country: UK
@@ -1824,7 +1843,7 @@ events:
     organisation: Webfeet
   - name: Topette!! in Faringdon
     links:
-      - "http://mister.red/dance/faringdon.htm#D.AW.20260614"
+      - "http://mister.red/dance/faringdon.htm#D.AV.20260614"
     start_date: 2026-06-14
     end_date: 2026-06-14
     country: UK
@@ -1854,7 +1873,7 @@ events:
     organisation: Webfeet
   - name: Amber Fire in Exeter
     links:
-      - "http://mister.red/dance/exeter.htm#D.YI.20260627"
+      - "http://mister.red/dance/exeter.htm#D.YG.20260627"
     start_date: 2026-06-27
     end_date: 2026-06-27
     country: UK
@@ -1866,20 +1885,19 @@ events:
     bands:
       - Amber Fire
     organisation: Webfeet
-  - name: Freedom Fields Ceilidh Band in Plymouth
-    details: "[Sold Out]"
+  - name: Diatonics in Alton
     links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2026-06-27
-    end_date: 2026-06-27
+      - "http://diatonics.co.uk/events.html"
+    start_date: 2026-07-04
+    end_date: 2026-07-04
     country: UK
-    city: Plymouth
+    city: Alton
     styles:
       - e-ceilidh
     workshop: false
     social: true
     bands:
-      - Freedom Fields Ceilidh Band
+      - Diatonics
     organisation: Webfeet
   - name: Blackbeards Tea Party in Southwell
     links:
@@ -1938,6 +1956,20 @@ events:
     social: true
     bands:
       - Arish Mel
+    organisation: Webfeet
+  - name: Diatonics in Warwick
+    links:
+      - "http://diatonics.co.uk/events.html"
+    start_date: 2026-07-24
+    end_date: 2026-07-24
+    country: UK
+    city: Warwick
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Diatonics
     organisation: Webfeet
   - name: Kettlehawk in Sidmouth
     links:
@@ -2086,6 +2118,20 @@ events:
     callers:
       - Set Tepfer/Katrina Killey
     organisation: Webfeet
+  - name: Striding Edge in Ambleside
+    links:
+      - "http://www.striding-edge.org/diary/"
+    start_date: 2026-10-03
+    end_date: 2026-10-03
+    country: UK
+    city: Ambleside
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Striding Edge
+    organisation: Webfeet
   - name: "Brian, Meg & Mike in Alcester"
     links:
       - "http://mister.red/dance/alcester.htm#D.3K.20261004"
@@ -2116,7 +2162,7 @@ events:
     organisation: Webfeet
   - name: Fleece Ceilidh Band in Bretforton
     links:
-      - "http://mister.red/dance/evesham.htm#D.ME.20261015"
+      - "http://mister.red/dance/evesham.htm#D.MD.20261015"
     start_date: 2026-10-15
     end_date: 2026-10-15
     country: UK
@@ -2145,6 +2191,24 @@ events:
       - Kettlehawk
     callers:
       - Bev Langton
+    organisation: Webfeet
+  - name: Portland Duo in Morganstown
+    links:
+      - "http://portland-drive.co.uk/events/"
+      - "https://ruffceilidhs.org/"
+    start_date: 2026-10-17
+    end_date: 2026-10-17
+    country: UK
+    city: Morganstown
+    styles:
+      - contra
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Portland Duo
+    callers:
+      - Mike Courthold
     organisation: Webfeet
   - name: Contrasaurus in Leeds
     links:
@@ -2211,6 +2275,20 @@ events:
     callers:
       - Lynne Render
     organisation: Webfeet
+  - name: Diatonics in Havant
+    links:
+      - "http://diatonics.co.uk/events.html"
+    start_date: 2026-11-07
+    end_date: 2026-11-07
+    country: UK
+    city: Havant
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Diatonics
+    organisation: Webfeet
   - name: Box of Frogs in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
@@ -2229,7 +2307,7 @@ events:
     organisation: Webfeet
   - name: Fleece Ceilidh Band in Bretforton
     links:
-      - "http://mister.red/dance/evesham.htm#D.MF.20261112"
+      - "http://mister.red/dance/evesham.htm#D.ME.20261112"
     start_date: 2026-11-12
     end_date: 2026-11-12
     country: UK
@@ -2304,7 +2382,7 @@ events:
     organisation: Webfeet
   - name: Fleece Ceilidh Band in Bretforton
     links:
-      - "http://mister.red/dance/evesham.htm#D.MG.20261210"
+      - "http://mister.red/dance/evesham.htm#D.MF.20261210"
     start_date: 2026-12-10
     end_date: 2026-12-10
     country: UK
@@ -2366,6 +2444,34 @@ events:
     callers:
       - Charlie Turner
     organisation: Webfeet
+  - name: Fairgreen Band in Norwich
+    links:
+      - "http://www.mardles.org/mardles/ceilidhs/"
+    start_date: 2027-01-08
+    end_date: 2027-01-08
+    country: UK
+    city: Norwich
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Fairgreen Band
+    organisation: Webfeet
+  - name: Portland Drive in Rainford
+    links:
+      - "http://portland-drive.co.uk/events/"
+    start_date: 2027-01-09
+    end_date: 2027-01-09
+    country: UK
+    city: Rainford
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Portland Drive
+    organisation: Webfeet
   - name: Out of Hand in Cardiff
     links:
       - "https://ruffceilidhs.org/"
@@ -2398,6 +2504,38 @@ events:
       - Chaotic Good
     callers:
       - Charlotte Rich-Griffin
+    organisation: Webfeet
+  - name: Bunny-Eye Band in Cardiff
+    links:
+      - "https://ruffceilidhs.org/"
+    start_date: 2027-03-20
+    end_date: 2027-03-20
+    country: UK
+    city: Cardiff
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Bunny-Eye Band
+    callers:
+      - Fee Lock
+    organisation: Webfeet
+  - name: Box of Frogs in Morganstown
+    links:
+      - "https://ruffceilidhs.org/"
+    start_date: 2027-04-17
+    end_date: 2027-04-17
+    country: UK
+    city: Morganstown
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Box of Frogs
+    callers:
+      - Mark Elvins
     organisation: Webfeet
   - name: Brown Boots in Cardiff
     links:
