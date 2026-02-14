@@ -3,15 +3,15 @@ events:
   - name: La Skeggia delle Streghe
     links:
       - "https://www.facebook.com/events/642998984151898/"
-    start: 2022-10-31T21:00:00+01:00
-    end: 2022-11-01T00:00:00+01:00
+    start: "2022-10-31T21:00:00+01:00"
+    end: "2022-11-01T00:00:00+01:00"
     country: Italy
     city: Trieste
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     organisation: Trieste Folk
-
   - name: Seventh Trieste Klandestina
     links:
       - "https://www.facebook.com/events/822962209493457/"
@@ -25,7 +25,6 @@ events:
     social: true
     price: free
     organisation: ~
-
   - name: 10 Year Anniversary Concert
     links:
       - "https://www.facebook.com/events/749736183742939/"
@@ -42,4 +41,16 @@ events:
       - "Duo l'Hêtre Heureux"
       - KV Express
     price: €15
+    organisation: Trieste Folk
+  - name: STRADanze
+    links:
+      - "https://www.facebook.com/events/3338196732995321"
+    start: "2026-02-16T20:30:00+01:00"
+    end: "2026-02-16T23:15:00+01:00"
+    country: Italy
+    city: Trieste
+    styles:
+      - balfolk
+    workshop: false
+    social: true
     organisation: Trieste Folk
