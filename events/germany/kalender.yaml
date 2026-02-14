@@ -1662,10 +1662,10 @@ events:
   - name: Bal Folk in der TanzEtage
     details: "Workshop für Einsteiger, 18:00 bis 20:00, Bal Folk mit Danzvogel, und Emma und Jonas, 20:30,Tübingerstraße 58, 72810 Gomaringen"
     links:
-      - "http://Danzvogel.de"
+      - "https://danzvogel.de/termine/"
       - "https://kalender.digital/574d155c91900caea879/event/1113785053"
-    start_date: 2026-03-07
-    end_date: 2026-03-07
+    start: "2026-03-07T16:00:00+01:00"
+    end: "2026-03-07T23:30:00+01:00"
     country: Germany
     city: Gomaringen
     styles:
@@ -1692,7 +1692,7 @@ events:
     bands:
       - Le Bal Taquin
       - Trio DMR
-    organisation: Johann Gerlmayer  07161 58 150
+    organisation: Johann Gerlmayer
   - name: "Tänze aus Frankreich: u.a. Mazurka und Bourrée"
     links:
       - "https://www.lag-tanz-bw.de/programm/2616"
@@ -1880,7 +1880,7 @@ events:
     social: true
     bands:
       - MaJoPlus
-    organisation: Johann Gerlmayer  07161 58 150
+    organisation: Johann Gerlmayer
   - name: Tänze aus Frankreich und der Bretagne
     links:
       - "https://www.vhs-metzingen.de/kurssuche/kurs/Taenze-aus-Frankreich-und-der-Bretagne/HM35059"
@@ -2126,7 +2126,7 @@ events:
     social: true
     bands:
       - Bascule
-    organisation: Johann Gerlmayer  07161 58 150
+    organisation: Johann Gerlmayer
   - name: Balfolk trifft Balkan
     details: "Tanztag am Bodensee, mit den Ballkanesen aus Tübingen und Biskaya Quartett"
     links:
