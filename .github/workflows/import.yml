@@ -63,6 +63,8 @@ jobs:
         run: dancelist import burghausen events/germany/burghausen.yaml
       - name: Import skandia
         run: dancelist import skandia events/usa/skandia.yaml
+      - name: Import stroud
+        run: dancelist import stroud events/uk/stroud.yaml
       - name: Commit if changed
         run: |
           git add events
