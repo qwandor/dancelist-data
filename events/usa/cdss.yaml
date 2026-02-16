@@ -9339,6 +9339,21 @@ events:
       - Christine Merryman
     price: $75-$165
     organisation: Sleepy Sun Studios
+  - name: Chance Dance
+    details: "One-day contra dance festival in Cape Girardeau, MO. $20 for entire day."
+    links:
+      - "https://cdss.org/event/chance-dance/"
+    start_date: 2026-02-28
+    end_date: 2026-02-28
+    country: USA
+    state: MO
+    city: Cape Girardeau
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $20
+    organisation: John Coffman
   - name: Milford Contra Dance
     details: "The Milford contra dance happens every 4th Friday, unless the 4th Friday happens on Thanksgiving weekend or a Christmas weekend. Music is provided by a large 15+ member band, which allows anyone to sit in for just a single dance or the whole evening. Callers are usually local callers. The dance is usually large, with 100 or more in attendance. The dance is located in the Milford NH town hall, in the center  of town. Entry is on either side of the building, but not the big front steps. \nUnder 10 free; students/seniors $5; adults $12"
     links:
@@ -9643,6 +9658,27 @@ events:
       - Jenna Simpson
     price: $115
     organisation: Country Dance and Song Society of Pittsburgh
+  - name: Trillium Twirl Sprint Dance Camp
+    details: "A residential grand weekend of cool Contras, hot Squares, beautiful English Country Dance, plus singing, music jams, workshops, and more – featuring caller Bob Isaacs and Toss the Possum. \nFull weekend registration includes the full dance and activities schedule, lodging, all meals, daily evening snacks, Sunday farewell ice cream social. \nFull weekend registration for dancers aged 30+ is on a sliding scale starting at $225 up to $275 (or more). Ages 15-29 $160. Ages 6-14 $70. Staff Assistants $175 (apply by March 31). \nÀ la carte options available (view details on website). Advance registration only—no walk-ins."
+    links:
+      - "https://cdss.org/event/trillium-twirl-sprint-dance-camp/"
+    start_date: 2026-04-24
+    end_date: 2026-04-26
+    country: USA
+    state: MI
+    city: Dowling
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Toss the Possum
+      - Trillium
+    callers:
+      - Bob Isaacs
+    price: $70-$275
+    organisation: Michigan Dance Heritage
   - name: New England Folk Festival (NEFFA)
     details: "NEFFA attracts over 2000 attendees from all over the country and overseas and features close to 1000 performers. The Festival is unique because of the participatory nature of the events. Not only are there concerts and performances, but there are also opportunities for people of all ages and backgrounds to engage with music, dance, and folk arts culture."
     links:
@@ -9828,6 +9864,25 @@ events:
     callers:
       - Tom Roby
     organisation: Burlington Country Dancers
+  - name: Dance Trance 2026
+    details: "Dance Trance is a contra dance weekend in Lexington, KY, produced by the Lexington Traditional Dance Association. For 2026 we have the 27th Dance Trance. \nDance Trance 2026, 5-7 June 2026, will feature Contraforce with callers Seth Tepfer and Kenny Greer."
+    links:
+      - "https://cdss.org/event/dance-trance-2026/"
+    start: "2026-06-05T20:00:00-04:00"
+    end: "2026-06-07T15:00:00-04:00"
+    country: USA
+    state: KY
+    city: Lexington
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - ContraForce
+    callers:
+      - Kenny Greer
+      - Seth Tepfer
+    organisation: Lexington Traditional Dance Association
   - name: Flamingo Fling
     details: "Contra Weekend in Oklahoma City featuring Adina Gordon calling and Brian Lindsay, Eric Schedler, and Owen Morrison as the band!"
     links:
@@ -9840,7 +9895,7 @@ events:
     city: Oklahoma City
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     bands:
       - Steam Packet
