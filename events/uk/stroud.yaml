@@ -79,23 +79,28 @@ events:
     country: UK
     city: Stroud
     styles:
-      - e-ceilidh
+      - balfolk
     workshop: false
     social: true
+    bands:
+      - Venn
     price: £10
     organisation: French Dance Stroud
   - name: Balfolk Stroud
     details: Confluence Duo presented by Balfolk Stroud Â£10
     links:
       - "https://balfolkstroud.uk/cps/gigs/confluenceduo-7ed230.php"
+      - "https://www.facebook.com/events/1875576393034450/"
     start: "2026-03-28T19:30:00+00:00"
     end: "2026-03-28T22:30:00+00:00"
     country: UK
     city: Stroud
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Confluence
     price: £10
     organisation: Balfolk Stroud
   - name: Stroud Ceilidh
@@ -126,7 +131,7 @@ events:
     country: UK
     city: Stroud
     styles:
-      - e-ceilidh
+      - balfolk
     workshop: false
     social: true
     price: £10
@@ -135,32 +140,36 @@ events:
     details: Helen Gentile & Lewis Wood presented by Balfolk Stroud Â£10
     links:
       - "https://balfolkstroud.uk/cps/gigs/helengentilelewiswood-f3f5d1.php"
+      - "https://www.facebook.com/events/1613387523242541/"
     start: "2026-05-30T19:30:00+01:00"
     end: "2026-05-30T22:30:00+01:00"
     country: UK
     city: Stroud
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Helen Gentile & Lewis Wood
     price: £10
     organisation: Balfolk Stroud
-  - name: Topette!!
+  - name: Balfolk
     details: Topette!! presented by Topette!! Â£19.80
     links:
+      - "https://wegottickets.com/event/685758"
       - "https://balfolkstroud.uk/cps/gigs/topette-f7f34b.php"
-    start: "2026-06-13T20:00:00+01:00"
+    start: "2026-06-13T19:30:00+01:00"
     end: "2026-06-13T22:30:00+01:00"
     country: UK
     city: Stroud
     styles:
-      - e-ceilidh
+      - balfolk
     workshop: false
     social: true
     bands:
       - Topette
-    price: £19
-    organisation: Topette!!
+    price: £9.90-£19.80
+    organisation: Topette
   - name: Bal Ceilidh
     details: Dance to Sunbird with Jane Bird presented by New Stroud Ceilidhs/Balfolk Stroud £15
     links:
@@ -181,22 +190,7 @@ events:
     callers:
       - Jane Bird
     price: £15
-    organisation: New Stroud Ceilidhs/Balfolk Stroud
-  - name: Balfolk Stroud
-    details: Sawney White Bird presented by Balfolk Stroud/New Stroud Ceilidhs Â£15
-    links:
-      - "https://balfolkstroud.uk/cps/gigs/sawneywhitebird-39d1f5.php"
-    start: "2026-10-31T20:00:00+00:00"
-    end: "2026-10-31T23:30:00+00:00"
-    country: UK
-    city: Stroud
-    styles:
-      - balfolk
-      - e-ceilidh
-    workshop: false
-    social: true
-    price: £15
-    organisation: Balfolk Stroud/New Stroud Ceilidhs
+    organisation: Balfolk Stroud
   - name: French Dance Stroud
     details: Venn presented by French Dance Stroud Â£10
     links:
@@ -206,9 +200,11 @@ events:
     country: UK
     city: Stroud
     styles:
-      - e-ceilidh
+      - balfolk
     workshop: false
     social: true
+    bands:
+      - Venn
     price: £10
     organisation: French Dance Stroud
   - name: Stroud Ceilidh
