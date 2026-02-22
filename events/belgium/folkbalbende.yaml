@@ -17948,6 +17948,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
     organisation: Balhalla
   - name: Balhalla
     details: Ball
@@ -17961,6 +17963,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
     organisation: Balhalla
   - name: Balhalla
     details: Ball
@@ -21595,6 +21599,7 @@ events:
   - name: Balhalla
     details: Ball
     links:
+      - "https://www.balhalla.be/en/event/bal-with-flos"
       - "https://folkbalbende.be/event/2848"
     start: "2026-03-26T19:00:00+01:00"
     end: "2026-03-26T23:00:00+01:00"
@@ -21604,6 +21609,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Flos
     price: €10-€18
     organisation: Balhalla
   - name: Balhalla
@@ -21632,6 +21639,9 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
+      - Hamareel
     price: €11-€17
     organisation: Balhalla
   - name: Dance Class Level 1 Mechelen
@@ -22103,6 +22113,10 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
+      - Hamareel
+      - Phlox
     organisation: Rootstown
   - name: Prieelbal
     details: Ball
@@ -24274,6 +24288,8 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Hamareel
     organisation: ~
   - name: Bal@Mechelen
     details: Ball
@@ -24287,6 +24303,8 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Hamareel
     organisation: ~
   - name: Valentine's Bal
     details: Ball
@@ -25505,3 +25523,49 @@ events:
     social: false
     price: €5-€10
     organisation: Stanistil
+  - name: Dansen Uit Piemonte
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/4197"
+    start: "2026-04-18T14:30:00+02:00"
+    end: "2026-04-18T18:00:00+02:00"
+    country: Belgium
+    city: Herk-de-Stad
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €30-€40
+    organisation: Folk In Limburg
+  - name: '"Danses Collectives Pour Tous" Avec Elena'
+    details: Course
+    links:
+      - "https://eledanse.be/event/26_04_stage-mixers/"
+      - "https://folkbalbende.be/event/4205"
+      - "https://www.facebook.com/events/1351697170335872/"
+    start: "2026-04-25T13:30:00+02:00"
+    end: "2026-04-25T19:00:00+02:00"
+    country: Belgium
+    city: Genval
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €5-€20
+    organisation: EléDanse ASBL
+  - name: Emily & The Simons 10 Years Anniversary Ball
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/4206"
+    start: "2026-04-25T17:30:00+02:00"
+    end: "2026-04-25T20:45:00+02:00"
+    country: Belgium
+    city: Genval
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Emily & The Simons
+      - Dansintermezzo
+    organisation: ~
