@@ -2941,6 +2941,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
     price: €12-€15
     organisation: NeigemFolk
   - name: Practica At Pianofabriek
@@ -18527,6 +18529,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
     organisation: Balhalla
   - name: Folkbal
     details: Ball
@@ -18540,6 +18544,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
     organisation: Balhalla
   - name: Folkbal
     details: Ball
@@ -22160,6 +22166,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
     organisation: ~
   - name: Gratis Folkdansanimatie (B)all In One
     details: Ball
@@ -22889,6 +22897,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
     organisation: Balhalla
   - name: Balhalla
     details: Ball
@@ -22902,6 +22912,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
     organisation: Balhalla
   - name: Balhalla
     details: Ball
@@ -22915,6 +22927,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
     organisation: Balhalla
   - name: Balhalla
     details: Ball
@@ -22928,6 +22942,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
     organisation: Balhalla
   - name: Balhalla
     details: Ball
@@ -22941,6 +22957,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
     organisation: Balhalla
   - name: Balhalla
     details: Ball
@@ -22954,6 +22972,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
     organisation: Balhalla
   - name: Balhalla
     details: Ball
@@ -22967,6 +22987,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
     organisation: Balhalla
   - name: Balhalla Potluckbal
     details: Ball
@@ -22983,6 +23005,9 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
+      - Hamareel
     price: €11-€17
     organisation: Balhalla
   - name: Dance Class Level 1 Mechelen
@@ -23459,6 +23484,10 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Hamareel
+      - Hamareel
+      - Phlox
     organisation: Rootstown
   - name: Prieelbal
     details: Ball
@@ -25755,6 +25784,8 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Hamareel
     organisation: ~
   - name: Bal@Mechelen
     details: Ball
@@ -25768,6 +25799,8 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Hamareel
     organisation: ~
   - name: Valentijnsbal
     details: Ball
@@ -26569,7 +26602,7 @@ events:
       - "https://folkbalbende.be/event/3922"
       - "https://www.facebook.com/events/1576300786718742"
     start: "2026-03-08T17:30:00+01:00"
-    end: "2026-03-08T22:30:00+01:00"
+    end: "2026-03-08T22:15:00+01:00"
     country: Belgium
     city: Genval
     styles:
@@ -26577,6 +26610,7 @@ events:
     workshop: false
     social: true
     bands:
+      - Bellowing Bellows
       - Bellowing Bellows
     organisation: EléDanse ASBL
   - name: Queimada
@@ -27169,3 +27203,35 @@ events:
     social: false
     price: €30-€40
     organisation: Folk In Limburg
+  - name: "\"Danses Collectives Pour Tous\" Avec Elena"
+    details: Course
+    links:
+      - "https://eledanse.be/event/26_04_stage-mixers/"
+      - "https://folkbalbende.be/event/4205"
+      - "https://www.facebook.com/events/1351697170335872/"
+    start: "2026-04-25T13:30:00+02:00"
+    end: "2026-04-25T19:00:00+02:00"
+    country: Belgium
+    city: Genval
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €5-€20
+    organisation: EléDanse ASBL
+  - name: Emily & The Simons 10 Years Anniversary Ball
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/4206"
+    start: "2026-04-25T17:30:00+02:00"
+    end: "2026-04-25T20:45:00+02:00"
+    country: Belgium
+    city: Genval
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Emily & The Simons
+      - Dansintermezzo
+    organisation: ~
