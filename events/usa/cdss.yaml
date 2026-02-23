@@ -5243,6 +5243,7 @@ events:
     social: true
     bands:
       - Cambia
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
@@ -8434,36 +8435,6 @@ events:
       - Lisa Greenleaf
     price: $30-$45
     organisation: Van Kaynor
-  - name: 3rd Saturday Contra Dance
-    details: "Every 3rd Saturday from September through May. See our website for this month’s band and caller. \nWe use gender neutral role terms at all dances. \nProud Associate member of PATMAD and CDSS. \nPayment is on a sliding scale."
-    links:
-      - "https://3rdsaturday.thursdaycontra.com/"
-      - "https://cdss.org/event/3rd-saturday-contra-dance-in-philadelphia-8/"
-    start: "2026-02-21T19:30:00-05:00"
-    end: "2026-02-21T22:30:00-05:00"
-    country: USA
-    state: PA
-    city: Philadelphia
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: PATMAD
-  - name: 3rd Saturday Contra Dance
-    details: "Every 3rd Saturday from September through May. See our website for this month’s band and caller. \nWe use gender neutral role terms at all dances. \nProud Associate member of PATMAD and CDSS. \nPayment is on a sliding scale."
-    links:
-      - "https://3rdsaturday.thursdaycontra.com/"
-      - "https://cdss.org/event/3rd-saturday-contra-dance-in-philadelphia-9/"
-    start: "2026-02-21T19:30:00-05:00"
-    end: "2026-02-21T22:30:00-05:00"
-    country: USA
-    state: PA
-    city: Philadelphia
-    styles:
-      - contra
-    workshop: false
-    social: true
-    organisation: PATMAD
   - name: Medley Marathon
     details: "3 hours of non-stop dancing! Join us for Medley Marathon 2026 on Feb 21, 2026 from 7:30 – 10:30 at Summit Presbyterian Church. There will be 4 bands and 6 callers. Role terms will be Larks and Robins. Admission is $15+  \nBands: \nTWeLve- Kathy Talvitie, Miranda Weinberg, Nathalie Levine\nHigh Strung –  Jared Bishop, Alec Charon, Max Thoburn, Adam Bodine\nBox and String – Sarah Gowan, Laura Alexander, Bill Quern\nThree Bits – Bob Stein, Bob Pasquarello, Mat Clark \nCallers:  \nRick Mohr\nBob Isaacs\nDonna Hunt\nSue Gola\n\nKaren Justin\nLiesl Jandrey"
     links:
@@ -8474,6 +8445,8 @@ events:
       - "https://cdss.org/event/3rd-saturday-contra-dance-in-philadelphia-5/"
       - "https://cdss.org/event/3rd-saturday-contra-dance-in-philadelphia-6/"
       - "https://cdss.org/event/3rd-saturday-contra-dance-in-philadelphia-7/"
+      - "https://cdss.org/event/3rd-saturday-contra-dance-in-philadelphia-8/"
+      - "https://cdss.org/event/3rd-saturday-contra-dance-in-philadelphia-9/"
       - "https://cdss.org/event/3rd-saturday-contra-dance-in-philadelphia/2026-02-21/"
     start: "2026-02-21T19:30:00-05:00"
     end: "2026-02-21T22:30:00-05:00"
@@ -9842,6 +9815,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Houston Area Traditional Dance Society
   - name: Roseville English Country Dance
     details: "English Country Dance at the Masonic Lodge, 235 Vernon St., Roseville! Check our website for the most current information. \nCost: $15 for adults; $10 for college students with ID; $5 for dancers under 18; $30 maximum for families (cash or check). If cost is the only thing preventing you being being there, please talk to the greeters at the door."
@@ -9880,8 +9854,8 @@ events:
     links:
       - "https://nbcds.org/english-country-dance/"
       - "https://cdss.org/event/sebastopol-1st-and-3rd-sunday-english-dance/2026-03-01/"
-    start: "2026-03-01T17:00:00-08:00"
-    end: "2026-03-01T19:30:00-08:00"
+    start: "2026-03-01T14:00:00-08:00"
+    end: "2026-03-01T16:30:00-08:00"
     country: USA
     state: CA
     city: Sebastopol
@@ -9896,7 +9870,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2026-03-01/"
-    start: "2026-03-01T19:00:00-06:00"
+    start: "2026-03-01T18:30:00-06:00"
     end: "2026-03-01T21:00:00-06:00"
     country: USA
     state: MN
@@ -9905,24 +9879,25 @@ events:
       - ecd
     workshop: false
     social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: Contra Dance in St Louis
     details: Weekly contra dance in St Louis area (actually Webster Groves MO). Always great live music. First dance each month features open calling.
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2026-03-01/"
-    start: "2026-03-01T19:00:00-06:00"
+    start: "2026-03-01T18:30:00-06:00"
     end: "2026-03-01T21:30:00-06:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Arcotones
+    price: $10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
@@ -9977,7 +9952,7 @@ events:
     links:
       - "https://www.chicagobarndance.org/calendar/"
       - "https://cdss.org/event/chicago-contra-dance/2026-03-02/"
-    start: "2026-03-02T19:00:00-06:00"
+    start: "2026-03-02T18:30:00-06:00"
     end: "2026-03-02T21:40:00-06:00"
     country: USA
     state: IL
@@ -10002,6 +9977,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: Celebration
     details: "Free All-Day Dance Saturday (add Friday night for $15) \nPlaying with Fyre & Ed, Tami and the Dust Clouds"
