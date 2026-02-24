@@ -6088,6 +6088,7 @@ events:
       - "Pocketful o' Gimmick"
     callers:
       - Susan English
+    price: $5-$8
     organisation: CDSS
   - name: Groton Grange Contra Dance
     details: "Groton Grange #7 invites you to join the fun at our traditional New England Contra Dances on Saturdays in 2026 from 7:30 – 10 PM at Historic Groton Grange Hall. \n\nCaller: Dudley Laufman, 2009 National Heritage Fellow\nSuggested donation: $5 per person / $20 max per couple or family / children under 3 free. Refreshments will be provided.\nThis dance is made possible by a grant from the Town of Groton’s Trust Fund Lecture Series.\nGroton’s own Contra Banditos will be playing their traditional old-time fiddle and americana music. Callers will teach New England style contra, square and line dances. No experience necessary!\nBeginners are welcome, no experience or partner is necessary.\nPLEASE NOTE: PARK ONLY ON THE GRANGE SIDE OF CHAMPNEY STREET!"
@@ -10573,6 +10574,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $10-$20
     organisation: CDSS
   - name: "Swingin' Tern Contra Dance"
     details: "Our contra dances are held every first and third Saturday evening year-round from 7:30pm–10:30pm with a beginners’ workshop at 7pm.  We have occasional double dances along with a New Year’s Eve dance. \nOur full calendar \nUseful Information:\n\nNewcomers are welcome to come at 7pm for an introductory lesson on the basics of contra dancing. No partner is necessary. All dances are taught with a “walk-through” by the caller.\nWe no longer require vaccination. Masks are optional.\nAll dances at Swingin’ Tern are called to the gender-neutral terms Larks & Robins. Dance whatever role you’re comfortable in.\nWe are air-conditioned. We have windows on three sides when we want to let the breeze come in.\nOur dance is two blocks from the Chatham station on the Morris/Essex line out of Penn Station, NYC.\nWe welcome contributions of home-baked [or not] goodies to share at the break.\nPlease bring your own water bottle. Water bottles may be filled at the kitchen sink.\nWear comfortable clothing. Contra dancing is aerobic. We prefer you carry in your shoes.\nWe are a friendly, inclusive group. Pack plenty of smiles!\n\n$15 adults/$5 students"
@@ -10604,6 +10606,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$15
     organisation: Syracuse Country Dancers
   - name: Port Ewen English Country Dance
     details: "English Country Dance with visiting callers. Live local band. Air conditioned hall, so we dance all summer! \n7 PM skills class for beginners \nDance is 7:30 to 10:30. Entry is $15."
@@ -10635,23 +10638,31 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - "Pocketful o' Gimmick"
     callers:
       - Susan English
+    price: $5-$8
     organisation: CDSS
   - name: Knoxville Contra Dance
     details: "Join us the first Saturday of every month (except February) for our monthly dance in the gymnasium of the Children’s Museum of Oak Ridge as we dance mostly contras. Neither partner or experience is required. All dances are taught. We usually have live music from a local band, and always live calling from a local caller. A donation is requested, but no one turned away."
     links:
       - "https://www.knoxvillecontra.org/schedule"
       - "https://cdss.org/event/monthly-american-folk-dance-and-contra-series-at-childrens-museum-of-oak-ridge/2026-03-07/"
-    start: "2026-03-07T19:30:00-05:00"
+    start: "2026-03-07T19:00:00-05:00"
     end: "2026-03-07T22:30:00-05:00"
     country: USA
     state: TN
     city: Oak Ridge
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Black Mash Hollow
+    callers:
+      - Greer Hannan
+    price: $5-$10
     organisation: Knoxville Contra Dance
   - name: Scissortail Contra Dance
     details: "Scissortail Contra Dance in Tulsa, first Saturdays. Check our Facebook or our website for more details!"
@@ -10667,6 +10678,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$25
     organisation: Scissortail Traditional Dance Society
   - name: Tucson Contra Dance
     details: "Join us for our first and third Saturday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check our website for more details."
@@ -10713,20 +10725,21 @@ events:
       - contra
     workshop: false
     social: true
+    price: donation
     organisation: Arkansas Valley Music and Dance
   - name: Santa Fe Contra Dance
     details: "Instruction at 6:30 and dancing starts at 7:00PM. Everyone is welcome at contra dancing, no partner required. For more details about contra or the FolkMADS organization, see our website."
     links:
       - "https://folkmads.org/events/"
       - "https://cdss.org/event/santa-fe-contra-dance/2026-03-07/"
-    start: "2026-03-07T19:00:00-07:00"
+    start: "2026-03-07T18:30:00-07:00"
     end: "2026-03-07T22:00:00-07:00"
     country: USA
     state: NM
     city: Santa Fe
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $10
     organisation: CDSS
@@ -11281,23 +11294,6 @@ events:
     social: true
     price: $425-$720
     organisation: CDSS
-  - name: Fandango
-    details: "Join us in Atlanta/Decatur, GA for a weekend of English Country Dance! \nJoanna Reiner Wilkinson, caller \nMusic by Karen Axelrod, Shira Kammen, & Anna Patton \nRegistration opens April 2026—check our website for updates. \nSee you in September!"
-    links:
-      - "https://ecdatlanta.org/fandango/"
-      - "https://cdss.org/event/fandango-2026/"
-    start_date: 2026-09-18
-    end_date: 2026-09-20
-    country: USA
-    state: GA
-    city: Decatur
-    styles:
-      - ecd
-    workshop: true
-    social: true
-    callers:
-      - Joanna Reiner Wilkinson
-    organisation: CDSS
   - name: Bear Hug Contra Dance Festival
     details: "Get ready to contra dance, sing, swim, canoe, and play music at the 2026 Bear Hug weekend on the shores of Montana’s Flathead Lake!  Music provided by Raven and Goose and The Unstrung String Band, with callers Susan Petrick and Rab Cummings.  Singles, couples, families, and all ages are welcome! Entertainment, meals, and lodging (shared rustic cabins, or tent or RV camping) are provided. Registration fees are on a sliding scale. Hope to see you there!"
     links:
@@ -11320,9 +11316,10 @@ events:
       - Susan Petrick
     price: $250-$305
     organisation: Missoula Folklore Society
-  - name: Fandango! 2026
+  - name: Fandango
     details: "Join us in Atlanta/Decatur, GA for a weekend of English Country Dance! \nJoanna Reiner Wilkinson, caller \nMusic by Karen Axelrod, Shira Kammen, & Anna Patton \nRegistration opens April 2026—check our website for updates. \nSee you in September!"
     links:
+      - "https://ecdatlanta.org/fandango/"
       - "https://cdss.org/event/fandango-2026/"
     start_date: 2026-09-18
     end_date: 2026-09-20
@@ -11331,7 +11328,7 @@ events:
     city: Decatur
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     callers:
       - Joanna Reiner Wilkinson
