@@ -1299,7 +1299,7 @@ events:
     workshop: true
     social: true
     organisation: Folktanz Dresden e.V.
-  - name: Bal Folk
+  - name: Gugelhupf
     links:
       - "https://www.gugelhupf-dresden.de/tanz-in-dresden/"
     start: "2026-03-08T19:00:00+01:00"
@@ -1316,8 +1316,8 @@ events:
   - name: "Einführungsstunde: Mixer"
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-03-10
-    end_date: 2026-03-10
+    start: "2026-03-10T19:30:00+01:00"
+    end: "2026-03-11T00:00:00+01:00"
     country: Germany
     city: Dresden
     styles:
@@ -1328,12 +1328,13 @@ events:
   - name: "Einführungsstunde: Polska"
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-03-17
-    end_date: 2026-03-17
+    start: "2026-03-17T19:30:00+01:00"
+    end: "2026-03-18T00:00:00+01:00"
     country: Germany
     city: Dresden
     styles:
       - balfolk
+      - scandi
     workshop: true
     social: true
     organisation: Folktanz Dresden e.V.
@@ -1354,8 +1355,8 @@ events:
   - name: "Einführungsstunde: Bourreé zu 3,4 oder 6 Personen"
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-03-24
-    end_date: 2026-03-24
+    start: "2026-03-24T19:30:00+01:00"
+    end: "2026-03-25T00:00:00+01:00"
     country: Germany
     city: Dresden
     styles:
@@ -1366,8 +1367,8 @@ events:
   - name: "Einführungsstunde: Frühlings- und Lieblingstänze"
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-03-31
-    end_date: 2026-03-31
+    start: "2026-03-31T19:30:00+02:00"
+    end: "2026-04-01T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1378,32 +1379,19 @@ events:
   - name: "Einführungsstunde: Tänze aus dem Poitou"
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-04-14
-    end_date: 2026-04-14
+    start: "2026-04-14T19:30:00+02:00"
+    end: "2026-04-15T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
       - balfolk
     workshop: true
     social: true
-    organisation: Folktanz Dresden e.V.
-  - name: Bal folk mit Parasol - Gérard Godon und Samuel Thézé
-    links:
-      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-04-21
-    end_date: 2026-04-21
-    country: Germany
-    city: Dresden
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Parasol
     organisation: Folktanz Dresden e.V.
   - name: Gugelhupf
     links:
       - "https://www.gugelhupf-dresden.de/tanz-in-dresden/"
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
     start: "2026-04-21T20:00:00+02:00"
     end: "2026-04-21T23:00:00+02:00"
     country: Germany
@@ -1418,8 +1406,8 @@ events:
   - name: "Einführungsstunde: Mixer"
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-04-28
-    end_date: 2026-04-28
+    start: "2026-04-28T19:30:00+02:00"
+    end: "2026-04-29T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1430,8 +1418,8 @@ events:
   - name: "Einführungsstunde: Fado"
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-05-05
-    end_date: 2026-05-05
+    start: "2026-05-05T19:30:00+02:00"
+    end: "2026-05-06T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1439,7 +1427,7 @@ events:
     workshop: true
     social: true
     organisation: Folktanz Dresden e.V.
-  - name: Bal folk mit Filippo Gambetta
+  - name: Bal Folk
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
     start_date: 2026-05-09
@@ -1453,7 +1441,7 @@ events:
     bands:
       - Filippo Gambetta
     organisation: Folktanz Dresden e.V.
-  - name: Zéphyr Combo (CH/B)
+  - name: Gugelhupf
     links:
       - "https://www.gugelhupf-dresden.de/tanz-in-dresden/"
     start: "2026-05-09T19:00:00+02:00"
@@ -1470,8 +1458,8 @@ events:
   - name: "Einführungsstunde: Griechische Tänze"
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-05-19
-    end_date: 2026-05-19
+    start: "2026-05-19T19:30:00+02:00"
+    end: "2026-05-20T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1482,8 +1470,8 @@ events:
   - name: "Einführungsstunde: Armenische Tänze"
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-05-26
-    end_date: 2026-05-26
+    start: "2026-05-26T19:30:00+02:00"
+    end: "2026-05-27T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1494,8 +1482,8 @@ events:
   - name: "Einführungsstunde: Balkantänze"
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-06-02
-    end_date: 2026-06-02
+    start: "2026-06-02T19:30:00+02:00"
+    end: "2026-06-03T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1506,8 +1494,8 @@ events:
   - name: "Einführungsstunde: Ungerades"
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-06-09
-    end_date: 2026-06-09
+    start: "2026-06-09T19:30:00+02:00"
+    end: "2026-06-10T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1518,8 +1506,8 @@ events:
   - name: "Einführungsstunde: Armenische Tänze"
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-06-16
-    end_date: 2026-06-16
+    start: "2026-06-16T19:30:00+02:00"
+    end: "2026-06-17T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1530,8 +1518,8 @@ events:
   - name: Sommertanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-06-23
-    end_date: 2026-06-23
+    start: "2026-06-23T19:30:00+02:00"
+    end: "2026-06-24T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1542,8 +1530,8 @@ events:
   - name: Sommertanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-06-30
-    end_date: 2026-06-30
+    start: "2026-06-30T19:30:00+02:00"
+    end: "2026-07-01T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1554,8 +1542,8 @@ events:
   - name: Sommertanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-07-07
-    end_date: 2026-07-07
+    start: "2026-07-07T19:30:00+02:00"
+    end: "2026-07-08T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1566,8 +1554,8 @@ events:
   - name: Sommertanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-07-14
-    end_date: 2026-07-14
+    start: "2026-07-14T19:30:00+02:00"
+    end: "2026-07-15T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1578,8 +1566,8 @@ events:
   - name: Sommertanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-07-21
-    end_date: 2026-07-21
+    start: "2026-07-21T19:30:00+02:00"
+    end: "2026-07-22T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1590,8 +1578,8 @@ events:
   - name: Sommertanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-07-28
-    end_date: 2026-07-28
+    start: "2026-07-28T19:30:00+02:00"
+    end: "2026-07-29T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1602,8 +1590,8 @@ events:
   - name: Sommertanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-08-04
-    end_date: 2026-08-04
+    start: "2026-08-04T19:30:00+02:00"
+    end: "2026-08-05T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1614,8 +1602,8 @@ events:
   - name: Sommertanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-08-11
-    end_date: 2026-08-11
+    start: "2026-08-11T19:30:00+02:00"
+    end: "2026-08-12T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1626,8 +1614,8 @@ events:
   - name: Sommertanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-08-18
-    end_date: 2026-08-18
+    start: "2026-08-18T19:30:00+02:00"
+    end: "2026-08-19T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1638,8 +1626,8 @@ events:
   - name: Sommertanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-08-25
-    end_date: 2026-08-25
+    start: "2026-08-25T19:30:00+02:00"
+    end: "2026-08-26T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
