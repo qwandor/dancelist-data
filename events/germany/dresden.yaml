@@ -1379,8 +1379,8 @@ events:
   - name: "Einführungsstunde: Frühlings- und Lieblingstänze"
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-04-07
-    end_date: 2026-04-07
+    start: "2026-04-07T19:30:00+02:00"
+    end: "2026-04-08T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1453,16 +1453,16 @@ events:
     bands:
       - Zéphyr Combo
     organisation: Folktanz Dresden e.V.
-  - name: Bal folk mit Filippo Gambetta
+  - name: Bal folk
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-05-12
-    end_date: 2026-05-12
+    start: "2026-05-12T19:30:00+02:00"
+    end: "2026-05-13T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
     bands:
       - Filippo Gambetta
