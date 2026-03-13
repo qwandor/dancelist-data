@@ -25240,20 +25240,6 @@ events:
     social: false
     price: €20-€55
     organisation: Frisse Folk Vzw/asbl
-  - name: Intensive Dance Workshop
-    details: Course
-    links:
-      - "https://eledanse.be/event/stage-pre-bbf2026/"
-    start: "2026-08-15T17:00:00+02:00"
-    end: "2026-08-19T14:00:00+02:00"
-    country: Belgium
-    city: Genval
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: €250-€330
-    organisation: EléDanse ASBL
   - name: Folk On Stage
     details: Ball
     links:
@@ -25847,7 +25833,7 @@ events:
     workshop: false
     social: true
     organisation: Boombal
-  - name: "Pelikaanbal: Djîga & The Nordic Connection"
+  - name: Pelikaanbal
     details: Ball
     links:
       - "https://folkbalbende.be/event/4377"
@@ -25868,7 +25854,7 @@ events:
   - name: Practica
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Practica met initiatie & gastmuzikanten Hombeek/1423/"
+      - "https://frissefolk.be/en/event-en/practica-with-initiation-&-guest-musicians-hombeek/1423/"
       - "https://folkbalbende.be/event/4378"
     start: "2026-10-16T19:30:00+02:00"
     end: "2026-10-16T23:30:00+02:00"
@@ -25878,11 +25864,12 @@ events:
       - balfolk
     workshop: true
     social: true
+    price: donation
     organisation: Frisse Folk Vzw/asbl
   - name: Practica
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/Practica met initiatie & gastmuzikanten Hombeek/1424/"
+      - "https://frissefolk.be/en/event-en/practica-with-initiation-&-guest-musicians-hombeek/1424/"
       - "https://folkbalbende.be/event/4379"
     start: "2026-12-11T19:30:00+01:00"
     end: "2026-12-11T23:30:00+01:00"
@@ -25892,8 +25879,9 @@ events:
       - balfolk
     workshop: true
     social: true
+    price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: Interactieve Folkdans Workshop
+  - name: Interactive Folkdance Workshop
     details: Course
     links:
       - "https://stanistil.be/event/64"
@@ -25907,7 +25895,7 @@ events:
       - balfolk
     workshop: true
     social: false
-    price: donation
+    price: €5-€10
     organisation: Stanistil
   - name: Intensive Folk Dance Workshop With Elena
     details: Course
@@ -25915,88 +25903,23 @@ events:
       - "https://eledanse.be/event/stage-pre-bbf2026/"
       - "https://folkbalbende.be/event/4381"
       - "https://www.facebook.com/events/2089639945155331/"
-    start: "2026-08-15T19:00:00+02:00"
-    end: "2026-08-15T20:00:00+02:00"
+    start: "2026-08-15T17:00:00+02:00"
+    end: "2026-08-19T14:00:00+02:00"
     country: Belgium
     city: Genval
     styles:
       - balfolk
     workshop: true
-    social: false
-    price: €20-€300
-    organisation: EléDanse ASBL
-  - name: Intensive Folk Dance Workshop With Elena
-    details: Course
-    links:
-      - "https://eledanse.be/event/stage-pre-bbf2026/"
-      - "https://folkbalbende.be/event/4381"
-      - "https://www.facebook.com/events/2089639945155331/"
-    start: "2026-08-16T19:00:00+02:00"
-    end: "2026-08-16T20:00:00+02:00"
-    country: Belgium
-    city: Genval
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: €20-€300
-    organisation: EléDanse ASBL
-  - name: Intensive Folk Dance Workshop With Elena
-    details: Course
-    links:
-      - "https://eledanse.be/event/stage-pre-bbf2026/"
-      - "https://folkbalbende.be/event/4381"
-      - "https://www.facebook.com/events/2089639945155331/"
-    start: "2026-08-17T19:00:00+02:00"
-    end: "2026-08-17T20:00:00+02:00"
-    country: Belgium
-    city: Genval
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: €20-€300
-    organisation: EléDanse ASBL
-  - name: Intensive Folk Dance Workshop With Elena
-    details: Course
-    links:
-      - "https://eledanse.be/event/stage-pre-bbf2026/"
-      - "https://folkbalbende.be/event/4381"
-      - "https://www.facebook.com/events/2089639945155331/"
-    start: "2026-08-18T19:00:00+02:00"
-    end: "2026-08-18T20:00:00+02:00"
-    country: Belgium
-    city: Genval
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: €20-€300
-    organisation: EléDanse ASBL
-  - name: Intensive Folk Dance Workshop With Elena
-    details: Course
-    links:
-      - "https://eledanse.be/event/stage-pre-bbf2026/"
-      - "https://folkbalbende.be/event/4381"
-      - "https://www.facebook.com/events/2089639945155331/"
-    start: "2026-08-19T19:00:00+02:00"
-    end: "2026-08-19T20:00:00+02:00"
-    country: Belgium
-    city: Genval
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: €20-€300
+    social: true
+    price: €250-€330
     organisation: EléDanse ASBL
   - name: Bal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.culturecollines.com/event/journees-decouvertes-atelier-danse-folk-bal/"
       - "https://folkbalbende.be/event/4385"
-    start_date: 2026-04-12
-    end_date: 2026-04-12
+    start: "2026-04-12T18:00:00+02:00"
+    end: "2026-04-12T20:00:00+02:00"
     country: Belgium
     city: Ellezelles
     styles:
@@ -26005,8 +25928,9 @@ events:
     social: true
     bands:
       - Airbac
-    organisation: ~
-  - name: Les Rencontres
+    price: €5
+    organisation: Des Pestelleux
+  - name: Les Rencontres d'Accordéonistes
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -26019,8 +25943,4 @@ events:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - "D'AccordéOnistes"
-      - Possibilité De
-      - Danser
     organisation: ~
