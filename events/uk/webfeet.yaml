@@ -1,21 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "Threepenny Bit in Chandler's Ford"
-    links:
-      - "http://www.shocc.co.uk/"
-    start_date: 2025-12-20
-    end_date: 2025-12-20
-    country: UK
-    city: "Chandler's Ford"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Threepenny Bit
-    callers:
-      - Mary Panton
-    organisation: Webfeet
   - name: The Linda Game Band in Englefield Green
     links:
       - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
@@ -807,6 +791,21 @@ events:
     bands:
       - Confluence
       - Confluence Duo
+    organisation: Webfeet
+  - name: 4 Feet First in Tavistock
+    links:
+      - "http://devonfolk.org/events-diary/"
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2026-03-28
+    end_date: 2026-03-28
+    country: UK
+    city: Tavistock
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - 4 Feet First
     organisation: Webfeet
   - name: live music in Bath
     links:
@@ -1694,6 +1693,20 @@ events:
     end_date: 2026-06-27
     country: UK
     city: Exeter
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Amber Fire
+    organisation: Webfeet
+  - name: Amber Fire in Kennford
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2026-06-27
+    end_date: 2026-06-27
+    country: UK
+    city: Kennford
     styles:
       - e-ceilidh
     workshop: false
