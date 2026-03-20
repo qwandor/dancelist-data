@@ -4171,7 +4171,7 @@ events:
     organisation: Colorado Friends of Old Time Music and Dance
     cancelled: true
   - name: Scandinavian Spring Weekend
-    details: "Annual event with special guests from Scandinavia.  This year, we will welcome dancers Stig and Helen Eriksson and fiddlers Christer and Kristina Samuelsson."
+    details: "Annual event with special guests from Scandinavia.  This year, we were hoping to welcome dancers Stig and Helen Eriksson and fiddlers Christer and Kristina Samuelsson, but they did not get their visas in time.  Dances will be taught by Judy Patterson and Jerry Walsh from Seattle, with Andrea Hoag playing fiddle for the teaching and evening dances. Sadly, there will not be any fiddle classes."
     links:
       - "https://boulderdance.org/event/scandinavian-spring-weekend-2/2026-03-27/"
       - "https://boulderdance.org/event/scandinavian-spring-weekend-2/2026-03-28/"
@@ -4186,6 +4186,8 @@ events:
       - scandi
     workshop: true
     social: true
+    bands:
+      - Andrea Hoag
     price: $170
     organisation: Boulder Scandinavian Dancers
   - name: Scottish Country Dance
@@ -4240,9 +4242,9 @@ events:
   - name: CFOOTMAD Family Contra Dance
     details: A contra dance for children of all ages.  All dances will be taught and will have simple choreography suitable for young children and first-time dancers.  Sliding scale admission of $5 to $15; max of $25 per family. Stay for refreshments after the dance.
     links:
-      - "https://boulderdance.org/event/cfootmad-family-contra-dance-5-2026-02-27/2026-04-11/"
+      - "https://boulderdance.org/event/cfootmad-family-contra-dance-5/"
     start: "2026-04-11T17:00:00-06:00"
-    end: "2026-05-24T18:30:00-06:00"
+    end: "2026-04-11T18:30:00-06:00"
     country: USA
     state: CO
     city: Boulder
@@ -4252,6 +4254,35 @@ events:
     social: true
     price: $5-$15
     organisation: Colorado Friends of Old Time Music and Dance
+  - name: CFOOTMAD Zesty Contra Dance
+    details: "Colorado Friends of Old Time Music and Dance (CFOOTMAD) present a Zesty Contra dance the\n2nd Saturday of each month. 7:00 p.m.- 10:00p.m. $15 for non-members; $12 for members; always live music.  The Zesty contra dance series is for dancers with some experience with contra dance.  There is no lesson before the dance, and walk-throughs may be abbreviated, or for simpler dances, eliminated entirely."
+    links:
+      - "https://boulderdance.org/event/cfootmad-zesty-contra-dance/2026-04-11/"
+    start: "2026-04-11T19:00:00-06:00"
+    end: "2026-04-11T22:00:00-06:00"
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $12-$15
+    organisation: Colorado Friends of Old Time Music and Dance
+  - name: 2nd Saturday Scandinavian Dance
+    details: Swedish and Norwegian dances with live music!
+    links:
+      - "https://boulderdance.org/event/2nd-saturday-scandinavian-dance/2026-04-11/"
+    start: "2026-04-11T20:00:00-06:00"
+    end: "2026-04-11T22:00:00-06:00"
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - scandi
+    workshop: false
+    social: true
+    organisation: Boulder Dance Coalition
   - name: English Country Dance
     details: "English Country Dance is a fun, friendly, community form of dance that originated in England during the Renaissance (if not even earlier!). All dances will be taught and will be suitable for first-time dancers.  Sliding scale admission of $5 to $15. We’ll offer a few refreshments at 7:30, before the dance start."
     links:
