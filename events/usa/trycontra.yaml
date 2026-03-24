@@ -3263,6 +3263,7 @@ events:
     callers:
       - Mary Wesley
       - Will Mentor
+    price: $135-$155
     organisation: Ottawa Contra Dance
   - name: Rose City Dance-a-Rama
     links:
@@ -4752,12 +4753,13 @@ events:
       - Lisa Greenleaf
       - Alex Deis-Lauby
     organisation: TryContra
-  - name: Hey Fever Dance Weekend
+  - name: Hey Fever
     links:
       - "http://www.ottawacontra.ca/heyFever/"
-    start_date: 2026-10-31
-    end_date: 2026-11-02
-    country: "ON"
+    start: "2026-10-30T19:00:00-04:00"
+    end: "2026-11-01T15:00:00-04:00"
+    country: Canada
+    state: Ontario
     city: Ottawa
     styles:
       - contra
@@ -4769,7 +4771,8 @@ events:
     callers:
       - Liz Nelson
       - Adina Gordon
-    organisation: TryContra
+    price: $135-$155
+    organisation: Ottawa Contra Dance
   - name: Dance in the Desert
     links:
       - "https://tucsoncontradancers.org/tucson-contra-dancers/dance-in-the-desert-2025/"
