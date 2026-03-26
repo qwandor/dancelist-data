@@ -1857,6 +1857,27 @@ events:
     social: true
     price: 150 CZK
     organisation: Balfolk.cz
+  - name: Prague Balfolk Weekend
+    links:
+      - "https://prague-balfolk-weekend.cz/en/"
+      - "https://www.facebook.com/events/1235669361448752/"
+    start: "2026-01-30T16:00:00+01:00"
+    end: "2026-02-01T16:00:00+01:00"
+    country: Czechia
+    city: Prague
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Ciac Boum
+      - Bargainatt
+      - Oraj
+      - ba.fnu
+      - Accords Perdus
+      - Aurélien Claranbaux
+      - Yanyk
+    organisation: Balfolk.cz
   - name: Balfolk na Andělu
     links:
       - "https://www.facebook.com/events/1081541620466291/1081541717132948/"
@@ -2026,24 +2047,17 @@ events:
     social: true
     price: 150 CZK
     organisation: Balfolk.cz
-  - name: Prague Balfolk Weekend
+  - name: Balfolk
     links:
-      - "https://prague-balfolk-weekend.cz/en/"
-      - "https://www.facebook.com/events/1235669361448752/"
-    start: "2026-01-30T16:00:00+01:00"
-    end: "2026-02-01T16:00:00+01:00"
+      - "https://featherandfox.com/agenda.html"
+    start_date: 2026-05-13
+    end_date: 2026-05-13
     country: Czechia
     city: Prague
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
     bands:
-      - Ciac Boum
-      - Bargainatt
-      - Oraj
-      - ba.fnu
-      - Accords Perdus
-      - Aurélien Claranbaux
-      - Yanyk
-    organisation: Balfolk.cz
+      - Feather and Fox
+    organisation: ~
