@@ -16242,6 +16242,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $7-$35
     organisation: Toronto Contra Dance
   - name: CDK Contra & Square Dance
     details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \nSuggested donation $5-$20"
@@ -16289,6 +16290,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - The Cat Wranglers
+    callers:
+      - Joy Greenwolfe
     price: $5-$10
     organisation: CDSS
   - name: Williamstown Contra Dance
@@ -16296,14 +16301,14 @@ events:
     links:
       - "https://northberkshiredance.org/"
       - "https://cdss.org/event/williamstown-ma-contra-dance/2026-04-11/"
-    start: "2026-04-11T19:30:00-04:00"
+    start: "2026-04-11T19:15:00-04:00"
     end: "2026-04-11T22:30:00-04:00"
     country: USA
     state: MA
     city: Williamstown
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     price: $12-$20
     organisation: North Berkshire Community Dance
@@ -16321,10 +16326,12 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $15
     organisation: CDSS
-  - name: Big Scioty - Full Moon Country Dance Orchestra with caller Kim Thompson
+  - name: Big Scioty
     details: "Be sure to come for the beginner’s lesson from 7:30–8:00, followed by dancing 8:00–10:30. All dances are taught; we will help you learn! Beginners always welcome, no need to bring a partner. \nCost is $10.00 adults, $5.00 ages 12-26. Under 12 free. Free parking in church lot. \nPlease bring your own refillable water bottle."
     links:
+      - "https://bigscioty.com/"
       - "https://cdss.org/event/big-scioty-full-moon-country-dance-orchestra-with-caller-kim-thompson/"
     start: "2026-04-11T19:30:00-04:00"
     end: "2026-04-11T22:30:00-04:00"
@@ -16335,6 +16342,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Full Moon Country Dance Orchestra
+    callers:
+      - Kim Thompson
     price: $5-$10
     organisation: Big Scioty Contra Dance
   - name: Scissortail Contra Dance
@@ -16367,6 +16378,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: North Texas Traditional Dance Society (NTTDS)
   - name: Contra Dance
     details: "HATDS hosts contra dances on the 2nd and 4th Saturdays of most months. We dance to live music. All skill levels are welcome and all dances are called. Bring clean shoes! \nThe admission price for contra dances is $10 for members, $15 for non-members. Cash, checks, credit cards, and digital wallets are currently accepted at the door. If paying cash, please bring correct change. No large bills accepted."
@@ -16384,24 +16396,6 @@ events:
     social: true
     price: $10-$15
     organisation: Houston Area Traditional Dance Society
-  - name: Contra Dance at Tapestry Folkdance Center
-    details: "Every Saturday\nLARGE STUDIO\n\n\n\n\n\n\n\n\n7:30 – 8:00 pm  Lesson\n8:00 – 11:00 pm  Dance\n \nCost:\nLive Music: $15 General Admission | $12 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free \n“Pay What You Choose” first seven days of every month (1st through the 7th)\nRecorded Music:  $12 General | $10 Members | $7 Young Adult & Youth (Ages 10 -21) \nWhat is Contra Dance?\nIn a Contra dance, a leader, known as a caller, teaches basic dance steps during an introductory “walk-through” of the dance. Dancers learn by walking through the steps and formations, following the caller’s instructions. The dance figures are similar to those of old-time square dancing except the figures are usually danced in a line, with leaders and followers facing each other. \n​These dances are lively, social, easy to learn, and aerobic. Although you will dance with a partner, it isn’t necessary to come with one. All dances are taught and are usually done in “long-ways sets” (partners facing in long lines down the hall).  Many of the regular Tapestry Folkdance Center Contra bands play old-time music (similar to bluegrass), but the music at any given Saturday night Contra may reflect a range of music traditions, such as New England, French Canadian, Irish, Scottish, Cape Breton and modern compositions. \nHow does Contra Dance Work?\n“A contra dance can be thought of as a triangle of energy with the three vertices being the musicians, the dancers and the caller. Magical evenings occur when all three come together, feeding off of each others’ energy to raise and sustain an atmosphere of fun and joy. The caller’s role in this is paramount. Good music and dancers without a good caller may not be magical. Poor teaching, lack of rapport or inappropriately selected dances can lead to frustration. But a good caller can make even new dancers feel like they are good, and by working with the musicians to match music to dances, set the right tempo, and feed off the energy of everyone in the hall, the caller can help make magic.”\nby Beau Farmer, Tapestry Folkdance Center Contra Caller"
-    links:
-      - "https://www.tapestryfolkdance.org/contra"
-      - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2026-04-11/"
-    start: "2026-04-11T20:00:00-05:00"
-    end: "2026-04-11T23:00:00-05:00"
-    country: USA
-    state: MN
-    city: Minneapolis
-    styles:
-      - contra
-    workshop: true
-    social: true
-    callers:
-      - Beau Farmer
-    price: $4-$15
-    organisation: Tapestry Folkdance Center
   - name: Second Saturday Contra
     details: "Join us for our Second Saturday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check our website for changes in dance schedule or location.  \nPay what you can afford: $10 to $25 per person."
     links:
@@ -16450,6 +16444,7 @@ events:
     social: true
     callers:
       - David Millstone
+    price: $15-$20
     organisation: David Millstone
   - name: English Country Dance
     details: "Twice-monthly English Country Dance session in Colorado Springs, CO. Each dance will be taught and then practiced. Great social atmosphere and fun!"
@@ -16864,17 +16859,26 @@ events:
   - name: River Rendezvous
     details: A weekend of Contra dance at Coshocton’s beautiful Lake Park dance hall in central/east Ohio. Dance in air-conditioned comfort on the sprung wooden dance floor.
     links:
+      - "https://riverrendezvousoh.squarespace.com/"
       - "https://cdss.org/event/river-rendezvous/"
-    start_date: 2026-07-17
-    end_date: 2026-07-19
+    start: "2026-07-17T16:00:00-04:00"
+    end: "2026-07-19T15:00:00-04:00"
     country: USA
     state: OH
     city: Coshocton
     styles:
       - contra
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Toss the Possum
+      - Hot Coffee Breakdown
+    callers:
+      - Seth Tepfer
+      - Devin Pohly
+      - Carol Kopp
+    price: $125-$187
     organisation: Crooked River Contradancers
   - name: Northwest Passage
     details: "Come join us for a wonderful extended weekend of dancing, singing, music making, friendship, frolic, and fun in the woods at the beautiful Mt Hood Kiwanis Camp, about an hour east of Portland, near Rhododendron, Oregon. The weather is usually perfect this time of year, with hiking trails, waterfalls, as well as great dancing, tasty food, and good company!  Learn new skills, enjoy new friends, and make wonderful new memories. \n\nEnglish Country Dance for experienced dancers\nTwo fabulous bands\n\nSnapdragon (Carrie Rose, Dave, Wiesler, Miranda Feinberg)\nAlex & Audrey (Alex Cumming, Audrey Jaber)\n\n\nTwo fabulous callers Gaye Fifer and Joanna Reiner Wilkinson\nGreat workshop leaders, camper-led activities, and more!!!\n\nEveryone is welcome to attend Northwest Passage; however, you will be most successful if you are very familiar with English Country Dance figures and terminology. No beginner ECD sessions are offered. \n$470 ($440 for offsite, tent, or car camping)—discounts available"
