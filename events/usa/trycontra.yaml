@@ -1416,7 +1416,7 @@ events:
       - Eloise & Co.
     callers:
       - Susan Petrick
-    organisation: TryContra
+    organisation: Contra Borealis Dancers
   - name: Feet Retreat
     links:
       - "https://www.feetretreat.com/feet-retreat-2024/"
@@ -2877,13 +2877,14 @@ events:
     organisation: TryContra
   - name: Youth Dance Weekend
     links:
-      - "http://youthdanceweekend.org/"
+      - "https://youthdanceweekend.org/"
     start_date: 2025-09-26
     end_date: 2025-09-28
     country: USA
     state: VT
     city: Weston
     styles:
+      - balfolk
       - contra
       - ecd
     workshop: true
@@ -4132,7 +4133,7 @@ events:
     organisation: Dancing Fish
   - name: Gender-Free Dance Camp
     links:
-      - "https://www.lcfd.org/lcfd-camps.html"
+      - "https://www.lcfd.org/spring-camp.html"
     start_date: 2026-06-12
     end_date: 2026-06-14
     country: USA
@@ -4140,8 +4141,16 @@ events:
     city: Plymouth
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
+    bands:
+      - Azalea
+      - Nobody's Business
+    callers:
+      - Annie Kidwell
+      - Lindsey Dono
+    price: $155-$405
     organisation: TryContra
   - name: Swing into Summer
     links:
@@ -4467,9 +4476,9 @@ events:
     organisation: TryContra
   - name: Dancing Fish
     links:
-      - "https://dancingfish.dance/"
-    start_date: 2026-09-04
-    end_date: 2026-09-06
+      - "https://dancingfish.dance/event/labor-day-weekend-blast-at-the-dancing-fish/"
+    start: "2026-09-04T18:00:00-04:00"
+    end: "2026-09-06T15:00:00-04:00"
     country: USA
     state: FL
     city: Melrose
@@ -4477,6 +4486,13 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - ContraGrass
+      - Potent Brew
+    callers:
+      - Jeremy Peterson
+      - Kenny Greer
+    price: $15-$60
     organisation: Dancing Fish
   - name: Rocky Mountain Rendezvous
     links:
@@ -4500,8 +4516,8 @@ events:
   - name: Dance Camp North
     links:
       - "https://contraborealis.org/dance-camp-north/"
-    start_date: 2026-09-05
-    end_date: 2026-09-07
+    start: "2026-09-04T19:00:00-08:00"
+    end: "2026-09-07T15:30:00-08:00"
     country: USA
     state: AK
     city: Fairbanks
@@ -4509,7 +4525,12 @@ events:
       - contra
     workshop: true
     social: true
-    organisation: TryContra
+    bands:
+      - Stomp Rocket
+    callers:
+      - Jacqui Grennan
+    price: $80-$275
+    organisation: Contra Borealis Dancers
   - name: Feet Retreat
     links:
       - "https://www.feetretreat.com/2026-2/"
@@ -4581,14 +4602,16 @@ events:
     organisation: TryContra
   - name: Youth Dance Weekend
     links:
-      - "http://youthdanceweekend.org/"
-    start_date: 2026-10-02
-    end_date: 2026-10-04
+      - "https://youthdanceweekend.org/"
+    start: "2026-10-02T16:00:00-04:00"
+    end: "2026-10-04T16:00:00-04:00"
     country: USA
     state: VT
     city: Weston
     styles:
+      - balfolk
       - contra
+      - ecd
     workshop: true
     social: true
     organisation: TryContra
@@ -4725,16 +4748,21 @@ events:
     start_date: 2026-10-16
     end_date: 2026-10-18
     country: USA
-    state: NY
-    city: Olivebridge
+    state: CT
+    city: Woodstock
     styles:
       - contra
     workshop: true
     social: true
+    bands:
+      - Raven & Goose
+      - River Road
+    callers:
+      - Adina Gordon
     organisation: TryContra
   - name: Five Borough Fling
     links:
-      - "https://www.contradance.nyc/"
+      - "https://thefling.org/"
     start_date: 2026-11-06
     end_date: 2026-11-08
     country: USA
@@ -4750,10 +4778,10 @@ events:
     callers:
       - Will Mentor
       - Frannie Marr
-    organisation: TryContra
+    organisation: Brooklyn Contra
   - name: John C Campbell Fall Dance Weekend
     links:
-      - "https://folkschool.configio.com/pd/3332/fall-dance-weekend-long-weekend"
+      - "https://folkschool.configio.com/pd/4135/fall-dance-weekend-long-weekend"
     start_date: 2026-10-08
     end_date: 2026-10-11
     country: USA
@@ -4763,6 +4791,13 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Stringrays
+      - The Faux Paws
+    callers:
+      - Lisa Greenleaf
+      - Susan Michaels
+    price: $235
     organisation: TryContra
   - name: Foggy Moon Dance Weekend
     links:
@@ -4833,30 +4868,26 @@ events:
       - contra
     workshop: true
     social: true
-    organisation: TryContra
-  - name: Head for the Hills Dance Weekend
-    links:
-      - "http://www.princetoncountrydancers.org/about-hfth"
-    start_date: 2026-11-13
-    end_date: 2026-11-15
-    country: USA
-    state: PA
-    city: Kresgeville
-    styles:
-      - contra
-    workshop: true
-    social: true
+    bands:
+      - Hot Coffee Breakdown
+      - Turnip the Beet
+    callers:
+      - Gaye Fifer
+      - Seth Tepfer
+    price: $75-$140
     organisation: TryContra
   - name: Rochester Thanksgiving Dance Weekend
     links:
       - "https://cdrochester.org/events/thanksgiving-2026"
     start_date: 2026-11-27
-    end_date: 2026-11-28
+    end_date: 2026-11-29
     country: USA
     state: NY
     city: Rochester
     styles:
+      - balfolk
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
@@ -4866,12 +4897,14 @@ events:
       - Alex Deis-Lauby
       - Luke Donforth
       - Annie Kidwell
+      - Joanna Reiner Wilkinson
+    price: $100
     organisation: TryContra
   - name: Rose City Dance-a-Rama
     links:
       - "https://www.dancearama.org/"
-    start_date: 2026-11-20
-    end_date: 2026-11-22
+    start: "2026-11-20T20:00:00-08:00"
+    end: "2026-11-22T22:00:00-08:00"
     country: USA
     state: OR
     city: Portland
@@ -4879,13 +4912,21 @@ events:
       - contra
     workshop: true
     social: true
-    organisation: TryContra
+    bands:
+      - Wild Asparagus
+      - Joyride
+    callers:
+      - George Marshall
+      - Adina Gordon
+    price: $125-$195
+    organisation: Dance-A-Rama
   - name: Autumn Allemande
     links:
-      - "https://victoriacontradance.com/"
-    start_date: 2026-11-20
-    end_date: 2026-11-22
-    country: BC
+      - "https://victoriacontradance.com/event/autumn-allemande-2026/"
+    start: "2026-11-20T19:00:00-08:00"
+    end: "2026-11-22T15:00:00-08:00"
+    country: Canada
+    state: BC
     city: Victoria
     styles:
       - contra
@@ -4893,10 +4934,12 @@ events:
     social: true
     bands:
       - Natterjack
+      - Cecilia
     callers:
-      - Koren Wake
       - Katie Pinter
-    organisation: TryContra
+      - Koren Wake
+    price: $90
+    organisation: Victoria Contra Dance
   - name: Atlanta Dance Weekend
     links:
       - "https://www.contradance.org/atlanta-dance-weekend/"
@@ -4951,8 +4994,8 @@ events:
   - name: Breaking Up Thanksgiving
     links:
       - "https://www.breakingupthanksgiving.com/"
-    start_date: 2026-11-27
-    end_date: 2026-11-29
+    start: "2026-11-27T18:00:00-06:00"
+    end: "2026-11-29T12:00:00-06:00"
     country: USA
     state: IL
     city: Evanston
@@ -4981,7 +5024,7 @@ events:
     end_date: 2027-01-01
     country: USA
     state: WV
-    city: "Morgantown,"
+    city: Morgantown
     styles:
       - contra
     workshop: true
@@ -4997,6 +5040,8 @@ events:
     city: Berea
     styles:
       - contra
+      - ecd
+      - irish-set
     workshop: true
     social: true
     organisation: TryContra
@@ -5015,7 +5060,7 @@ events:
     organisation: TryContra
   - name: Florida Snow Ball
     links:
-      - "http://floridasnowball.tampabaycontra.com/"
+      - "https://floridasnowball.com/"
     start_date: 2027-01-22
     end_date: 2027-01-24
     country: USA
@@ -5025,19 +5070,25 @@ events:
       - contra
     workshop: true
     social: true
-    organisation: TryContra
+    organisation: Tampa Friends of Old Time Dance
   - name: Chattaboogie
     links:
-      - "https://contranooga.dance"
+      - "https://www.contranooga.dance/chattaboogie"
     start_date: 2027-01-08
     end_date: 2027-01-10
     country: USA
-    state: TN
-    city: Chattanooga
+    state: GA
+    city: Rossville
     styles:
       - contra
     workshop: true
     social: true
+    bands:
+      - Notorious
+      - Playing with Fyre
+    callers:
+      - Cathy Hollister
+      - Will Mentor
     organisation: TryContra
   - name: Epicenter
     links:
