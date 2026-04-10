@@ -17958,6 +17958,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: Knoxville Contra Dance
   - name: Nashville Monday Night English Country Dance Class
     details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
@@ -17980,7 +17981,7 @@ events:
     links:
       - "https://www.cincinnaticontradance.org/dance-schedule"
       - "https://cdss.org/event/monday-cincinnati-contra-dance/2026-04-20/"
-    start: "2026-04-20T19:30:00-04:00"
+    start: "2026-04-20T19:00:00-04:00"
     end: "2026-04-20T21:30:00-04:00"
     country: USA
     state: OH
@@ -17996,7 +17997,7 @@ events:
     links:
       - "https://www.chicagobarndance.org/calendar/"
       - "https://cdss.org/event/chicago-contra-dance/2026-04-20/"
-    start: "2026-04-20T19:00:00-05:00"
+    start: "2026-04-20T18:30:00-05:00"
     end: "2026-04-20T21:40:00-05:00"
     country: USA
     state: IL
@@ -18540,27 +18541,13 @@ events:
       - Terry Doyle
     price: $550-$560
     organisation: M-4 Music Movement Mountains Magic
-  - name: Campers’ Week at Pinewoods
+  - name: Campers' Week at Pinewoods
     details: "It’s right there in the name! Campers’ Week is a week like no other—not just for campers, but by campers, who join a small-but-mighty staff in offering classes, leading dances, playing in the band, performing at gatherings, teaching crafts, decorating for the ball, hosting parties, and sharing whatever talent they’d like. \nIf you love helping to make the magic happen, and you’re between the ages of 0 and 187, this is the session for you! Bring your parents, your best friend, your neighbor, your siblings, your kids, your cousins, your spouse, your fiancé, your grandkids, or just yourself (if you’re over 18) for a week of multi-generational, camper-enhanced family fun."
     links:
+      - "https://camp.cdss.org/camp-weeks/campers-week-at-pinewoods/"
       - "https://cdss.org/event/campers-week-at-pinewoods/"
-    start_date: 2026-08-01
-    end_date: 2026-08-08
-    country: USA
-    state: MA
-    city: Plymouth
-    styles:
-      - contra
-      - ecd
-    workshop: false
-    social: true
-    organisation: Country Dance & Song Society
-  - name: Harmony of Song & Dance at Pinewoods
-    details: "Do you love to sing, dance, jam, or do all of those at the same time? If so, then this session is for you! \nEvery morning, we have dance classes where both newcomers and experienced dancers will find a lesson for their skill level, followed by an all-camp singing session. After a break for swimming and a delicious lunch, we have an afternoon full of workshops on a wide variety of song repertoire, singing styles, instrumental repertoire, instrument technique, partnered dancing, ritual dance, calling, music history, and more. There is also an hour before dinner where we’ll have a few staff-led jams, but campers are also very welcome to host jams, conversations, and parties too! \nAfter dinner we will enjoy mini-concerts by our brilliant staff followed by a dance featuring contra and English country dancing, plus late-night pub singing, ceilidh dancing, and more. Within each jam-packed day, there is also time built into the schedule for jamming, snoozing, swimming, chatting, or taking some solo time if you need it. Pinewoods offers a beautiful venue for a glorious week of song, dance, learning, connection, revelry, and rejuvenation. I look forward to singing and dancing with you there!"
-    links:
-      - "https://cdss.org/event/harmony-of-song-dance-at-pinewoods/"
-    start_date: 2026-08-08
-    end_date: 2026-08-13
+    start: "2026-08-01T15:00:00-04:00"
+    end: "2026-08-08T10:00:00-04:00"
     country: USA
     state: MA
     city: Plymouth
@@ -18569,86 +18556,124 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $750-$1400
+    organisation: Country Dance & Song Society
+  - name: Harmony of Song & Dance at Pinewoods
+    details: "Do you love to sing, dance, jam, or do all of those at the same time? If so, then this session is for you! \nEvery morning, we have dance classes where both newcomers and experienced dancers will find a lesson for their skill level, followed by an all-camp singing session. After a break for swimming and a delicious lunch, we have an afternoon full of workshops on a wide variety of song repertoire, singing styles, instrumental repertoire, instrument technique, partnered dancing, ritual dance, calling, music history, and more. There is also an hour before dinner where we’ll have a few staff-led jams, but campers are also very welcome to host jams, conversations, and parties too! \nAfter dinner we will enjoy mini-concerts by our brilliant staff followed by a dance featuring contra and English country dancing, plus late-night pub singing, ceilidh dancing, and more. Within each jam-packed day, there is also time built into the schedule for jamming, snoozing, swimming, chatting, or taking some solo time if you need it. Pinewoods offers a beautiful venue for a glorious week of song, dance, learning, connection, revelry, and rejuvenation. I look forward to singing and dancing with you there!"
+    links:
+      - "https://camp.cdss.org/camp-weeks/harmony-of-song-dance-at-pinewoods/"
+      - "https://cdss.org/event/harmony-of-song-dance-at-pinewoods/"
+    start: "2026-08-08T15:00:00-04:00"
+    end: "2026-08-13T10:00:00-04:00"
+    country: USA
+    state: MA
+    city: Plymouth
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    price: $850-$1500
     organisation: Country Dance & Song Society
   - name: Family Week at Agassiz Village
     details: "Family Week at Agassiz Village brings to mind the aphorism It ain’t good because it’s old, it’s old because it’s good. It’s an embodiment of an intergenerational living tradition. Whether you’re one of the families with three generations coming to camp or a first-timer exploring and creating your own family traditions, we want you to be a part of this magical experience of dancing, singing, and playing in the woods of Maine. \nKids and adults take separate classes in the morning, focusing on age-appropriate skill development and bonding with peers. Afternoons are all-comers sessions, where we build community and intergenerational connection. And all-camp gatherings are a chance for campers and staff to perform music, tell jokes and stories, and highlight what they’ve learned and built during camp."
     links:
+      - "https://camp.cdss.org/camp-weeks/family-week-at-agassiz-village/"
       - "https://cdss.org/event/family-week-at-agassiz-village/"
-    start_date: 2026-08-08
-    end_date: 2026-08-14
+    start: "2026-08-08T15:00:00-04:00"
+    end: "2026-08-14T10:00:00-04:00"
     country: USA
     state: ME
     city: Poland
     styles:
+      - balfolk
       - contra
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    callers:
+      - Alex Deis-Lauby
+      - Gaye Fifer
+    price: $850-$1500
     organisation: Country Dance & Song Society
   - name: SEA Session at Pinewoods
     details: "Welcome to the new SEA Session! A sampler pack of CDSS’s music, dance, and song offerings, this long weekend will include Singing, English dance, and American dance with a loose maritime theme. There will be seafaring songs, of course (think sea chanteys), and we may even get out on the water to sing in boats! There will also be plenty of land-based activities, such as dancing of various forms: contra, English, bal folk, and morris; song technique; instrument classes; and more. We’ll have workshops and jams by day, evening dances and festivities by night, and lots of magic in between. Join us for a weekend of dance, song, music, companionship, and group spirit on the shores of Long Pond!"
     links:
       - "https://cdss.org/event/sea-session-at-pinewoods/"
-    start_date: 2026-08-13
-    end_date: 2026-08-17
+    start: "2026-08-13T15:00:00-04:00"
+    end: "2026-08-17T10:00:00-04:00"
     country: USA
     state: MA
     city: Plymouth
     styles:
+      - balfolk
       - contra
       - ecd
     workshop: true
     social: true
+    price: $500-$915
     organisation: Country Dance & Song Society
   - name: American Dance & Music Week at Pinewoods
     details: "American Dance & Music Week 2026 is lined up to be the most rejuvenating, heartwarming, and soul-filling fun week of the year. We’ve got new friends, old friends, swimming, dancing, singing, parties, and an absolutely star-studded lineup of musicians and callers. Come dance to the incomparable Engine Room, Deb Shebish’s Good Time Old Time band, and the continued support of the Julie Metcalf–Max Newman duo. To get us moving in the right direction, we have calling from Janine Smith, Lisa Greenleaf, Will Mentor, and Alyssa Adkins. \nAs well as the contra and square dancing you expect, some of the other options this year include a Square Dance Callers Intensive, classes on Musicianship, Embodied Harmony, Observational Nature Drawing, and the Big Arc of chordal accompaniment."
     links:
+      - "https://camp.cdss.org/camp-weeks/american-dance-music-week-2/"
       - "https://cdss.org/event/american-dance-music-week-at-pinewoods/"
-    start_date: 2026-08-17
-    end_date: 2026-08-23
+    start: "2026-08-17T15:00:00-04:00"
+    end: "2026-08-23T10:00:00-04:00"
     country: USA
     state: MA
     city: Plymouth
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Engine Room
+      - Good Time Old Time
+      - Max Newman & Julie Metcalf
     callers:
       - Alyssa Adkins
       - Janine Smith
       - Lisa Greenleaf
       - Will Mentor
+    price: $750-$1375
     organisation: Country Dance & Song Society
   - name: Cascade of Music & Dance at Kweebec
     details: "Cascade of Music & Dance at Camp Kweebec is an exploration through a musical treasury of experiences. In it, you will find many things: the joy of dancing with your neighbors; small-group instruction insight into playing guitar, fiddle, or singing; some fabulous English music and dance calling; some fabulous contra dance music and calling; an opportunity to be coached in making an instrument, crankie, or sculpture in a shared art space; the great, nearly lost art of Stuntology and Tuneology with crack stuntologists and tunesmiths of the day; warm family gatherings and community dancing every day; a chance to jam and sing, listen to a story, and discuss the role of traditional music and dance in our respective communities, all while spending a very rich week experiencing some of the best community-building activities out there!"
     links:
+      - "https://camp.cdss.org/camp-weeks/cascade-of-music-dance-at-louise/"
       - "https://cdss.org/event/cascade-of-music-dance-at-kweebec/"
-    start_date: 2026-08-17
-    end_date: 2026-08-23
+    start: "2026-08-17T16:00:00-04:00"
+    end: "2026-08-23T10:00:00-04:00"
     country: USA
     state: PA
     city: Schwenksville
     styles:
       - contra
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Stomp Rocket
+    callers:
+      - Mary Wesley
+    price: $805-$1470
     organisation: Country Dance & Song Society
   - name: Early Music Week at Pinewoods
     details: "Are you passionate about medieval, Renaissance, and Baroque music, especially as revived and played on period instruments? Do you also love nature and being in community with others? If so, this is the week for you! \nEarly Music Week offers joyful opportunities and challenges to players, singers, dancers, and listeners at every level, from novice to highly experienced. As classes unfold through the week, we explore and discover the connections that lie behind some of the world’s most vibrant and compelling early music. We dance together every day, connecting with dancers and musicians in a unique and spontaneous way, so different from a class or a concert hall—in the pavilions under the pine trees."
     links:
+      - "https://camp.cdss.org/camp-weeks/early-music-week-at-pinewoods/"
       - "https://cdss.org/event/early-music-week-at-pinewoods/"
-    start_date: 2026-08-23
-    end_date: 2026-08-29
+    start: "2026-08-23T15:00:00-04:00"
+    end: "2026-08-29T10:00:00-04:00"
     country: USA
     state: MA
     city: Plymouth
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
+    price: $785-$1435
     organisation: Country Dance & Song Society
   - name: Northwest Passage
     details: "Come join us for a wonderful extended weekend of dancing, singing, music making, friendship, frolic, and fun in the woods at the beautiful Mt Hood Kiwanis Camp, about an hour east of Portland, near Rhododendron, Oregon. The weather is usually perfect this time of year, with hiking trails, waterfalls, as well as great dancing, tasty food, and good company!  Learn new skills, enjoy new friends, and make wonderful new memories. \n\nEnglish Country Dance for experienced dancers\nTwo fabulous bands\n\nSnapdragon (Carrie Rose, Dave, Wiesler, Miranda Feinberg)\nAlex & Audrey (Alex Cumming, Audrey Jaber)\n\n\nTwo fabulous callers Gaye Fifer and Joanna Reiner Wilkinson\nGreat workshop leaders, camper-led activities, and more!!!\n\nEveryone is welcome to attend Northwest Passage; however, you will be most successful if you are very familiar with English Country Dance figures and terminology. No beginner ECD sessions are offered. \n$470 ($440 for offsite, tent, or car camping)—discounts available"
