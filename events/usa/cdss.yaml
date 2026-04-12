@@ -16387,8 +16387,9 @@ events:
   - name: TFOOTD (Tampa) Contra Dance
     details: "Contra Dance open to the public, live band and caller"
     links:
+      - "https://tampabaycontra.com/"
       - "https://cdss.org/event/tfootd-contra-dance/2026-04-11/"
-    start: "2026-04-11T19:30:00-04:00"
+    start: "2026-04-11T19:00:00-04:00"
     end: "2026-04-11T22:30:00-04:00"
     country: USA
     state: FL
@@ -16397,6 +16398,11 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - Coral Riff
+    callers:
+      - Dwayne Johnson
+    price: $5-$10
     organisation: Tampa Friends of Old Time Dance
   - name: Williamstown Contra Dance
     details: "Community contra dance, all welcome."
@@ -18043,7 +18049,7 @@ events:
     links:
       - "https://www.louisvillecountrydancers.org/dance-with-us-1"
       - "https://cdss.org/event/louisville-contra-dance/2026-04-20/"
-    start: "2026-04-20T20:00:00-04:00"
+    start: "2026-04-20T19:30:00-04:00"
     end: "2026-04-20T22:30:00-04:00"
     country: USA
     state: KY
@@ -18054,6 +18060,7 @@ events:
     social: true
     bands:
       - Monday Night All Stars
+    price: $5-$10
     organisation: Louisville Country Dancers
   - name: Monday Evening English Country Dance
     details: "All are welcome to join us for an evening of English country dance with live music. All dances talked and walked through. Easy parking, air conditioning, and fans. Snacks are encouraged for the break! Please register online at our website."
@@ -18069,13 +18076,14 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10-$15
     organisation: CDSS
   - name: Austin English Country Dance
     details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
     links:
       - "https://taada.us/wp/events/"
       - "https://cdss.org/event/austin-english-country-dance/2026-04-20/"
-    start: "2026-04-20T19:30:00-05:00"
+    start: "2026-04-20T19:15:00-05:00"
     end: "2026-04-20T21:30:00-05:00"
     country: USA
     state: TX
@@ -18132,14 +18140,14 @@ events:
       - ecd
     workshop: false
     social: true
-    price: $15-$20
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: English Country Dance for All
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:15 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition."
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-english-country-dance-for-all/2026-04-22/"
-    start: "2026-04-22T18:30:00-04:00"
+    start: "2026-04-22T18:15:00-04:00"
     end: "2026-04-22T20:30:00-04:00"
     country: USA
     state: NC
@@ -18148,6 +18156,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: free
     organisation: CDSS
   - name: English Country Dance at Guiding Star Grange
     details: "Join us in Greenfield for an evening of English Country Dancing. Lively, elegant, and fun: English country dances from 1650 to today, with a rotating cast of stellar musicians and callers.   \nCost: $10-$20, sliding scale. \nSee venue website for this month’s details and Covid policy."
@@ -18200,8 +18209,9 @@ events:
   - name: FSGW English Country Dance
     details: "In-person dancing at Glen Echo Town Hall.  \nWith live music! \nYou may register in advance (preferred) or at the door. Attendance will be limited to 50 dancers and spectators, so if you are planning on registering at the door, please check the event page beforehand to see how many spaces are left. \nIf you have not previously attended a Wednesday night English country dance at Glen Echo, you may select “first time free” when registering. New dancers are welcome. If you have no previous English country dance experience or would like a refresher, please arrive at around 7:30 for a lesson. \nCOVID info: masks and vaccinations encouraged but not required. More info \nThe dance is held in the upstairs room of the Glen Echo Town Hall. \nIf you’d like to get weekly reminders and other email of interest to our local dancers, please send an email to ecd.registrar@fsgw.org to be added to the list. \nGeneral information on our English Country Dance web page \nMember (FSGW, BFMS, CDSS, ATDS) – $15.00 \nNon-member – $17.00 \nStudents and Limited income – $8.00"
     links:
+      - "https://fsgw.org/event-6606292"
       - "https://cdss.org/event/fsgw-english-country-dance/2026-04-22/"
-    start: "2026-04-22T20:00:00-04:00"
+    start: "2026-04-22T19:30:00-04:00"
     end: "2026-04-22T22:30:00-04:00"
     country: USA
     state: MD
@@ -18210,6 +18220,9 @@ events:
       - ecd
     workshop: true
     social: true
+    callers:
+      - Dan Gillespie
+      - Wendy Clarke
     price: $8-$17
     organisation: Folklore Society of Greater Washington
   - name: Princeton Country Dancers’ Contra Dance
@@ -18217,15 +18230,16 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2026-04-22/"
-    start: "2026-04-22T20:00:00-04:00"
+    start: "2026-04-22T19:30:00-04:00"
     end: "2026-04-22T22:30:00-04:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: Weekly Austin Contra Dance
     details: "A free weekly dance at Hancock Recreation Center, with music by the jam/pickup band, Local On-Call Orchestra (LOCO). We dance every week that Hancock Recreation Center is open. A brief beginners session is taught at 7:30, before the dance program begins. Dance ends about 9:30. Free parking lot.\n \n\nWe welcome beginners. If you can walk to a beat, you can contra dance! All dances are taught and called. No partner necessary. Dance either role – or both. Everyone is welcome. \n \nSober event. Family-friendly. LGBTQ+"
@@ -18233,7 +18247,7 @@ events:
       - "https://austinbarndancers.org/"
       - "https://taada.us/wp/events/"
       - "https://cdss.org/event/weekly-austin-contra-dance/2026-04-22/"
-    start: "2026-04-22T19:30:00-05:00"
+    start: "2026-04-22T19:15:00-05:00"
     end: "2026-04-22T21:30:00-05:00"
     country: USA
     state: TX
@@ -18262,27 +18276,30 @@ events:
     social: false
     price: $10
     organisation: Village Green English Dancers
-  - name: Berkeley Contra or English Dance
+  - name: Berkeley English Dance
     details: "BACDS presents a dance every Wednesday (contra on 1st/3rd/5th Wed 8pm-10:30pm; English on 2nd/4th Wed 7:45pm-10pm) at Christ Church East Bay, 2138 Cedar St. (near Oxford), Berkeley. Both series include an introductory lesson about 15-20 minutes before the dance start time."
     links:
+      - "https://www.bacds.org/series/english/berkeley_wed/"
       - "https://cdss.org/event/berkeley-contra-or-english-dance/2026-04-22/"
-    start: "2026-04-22T19:30:00-07:00"
-    end: "2026-04-22T22:30:00-07:00"
+    start: "2026-04-22T19:25:00-07:00"
+    end: "2026-04-22T22:00:00-07:00"
     country: USA
     state: CA
     city: Berkeley
     styles:
-      - contra
       - ecd
     workshop: true
     social: true
+    callers:
+      - Bruce Herbold
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: San Francisco Contra Dance
     details: "2nd & 4th Wednesday in San Francisco! \nRole names: The role names usually used at this series are “Larks” and “Robins.” \nBeginner lesson at 7:30, dance 8:00-10:30 \nCheck our website for details. \n$25 supporters; $20 non-members; $15 members; $6 students or low-income; or pay what you can."
     links:
       - "https://bacds.org/series/contra/san_francisco_wed/"
       - "https://cdss.org/event/san-francisco-contra-dance/2026-04-22/"
-    start: "2026-04-22T20:00:00-07:00"
+    start: "2026-04-22T19:30:00-07:00"
     end: "2026-04-22T22:30:00-07:00"
     country: USA
     state: CA
@@ -18322,7 +18339,7 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $10-$20
     organisation: Lake City Contra Dance
   - name: Trillium Twirl Sprint
     details: "A residential grand weekend of cool Contras, hot Squares, beautiful English Country Dance, plus singing, music jams, workshops, and more – featuring caller Bob Isaacs and Toss the Possum. \nFull weekend registration includes the full dance and activities schedule, lodging, all meals, daily evening snacks, Sunday farewell ice cream social. \nFull weekend registration for dancers aged 30+ is on a sliding scale starting at $225 up to $275 (or more). Ages 15-29 $160. Ages 6-14 $70. Staff Assistants $175 (apply by March 31). \nÀ la carte options available (view details on website). Advance registration only—no walk-ins."
@@ -18405,7 +18422,7 @@ events:
       - Annie Kidwell
       - Jeremy Korr
     organisation: NEFFA
-  - name: "Queen City Contras - April Dance in Shelburne, VT"
+  - name: Queen City Contras
     details: "Contra Dance presented by Queen City Contras. Mo Brachfeld and Friends will play for us, with calling by Peter Stix. All are welcome; all dances are taught; no partner or experience necessary. Please bring a pair of clean soft-soled shoes to dance in and a water bottle to keep you hydrated. Masks welcome but optional. Please stay home if you have symptoms. Doors open at 6:30, beginner lesson at 6:45, dancing from 7 to 10."
     links:
       - "https://cdss.org/event/queen-city-contras-april-dance-in-shelburne-vt/"
@@ -18418,8 +18435,11 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Mo Brachfeld & Friends
     callers:
       - Peter Stix
+    price: $5-$12
     organisation: Queen City Contras
   - name: TECDA Friday Evening Dance
     details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
@@ -18440,6 +18460,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Milford Contra Dance
     details: "The Milford contra dance happens every 4th Friday, unless the 4th Friday happens on Thanksgiving weekend or a Christmas weekend. Music is provided by a large 15+ member band, which allows anyone to sit in for just a single dance or the whole evening. Callers are usually local callers. The dance is usually large, with 100 or more in attendance. The dance is located in the Milford NH town hall, in the center  of town. Entry is on either side of the building, but not the big front steps. \nUnder 10 free; students/seniors $5; adults $12"
@@ -18462,7 +18483,7 @@ events:
     links:
       - "http://www.tallydancer.com/"
       - "https://cdss.org/event/tally-contra-dance/2026-04-24/"
-    start: "2026-04-24T19:30:00-04:00"
+    start: "2026-04-24T19:15:00-04:00"
     end: "2026-04-24T22:00:00-04:00"
     country: USA
     state: FL
@@ -18487,6 +18508,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10
     organisation: Childgrove Country Dancers
   - name: "When in Doubt, Swing!"
     details: "Will Mentor is a contra and square dance caller from Northern Vermont, known for his clear teaching, upbeat wit, and relaxed stage presence. He loves to choreograph evenings with a variety of dances and tempos that at times surprise and always delight, all the while keeping intact his guiding principle as a caller: “It’s about the dancers!” \nThe Figments are Anna Patton on clarinet, Ben Schreiber on Fiddle, and Owen Morrison on guitar. Besides playing as The Figments, these three are familiar from other bands including Elixir, the Dam Beavers, and the Faux Paws. They incorporate an eclectic mix of styles into their inspired performances of music for dancing or listening. Whether grooving on an Old-time, Irish or French Canadian fiddle tune, trading daring improvisations on a swing number, or exploring the nuances of a graceful waltz or elegant English country dance tune, this trio of versatile musicians makes dynamic, spontaneous, and electrifying music."
@@ -18513,7 +18535,7 @@ events:
     links:
       - "https://phxtmd.org/"
       - "https://cdss.org/event/phoenix-4th-friday-contra-dance/2026-04-24/"
-    start: "2026-04-24T19:00:00-07:00"
+    start: "2026-04-24T18:30:00-07:00"
     end: "2026-04-24T22:00:00-07:00"
     country: USA
     state: AZ
@@ -18529,7 +18551,7 @@ events:
     links:
       - "https://monroviaecd.org/"
       - "https://cdss.org/event/monrovia-english-country-dance/2026-04-24/"
-    start: "2026-04-24T19:30:00-07:00"
+    start: "2026-04-24T19:15:00-07:00"
     end: "2026-04-24T22:00:00-07:00"
     country: USA
     state: CA
