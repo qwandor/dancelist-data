@@ -23625,6 +23625,7 @@ events:
       - Duo Tanghe-Coudroy
     price: €16-€30
     organisation: Muziekcentrum Dranouter
+    cancelled: true
   - name: Oefenavond@Herk
     details: Course
     links:
@@ -25985,3 +25986,20 @@ events:
     bands:
       - Emily & The Simons
     organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://stanistil.be"
+      - "https://folkbalbende.be/event/4598"
+    start: "2026-03-25T19:00:00+01:00"
+    end: "2026-03-25T21:30:00+01:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Planktøn
+    price: donation
+    organisation: Stanistil
