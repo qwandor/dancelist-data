@@ -18746,28 +18746,12 @@ events:
     social: true
     price: $10-$15
     organisation: Chattanooga Traditional Dance Society
-  - name: "Princeton Country Dancers' Combination Dance"
-    details: "Combination Contra and English Country Dance every 4th Saturday, 7:30-10:30 (except February)"
-    links:
-      - "https://www.princetoncountrydancers.org/"
-      - "https://cdss.org/event/princeton-country-dancers-combination-contra-and-english-country-dance/2026-04-25/"
-    start: "2026-04-25T19:30:00-04:00"
-    end: "2026-04-25T22:30:00-04:00"
-    country: USA
-    state: NJ
-    city: Princeton
-    styles:
-      - contra
-      - ecd
-    workshop: true
-    social: true
-    organisation: CDSS
   - name: Richmond Saturday Evening Contra Dance
     details: "Join us in Richmond, VA for a Saturday evening contra dance, hosted by TADAMS, at the West End Ballroom. Beginner lesson at 6:45pm, dance from 7:30-10:30pm. Please see our full website calendar for band and caller details. Admission is $15 non-members, $10 members & students, children under 13 are free."
     links:
       - "https://tadamsva.org/dances/"
       - "https://cdss.org/event/richmond-saturday-evening-contra-dance-sponsored-by-tadams/2026-04-25/"
-    start: "2026-04-25T19:30:00-04:00"
+    start: "2026-04-25T18:45:00-04:00"
     end: "2026-04-25T22:30:00-04:00"
     country: USA
     state: VA
@@ -18776,6 +18760,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Floorplay
+    callers:
+      - Ben Allbrandt
     price: $10-$15
     organisation: TADAMS (Traditional American Dance and Music Society)
   - name: Scissortail Contra Dance
@@ -18853,7 +18841,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2026-04-25/"
-    start: "2026-04-25T20:00:00-05:00"
+    start: "2026-04-25T19:30:00-05:00"
     end: "2026-04-25T23:00:00-05:00"
     country: USA
     state: MN
@@ -18862,8 +18850,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Contratopia
     callers:
-      - Beau Farmer
+      - David Kirchner
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: 4th Saturdays Contra Dance
@@ -18920,7 +18910,7 @@ events:
     links:
       - "https://www.northjerseyenglishcountrydancers.org/"
       - "https://cdss.org/event/north-jersey-english-country-dancers-2nd-and-4th-sundays/2026-04-26/"
-    start: "2026-04-26T14:00:00-04:00"
+    start: "2026-04-26T13:50:00-04:00"
     end: "2026-04-26T17:00:00-04:00"
     country: USA
     state: NJ
@@ -18930,13 +18920,8 @@ events:
     workshop: true
     social: true
     callers:
-      - Alex Deis-Lauby
-      - Daniel Popowich
-      - Dorothy Cummings
       - Judi Rivkin
-      - Margaret Bary
-      - Orly Krasner
-      - Paul Ross
+    price: $20
     organisation: North Jersey English Country Dancers
   - name: English Country Dance Atlanta
     details: "2nd, 4th, and 5th Sunday afternoons \n$9, cash or check"
@@ -18968,6 +18953,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: Louisville English Country Dancers
   - name: English Country Dance
     details: "Twice-monthly English Country Dance session in Colorado Springs, CO. Each dance will be taught and then practiced. Great social atmosphere and fun!"
@@ -18983,26 +18969,32 @@ events:
     workshop: false
     social: true
     organisation: CDSS
-  - name: "TFOOTD (St. Petersburg, FL) Contra Dance"
+  - name: TFOOTD Contra Dance
     details: "Contra dance (with caller) open to the public, to live music."
     links:
+      - "https://tampabaycontra.com/"
       - "https://cdss.org/event/tfootd-st-petersburg-fl-contra-dance/"
-    start: "2026-04-26T16:00:00-04:00"
+    start: "2026-04-26T15:30:00-04:00"
     end: "2026-04-26T19:00:00-04:00"
     country: USA
     state: FL
     city: St. Petersburg
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - That's A Plenty
+    callers:
+      - Angela DeCarlis
+    price: $5-$10
     organisation: Tampa Friends of Old Time Dance
   - name: English Country Dance
     details: "All are welcome to join us for another very fine afternoon of English Country Dance using mostly positional language. Spread the word and bring all your friends, family, and neighbors! 3:30 pm, Skills Session. Dance: 4:00 pm-6:00."
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance/2026-04-26/"
-    start: "2026-04-26T16:00:00-04:00"
+    start: "2026-04-26T15:30:00-04:00"
     end: "2026-04-26T18:00:00-04:00"
     country: USA
     state: NC
@@ -19011,6 +19003,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $10-$12
     organisation: CDSS
   - name: 4th Sunday Albuquerque Contra Dance
     details: "Everyone is welcome at contra dancing, no partner required. For more details about contra or FolkMADS organization, see our website at folkmads.org \nAll dances are Pay What You Want – suggested $10/person, $10-20/family."
@@ -19042,6 +19035,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15-$20
     organisation: Hayward Contra
   - name: Whitewater Whirl
     details: "Welcome to the 2026 Whitewater Whirl. Whether you’re a dedicated, would-not-miss-it Whirler or new to the weekend, we look forward to dancing with you! The weekend is held at the Fayette County Park 4-H camp near Fayetteville, WV. Online registration is now open. \nThe Bands\nLouisville-based Hot Coffee Breakdown is one of the most popular bands on the contra dance weekend circuit. Tom Cunningham’s fiery fiddle combines with the driving rhythms of Kate Sanders on keyboard and Luis de Leon on percussion and harmonica. Their dynamic range and musical crescendos will make you want the dance to go on forever! From the Ohio hills, we welcome The Hollertones with Paul Brown on banjo, Linda Scutt on fiddle, Jeanie Thieken Creamer on guitar and vocals and Nick Weiland on bass, with a blend of traditional, old time and Celtic music that’s made them popular at contra dances throughout the Midwest and East Coast. \nThe callers\nThe talented Darlene Underwood from Cincinnati returns for her second Whirl to spread happiness, connection and fun. It’s a Whirl debut for the talented and very funny Bob Isaacs, choreographer of so many creative dances, who’s driving all the way from Princeton, NJ (thanks, Bob). \nWe’re delighted that Gaye Fifer will again join us to teach the Beyond the Basics waltz workshop. Regular Whirlers know that Gaye called at every Whirl from 2005 to 2024. She’s taking a break, but we hope she’ll be back as a regular Whirl caller in future. \nIn 2024, we added a late-night techno-contra with DJ Polly Whittaker teaming with “Queen Darlene.” It’s back by popular demand, retitled as “DJ Contra,” and with “King Bob” on the team. \nOur sound engineer, maestro Hanno Meingast, will be making the music in the hall sound great. \nAccommodation and meal plan\nCabin accommodation (metal frame bunk beds) or camping onsite at the Fayette County Park 4-H camp near Fayetteville, WV is included in the weekend price. When you register, let us know if you’ll be staying in one of the cabins, designated as coed, women and men. \nYou can pitch your tent anywhere, but if you’re pulling a camper the camp staff will tell you where to park. \nThe camp will open on Thursday night, April 30, for early arrivals. Consider staying Sunday night, May 3, hiking or rafting in the New River Gorge. \nCafé One Ten in Oak Hill, WV, will provide catering—a five-meal plan with vegetarian options. Jennifer Horrocks and Heather Oelker will be running the kitchen and dining hall, with Jennifer preparing her signature desserts for Saturday dinner. \n$140 for weekend; a la carte for evening dances and workshops"
