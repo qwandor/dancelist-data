@@ -7,9 +7,11 @@ events:
     end_date: 2022-07-24
     country: UK
     city: Warwick
-    styles: [e-ceilidh, contra]
-    social: true
+    styles:
+      - e-ceilidh
+      - contra
     workshop: false
+    social: true
     bands:
       - Relentless
       - Peeping Tom
@@ -26,9 +28,11 @@ events:
     end: "2024-07-28T23:55:00+01:00"
     country: UK
     city: Warwick
-    styles: [e-ceilidh, contra]
-    social: true
+    styles:
+      - e-ceilidh
+      - contra
     workshop: false
+    social: true
     price: £75-£190
     organisation: Warwick Folk Festival
   - name: Warwick Folk Festival
@@ -38,8 +42,41 @@ events:
     end: "2025-07-27T23:55:00+01:00"
     country: UK
     city: Warwick
-    styles: [e-ceilidh, contra]
-    social: true
+    styles:
+      - e-ceilidh
+      - contra
     workshop: false
+    social: true
     price: £147-£155
+    organisation: Warwick Folk Festival
+  - name: Warwick Folk Festival
+    links:
+      - "https://warwickfolkfestival.co.uk/"
+    start: "2026-07-23T19:30:00+01:00"
+    end: "2026-07-26T23:55:00+01:00"
+    country: UK
+    city: Warwick
+    styles:
+      - balfolk
+      - contra
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Spiers & Boden
+      - Diatonics
+      - Hekety
+      - Contrasaurus
+      - Relentless
+      - This Way Up
+      - Naragonia Quartet
+      - Brown Boots
+    callers:
+      - Cate Haynes
+      - Ian Nichols
+      - Gordon Potts
+      - Bob Morgan
+      - Fee Lock
+      - Nick Walden
+    price: £82-£163
     organisation: Warwick Folk Festival
