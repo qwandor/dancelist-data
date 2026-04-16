@@ -7,7 +7,9 @@ events:
     end_date: 2022-08-12
     country: UK
     city: Broadstairs
-    styles: [e-ceilidh, contra]
+    styles:
+      - e-ceilidh
+      - contra
     workshop: true
     social: true
     bands:
@@ -24,7 +26,9 @@ events:
     end_date: 2024-08-16
     country: UK
     city: Broadstairs
-    styles: [e-ceilidh, contra]
+    styles:
+      - e-ceilidh
+      - contra
     workshop: true
     social: true
     price: £164-£330
@@ -36,8 +40,42 @@ events:
     end_date: 2025-08-15
     country: UK
     city: Broadstairs
-    styles: [e-ceilidh, contra]
+    styles:
+      - e-ceilidh
+      - contra
     workshop: true
     social: true
     price: £176-£357
+    organisation: Broadstairs Folk Week
+  - name: Broadstairs Folk Week
+    links:
+      - "https://broadstairsfolkweek.org.uk/"
+    start_date: 2026-08-07
+    end_date: 2026-08-14
+    country: UK
+    city: Broadstairs
+    styles:
+      - e-ceilidh
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Threepenny Bit
+      - The Tonic
+      - Frog on a Bike
+      - Doug Hudson Band
+      - Banter
+      - Chimera
+      - Krista Bubble & the Wood Urchins
+      - Seaglass
+      - Vicki Swan & Jonny Dyer
+      - Rejigged
+    callers:
+      - Ollie Simons
+      - Krista Bubble
+      - Fee Lock
+      - Alison Rowley
+      - Annie Bolt
+      - Clare Haythornthwaite
+    price: £128.95-£385
     organisation: Broadstairs Folk Week
