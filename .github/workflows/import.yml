@@ -38,6 +38,8 @@ jobs:
         run: dancelist import cologne events/germany/cologne.yaml
       - name: Import contrabridge
         run: dancelist import contrabridge events/uk/contrabridge.yaml
+      - name: Import friday-folk
+        run: dancelist import friday-folk events/uk/st_albans_friday_folk.yaml
       - name: Import spreefolk
         run: dancelist import spreefolk events/germany/spreefolk.yaml
       - name: Import ceilidh-club
