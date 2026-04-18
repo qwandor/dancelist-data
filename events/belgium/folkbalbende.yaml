@@ -21519,6 +21519,7 @@ events:
   - name: Balhalla
     details: Ball
     links:
+      - "https://www.balhalla.be/en/event/bal-with-terra-incognita"
       - "https://folkbalbende.be/event/2849"
     start: "2026-06-25T19:00:00+02:00"
     end: "2026-06-25T23:00:00+02:00"
@@ -21528,12 +21529,16 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Terra Incognita
     price: €10-€18
     organisation: Balhalla
   - name: Balhalla Potluckbal
     details: Ball
     links:
+      - "https://www.balhalla.be/en/event/bal-with-wouter-kuyper-and-bellowing-bellows"
       - "https://folkbalbende.be/event/2850"
+      - "https://www.facebook.com/events/1471454534634071/"
     start: "2026-05-25T15:00:00+02:00"
     end: "2026-05-25T21:30:00+02:00"
     country: Belgium
@@ -21542,7 +21547,10 @@ events:
       - balfolk
     workshop: true
     social: true
-    price: €11-€17
+    bands:
+      - Bellowing Bellows
+      - Wouter Kuyper
+    price: €14-€24
     organisation: Balhalla
   - name: Dance Class Level 1 Mechelen
     details: Course
@@ -26060,9 +26068,11 @@ events:
   - name: Balhalla
     details: Ball
     links:
+      - "https://www.balhalla.be/en/event/bal-with-trio-md-and-a"
       - "https://folkbalbende.be/event/4639"
+      - "https://www.facebook.com/events/897412999766309/"
     start: "2026-04-22T19:00:00+02:00"
-    end: "2026-04-22T23:30:00+02:00"
+    end: "2026-04-22T23:00:00+02:00"
     country: Belgium
     city: Gent
     styles:
@@ -26071,6 +26081,7 @@ events:
     social: true
     bands:
       - Trio MD&A
+    price: €10-€18
     organisation: Balhalla
   - name: Bal Van Morgen
     details: Ball
@@ -26088,5 +26099,6 @@ events:
     social: true
     bands:
       - Driftwood
+      - Duo Mobilette
     price: donation
     organisation: Stanistil
