@@ -1,0 +1,21 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfolk night featuring Les Rats Mouillés!
+    details: Balfolk featuring Les Rats Mouillés! at Sketchbook Brewing Skokie
+    links:
+      - "https://www.facebook.com/share/18cq2ZhYLL/"
+    start: "2026-05-28T19:00:00-05:00"
+    end: "2026-05-28T22:00:00-05:00"
+    country: USA
+    city: Chicago
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Les Rats Mouillés!
+    callers:
+      - Meg Dedolph
+      - Wren Eisenhauer
+    price: donation
+    organisation: ~
