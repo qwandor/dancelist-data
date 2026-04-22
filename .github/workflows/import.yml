@@ -30,8 +30,6 @@ jobs:
         run: cargo install --git https://github.com/qwandor/dancelist
       - name: Import balfolk-cambridge
         run: dancelist import balfolk-cambridge events/uk/balfolk_cambridge.yaml
-      - name: Import balfolknl
-        run: dancelist import balfolknl events/netherlands/balfolk_nl.yaml
       - name: Import cdss
         run: dancelist import cdss events/usa/cdss.yaml
       - name: Import cologne
