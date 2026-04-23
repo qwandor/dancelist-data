@@ -4056,22 +4056,6 @@ events:
     workshop: true
     social: true
     organisation: TryContra
-  - name: Moulin d’Andé Weekend
-    links:
-      - "https://sites.google.com/site/americancontradanceinparis/"
-    start_date: 2026-05-23
-    end_date: 2026-05-25
-    country: France
-    city: "Moulin d'Ande, Normandy,"
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Max Newman & Julie Metcalf
-    callers:
-      - Will Mentor
-    organisation: TryContra
   - name: Butterfly Whirl
     links:
       - "http://www.dancerhapsody.com/special-events/"
@@ -4094,8 +4078,8 @@ events:
   - name: Camp Sturtevant
     links:
       - "https://www.sccdc.org/special-events/camp-sturtevant/"
-    start_date: 2026-05-22
-    end_date: 2026-05-25
+    start: "2026-05-22T13:45:00-07:00"
+    end: "2026-05-25T17:00:00-07:00"
     country: USA
     state: CA
     city: Arcadia
@@ -4107,6 +4091,7 @@ events:
       - Silas Hamilton & Annie McDougall
     callers:
       - Jacqui Grennan
+    price: $495
     organisation: TryContra
   - name: Chain Reaction
     links:
@@ -4193,21 +4178,23 @@ events:
   - name: Swing into Summer
     links:
       - "http://www.swingintosummer.org/"
-    start_date: 2026-06-19
-    end_date: 2026-06-21
+    start: "2026-06-19T15:00:00-04:00"
+    end: "2026-06-21T19:30:00-04:00"
     country: USA
     state: MA
     city: Plymouth
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
       - Northwoods
-      - "Joanna, Carrie, & Aaron"
+      - "Joanna, Carrie & Aaron"
     callers:
       - Lindsey Dono
       - Imogen Mills
+    price: $255-$440
     organisation: TryContra
   - name: Old Songs Festival
     links:
@@ -4348,14 +4335,13 @@ events:
     social: true
     bands:
       - Toss the Possum
-      - George Paul and Friends
-      - The Buzz Band
+      - George Paul & Friends
+      - Buzz Band
     callers:
       - Terry Doyle
       - Bob Isaacs
       - Devin Pohly
       - Warren Doyle
-      - Open Calling
     organisation: TryContra
   - name: Sugar Hill Dance Weekend
     links:
@@ -4440,7 +4426,8 @@ events:
     workshop: true
     social: true
     bands:
-      - The Vox Hunters
+      - Vox Hunters
+    price: $750-$1200
     organisation: TryContra
   - name: Dancing Fish
     links:
@@ -4550,25 +4537,6 @@ events:
     workshop: true
     social: true
     organisation: TryContra
-  - name: Chehalis Dance Weekend
-    links:
-      - "https://chehalisdancecamp.com/"
-    start_date: 2026-10-23
-    end_date: 2026-10-25
-    country: Canada
-    state: BC
-    city: Gibsons
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Raven & Goose
-      - Stove Dragon
-    callers:
-      - Cis Hinkle
-      - Angela DeCarlis
-    organisation: TryContra
   - name: Youth Dance Weekend
     links:
       - "https://youthdanceweekend.org/"
@@ -4599,11 +4567,15 @@ events:
     workshop: true
     social: true
     bands:
+      - Alex Cumming & Audrey Jaber
+      - Hijinks
+      - Leslie Barr & Bob Walser
       - Stove Dragon
       - The Russet Trio
     callers:
       - Steve Zakon-Anderson
       - Alex Deis-Lauby
+      - Joanna Reiner
     organisation: DanceFlurry
   - name: Butterfly Twirl
     links:

@@ -20261,7 +20261,7 @@ events:
     links:
       - "https://www.louisvillecountrydancers.org/dance-with-us-1"
       - "https://cdss.org/event/louisville-contra-dance/2026-05-04/"
-    start: "2026-05-04T20:00:00-04:00"
+    start: "2026-05-04T19:30:00-04:00"
     end: "2026-05-04T22:30:00-04:00"
     country: USA
     state: KY
@@ -20272,6 +20272,7 @@ events:
     social: true
     bands:
       - Monday Night All Stars
+    price: $5-$10
     organisation: Louisville Country Dancers
   - name: Monday Evening English Country Dance
     details: "All are welcome to join us for an evening of English country dance with live music. All dances talked and walked through. Easy parking, air conditioning, and fans. Snacks are encouraged for the break! Please register online at our website."
@@ -20351,14 +20352,14 @@ events:
       - ecd
     workshop: false
     social: true
-    price: $15-$20
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: English Country Dance for All
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:15 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition."
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-english-country-dance-for-all/2026-05-06/"
-    start: "2026-05-06T18:30:00-04:00"
+    start: "2026-05-06T18:15:00-04:00"
     end: "2026-05-06T20:30:00-04:00"
     country: USA
     state: NC
@@ -20367,6 +20368,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: free
     organisation: CDSS
   - name: English Country Dance at Guiding Star Grange
     details: "Join us in Greenfield for an evening of English Country Dancing. Lively, elegant, and fun: English country dances from 1650 to today, with a rotating cast of stellar musicians and callers.   \nCost: $10-$20, sliding scale. \nSee venue website for this month’s details and Covid policy."
@@ -20384,9 +20386,10 @@ events:
     social: true
     price: $10-$20
     organisation: Graham Christian
-  - name: "English Country Dancing in Brunswick, Maine"
+  - name: English Country Dancing in Brunswick
     details: "English Country Dancing in Brunswick, Maine, 1st and 3rd Wednesdays through October. See our website for details."
     links:
+      - "https://folkdancers.org/BrunswickECD.html"
       - "https://cdss.org/event/english-country-dancing-in-brunswick-maine/2026-05-06/"
     start: "2026-05-06T19:00:00-04:00"
     end: "2026-05-06T21:00:00-04:00"
@@ -20397,6 +20400,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: John Bloom
   - name: Bloomington Contra Dance
     details: "Please see our home page for the latest information. \nEntrance fee: by sliding scale donation, with a suggested range from $3 to $20.  \nStriving Toward Safe Space Policy: We hope to create a dance in which everyone feels safe and welcome. Please take a moment to review our policy on respect and consent. \nMembership: Membership is optional. Both members and non-members pay a sliding scale entrance fee; see above.  \nVolunteers are always welcome! Sign up with a dance coordinator for set-up or clean-up if you’d like! Many of us also go out for drinks and munchies after each Wednesday night dance."
@@ -20420,7 +20424,7 @@ events:
       - "https://austinbarndancers.org/"
       - "https://taada.us/wp/events/"
       - "https://cdss.org/event/weekly-austin-contra-dance/2026-05-06/"
-    start: "2026-05-06T19:30:00-05:00"
+    start: "2026-05-06T19:15:00-05:00"
     end: "2026-05-06T21:30:00-05:00"
     country: USA
     state: TX
@@ -20632,13 +20636,9 @@ events:
     styles:
       - contra
       - ecd
+      - irish-set
     workshop: true
     social: true
-    bands:
-      - Tom Phillips
-      - Jeff Spero
-      - David James
-      - Craig Johnson
     callers:
       - Angela DeCarlis
     price: $700-$1100
@@ -20756,7 +20756,7 @@ events:
     workshop: false
     social: true
     callers:
-      - Rachel Shapiro Wallace
+      - Rachel Shapiro-Wallace
       - Wendy Graham
       - Harrison Keely
     price: $425-$720
@@ -21077,6 +21077,7 @@ events:
   - name: Chehalis Contra Dance Camp
     details: "Our mission is to create a friendly dance camp that’s fun for all. Come immerse yourself in music, dance, workshops and music jams in a natural setting. Our unique contra-focused camp will be located at Camp Elphinstone, Gibsons, B.C."
     links:
+      - "https://chehalisdancecamp.com/"
       - "https://cdss.org/event/chehalis-contra-dance-camp/"
     start_date: 2026-10-23
     end_date: 2026-10-25
@@ -21087,6 +21088,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Raven & Goose
+      - Stove Dragon
+    callers:
+      - Cis Hinkle
+      - Angela DeCarlis
     organisation: Chehalis Contra Dance Camp (Vancouver Contra Dance)
   - name: Music City Masquerade
     details: "Join us for an incredible weekend of music and dance October 23-25, 2026 in Music City, USA (aka Nashville). Countercurrent will provide the electrifying music for the creative calling of Luke Donforth! Registration opens April 1."
