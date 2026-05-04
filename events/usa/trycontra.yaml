@@ -4311,8 +4311,8 @@ events:
   - name: Rainforest Romp
     links:
       - "https://www.eventbrite.com/e/rainforest-romp-contra-dance-weekend-tickets-1986864942528"
-    start_date: 2026-07-17
-    end_date: 2026-07-19
+    start: "2026-07-17T19:00:00-08:00"
+    end: "2026-07-19T17:00:00-08:00"
     country: USA
     state: AK
     city: Juneau
@@ -4324,6 +4324,7 @@ events:
       - Raven & Goose
     callers:
       - Koren Wake
+    price: $80-$108.55
     organisation: TryContra
   - name: Falcon Ridge Folk Festival
     links:
