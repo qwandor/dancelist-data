@@ -24727,6 +24727,7 @@ events:
   - name: CaBal Courtrai
     details: Ball
     links:
+      - "https://www.cabalfolk.be/#events"
       - "https://folkbalbende.be/event/3763"
       - "https://folkbalbende.be/event/3792"
     start: "2026-09-25T19:30:00+02:00"
@@ -24745,6 +24746,7 @@ events:
   - name: CaBal Courtrai
     details: Ball
     links:
+      - "https://www.cabalfolk.be/#events"
       - "https://folkbalbende.be/event/3789"
     start: "2026-05-15T19:30:00+02:00"
     end: "2026-05-16T00:00:00+02:00"
@@ -24809,8 +24811,7 @@ events:
   - name: CaBal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.cabalfolk.be/"
+      - "https://www.cabalfolk.be/#events"
       - "https://folkbalbende.be/event/3793"
     start: "2026-11-13T19:30:00+01:00"
     end: "2026-11-14T00:00:00+01:00"
@@ -25197,17 +25198,19 @@ events:
   - name: CaBal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://www.cabalfolk.be/"
+      - "https://www.cabalfolk.be/#events"
       - "https://folkbalbende.be/event/3992"
-    start_date: 2026-12-19
-    end_date: 2026-12-19
+    start: "2026-12-19T19:30:00+01:00"
+    end: "2026-12-20T00:00:00+01:00"
     country: Belgium
     city: Kortrijk
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Bansk
+      - Naragonia
     price: €20-€25
     organisation: CaBal
   - name: Dance Class Level 1
@@ -25834,6 +25837,7 @@ events:
     bands:
       - Folkorkest Academie Schoten
       - Naragonia
+    price: free
     organisation: Academie Schoten
   - name: Mixers
     details: Course
@@ -26267,7 +26271,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Naragonia & Walther-Treyz
+      - Naragonia & Friends
       - Kouran Der
     price: €25-€30
     organisation: ~
