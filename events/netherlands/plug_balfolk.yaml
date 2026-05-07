@@ -4437,6 +4437,7 @@ events:
       - Moss & Smith
     price: €10-€20
     organisation: Folk Inferno
+    cancelled: true
   - name: Dansavond
     details: "Maandag avond gezellig dansen. Iedereen is welkom!\r\nWe starten om 20:30 tot 22:00."
     links:
@@ -4461,7 +4462,7 @@ events:
     city: Gelselaar
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
     bands:
       - Bon Voyage
@@ -5217,7 +5218,7 @@ events:
     city: Zeist
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     price: €5
     organisation: Balfolk Zeist
@@ -5231,7 +5232,7 @@ events:
     city: Zeist
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     price: €5
     organisation: Balfolk Zeist
