@@ -1,10 +1,11 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Bal Folk in Göttingen (Workshop & Konzert)
+  - name: Bal Folk in Göttingen
+    details: Workshop & concert
     links:
-      - "https://balfolk-goettingen.de/"
+      - "https://balfolk-goettingen.de/event/balfolk-mit-xenia/"
     start: "2026-06-14T18:00:00+02:00"
-    end: "2026-06-14T22:00:00+02:00"
+    end: "2026-06-14T23:30:00+02:00"
     country: Germany
     city: Göttingen
     styles:
@@ -13,5 +14,5 @@ events:
     social: true
     bands:
       - Xenia Twarz
-    price: 10-20 Euro
+    price: €10-€20
     organisation: Bal Folk Göttingen
