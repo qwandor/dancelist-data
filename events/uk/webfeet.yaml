@@ -1,35 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Diatonics in Sherfield on Loddon
-    links:
-      - "http://diatonics.co.uk/events.html"
-    start_date: 2026-02-07
-    end_date: 2026-02-07
-    country: UK
-    city: Sherfield on Loddon
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Diatonics
-    organisation: Webfeet
-  - name: Box of Frogs in Englefield Green
-    links:
-      - "http://www.ashfordfolkdancers.org.uk/contra_dances/"
-    start_date: 2026-02-08
-    end_date: 2026-02-08
-    country: UK
-    city: Englefield Green
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Box of Frogs
-    callers:
-      - Louise Siddons
-    organisation: Webfeet
   - name: "The Bismarcks in Chandler's Ford"
     links:
       - "http://www.shocc.co.uk/"
@@ -275,23 +245,6 @@ events:
     callers:
       - Malcolm Churchill
     organisation: Webfeet
-  - name: Panjandrum in Stroud
-    details: "[Sold Out]"
-    links:
-      - "https://www.areyoudancing.com/dance-event/791417/"
-    start_date: 2026-04-25
-    end_date: 2026-04-25
-    country: UK
-    city: Stroud
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Panjandrum
-    callers:
-      - Gordon Potts
-    organisation: Webfeet
   - name: live music in Bath
     links:
       - "http://mister.red/dance/bath.htm#D.AM.20260429"
@@ -382,23 +335,6 @@ events:
     callers:
       - Angela Laycock
     organisation: Webfeet
-  - name: Freedom Fields Ceilidh Band in Exeter
-    links:
-      - "http://devonfolk.org/events-diary/"
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2026-05-01
-    end_date: 2026-05-01
-    country: UK
-    city: Exeter
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Freedom Fields Ceilidh Band
-    callers:
-      - Christian Mayne
-    organisation: Webfeet
   - name: Daragonsfly in Glastonbury
     links:
       - "http://mister.red/dance/glastonbury.htm#D.AZ.20260501"
@@ -413,26 +349,8 @@ events:
     bands:
       - Daragonsfly
     organisation: Webfeet
-  - name: "Mad Moll in King's Heath"
-    links:
-      - "https://www.efdss.org/calendar-events/15990-ee6e910d8a25e34748decf784fe5e6a2"
-    start_date: 2026-05-01
-    end_date: 2026-05-01
-    country: UK
-    city: "King's Heath"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Mad Moll
-    callers:
-      - Nicola Scott
-    organisation: Webfeet
   - name: Dubboni Dance Band in Stroud
     links:
-      - "https://eceilidh.org.uk/cps/gigs/dobunnidanceband-993f36.php"
-      - "https://stroud.dance/ceilidh/cps/gigs/dobunnidanceband-c577d8.php"
       - "http://mister.red/dance/stroud.htm#D.AX.20260502"
     start_date: 2026-05-02
     end_date: 2026-05-02
@@ -443,7 +361,6 @@ events:
     workshop: false
     social: true
     bands:
-      - Dobunni
       - Dubboni Dance Band
     organisation: Webfeet
   - name: "sessionista in Bath French, Bath"
@@ -635,7 +552,7 @@ events:
     callers:
       - Dianne Silver
     organisation: Webfeet
-  - name: The Hosepipe Band in Norwich
+  - name: Fairgreen Band in Norwich
     links:
       - "http://www.mardles.org/mardles/ceilidhs/"
     start_date: 2026-05-15
@@ -647,7 +564,7 @@ events:
     workshop: false
     social: true
     bands:
-      - The Hosepipe Band
+      - Fairgreen Band
     organisation: Webfeet
   - name: Diatonincs in Cardiff
     links:
@@ -806,6 +723,20 @@ events:
     bands:
       - Red Shed
     organisation: Webfeet
+  - name: Catsfield Steamers in Staplecross
+    links:
+      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
+    start_date: 2026-05-30
+    end_date: 2026-05-30
+    country: UK
+    city: Staplecross
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Catsfield Steamers
+    organisation: Webfeet
   - name: Helen Gentile & Lewis Wood in Stroud
     links:
       - "https://balfolkstroud.uk/cps/gigs/helengentilelewiswood-f3f5d1.php"
@@ -882,6 +813,23 @@ events:
     callers:
       - Jack Kanutin
     organisation: Webfeet
+  - name: Freedom Fields Ceilidh Band in Exeter
+    links:
+      - "http://devonfolk.org/events-diary/"
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2026-06-05
+    end_date: 2026-06-05
+    country: UK
+    city: Exeter
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Freedom Fields Ceilidh Band
+    callers:
+      - Christian Mayne
+    organisation: Webfeet
   - name: Blackbeards Tea Party in Perranporth
     links:
       - "https://www.bandsintown.com/e/108015253-blackbeard&#x27;s-tea-party-at-perranporth-beach"
@@ -941,6 +889,22 @@ events:
     bands:
       - "Blackbeard's Tea Party"
       - Blackbeards Tea Party
+    organisation: Webfeet
+  - name: Arish Mel in Stoborough
+    links:
+      - "http://www.earwicker.org/about_arish_mel.htm"
+    start_date: 2026-06-08
+    end_date: 2026-06-08
+    country: UK
+    city: Stoborough
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Arish Mel
+    callers:
+      - Malcolm Churchill
     organisation: Webfeet
   - name: live music in Bath
     links:
@@ -1065,6 +1029,22 @@ events:
     callers:
       - Barry Reeves
     organisation: Webfeet
+  - name: Blackwater Assembly in Moretonhampstead
+    links:
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
+    start_date: 2026-06-20
+    end_date: 2026-06-20
+    country: UK
+    city: Moretonhampstead
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Blackwater Assembly
+    callers:
+      - Christian Mayne
+    organisation: Webfeet
   - name: Will Power in Bristol
     links:
       - "http://mister.red/dance/bristol.htm#D.AY.20260621"
@@ -1139,6 +1119,20 @@ events:
       - Bluejay
     callers:
       - Mark Elvins
+    organisation: Webfeet
+  - name: Blue Jewel in Stoke Gabriel
+    links:
+      - "http://devonfolk.org/events-diary/"
+    start_date: 2026-06-26
+    end_date: 2026-06-26
+    country: UK
+    city: Stoke Gabriel
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Blue Jewel
     organisation: Webfeet
   - name: Amber Fire in Exeter
     links:
@@ -1237,6 +1231,20 @@ events:
     social: true
     bands:
       - Blackbeards Tea Party
+    organisation: Webfeet
+  - name: Arish Mel in Wareham
+    links:
+      - "http://www.earwicker.org/about_arish_mel.htm"
+    start_date: 2026-07-10
+    end_date: 2026-07-10
+    country: UK
+    city: Wareham
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Arish Mel
     organisation: Webfeet
   - name: The Linda Game Band in Englefield Green
     links:
@@ -1472,6 +1480,25 @@ events:
     bands:
       - "Blackbeard's Tea Party"
     organisation: Webfeet
+  - name: "Dampier's Round in Halsway Manor"
+    links:
+      - "http://www.sadfolk.co.uk/listings.php"
+    start_date: 2026-09-25
+    end_date: 2026-09-27
+    country: UK
+    city: Halsway Manor
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - "Dampier's Round"
+    callers:
+      - Brian Stanton
+      - Frances Oates
+      - Jane Thomas
+      - Rob Dawson
+    organisation: Webfeet
   - name: Venn in Horsley
     links:
       - "http://mister.red/dance/horsley.htm#D.TC.20260926"
@@ -1531,6 +1558,20 @@ events:
     social: true
     bands:
       - Striding Edge
+    organisation: Webfeet
+  - name: Arish Mel in Furzebrook
+    links:
+      - "http://www.earwicker.org/about_arish_mel.htm"
+    start_date: 2026-10-03
+    end_date: 2026-10-03
+    country: UK
+    city: Furzebrook
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Arish Mel
     organisation: Webfeet
   - name: "Brian, Meg & Mike in Alcester"
     links:
@@ -1782,6 +1823,20 @@ events:
     bands:
       - Willowspin
     organisation: Webfeet
+  - name: Arish Mel in Furzebrook
+    links:
+      - "http://www.earwicker.org/about_arish_mel.htm"
+    start_date: 2026-11-14
+    end_date: 2026-11-14
+    country: UK
+    city: Furzebrook
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Arish Mel
+    organisation: Webfeet
   - name: Juice in Cardiff
     links:
       - "https://ruffceilidhs.org/"
@@ -1890,6 +1945,20 @@ events:
       - The Linda Game Band
     callers:
       - Charlie Turner
+    organisation: Webfeet
+  - name: Arish Mel in Piddletrenthide
+    links:
+      - "http://www.earwicker.org/about_arish_mel.htm"
+    start_date: 2026-12-18
+    end_date: 2026-12-18
+    country: UK
+    city: Piddletrenthide
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Arish Mel
     organisation: Webfeet
   - name: Striding Edge in Lazonby
     links:
