@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Tradidanças
+    links:
+      - "https://tradidancas.pt/"
+    start: "2026-07-29T12:00:00+01:00"
+    end: "2026-08-02T23:59:00+01:00"
+    country: Portugal
+    city: São Pedro do Sul
+    styles:
+      - balfolk
+      - scd
+    workshop: true
+    social: true
+    price: €45-€130
+    organisation: Tradidanças
