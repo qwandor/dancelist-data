@@ -24139,6 +24139,7 @@ events:
   - name: "Dancing the Revolution: An Interactive Workshop"
     details: "Join The New York Baroque Dance Company (NYBDC)* for a lively workshop at Fraunces Tavern Museum! We’ll learn social dances from George Washington’s time and the early days of the nation, including some by Francis Johnson, the American composer who brought the whole nation to the dance floor. \nIn true 18th-century style, we’ll practice elegant figures and spirited steps that will bring the world of the ball to life and demonstrate the spirited atmosphere of a revolutionary tavern. Whether you’re new to historical dance or a seasoned reveler, this workshop will give you the confidence to shine on the dance floor and earn you free admission to NYBDC’s Ball on June 28. \nCostumes admired but not required."
     links:
+      - "https://www.frauncestavernmuseum.org/events-calendar/2026-6-4/baroque-dance-co-workshop"
       - "https://cdss.org/event/dancing-the-revolution-an-interactive-workshop/"
     start: "2026-06-01T18:00:00-04:00"
     end: "2026-06-01T19:00:00-04:00"
@@ -24148,7 +24149,8 @@ events:
     styles:
       - ecd
     workshop: true
-    social: true
+    social: false
+    price: $10
     organisation: New York Baroque Dance Company
   - name: Asheville Monday Night Contra Dance
     details: "New Location, Times, & Admission \nThe Ivy Building at Asheville-Buncombe Technical Community College\n9 Genevieve Circle, Asheville, NC 28801\n(On GPS, type the address, not the building name! The building looks like an old church and is across from the Ferguson Medical Building at 10 Genevieve Circle.) \n\nLesson: 7:00pm – 7:30pm\nDance: 7:30pm – 10:00pm\n$0 – $50 Sliding Scale; $12 Suggested\nCheck our Facebook page for caller and musician info\n\nThe Asheville Monday Night Contra Dance, every Monday. Dancing to a live band and caller! Contra dancing is fun and energetic. The welcoming atmosphere makes it a perfect evening for beginners as well as seasoned contra dancers. \nBeginners are welcome, lesson 7:00pm–7:30pm. Contra dancing from 7:30pm–10:00pm. A waltz ends the night! \nSafe dance for all! Families welcome. All ages, races & ethnicities, LGBTQIA+ welcome. No discrimination or bullying of any kind will be tolerated. Volunteers earn a free dance. \nBring a water bottle. Bring comfortable, smooth soled shoes to dance in. No partner required. No experience needed for the beginners’ lesson."
@@ -24562,11 +24564,10 @@ events:
     social: true
     bands:
       - All Comers Band
-      - Trillium
+      - Springtide
     callers:
       - Chrissy Fowler
-      - Lisa Newcomb
-    price: $1-$20
+    price: $15-$25
     organisation: Belfast Flying Shoes
   - name: English Country Dancing
     details: "We invite you to dance with us on the first Friday of each month at Massanutten Presbyterian Church. It’s free and open to the public; most appropriate for people 10 years old and up; no experience needed; no partner needed. Wear casual clothes and comfortable shoes. \nTom Mack is the caller and we dance to recorded music enjoying dances from the 1700’s and 1800’s: lines, circles and squares. \nHealth issues: If you feel sick, stay home."
@@ -24605,6 +24606,7 @@ events:
       - Cathy Campbell
       - Dave Berman
       - Walter Zagorski
+    price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
   - name: Orlando Contra Dance
     details: "Welcome to the Orlando Contra Dance! We feature high-tempo, gender-neutral dancing. We are Florida’s only gender-neutral contra series. Dancing is open to everyone and free for students and returning beginners (2nd dance is free)! \nWe usually dance on the first and third Friday of the month. Holidays, semester breaks, and regional events happen, so check the schedule before going!"
@@ -24618,8 +24620,9 @@ events:
     city: Winter Park
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: Orlando Contra Dance
   - name: Seacoast Contra Dance
     details: "Join us for music, movement, and community at First Fridays at Seacoast Contra! \nSchedule\n7:30 PM – Newcomer Lesson\n8:00–10:30 PM – Dancing\nAll dances are taught. No partner or experience needed. \nAdmission\nAdults: Sliding Scale $12–$20\nStudents: $10\nFamilies: $20\nChildren under 12: Free \nDance First, Pay Never!\nIf money’s tight, you can dance for free by volunteering:\nDoor greeting\nSetup or cleanup\nDance Angel for newcomers\nVolunteer sign-up \nCome dance, make new friends, and kick off the new year with us at Seacoast Contra!"
@@ -24642,19 +24645,20 @@ events:
     links:
       - "https://lambertvillecountrydancers.org/"
       - "https://cdss.org/event/lambertville-country-dancers-english-country-dance-in-newtown-pa-4/"
-    start: "2026-06-05T19:30:00-04:00"
+    start: "2026-06-05T19:00:00-04:00"
     end: "2026-06-05T22:30:00-04:00"
     country: USA
     state: NJ
     city: Newtown
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     bands:
       - A Joyful Noise
     callers:
       - Dorothy Cummings
+    price: $5-$15
     organisation: Lambertville Country Dancers
   - name: Across the Lake
     details: "Tom Roby calls to music by Karen Axelrod (piano, accordion), Rachel Bell (accordion), and Naomi Morse (violin). Friday night welcome dance for all, Saturday afternoon challenging session for experienced dancers, Saturday afternoon review session for all, Saturday night gala (dressy attire requested)."
@@ -24699,7 +24703,7 @@ events:
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2026-06-05/"
-    start: "2026-06-05T20:00:00-04:00"
+    start: "2026-06-05T19:30:00-04:00"
     end: "2026-06-05T23:00:00-04:00"
     country: USA
     state: MD
@@ -24708,6 +24712,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Friday Contra Dance
     details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$7 – $25, pay what you can."
@@ -24728,6 +24733,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6482"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2026-06-05/"
     start: "2026-06-05T19:30:00-07:00"
     end: "2026-06-05T22:30:00-07:00"
@@ -24738,6 +24744,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - David Macemon
     price: $7-$20
     organisation: Portland Country Dance Community
   - name: Scissortail English Country Dance
@@ -24754,13 +24762,14 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
   - name: "St. Alban's Contra Dance"
     details: "Monthly Contra Dance. \nNew Time: 3:00pm-5:30pm with Basics for New Folks at 2:45pm\nAt St. Alban’s Chapel in Baton Rouge\nWe’ll dance to live music.\nCharlene Heaton will call the dance. \nSuggested donation for the callers and the band:\nAdults $7 (contribute $10 to include a tip for the band…or put a tip in the basket, as you wish);\nStudents $5,\nChildren free.\nIf you’d like, bring cookies or veggies or fruit to share. It’s good to bring your own water bottle."
     links:
       - "https://louisianacontrasandsquares.com/events.html"
       - "https://cdss.org/event/st-albans-contra-dance-2/2026-06-06/"
-    start: "2026-06-06T15:00:00-05:00"
+    start: "2026-06-06T14:45:00-05:00"
     end: "2026-06-06T17:30:00-05:00"
     country: USA
     state: LA
@@ -24774,6 +24783,7 @@ events:
   - name: 2nd Annual Pride Techno-Contra!
     details: "We’re celebrating Pride Month and the history of gender-free dancing in NYC, with a techno contra at the West Village LGBT Center! We’ll have DJ’d beats from Chloe Rosenthal, and caller to be announced, plus a very glittery face-paint station!"
     links:
+      - "https://www.brooklyncontra.org/events/2026-06-06"
       - "https://cdss.org/event/2nd-annual-pride-techno-contra/"
     start: "2026-06-06T17:30:00-04:00"
     end: "2026-06-06T21:30:00-04:00"
@@ -24784,6 +24794,9 @@ events:
       - contra
     workshop: false
     social: true
+    callers:
+      - Lyss Adkins
+    price: $25
     organisation: Brooklyn Contra
   - name: Tucson Contra Dance
     details: "Join us for our first and third Saturday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check our website for more details."
