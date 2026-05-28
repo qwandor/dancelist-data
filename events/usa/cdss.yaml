@@ -25518,7 +25518,7 @@ events:
     links:
       - "https://www.tallydancer.com/"
       - "https://cdss.org/event/tally-contra-dance/2026-06-12/"
-    start: "2026-06-12T19:30:00-04:00"
+    start: "2026-06-12T19:15:00-04:00"
     end: "2026-06-12T22:00:00-04:00"
     country: USA
     state: FL
@@ -25556,7 +25556,7 @@ events:
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2026-06-12/"
-    start: "2026-06-12T20:00:00-04:00"
+    start: "2026-06-12T19:30:00-04:00"
     end: "2026-06-12T23:00:00-04:00"
     country: USA
     state: MD
@@ -25565,6 +25565,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: "Dance, Music & Spice"
     details: "Immerse yourself in a week of inspiration and connection at Camp Cavell on the beautiful shores of Lake Huron! Dance, Music & Spice is an intentional gathering for anyone who loves dancing, music, singing, art, nature, and the occasional party. Whether you come to refine your skills, discover something new, or simply be in nature surrounded by folks who share these interests, this week offers something truly special for everyone."
@@ -25635,9 +25636,10 @@ events:
     social: true
     price: $7-$20
     organisation: Portland Country Dance Community
-  - name: Mid-Summer Day of English Country Dance in Nashville
+  - name: Mid-Summer Day of English Country Dance
     details: "Please join us in the Activity Center at Second Presbyterian Church in Nashville, 3511 Belmont Boulevard, for a lovely day of English Country dances! Live music will be provided by The Mountain Laurels (Daniel Charlton, Emma Rushton, and Jeff Rohrbough) with special guest, Susan Kevra on clarinet. Calling by Anna Claire Camp. \nSchedule\n\n1:30pm Introductory lesson (free)\n2pm-4pm: Dance Workshop (sliding scale admission)\n6pm: Potluck supper (bring a dish to share)\n7:15pm: Evening dance (sliding scale admission)\n\nNo partner required. Sliding scale admission is $10 and up. Collected funds cover the costs of the venue, sound, musicians, and caller. Your generosity is appreciated."
     links:
+      - "https://www.nashvillecountrydancers.org/midsummer-day-of-english-dance"
       - "https://cdss.org/event/mid-summer-day-of-english-country-dance-in-nashville/"
     start: "2026-06-13T13:30:00-05:00"
     end: "2026-06-13T21:30:00-05:00"
@@ -25652,13 +25654,12 @@ events:
       - Mountain Laurels
     callers:
       - Anna Claire Camp
-      - Emma Rushton
-      - Susan Kevra
-    price: $10
+    price: $10-$25
     organisation: Nashville Country Dancers
-  - name: "2026 Lifetime Contribution Award Celebration: David Millstone"
+  - name: "2026 Lifetime Contribution Award Celebration"
     details: "We’re delighted to invite you to a celebration of David Millstone! \nJoin us for an afternoon of community and English country dancing, the award ceremony, and couples and contra dancing in the evening. \n3:00 p.m. Welcome dance: community dancing for all\n4:00 English country dancing\n5:30 Award ceremony\n6:00 Dinner break\n7:45 Couples dancing\n8:00 Contras and squares\n10:30 Good night! \nThe event has reached capacity. If you still want to attend, you are welcome to complete the registration form and be placed on a waitlist. You can also use the same form to leave David a congratulatory message, even if you are unable to attend. Click here to register or be added to the waitlist. \nA high-quality video recording will be available to view shortly after the event."
     links:
+      - "https://docs.google.com/forms/d/e/1FAIpQLSeLN5QlrB0WNbafcwG3U51fJ6Qa-wgF84o3Be5zaew74cMnNQ/viewform"
       - "https://cdss.org/event/2026-lifetime-contribution-award-celebration-david-millstone/"
     start: "2026-06-13T15:00:00-04:00"
     end: "2026-06-13T22:30:00-04:00"
@@ -25670,8 +25671,7 @@ events:
       - ecd
     workshop: false
     social: true
-    callers:
-      - David Millstone
+    price: donation
     organisation: Country Dance & Song Society
   - name: Dover Monthly English Country Dance
     details: "Monthly English country dance with live music.  Newcomers are always welcome, and each dance is taught with a walk-through before it is danced. \nDress is casual (“regular” clothes) except for special events (Spring and Holiday dances), when attendees may dress in formal/cocktail or 18th century attire. \nAnnual membership for the January – December season is $10. Membership admission for regular monthly dances is $7. \nRegular monthly dance admission for non-members is $10. \nAdmission price may change for special dances. \nTimes and locations may be subject to change. \nLocation: Ehinger Hall, Dover DE\nEhinger Hall (#14 Kings Highway) is located directly at the intersection of Kent Avenue and Division Street / Route 8 For those using GPS, the intersection of Kent Avenue and Division Street works best. Best parking will likely be found on Kent Avenue."
@@ -26339,15 +26339,16 @@ events:
     workshop: true
     social: true
     organisation: Lloyd Shaw Foundation
-  - name: 18th Annual Stellar Days & Nights
+  - name: Stellar Days & Nights
     details: "4-day Music & Dance camp in the Colorado Rockies—with cozy log cabins, chef meals & hot springs. \nMostly Contra, plus English Country. Couples dance, Singing, Workshops, Music jams. \nBuena Vista, CO. Ride shares to/from Denver. \nCallers: Gaye Fifer & Wendy Graham\nMusic by: Supertrad with Sam Bartlett, Eric Schedler, Owen Morrison & Dave Langford"
     links:
+      - "https://rockymountainranchdance.com"
       - "https://cdss.org/event/18th-annual-stellar-days-nights/"
     start: "2027-01-15T15:00:00-07:00"
     end: "2027-01-18T16:00:00-07:00"
     country: USA
-    state: Buena Vista
-    city: 18325 Co Rd 366
+    state: CO
+    city: Buena Vista
     styles:
       - contra
       - ecd
