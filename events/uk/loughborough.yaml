@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Loughborough Folk Dance Club
+    links:
+      - "https://www.lfdc.org.uk/events/"
+    start: "2026-06-08T19:30:00+01:00"
+    end: "2026-06-08T22:00:00+01:00"
+    country: UK
+    city: Loughborough
+    styles:
+      - contra
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Contra-Bit
+    callers:
+      - Malcolm Jowett
+    price: £6
+    organisation: Loughborough Folk Dance Club
