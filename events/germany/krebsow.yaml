@@ -3,11 +3,12 @@ events:
   - name: Musik- und Tanzfest
     links:
       - "https://www.boddenfolk.de/musik-und-tanzfest-2023.html"
-    start: 2023-06-02T17:00:00+02:00
-    end: 2023-06-04T13:00:00+02:00
+    start: "2023-06-02T17:00:00+02:00"
+    end: "2023-06-04T13:00:00+02:00"
     country: Germany
     city: Krebsow
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: true
     social: true
     bands:
@@ -60,8 +61,9 @@ events:
     details: "A smaller festival in the north of Germany, with international bands, various workshops, sessions, pizza and other homemade food, around an old barn and dancing next to wise trees."
     links:
       - "https://boddenfolk.de/category/musik-und-tanzfest/"
+      - "https://www.facebook.com/events/2070299340583499/"
     start: "2026-06-05T16:00:00+02:00"
-    end: "2026-06-07T16:00:00+02:00"
+    end: "2026-06-07T17:00:00+02:00"
     country: Germany
     city: Krebsow
     styles:
