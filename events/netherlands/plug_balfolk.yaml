@@ -5503,34 +5503,21 @@ events:
       - Laouen
       - StatiK
     organisation: Vana Events
-  - name: Workshop Bretonse Dansen
-    details: "Tijdens deze workshop zal Leo Visser een aantal bretonse dansen behandelen welke later op de avond gespeeld zullen worden. De workshop zal begeleid worden door de groep \"Te hooi en te Gras\"\r\nMeer info volgt."
-    links:
-      - "https://www.plug.events/event/workshop-bretonse-dansen"
-    start: "2026-09-19T19:00:00+02:00"
-    end: "2026-09-19T20:30:00+02:00"
-    country: Netherlands
-    city: Zwaag
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    bands:
-      - Leo Visser
-    organisation: Balfolk Hoorn
-  - name: Bal in Zwaag met Mook
+  - name: Breton Dance Workshop & Bal
     details: "Op 19 september zaal Mook optreden in de Plataan in Zwaag. Meer info volgt!\r\nVoorafgaand aan het bal zal er een workshop gegeven worden over Bretonse dansen door Leo Visser:\r\nhttps://www.plug.events/event/workshop-bretonse-dansen"
     links:
       - "https://www.plug.events/event/bal-in-zwaag-met-mook"
-    start: "2026-09-19T20:30:00+02:00"
+      - "https://www.plug.events/event/workshop-bretonse-dansen"
+    start: "2026-09-19T19:00:00+02:00"
     end: "2026-09-19T23:00:00+02:00"
     country: Netherlands
     city: Zwaag
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
+      - Te hooi en te Gras
       - Mook
     organisation: Balfolk Hoorn
   - name: Social Dance in de Mezrab
