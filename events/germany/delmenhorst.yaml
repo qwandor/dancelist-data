@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Balfolk in der VHS
+    links:
+      - "https://www.vhs-delmenhorst.de/kurssuche/kurs/26A8906"
+    start: "2026-06-28T14:30:00+02:00"
+    end: "2026-06-28T17:30:00+02:00"
+    country: Germany
+    city: Delmenhorst
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Akleja
+    price: 16 €
+    organisation: VHS Delmenhorst
