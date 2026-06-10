@@ -26575,11 +26575,12 @@ events:
       - Folk à Donf
     price: free
     organisation: ~
-  - name: Folkbal
+  - name: Bal Folk + Portes Ouvertes
     details: Ball
     links:
       - "https://eledanse.be/event/bal-gabriel-lenoir-2026/"
       - "https://folkbalbende.be/event/4840"
+      - "https://folkbalbende.be/event/4974"
       - "https://www.facebook.com/events/788606630598637"
     start: "2026-06-30T19:00:00+02:00"
     end: "2026-06-30T22:30:00+02:00"
@@ -28134,6 +28135,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/%20nederdans%20-group-dances-in-dutch/1443/"
       - "https://folkbalbende.be/event/4969"
+      - "https://folkbalbende.be/event/4973"
       - "https://www.facebook.com/events/1639512087309094/1639512090642427/"
     start: "2026-09-14T19:00:00+02:00"
     end: "2026-09-14T20:30:00+02:00"
@@ -28149,7 +28151,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-1/1444/"
       - "https://folkbalbende.be/event/4970"
-      - "https://www.facebook.com/events/1013135894982894"
+      - "https://www.facebook.com/events/1013135894982894/1013135988316218/"
     start: "2026-09-15T18:00:00+02:00"
     end: "2026-09-15T19:30:00+02:00"
     country: Belgium
@@ -28158,14 +28160,13 @@ events:
       - balfolk
     workshop: true
     social: false
-    price: donation
     organisation: Frisse Folk Vzw/asbl
   - name: Dance Class Level 2
     details: Course
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-2/1446/"
       - "https://folkbalbende.be/event/4971"
-      - "https://www.facebook.com/events/1013135894982894"
+      - "https://www.facebook.com/events/1013135894982894/1013136024982881/"
     start: "2026-09-16T19:00:00+02:00"
     end: "2026-09-16T20:30:00+02:00"
     country: Belgium
@@ -28174,14 +28175,13 @@ events:
       - balfolk
     workshop: true
     social: false
-    price: donation
     organisation: Frisse Folk Vzw/asbl
   - name: Dance Class Level 8 Challenge
     details: Course
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-8 CHALLENGE/1445/"
       - "https://folkbalbende.be/event/4972"
-      - "https://www.facebook.com/events/1013135894982894"
+      - "https://www.facebook.com/events/1013135894982894/1013135988316218/"
     start: "2026-09-15T19:30:00+02:00"
     end: "2026-09-15T21:00:00+02:00"
     country: Belgium
@@ -28190,43 +28190,7 @@ events:
       - balfolk
     workshop: true
     social: false
-    price: donation
     organisation: Frisse Folk Vzw/asbl
-  - name: "*nederdans: Groepsdansen in het Nederlands"
-    details: Course
-    links:
-      - "https://frissefolk.be/nl/event-nl/*NederDans: Groepsdansen in het Nederlands/1443/"
-      - "https://folkbalbende.be/event/4973"
-      - "https://www.facebook.com/events/1639512087309094"
-    start: "2026-09-14T19:00:00+02:00"
-    end: "2026-09-14T20:30:00+02:00"
-    country: Belgium
-    city: Brussels
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: donation
-    organisation: Frisse Folk Vzw/asbl
-  - name: Bal Folk + Portes Ouvertes Elédanse
-    details: Ball
-    links:
-      - "https://eledanse.be/event/bal-gabriel-lenoir-2026/"
-      - "https://www.facebook.com/events/788606630598637"
-      - "https://folkbalbende.be/event/4974"
-      - "https://www.facebook.com/events/788606630598637"
-    start: "2026-06-30T19:00:00+02:00"
-    end: "2026-06-30T22:30:00+02:00"
-    country: Belgium
-    city: Genval
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Gabriel Lenoir
-    price: €10
-    organisation: EléDanse ASBL
   - name: Portes Ouvertes Elédanse
     details: Ball
     links:
@@ -28240,15 +28204,16 @@ events:
     styles:
       - balfolk
     workshop: true
-    social: true
+    social: false
+    price: free
     organisation: EléDanse ASBL
   - name: Formation Méthode Cressens - 5 Weekends
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/Formation méthode Cressens - 5 weekends/1463/"
+      - "https://frissefolk.be/en/event-en/formation-m%C3%A9thode-cressens-5-weekends/1463/"
       - "https://folkbalbende.be/event/4976"
-    start_date: 2026-10-31
-    end_date: 2026-10-31
+    start: "2026-10-31T13:15:00+01:00"
+    end: "2026-11-01T16:30:00+01:00"
     country: Belgium
     city: Brussels
     styles:
@@ -28271,6 +28236,6 @@ events:
     workshop: false
     social: true
     bands:
-      - "Tout L'barda"
+      - "Tout L'Barda"
     price: €12-€15
     organisation: EléDanse ASBL

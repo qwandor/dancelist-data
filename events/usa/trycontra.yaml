@@ -4740,14 +4740,15 @@ events:
   - name: Lake Eden Reunion
     links:
       - "https://lakeedenretreat.com/reunion/"
-    start_date: 2026-10-16
-    end_date: 2026-10-18
+      - "https://www.facebook.com/events/1686813392354272/"
+    start: "2026-10-16T10:00:00-04:00"
+    end: "2026-10-18T18:00:00-04:00"
     country: USA
     state: NC
     city: Black Mountain
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     bands:
       - Dawn Chorus
@@ -4801,6 +4802,7 @@ events:
     callers:
       - Christa Torrens
       - Isaac Banner
+    price: $125-$475
     organisation: TryContra
   - name: Foggy Moon Dance Weekend
     links:
@@ -4817,7 +4819,6 @@ events:
     bands:
       - Playing with Fyre
       - Topspin
-      - Playing with Fyre
     callers:
       - Gaye Fifer
       - Isaac Banner
@@ -5091,7 +5092,7 @@ events:
     social: true
     callers:
       - Isaac Banner
-    organisation: TryContra
+    organisation: Sleepy Sun Studios
   - name: Pigtown Fling
     links:
       - "https://www.cincinnaticontradance.org/"
@@ -5124,7 +5125,7 @@ events:
     callers:
       - Lisa Greenleaf
       - Will Mentor
-    organisation: TryContra
+    organisation: Folklore Society of Greater Washington
   - name: Epicenter
     links:
       - "https://nbcds.org/epicenter-2026/"
@@ -5169,11 +5170,11 @@ events:
   - name: Star Through Seattle
     links:
       - "http://starthroughseattle.dance/"
-    start_date: 0027-09-24
+    start_date: 2027-09-24
     end_date: 2027-09-26
     country: USA
     state: WA
-    city: "Seattle,"
+    city: Seattle
     styles:
       - contra
     workshop: true
