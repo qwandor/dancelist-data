@@ -23711,6 +23711,7 @@ events:
     social: false
     price: donation
     organisation: Folk In Limburg
+    cancelled: true
   - name: Lessenreeks Beginners
     details: Course
     links:
@@ -28190,6 +28191,7 @@ events:
     links:
       - "https://eledanse.be/event/portes-ouvertes-sept26/"
       - "https://folkbalbende.be/event/4975"
+      - "https://folkbalbende.be/event/4980"
       - "https://www.facebook.com/events/2095912917941109/"
     start: "2026-09-15T19:00:00+02:00"
     end: "2026-09-15T22:15:00+02:00"
@@ -28233,21 +28235,7 @@ events:
       - "Tout L'Barda"
     price: €12-€15
     organisation: EléDanse ASBL
-  - name: "Danslessen Elédanse (beginners, Half- en Gevorderden)"
-    details: Course
-    links:
-      - "https://eledanse.be/cours-hebdo/"
-      - "https://folkbalbende.be/event/4980"
-    start: "2026-09-15T19:00:00+02:00"
-    end: "2026-09-15T22:15:00+02:00"
-    country: Belgium
-    city: Genval
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    organisation: EléDanse ASBL
-  - name: "Danslessen Elédanse (beginners, Half- en Gevorderden)"
+  - name: "Danslessen Elédanse"
     details: Course
     links:
       - "https://eledanse.be/cours-hebdo/"
@@ -28261,33 +28249,21 @@ events:
     workshop: true
     social: false
     organisation: EléDanse ASBL
-  - name: Stage Variations pour Scottish
+  - name: Workshop weekend
     details: Course
     links:
       - "https://eledanse.be/we-2610/"
       - "https://folkbalbende.be/event/4981"
-    start: "2026-10-03T10:30:00+02:00"
-    end: "2026-10-03T13:30:00+02:00"
-    country: Belgium
-    city: Genval
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: €1-€20
-    organisation: EléDanse ASBL
-  - name: Stage Valse et Variations
-    details: Course
-    links:
-      - "https://eledanse.be/we-2610/"
       - "https://folkbalbende.be/event/4982"
-    start: "2026-10-03T14:45:00+02:00"
-    end: "2026-10-03T17:45:00+02:00"
+    start: "2026-10-03T10:15:00+02:00"
+    end: "2026-10-04T17:30:00+02:00"
     country: Belgium
     city: Genval
     styles:
       - balfolk
     workshop: true
-    social: false
-    price: €1-€20
+    social: true
+    bands:
+      - Airboxes
+    price: €50-€70
     organisation: EléDanse ASBL
