@@ -1562,7 +1562,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo Mackie-Hendrix
+      - Duo Mackie - Hendrix
       - Siger
     price: €10-€15
     organisation: ~
@@ -1718,7 +1718,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Nisia Trio
+      - Nisia
       - A Contrabanda
       - Fiston
     organisation: Frisse Folk Vzw/asbl
@@ -2260,7 +2260,7 @@ events:
     social: true
     bands:
       - Tribal Folk
-      - Duo Simon Laffineur & Michel Jacqmain
+      - Duo Simon Laffineur - Michel Jacqmain
     organisation: Folknam Musique Trad
   - name: Bal au Cinex
     details: Ball
@@ -3687,7 +3687,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo Pilartz-Gielen
+      - Duo Pilartz - Gielen
       - Cardboard Cabin
     price: €12-€42
     organisation: ComSiBal
@@ -6288,7 +6288,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Duo Macke-Bornauw
+      - Duo Macke - Bornauw
     organisation: ~
   - name: Bal Experience
     details: Ball
@@ -6593,7 +6593,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Nisia Trio
+      - Nisia
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -9093,7 +9093,22 @@ events:
     start: 2023-09-01T16:00:00+02:00
     end: 2023-09-03T12:00:00+02:00
     country: Belgium
-    city: Leuven
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo De Schepper - Sanczuk
+    organisation: ~
+  - name: Stage Werelddans
+    details: Course
+    links:
+      - "https://folkbalbende.be/event/1696"
+    start: "2023-04-15T14:30:00+02:00"
+    end: "2023-04-15T17:30:00+02:00"
+    country: Belgium
+    city: Bruges
     styles:
       - balfolk
     workshop: true
@@ -9319,7 +9334,7 @@ events:
     social: true
     bands:
       - Nebel
-      - Folkband Academie Aalter
+      - Folkklas Academie Aalter
       - Folkband De Kade Deinze
     price: €10
     organisation: "100%Folkoren"
@@ -9673,6 +9688,7 @@ events:
       - Noiranomis
       - Jérémie Congrega
     price: €20
+
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -10328,7 +10344,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo Gambetta Caputo
+      - Duo Gambetta - Caputo
     price: €11
     organisation: Balhalla
   - name: Folkbal
@@ -10695,7 +10711,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Duo Gambetta Caputo
+      - Duo Gambetta - Caputo
     price: €12
     organisation: Folkfestival Ham
   - name: Folkdansles Schoten
@@ -10873,7 +10889,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo Niepold-Cutting
+      - Duo Niepold - Cutting
     price: €14-€23
     organisation: Frisse Folk Vzw/asbl
   - name: Interactive Folkdance Workshop
@@ -11522,7 +11538,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo Brotto-Milleret
+      - Duo Brotto - Milleret
     price: €14-€25
     organisation: Frisse Folk Vzw/asbl
   - name: Practica at the Pianofabriek
@@ -11624,7 +11640,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Duo Macke-Bornauw
+      - Duo Macke - Bornauw
     organisation: Gooik Cultuurmaand
   - name: Bal Folk RZF
     details: Ball
@@ -12573,7 +12589,7 @@ events:
     social: true
     bands:
       - Hartwin Dhoore Trio
-      - Nisia Trio
+      - Nisia
     price: €17-€67
     organisation: Frisse Folk Vzw/asbl
   - name: Practica at the Pianofabriek
@@ -14334,7 +14350,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo Mackie-Hendrix
+      - Duo Mackie - Hendrix
     organisation: Balhalla
   - name: Balhalla
     details: Ball
@@ -14932,7 +14948,7 @@ events:
     workshop: true
     social: true
     bands:
-      - "3...4"
+      - 3...4
       - Stoemp
     organisation: ~
   - name: Teyrrasfolk
@@ -18037,7 +18053,7 @@ events:
     social: true
     bands:
       - Feather and Fox
-      - Nisia Trio
+      - Nisia
     price: €18
     organisation: "Kasteel D'Ursel"
   - name: Winterdans Balfolk
@@ -20146,7 +20162,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Griff Trio
+      - Griff
     organisation: ~
   - name: Bal Experience + Workshop
     details: Ball
@@ -21073,7 +21089,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Duo Mackie-Hendrix
+      - Duo Mackie - Hendrix
       - Pantonim
     price: €15-€18
     organisation: "Muziekclub 't Ey"
@@ -22638,7 +22654,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo Brotto-Milleret
+      - Duo Brotto - Milleret
       - Duo Clercx
     price: €14-€26
     organisation: Frisse Folk Vzw/asbl
@@ -24159,19 +24175,23 @@ events:
       - Feather and Fox
     price: €15-€24
     organisation: Frisse Folk Vzw/asbl
-  - name: Bal@Mechelen
+  - name: Bal@mechelen - Naragonia Quartet + Duo Hilde & Syn
     details: Ball
     links:
       - "https://folkbalbende.be/event/3573"
-    start: "2026-11-14T20:00:00+01:00"
-    end: "2026-11-14T21:30:00+01:00"
+    start: "2026-11-14T19:30:00+01:00"
+    end: "2026-11-15T00:00:00+01:00"
     country: Belgium
     city: Mechelen
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
-    organisation: ~
+    bands:
+      - Duo Hilde - Syn
+      - Naragonia Quartet
+    price: €15-€23
+    organisation: Frisse Folk Vzw/asbl
   - name: Valentine's Bal
     details: Ball
     links:
@@ -24400,7 +24420,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo Blain-Leyzour
+      - Duo Blain - Leyzour
       - Bellowing Bellows
     price: €8-€41
     organisation: "Rif Zans L'Fiesse"
@@ -25138,7 +25158,7 @@ events:
       - Samenspel Bal
       - Friar
     organisation: ~
-  - name: Bal De La Cabane Du Bout Du Monde
+  - name: Bal de la Cabane du Bout du Monde
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
@@ -25622,15 +25642,19 @@ events:
     details: Ball
     links:
       - "https://boombal.be"
+      - "https://www.event-tickets.be/Event/KmchTie8h4G1ZkUb9dzEThHYG47e5hZJF19LetgU"
       - "https://folkbalbende.be/event/4362"
     start: "2026-11-06T20:00:00+01:00"
-    end: "2026-11-06T23:00:00+01:00"
+    end: "2026-11-06T22:45:00+01:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Variomatic
+      - Duo Mobilette
     organisation: Boombal
   - name: Kerstboombal
     details: Ball
@@ -25646,47 +25670,59 @@ events:
     workshop: false
     social: true
     organisation: Boombal
-  - name: Groot Boombal
+  - name: Krokusboombal
     details: Ball
     links:
       - "https://boombal.be"
+      - "https://www.event-tickets.be/Event/3D1ugjATW4zLST1VTJVhqDesnRm5wEbEMr5zXdqB"
       - "https://folkbalbende.be/event/4365"
     start: "2027-02-05T20:00:00+01:00"
-    end: "2027-02-05T23:00:00+01:00"
+    end: "2027-02-05T22:45:00+01:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Cardboard Cabin
+      - Duo Clercx
     organisation: Boombal
   - name: Paasboombal
     details: Ball
     links:
       - "https://boombal.be"
+      - "https://www.event-tickets.be/Event/zGgLpJQchinTTYVA9muiRhRTAqC8Sqv74NEPhLjk"
       - "https://folkbalbende.be/event/4366"
     start: "2027-04-16T20:00:00+02:00"
-    end: "2027-04-16T23:00:00+02:00"
+    end: "2027-04-16T22:45:00+02:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Rémi Geoffroy
+      - Duo Montanaro/cavez
     organisation: Boombal
   - name: Groot Boombal
     details: Ball
     links:
       - "https://boombal.be"
+      - "https://www.event-tickets.be/Event/5LfX7dA3BWCHQx5TudxMLCfXjtACk4z3qWmp1ekg"
       - "https://folkbalbende.be/event/4367"
     start: "2027-05-29T20:00:00+02:00"
-    end: "2027-05-29T23:00:00+02:00"
+    end: "2027-05-29T22:45:00+02:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Balalacarte
+      - "De Centrale, Ham 70 - 9000 Gent"
     organisation: Boombal
   - name: Pelikaanbal
     details: Ball
@@ -25988,7 +26024,7 @@ events:
     workshop: true
     social: true
     bands:
-      - E Saquant Beyaus
+      - E Saquant Bèyaus
     price: €10-€30
     organisation: "Pas d'La Yau"
   - name: Folkbal
@@ -26115,7 +26151,7 @@ events:
     social: true
     bands:
       - De Folkies
-      - "Cor D'air"
+      - "Cord'air"
     organisation: KATZ
   - name: Teyrrasfolk
     details: Ball
@@ -26384,7 +26420,7 @@ events:
     social: true
     bands:
       - Les Kickeuses
-      - Stoemp!
+      - Stoemp
     price: donation
     organisation: Folknam Musique Trad
   - name: Folkbal
@@ -26478,6 +26514,7 @@ events:
     links:
       - "https://www.canardfolk.be/agenda/"
       - "https://folkbalbende.be/event/4831"
+      - "https://www.facebook.com/events/869261706254222"
     start: "2026-06-19T20:30:00+02:00"
     end: "2026-06-19T23:30:00+02:00"
     country: Belgium
@@ -26575,25 +26612,6 @@ events:
       - Folk à Donf
     price: free
     organisation: ~
-  - name: Bal Folk + Portes Ouvertes
-    details: Ball
-    links:
-      - "https://eledanse.be/event/bal-gabriel-lenoir-2026/"
-      - "https://folkbalbende.be/event/4840"
-      - "https://folkbalbende.be/event/4974"
-      - "https://www.facebook.com/events/788606630598637"
-    start: "2026-06-30T19:00:00+02:00"
-    end: "2026-06-30T22:30:00+02:00"
-    country: Belgium
-    city: Genval
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Gabriel Lenoir
-    price: €15
-    organisation: EléDanse ASBL
   - name: Folkbal
     details: Ball
     links:
@@ -26628,7 +26646,7 @@ events:
     bands:
       - La Marmite Folk
     organisation: ~
-  - name: Fête Des Habitants De LLN
+  - name: Fête des Habitants de Lln
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda/"
@@ -26672,6 +26690,7 @@ events:
     links:
       - "https://www.canardfolk.be/agenda/"
       - "https://folkbalbende.be/event/4845"
+      - "https://www.facebook.com/events/1019036860461589"
     start: "2026-08-01T17:00:00+02:00"
     end: "2026-08-01T20:00:00+02:00"
     country: Belgium
@@ -27156,7 +27175,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Glaneurs De Sons
+      - Glaneurs de Sons
     price: free
     organisation: ~
   - name: Le Bal des Possibles
@@ -27356,7 +27375,7 @@ events:
       - "L'évidence Des Nuages"
     price: free
     organisation: ~
-  - name: 19e Nuit Du Trad
+  - name: 19e Nuit du Trad
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda/"
@@ -27403,7 +27422,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Folk En Stock
+      - Folk en Stock
     price: free
     organisation: ~
   - name: Le Bal des Possibles
@@ -27572,7 +27591,7 @@ events:
       - Naragonia
     price: €7-€12
     organisation: ~
-  - name: Bal De La Cabane Du Bout Du Monde
+  - name: Bal de la Cabane du Bout du Monde
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/BALS.htm"
@@ -27589,7 +27608,7 @@ events:
       - Solia
     price: €7-€12
     organisation: ~
-  - name: Bal De La Cabane Du Bout Du Monde
+  - name: Bal de la Cabane du Bout du Monde
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/BALS.htm"
@@ -27730,7 +27749,7 @@ events:
     bands:
       - Bellowing Bellows
     organisation: ~
-  - name: Fête De La Musique
+  - name: Fête de la Musique
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda/"
@@ -27744,6 +27763,8 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Balbuzar
     price: free
     organisation: ~
   - name: BalAFolk
@@ -28191,6 +28212,24 @@ events:
     workshop: true
     social: false
     organisation: Frisse Folk Vzw/asbl
+  - name: Bal Folk + Portes Ouvertes
+    details: Ball
+    links:
+      - "https://eledanse.be/event/bal-gabriel-lenoir-2026/"
+      - "https://folkbalbende.be/event/4974"
+      - "https://www.facebook.com/events/788606630598637"
+    start: "2026-06-30T19:00:00+02:00"
+    end: "2026-06-30T22:30:00+02:00"
+    country: Belgium
+    city: Genval
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Gabriel Lenoir
+    price: €15
+    organisation: EléDanse ASBL
   - name: Portes Ouvertes Elédanse
     details: Ball
     links:
@@ -28261,6 +28300,7 @@ events:
       - "https://eledanse.be/we-2610/"
       - "https://folkbalbende.be/event/4981"
       - "https://folkbalbende.be/event/4982"
+      - "https://folkbalbende.be/event/4983"
       - "https://folkbalbende.be/event/4984"
     start: "2026-10-03T10:15:00+02:00"
     end: "2026-10-04T17:30:00+02:00"
@@ -28274,3 +28314,289 @@ events:
       - Airboxes
     price: €50-€70
     organisation: EléDanse ASBL
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://tey.be/programma/2026/10/30/cardboard-cabin"
+      - "https://folkbalbende.be/event/4986"
+    start_date: 2026-10-30
+    end_date: 2026-10-30
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Cardboard Cabin
+    price: €15-€18
+    organisation: "'t Ey"
+  - name: Boombal
+    details: Ball
+    links:
+      - "https://www.boombal.be/agenda2.php"
+      - "https://theateraanzee.be//"
+      - "https://www.facebook.com/Entredeuxmusic"
+      - "https://folkbalbende.be/event/4987"
+    start: "2026-08-06T19:30:00+02:00"
+    end: "2026-08-06T20:15:00+02:00"
+    country: Belgium
+    city: Oostende
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - ":"
+    organisation: Boombal
+  - name: Start Danslessen op Woensdag
+    details: Ball
+    links:
+      - "https://www.boombal.be/agenda2.php"
+      - "https://boombal.be/danslessen.html"
+      - "https://boombal.be/danslessen.html"
+      - "https://folkbalbende.be/event/4988"
+    start: "2026-10-07T19:00:00+02:00"
+    end: "2026-10-07T20:15:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - ": Beginners @ Hoveniersberg - Gent"
+      - ": Folkaholics @ Danspunt - Gent"
+      - ": Halfgevorderden @ Hoveniersberg - Gent"
+    organisation: Boombal
+  - name: Start Danslessen op Zondag
+    details: Ball
+    links:
+      - "https://www.boombal.be/agenda2.php"
+      - "https://boombal.be/danslessen.html"
+      - "https://boombal.be/danslessen.html"
+      - "https://folkbalbende.be/event/4989"
+    start: "2026-10-11T17:00:00+02:00"
+    end: "2026-10-11T20:00:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - ": Gevorderden @ Danspunt - Gent"
+      - ": Halfgevorderden @ Danspunt - Gent"
+      - ": Beginners @ Danspunt - Gent"
+    organisation: Boombal
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://folkbalbende.be/event/4990"
+    start_date: 2026-06-25
+    end_date: 2026-06-25
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Naragonia
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://www.leladuhautbois.be/"
+      - "https://folkbalbende.be/event/4991"
+    start_date: 2026-07-04
+    end_date: 2026-07-04
+    country: Belgium
+    city: Mons
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Balbelutte
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://soignieslesbains.be/"
+      - "https://folkbalbende.be/event/4992"
+    start_date: 2026-07-10
+    end_date: 2026-07-10
+    country: Belgium
+    city: Soignies
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Balbelutte
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://folkbalbende.be/event/4993"
+    start_date: 2026-07-11
+    end_date: 2026-07-11
+    country: Belgium
+    city: Malmedy
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://folkbalbende.be/event/4994"
+    start_date: 2026-08-15
+    end_date: 2026-08-15
+    country: Belgium
+    city: Malmedy
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://eledanse.be"
+      - "https://folkbalbende.be/event/4995"
+    start_date: 2026-12-06
+    end_date: 2026-12-06
+    country: Belgium
+    city: Genval
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: EléDanse ASBL
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://www.namuririshmusicfestival.be"
+      - "https://folkbalbende.be/event/4996"
+      - "https://www.facebook.com/events/1448370563726497"
+    start_date: 2027-05-07
+    end_date: 2027-05-07
+    country: Belgium
+    city: Namur
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://www.namuririshmusicfestival.be"
+      - "https://folkbalbende.be/event/4996"
+      - "https://www.facebook.com/events/1448370563726497"
+    start_date: 2027-05-08
+    end_date: 2027-05-08
+    country: Belgium
+    city: Namur
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://www.namuririshmusicfestival.be"
+      - "https://folkbalbende.be/event/4996"
+      - "https://www.facebook.com/events/1448370563726497"
+    start_date: 2027-05-09
+    end_date: 2027-05-09
+    country: Belgium
+    city: Namur
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Bal Congé
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/BALS.htm"
+      - "https://folkbalbende.be/event/4997"
+    start_date: 2026-07-01
+    end_date: 2026-07-01
+    country: Belgium
+    city: Bissegem
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - De Muziektafel
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/BALS.htm"
+      - "https://www.fermedescoquelicots.be/les-guinguettes/"
+      - "https://folkbalbende.be/event/4998"
+    start_date: 2026-07-04
+    end_date: 2026-07-04
+    country: Belgium
+    city: Ere
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Macke - Bornauw
+    organisation: ~
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/BALS.htm"
+      - "http://www.tey.be/"
+      - "https://folkbalbende.be/event/4999"
+    start_date: 2026-07-09
+    end_date: 2026-07-09
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Roots Bal Sjanté
+    organisation: "Muziekclub 't Ey"
+  - name: Bal Experience
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/BALS.htm"
+      - "https://nouter.be/club"
+      - "https://www.facebook.com/NouterClub"
+      - "https://zamoraprod.com/en/artists/le-mange-bal"
+      - "https://folkbalbende.be/event/5000"
+    start_date: 2026-12-05
+    end_date: 2026-12-05
+    country: Belgium
+    city: Dranouter
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Dé Academie Ieper
+      - Le Mange Bal
+    organisation: ~
