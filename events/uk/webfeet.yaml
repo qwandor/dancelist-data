@@ -1,35 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "Granny's Attic in Chandler's Ford"
-    links:
-      - "http://www.shocc.co.uk/"
-    start_date: 2026-03-21
-    end_date: 2026-03-21
-    country: UK
-    city: "Chandler's Ford"
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Granny's Attic"
-    callers:
-      - Jane Bird
-    organisation: Webfeet
-  - name: Catsfield Steamers in Eastbourne
-    links:
-      - "http://catsfieldsteamers.co.uk/index.php/bookings/"
-    start_date: 2026-03-21
-    end_date: 2026-03-21
-    country: UK
-    city: Eastbourne
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Catsfield Steamers
-    organisation: Webfeet
   - name: Arish Mel in Kimmeridge
     links:
       - "http://www.earwicker.org/about_arish_mel.htm"
@@ -417,7 +387,6 @@ events:
     organisation: Webfeet
   - name: Topette!! in Stroud
     links:
-      - "https://balfolkstroud.uk/cps/gigs/topette-f7f34b.php"
       - "http://mister.red/dance/stroud.htm#D.AR.20260613"
     start_date: 2026-06-13
     end_date: 2026-06-13
@@ -1028,6 +997,22 @@ events:
     social: true
     bands:
       - Whapweasel
+    organisation: Webfeet
+  - name: Monster Ceilidh Band in Grove
+    links:
+      - "https://www.areyoudancing.com/dance-event/807856/"
+    start_date: 2026-08-15
+    end_date: 2026-08-15
+    country: UK
+    city: Grove
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Monster Ceilidh Band
+    callers:
+      - Annie Bolt
     organisation: Webfeet
   - name: Dave Byett in Pucklechurch
     links:
