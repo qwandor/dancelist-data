@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Summer ceilidh
+  - name: Summer Ceilidh
     links:
-      - "https://www.facebook.com/events/975491638693497"
+      - "https://www.facebook.com/events/975491638693497/"
       - "https://the-caledonian-society-of-france.assoconnect.com/collect/description/719240-w-2026-summer-ceilidh-with-the-caledonian-society-of-france"
     start: "2026-07-05T15:00:00+02:00"
     end: "2026-07-05T18:00:00+02:00"
@@ -10,10 +10,12 @@ events:
     city: Paris
     styles:
       - s-ceilidh
-    workshop: true
+    workshop: false
     social: true
     bands:
-      - Caroline Mège and Victor Lanvin
-      - Mathias Ferber and Violaine Eysseric
-    price: "15 EUR, 10 EUR members, 0 EUR <18"
+      - Caroline Mège & Victor Lanvin
+    callers:
+      - Mathias Ferber
+      - Violaine Eysseric
+    price: €10-€17
     organisation: The Caledonian Society Of France
