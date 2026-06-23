@@ -3,26 +3,44 @@ events:
   - name: Bal Folk im Mai
     links:
       - "https://www.facebook.com/events/780145789659271/"
-    start: 2022-05-28T20:00:00+02:00
-    end: 2022-05-29T00:00:00+02:00
+    start: "2022-05-28T20:00:00+02:00"
+    end: "2022-05-29T00:00:00+02:00"
     country: Germany
     city: Munich
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     price: €4-€6
     organisation: Bal Folk in München
-
   - name: Bal Folks Tanz
     links:
       - "https://www.facebook.com/events/356477273007977/"
       - "https://eveeno.com/312180677"
-    start: 2022-07-02T20:30:00+02:00
-    end: 2022-07-03T00:00:00+02:00
+    start: "2022-07-02T20:30:00+02:00"
+    end: "2022-07-03T00:00:00+02:00"
     country: Germany
     city: Munich
-    styles: [balfolk]
+    styles:
+      - balfolk
     workshop: false
     social: true
     price: €12
+    organisation: Trad & Bordun
+  - name: Munich Trad & Bordun
+    details: "Dance workshop, instrumental workshops, ball."
+    links:
+      - "https://bordun.de/trad-bordun-2026-anmeldung/"
+    start: "2026-10-16T17:00:00+02:00"
+    end: "2026-10-18T13:00:00+02:00"
+    country: Germany
+    city: Munich
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Cecilia
+      - Niederbayrischer Musikantenstammtisch
+    price: €150
     organisation: Trad & Bordun
