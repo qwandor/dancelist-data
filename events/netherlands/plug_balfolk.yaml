@@ -5684,6 +5684,7 @@ events:
     workshop: true
     social: true
     bands:
+      - e = m(T²)
       - Feather and Fox
     price: €20-€30
     organisation: Balfolk Amsterdam
@@ -5893,19 +5894,6 @@ events:
     social: true
     price: €5
     organisation: Balfolk Zeist
-  - name: "Samenspel over balfolkmuziek en cursus trekharmonica, draailier & doedelzak voor beginnende spelers"
-    details: "Van november tot en met mei komen spelers uit het hele land één zaterdag per maand in Zeist bij elkaar om zich te verdiepen in muziek. De lessen duren een hele middag, zodat de les het reizen ook echt waard is.\r\n\r\nEr een samenspelgroep (voor alle instrumenten) die zich gaan verdiepen in het improviseren op balfolkmuziek. Ook zijn er twee cursussen voor trekharmonica en enkele workshops voor draailier en doedelzak. \r\n\r\nGeen instrument? Die hebben ze te huur.\r\n\r\nKijk op de site voor meer informatie & inschrijven\r\nhttps://draailier-doedelzak.nl/cursussen-workshops/zaterdagcursus/"
-    links:
-      - "https://www.plug.events/event/samenspel-over-balfolkmuziek-en-cursus-tre416"
-    start: "2026-11-14T13:00:00+01:00"
-    end: "2026-11-14T17:00:00+01:00"
-    country: Netherlands
-    city: Zeist
-    styles:
-      - balfolk
-    workshop: false
-    social: false
-    organisation: Stichting Draailier & Doedelzak
   - name: Social Dance in de Mezrab
     details: "De Mezrab host iedere derde zondag van de maand het leukste balfolkfeestje van Amsterdam. Deze maand maken we er een knotsgekke feestje van met liedjes om te dansen en liedjes om mee te zingen, verzorgd door Zephyr Combo en Duo Baftig!"
     links:
@@ -5922,16 +5910,17 @@ events:
       - Duo Baftig
       - Zéphyr Combo
     organisation: Balfolk Amsterdam
-  - name: Workshop Polska (1 en 2) door Wim en Jeannette
+  - name: Polska Workshop 1
     details: "Je hebt al wat Balfolklessen gevolgd en kent de basis. Nu wil je dieper duiken. Speciaal voor jou hebben we dit voorjaar een serie van vijf workshops voor gevorderde dansers.\r\n\r\nIn deze serie zijn de workshops Polska 1 en 2 door Wim Scherpenzeel en Jeannette Snier.\r\n\r\nJe kunt Polska 2 alleen volgen als je ook Polska 1 gevolgd hebt. Daarom zijn ze samen te boeken.\r\n\r\nReserveren mogelijk vanaf 6 augustus."
     links:
+      - "https://balfolkamsterdam.nl/workshop-polska-1-en-2-door-wim-en-jeannette"
       - "https://www.plug.events/event/workshop-polska-1-en-2-door-wim-en-jeannet429"
     start: "2026-11-16T19:30:00+01:00"
-    end: "2026-11-16T21:45:00+01:00"
+    end: "2026-11-16T22:00:00+01:00"
     country: Netherlands
-    city: Amsterdam-Duivendrecht
+    city: Amsterdam
     styles:
-      - balfolk
+      - scandi
     workshop: true
     social: false
     price: €25
@@ -5940,13 +5929,14 @@ events:
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
       - "https://www.plug.events/event/dansavond3124"
+      - "https://www.balfolk.nl/agenda/dansavond-2026-11-17/"
     start: "2026-11-17T19:30:00+01:00"
     end: "2026-11-17T22:30:00+01:00"
     country: Netherlands
     city: Zeist
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     price: €5
     organisation: Balfolk Zeist
@@ -5967,25 +5957,12 @@ events:
       - Androneda
     price: €10
     organisation: Stichting Bijzondere Folkprojecten
-  - name: Balfolk Utrecht – Workshop Muzikaliteit met Saskia Sportel (NL)
-    details: "Voor meer informatie, bekijk het volledige evenement op: https://www.balfolk.nl/agenda/balfolk-utrecht-bal-met-duo-de-schepper-sanczuk-be-en-bamako-express-be-ml/\r\n\r\nFor more information, look at the full event at: https://www.balfolk.nl/agenda/balfolk-utrecht-bal-met-duo-de-schepper-sanczuk-be-en-bamako-express-be-ml/"
-    links:
-      - "https://www.plug.events/event/balfolk-utrecht-workshop-muzikaliteit-met-155"
-    start: "2026-11-22T12:30:00+01:00"
-    end: "2026-11-22T15:30:00+01:00"
-    country: Netherlands
-    city: Utrecht
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: €15-€50
-    organisation: Balfolk Utrecht
   - name: Balfolk Utrecht
     details: "For more information, look at the full event at: https://www.balfolk.nl/agenda/balfolk-utrecht-bal-met-duo-de-schepper-sanczuk-be-en-bamako-express-be-ml/"
     links:
       - "https://www.balfolk.nl/agenda/balfolk-utrecht-bal-met-duo-de-schepper-sanczuk-be-en-bamako-express-be-ml/"
       - "https://www.plug.events/event/balfolk-utrecht-bal-met-duo-de-schepper-sanczuk-be"
+      - "https://www.plug.events/event/balfolk-utrecht-workshop-muzikaliteit-met-155"
     start: "2026-11-22T12:30:00+01:00"
     end: "2026-11-22T21:45:00+01:00"
     country: Netherlands
@@ -6003,13 +5980,14 @@ events:
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
       - "https://www.plug.events/event/dansavond863"
+      - "https://www.balfolk.nl/agenda/dansavond-2026-11-24/"
     start: "2026-11-24T19:30:00+01:00"
     end: "2026-11-24T22:30:00+01:00"
     country: Netherlands
     city: Zeist
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     price: €5
     organisation: Balfolk Zeist
@@ -6029,17 +6007,33 @@ events:
       - MD&A
     price: €10-€20
     organisation: Folk Inferno
+  - name: Polska Workshop 2
+    details: "Je hebt al wat Balfolklessen gevolgd en kent de basis. Nu wil je dieper duiken. Speciaal voor jou hebben we dit voorjaar een serie van vijf workshops voor gevorderde dansers.\r\n\r\nIn deze serie zijn de workshops Polska 1 en 2 door Wim Scherpenzeel en Jeannette Snier.\r\n\r\nJe kunt Polska 2 alleen volgen als je ook Polska 1 gevolgd hebt. Daarom zijn ze samen te boeken.\r\n\r\nReserveren mogelijk vanaf 6 augustus."
+    links:
+      - "https://balfolkamsterdam.nl/workshop-polska-1-en-2-door-wim-en-jeannette"
+      - "https://www.plug.events/event/workshop-polska-1-en-2-door-wim-en-jeannet429"
+    start: "2026-11-30T19:30:00+01:00"
+    end: "2026-11-30T22:00:00+01:00"
+    country: Netherlands
+    city: Amsterdam
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: €25
+    organisation: Balfolk Amsterdam
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
       - "https://www.plug.events/event/dansavond596"
+      - "https://www.balfolk.nl/agenda/dansavond-2026-12-01/"
     start: "2026-12-01T19:30:00+01:00"
     end: "2026-12-01T22:30:00+01:00"
     country: Netherlands
     city: Zeist
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     price: €5
     organisation: Balfolk Zeist
@@ -6047,13 +6041,14 @@ events:
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
       - "https://www.plug.events/event/dansavond2112"
+      - "https://www.balfolk.nl/agenda/dansavond-2026-12-08/"
     start: "2026-12-08T19:30:00+01:00"
     end: "2026-12-08T22:30:00+01:00"
     country: Netherlands
     city: Zeist
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     price: €5
     organisation: Balfolk Zeist
