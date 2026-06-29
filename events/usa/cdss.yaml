@@ -29412,15 +29412,16 @@ events:
     links:
       - "https://tampabaycontra.com/"
       - "https://cdss.org/event/tfootd-contra-dance/2026-07-11/"
-    start: "2026-07-11T19:30:00-04:00"
+    start: "2026-07-11T19:00:00-04:00"
     end: "2026-07-11T22:30:00-04:00"
     country: USA
     state: FL
     city: St. Petersburg
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $5-$10
     organisation: Tampa Friends of Old Time Dance
   - name: Princeton English Country Dance
     details: "English Country Dance every 2nd Saturday (except November and December), 7:30-10:30."
@@ -29436,20 +29437,26 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: Saturday Contra in Cincinnati
     details: "Cincinnati Contra Dance Local dancing at the Wyoming Arts Center\nOnce a month, on the second Saturday, dancing runs from 7:30 pm to 10:30 pm \nFree Intro Class at 7:00 pm \n$10"
     links:
+      - "https://www.cincinnaticontradance.org/dance-schedule"
       - "https://cdss.org/event/saturday-contra-in-cincinnati/2026-07-11/"
-    start: "2026-07-11T19:30:00-04:00"
+    start: "2026-07-11T19:00:00-04:00"
     end: "2026-07-11T22:30:00-04:00"
     country: USA
     state: OH
     city: Wyoming
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Gilgamesh
+    callers:
+      - Greer Hannan
     price: $10
     organisation: Cincinnati Contra Dance
   - name: Scissortail Contra Dance
@@ -29482,8 +29489,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Flour City Doughboys
     callers:
-      - Beau Farmer
+      - Christine Merryman
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: 2nd Saturdays Contra Dance
@@ -29502,29 +29511,34 @@ events:
     social: true
     price: $6-$20
     organisation: Portland Country Dance Community
-  - name: Contra Dance With Cambia
+  - name: Contra Dance
     details: "Join us for a Contra Dance at Woodlawn Elementary School in Lawrence, Kansas. \nMusic by Cambia and The Lost Keys \nSliding scale $8-15+, students $5, under 16 free"
     links:
+      - "https://lawrencecontra.wordpress.com/"
       - "https://cdss.org/event/contra-dance-with-cambia/"
-    start: "2026-07-12T06:00:00-05:00"
-    end: "2026-07-12T06:00:00-05:00"
+      - "https://www.facebook.com/events/1562023242315035/"
+    start: "2026-07-12T18:45:00-05:00"
+    end: "2026-07-12T22:00:00-05:00"
     country: USA
     state: KS
     city: Lawrence
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
     bands:
+      - Cambia
       - The Lost Keys
-    price: $5-$8
+    callers:
+      - Jill Allen
+    price: $5-$15
     organisation: Lawrence Barn Dance Association
   - name: North Jersey English Country Dancers
     details: "Our dances are on the second and fourth Sunday of every month, always with live music and friendly dancers. No partner needed – come alone or with a friend! Introduction for newcomers at 1:50 pm. In the summer, we enjoy ice cream during the break. \nOur Fabulous Callers:\nAlex Deis-Lauby\nDorothy Cummings\nDaniel Popowich\nHelen White\nJudi Rivkin\nMargaret Bary\nOrly Krasner\nPaul Ross \nOur Tiny Orchestra:\nDiane Fedora – bassoon\nDominik Landowne – violin, viola\nDonn Williams – mandolin\nNorma Castle – flute, percussion\nRobin Russell – piano \nSometimes with:\nDanny Elias – clarinet\nLisa Terry – viola da gamba\nMarnen Laibow-Koser -​ various"
     links:
       - "https://www.northjerseyenglishcountrydancers.org/"
       - "https://cdss.org/event/north-jersey-english-country-dancers-2nd-and-4th-sundays/2026-07-12/"
-    start: "2026-07-12T14:00:00-04:00"
+    start: "2026-07-12T13:50:00-04:00"
     end: "2026-07-12T17:00:00-04:00"
     country: USA
     state: NJ
@@ -29535,12 +29549,7 @@ events:
     social: true
     callers:
       - Alex Deis-Lauby
-      - Daniel Popowich
-      - Dorothy Cummings
-      - Judi Rivkin
-      - Margaret Bary
-      - Orly Krasner
-      - Paul Ross
+    price: $20
     organisation: North Jersey English Country Dancers
   - name: English Country Dance Atlanta
     details: "2nd, 4th, and 5th Sunday afternoons \n$9, cash or check"
@@ -29572,6 +29581,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: Louisville English Country Dancers
   - name: English Country Dance
     details: "Twice-monthly English Country Dance session in Colorado Springs, CO. Each dance will be taught and then practiced. Great social atmosphere and fun!"
@@ -29592,7 +29602,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance/2026-07-12/"
-    start: "2026-07-12T16:00:00-04:00"
+    start: "2026-07-12T15:30:00-04:00"
     end: "2026-07-12T18:00:00-04:00"
     country: USA
     state: NC
@@ -29601,6 +29611,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $10-$12
     organisation: CDSS
   - name: Culver City ECD
     details: "English Country Dance with live musicians in the afternoon on the Westside of Los Angeles. No partner required. Masks optional. Preregistration requested. \n$20 (sliding scale)"
@@ -29632,6 +29643,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $15-$20
     organisation: Hayward Contra
   - name: Common Floor Contra Dance
     details: "Contra dancing in Portland, ME every second Sunday. For details, visit our website. \n$15 suggested donation."
@@ -29664,7 +29676,9 @@ events:
     workshop: false
     social: true
     bands:
-      - Anytime English Players
+      - Curtsy Chord
+    callers:
+      - Daniel Beal
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: Contra Dance in St Louis
@@ -29672,15 +29686,16 @@ events:
     links:
       - "https://www.childgrove.org/"
       - "https://cdss.org/event/contra-dance-in-st-louis/2026-07-12/"
-    start: "2026-07-12T19:00:00-05:00"
+    start: "2026-07-12T18:30:00-05:00"
     end: "2026-07-12T21:30:00-05:00"
     country: USA
     state: MO
     city: Webster Groves
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $5-$10
     organisation: Childgrove Country Dancers
   - name: Gainesville English Country Dance
     details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
@@ -29728,6 +29743,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: Knoxville Contra Dance
   - name: Nashville Monday Night English Country Dance Class
     details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
@@ -29750,7 +29766,7 @@ events:
     links:
       - "https://www.cincinnaticontradance.org/dance-schedule"
       - "https://cdss.org/event/monday-night-contra/2026-07-13/"
-    start: "2026-07-13T19:30:00-04:00"
+    start: "2026-07-13T19:00:00-04:00"
     end: "2026-07-13T21:30:00-04:00"
     country: USA
     state: OH
@@ -29766,7 +29782,7 @@ events:
     links:
       - "https://www.chicagobarndance.org/calendar/"
       - "https://cdss.org/event/chicago-contra-dance/2026-07-13/"
-    start: "2026-07-13T19:00:00-05:00"
+    start: "2026-07-13T18:30:00-05:00"
     end: "2026-07-13T21:40:00-05:00"
     country: USA
     state: IL
@@ -29782,7 +29798,7 @@ events:
     links:
       - "https://www.louisvillecountrydancers.org/dance-with-us-1"
       - "https://cdss.org/event/louisville-contra-dance/2026-07-13/"
-    start: "2026-07-13T20:00:00-04:00"
+    start: "2026-07-13T19:30:00-04:00"
     end: "2026-07-13T22:30:00-04:00"
     country: USA
     state: KY
@@ -29793,6 +29809,7 @@ events:
     social: true
     bands:
       - Monday Night All Stars
+    price: $5-$10
     organisation: Louisville Country Dancers
   - name: Monday Evening English Country Dance
     details: "All are welcome to join us for an evening of English country dance with live music. All dances talked and walked through. Easy parking, air conditioning, and fans. Snacks are encouraged for the break! Please register online at our website."
@@ -29808,13 +29825,14 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $10-$15
     organisation: CDSS
   - name: Austin English Country Dance
     details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
     links:
       - "https://taada.us/wp/events/"
       - "https://cdss.org/event/austin-english-country-dance/2026-07-13/"
-    start: "2026-07-13T19:30:00-05:00"
+    start: "2026-07-13T19:15:00-05:00"
     end: "2026-07-13T21:30:00-05:00"
     country: USA
     state: TX
@@ -29839,6 +29857,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: River Rendezvous
     details: A weekend of Contra dance at Coshocton’s beautiful Lake Park dance hall in central/east Ohio. Dance in air-conditioned comfort on the sprung wooden dance floor.
