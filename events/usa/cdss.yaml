@@ -30436,22 +30436,23 @@ events:
     links:
       - "https://lancastercontra.org/"
       - "https://cdss.org/event/lancaster-pa-monthly-contra-dance-3/"
-    start: "2026-07-18T19:00:00-04:00"
+    start: "2026-07-18T18:30:00-04:00"
     end: "2026-07-18T22:00:00-04:00"
     country: USA
     state: PA
     city: Lancaster
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $12-$20
     organisation: Lancaster Contra Dance
   - name: Louisville Third-Saturday Contra Dance
     details: "Louisville, Kentucky’s monthly third-Saturday contra dance. Check our website for details on bands and callers. Don’t miss the free lesson at 7:30pm. First-time attendees dance free! Waltzing and snacks at the break."
     links:
       - "https://www.louisvillecountrydancers.org/dance-with-us-1"
       - "https://cdss.org/event/louisville-third-saturday-contra-dance/2026-07-18/"
-    start: "2026-07-18T20:00:00-04:00"
+    start: "2026-07-18T19:30:00-04:00"
     end: "2026-07-18T23:00:00-04:00"
     country: USA
     state: KY
@@ -30460,6 +30461,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $8-$15
     organisation: Louisville Country Dancers
   - name: Family Week at Pinewoods
     details: "Join us under the pines and between the ponds for a week of music and dance for young, old, and everyone in between. Family Week at Pinewoods is a rejuvenating and inspiring experience for you and your children, grandchildren, nieces, nephews, and other children dear to you. Together, we will live in woodland cabins, eat delicious home-cooked meals, swim in the ponds, and participate in the rich traditional music, dance, and song program offered by our skilled staff."
@@ -30481,6 +30483,7 @@ events:
   - name: New London Assembly at AEMF
     details: "Directed by Mark Weinstein, with Andrew Shaw and Victoria Yeomans \nMusicians:\nKaren Axelrod piano\nBen Schreiber violin\nMolly Tucker violin \nNew London Assembly is a week-long series of dance classes, lectures, workshops, and evening dancing, all done to fabulous music. Although focused primarily on historical 17th- and 18th-century country dance, we will also include some of the modern dances they have inspired. \nOver the years of our existence starting with Andrew Shaw’s first visit in 2013, we’ve developed a culture with strong attention to detail during the daytime workshops and spirited community recreational dancing in the evenings. Of special interest are the excellent Amherst Early Music Festival evening concerts and lectures."
     links:
+      - "https://www.amherstearlymusic.org/festival/program/new-london-assembly"
       - "https://cdss.org/event/new-london-assembly-at-aemf/"
     start_date: 2026-07-19
     end_date: 2026-07-26
@@ -30493,6 +30496,8 @@ events:
     social: true
     callers:
       - Andrew Shaw
+      - Victoria Yeomans
+    price: $750
     organisation: Amherst Early Music
   - name: 3rd Saturday Contra Dance in Austin
     details: "This monthly contra dance meets most 3rd Saturdays at Go Dance Studio, in Northcross Mall Plaza near First Watch (NE corner).  \nNo partners necessary. Beginners welcome. All dances taught and called. Dance either role—or both. Newer dancers should arrive early for instructions on the basics. \nSuggested admission $10 sliding scale. Tips for the band are appreciated. You can see the band and caller on the schedule on our website. \nThis is a fragrance-free event. Sober event. Family-friendly. LGBTQ+. Everyone is welcome!"
@@ -30515,7 +30520,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2026-07-18/"
-    start: "2026-07-18T20:00:00-05:00"
+    start: "2026-07-18T19:30:00-05:00"
     end: "2026-07-18T23:00:00-05:00"
     country: USA
     state: MN
@@ -30524,8 +30529,6 @@ events:
       - contra
     workshop: true
     social: true
-    callers:
-      - Beau Farmer
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: Santa Fe Contra Dance
@@ -30623,13 +30626,14 @@ events:
       - contra
     workshop: false
     social: true
+    price: $10
     organisation: CDSS
   - name: LITMA Contradance
     details: "LITMA Contradances are usually held on the 3rd Sunday of the month from 2:00-5:00PM from September through June at the Brush Barn, 211 E Main St, Smithtown, Long Island. \nBasic instruction at 1:45 PM \n$15 General admission\n$10 LITMA Members\nStudents Half Price\nChildren under 16 FREE with paid Adult"
     links:
       - "https://litma.org/"
       - "https://cdss.org/event/litma-contradance/2026-07-19/"
-    start: "2026-07-19T14:00:00-04:00"
+    start: "2026-07-19T13:45:00-04:00"
     end: "2026-07-19T17:00:00-04:00"
     country: USA
     state: NY
@@ -30678,7 +30682,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2026-07-19/"
-    start: "2026-07-19T19:00:00-05:00"
+    start: "2026-07-19T18:30:00-05:00"
     end: "2026-07-19T21:00:00-05:00"
     country: USA
     state: MN
@@ -30687,9 +30691,7 @@ events:
       - ecd
     workshop: false
     social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: Gainesville English Country Dance
     details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
@@ -30729,7 +30731,7 @@ events:
     links:
       - "https://www.chicagobarndance.org/calendar/"
       - "https://cdss.org/event/chicago-contra-dance/2026-07-20/"
-    start: "2026-07-20T19:00:00-05:00"
+    start: "2026-07-20T18:30:00-05:00"
     end: "2026-07-20T21:40:00-05:00"
     country: USA
     state: IL
@@ -30754,6 +30756,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: The Heather and the Rose Country Dancers
   - name: English Dance Week
     details: "Join us for a glorious week of dancing, singing, and playing music between the ponds at Pinewoods Camp. You’ll choose daily from enticing offerings of English country dance, sessions for musicians, a variety of ritual and singing classes, and a sprinkling of other genres, including bal folk, Scandi, and contra, all led by our stellar staff who will inspire you with their creative energy, joyfulness, and breadth of experience."
