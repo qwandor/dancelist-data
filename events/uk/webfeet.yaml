@@ -1,21 +1,5 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: Chris Toyne in Frenchay
-    links:
-      - "http://mister.red/dance/bristol.htm#D.AC.20260415"
-    start_date: 2026-04-15
-    end_date: 2026-04-15
-    country: UK
-    city: Frenchay
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Chris Toyne
-    callers:
-      - Victoria Yeomans
-    organisation: Webfeet
   - name: "Glorystrokes in Chandler's Ford"
     links:
       - "http://www.shocc.co.uk/"
@@ -386,20 +370,6 @@ events:
     bands:
       - Amber Fire
     organisation: Webfeet
-  - name: Amber Fire in Kennford
-    links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2026-06-27
-    end_date: 2026-06-27
-    country: UK
-    city: Kennford
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Amber Fire
-    organisation: Webfeet
   - name: Ann Summers Band in Pucklechurch
     links:
       - "http://mister.red/dance/bristol.htm#D.AB.20260630"
@@ -416,48 +386,6 @@ events:
     callers:
       - Rob Taylor
     organisation: Webfeet
-  - name: Banter in Romsey
-    links:
-      - "https://www.banter.band/gigs/"
-    start_date: 2026-07-02
-    end_date: 2026-07-03
-    country: UK
-    city: Romsey
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Banter
-    organisation: Webfeet
-  - name: "Blackbeard's Tea Party in Southwell"
-    links:
-      - "https://www.bandsintown.com/e/107497305-blackbeard&#x27;s-tea-party-at-gate-to-southwell-festival"
-    start_date: 2026-07-02
-    end_date: 2026-07-02
-    country: UK
-    city: Southwell
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-    organisation: Webfeet
-  - name: "Blackbeard's Tea Party in Shifnal"
-    links:
-      - "https://www.bandsintown.com/e/108015274-blackbeard&#x27;s-tea-party-at-weston-park"
-    start_date: 2026-07-03
-    end_date: 2026-07-03
-    country: UK
-    city: Shifnal
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - "Blackbeard's Tea Party"
-    organisation: Webfeet
   - name: Diatonics in Alton
     links:
       - "http://diatonics.co.uk/events.html"
@@ -471,24 +399,6 @@ events:
     social: true
     bands:
       - Diatonics
-    organisation: Webfeet
-  - name: Mad Robin in Exeter
-    links:
-      - "http://devonfolk.org/events-diary/"
-      - "https://eceilidh.org.uk/cps/gigs/madrobin-bf4db4.php"
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
-    start_date: 2026-07-04
-    end_date: 2026-07-04
-    country: UK
-    city: Exeter
-    styles:
-      - e-ceilidh
-    workshop: false
-    social: true
-    bands:
-      - Mad Robin
-    callers:
-      - Felix Weedon
     organisation: Webfeet
   - name: "sessionista in Bath French, Bath"
     links:
@@ -1205,8 +1115,8 @@ events:
     organisation: Webfeet
   - name: Spinach for Norman in Hennock
     links:
-      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
       - "http://devonfolk.org/events-diary/"
+      - "http://www.johnculf.co.uk/hfolk/ceilidhs.htm"
     start_date: 2026-10-03
     end_date: 2026-10-03
     country: UK
