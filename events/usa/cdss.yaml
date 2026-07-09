@@ -29963,6 +29963,7 @@ events:
     details: "(Concordia, Kansas) – The Cloud County Fair Board is excited to host bluegrass band ScenicRoots with Contra Dancing on July 15th  during the 2026 Cloud County Fair, Sponsored by Cloud County Convention and Tourism. You are all invited to join us at the Ayer’s Shelter on the Fairgrounds (615 Industrial Rd., Concordia, KS) on Wednesday, July 15th from 5:00PM to 8:00PM for their live performance and Contra Dancing."
     links:
       - "https://cdss.org/event/contra-at-the-cloud-county-fair/"
+      - "https://cloudcountyfair.org/"
     start: "2026-07-15T17:00:00-05:00"
     end: "2026-07-15T20:00:00-05:00"
     country: USA
@@ -29972,6 +29973,9 @@ events:
       - contra
     workshop: false
     social: true
+    bands:
+      - ScenicRoots
+    price: free
     organisation: Cloud County Fair Board
   - name: English Country Dance for All
     details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:15 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition."
@@ -31097,7 +31101,7 @@ events:
     links:
       - "https://www.fridaynightdance.com/"
       - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2026-07-24/"
-    start: "2026-07-24T20:00:00-04:00"
+    start: "2026-07-24T19:30:00-04:00"
     end: "2026-07-24T23:00:00-04:00"
     country: USA
     state: MD
@@ -31106,6 +31110,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $15
     organisation: Friday Night Dancers
   - name: Childgrove English Country Dance
     details: "The regular dance generally starts out with simpler dances early in the evening, progressing to dances with more difficulty later on, depending on the experience level of the crowd."
@@ -31128,7 +31133,7 @@ events:
     links:
       - "https://pittsburghcontra.org/"
       - "https://cdss.org/event/pittsburgh-contra-dance-14/"
-    start: "2026-07-24T20:00:00-04:00"
+    start: "2026-07-24T19:30:00-04:00"
     end: "2026-07-24T23:00:00-04:00"
     country: USA
     state: PA
@@ -31148,7 +31153,7 @@ events:
     links:
       - "https://phxtmd.org/"
       - "https://cdss.org/event/phoenix-4th-friday-contra-dance/2026-07-24/"
-    start: "2026-07-24T19:00:00-07:00"
+    start: "2026-07-24T18:30:00-07:00"
     end: "2026-07-24T22:00:00-07:00"
     country: USA
     state: AZ
@@ -31164,7 +31169,7 @@ events:
     links:
       - "https://monroviaecd.org/"
       - "https://cdss.org/event/monrovia-english-country-dance/2026-07-24/"
-    start: "2026-07-24T19:30:00-07:00"
+    start: "2026-07-24T19:15:00-07:00"
     end: "2026-07-24T22:00:00-07:00"
     country: USA
     state: CA
@@ -31178,6 +31183,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6489"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2026-07-24/"
     start: "2026-07-24T19:30:00-07:00"
     end: "2026-07-24T22:30:00-07:00"
@@ -31188,6 +31194,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Cynthia Stenger
     price: $7-$20
     organisation: Portland Country Dance Community
   - name: Jax Contra
@@ -31204,6 +31212,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $5-$10
     organisation: CDSS
   - name: English Dance Week
     details: "Join us for a glorious week of dancing, singing, and playing music between the ponds at Pinewoods Camp. You’ll choose daily from enticing offerings of English country dance, sessions for musicians, a variety of ritual and singing classes, and a sprinkling of other genres, including bal folk, Scandi, and contra, all led by our stellar staff who will inspire you with their creative energy, joyfulness, and breadth of experience."
