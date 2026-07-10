@@ -24172,6 +24172,7 @@ events:
       - "https://frissefolk.be/en/event-en/bal-naragonia-quartet-&-duo-hilde-en-sin-mechelen/1466/"
       - "https://folkbalbende.be/event/3573"
       - "https://folkbalbende.be/event/5005"
+      - "https://folkbalbende.be/event/5023"
     start: "2026-11-14T19:30:00+01:00"
     end: "2026-11-15T00:00:00+01:00"
     country: Belgium
@@ -26612,7 +26613,6 @@ events:
   - name: Folkbal
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda/"
       - "https://lephare-andenne.be/events/event/bal-folk/"
       - "https://folkbalbende.be/event/4841"
     start: "2026-07-10T19:00:00+02:00"
@@ -28428,21 +28428,20 @@ events:
   - name: Folkbal
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda/"
       - "https://eledanse.be/stnicolas26/"
       - "https://folkbalbende.be/event/4995"
       - "https://www.facebook.com/events/1551754509637645"
-    start: "2026-12-06T19:00:00+01:00"
+    start: "2026-12-06T10:15:00+01:00"
     end: "2026-12-06T22:00:00+01:00"
     country: Belgium
     city: Genval
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
-      - Didier Laloy
-      - Bruno le Tron
+      - Duo Laloy-Letron
+    price: €20-€45
     organisation: EléDanse ASBL
   - name: Irish Music Festival
     details: Ball
@@ -28806,11 +28805,10 @@ events:
   - name: Folkbal
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda/"
       - "https://folkbalbende.be/event/5020"
       - "https://www.facebook.com/events/2093514071565083"
-    start_date: 2026-08-29
-    end_date: 2026-08-29
+    start: "2026-08-29T20:00:00+02:00"
+    end: "2026-08-29T22:30:00+02:00"
     country: Belgium
     city: Antoing
     styles:
@@ -28823,85 +28821,67 @@ events:
   - name: Folkbal
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda/"
       - "https://www.ccsoumagne.be/agenda/bal-folk-avec-terra-incognita/"
       - "https://folkbalbende.be/event/5021"
       - "https://www.facebook.com/events/1681970336366404"
-    start_date: 2026-09-04
-    end_date: 2026-09-04
+    start: "2026-09-04T20:00:00+02:00"
+    end: "2026-09-04T22:30:00+02:00"
     country: Belgium
     city: Rochefort
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Terra Incognita
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda/"
-      - "https://www.canardfolk.be/pierre-hurdebise/"
-      - "https://www.tradtonic.be"
-      - "https://folkbalbende.be/event/5022"
-    start_date: 2026-10-17
-    end_date: 2026-10-17
-    country: Belgium
-    city: Neufchâteau
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Les Lucioles
-      - Naragonia
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda/"
-      - "https://frissefolk.be/nl/event-nl/bal-naragonia-quartet-&-duo-hilde-en-sin-mechelen/1466/"
-      - "https://folkbalbende.be/event/5023"
-      - "https://www.facebook.com/events/1605120491620062"
-    start: "2026-11-14T19:30:00+01:00"
-    end: "2026-11-14T20:15:00+01:00"
-    country: Belgium
-    city: Mechelen
     styles:
       - balfolk
     workshop: true
     social: true
     bands:
-      - Duo Hilde van Belle
-      - Yassin
+      - Terra Incognita
+    price: €5-€20
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://www.tradtonic.be"
+      - "https://folkbalbende.be/event/5022"
+    start: "2026-10-17T13:00:00+02:00"
+    end: "2026-10-17T23:00:00+02:00"
+    country: Belgium
+    city: Neufchâteau
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Les Lucioles
       - Naragonia
-    organisation: Frisse Folk Vzw/asbl
+    price: €15-€37
+    organisation: ~
   - name: Folkbal
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda/"
       - "https://www.tradtonic.be"
       - "https://folkbalbende.be/event/5024"
-    start_date: 2027-04-03
-    end_date: 2027-04-03
+    start: "2027-04-03T13:00:00+02:00"
+    end: "2027-04-03T23:00:00+02:00"
     country: Belgium
     city: Neufchâteau
     styles:
       - balfolk
-    workshop: false
+      - scandi
+    workshop: true
     social: true
     bands:
       - Calamalys
+    price: €15-€37
     organisation: ~
   - name: Folkbal
     details: Ball
     links:
       - "http://chti-folkeux.chez-alice.fr/BALS.htm"
-      - "http://www.ecomusee.eu/"
+      - "https://ecomusee.eu/actualites/"
       - "https://folkbalbende.be/event/5025"
-    start_date: 2026-08-02
-    end_date: 2026-08-02
+    start: "2026-08-02T20:00:00+02:00"
+    end: "2026-08-02T23:00:00+02:00"
     country: Belgium
     city: Ellezelles
     styles:
@@ -28910,4 +28890,5 @@ events:
     social: true
     bands:
       - Alkatrad
+    price: free
     organisation: ~
