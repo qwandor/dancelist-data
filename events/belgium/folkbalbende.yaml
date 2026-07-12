@@ -15346,7 +15346,7 @@ events:
     start: "2024-08-29T19:30:00+02:00"
     end: "2024-08-29T23:30:00+02:00"
     country: Belgium
-    city: Belsele
+    city: Sint-Niklaas
     styles:
       - balfolk
     workshop: false
@@ -26151,24 +26151,6 @@ events:
       - De Folkies
       - "Cor d'air"
     organisation: KATZ
-  - name: Teyrrasfolk
-    details: Ball
-    links:
-      - "https://tey.be/programma/2026/07/30/la-cigue"
-      - "https://www.facebook.com/events/26517053371240164/"
-      - "https://folkbalbende.be/event/4679"
-    start: "2026-07-30T19:30:00+02:00"
-    end: "2026-07-30T23:00:00+02:00"
-    country: Belgium
-    city: Sint-Niklaas
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - La Ciguë
-    price: free
-    organisation: "Muziekclub 't Ey"
   - name: Pelikaanbal
     details: Ball
     links:
@@ -26644,6 +26626,7 @@ events:
     bands:
       - La Marmite Folk
     organisation: ~
+    cancelled: true
   - name: Fête des Habitants de Lln
     details: Ball
     links:
@@ -28892,3 +28875,38 @@ events:
       - Alkatrad
     price: free
     organisation: ~
+  - name: Teyrrasfolk
+    details: Ball
+    links:
+      - "https://tey.be/programma/2026/07/30/la-cigue"
+      - "https://www.facebook.com/events/26517053371240164/"
+      - "https://folkbalbende.be/event/5026"
+    start: "2026-07-30T19:30:00+02:00"
+    end: "2026-07-30T23:00:00+02:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - La Ciguë
+    price: free
+    organisation: "Muziekclub 't Ey"
+  - name: Teyrrasfolk
+    details: Ball
+    links:
+      - "https://tey.be/programma/2026/08/06/bellowing-bellows"
+      - "https://www.facebook.com/events/1259958112969523/"
+      - "https://folkbalbende.be/event/5027"
+    start: "2026-08-06T19:30:00+02:00"
+    end: "2026-08-06T23:00:00+02:00"
+    country: Belgium
+    city: Belsele
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Bellowing Bellows
+    organisation: "Muziekclub 't Ey"
