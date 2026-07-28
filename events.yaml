@@ -302183,6 +302183,40 @@ events:
     price: $500-$915
     organisation: Country Dance & Song Society
     source: events/usa/cdss.yaml
+  - name: Chattanooga Contra Dance
+    details: "Come on out to the dance floor! Bring your soft-soled shoes and water bottle! We host callers and bands from across the East Coast! The beginner lesson is at 7 pm, and the dance goes from 7:30 pm to 9:30 pm."
+    links:
+      - "https://www.contranooga.dance/"
+      - "https://cdss.org/event/chattanooga-contra-dance-2/2026-08-13/"
+    start: "2026-08-13T19:00:00-04:00"
+    end: "2026-08-13T21:30:00-04:00"
+    country: USA
+    state: TN
+    city: Chattanooga
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: Chattanooga Traditional Dance Society
+    source: events/usa/cdss.yaml
+  - name: Old Farmers Ball Contra Dance
+    details: "A weekly dance for all, beginners and experienced dancers welcome. Lessons every evening."
+    links:
+      - "https://oldfarmersball.com/thursday-dance/"
+      - "https://cdss.org/event/old-farmers-ball-contra-dance/2026-08-13/"
+    start: "2026-08-13T19:30:00-04:00"
+    end: "2026-08-13T23:00:00-04:00"
+    country: USA
+    state: NC
+    city: Swannanoa
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$12
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: Folkbal
     details: Ball
     links:
@@ -302241,6 +302275,104 @@ events:
       - Frannie Marr
     organisation: Bay Area Country Dance Society
     source: events/usa/trycontra.yaml
+  - name: TECDA Friday Evening Dance
+    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-friday-evening-dance/2026-08-14/"
+    start: "2026-08-14T19:00:00-04:00"
+    end: "2026-08-14T21:00:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    price: $10
+    organisation: Toronto English Country Dance Assembly (TECDA)
+    source: events/usa/cdss.yaml
+  - name: Lewiston Contra Dance
+    details: "We dance in the beautiful Trinity Commons at 247 Bates Street, Lewiston, ME. Sliding Scale $15-25, teens $5, kids under 12 free. Pay what you can! We’d love to dance with you! Beginners’ lesson at 7, dancing from 7:30-10. For more information, see our website or find us on Facebook!"
+    links:
+      - "https://sites.google.com/view/lewistoncontradance/home"
+      - "https://cdss.org/event/lewiston-contra-dance-2/2026-08-14/"
+    start: "2026-08-14T19:00:00-04:00"
+    end: "2026-08-14T22:00:00-04:00"
+    country: USA
+    state: ME
+    city: Lewiston
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$25
+    organisation: Lewiston Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Cleveland Second Friday English Country Dance
+    details: "Come join us at our monthly Second Friday English Country Dance.  \nLive music by Toad in the Hole. Callers: Carol Kopp, Steve Otlowski, & Elizabeth Estep \nWood Floor. \nSuggested Donation $10 (Pay what you can)"
+    links:
+      - "https://englishcountryorg.wordpress.com/"
+      - "https://cdss.org/event/cleveland-second-friday-english-country-dance/2026-08-14/"
+    start: "2026-08-14T19:30:00-04:00"
+    end: "2026-08-14T22:30:00-04:00"
+    country: USA
+    state: OH
+    city: Cleveland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Toad in the Hole
+    callers:
+      - Carol Kopp
+      - Elizabeth Estep
+      - Steve Otlowski
+    price: $10
+    organisation: English Country Dance Cleveland
+    source: events/usa/cdss.yaml
+  - name: Contra Caller Workshop
+    details: Come try your hand at calling contra dances or support those who want to learn to call at this free workshop.
+    links:
+      - "https://www.nashvillecountrydancers.org/contra-dances"
+      - "https://cdss.org/event/contra-caller-workshop/2026-08-14/"
+    start: "2026-08-14T19:00:00-05:00"
+    end: "2026-08-14T21:30:00-05:00"
+    country: USA
+    state: TN
+    city: Nashville
+    styles:
+      - contra
+    workshop: true
+    social: false
+    price: free
+    organisation: Nashville Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
+    links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6492"
+      - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2026-08-14/"
+    start: "2026-08-14T19:30:00-07:00"
+    end: "2026-08-14T22:30:00-07:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Cynthia Stenger
+    price: $7-$20
+    organisation: Portland Country Dance Community
+    source: events/usa/cdss.yaml
   - name: Intensive Folk Dance Workshop With Elena
     details: Course
     links:
