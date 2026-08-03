@@ -310531,6 +310531,21 @@ events:
     price: £10-£12
     organisation: Contrafusion
     source: events/uk/contrafusion.yaml
+  - name: Balfolk
+    links:
+      - "https://eurosession.org.uk/"
+    start_date: 2026-12-06
+    end_date: 2026-12-06
+    country: UK
+    city: Sheffield
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Naragonia
+    organisation: Sheffield Eurosession
+    source: events/uk/sheffield_balfolk.yaml
   - name: Folkbal
     details: Ball
     links:
