@@ -241823,7 +241823,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Hat Band
+      - The Hat Band
     callers:
       - Ric Goldman
     price: $7-$20
@@ -303682,6 +303682,97 @@ events:
     price: free
     organisation: Shenandoah Valley Civil War Era Dancers
     source: events/usa/cdss.yaml
+  - name: TECDA Friday Evening Dance
+    details: "Come and join us every Friday for an evening of dance with our talented callers: \nDave Berman, Cathy Campbell, Alan Rosenthal, Walter Zagorski. \nMasks are optional. Please bring your dancing shoes, water bottle and come and enjoy an evening of English Country Dancing. \nemail: info@tecda.ca"
+    links:
+      - "https://www.tecda.ca/weekly_dances.html"
+      - "https://cdss.org/event/tecda-friday-evening-dance/2026-08-21/"
+    start: "2026-08-21T19:00:00-04:00"
+    end: "2026-08-21T21:00:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Alan Rosenthal
+      - Cathy Campbell
+      - Dave Berman
+      - Walter Zagorski
+    price: $10
+    organisation: Toronto English Country Dance Assembly (TECDA)
+    source: events/usa/cdss.yaml
+  - name: Gainesville Old Time Dance Society Contra Dance
+    details: "The Mystic Gorillas are: \n\nRoger Eudy on guitar\nBuz Sibley on fiddle \nLloyd Baldwin on banjo and fiddle \n\nSchedule:  \n\n6:00pm – 7:00 – Setup\n7:00pm – 9:45pm – Introductory workshop & Contra Dance\n9:45 – 10:15pm — Cleanup\n\nSuggested Donation: \n\n$10 (ages 26+)\n$5 (ages 16-25)\nDancers ages 15 & under get in FREE when accompanied by an adult.\n\n\nPlease bring your own non-alcoholic beverage.\nThis is a friendly welcoming recreational activity and all are welcome.\nNo partner or experience is necessary.\nContra dancing is fun and we’ll teach you how.\nNo special dress is required.\nWear comfortable, casual attire & soft-soled non-marking shoes.\nSmoking and/or alcoholic beverages are not allowed at our dances."
+    links:
+      - "https://godsdance.org/event/august-21-katie-zanders/"
+      - "https://cdss.org/event/contra-dance-with-alice-raibourn-the-mystic-gorillas/2026-08-21/"
+    start: "2026-08-21T19:00:00-04:00"
+    end: "2026-08-21T22:00:00-04:00"
+    country: USA
+    state: FL
+    city: Gainesville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Katie Zanders
+    price: $5-$10
+    organisation: Gainesville Oldtime Dance Society (GODS)
+    source: events/usa/cdss.yaml
+  - name: Orlando Contra Dance
+    details: "Welcome to the Orlando Contra Dance! We feature high-tempo, gender-neutral dancing. We are Florida’s only gender-neutral contra series. Dancing is open to everyone and free for students and returning beginners (2nd dance is free)! \nWe usually dance on the first and third Friday of the month. Holidays, semester breaks, and regional events happen, so check the schedule before going!"
+    links:
+      - "https://orlandocontra.org/dances-and-events/"
+      - "https://cdss.org/event/orlando-contra-dance-2-2/2026-08-21/"
+    start: "2026-08-21T19:00:00-04:00"
+    end: "2026-08-21T22:30:00-04:00"
+    country: USA
+    state: FL
+    city: Winter Park
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: Orlando Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Rivanna Contra Dance
+    details: "Third Friday contra dances in Charlottesville, VA. A few miles off I-64. Mask optional. Larks & Robins. Intro lesson 7:00 PM. Dance starts 7:30 PM.\nSliding scale admission: recommend $20"
+    links:
+      - "https://cdss.org/event/rivanna-contra-dance/2026-08-21/"
+    start: "2026-08-21T19:00:00-04:00"
+    end: "2026-08-21T22:00:00-04:00"
+    country: USA
+    state: VA
+    city: Crozet
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $20
+    organisation: Rivanna Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Friday Night Contra at Glen Echo
+    details: "Join us in Glen Echo, Maryland, for a fun night of contras and an occasional square! There’s a free lesson at 7:30pm."
+    links:
+      - "https://www.fridaynightdance.com/"
+      - "https://cdss.org/event/friday-night-contra-at-glen-echo-maryland-2/2026-08-21/"
+    start: "2026-08-21T19:30:00-04:00"
+    end: "2026-08-21T23:00:00-04:00"
+    country: USA
+    state: MD
+    city: Glen Echo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: Friday Night Dancers
+    source: events/usa/cdss.yaml
   - name: Folkbal
     details: Ball
     links:
@@ -303701,6 +303792,23 @@ events:
       - Baltan
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Friday Contra Dance
+    details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$7 – $25, pay what you can."
+    links:
+      - "https://www.nashvillecountrydancers.org/contra-dances"
+      - "https://cdss.org/event/friday-contra-dance-nashville-tn-2/2026-08-21/"
+    start: "2026-08-21T19:30:00-05:00"
+    end: "2026-08-21T22:30:00-05:00"
+    country: USA
+    state: TN
+    city: Nashville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $7-$25
+    organisation: Nashville Country Dancers
+    source: events/usa/cdss.yaml
   - name: CFOOTMAD Community Contra Dance
     details: "Community Contra Dance open to all ages.  All dances taught.  No experience necessary.  Always live music.  Lesson 7 p.m.; dance 7:30 to 10:30."
     links:
@@ -303722,6 +303830,27 @@ events:
     price: $10-$15
     organisation: Colorado Friends of Old Time Music and Dance
     source: events/usa/boulder.yaml
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
+    links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6493"
+      - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2026-08-21/"
+    start: "2026-08-21T19:30:00-07:00"
+    end: "2026-08-21T22:30:00-07:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - The Hat Band
+    callers:
+      - Laura Hatch
+    price: $7-$20
+    organisation: Portland Country Dance Community
+    source: events/usa/cdss.yaml
   - name: Skandia Third Friday dance LIVE
     details: "<span><b> </b></span>Don Meyers and Elaine Mathies will teach several Schottis variants with varying levels of challenge and sophistication.  Expect the unexpected in tune choice, offering motivation to listen carefully.  Sharpen not just your schottis skills but your general dance skills.  Bring your friends, dancers or not.<p> Join Skandia Kapell, the oldest continuously performing Scandinavian dance band in <span><span>Seattle</span></span>,for this evening’s dance. Led by Kris Johansson and joined by Sarah Funk and others, they will inspire us all to dance the evening away. Great tunes, captivating sound, and a traditional song or two. Always a surprise.</p><br><span><b> Skandia members, $10; nonmembers, $15; kids, free  The price of admission includes a free dance class.</b></span>"
     links:
@@ -303783,6 +303912,7 @@ events:
     details: "With Tune learning lesson, soup and a basic dance instruction."
     links:
       - "https://uelenspieghel.nl/uelenevents/balfolk-dansconcert/"
+      - "https://www.plug.events/event/balfolk-in-uffelte"
     start: "2026-08-22T16:30:00+02:00"
     end: "2026-08-22T23:30:00+02:00"
     country: Netherlands
@@ -303791,11 +303921,11 @@ events:
       - balfolk
     workshop: true
     social: true
-    callers:
-      - "Wouter Kuyper, Annet van der Kamp & Alida"
+    bands:
+      - "Wouter Kuyper, Annet van der Kamp, Jantien Schaap & Alida"
     price: €15-€25
     organisation: De Uelenspieghel
-    source: events/netherlands/uffelte.yaml
+    source: events/netherlands/plug_balfolk.yaml
   - name: Bal Miniscule
     links:
       - "https://balfolkoxford.mmm.page/"
@@ -305816,6 +305946,21 @@ events:
     price: £12.50-£18.50
     organisation: EFDSS
     source: events/uk/efdss.yaml
+  - name: Balfolk Nijmegen
+    details: "Balfolk Nijmegen in De Kleine Wiel te Nijmegen-Lent!\r\nWe beginnen het Nijmeegse balseizoen op deze knusse lokatie. Wacht niet te lang met reserveren want er is een beperkt aantal kaarten. Neem iedereen mee die balfolk nog niet kent, want we beginnen met een dansuitleg!"
+    links:
+      - "https://www.plug.events/event/balfolk-nijmegen-in-septemner478"
+    start: "2026-09-19T19:00:00+02:00"
+    end: "2026-09-20T00:00:00+02:00"
+    country: Netherlands
+    city: Nijmegen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €10-€30
+    organisation: Balfolk Nijmegen
+    source: events/netherlands/plug_balfolk.yaml
   - name: Breton Dance Workshop & Bal
     details: "Op 19 september zaal Mook optreden in de Plataan in Zwaag. Meer info volgt!\r\nVoorafgaand aan het bal zal er een workshop gegeven worden over Bretonse dansen door Leo Visser:\r\nhttps://www.plug.events/event/workshop-bretonse-dansen"
     links:
@@ -306717,6 +306862,20 @@ events:
     price: €10
     organisation: Balfolk Wilde Wereld Wageningen
     source: events/netherlands/plug_balfolk.yaml
+  - name: SustainaBAL Mosaic
+    links:
+      - "https://sustainabal.weebly.com/"
+    start: "2026-09-28T16:00:00+02:00"
+    end: "2026-10-05T12:00:00+02:00"
+    country: Switzerland
+    city: Jura
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: donation
+    organisation: Les Coccinelles
+    source: events/switzerland/jura.yaml
   - name: "Monday Dancing: Advanced"
     links:
       - "https://7schritt.de/kalender/montagstanzen-fortgeschrittene/"
@@ -307964,6 +308123,31 @@ events:
     social: true
     organisation: TanzhausFolk
     source: events/germany/tanzhaus.yaml
+  - name: 1726 Ball Weekend
+    details: "The 1726 Ball\nFor experienced dancers \nSchedule:\n6:00 p.m. — Doors open for changing and socializing\n6:45–10:00 p.m. — Dancing \nAdmission:\n$60.00; $30 work trade/low income available \nCallers: Kalia Kliban, Sharon Green, and Mary Luckhardt\nMusicians: Judy Linsenberg (recorders), Robert Mealy (violin), David Morris (viola da gamba and cello), and Katherine Heater (harpsichord)\nSound: Christopher Jacoby \nThis is an event for connoisseurs of early eighteenth-century dance, drawn from the Neal collection and other dance publications of the year 1726. \nWe expect a very high level of dancing and intend to use positional calling in most circumstances. Costumes and formal attire will be admired, but not required. \nSome hospitality can be provided for out-of-town guests, and we very much hope that you will plan to join us for this very special event. \nThis is an event ball for fans of Andrew Shaw’s reconstructions, attendees of New London Assembly, and those many fine dancers ready to celebrate 300 years of delicious English country dances."
+    links:
+      - "https://bacds.org/events/1726/"
+      - "https://cdss.org/event/a-choice-selection-of-country-dances-from-the-year-1726/"
+      - "https://cdss.org/event/a-choice-selection-of-country-dances-from-the-year-1726-3-2/"
+      - "https://cdss.org/event/a-choice-selection-of-country-dances-from-the-year-1726-3/"
+    start: "2026-10-16T19:30:00-07:00"
+    end: "2026-10-18T16:30:00-07:00"
+    country: USA
+    state: CA
+    city: Albany
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Kalia Kliban
+      - Mary Luckhardt
+      - Sharon Green
+      - Dilip Sequeira
+      - Rachel Pusey
+    price: $70-$105
+    organisation: Bay Area Country Dance Society
+    source: events/usa/cdss.yaml
   - name: Skandia Ball
     details: "<span><b>SAVE THE DATE!   </b></span><br><span><b>no teaching. </b></span><br><span><b> </b></span><b>More information soon.</b>"
     links:
@@ -308079,26 +308263,6 @@ events:
     price: £5-£10
     organisation: White Horse Ceilidhs
     source: events/uk/wantage.yaml
-  - name: 1726 Ball Weekend
-    details: "This is an event for connoisseurs of early eighteenth-century dance, drawn from the Neal collection and other dance publications of the year 1726. \nWe expect a very high level of dancing and intend to use positional calling in most circumstances. Costumes and formal attire will be admired, but not required. \nThe ball itself will be Saturday evening 6:30pm-10pm at the Albany Veterans Memorial Building, 1325 Portland Ave, Albany, CA; in addition there will be a Friday night dance (TBA) and a Sunday afternoon dance in Sebastopol on October 18. Some hospitality can be provided for out-of-town guests, and we very much hope that you will plan to join us for this very special event. \nThis is an event ball for fans of Andrew Shaw’s reconstructions, attendees of New London Assembly, and those many fine dancers ready to celebrate 300 years of delicious English country dances. \n\nDance Leaders: Kalia Kliban, Sharon Green, Mary Luckhardt \nMusic by: Judy Linsenberg (recorders), Katherine Heater (harpsichord), David Morris (cello/gamba), Robert Mealy (violin)."
-    links:
-      - "https://bacds.org/events/1726/"
-      - "https://cdss.org/event/1726-ball-twenty-country-dances-from-the-year-1726/"
-    start: "2026-10-17T18:30:00-07:00"
-    end: "2026-10-18T17:00:00-07:00"
-    country: USA
-    state: CA
-    city: Albany
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    callers:
-      - Kalia Kliban
-      - Mary Luckhardt
-      - Sharon Green
-    organisation: Bay Area Country Dance Society
-    source: events/usa/cdss.yaml
   - name: Les Batons
     links:
       - "https://www.lesbatons.org/#dates"
@@ -308837,6 +309001,7 @@ events:
     source: events/belgium/folkbalbende.yaml
   - name: "Balilas d'Halloween"
     links:
+      - "https://balilas.lesviesdansent.bzh/"
       - "https://www.facebook.com/events/2187591638700600/"
     start: "2026-10-30T20:30:00+01:00"
     end: "2026-11-01T03:00:00+01:00"
