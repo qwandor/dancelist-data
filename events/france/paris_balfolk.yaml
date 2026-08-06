@@ -637,10 +637,10 @@ events:
   - name: Bal en Soir Festival
     links:
       - "https://balensoir.fr/festival-2027/"
-    start: "2027-03-26T00:00:00+01:00"
-    end: "2027-03-29T00:00:00+02:00"
+    start_date: 2027-03-26
+    end_date: 2027-03-29
     country: France
-    city: Versailles
+    city: Paris
     styles:
       - balfolk
     workshop: true
