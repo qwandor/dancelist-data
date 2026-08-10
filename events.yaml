@@ -299141,7 +299141,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2026-07-26/"
-    start: "2026-07-26T19:00:00-05:00"
+    start: "2026-07-26T18:30:00-05:00"
     end: "2026-07-26T21:00:00-05:00"
     country: USA
     state: MN
@@ -304173,6 +304173,40 @@ events:
     organisation: Balfolk Oxford
     cancelled: true
     source: events/uk/oxford.yaml
+  - name: Washington Folk Festival
+    details: "A one-day event, jam-packed roster with dancing, storytelling, and music ranging from American to International styles: bluegrass to Celtic, Klezmer to Americana, blues to Zydeco, we cover folk music from around the world! Five stages, hundreds of performers, and it’s all free!"
+    links:
+      - "https://cdss.org/event/washington-folk-festival/"
+    start: "2026-08-23T12:00:00-04:00"
+    end: "2026-08-23T21:00:00-04:00"
+    country: USA
+    state: MD
+    city: Glen Echo
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    price: free
+    organisation: Folklore Society of Greater Washington
+    source: events/usa/cdss.yaml
+  - name: North Jersey English Country Dancers
+    details: "Our dances are on the second and fourth Sunday of every month, always with live music and friendly dancers. No partner needed – come alone or with a friend! Introduction for newcomers at 1:50 pm. In the summer, we enjoy ice cream during the break. \nOur Fabulous Callers:\nAlex Deis-Lauby\nDorothy Cummings\nDaniel Popowich\nHelen White\nJudi Rivkin\nMargaret Bary\nOrly Krasner\nPaul Ross \nOur Tiny Orchestra:\nDiane Fedora – bassoon\nDominik Landowne – violin, viola\nDonn Williams – mandolin\nNorma Castle – flute, percussion\nRobin Russell – piano \nSometimes with:\nDanny Elias – clarinet\nLisa Terry – viola da gamba\nMarnen Laibow-Koser -​ various"
+    links:
+      - "https://www.northjerseyenglishcountrydancers.org/"
+      - "https://cdss.org/event/north-jersey-english-country-dancers-2nd-and-4th-sundays/2026-08-23/"
+    start: "2026-08-23T14:00:00-04:00"
+    end: "2026-08-23T17:00:00-04:00"
+    country: USA
+    state: NJ
+    city: Ridgewood
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    callers:
+      - Orly Krasner
+    organisation: North Jersey English Country Dancers
+    source: events/usa/cdss.yaml
   - name: Early Music Week at Pinewoods
     details: "Are you passionate about medieval, Renaissance, and Baroque music, especially as revived and played on period instruments? Do you also love nature and being in community with others? If so, this is the week for you! \nEarly Music Week offers joyful opportunities and challenges to players, singers, dancers, and listeners at every level, from novice to highly experienced. As classes unfold through the week, we explore and discover the connections that lie behind some of the world’s most vibrant and compelling early music. We dance together every day, connecting with dancers and musicians in a unique and spontaneous way, so different from a class or a concert hall—in the pavilions under the pine trees."
     links:
@@ -304189,6 +304223,74 @@ events:
     social: true
     price: $785-$1435
     organisation: Country Dance & Song Society
+    source: events/usa/cdss.yaml
+  - name: Brattleboro Bal Folk
+    details: "Live Music and Dance Instruction by Eloise & Co.\nBecky Tracy (fiddle) & Rachel Bell (accordion)\nListen\nMore info\nNo experience necessary! \nFrench tunes jam session 3:00-4:15\nDance 4:30-7 \nBaguette sandwiches, baked goods, sweet & hard cider available on site at Pippin’s Café \nSuggested donation sliding scale: $12-$25, kids under 12 get in free \nDo you play an instrument, but you don’t know any French tunes? No problem! Come join the jam session anyway– the tunes are easy to pick up. \nNo dance experience? Come check it out! We’ll teach you everything you need to know! The dances are very accessible, and we always offer clear, succinct beginner instruction as well as variations for folks who are ready to try something more advanced. Family friendly! \nBal folk is traditional dancing from France and other parts of Europe. The dances range from meditative and beautiful to raucous and energetic. You don’t have to bring a partner. There are dances in lines, circles, and spirals. When there are partner dances, everyone is welcome to ask anyone in the room to dance. It’s a fun, welcoming party vibe!  \nCheck out examples:  \n\nBottle This Stuff\nWe’re Not Broken\nBrattleboro Balfolk with Eloise & Co. \n\nConsider arriving early to walk around the grounds and look at the amazing stone structures built by The Stone Trust!"
+    links:
+      - "https://www.scottfarmvermont.com/upcoming-events-1/bal-folk-with-eloiseco"
+      - "https://cdss.org/event/brattleboro-bal-folk-jam-dance-at-scott-farm/"
+    start: "2026-08-23T15:00:00-04:00"
+    end: "2026-08-23T19:00:00-04:00"
+    country: USA
+    state: VT
+    city: Dummerston
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Eloise & Co.
+    price: $12-$25
+    organisation: Brattleboro Bal Folk
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "All are welcome to join us for another very fine afternoon of English Country Dance using mostly positional language. Spread the word and bring all your friends, family, and neighbors! 3:30 pm, Skills Session. Dance: 4:00 pm-6:00."
+    links:
+      - "https://oldfarmersball.com/english-country-dance/"
+      - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance/2026-08-23/"
+    start: "2026-08-23T15:30:00-04:00"
+    end: "2026-08-23T18:00:00-04:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10-$12
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "Twice-monthly English Country Dance session in Colorado Springs, CO. Each dance will be taught and then practiced. Great social atmosphere and fun!"
+    links:
+      - "https://cdss.org/event/english-country-dance/2026-08-23/"
+    start: "2026-08-23T13:45:00-06:00"
+    end: "2026-08-23T15:45:00-06:00"
+    country: USA
+    state: CO
+    city: Colorado Springs
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: 4th Sunday Albuquerque Contra Dance
+    details: "Everyone is welcome at contra dancing, no partner required. For more details about contra or FolkMADS organization, see our website at folkmads.org \nAll dances are Pay What You Want – suggested $10/person, $10-20/family."
+    links:
+      - "https://folkmads.org/events/"
+      - "https://cdss.org/event/4th-sunday-monthly-albuquerque-nm-contra-dance-6/2026-08-23/"
+    start: "2026-08-23T14:00:00-06:00"
+    end: "2026-08-23T17:00:00-06:00"
+    country: USA
+    state: NM
+    city: Albuquerque
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10
+    organisation: New Mexico Folk Music &amp%3B Dance Society
     source: events/usa/cdss.yaml
   - name: Scottish Country Dance
     details: Social dance of Scotland. Does not require a partner
@@ -304207,6 +304309,44 @@ events:
     price: $5
     organisation: Boulder Scottish Country Dance
     source: events/usa/boulder.yaml
+  - name: Hayward Contra
+    details: "Hayward Contra presents contra dancing on 2nd & 4th Sunday afternoons, 4pm-7pm in Hayward (SF Bay Area).  Check the website for details, including how to find carpools or arrange for a pickup from BART (advanced registration)."
+    links:
+      - "https://sfbaycontra.org/"
+      - "https://cdss.org/event/hayward-ca-contra/2026-08-23/"
+    start: "2026-08-23T16:00:00-07:00"
+    end: "2026-08-23T19:00:00-07:00"
+    country: USA
+    state: CA
+    city: Hayward
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $15-$20
+    organisation: Hayward Contra
+    source: events/usa/cdss.yaml
+  - name: English Country Dance at Tapestry Folkdance Center
+    details: "Every Sunday \nSmall Studio\n7:00 – 9:00 pm \n\n\n\n\n\n\n\n2nd Sunday of the Month\nLive Music with Anytime English Players | 6:30 – 9:00 pm \n​Cost:\n​Recorded Music:  $12 General Admission | $9 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\nLive Music: $15 General Admission | $12 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\n\n​“Pay What You Choose” first seven days of every month (1st through the 7th) – Newcomers especially encouraged to attend! \n\n\n\n\n\n\n\nEnglish country dancing is an accessible social dance form with a history going back several centuries. This is the dancing of Queen Elizabeth I, of Jane Austen, and a living tradition that inspires musical compositions and choreographies today. The music can be stately or spritely, traditional or modern, recorded or live. It is danced with simple walking or skipping steps in time to the music. All dances are taught and are usually done in “long-ways sets” with partners facing in lines down the hall. After a walk-through, the easy-to-learn figures are called throughout the dance as you interact with other couples in your set and then move on to the next and repeat.\n​\nYou can come by yourself and be assured of dancing throughout the evening, since our tradition is to welcome and teach beginners and change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience.  English country dance will satisfy your wish for pleasurable exercise, a warm social community, mental stimulation, or even transcendent aesthetic experiences. We invite you to join us!"
+    links:
+      - "https://www.tapestryfolkdance.org/english-country-dance"
+      - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2026-08-23/"
+    start: "2026-08-23T18:30:00-05:00"
+    end: "2026-08-23T21:00:00-05:00"
+    country: USA
+    state: MN
+    city: Minneapolis
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Cardamom
+    callers:
+      - George Ehrenberg
+    price: $4-$15
+    organisation: Tapestry Folkdance Center
+    source: events/usa/cdss.yaml
   - name: Montagstanzen im Stadtgarten
     details: Bis einschließlich 31. August tanzen wir jeden Montag ab 20 Uhr im Stadtgarten.
     links:
@@ -304221,6 +304361,144 @@ events:
     social: true
     organisation: Siebenschritt e.V.
     source: events/germany/freiburg_i_br.yaml
+  - name: Gainesville English Country Dance
+    details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
+    links:
+      - "https://cdss.org/event/english-country-dance-on-mondays-in-gainesville/2026-08-24/"
+    start: "2026-08-24T18:00:00-04:00"
+    end: "2026-08-24T20:30:00-04:00"
+    country: USA
+    state: FL
+    city: Gainesville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Hoggetowne Fancy
+    price: $10
+    organisation: Gainesville English Country Dance
+    source: events/usa/cdss.yaml
+  - name: Asheville Monday Night Contra Dance
+    details: "New Location, Times, & Admission \nThe Ivy Building at Asheville-Buncombe Technical Community College\n9 Genevieve Circle, Asheville, NC 28801\n(On GPS, type the address, not the building name! The building looks like an old church and is across from the Ferguson Medical Building at 10 Genevieve Circle.) \n\nLesson: 7:00pm – 7:30pm\nDance: 7:30pm – 10:00pm\n$0 – $50 Sliding Scale; $12 Suggested\nCheck our Facebook page for caller and musician info\n\nThe Asheville Monday Night Contra Dance, every Monday. Dancing to a live band and caller! Contra dancing is fun and energetic. The welcoming atmosphere makes it a perfect evening for beginners as well as seasoned contra dancers. \nBeginners are welcome, lesson 7:00pm–7:30pm. Contra dancing from 7:30pm–10:00pm. A waltz ends the night! \nSafe dance for all! Families welcome. All ages, races & ethnicities, LGBTQIA+ welcome. No discrimination or bullying of any kind will be tolerated. Volunteers earn a free dance. \nBring a water bottle. Bring comfortable, smooth soled shoes to dance in. No partner required. No experience needed for the beginners’ lesson."
+    links:
+      - "https://cdss.org/event/the-asheville-monday-night-contra-dance/2026-08-24/"
+    start: "2026-08-24T19:00:00-04:00"
+    end: "2026-08-24T22:00:00-04:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $0-$50
+    organisation: Meredith RosemanYager
+    source: events/usa/cdss.yaml
+  - name: Cincinnati Monday Night Contra
+    details: "Cincinnati Contra Dance Local dancing at the Wyoming Arts Center \nMonday dances start at 7:30 pm with a free intro session at 7:00 pm. The dances run from 7:30 pm to 9:30 pm. \nSuggested donation:\n$2 Full time students\nChildren 12 & under free\n$5 Adults\nAll are welcome! \nAny donation is much appreciated to help sustain our dance.\nLarger donations can be tax deductible if you inform Larry Lankford, CCD"
+    links:
+      - "https://www.cincinnaticontradance.org/dance-schedule"
+      - "https://cdss.org/event/monday-night-contra/2026-08-24/"
+    start: "2026-08-24T19:00:00-04:00"
+    end: "2026-08-24T21:30:00-04:00"
+    country: USA
+    state: OH
+    city: Wyoming
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $2-$5
+    organisation: Cincinnati Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Knoxville Monday Night Contra
+    details: "Contra dancing to live music every Monday evening in Knoxville, TN. The dance begins at 7:30 with a lesson for new folks starting at 7:00. Everyone welcome."
+    links:
+      - "https://www.knoxvillecontra.org/schedule"
+      - "https://cdss.org/event/knoxville-monday-night-contra/2026-08-24/"
+    start: "2026-08-24T19:00:00-04:00"
+    end: "2026-08-24T22:30:00-04:00"
+    country: USA
+    state: TN
+    city: Knoxville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Knoxville Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Nashville Monday Night English Country Dance Class
+    details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
+    links:
+      - "https://www.nashvillecountrydancers.org/english-country-dances"
+      - "https://cdss.org/event/nashville-monday-night-english-country-dance-class/2026-08-24/"
+    start: "2026-08-24T18:00:00-05:00"
+    end: "2026-08-24T19:30:00-05:00"
+    country: USA
+    state: TN
+    city: Nashville
+    styles:
+      - ecd
+    workshop: true
+    social: false
+    price: free
+    organisation: Nashville Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Chicago Contra Dance
+    details: "The Chicago Barn Dance Company sponsors and supports contra dance, traditional square dance, and old-time music in the Chicago area. Our dances are held every Monday night, except holidays, in the beautiful fourth-floor Erin Ballroom at Chicago’s Irish American Heritage Center. The dance venue is near the Montrose Blue Line stop, or you can park in the large FREE parking lot on site. \nAdmission is $7-$10 for adults, $5 for seniors and students. Come at 6:30pm if you would like a beginner/refresher lesson."
+    links:
+      - "https://www.chicagobarndance.org/calendar/"
+      - "https://cdss.org/event/chicago-contra-dance/2026-08-24/"
+    start: "2026-08-24T18:30:00-05:00"
+    end: "2026-08-24T21:40:00-05:00"
+    country: USA
+    state: IL
+    city: Chicago
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Chicago Barn Dance Company
+    source: events/usa/cdss.yaml
+  - name: Louisville Contra Dance
+    details: "Louisville, Kentucky’s weekly Monday night contra dance, always featuring live music from the Monday Night All Stars open band! Dancing is 8:00-10:30pm with a beginner’s lesson at 7:30pm. Waltzing and snacks available at the break. Check out our website for details on the caller and special performances. Open calling on 5th Mondays!"
+    links:
+      - "https://www.louisvillecountrydancers.org/dance-with-us-1"
+      - "https://cdss.org/event/louisville-contra-dance/2026-08-24/"
+    start: "2026-08-24T19:30:00-04:00"
+    end: "2026-08-24T22:30:00-04:00"
+    country: USA
+    state: KY
+    city: Louisville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Monday Night All Stars
+    price: $5-$10
+    organisation: Louisville Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Austin English Country Dance
+    details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
+    links:
+      - "https://taada.us/wp/events/"
+      - "https://cdss.org/event/austin-english-country-dance/2026-08-24/"
+    start: "2026-08-24T19:15:00-05:00"
+    end: "2026-08-24T21:30:00-05:00"
+    country: USA
+    state: TX
+    city: Austin
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $5
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: Etétrad
     details: International Festival of New Trad Music in the Aosta Valley (Italy)
     links:
@@ -305245,7 +305523,7 @@ events:
     organisation: BalfolkSync
     source: events/netherlands/plug_balfolk.yaml
   - name: Balfolk Express Trial Lesson
-    details: "Zoek jij een leuke uitdaging, gezellige community, of gewoon een manier om je balfolk-skills te verbeteren? Kom balfolk dansen bij Balfolk Express! Wij organiseren lessen, bals en workshops in Utrecht. Op dinsdag 10 februari gaat ons nieuwe seizoen van start voor zowel beginners als (half)gevorderden.\r\n\r\nSchrijf je in: https://forms.gle/TRPthdDVB3QciJ6V7"
+    details: "Zoek jij een leuke uitdaging, gezellige community, of gewoon een manier om je balfolk-skills te verbeteren? Kom balfolk dansen bij Balfolk Express! Wij organiseren lessen, bals en workshops in Utrecht. Op dinsdag 8 september gaat ons nieuwe seizoen van start voor zowel beginners als (half)gevorderden.\r\n\r\nSchrijf je in: https://forms.gle/TRPthdDVB3QciJ6V7"
     links:
       - "https://www.plug.events/event/proefles-balfolk-in-utrecht-bij-balfolk-ex490"
       - "https://balfolkexpress.nl/agenda"
@@ -305388,7 +305666,7 @@ events:
     organisation: Bromyard Folk Festival
     source: events/uk/bromyard.yaml
   - name: "Socialles 384 - Bretons: vervolg reidansen"
-    details: "Deze donderdag 10-9 is het socialles 384 in Rotterdam. Dit keer gaan we ons in verder verdiepen in de Bretonse dansen. Leon Huisman neemt ons deze keer mee naar West Frankrijk en we gaan aan de slag met de hanterdro (korte herhaling), ridée 6 temps, gavotte des montagnes en cochinchine,\r\n\r\nDeze les is een vervolg op de basisles van vorige les maar de les is ook los te volgen."
+    details: "Deze donderdag 10 september is het socialles 384 in Rotterdam. Dit keer gaan we ons in verder verdiepen in de Bretonse dansen. Leon Huisman neemt ons deze keer mee naar West Frankrijk en we gaan aan de slag met de hanterdro (korte herhaling), ridée 6 temps, gavotte des montagnes en cochinchine,\r\n\r\nDeze les is een vervolg op de basisles van vorige les maar de les is ook los te volgen."
     links:
       - "https://www.plug.events/event/socialles-384-rotterdam-bretons-vervolg-re418"
       - "https://www.facebook.com/events/880077064727859/"
@@ -305968,6 +306246,22 @@ events:
     price: $10-$12
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: "Socialles 385 - basis mixers: onder andere Jig en Cercle"
+    details: "Deze donderdag 17 september is het socialles 385 in Rotterdam. In deze les gaan we de basis van een aantal groepsdansen aanleren: de jig of gigue. en de de cercle of tovercirkel. Waarschijnlijk komt er ook nog een derde, minder bekende mixer aan bod. \r\n\r\nIn deze les, gegeven door Mila Pennings, komt de basis aan bod, met vooral veel aandacht voor pretting volgen en leiden. \r\n\r\nVoor deze les is geen danservaring nodig. Als je wel wat meer uitdaging wil, kan je oefenen met de andere rol! Volgende week volgt het vervolg op deze les.\r\n\r\nZoals bij al onze activiteiten, kan je zonder partner komen."
+    links:
+      - "https://www.plug.events/event/socialles-385-rotterdam-basis-mixers-onder403"
+      - "https://www.facebook.com/events/2006762993287734/"
+    start: "2026-09-17T18:30:00+02:00"
+    end: "2026-09-17T22:00:00+02:00"
+    country: Netherlands
+    city: Rotterdam
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €6
+    organisation: Balfolk Zuid-Holland
+    source: events/netherlands/plug_balfolk.yaml
   - name: Dance Class Level 6 Fun
     details: Course
     links:
@@ -306602,6 +306896,22 @@ events:
     price: $10-$12
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: "Socialles 386 - verdieping mixers: Jig en Cercle"
+    details: "Deze donderdag 24 september is het socialles 386 in Rotterdam. In deze les gaan we onder leiding van Angelo Hovenga aan de slag met diverse leuke variaties in de jig/gigue en cercle/tovercirkel,  en gaan we ook bezig met connectie en met spelen met de ruimte. \r\n \r\nVoor deze les is het wel fijn als je weet hoe de jig / gigue en de cercle/tovercirkel gaat - je hoeft er nog geen expert in te zijn. Deze les sluit aan op de les van vorige week en biedt extra verdieping. Beide lessen zijn los van elkaar te volgen, maar het is wel fijn om ze allebei te doen."
+    links:
+      - "https://www.plug.events/event/socialles-386-rotterdam-verdieping-mixers-897"
+      - "https://www.facebook.com/events/2194182101379630/"
+    start: "2026-09-24T18:30:00+02:00"
+    end: "2026-09-24T22:00:00+02:00"
+    country: Netherlands
+    city: Rotterdam
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €6
+    organisation: Balfolk Zuid-Holland
+    source: events/netherlands/plug_balfolk.yaml
   - name: Adirondack Dance Weekend
     links:
       - "https://www.danceflurry.org/adirondack-dance-weekend/"
