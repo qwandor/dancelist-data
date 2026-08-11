@@ -255263,7 +255263,7 @@ events:
   - name: Bayou Bedlam
     details: "Houston Area Traditional Dance Society invites you to The Bayou City for a contra dance weekend! \nBayou Bedlam 2026 (Feb 20-22) features the musical charisma of Eloise & Co. and the masterful calling talents of Cis Hinkle. \nBayou Bedlam is danced on a sprung wood floor. \nPlenty of snacks, an extensive Saturday lunch, and fabulous Sunday brunch are included. \nCallers in attendance have the chance to call with Eloise & Co. as well. \nWork trade and hospitality available! \nCis will be calling using gender-neutral terms (larks & robins)."
     links:
-      - "http://www.bayoubedlam.org/"
+      - "https://www.bayoubedlam.org/"
       - "https://cdss.org/event/bayou-bedlam-contra-dance-weekend/"
     start_date: 2026-02-20
     end_date: 2026-02-22
@@ -302440,6 +302440,27 @@ events:
     price: $10
     organisation: English Country Dance Cleveland
     source: events/usa/cdss.yaml
+  - name: Harrisburg Contra Dance
+    details: "Harrisburg Contra Dance invites you to dance the night away in a fun, friendly, and welcoming community. No prior dance experience or partner required. We encourage those new to contradance to take the beginner workshop starting at 7:30. The dance runs from 8:00-10:30. Refer to our website for our amazing upcoming callers and bands!"
+    links:
+      - "https://www.harrisburgcontra.org/schedule.html"
+      - "https://cdss.org/event/monthly-contra-dance-in-harrisburg-pa/2026-08-14/"
+    start: "2026-08-14T19:30:00-04:00"
+    end: "2026-08-14T22:30:00-04:00"
+    country: USA
+    state: PA
+    city: Mechanicsburg
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Contra Rebels
+    callers:
+      - Terry Bachmann
+    price: $12
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: Mad Robin Contra Dance
     details: "Contra dancing in Downtown Burlington, VT on the second Friday of each month. \nThe Mad Robin Contra Collective is a group of experienced and rising local contra dance callers and musicians working together to host dances, improve our skills, and promote contra dancing. \nGender neutral calling, no partner required, all are welcome, no experience required. \nDress for aerobic activity, and please bring a water bottle and clean, non-marking indoor shoes! \nPresented with the generous support of the Country Dance & Song Society."
     links:
@@ -303980,6 +304001,23 @@ events:
     price: $5-$10
     organisation: CDSS
     source: events/usa/cdss.yaml
+  - name: Columbia Contra Dance
+    details: "Contra dance to live music. No partner or experience necessary. Newcomers workshop & socializing is at 6:30pm, and the first contra is at 7:00pm. Give what you can. The suggested donation is $10 per dancer. If using Venmo to @contracola-sc, add 50 cents. No donation expected for kids 12 & under, and they must be supervised by a parent."
+    links:
+      - "https://www.contracola.org/"
+      - "https://cdss.org/event/columbia-contra-dance-at-arsenal-hill-park-5/"
+    start: "2026-08-22T18:30:00-04:00"
+    end: "2026-08-22T21:30:00-04:00"
+    country: USA
+    state: SC
+    city: Columbia
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10
+    organisation: Columbia Traditional Music and Dance
+    source: events/usa/cdss.yaml
   - name: Richmond Saturday Evening Contra Dance
     details: "Join us in Richmond, VA for a Saturday evening contra dance, hosted by TADAMS, at the West End Ballroom. Beginner lesson at 6:45pm, dance from 7:30-10:30pm. Please see our full website calendar for band and caller details. Admission is $15 non-members, $10 members & students, children under 13 are free."
     links:
@@ -304737,6 +304775,40 @@ events:
     price: $3-$20
     organisation: Bloomington Old Time Music and Dance Group
     source: events/usa/cdss.yaml
+  - name: Princeton Country Dancers’ Contra Dance
+    details: "Weekly contra dance on Wednesday nights, 8:00-10:30."
+    links:
+      - "https://www.princetoncountrydancers.org/"
+      - "https://cdss.org/event/princeton-country-dancers-contra-dance/2026-08-26/"
+    start: "2026-08-26T19:30:00-04:00"
+    end: "2026-08-26T22:30:00-04:00"
+    country: USA
+    state: NJ
+    city: Princeton
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Richmond English Country Dance
+    details: "Please join us for our weekly English Country Dancing Wednesday night social at 7:30 p.m. All dances are taught, walked through, and called. No experience or partner are required, just a pair of comfortable shoes. New dancers are asked to please come at at least 10 minutes before the start of the session. The first night is free; after that $2 per evening."
+    links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
+      - "https://cdss.org/event/richmond-va-english-country-dance-2-2/2026-08-26/"
+    start: "2026-08-26T19:30:00-04:00"
+    end: "2026-08-26T21:30:00-04:00"
+    country: USA
+    state: VA
+    city: Richmond
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
+    source: events/usa/cdss.yaml
   - name: Weekly Austin Contra Dance
     details: "A free weekly dance at Hancock Recreation Center, with music by the jam/pickup band, Local On-Call Orchestra (LOCO). We dance every week that Hancock Recreation Center is open. A brief beginners session is taught at 7:30, before the dance program begins. Dance ends about 9:30. Free parking lot.\n \n\nWe welcome beginners. If you can walk to a beat, you can contra dance! All dances are taught and called. No partner necessary. Dance either role – or both. Everyone is welcome. \n \nSober event. Family-friendly. LGBTQ+"
     links:
@@ -304756,6 +304828,42 @@ events:
       - Local On-Call Orchestra
     price: free
     organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Berkeley English Dance
+    details: "BACDS presents a dance every Wednesday (contra on 1st/3rd/5th Wed 8pm-10:30pm; English on 2nd/4th Wed 7:45pm-10pm) at Christ Church East Bay, 2138 Cedar St. (near Oxford), Berkeley. Both series include an introductory lesson about 15-20 minutes before the dance start time."
+    links:
+      - "https://www.bacds.org/series/english/berkeley_wed/"
+      - "https://cdss.org/event/berkeley-contra-or-english-dance/2026-08-26/"
+    start: "2026-08-26T19:25:00-07:00"
+    end: "2026-08-26T22:00:00-07:00"
+    country: USA
+    state: CA
+    city: Berkeley
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    callers:
+      - Sharon Green
+    price: $6-$25
+    organisation: Bay Area Country Dance Society
+    source: events/usa/cdss.yaml
+  - name: San Francisco Contra Dance
+    details: "2nd & 4th Wednesday in San Francisco! \nRole names: The role names usually used at this series are “Larks” and “Robins.” \nBeginner lesson at 7:30, dance 8:00-10:30 \nCheck our website for details. \n$25 supporters; $20 non-members; $15 members; $6 students or low-income; or pay what you can."
+    links:
+      - "https://bacds.org/series/contra/san_francisco_wed/"
+      - "https://cdss.org/event/san-francisco-contra-dance/2026-08-26/"
+    start: "2026-08-26T19:30:00-07:00"
+    end: "2026-08-26T22:30:00-07:00"
+    country: USA
+    state: CA
+    city: San Francisco
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $6-$25
+    organisation: Bay Area Country Dance Society
     source: events/usa/cdss.yaml
   - name: Mosafolk opening lesseizoen
     details: "Het tweede lesseizoen bij Mosafolk gaat van start en dat mag gevierd worden met een (openbaar) bal!\r\n\r\n27 Augusts trappen we af met een dansavond op live muziek van Duo Kouran Der, met vooraf een dansuitleg voor beginners. Zo kan iedereen mee dansen, of je al lessen hebt gevolgd of niet. \r\n\r\nEr is maar beperkte plek op de dansvloer, dus meld je via hier aan om gegarandeerd een plekje te hebben. De toegang voor dit bal is op donatie basis, er zal een hoed staan waarin je je bijdrage kunt achterlaten; dus vergeet niet contant geld mee te nemen! Onze richtlijn is €5 – €15 euro."
@@ -304794,6 +304902,23 @@ events:
     price: free
     organisation: "Muziekclub 't Ey"
     source: events/belgium/folkbalbende.yaml
+  - name: Old Farmers Ball Contra Dance
+    details: "A weekly dance for all, beginners and experienced dancers welcome. Lessons every evening."
+    links:
+      - "https://oldfarmersball.com/thursday-dance/"
+      - "https://cdss.org/event/old-farmers-ball-contra-dance/2026-08-27/"
+    start: "2026-08-27T19:30:00-04:00"
+    end: "2026-08-27T23:00:00-04:00"
+    country: USA
+    state: NC
+    city: Swannanoa
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$12
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: Shrewsbury Folk Festival
     links:
       - "https://shrewsburyfolkfestival.co.uk/line-up/dance/"
@@ -304911,6 +305036,22 @@ events:
     price: $5
     organisation: Bal Folk Perth
     source: events/australia/chidlow.yaml
+  - name: Belle Époquefeest
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/free-dance-initiations-at-belle-%C3%A9poque-event/1470/"
+      - "https://folkbalbende.be/event/5037"
+      - "https://www.facebook.com/events/1414762529128911"
+    start: "2026-08-29T15:30:00+02:00"
+    end: "2026-08-29T19:00:00+02:00"
+    country: Belgium
+    city: Adinkerke
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
   - name: Folkbal
     details: Ball
     links:
@@ -305300,6 +305441,22 @@ events:
     price: £4-£10
     organisation: Alcester Contra
     source: events/uk/alcester_contra.yaml
+  - name: Friday Folk
+    details: "Club night: Jane Usher"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-09-04T19:45:00+01:00"
+    end: "2026-09-04T22:00:00+01:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Jane Usher
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-4-9-26-cecil-sharp-house/"
@@ -305893,6 +306050,22 @@ events:
       - Naragonia Quartet
     organisation: Musiques et Traditions
     source: events/belgium/folkbalbende.yaml
+  - name: Friday Folk
+    details: "Club night: Suzanne Farmer"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-09-11T19:45:00+01:00"
+    end: "2026-09-11T22:00:00+01:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Suzanne Farmer
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-11-9-26-cecil-sharp-house/"
@@ -306352,6 +306525,24 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Amarebal én sessie
+    details: "Op woensdag 16 september is er weer een gratis Amarebal in hartje Den Haag met Wouter en de Draak.\r\n\r\nLet op, de draak is nog even onder voorbehoud ivm het breken van zijn vleugel. We wensen hem veel sterkte in het herstel"
+    links:
+      - "https://www.plug.events/event/amarebal-met-wouter-en-de-draak-en-sessie-330"
+      - "https://www.facebook.com/events/2396655057409763/"
+    start: "2026-09-16T19:00:00+02:00"
+    end: "2026-09-16T23:00:00+02:00"
+    country: Netherlands
+    city: The Hague
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Wouter en de Draak
+    price: free
+    organisation: Balfolk Zuid-Holland
+    source: events/netherlands/plug_balfolk.yaml
   - name: Wednesday Balfolk
     details: "Zapraszamy na potańcówkę balfolkową w Chacie.\r\nO 20:00 warsztaty\r\nO 21:00 potańc.\r\nWstęp na imprezę: 10 zł\r\nWstęp na warsztaty: dowolna kwota wedle uznania"
     links:
@@ -306535,6 +306726,24 @@ events:
     price: €15
     organisation: Balfolk Groningen
     source: events/netherlands/plug_balfolk.yaml
+  - name: Friday Folk
+    details: "Club night: Colin Hume and the Friday Folk Band"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-09-18T19:45:00+01:00"
+    end: "2026-09-18T22:00:00+01:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Friday Folk Band
+    callers:
+      - Colin Hume
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-18-9-26-london-scottish-house/"
@@ -307219,6 +307428,20 @@ events:
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
+  - name: Friday Folk
+    details: "Club night: Club callers and AGM"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-09-25T19:45:00+01:00"
+    end: "2026-09-25T22:00:00+01:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-25-9-26-cecil-sharp-house/"
@@ -307799,6 +308022,24 @@ events:
     price: £4-£10
     organisation: Alcester Contra
     source: events/uk/alcester_contra.yaml
+  - name: Friday Folk
+    details: "Club night: Mike Bennett and Spring Greens"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-10-02T19:45:00+01:00"
+    end: "2026-10-02T22:00:00+01:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Spring Greens
+    callers:
+      - Mike Bennett
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-2-10-26-cecil-sharp-house/"
@@ -308412,6 +308653,23 @@ events:
     price: £40-£80
     organisation: Electric Folk Dance Party
     source: events/uk/hathersage.yaml
+  - name: Friday Folk
+    details: "Club night: David and Rebecca Capron"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-10-09T19:45:00+01:00"
+    end: "2026-10-09T22:00:00+01:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - David Capron
+      - Rebecca Capron
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-9-10-26-cecil-sharp-house/"
@@ -308842,6 +309100,22 @@ events:
     price: €18-€60
     organisation: Muziekcentrum Dranouter
     source: events/belgium/folkbalbende.yaml
+  - name: Friday Folk
+    details: "Club night: David Ashworth"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-10-16T19:45:00+01:00"
+    end: "2026-10-16T22:00:00+01:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - David Ashworth
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: THF Workshop Weekend
     links:
       - "https://www.tanzvolk-leipzig.de/"
@@ -309351,6 +309625,22 @@ events:
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
+  - name: Friday Folk
+    details: "Club night: Thomas Bending"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-10-23T19:45:00+01:00"
+    end: "2026-10-23T22:00:00+01:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Thomas Bending
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-23-10-26-cecil-sharp-house/"
@@ -309752,6 +310042,23 @@ events:
       - Fahrenheit
     organisation: Les Vies Dansent
     source: events/france/france.yaml
+  - name: Friday Folk
+    details: "Club night: Dances in waltz time with John and Karen Sweeney"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-10-30T19:45:00+00:00"
+    end: "2026-10-30T22:00:00+00:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - John Sweeney
+      - Karen Sweeney
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: Baleynbal
     details: Ball
     links:
@@ -310282,6 +310589,22 @@ events:
     price: £4-£10
     organisation: Alcester Contra
     source: events/uk/alcester_contra.yaml
+  - name: Friday Folk
+    details: "Club night: Nigel Close"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-11-06T19:45:00+00:00"
+    end: "2026-11-06T22:00:00+00:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Nigel Close
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-6-11-26-cecil-sharp-house/"
@@ -310633,6 +310956,22 @@ events:
     price: €20-€25
     organisation: CaBal
     source: events/belgium/folkbalbende.yaml
+  - name: Friday Folk
+    details: "Club night: Dave Kerridge"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-11-13T19:45:00+00:00"
+    end: "2026-11-13T22:00:00+00:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Dave Kerridge
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-13-11-26-cecil-sharp-house/"
@@ -311108,6 +311447,24 @@ events:
       - Vagalan
     organisation: KA-BalFolk
     source: events/germany/kalender.yaml
+  - name: Friday Folk
+    details: "Club night: Bob Barrett and the Friday Folk Band"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-11-20T19:45:00+00:00"
+    end: "2026-11-20T22:00:00+00:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Friday Folk Band
+    callers:
+      - Bob Barrett
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: THF Workshop Weekend
     links:
       - "https://www.tanzvolk-leipzig.de/"
@@ -311591,6 +311948,24 @@ events:
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
+  - name: Friday Folk
+    details: "Club night: Wendy Harrup and the Carousel Band"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-11-27T19:45:00+00:00"
+    end: "2026-11-27T22:00:00+00:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Carousel Band
+    callers:
+      - Wendy Harrup
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-27-11-26-cecil-sharp-house/"
@@ -311704,8 +312079,9 @@ events:
     organisation: London Ceilidh Club
     source: events/uk/ceilidh_club.yaml
   - name: Friday Folk Saturday Special
+    details: "Special event: Saturday Special Dance with Mark Elvins and WillPower at Homewood Road URC"
     links:
-      - "https://fridayfolk.org.uk/"
+      - "https://www.fridayfolk.org.uk/ffprog/"
     start: "2026-11-28T19:30:00+00:00"
     end: "2026-11-28T22:30:00+00:00"
     country: UK
@@ -311715,6 +312091,10 @@ events:
       - ecd
     workshop: false
     social: true
+    bands:
+      - WillPower
+    callers:
+      - Mark Elvins
     price: £13
     organisation: Friday Folk
     source: events/uk/st_albans_friday_folk.yaml
@@ -311959,6 +312339,22 @@ events:
     price: donation
     organisation: Folknam Musique Trad
     source: events/belgium/folkbalbende.yaml
+  - name: Friday Folk
+    details: "Club night: Andrea Stodell"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-12-04T19:45:00+00:00"
+    end: "2026-12-04T22:00:00+00:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Andrea Stodell
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-4-12-26-cecil-sharp-house/"
@@ -312288,6 +312684,24 @@ events:
     price: donation
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Friday Folk
+    details: "Club night: Christmas Party with Andy King and Cloudburst"
+    links:
+      - "https://www.fridayfolk.org.uk/ffprog/"
+    start: "2026-12-11T19:45:00+00:00"
+    end: "2026-12-11T22:00:00+00:00"
+    country: UK
+    city: St Albans
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Cloudburst
+    callers:
+      - Andy King
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-11-12-26-cecil-sharp-house/"
@@ -313504,6 +313918,26 @@ events:
     price: €15
     organisation: Balfolk Groningen
     source: events/netherlands/plug_balfolk.yaml
+  - name: Bayou Bedlam
+    details: "Bayou Bedlam is the contra dance festival produced by the Houston Area Traditional Dance Society. \nThe band will be Root System (Audrey Jaber, Anna Patton, Amy Englesberg). The caller is Lindsey Dono."
+    links:
+      - "https://bayoubedlam.org/"
+      - "https://cdss.org/event/2027-bayou-bedlam-contra-dance-weekend-houston-tx/"
+    start: "2027-02-19T19:00:00-06:00"
+    end: "2027-02-21T14:00:00-06:00"
+    country: USA
+    state: TX
+    city: Houston
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Root System
+    callers:
+      - Lindsey Dono
+    organisation: Houston Area Traditional Dance Society
+    source: events/usa/cdss.yaml
   - name: Skandia Third Friday dance LIVE
     details: "<span><b>Skandia members, $10; nonmembers, $15; kids, free  The price of admission includes a free dance class.</b></span>"
     links:
@@ -315013,6 +315447,21 @@ events:
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
+  - name: Friday Folk Saturday Special
+    links:
+      - "https://fridayfolk.org.uk/"
+    start: "2027-11-27T19:30:00+01:00"
+    end: "2027-11-27T22:30:00+01:00"
+    country: UK
+    city: St Albans
+    styles:
+      - contra
+      - ecd
+    workshop: false
+    social: true
+    price: £13
+    organisation: Friday Folk
+    source: events/uk/st_albans_friday_folk.yaml
   - name: Tib Viernheim
     links:
       - "https://kalender.digital/574d155c91900caea879/event/3525682742"
