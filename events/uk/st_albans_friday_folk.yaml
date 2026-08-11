@@ -456,6 +456,9 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - David Capron
+      - Rebecca Capron
     organisation: Friday Folk
   - name: Friday Folk
     details: "Club night: David Ashworth"
@@ -484,6 +487,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Thomas Bending
     organisation: Friday Folk
   - name: Friday Folk
     details: "Club night: Dances in waltz time with John and Karen Sweeney"
@@ -497,6 +502,9 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - John Sweeney
+      - Karen Sweeney
     organisation: Friday Folk
   - name: Friday Folk
     details: "Club night: Nigel Close"
@@ -510,6 +518,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Nigel Close
     organisation: Friday Folk
   - name: Friday Folk
     details: "Club night: Dave Kerridge"
@@ -561,7 +571,6 @@ events:
       - Wendy Harrup
     organisation: Friday Folk
   - name: Friday Folk Saturday Special
-    links:
     details: "Special event: Saturday Special Dance with Mark Elvins and WillPower at Homewood Road URC"
     links:
       - "https://www.fridayfolk.org.uk/ffprog/"
@@ -592,6 +601,8 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Andrea Stodell
     organisation: Friday Folk
   - name: Friday Folk
     details: "Club night: Christmas Party with Andy King and Cloudburst"
@@ -610,24 +621,25 @@ events:
     callers:
       - Andy King
     organisation: Friday Folk
-  - name: Friday Folk
-    details: "Special event: Carol singing around St Albans"
-    links:
-      - "https://www.fridayfolk.org.uk/ffprog/"
-    start: "2026-12-18T19:45:00+00:00"
-    end: "2026-12-18T22:00:00+00:00"
-    country: UK
-    city: St Albans
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    organisation: Friday Folk
   - name: Friday Folk Saturday Special
     links:
       - "https://fridayfolk.org.uk/"
     start: "2027-04-24T19:30:00+01:00"
     end: "2027-04-24T22:30:00+01:00"
+    country: UK
+    city: St Albans
+    styles:
+      - contra
+      - ecd
+    workshop: false
+    social: true
+    price: £13
+    organisation: Friday Folk
+  - name: Friday Folk Saturday Special
+    links:
+      - "https://fridayfolk.org.uk/"
+    start: "2027-11-27T19:30:00+01:00"
+    end: "2027-11-27T22:30:00+01:00"
     country: UK
     city: St Albans
     styles:
