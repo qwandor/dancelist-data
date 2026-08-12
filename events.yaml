@@ -305487,6 +305487,23 @@ events:
     price: $0-$50
     organisation: Meredith RosemanYager
     source: events/usa/cdss.yaml
+  - name: Cincinnati Monday Night Contra
+    details: "Cincinnati Contra Dance Local dancing at the Wyoming Arts Center \nMonday dances start at 7:30 pm with a free intro session at 7:00 pm. The dances run from 7:30 pm to 9:30 pm. \nSuggested donation:\n$2 Full time students\nChildren 12 & under free\n$5 Adults\nAll are welcome! \nAny donation is much appreciated to help sustain our dance.\nLarger donations can be tax deductible if you inform Larry Lankford, CCD"
+    links:
+      - "https://www.cincinnaticontradance.org/dance-schedule"
+      - "https://cdss.org/event/monday-night-contra/2026-08-31/"
+    start: "2026-08-31T19:00:00-04:00"
+    end: "2026-08-31T21:30:00-04:00"
+    country: USA
+    state: OH
+    city: Wyoming
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $2-$5
+    organisation: Cincinnati Contra Dance
+    source: events/usa/cdss.yaml
   - name: Knoxville Monday Night Contra
     details: "Contra dancing to live music every Monday evening in Knoxville, TN. The dance begins at 7:30 with a lesson for new folks starting at 7:00. Everyone welcome."
     links:
@@ -305537,6 +305554,25 @@ events:
     social: true
     price: $5-$10
     organisation: Chicago Barn Dance Company
+    source: events/usa/cdss.yaml
+  - name: Louisville Contra Dance
+    details: "Louisville, Kentucky’s weekly Monday night contra dance, always featuring live music from the Monday Night All Stars open band! Dancing is 8:00-10:30pm with a beginner’s lesson at 7:30pm. Waltzing and snacks available at the break. Check out our website for details on the caller and special performances. Open calling on 5th Mondays!"
+    links:
+      - "https://www.louisvillecountrydancers.org/dance-with-us-1"
+      - "https://cdss.org/event/louisville-contra-dance/2026-08-31/"
+    start: "2026-08-31T19:30:00-04:00"
+    end: "2026-08-31T22:30:00-04:00"
+    country: USA
+    state: KY
+    city: Louisville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Monday Night All Stars
+    price: $5-$10
+    organisation: Louisville Country Dancers
     source: events/usa/cdss.yaml
   - name: Austin English Country Dance
     details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
@@ -305602,6 +305638,23 @@ events:
     price: €5
     organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
+  - name: English Country Dance for all
+    details: "Join us on Tuesdays in the West Village for a friendly evening of social dance. Our programs include early dances circa 1651 to contemporary choreographies. English Country Dance (ECD) has been enjoyed by the likes of Jane Austen and Thomas Jefferson, and you are invited to join in the pleasures of this community social dance. English dances and their tunes vary from elegant to energetic and from stately to boisterous, and you will experience all these facets of English Country Dance in an evening as you dance to live music. You can see many examples of ECD at Childgrove on YouTube. \nNewcomers are always welcome at CDNY, where all dances are taught. A skills session is offered after the third dance of the evening for English Country dances. If you choose to participate, you will receive more in-depth teaching of terms and dance figures, then rejoin the group. \nThe steps are simple: generally walking or skipping. You can come by yourself and be assured of dancing throughout the evening, since our tradition is to change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience. ECD will satisfy your wish for an artistic outlet, pleasurable exercise, a warm social community, mental stimulation, and transcendent aesthetic experiences. We invite you to join us! \nAdmission to our dances is on a sliding scale: \nMembers: $15-20; \nNon-members: $20-25; \nFull-time Students: $10"
+    links:
+      - "https://cdny.org/calendar-events"
+      - "https://cdss.org/event/english-country-dance-for-all/2026-09-01/"
+    start: "2026-09-01T19:00:00-04:00"
+    end: "2026-09-01T22:00:00-04:00"
+    country: USA
+    state: NY
+    city: New York
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10-$25
+    organisation: Country Dance * New York
+    source: events/usa/cdss.yaml
   - name: Balfolk-Tanzabend
     details: Eintritt frei - <b>Unkostenbeitrag erbeten</b>
     links:
@@ -305646,6 +305699,94 @@ events:
     social: true
     organisation: Pied à Terre
     source: events/uk/pat_norwich.yaml
+  - name: English Country Dance for All
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:15 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition."
+    links:
+      - "https://oldfarmersball.com/english-country-dance/"
+      - "https://cdss.org/event/asheville-english-country-dance-for-all/2026-09-02/"
+    start: "2026-09-02T18:15:00-04:00"
+    end: "2026-09-02T20:30:00-04:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: free
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: English Country Dance at Guiding Star Grange
+    details: "Join us in Greenfield for an evening of English Country Dancing. Lively, elegant, and fun: English country dances from 1650 to today, with a rotating cast of stellar musicians and callers.   \nCost: $10-$20, sliding scale. \nSee venue website for this month’s details and Covid policy."
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+      - "https://cdss.org/event/second-fourth-wednesday-english-country-dance-at-guiding-star-grange/2026-09-02/"
+    start: "2026-09-02T19:00:00-04:00"
+    end: "2026-09-02T21:30:00-04:00"
+    country: USA
+    state: MA
+    city: Greenfield
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $10-$20
+    organisation: Graham Christian
+    source: events/usa/cdss.yaml
+  - name: English Country Dancing in Brunswick
+    details: "English Country Dancing in Brunswick, Maine, 1st and 3rd Wednesdays through October. See our website for details."
+    links:
+      - "https://folkdancers.org/BrunswickECD.html"
+      - "https://cdss.org/event/english-country-dancing-in-brunswick-maine/2026-09-02/"
+    start: "2026-09-02T19:00:00-04:00"
+    end: "2026-09-02T21:00:00-04:00"
+    country: USA
+    state: ME
+    city: Brunswick
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $5
+    organisation: John Bloom
+    source: events/usa/cdss.yaml
+  - name: Richmond English Country Dance
+    details: "Please join us for our weekly English Country Dancing Wednesday night social at 7:30 p.m. All dances are taught, walked through, and called. No experience or partner are required, just a pair of comfortable shoes. New dancers are asked to please come at at least 10 minutes before the start of the session. The first night is free; after that $2 per evening."
+    links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
+      - "https://cdss.org/event/richmond-va-english-country-dance-2-2/2026-09-02/"
+    start: "2026-09-02T19:30:00-04:00"
+    end: "2026-09-02T21:30:00-04:00"
+    country: USA
+    state: VA
+    city: Richmond
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
+    source: events/usa/cdss.yaml
+  - name: Weekly Austin Contra Dance
+    details: "A free weekly dance at Hancock Recreation Center, with music by the jam/pickup band, Local On-Call Orchestra (LOCO). We dance every week that Hancock Recreation Center is open. A brief beginners session is taught at 7:30, before the dance program begins. Dance ends about 9:30. Free parking lot.\n \n\nWe welcome beginners. If you can walk to a beat, you can contra dance! All dances are taught and called. No partner necessary. Dance either role – or both. Everyone is welcome. \n \nSober event. Family-friendly. LGBTQ+"
+    links:
+      - "https://austinbarndancers.org/"
+      - "https://taada.us/wp/events/"
+      - "https://cdss.org/event/weekly-austin-contra-dance/2026-09-02/"
+    start: "2026-09-02T19:15:00-05:00"
+    end: "2026-09-02T21:30:00-05:00"
+    country: USA
+    state: TX
+    city: Austin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Local On-Call Orchestra
+    price: free
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: Nordic dances (Intermediate)
     details: "New class series begins on Sept 2.   \n \n The cost is $45 for Skandia members and $55 for non-members for a 6-week series ($10 / $12 for one-class drop-in).\n\nSend questions to lisa@hambo.us or (206) 258-2580."
     links:
