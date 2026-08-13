@@ -33535,9 +33535,10 @@ events:
     social: true
     price: $10-$12
     organisation: CDSS
-  - name: "Macatawa, Michigan Contra Dance"
+  - name: Macatawa Contra Dance
     details: "Join us for an evening of contra dancing with live music from Gooder’n Grits & Friends and calling by Karin Neils! \nNew and experienced dancers are welcome — no partner needed. Come dance, listen to the music, meet some folks, and enjoy a fun evening of community dancing. \nSuggested donation: $10–$25\nStudents: $5–$10\nFamilies: $20–$25 \nFind us on Facebook for current information and updates."
     links:
+      - "https://www.facebook.com/events/2007669606544167/"
       - "https://cdss.org/event/macatawa-michigan-contra-dance/"
     start: "2026-08-14T18:30:00-04:00"
     end: "2026-08-14T21:00:00-04:00"
@@ -33548,6 +33549,8 @@ events:
       - contra
     workshop: false
     social: true
+    callers:
+      - Karin Neils
     price: $5-$25
     organisation: Macatawa Contra Dance
   - name: TECDA Friday Evening Dance
@@ -35794,7 +35797,7 @@ events:
     links:
       - "https://www.bfms.org/squarecontra.php"
       - "https://cdss.org/event/monday-night-english-country-dance-2/2026-09-02/"
-    start: "2026-09-02T20:00:00-04:00"
+    start: "2026-09-02T19:30:00-04:00"
     end: "2026-09-02T22:30:00-04:00"
     country: USA
     state: MD
@@ -35810,15 +35813,16 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2026-09-02/"
-    start: "2026-09-02T20:00:00-04:00"
+    start: "2026-09-02T19:30:00-04:00"
     end: "2026-09-02T22:30:00-04:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: Weekly Austin Contra Dance
     details: "A free weekly dance at Hancock Recreation Center, with music by the jam/pickup band, Local On-Call Orchestra (LOCO). We dance every week that Hancock Recreation Center is open. A brief beginners session is taught at 7:30, before the dance program begins. Dance ends about 9:30. Free parking lot.\n \n\nWe welcome beginners. If you can walk to a beat, you can contra dance! All dances are taught and called. No partner necessary. Dance either role – or both. Everyone is welcome. \n \nSober event. Family-friendly. LGBTQ+"
@@ -35839,9 +35843,10 @@ events:
       - Local On-Call Orchestra
     price: free
     organisation: CDSS
-  - name: Berkeley Contra or English Dance
+  - name: Berkeley Contra Dance
     details: "BACDS presents a dance every Wednesday (contra on 1st/3rd/5th Wed 8pm-10:30pm; English on 2nd/4th Wed 7:45pm-10pm) at Christ Church East Bay, 2138 Cedar St. (near Oxford), Berkeley. Both series include an introductory lesson about 15-20 minutes before the dance start time."
     links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
       - "https://cdss.org/event/berkeley-contra-or-english-dance/2026-09-02/"
     start: "2026-09-02T19:30:00-07:00"
     end: "2026-09-02T22:30:00-07:00"
@@ -35850,9 +35855,11 @@ events:
     city: Berkeley
     styles:
       - contra
-      - ecd
     workshop: true
     social: true
+    callers:
+      - Lark Finnegan
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: Gentle English
     details: "English Country Dancing for those who enjoy relaxed tempos and familiar figures. Jenny Beer leading, music by laptop."
@@ -35870,6 +35877,7 @@ events:
     social: true
     callers:
       - Jenny Beer
+    price: $5-$10
     organisation: CDSS
   - name: Indy English Country Dance
     details: "Calling by Alice Smith-Goeke at the Joy of All Who Sorrow Orthodox Church, 1516 N Delaware St (enter via 16th Street parking lot entrance). Suggested donation $5 per adult. \nRecorded music may be used. \nAdditional events the first Thursday of each month in 2025 at the Joy of All Who Sorrow Orthodox Church."
