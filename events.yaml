@@ -304109,7 +304109,6 @@ events:
     details: English country dance every 2nd and 4th Saturday.
     links:
       - "https://syracusecountrydancers.org/upcoming-dances/"
-      - "https://cdss.org/event/syracuse-country-dancers-ecd/2026-08-22/"
     start: "2026-08-22T19:00:00-04:00"
     end: "2026-08-22T22:00:00-04:00"
     country: USA
@@ -304121,6 +304120,7 @@ events:
     social: true
     price: $5-$15
     organisation: Syracuse Country Dancers
+    cancelled: true
     source: events/usa/cdss.yaml
   - name: Chattanooga Contra Dance
     details: "Come on out to the dance floor! Bring your soft-soled shoes and water bottle! We host callers and bands from across the East Coast! The beginner lesson is at 7 pm, and the dance is from 7:30 pm to 9:30 pm!"
@@ -306263,6 +306263,44 @@ events:
     price: $10
     organisation: Toronto English Country Dance Assembly (TECDA)
     source: events/usa/cdss.yaml
+  - name: Orlando Contra Dance
+    details: "Welcome to the Orlando Contra Dance! We feature high-tempo, gender-neutral dancing. We are Florida’s only gender-neutral contra series. Dancing is open to everyone and free for students and returning beginners (2nd dance is free)! \nWe usually dance on the first and third Friday of the month. Holidays, semester breaks, and regional events happen, so check the schedule before going!"
+    links:
+      - "https://orlandocontra.org/dances-and-events/"
+      - "https://cdss.org/event/orlando-contra-dance-2-2/2026-09-04/"
+    start: "2026-09-04T19:00:00-04:00"
+    end: "2026-09-04T22:30:00-04:00"
+    country: USA
+    state: FL
+    city: Winter Park
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: Orlando Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Lambertville Country Dancers
+    details: "Judi Rivkin calls to the music of Tetra: Kathy Talvitie (piano), Lee Dietterich (clarinet), Ann Bies (recorders), Bob Pasquarello (plucked strings)"
+    links:
+      - "https://lambertvillecountrydancers.org/"
+      - "https://cdss.org/event/lambertville-country-dancers-english-country-dance-in-newtown-pa-6/"
+    start: "2026-09-04T19:00:00-04:00"
+    end: "2026-09-04T22:30:00-04:00"
+    country: USA
+    state: NJ
+    city: Newtown
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Tetra
+    callers:
+      - Judi Rivkin
+    price: $5-$15
+    organisation: Lambertville Country Dancers
+    source: events/usa/cdss.yaml
   - name: Northwest Passage
     details: "Come join us for a wonderful extended weekend of dancing, singing, music making, friendship, frolic, and fun in the woods at the beautiful Mt Hood Kiwanis Camp, about an hour east of Portland, near Rhododendron, Oregon. The weather is usually perfect this time of year, with hiking trails, waterfalls, as well as great dancing, tasty food, and good company!  Learn new skills, enjoy new friends, and make wonderful new memories. \n\nEnglish Country Dance for experienced dancers\nTwo fabulous bands\n\nSnapdragon (Carrie Rose, Dave, Wiesler, Miranda Feinberg)\nAlex & Audrey (Alex Cumming, Audrey Jaber)\n\n\nTwo fabulous callers Gaye Fifer and Joanna Reiner Wilkinson\nGreat workshop leaders, camper-led activities, and more!!!\n\nEveryone is welcome to attend Northwest Passage; however, you will be most successful if you are very familiar with English Country Dance figures and terminology. No beginner ECD sessions are offered. \n$470 ($440 for offsite, tent, or car camping)—discounts available"
     links:
@@ -306285,6 +306323,23 @@ events:
       - Joanna Reiner Wilkinson
     price: $440-$470
     organisation: Northwest Passage Dance Camp (Portland Country Dance Community)
+    source: events/usa/cdss.yaml
+  - name: Seacoast Contra Dance
+    details: "Join us for music, movement, and community at First Fridays at Seacoast Contra! \nSchedule\n7:30 PM – Newcomer Lesson\n8:00–10:30 PM – Dancing\nAll dances are taught. No partner or experience needed. \nAdmission\nAdults: Sliding Scale $12–$20\nStudents: $10\nFamilies: $20\nChildren under 12: Free \nDance First, Pay Never!\nIf money’s tight, you can dance for free by volunteering:\nDoor greeting\nSetup or cleanup\nDance Angel for newcomers\nVolunteer sign-up \nCome dance, make new friends, and kick off the new year with us at Seacoast Contra!"
+    links:
+      - "https://seacoastcontra.com/"
+      - "https://cdss.org/event/seacoast-contra-dance-2/2026-09-04/"
+    start: "2026-09-04T19:30:00-04:00"
+    end: "2026-09-04T22:30:00-04:00"
+    country: USA
+    state: NH
+    city: Newfields
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$20
+    organisation: Seacoast Contra
     source: events/usa/cdss.yaml
   - name: Rocky Mountain Rendezvous
     links:
@@ -306327,6 +306382,23 @@ events:
       - Kalia Kliban
     price: $125-$135
     organisation: Childgrove Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Friday Contra Dance
+    details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$7 – $25, pay what you can."
+    links:
+      - "https://www.nashvillecountrydancers.org/contra-dances"
+      - "https://cdss.org/event/friday-contra-dance-nashville-tn-2/2026-09-04/"
+    start: "2026-09-04T19:30:00-05:00"
+    end: "2026-09-04T22:30:00-05:00"
+    country: USA
+    state: TN
+    city: Nashville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $7-$25
+    organisation: Nashville Country Dancers
     source: events/usa/cdss.yaml
   - name: Skandia First Friday LIVE
     details: "Lisa Brooks and Elaine Mathies will teach Hambo.  They will teach the basic dance and more<br>advanced styling points.  This is considered the most typical Swedish dance, and is a gateway to<br>other polska dances.  Hambo is sometimes played at contras, so let friends know who would like<br>to learn it.  <br>See <a href=\"https://www.youtube.com/watch?v=51WlT0XLoaE\">https://www.youtube.com/watch?v=51WlT0XLoaE</a><br> <br>The excellent duo, Paradox, will regale us with their driving rhythms for the first half of the<br>program (from 8:30 to 9:30 PM), and the second half (from 9:30 to 10:30 PM) will be made up<br>of recorded music chosen for your dancing pleasure.<br><span><b> </b></span><br><span><b>Skandia members, $10; nonmembers, $15; kids, free  The price of admission includes a free dance class.</b></span>"
@@ -306439,6 +306511,42 @@ events:
       - AER
     organisation: Silvia Fuchs
     source: events/germany/kalender.yaml
+  - name: Syracuse Country Dancers ECD
+    details: English country dance every 2nd and 4th Saturday.
+    links:
+      - "https://syracusecountrydancers.org/upcoming-dances/"
+      - "https://cdss.org/event/syracuse-country-dancers-ecd-2/"
+    start: "2026-09-05T14:00:00-04:00"
+    end: "2026-09-05T17:00:00-04:00"
+    country: USA
+    state: NY
+    city: Fayetteville
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - David Smukler
+    price: $5-$15
+    organisation: Syracuse Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Scissortail English Country Dance
+    details: "Scissortail English Country Dance in Oklahoma City, first Saturday of the month. Check our Facebook or our website for more details!"
+    links:
+      - "https://scissortail.org/calendar/"
+      - "https://cdss.org/event/scissortail-english-country-dance-in-oklahoma-city-2/2026-09-05/"
+    start: "2026-09-05T13:30:00-05:00"
+    end: "2026-09-05T15:30:00-05:00"
+    country: USA
+    state: OK
+    city: Oklahoma City
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $15
+    organisation: Scissortail Traditional Dance Society
+    source: events/usa/cdss.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-5-9-26-cecil-sharp-house/"
@@ -306453,6 +306561,201 @@ events:
     price: £21-£27
     organisation: London Ceilidh Club
     source: events/uk/ceilidh_club.yaml
+  - name: Goshen Community Contra Dance
+    details: "Goshen Community Contra Dancing Celebrates its 25th! Season of Dancing Contras, Squares, Reels, Circles & Waltzes in Downtown Goshen. \n\nNo experience or partner needed. New dancers are always welcome and are invited to the beginners’ workshop at 6:30pm. The dance will follow immediately from 7:00-10:00pm.\nAlways live local and regional bands, and all dances are led by experienced callers.\nSee the full schedule on our website.\nWear layers of comfortable, lightweight clothing and shoes for active movement.\nYou’ll be dancing on a springy wood floor!\n\nDances held every first Saturday of the month September–June.  \nAdmission: Pay what you can. $5-$20 suggested donation.\nChildren under 12: Free"
+    links:
+      - "https://godancing.org/"
+      - "https://cdss.org/event/contra-dance-with-live-music-and-caller/2026-09-05/"
+    start: "2026-09-05T18:30:00-04:00"
+    end: "2026-09-05T22:00:00-04:00"
+    country: USA
+    state: IN
+    city: Goshen
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Waterbound
+    callers:
+      - Carol Steiner
+    price: $5-$20
+    organisation: Goshen Community Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Carrboro First Saturday Contra Dance
+    details: "Every first Saturday at the Carrboro Century Center. Gender-neutral calling.  \nCheck our website for details—it’s occasionally a Rushfest!"
+    links:
+      - "https://firstsaturdaycontra.com/"
+      - "https://cdss.org/event/carrboro-first-saturday-contra-dance/2026-09-05/"
+    start: "2026-09-05T19:00:00-04:00"
+    end: "2026-09-05T22:30:00-04:00"
+    country: USA
+    state: NC
+    city: Carrboro
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: "Swingin' Tern Contra Dance"
+    details: "Our contra dances are held every first and third Saturday evening year-round from 7:30pm–10:30pm with a beginners’ workshop at 7pm.  We have occasional double dances along with a New Year’s Eve dance. \nOur full calendar \nUseful Information:\n\nNewcomers are welcome to come at 7pm for an introductory lesson on the basics of contra dancing. No partner is necessary. All dances are taught with a “walk-through” by the caller.\nWe no longer require vaccination. Masks are optional.\nAll dances at Swingin’ Tern are called to the gender-neutral terms Larks & Robins. Dance whatever role you’re comfortable in.\nWe are air-conditioned. We have windows on three sides when we want to let the breeze come in.\nOur dance is two blocks from the Chatham station on the Morris/Essex line out of Penn Station, NYC.\nWe welcome contributions of home-baked [or not] goodies to share at the break.\nPlease bring your own water bottle. Water bottles may be filled at the kitchen sink.\nWear comfortable clothing. Contra dancing is aerobic. We prefer you carry in your shoes.\nWe are a friendly, inclusive group. Pack plenty of smiles!\n\n$15 adults/$5 students"
+    links:
+      - "https://folkproject.org/swingin-tern/"
+      - "https://cdss.org/event/swingin-tern-contra-dance-7/2026-09-05/"
+    start: "2026-09-05T19:00:00-04:00"
+    end: "2026-09-05T22:30:00-04:00"
+    country: USA
+    state: NJ
+    city: Chatham
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$15
+    organisation: "Swingin' Tern Dances"
+    source: events/usa/cdss.yaml
+  - name: Syracuse Country Dancers Contra Dance
+    details: Contra dancing every 1st and 3rd Saturday.
+    links:
+      - "https://syracusecountrydancers.org/upcoming-dances/"
+      - "https://cdss.org/event/syracuse-country-dancers-contra-dance/2026-09-05/"
+    start: "2026-09-05T19:00:00-04:00"
+    end: "2026-09-05T22:00:00-04:00"
+    country: USA
+    state: NY
+    city: Fayetteville
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$15
+    organisation: Syracuse Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Birdsboro Contra Dance
+    details: "Contra Dance on first Saturday of the month (Except July & August).  \nThe Birdsboro Contra Dance – Brought to you by the Conestoga Dance Association \nPosition terms: Larks & Robins. Beginners and all are welcome."
+    links:
+      - "https://birdsborocontra.org/our-schedule/"
+      - "https://cdss.org/event/birdsboro-contra-dance-2/"
+    start: "2026-09-05T19:10:00-04:00"
+    end: "2026-09-05T22:30:00-04:00"
+    country: USA
+    state: PA
+    city: Elverson
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$20
+    organisation: Jamey Hutchinson
+    source: events/usa/cdss.yaml
+  - name: Buena Vista Community Contra Dance
+    details: "Step lively and have fun at AVMAD’s community contra! \nFirst Saturday of every month, from September thru May. \n\nSeptember 5, 2026 (potluck)\nOctober 3, 2026\nNovember 7, 2026\nDecember 5, 2026 (potluck)\nJanuary 2, 2027\nFebruary 6, 2027\nMarch 6, 2027\nApril 3, 2027\nMay 1, 2027 (potluck)\n\nBand Jam: 5:30 PM \nDancing: 7-9:00 PM \nPotluck starting at 6pm in September, December and May. \nCome join us for an evening of Live Music, Lively Dancing & great Community Spirit. \nNo partner or experience needed—just bring your enthusiasm and comfortable shoes! $10 suggested donation (but all are welcome!) \nMore info, email ArkValleyMusicAndDance@gmail.com, or call 719-395-8386 or 210-275-3355 or visit our website."
+    links:
+      - "http://www.arkvalleymusicanddance.org/"
+      - "https://cdss.org/event/community-contra-dance-in-buena-vista-co/2026-09-05/"
+    start: "2026-09-05T17:30:00-06:00"
+    end: "2026-09-05T21:00:00-06:00"
+    country: USA
+    state: CO
+    city: Buena Vista
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10
+    organisation: Arkansas Valley Music and Dance
+    source: events/usa/cdss.yaml
+  - name: Big Scioty Contra Dance
+    details: "Fall 2026 – Spring 2027 Contra Dances \nBeginners’ instruction at 7:30 PM\nContra Dance 8:00-10:30 PM \nAdults $10.00 (Members $7.00)\nAges 12-26 $5.00 (Members $3.00)\nChildren under 12 free"
+    links:
+      - "https://bigscioty.com/dance-schedule/"
+      - "https://cdss.org/event/big-scioty-contra-dance/2026-09-05/"
+    start: "2026-09-05T19:30:00-04:00"
+    end: "2026-09-05T22:30:00-04:00"
+    country: USA
+    state: OH
+    city: Columbus
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $3-$10
+    organisation: Big Scioty Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Scissortail Contra Dance
+    details: "Scissortail Contra Dance in Tulsa, first Saturdays. Check our Facebook or our website for more details!"
+    links:
+      - "https://scissortail.org/calendar/"
+      - "https://cdss.org/event/scissortail-contra-dance-in-tulsa-ok/2026-09-05/"
+    start: "2026-09-05T19:00:00-05:00"
+    end: "2026-09-05T22:00:00-05:00"
+    country: USA
+    state: OK
+    city: Tulsa
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$25
+    organisation: Scissortail Traditional Dance Society
+    source: events/usa/cdss.yaml
+  - name: Contra Dance at Tapestry Folkdance Center
+    details: "Every Saturday\nLARGE STUDIO\n\n\n\n\n\n\n\n\n7:30 – 8:00 pm  Lesson\n8:00 – 11:00 pm  Dance\n \nCost:\nLive Music: $15 General Admission | $12 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free \n“Pay What You Choose” first seven days of every month (1st through the 7th)\nRecorded Music:  $12 General | $10 Members | $7 Young Adult & Youth (Ages 10 -21) \nWhat is Contra Dance?\nIn a Contra dance, a leader, known as a caller, teaches basic dance steps during an introductory “walk-through” of the dance. Dancers learn by walking through the steps and formations, following the caller’s instructions. The dance figures are similar to those of old-time square dancing except the figures are usually danced in a line, with leaders and followers facing each other. \n​These dances are lively, social, easy to learn, and aerobic. Although you will dance with a partner, it isn’t necessary to come with one. All dances are taught and are usually done in “long-ways sets” (partners facing in long lines down the hall).  Many of the regular Tapestry Folkdance Center Contra bands play old-time music (similar to bluegrass), but the music at any given Saturday night Contra may reflect a range of music traditions, such as New England, French Canadian, Irish, Scottish, Cape Breton and modern compositions. \nHow does Contra Dance Work?\n“A contra dance can be thought of as a triangle of energy with the three vertices being the musicians, the dancers and the caller. Magical evenings occur when all three come together, feeding off of each others’ energy to raise and sustain an atmosphere of fun and joy. The caller’s role in this is paramount. Good music and dancers without a good caller may not be magical. Poor teaching, lack of rapport or inappropriately selected dances can lead to frustration. But a good caller can make even new dancers feel like they are good, and by working with the musicians to match music to dances, set the right tempo, and feed off the energy of everyone in the hall, the caller can help make magic.”\nby Beau Farmer, Tapestry Folkdance Center Contra Caller"
+    links:
+      - "https://www.tapestryfolkdance.org/contra"
+      - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2026-09-05/"
+    start: "2026-09-05T19:30:00-05:00"
+    end: "2026-09-05T23:00:00-05:00"
+    country: USA
+    state: MN
+    city: Minneapolis
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Tunebuggy
+    callers:
+      - David Kirchner
+    price: $4-$15
+    organisation: Tapestry Folkdance Center
+    source: events/usa/cdss.yaml
+  - name: Santa Fe Contra Dance
+    details: "Instruction at 6:30 and dancing starts at 7:00PM. Everyone is welcome at contra dancing, no partner required. For more details about contra or the FolkMADS organization, see our website."
+    links:
+      - "https://folkmads.org/events/"
+      - "https://cdss.org/event/santa-fe-contra-dance/2026-09-05/"
+    start: "2026-09-05T18:30:00-06:00"
+    end: "2026-09-05T22:00:00-06:00"
+    country: USA
+    state: NM
+    city: Santa Fe
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Tucson Contra Dance
+    details: "Join us for our first and third Saturday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check our website for more details."
+    links:
+      - "https://tucsoncontradancers.org/"
+      - "https://cdss.org/event/tucson-contra-dance-2/2026-09-05/"
+    start: "2026-09-05T18:30:00-07:00"
+    end: "2026-09-05T22:00:00-07:00"
+    country: USA
+    state: AZ
+    city: Tucson
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Tucson Friends of Traditional Music%2C Inc.
+    source: events/usa/cdss.yaml
   - name: Tanznachmittag - Stollwerck
     links:
       - "https://www.balfolk-koeln.de/veranstaltungen/tanznachmittag-stollwerck-13"
@@ -306484,6 +306787,76 @@ events:
     price: €15-€30
     organisation: Balfolk Wageningen
     source: events/netherlands/plug_balfolk.yaml
+  - name: Concord English Country Dance
+    details: "Monthly English Country dances by the NH English Country Dance Society\nIntroduction to English dance basics at 2:30\nDance to live music from 3 to 6"
+    links:
+      - "https://manylives-oneworld.com/dave-bateman/nhecds/"
+      - "https://cdss.org/event/concord-nh-1st-sunday-english-country-dance-series/2026-09-06/"
+    start: "2026-09-06T14:30:00-04:00"
+    end: "2026-09-06T18:00:00-04:00"
+    country: USA
+    state: NH
+    city: Concord
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10
+    organisation: New Hampshire English Country Dance Society
+    source: events/usa/cdss.yaml
+  - name: Colorado Springs Contra Dance
+    details: "Reid Miller calling and music by the Cask and Chisel Megaband. \n$10 adult; $5 student; children under 13 free with a paying adult"
+    links:
+      - "https://www.pptdcontra.com/"
+      - "https://cdss.org/event/colorado-springs-contra-dance/"
+      - "https://cdss.org/event/contra-dance-5/2026-09-06/"
+      - "https://cdss.org/event/pikes-peak-contra-dance-in-colorado-springs/2026-09-06/"
+    start: "2026-09-06T13:30:00-06:00"
+    end: "2026-09-06T16:30:00-06:00"
+    country: USA
+    state: CO
+    city: Colorado Springs
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Pikes Peak Traditional Dance
+    source: events/usa/cdss.yaml
+  - name: Monterey Contra Dance
+    details: "Monterey Country Dance Community holds contra dances most first Sundays and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \n\nFirst Sundays: Lessons at 3:40 PM; dance from 4–7 PM\nThird Saturdays: Lessons at 6:40; dance from 7–10 PM.\n\n​Prices: \n\n$15-$30, sliding scale, general admission\n$10-$25, members of MCDC, BACDS, CDSS or other sister organizations;\n$5, active military & full-time students, with ID;\nFREE! for children 12 & under"
+    links:
+      - "https://montereycontradance.org/index.html"
+      - "https://cdss.org/event/monterey-contra-dance-2/2026-09-06/"
+    start: "2026-09-06T15:40:00-07:00"
+    end: "2026-09-06T19:00:00-07:00"
+    country: USA
+    state: CA
+    city: Monterey
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$30
+    organisation: Monterey Country Dance Community
+    source: events/usa/cdss.yaml
+  - name: English Country Dance at Tapestry Folkdance Center
+    details: "Every Sunday \nSmall Studio\n7:00 – 9:00 pm \n\n\n\n\n\n\n\n2nd Sunday of the Month\nLive Music with Anytime English Players | 6:30 – 9:00 pm \n​Cost:\n​Recorded Music:  $12 General Admission | $9 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\nLive Music: $15 General Admission | $12 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\n\n​“Pay What You Choose” first seven days of every month (1st through the 7th) – Newcomers especially encouraged to attend! \n\n\n\n\n\n\n\nEnglish country dancing is an accessible social dance form with a history going back several centuries. This is the dancing of Queen Elizabeth I, of Jane Austen, and a living tradition that inspires musical compositions and choreographies today. The music can be stately or spritely, traditional or modern, recorded or live. It is danced with simple walking or skipping steps in time to the music. All dances are taught and are usually done in “long-ways sets” with partners facing in lines down the hall. After a walk-through, the easy-to-learn figures are called throughout the dance as you interact with other couples in your set and then move on to the next and repeat.\n​\nYou can come by yourself and be assured of dancing throughout the evening, since our tradition is to welcome and teach beginners and change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience.  English country dance will satisfy your wish for pleasurable exercise, a warm social community, mental stimulation, or even transcendent aesthetic experiences. We invite you to join us!"
+    links:
+      - "https://www.tapestryfolkdance.org/english-country-dance"
+      - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2026-09-06/"
+    start: "2026-09-06T18:30:00-05:00"
+    end: "2026-09-06T21:00:00-05:00"
+    country: USA
+    state: MN
+    city: Minneapolis
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $4-$12
+    organisation: Tapestry Folkdance Center
+    source: events/usa/cdss.yaml
   - name: BalfolkSync Advanced Trial Lesson
     details: "Al een halfgevordendenreeks gedaan? Wil je spelen met de dynamiek en connectie? Of heb je zin om minder bekende dansen te leren? Dan is deze lessenreeks iets voor jou! Wij gaan oefenen met minder bekende dansen, floorcraft en co-leading. Hierbij leggen wij meer nadruk op houding, lichaamscontrole en frame om elkaar zo feiloos aan te voelen."
     links:
@@ -306562,6 +306935,24 @@ events:
     price: donation
     organisation: Siebenschritt e.V.
     source: events/germany/freiburg_i_br.yaml
+  - name: Gainesville English Country Dance
+    details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
+    links:
+      - "https://cdss.org/event/english-country-dance-on-mondays-in-gainesville/2026-09-07/"
+    start: "2026-09-07T18:00:00-04:00"
+    end: "2026-09-07T20:30:00-04:00"
+    country: USA
+    state: FL
+    city: Gainesville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Hoggetowne Fancy
+    price: $10
+    organisation: Gainesville English Country Dance
+    source: events/usa/cdss.yaml
   - name: Balfolk na Vyšehradě
     links:
       - "https://balfolk.cz/udalost/balfolk-na-vysehrade-4/"
@@ -308318,7 +308709,7 @@ events:
     organisation: Sönke
     source: events/germany/kalender.yaml
   - name: 50 Jahre FolkClub
-    details: "Der FolkClub Marburg feiert sein 50-jähriges Jubiläum! Dieses besondere Ereignis wird mit zwei großartigen Bands am Abend und drei besonderen Tanzworkshops am Tag gefeiert.  Für die Workshops konnten zwei herausragende Tanzpädagog:innen gewonnen werden: Gabi Haun tanzt so wunderschön präzise, dass Abgucken eine Freude ist. Ihre analytischen, kompakten Erklärungen machen das Lernen einfach. Öyven Janotta hat das unglaubliche Talent, den Tanzenden Erfahrungen und Werkzeuge mitzugeben, die den eigenen Tanzhorizont erweitern – mit kluger Didaktik, vielen Übungen und viel Freude am Experimentieren.  Öyven Janotta (Photo by Lena Sophie Zeller)  11:00 – 13:00 Schön folgen & führen und freieres Kommunizieren im Paartanz – Öyven Janotta  In der Polarität zwischen Führen und Folgen liegt eine Spannung, die sowohl schöpferisch als auch einschränkend sein kann. Was passiert, wenn die starren Grenzen aufweichen, wenn wir gestaltend folgen und hingebend führen? Können wir Rollen flüssig wechseln? Wie viel Klarheit der Identität bleibt in der Fluidität erhalten? Und welche Fragen und Unsicherheiten wirft das Spiel mit Polaritäten auf? Der Workshop ist eine Einladung, die eigenen Gewohnheiten und Normalitäten zu erkennen, zu hinterfragen und die Verhältnisse zum Tanzen zu bringen.  14:00 – 16:00 Bourée! – Gabi Haun & Werner Bachmann  Es gibt nicht nur die eine, sondern unzählige Formen aus den verschiedenen Regionen Frankreichs – sehr verbreitet sind bei uns die Formen aus dem Berry.  Wir lernen Basiselemente der Bourrée aus dem Berry, die Unterschiede zwischen einer Bourrée 2 temps (2er- Takt) und einer Bourrée 3 temps (3er- Takt) in Relation zur Musik und wie sich der besonderen Flow und das Gleiten in der Bourrée anfühlt. Erkenntnisse aus der Zusammenarbeit mit der Familie Guilcher und deren Forschungen fließen dabei mit ein. Das Ziel ist, Bewegungen und Musik zu einer Einheit verschmelzen zu lassen.  16:30 – 18:30 Miteinander tanzen – Öyven Janotta  Irgendwie sind wir ja alle hier, um miteinander zu tanzen, anstatt uns nur zufällig in ähnlichen Formen gleichzeitig in einem Raum zu bewegen. Aber was heißt es, mit allen zu tanzen? Wie viel Aufmerksamkeit haben wir für das, was um uns herum geschieht? Wie können wir uns so verhalten, dass wir nicht nur niemanden stören sondern zusammen den Raum gestalten? Wie schwer oder leicht fällt es, sich für die Begegnungen zu öffnen, die dabei geschehen? Mit diesen und mehr Fragen wollen wir ein paar typische Kreistänze und Mixer einmal bewusst als gemeinsame Tänze erfahren und erkunden.  Alle Workshops erfordern keine Vorkenntnisse. Aber eine Anmeldung, damit wir wissen, wie viele kommen: https://www.folkclub-marburg.de/wp/archive/events/tanzwokshops-26-9-2026  Tanzworkshop 19:00 Uhr: Heike Luu und Michael Müller zeigen kurz die wichtigsten Tänze und Überlebenstricks für die Tanzfläche. Ohne Workshop geht auch – aber mit macht es noch mehr Spaß!  (Dieser Workshop ist im Bal-Eintritt inbegriffen)  Ab 20:0 Bal Folk mit Initium und Triaz: Siehe separate Ankündigung.  Eintritt (normal / ermässigt): Ein Workshop 20€ / 15€, alle Workshops 40€ / 30€, alle Workshops + Bal 58€ / 40€, nur Bal 28€/17€"
+    details: "Der FolkClub Marburg feiert sein 50-jähriges Jubiläum! Dieses besondere Ereignis wird mit zwei großartigen Bands am Abend und drei besonderen Tanzworkshops am Tag gefeiert.  Für die Workshops konnten zwei herausragende Tanzpädagog:innen gewonnen werden: Gabi Haun tanzt so wunderschön präzise, dass Abgucken eine Freude ist. Ihre analytischen, kompakten Erklärungen machen das Lernen einfach. Öyven Janotta hat das unglaubliche Talent, den Tanzenden Erfahrungen und Werkzeuge mitzugeben, die den eigenen Tanzhorizont erweitern – mit kluger Didaktik, vielen Übungen und viel Freude am Experimentieren.  Öyven Janotta (Photo by Lena Sophie Zeller)  11:00 – 13:00 Führen, Folgen – und Dazwischen? Schön folgen & führen und freieres Kommunizieren im Paartanz – Öyven Janotta  In der Polarität zwischen Führen und Folgen liegt eine Spannung, die sowohl schöpferisch als auch einschränkend sein kann. Was passiert, wenn die starren Grenzen aufweichen, wenn wir gestaltend folgen und hingebend führen? Können wir Rollen flüssig wechseln? Wie viel Klarheit der Identität bleibt in der Fluidität erhalten? Und welche Fragen und Unsicherheiten wirft das Spiel mit Polaritäten auf? Der Workshop ist eine Einladung, die eigenen Gewohnheiten und Normalitäten zu erkennen, zu hinterfragen und die Verhältnisse zum Tanzen zu bringen.  14:00 – 16:00 Bourée! – Gabi Haun & Werner Bachmann  Es gibt nicht nur die eine, sondern unzählige Formen aus den verschiedenen Regionen Frankreichs – sehr verbreitet sind bei uns die Formen aus dem Berry.  Wir lernen Basiselemente der Bourrée aus dem Berry, die Unterschiede zwischen einer Bourrée 2 temps (2er- Takt) und einer Bourrée 3 temps (3er- Takt) in Relation zur Musik und wie sich der besonderen Flow und das Gleiten in der Bourrée anfühlt. Erkenntnisse aus der Zusammenarbeit mit der Familie Guilcher und deren Forschungen fließen dabei mit ein. Das Ziel ist, Bewegungen und Musik zu einer Einheit verschmelzen zu lassen.  16:30 – 18:30 Ich – wir zwei – wir alle! Miteinander tanzen – Öyven Janotta  Irgendwie sind wir ja alle hier, um miteinander zu tanzen, anstatt uns nur zufällig in ähnlichen Formen gleichzeitig in einem Raum zu bewegen. Aber was heißt es, mit allen zu tanzen? Wie viel Aufmerksamkeit haben wir für das, was um uns herum geschieht? Wie können wir uns so verhalten, dass wir nicht nur niemanden stören sondern zusammen den Raum gestalten? Wie schwer oder leicht fällt es, sich für die Begegnungen zu öffnen, die dabei geschehen? Mit diesen und mehr Fragen wollen wir ein paar typische Kreistänze und Mixer einmal bewusst als gemeinsame Tänze erfahren und erkunden.  Alle Workshops erfordern keine Vorkenntnisse. Aber eine Anmeldung, damit wir wissen, wie viele kommen: https://www.folkclub-marburg.de/wp/archive/events/tanzwokshops-26-9-2026  Tanzworkshop 19:00 Uhr: 6 Tänze in 1 Stunde – Crashkurs. Die wichtigsten Tänze und Überlebenstricks für die Tanzfläche. Ohne Workshop geht auch – aber mit macht es noch mehr Spaß! (Heike und Michael)  (Dieser Workshop ist im Bal-Eintritt inbegriffen)  Ab 20:0 Bal Folk mit Initium und Triaz: Siehe separate Ankündigung.  Eintritt (normal / ermässigt): Ein Workshop 20€ / 15€, alle Workshops 40€ / 30€, alle Workshops + Bal 58€ / 40€, nur Bal 28€/17€"
     links:
       - "https://folkclub-marburg.de"
     start: "2026-09-26T11:00:00+02:00"
@@ -309520,7 +309911,7 @@ events:
     organisation: London Barndance Company
     source: events/uk/london_barndance.yaml
   - name: Balfolk Deventer - CaDansa Pre-party
-    details: "Balfolk in Deventer op zondagmiddag\r\n\r\nvan 13.00-17.00 \r\n\r\nInvulling volgt\r\n\r\nHeb je een idee voor de invulling? Stuur me een bericht. (band, les, workshop etc)"
+    details: "Balfolk in Deventer op zondagmiddag\r\n\r\nvan 13.00-17.00 \r\n\r\nKom spelen en dansen.\r\nWil je samenspelen? Lekkere sessie spelen? Dansen? Kom dan naar de CadanSa pre-party in Deventer. \r\n\r\nMet Potluck, neem wat lekker mee :)"
     links:
       - "https://www.plug.events/event/balfolk-deventer-save-the-date"
     start: "2026-10-11T13:00:00+02:00"
@@ -311962,7 +312353,7 @@ events:
     organisation: London Barndance Company
     source: events/uk/london_barndance.yaml
   - name: Balfolk Deventer
-    details: "Balfolk in Deventer op zondagmiddag\r\n\r\nvan 13.00-17.00\r\n\r\nInvulling volgt\r\n\r\nHeb je een idee voor de invulling? Stuur me een bericht. (band, les, workshop etc)"
+    details: "Balfolk in Deventer op zondagmiddag\r\n\r\nvan 13.00-17.00\r\n\r\nWorkshop Bretonse dansen, gevolgd door Bal met Folk Knock quartet."
     links:
       - "https://www.plug.events/event/balfolk-deventer-save-the-date4"
     start: "2026-11-15T13:00:00+01:00"
@@ -311971,7 +312362,7 @@ events:
     city: Deventer
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Folk Knock
