@@ -3023,8 +3023,10 @@ events:
     social: true
     bands:
       - Countercurrent
+      - Bandage a Trois
     callers:
       - Alex Deis-Lauby
+    price: $75-$150
     organisation: TryContra
   - name: Lady of the Lake Fall Camp
     links:
@@ -4275,7 +4277,9 @@ events:
     workshop: true
     social: true
     callers:
+      - Joanna Reiner Wilkinson
       - Lisa Greenleaf
+      - Sue Rosen
     organisation: TryContra
   - name: Pinewoods English-Scottish-Contra
     links:
@@ -4295,6 +4299,8 @@ events:
       - The Pegasus Collective
       - Torrent
     callers:
+      - Brooke Friendly
+      - Arthur Baum
       - Will Mentor
       - Alex Cumming
       - Scott Higgs
@@ -4380,7 +4386,7 @@ events:
     bands:
       - The Gaslight Tinkers
       - The Star Charters
-      - The Russet Trio
+      - Russet Trio
     callers:
       - George Marshall
       - Beth Molaro
@@ -4601,16 +4607,18 @@ events:
     state: VT
     city: Fairlee
     styles:
-      - balfolk
       - contra
       - ecd
+      - scd
     workshop: true
     social: true
     bands:
       - Cojiro
       - Blue Joy
+      - Jacob & Audrey
     callers:
       - Hannah Chamberlain
+      - Harris Lapiroff
     organisation: TryContra
   - name: Adirondack Dance Weekend
     links:
@@ -4631,7 +4639,7 @@ events:
       - Hijinks
       - Leslie Barr & Bob Walser
       - Stove Dragon
-      - The Russet Trio
+      - Russet Trio
     callers:
       - Steve Zakon-Anderson
       - Alex Deis-Lauby
@@ -4661,19 +4669,22 @@ events:
   - name: Balance The Star Dance Weekend
     links:
       - "https://www.berea-folk-circle.org/fall-mountain-folk-festival"
-    start_date: 2026-09-25
-    end_date: 2026-09-26
+    start: "2026-09-25T19:00:00-04:00"
+    end: "2026-09-26T23:00:00-04:00"
     country: USA
     state: KY
     city: Berea
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
       - The Berea Castoffs
+      - Merry Maggots
     callers:
       - Wendy Graham
+    price: $20-$40
     organisation: TryContra
   - name: Mt. Nebo Dance Weekend
     links:
@@ -4769,7 +4780,7 @@ events:
     organisation: TryContra
   - name: Gender-Free Dance Camp
     links:
-      - "https://www.lcfd.org/lcfd/"
+      - "https://www.lcfd.org/fall-camp.html"
     start_date: 2026-10-16
     end_date: 2026-10-18
     country: USA
@@ -4784,18 +4795,20 @@ events:
       - Raven & Goose
     callers:
       - Adina Gordon
-      - Lyss Adkins
+      - Alyssa Adkins
+    price: $200-$500
     organisation: TryContra
   - name: Phylla Mae Fall Fest
     links:
       - "https://syracusecountrydancers.org/special-events/phylla-mae-fall-fest/"
-    start_date: 2026-10-16
-    end_date: 2026-10-17
+    start: "2026-10-16T18:00:00-04:00"
+    end: "2026-10-17T23:30:00-04:00"
     country: USA
     state: NY
     city: Fayetteville
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
@@ -4804,18 +4817,19 @@ events:
     callers:
       - Gaye Fifer
       - David Smukler
+    price: $50-$75
     organisation: TryContra
   - name: Peterbough Fall Ball
     links:
       - "https://www.monadnockfolk.org/event/%E2%98%BC-%E2%98%BC-%E2%98%BC-peterborough-fall-ball-2026/"
-    start_date: 2026-10-17
-    end_date: 2026-10-17
+    start: "2026-10-17T12:00:00-04:00"
+    end: "2026-10-17T23:59:00-04:00"
     country: USA
     state: NH
     city: Peterborough
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     callers:
       - Alex Deis-Lauby
@@ -4849,7 +4863,7 @@ events:
     organisation: TryContra
   - name: Fire Ant Frolic
     links:
-      - "http://www.fireantfrolic.org/"
+      - "https://fireantfrolic.org/wp/"
     start_date: 2026-11-13
     end_date: 2026-11-15
     country: USA
@@ -4864,6 +4878,7 @@ events:
       - Everett Wren Band
     callers:
       - Will Mentor
+    price: $60-$150
     organisation: TryContra
   - name: John C Campbell Fall Dance Weekend
     links:
@@ -5100,31 +5115,33 @@ events:
     organisation: TryContra
   - name: Dancing Fish
     links:
-      - "https://dancingfish.dance/"
-    start_date: 2026-12-04
-    end_date: 2026-12-05
+      - "https://dancingfish.dance/event/bob-isaacs-and-frenzy/"
+    start: "2026-12-04T18:00:00-05:00"
+    end: "2026-12-05T21:00:00-05:00"
     country: USA
     state: FL
     city: Melrose
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
     bands:
       - Frenzy
     callers:
       - Bob Isaacs
+    price: $20-$60
     organisation: Dancing Fish
   - name: Contradancers Delight Holiday
     links:
       - "https://contradancersdelight.com/"
-    start_date: 2026-12-26
-    end_date: 2027-01-01
+    start: "2026-12-26T14:00:00-05:00"
+    end: "2027-01-01T14:00:00-05:00"
     country: USA
     state: WV
     city: Morgantown
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
