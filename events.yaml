@@ -262461,6 +262461,7 @@ events:
     source: events/uk/london_barndance.yaml
   - name: Oxfolk Ceilidh
     links:
+      - "https://oxfolk.org.uk/events/oxfolk-ceilidh-with-the-dirty-big-canal-dance-band-caller-amy-gill-with-berkshire-bedlam/"
       - "https://www.tickettailor.com/events/oxfolkceilidhs/1951358"
     start: "2026-03-14T20:00:00+00:00"
     end: "2026-03-14T23:00:00+00:00"
@@ -305739,6 +305740,19 @@ events:
     price: $5
     organisation: CDSS
     source: events/usa/cdss.yaml
+  - name: Sommertanzen
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-09-01T18:00:00+02:00"
+    end: "2026-09-01T22:00:00+02:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Balfolk na Vyšehradě
     links:
       - "https://balfolk.cz/udalost/balfolk-na-vysehrade-4/"
@@ -307067,6 +307081,21 @@ events:
     price: donation
     organisation: Siebenschritt e.V.
     source: events/germany/freiburg_i_br.yaml
+  - name: Social dansavond
+    details: "Voor onze community in ’s Hertogenbosch is het gelukt om eindelijk een vaste dansavond op te zetten! Elke 2 weken is het mogelijk om te komen dansen bij Cafe station Zuid (kelder), elkaar weer te spreken of om nieuwe dansers te introduceren.\r\n\r\nBalfolk is een toegankelijke sociale dansvorm met dansen zoals de scottish, mazurka en andro. Je danst samen, wisselt van partner en geniet van de sfeer – ervaring is niet nodig. Iedereen is welkom, van beginner tot ervaren danser.\r\n\r\nKom alleen of samen, trek makkelijk zittende schoenen aan en laten we het samen gezellig maken!\r\nTot op de dansvloer! ✨"
+    links:
+      - "https://www.plug.events/event/social-dansavond-s-hertogenbosch780"
+    start: "2026-09-07T20:00:00+02:00"
+    end: "2026-09-07T22:30:00+02:00"
+    country: Netherlands
+    city: "'s-Hertogenbosch"
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €7.50
+    organisation: BalfolkSync
+    source: events/netherlands/plug_balfolk.yaml
   - name: Gainesville English Country Dance
     details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
     links:
@@ -307154,6 +307183,19 @@ events:
     price: $5-$10
     organisation: Louisville Country Dancers
     source: events/usa/cdss.yaml
+  - name: Sommertanzen
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-09-08T18:00:00+02:00"
+    end: "2026-09-08T22:00:00+02:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Balfolk na Vyšehradě
     links:
       - "https://balfolk.cz/udalost/balfolk-na-vysehrade-4/"
@@ -308773,6 +308815,19 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Sommertanzen
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-09-15T18:00:00+02:00"
+    end: "2026-09-15T22:00:00+02:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Portes Ouvertes Elédanse
     details: Ball
     links:
@@ -309015,6 +309070,77 @@ events:
     price: $5
     organisation: John Bloom
     source: events/usa/cdss.yaml
+  - name: Baltimore Folk Music Society Wednesday Contra Dance
+    details: "The Baltimore Folk Music Society presents Contra Dancing on 1st, 3rd, and 5th Wednesdays, 8:00 to 10:30 p.m., in the hall at Lovely Lane United Methodist Church. \n\nGender-free calling\nNo partner? No problem.\nNew dancer lesson every week at 7:30pm\nLive music from local, regional, and national bands\n\nAdmission \n\n$10 for members and affiliates (FSGW, ATDS)\n$15 for non-members\nUnder 21 and full-time students with IDs: Free!\n\nThe Wednesday Contra Dance is sponsored in part by a grant from the Maryland State Arts Council. \nSee our Contra dance FAQs for general information on Contra Dances. \nPlease see our Behavior Policy."
+    links:
+      - "https://www.bfms.org/squarecontra.php"
+      - "https://cdss.org/event/monday-night-english-country-dance-2/2026-09-16/"
+    start: "2026-09-16T19:30:00-04:00"
+    end: "2026-09-16T22:30:00-04:00"
+    country: USA
+    state: MD
+    city: Baltimore
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Princeton Country Dancers’ Contra Dance
+    details: "Weekly contra dance on Wednesday nights, 8:00-10:30."
+    links:
+      - "https://www.princetoncountrydancers.org/"
+      - "https://cdss.org/event/princeton-country-dancers-contra-dance/2026-09-16/"
+    start: "2026-09-16T19:30:00-04:00"
+    end: "2026-09-16T22:30:00-04:00"
+    country: USA
+    state: NJ
+    city: Princeton
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Richmond English Country Dance
+    details: "Please join us for our weekly English Country Dancing Wednesday night social at 7:30 p.m. All dances are taught, walked through, and called. No experience or partner are required, just a pair of comfortable shoes. New dancers are asked to please come at at least 10 minutes before the start of the session. The first night is free; after that $2 per evening."
+    links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
+      - "https://cdss.org/event/richmond-va-english-country-dance-2-2/2026-09-16/"
+    start: "2026-09-16T19:30:00-04:00"
+    end: "2026-09-16T21:30:00-04:00"
+    country: USA
+    state: VA
+    city: Richmond
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
+    source: events/usa/cdss.yaml
+  - name: Weekly Austin Contra Dance
+    details: "A free weekly dance at Hancock Recreation Center, with music by the jam/pickup band, Local On-Call Orchestra (LOCO). We dance every week that Hancock Recreation Center is open. A brief beginners session is taught at 7:30, before the dance program begins. Dance ends about 9:30. Free parking lot.\n \n\nWe welcome beginners. If you can walk to a beat, you can contra dance! All dances are taught and called. No partner necessary. Dance either role – or both. Everyone is welcome. \n \nSober event. Family-friendly. LGBTQ+"
+    links:
+      - "https://austinbarndancers.org/"
+      - "https://taada.us/wp/events/"
+      - "https://cdss.org/event/weekly-austin-contra-dance/2026-09-16/"
+    start: "2026-09-16T19:15:00-05:00"
+    end: "2026-09-16T21:30:00-05:00"
+    country: USA
+    state: TX
+    city: Austin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Local On-Call Orchestra
+    price: free
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: Nordic dances (Intermediate)
     details: "New class series begins on Sept 2.   <br><span> </span><br><span>Lisa Brooks and Elaine Mathies will teach on September 2, 9, 16, and 23, then Harry Khamis and Pat Pi will teach on September 30 and the following three weeks.  We will review dances taught at Springdans or on recent Fridays.  You may request dances as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role. </span> <br> <br>The cost is $45 for Skandia members and $55 for non-members for a 6-week series ($10 / $12 for one-class drop-in).<br>Send questions to <a href=\"mailto:lisa@hambo.us\" target=\"_blank\">lisa@hambo.us</a> or (206) 258-2580."
     links:
@@ -309031,6 +309157,27 @@ events:
     price: $10-$12
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Berkeley Contra Dance
+    details: "BACDS presents a dance every Wednesday (contra on 1st/3rd/5th Wed 8pm-10:30pm; English on 2nd/4th Wed 7:45pm-10pm) at Christ Church East Bay, 2138 Cedar St. (near Oxford), Berkeley. Both series include an introductory lesson about 15-20 minutes before the dance start time."
+    links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
+      - "https://cdss.org/event/berkeley-contra-or-english-dance/2026-09-16/"
+    start: "2026-09-16T19:30:00-07:00"
+    end: "2026-09-16T22:30:00-07:00"
+    country: USA
+    state: CA
+    city: Berkeley
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Totally Tubular
+    callers:
+      - Alan Winston
+    price: $6-$25
+    organisation: Bay Area Country Dance Society
+    source: events/usa/cdss.yaml
   - name: "Socialles 385 - basis mixers: onder andere Jig en Cercle"
     details: "Deze donderdag 17 september is het socialles 385 in Rotterdam. In deze les gaan we de basis van een aantal groepsdansen aanleren: de jig of gigue. en de de cercle of tovercirkel. Waarschijnlijk komt er ook nog een derde, minder bekende mixer aan bod. \r\n\r\nIn deze les, gegeven door Mila Pennings, komt de basis aan bod, met vooral veel aandacht voor pretting volgen en leiden. \r\n\r\nVoor deze les is geen danservaring nodig. Als je wel wat meer uitdaging wil, kan je oefenen met de andere rol! Volgende week volgt het vervolg op deze les.\r\n\r\nZoals bij al onze activiteiten, kan je zonder partner komen."
     links:
@@ -309077,6 +309224,25 @@ events:
     social: false
     organisation: Balfolk Köln
     source: events/germany/cologne.yaml
+  - name: Gentle English
+    details: "English Country Dancing for those who enjoy relaxed tempos and familiar figures. Jenny Beer leading, music by laptop."
+    links:
+      - "https://parkavenuecontra.org/GentleEnglish"
+      - "https://cdss.org/event/gentle-english-swarthmore-pa-2/2026-09-17/"
+    start: "2026-09-17T14:00:00-04:00"
+    end: "2026-09-17T16:00:00-04:00"
+    country: USA
+    state: PA
+    city: Swarthmore
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Jenny Beer
+    price: $5-$10
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: Dance Class Level 4
     details: Course
     links:
@@ -309093,6 +309259,22 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Old Tyme Contra & Community Dance
+    details: "We dance from March to November:\n\nThird Thursday evening of the month at the Macon County Public Library: lesson at 6:30, dance 7-9pm.\nThird Sunday afternoon of the month at Cowee School Arts & Heritage Center: lesson at 2:30, dance 3-5pm.\n\n\nLive band and dance caller for contras, squares, round, and fun crazy family dances, too.\nBeginners are welcome! No need to bring a partner, but you are welcome to do so.\nChildren over age 8 who are game to participate may also attend.\nBring a closed water container and a snack if you choose.\nSmooth-soled shoes work best on the Library’s wonderful wood floor.\nPlease do not wear perfume or scents to the dances.\n\nSuggested donation: $10 adults; kids under 14 free. \n* Note: Our venue changes often. Please check our Facebook page for updates."
+    links:
+      - "https://cdss.org/event/old-tyme-contra-community-dance-of-macon-county-nc/2026-09-17/"
+    start: "2026-09-17T18:30:00-04:00"
+    end: "2026-09-17T21:00:00-04:00"
+    country: USA
+    state: NC
+    city: Franklin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10
+    organisation: Friends of Contra Dance of Macon County
+    source: events/usa/cdss.yaml
   - name: Fandango
     details: "Join us in Atlanta/Decatur, GA for a weekend of English Country Dance! \nJoanna Reiner Wilkinson, caller \nMusic by Karen Axelrod, Shira Kammen, & Anna Patton \nRegistration opens April 2026—check our website for updates. \nSee you in September!"
     links:
@@ -309150,6 +309332,23 @@ events:
       - Will Mentor
     organisation: TryContra
     source: events/usa/trycontra.yaml
+  - name: Third Thursday English Regency Dancing
+    details: "English Regency Dancing and Bridgerton™-era dance lessons for moderns (1795-1825). Be whisked through time as you learn smooth, elegant English Country Dance as Jane Austen might have danced herself. Light refreshments served; bring your own water. No costumes, partner, or experience required. Please, no high heels. \nLet’s all party like it’s 1799! \nPreregistration is mandatory\nEach participant must pre-register either in person at the community center or online. \nFor more information and registration, please contact the Rancho Santa Susana Community Center office staff at (805) 584-4456."
+    links:
+      - "https://www.valleyareaenglishregencysociety.org/about.html"
+      - "https://cdss.org/event/third-thursday-english-regency-dancing-in-simi-valley/2026-09-17/"
+    start: "2026-09-17T18:00:00-07:00"
+    end: "2026-09-17T20:00:00-07:00"
+    country: USA
+    state: CA
+    city: Simi Valley
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10
+    organisation: Valley Area English Regency Society
+    source: events/usa/cdss.yaml
   - name: Balfolkcafe Groningen
     details: "Duo Baftig bij Balfolk Groningen op vrijdag 18 september 2026\r\nAanvang: 19:30\r\nEntree: Vrijwillige bijdrage, geef gul voor de band! Bijvoorbeeld €15 per persoon\r\nLocatie: Theater De Kapel in het Oude Rooms Katholiek Ziekenhuis (ORKZ),\r\nEmmastraat 15, 9722 EW Groningen\r\n\r\nBalfolk Groningen is dansen op live folkmuziek en natuurlijk sessie na afloop: dus neem ook je instrumenten mee!\r\n\r\nGlobaal tijdschema:\r\n19:30 dansworkshop\r\n20:30 Bal\r\n22:30 sessie\r\n23:00 einde programma\r\n(Tijden onder voorbehoud)"
     links:
@@ -309660,6 +309859,21 @@ events:
     price: donation
     organisation: Siebenschritt e.V.
     source: events/germany/freiburg_i_br.yaml
+  - name: Social dansavond
+    details: "Voor onze community in ’s Hertogenbosch is het gelukt om eindelijk een vaste dansavond op te zetten! Elke 2 weken is het mogelijk om te komen dansen bij Cafe station Zuid (kelder), elkaar weer te spreken of om nieuwe dansers te introduceren.\r\n\r\nBalfolk is een toegankelijke sociale dansvorm met dansen zoals de scottish, mazurka en andro. Je danst samen, wisselt van partner en geniet van de sfeer – ervaring is niet nodig. Iedereen is welkom, van beginner tot ervaren danser.\r\n\r\nKom alleen of samen, trek makkelijk zittende schoenen aan en laten we het samen gezellig maken!\r\nTot op de dansvloer! ✨"
+    links:
+      - "https://www.plug.events/event/social-dansavond-s-hertogenbosch664"
+    start: "2026-09-21T20:00:00+02:00"
+    end: "2026-09-21T22:30:00+02:00"
+    country: Netherlands
+    city: "'s-Hertogenbosch"
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €7.50
+    organisation: BalfolkSync
+    source: events/netherlands/plug_balfolk.yaml
   - name: Beginner class at Univ Heights Center
     details: "<p><span>The class resumes on Mondays from 7-9 pm starting on September 14, at the University Heights Center near UW.  It will run through December 14 and then start up again on January 4, 2027.  FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don't have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
     links:
@@ -309690,6 +309904,19 @@ events:
     social: true
     organisation: Balfolk.cz
     source: events/czechia/balfolk_cz.yaml
+  - name: Schottisch und Menuett
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-09-22T19:30:00+02:00"
+    end: "2026-09-23T00:00:00+02:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -310020,6 +310247,26 @@ events:
     organisation: Balfolk Voorne
     cancelled: true
     source: events/netherlands/plug_balfolk.yaml
+  - name: 50 Jahre FolkClub Marburg
+    details: "Wir feiern Jubiläum!\n\nSeit einem halben Jahrhundert bringt der FolkClub Marburg Menschen zusammen, die die Freude an Musik, Begegnung und kulturellem Austausch teilen. 50 Jahre voller Lieder, Geschichten, gemeinsamer Abende und unvergesslicher Momente – das möchten wir mit euch feiern!\nTanzworkshops  und Bal Folk - Samstag\n\nWorkshops:\n\n 11:00 - 13:00 Führen, Folgen - und Dazwischen? Schön folgen & führen und freieres Kommunizieren im Paartanz (Öyven Janotta)\n\n 14:00 - 16:00 Bourée (Gabi Haun + Werner Bachmann)\n\n 16:30 - 18:30 Ich - wir zwei - wir alle! Miteinander tanzen (Öyven Janotta)\n\n 19:00 - 20:00 6 Tänze in 1 Stunde - Crashkurs (Heike + Michael)\n\n\n20:00 Bal Folk mit:\n\n Triaz - einer jungen frischen Band - Leipzig/Paris\n\n Trio Initium - mit Altmeister Bruno Le Tron - Frankreich\n\n und danach vielleicht Session?\n\n\nDie hochkarätigen Tanzworkshops sind eine einmalige Gelegenheit in Marburg!\nMarburger Abend - Sonntag\n\nAm Sonntag Abend endet das Jubiläumsfest mit einem Marburger Abend - bei dem man zwar selten tanzen kann, der aber auch zu unseren Herzensangelegenheiten gehört: https://www.kfz-marburg.de/programm/345-marburger-abend\nÜbernachtung / Mitfahrgelegenheit\n\nFalls ihr eine Übernachtung oder Mitfahrgelegenheit sucht oder anbieten wollt, mailt an: folkclubmarburg@gmx.de ."
+    links:
+      - "https://www.folkclub-marburg.de/wp/archive/3101"
+      - "https://www.folkclub-marburg.de/wp/archive/3142"
+      - "https://www.folkclub-marburg.de/wp/archive/3146"
+    start: "2026-09-26T10:45:00+02:00"
+    end: "2026-09-26T23:00:00+02:00"
+    country: Germany
+    city: Marburg
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Initium
+      - Triaz
+    price: €17-€58
+    organisation: Folkclub Marburg
+    source: events/germany/marburg.yaml
   - name: Tanztag am Bodensee
     details: "Balfolk mit Havok, Zephyr Combo und Xenia Twarz"
     links:
@@ -310038,24 +310285,6 @@ events:
       - Xenia Twarz
     organisation: Sönke
     source: events/germany/kalender.yaml
-  - name: 50 Jahre FolkClub
-    details: "Der FolkClub Marburg feiert sein 50-jähriges Jubiläum! Dieses besondere Ereignis wird mit zwei großartigen Bands am Abend und drei besonderen Tanzworkshops am Tag gefeiert.  Für die Workshops konnten zwei herausragende Tanzpädagog:innen gewonnen werden: Gabi Haun tanzt so wunderschön präzise, dass Abgucken eine Freude ist. Ihre analytischen, kompakten Erklärungen machen das Lernen einfach. Öyven Janotta hat das unglaubliche Talent, den Tanzenden Erfahrungen und Werkzeuge mitzugeben, die den eigenen Tanzhorizont erweitern – mit kluger Didaktik, vielen Übungen und viel Freude am Experimentieren.  Öyven Janotta (Photo by Lena Sophie Zeller)  11:00 – 13:00 Führen, Folgen – und Dazwischen? Schön folgen & führen und freieres Kommunizieren im Paartanz – Öyven Janotta  In der Polarität zwischen Führen und Folgen liegt eine Spannung, die sowohl schöpferisch als auch einschränkend sein kann. Was passiert, wenn die starren Grenzen aufweichen, wenn wir gestaltend folgen und hingebend führen? Können wir Rollen flüssig wechseln? Wie viel Klarheit der Identität bleibt in der Fluidität erhalten? Und welche Fragen und Unsicherheiten wirft das Spiel mit Polaritäten auf? Der Workshop ist eine Einladung, die eigenen Gewohnheiten und Normalitäten zu erkennen, zu hinterfragen und die Verhältnisse zum Tanzen zu bringen.  14:00 – 16:00 Bourée! – Gabi Haun & Werner Bachmann  Es gibt nicht nur die eine, sondern unzählige Formen aus den verschiedenen Regionen Frankreichs – sehr verbreitet sind bei uns die Formen aus dem Berry.  Wir lernen Basiselemente der Bourrée aus dem Berry, die Unterschiede zwischen einer Bourrée 2 temps (2er- Takt) und einer Bourrée 3 temps (3er- Takt) in Relation zur Musik und wie sich der besonderen Flow und das Gleiten in der Bourrée anfühlt. Erkenntnisse aus der Zusammenarbeit mit der Familie Guilcher und deren Forschungen fließen dabei mit ein. Das Ziel ist, Bewegungen und Musik zu einer Einheit verschmelzen zu lassen.  16:30 – 18:30 Ich – wir zwei – wir alle! Miteinander tanzen – Öyven Janotta  Irgendwie sind wir ja alle hier, um miteinander zu tanzen, anstatt uns nur zufällig in ähnlichen Formen gleichzeitig in einem Raum zu bewegen. Aber was heißt es, mit allen zu tanzen? Wie viel Aufmerksamkeit haben wir für das, was um uns herum geschieht? Wie können wir uns so verhalten, dass wir nicht nur niemanden stören sondern zusammen den Raum gestalten? Wie schwer oder leicht fällt es, sich für die Begegnungen zu öffnen, die dabei geschehen? Mit diesen und mehr Fragen wollen wir ein paar typische Kreistänze und Mixer einmal bewusst als gemeinsame Tänze erfahren und erkunden.  Alle Workshops erfordern keine Vorkenntnisse. Aber eine Anmeldung, damit wir wissen, wie viele kommen: https://www.folkclub-marburg.de/wp/archive/events/tanzwokshops-26-9-2026  Tanzworkshop 19:00 Uhr: 6 Tänze in 1 Stunde – Crashkurs. Die wichtigsten Tänze und Überlebenstricks für die Tanzfläche. Ohne Workshop geht auch – aber mit macht es noch mehr Spaß! (Heike und Michael)  (Dieser Workshop ist im Bal-Eintritt inbegriffen und braucht keine Anmeldung)  Ab 20:0 Bal Folk mit Initium und Triaz: Siehe separate Ankündigung.  Eintritt (normal / ermässigt): Ein Workshop 20€ / 15€, alle Workshops 40€ / 30€, alle Workshops + Bal 58€ / 40€, nur Bal 28€/17€"
-    links:
-      - "https://folkclub-marburg.de"
-    start: "2026-09-26T11:00:00+02:00"
-    end: "2026-09-26T23:00:00+02:00"
-    country: Germany
-    city: Marburg
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Initium
-      - Triaz
-    price: €17-€58
-    organisation: Folkclub Marburg
-    source: events/germany/marburg.yaml
   - name: Grand Bal de Chidlow
     links:
       - "https://www.facebook.com/profile.php?id=61559792874748&sk=about"
@@ -310434,6 +310663,19 @@ events:
     social: false
     organisation: Balfolk Burghausen
     source: events/germany/burghausen.yaml
+  - name: Walzer (Grundschritt / Führen)
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-09-29T19:30:00+02:00"
+    end: "2026-09-30T00:00:00+02:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond met livemuziek
     details: "Tijdens onze vaste dansavond op dinsdag 29 september komt Fabella spelen! \r\n\r\nZe spelen vanaf 20:00 uur, ongeveer een uur. Daarvoor is er ruimte voor een korte dansinstructie vanaf 19:30 uur. De rest van de dansavond zetten we natuurlijk onze eigen muzieklijst aan. Je hoeft niet niet aan te melden voor deze dansavond met livemuziek."
     links:
@@ -310930,6 +311172,21 @@ events:
     price: donation
     organisation: Siebenschritt e.V.
     source: events/germany/freiburg_i_br.yaml
+  - name: Social dansavond
+    details: "Voor onze community in ’s Hertogenbosch is het gelukt om eindelijk een vaste dansavond op te zetten! Elke 2 weken is het mogelijk om te komen dansen bij Cafe station Zuid (kelder), elkaar weer te spreken of om nieuwe dansers te introduceren.\r\n\r\nBalfolk is een toegankelijke sociale dansvorm met dansen zoals de scottish, mazurka en andro. Je danst samen, wisselt van partner en geniet van de sfeer – ervaring is niet nodig. Iedereen is welkom, van beginner tot ervaren danser.\r\n\r\nKom alleen of samen, trek makkelijk zittende schoenen aan en laten we het samen gezellig maken!\r\nTot op de dansvloer! ✨"
+    links:
+      - "https://www.plug.events/event/social-dansavond-s-hertogenbosch807"
+    start: "2026-10-05T20:00:00+02:00"
+    end: "2026-10-05T22:30:00+02:00"
+    country: Netherlands
+    city: "'s-Hertogenbosch"
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €7.50
+    organisation: BalfolkSync
+    source: events/netherlands/plug_balfolk.yaml
   - name: Dansavond
     details: "Maandag avond gezellig dansen. Iedereen is welkom!\r\nWe starten om 20:30 tot 22:00."
     links:
@@ -310975,6 +311232,19 @@ events:
     social: false
     organisation: Balfolk Burghausen
     source: events/germany/burghausen.yaml
+  - name: Walzer
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-10-06T19:30:00+02:00"
+    end: "2026-10-07T00:00:00+02:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -311276,6 +311546,26 @@ events:
     price: €10-€20
     organisation: Tanzhaus Insnbruck
     source: events/austria/innsbruck.yaml
+  - name: Oxfolk Ceilidh
+    details: "Doors 7.30pm, dancing from 8 until 11pm.\n\nReforming for their 30th anniversary in 2026, highly influential and utterly awesome group The Bismarcks is an English ceilidh dance band comprising Gareth Kiddier (piano), Nina Hansell (fiddle), and Ed Rennie (melodeon). They have released two critically acclaimed albums with support from the English Folk Dance and Song Society which remain formative references for top quality English traditional dance music.\nJoining them to call the dances is Ollie Simons, one of the most charismatic and in-demand young callers currently on the scene. His calling is infectious, you can't help but dance with a grin on your face. Ollie uses gender neutral, positional calls.\nHalf time entertainment comes from Djinn and Soniq who blend folk and pop with harp and pipes, putting a new spin on old tunes and an old shine on new ones.\nThere is a licensed bar with ale, cider, wine and soft drinks.\nSaving the planet - Oxfolk is no longer serving drinks in disposable glasses so please bring along your own reusable glasses or purchase an Oxfolk one at the bar.\n\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on info@oxfolk.org.uk"
+    links:
+      - "https://oxfolk.org.uk/events/oxfolk-ceilidh-with-the-bismarcks-and-caller-ollie-simons/"
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/2375435"
+    start: "2026-10-10T19:30:00+01:00"
+    end: "2026-10-10T23:00:00+01:00"
+    country: UK
+    city: Oxford
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - The Bismarcks
+    callers:
+      - Ollie Simons
+    price: £4-£14
+    organisation: Oxfolk
+    source: events/uk/oxfolk.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-10-10-26-grand-junction-paddington/"
@@ -311509,6 +311799,19 @@ events:
     social: false
     organisation: Balfolk Burghausen
     source: events/germany/burghausen.yaml
+  - name: Schottisch (Mixer / Führen)
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-10-13T19:30:00+02:00"
+    end: "2026-10-14T00:00:00+02:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -312071,6 +312374,21 @@ events:
     price: donation
     organisation: Siebenschritt e.V.
     source: events/germany/freiburg_i_br.yaml
+  - name: Social dansavond
+    details: "Voor onze community in ’s Hertogenbosch is het gelukt om eindelijk een vaste dansavond op te zetten! Elke 2 weken is het mogelijk om te komen dansen bij Cafe station Zuid (kelder), elkaar weer te spreken of om nieuwe dansers te introduceren.\r\n\r\nBalfolk is een toegankelijke sociale dansvorm met dansen zoals de scottish, mazurka en andro. Je danst samen, wisselt van partner en geniet van de sfeer – ervaring is niet nodig. Iedereen is welkom, van beginner tot ervaren danser.\r\n\r\nKom alleen of samen, trek makkelijk zittende schoenen aan en laten we het samen gezellig maken!\r\nTot op de dansvloer! ✨"
+    links:
+      - "https://www.plug.events/event/social-dansavond-s-hertogenbosch171"
+    start: "2026-10-19T20:00:00+02:00"
+    end: "2026-10-19T22:30:00+02:00"
+    country: Netherlands
+    city: "'s-Hertogenbosch"
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €7.50
+    organisation: BalfolkSync
+    source: events/netherlands/plug_balfolk.yaml
   - name: Dansavond
     details: "Maandag avond gezellig dansen. Iedereen is welkom!\r\nWe starten om 20:30 tot 22:00."
     links:
@@ -312116,6 +312434,19 @@ events:
     social: false
     organisation: Balfolk Burghausen
     source: events/germany/burghausen.yaml
+  - name: Hohnstein Tänze
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-10-20T19:30:00+02:00"
+    end: "2026-10-21T00:00:00+02:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -312503,6 +312834,23 @@ events:
       - Emily & The Simons
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Bal Folk
+    details: "Zwischen den Tönen liegt die Zeit\n\nSeine Musik atmet. Rhythmus, Zeit, Gefühl, die Stille zwischen den Tönen. Perfektion mit einem Lächeln. Er spielt bretonische Fest Noz Musik wie ein Bretone – mit punktgenauen Rhythmen und doch mit einer virtuosen Leichtigkeit. Dies kommt dann auch allen anderen Stücken zugute, darunter diversen Eigenkompositionen.\nGroße Soli spielen? Ja, kann er - aber das können viele. Das Besondere an seinem Spiel liegt in den kleinen Nuancen verborgen, mit denen sich die Musik immer weiter entwickelt. Genaues Hinhören wird belohnt – das Wie und Wann der einzelnen Töne erzählt Geschichten, die man nicht verpassen möchte.\nFugengleich verweben sich seine Basslinien mit den Melodien – oft leicht swingend, immer kleinen Veränderungen aufgeschlossen.\nDer Ausnahmeakkordeonist Andreas Neumann beherrscht die ganze Bandbreite der Bal Folk Musik – aber auch in Deutschland seltenere Wünsche kann er erfüllen. Wir wünschen uns eine Gavotte du Bas Léon!\nMit Auftritten in Frankreich, Italien, Schweiz, Niederlande, Belgien und immer wieder der Bretagne greift er auf vielseitige Erfahrung und Austausch mit anderen Musizierenden zurück. Wer sich auf seine Akkordeon-Klangwelten einlässt, möchte nur noch zuhören, dem Rhythmus folgen, weiter und weiter. So kann es vorkommen, dass sich eine Kette von Tanzenden der inneren Musik folgend weiter bewegt, obwohl das Stück schon längst zu Ende ist.\n\nAndreas Neumann: Diatonisches Akkordeon\n\nTanzworkshop 19 Uhr: Wir zeigen kurz die wichtigsten Tänze und Überlebenstricks für die Tanzfläche. Mit Live-Musik. Ohne Workshop geht auch – aber mit macht es noch mehr Spaß!\n\nAbendkasse: 18,- / 11,- (günstig / ermäßigt)"
+    links:
+      - "https://www.folkclub-marburg.de/wp/archive/3177"
+    start: "2026-10-25T19:00:00+01:00"
+    end: "2026-10-25T23:00:00+01:00"
+    country: Germany
+    city: Marburg
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Andreas Neumann
+    price: €11-€18
+    organisation: Folkclub Marburg
+    source: events/germany/marburg.yaml
   - name: Tanzen mit Nicola – Gruppentänze
     details: "Tauche in die Choreografie ein: Tanzfreude pur ohne feste/festen Partner:in!\n\nEntdecke die Vielfalt des Tanzens ohne feste/festen Partner:in! Von tradierten bis hin zu historischen Tänzen aus dem 17., 18. und 19. Jahrhundert (u. a. von John Playford) biete ich Ihnen eine reiche Auswahl an Bewegungsformen im Kreis, in der Reihe oder im Viereck. Lassen Sie sich von der mitreißender Musik inspirieren und entdecken Sie Ihren eigenen Rhythmus."
     links:
@@ -312594,6 +312942,19 @@ events:
     social: false
     organisation: Balfolk Burghausen
     source: events/germany/burghausen.yaml
+  - name: Ungerade Walzer
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-10-27T19:30:00+01:00"
+    end: "2026-10-28T00:00:00+01:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -313110,6 +313471,19 @@ events:
     social: false
     organisation: Balfolk Burghausen
     source: events/germany/burghausen.yaml
+  - name: Walzermixer
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-11-03T19:30:00+01:00"
+    end: "2026-11-04T00:00:00+01:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -313696,6 +314070,19 @@ events:
     social: false
     organisation: Balfolk Burghausen
     source: events/germany/burghausen.yaml
+  - name: Coleading
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-11-10T19:30:00+01:00"
+    end: "2026-11-11T00:00:00+01:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -314020,6 +314407,26 @@ events:
     price: £21-£27
     organisation: London Ceilidh Club
     source: events/uk/ceilidh_club.yaml
+  - name: Oxfolk Ceilidh
+    details: "Doors 7.30pm, dancing from 8 until 11pm.\n\nWe are delighted that the Hampshire band Jigfoot are joining us this month. The band approaches traditional dance tunes with energy, inventiveness and, above all, swing. They specialise in playing tunes from southern England and particularly their county. But most of all what they play is sublime to dance to. The band is: Cath Watkins and Ben Potton on fiddles, Gill Redmond on cello, Kim Sheil on melodeon and Nic Bradford on guitar.\nCalling the dances is Barry Goodman, a well-known caller who has worked with many of the finest ceilidh bands in the country. He likes to make dancers feel relaxed and confident and his clear but laid-back style of teaching the dances has made him a popular choice at folk festivals and ceilidhs nationwide. Barry uses gender neutral, positional calls.\nInterval entertainment is from the fantastic Molly No Mates, the drag king molly dance team from Bristol.\nThere is a licensed bar with ale, cider, wine and soft drinks.\nSaving the planet - Oxfolk is no longer serving drinks in disposable glasses so please bring along your own reusable glasses or purchase an Oxfolk one at the bar.\n\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on info@oxfolk.org.uk"
+    links:
+      - "https://oxfolk.org.uk/events/oxfolk-ceilidh-with-jigfoot-and-caller-barry-goodman/"
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/2375449"
+    start: "2026-11-14T19:30:00+00:00"
+    end: "2026-11-14T23:00:00+00:00"
+    country: UK
+    city: Oxford
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Jigfoot
+    callers:
+      - Barry Goodman
+    price: £4-£14
+    organisation: Oxfolk
+    source: events/uk/oxfolk.yaml
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
@@ -314198,6 +314605,19 @@ events:
     social: false
     organisation: Balfolk Burghausen
     source: events/germany/burghausen.yaml
+  - name: Ungerade Walzer
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-11-17T19:30:00+01:00"
+    end: "2026-11-18T00:00:00+01:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -314760,6 +315180,19 @@ events:
     price: free
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Bourrée
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-11-24T19:30:00+01:00"
+    end: "2026-11-25T00:00:00+01:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -315036,6 +315469,26 @@ events:
     price: £21-£27
     organisation: London Ceilidh Club
     source: events/uk/ceilidh_club.yaml
+  - name: Oxford Contra
+    details: "Doors 7.30pm, contra basics lesson at 7.45pm, dancing until 11pm.\nNozzy are a high-energy lively contra duo from Bath. With Ozzy on piano, and Nikki on fiddle and flute, they take music from pretty much anywhere and set it to a fun and danceable beat.\nCharlotte Rich-Griffin is a friendly contra dance caller from Oxford. She loves sharing the joy of contra dances with everyone from absolute beginners right through to die-hard fans. You may have seen her calling at Chippenham, Sidmouth or Whitby Folk Festivals. Calling will be non gendered, and either positional (no role terms) or with role terms such as Larks and Robins.\n\nThere is no licensed bar at this event, so please feel free to bring your own drinks. Tea, coffee and squash will be available to buy, and water is freely available. We don’t use disposable glasses, so feel free to bring your own, or purchase an Oxfolk one at the event.\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on oxfordcontra@gmail.com"
+    links:
+      - "https://oxfolk.org.uk/events/oxford-contra-with-nozzy-and-caller-charlotte-rich-griffin/"
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/2375616"
+    start: "2026-11-28T19:30:00+00:00"
+    end: "2026-11-28T23:00:00+00:00"
+    country: UK
+    city: Oxford
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Nozzy
+    callers:
+      - Charlotte Rich-Griffin
+    price: £4-£14
+    organisation: Oxfolk
+    source: events/uk/oxfolk.yaml
   - name: Friday Folk Saturday Special
     details: "Special event: Saturday Special Dance with Mark Elvins and WillPower at Homewood Road URC"
     links:
@@ -315180,6 +315633,19 @@ events:
     price: free
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Tuesday Dance
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-12-01T19:30:00+01:00"
+    end: "2026-12-02T00:00:00+01:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -315701,6 +316167,19 @@ events:
     price: free
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Mazurka
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-12-08T19:30:00+01:00"
+    end: "2026-12-09T00:00:00+01:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -315762,6 +316241,27 @@ events:
     price: donation
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Oxfolk Ceilidh
+    details: "Doors 7.30pm, dancing from 8 until 11pm.\n\nWhat a treat to have Token Women back at Oxfolk to celebrate the season! Seven exceptional musicians deliver inventive arrangements, European dance tunes and infectious energy. Their influences are many and their arrangements unusual, catchy and inspiring. Nobody sounds like them and every gig is a party. Dances will be called by Jo Freya and Fi Fraser. Non-gendered calls will be used.\n\"The stage is absolutely dripping with talent. What an extraordinary band.”\nFormed originally to highlight the women, often lone, in instrumental music there is nothing tokenistic about what they do. It’s delivered with passion, energy and exuberance that is infectious.\nFi and Jo use gender neutral, positional calls.\nLINKED EVENT\nDid you know that Jo and Fi’s other band Narthen is playing a Christmas concert the next day at Oxford Quaker Meeting House? Tickets will be on sale very soon. Christmas Concert with Narthen Icicles and Inglenooks\nThere is a licensed bar with ale, cider, wine and soft drinks.\nSaving the planet - Oxfolk is no longer serving drinks in disposable glasses so please bring along your own reusable glasses or purchase an Oxfolk one at the bar.\n\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on info@oxfolk.org.uk"
+    links:
+      - "https://oxfolk.org.uk/events/oxfolk-ceilidh-with-token-women-inc-callers-jo-freya-and-fi-fraser/"
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/2375459"
+    start: "2026-12-11T19:30:00+00:00"
+    end: "2026-12-11T23:00:00+00:00"
+    country: UK
+    city: Oxford
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Token Women
+    callers:
+      - Fi Fraser
+      - Jo Freya
+    price: £4-£14
+    organisation: Oxfolk
+    source: events/uk/oxfolk.yaml
   - name: Friday Folk
     details: "Club night: Christmas Party with Andy King and Cloudburst"
     links:
@@ -315897,6 +316397,20 @@ events:
     price: £5-£17
     organisation: London Barndance Company
     source: events/uk/london_barndance.yaml
+  - name: Lange Bal Folk Nacht
+    details: "Der Bal ist in Planung - mehr in den nächsten Wochen ...\n\nwie immer mit Tanzworkshop um 19:00 Uhr"
+    links:
+      - "https://www.folkclub-marburg.de/wp/archive/3179"
+    start_date: 2026-12-13
+    end_date: 2026-12-13
+    country: Germany
+    city: Marburg
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folkclub Marburg
+    source: events/germany/marburg.yaml
   - name: Balfolk Deventer
     details: "Balfolk in Deventer op zondagmiddag\r\n\r\nvan 13.00-17.00\r\n\r\nInvulling volgt\r\n\r\nHeb je een idee voor de invulling? Stuur me een bericht. (band, les, workshop etc)"
     links:
@@ -316025,6 +316539,19 @@ events:
     price: free
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Tuesday Dance
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-12-15T19:30:00+01:00"
+    end: "2026-12-16T00:00:00+01:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -316203,6 +316730,19 @@ events:
       - "Bal de l'Aube"
     organisation: KA-BalFolk
     source: events/germany/karlsruhe.yaml
+  - name: Weihnachtstanzen
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2026-12-22T19:30:00+01:00"
+    end: "2026-12-23T00:00:00+01:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -316468,6 +317008,19 @@ events:
     price: $10
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Führen und geführt werden
+    links:
+      - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
+    start: "2027-01-05T19:30:00+01:00"
+    end: "2027-01-06T00:00:00+01:00"
+    country: Germany
+    city: Dresden
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Folktanz Dresden e.V.
+    source: events/germany/dresden.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -316549,6 +317102,26 @@ events:
     social: false
     organisation: Balfolkfabriek
     source: events/netherlands/plug_balfolk.yaml
+  - name: Oxfolk Ceilidh
+    details: "Doors 7.30pm, dancing from 8 until 11pm.\n\nThe Bristol Ceilidh Quartet brings together three English folk fiddlers and a fab cellist to make a big string sound with loads of energy and drive. They take great tunes and create exciting arrangements exploring the dynamic range of the string quartet. This isn’t serious classical music though, all of them have spent many years playing for traditional dance; every tune is calculated to get feet tapping and people on the dance floor. They are Nonny Tabbush on fiddle, Sarah Moody on cello, Alison Rowley and Deb Chalmers both on fiddle and viola.\nThe charismatic caller and dancer Hannah Moore joins the band with a great selection of dances and a brilliant way of explaining them. Hannah uses gender neutral, positional calls.\nThere is a licensed bar with ale, cider, wine and soft drinks.\nSaving the planet - Oxfolk is no longer serving drinks in disposable glasses so please bring along your own reusable glasses or purchase an Oxfolk one at the bar.\n\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on info@oxfolk.org.uk"
+    links:
+      - "https://oxfolk.org.uk/events/oxfolk-ceilidh-with-bristol-ceilidh-quartet-and-caller-hannah-moore/"
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/2375587"
+    start: "2027-01-09T19:30:00+00:00"
+    end: "2027-01-09T23:00:00+00:00"
+    country: UK
+    city: Oxford
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Bristol Ceilidh Quartet
+    callers:
+      - Hannah Moore
+    price: £4-£14
+    organisation: Oxfolk
+    source: events/uk/oxfolk.yaml
   - name: Pancake Dance
     details: "Have a great time dancing to live music. \nThis beginner friendly dance is open to everyone, no previous dance experience required. \nThis dance follows the Swedish Club monthly pancake breakfast. \n \n$10 per person. Bring smooth-soled shoes for better turning.  \n \nCo-sponsored by Skandia Folkdance Society and the Swedish Club. \nWith funding support from the Lani and Lucky Eames Trust."
     links:
@@ -316687,6 +317260,26 @@ events:
     price: £5-£12
     organisation: ruffCeilidhs
     source: events/uk/cardiff.yaml
+  - name: Oxford Contra
+    details: "Doors 7.30pm, contra basics lesson at 7.45pm, dancing until 11pm.\nContrary Faeries arise from Sheffield to delight, entrance, and enthral! Sol Loreto-Miller on piano and Joshua Webster on fiddle will whisk you away to a world where you can dance forever and forget your troubles, your home, and the life you lived before.\nCharlie Turner has been dancing and teaching for as long as she can remember, but a move to San Francisco transformed her contra dancing and started her calling. Now based in Oxford, UK, she brings the best of the West Coast to contra crowds, with clear, friendly teaching and satisfying dance selections. She has helped to found two gender-free contra dances (so far): Contrabridge (Cambridge, UK) and Oxford Contra. She emphasises connection, fun, flow and inclusivity in dance. Calling will be non gendered, and either positional (no role terms) or with role terms such as Larks and Robins.\nThere is no licensed bar at this event, so please feel free to bring your own drinks. Tea, coffee and squash will be available to buy, and water is freely available. We don’t use disposable glasses, so feel free to bring your own, or purchase an Oxfolk one at the event.\n\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on oxfordcontra@gmail.com"
+    links:
+      - "https://oxfolk.org.uk/events/oxford-contra-with-contrary-faeries-and-caller-charlie-turner/"
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/2375626"
+    start: "2027-01-16T19:30:00+00:00"
+    end: "2027-01-16T23:00:00+00:00"
+    country: UK
+    city: Oxford
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Contrary Faeries
+    callers:
+      - Charlie Turner
+    price: £4-£14
+    organisation: Oxfolk
+    source: events/uk/oxfolk.yaml
   - name: Folkbal
     details: Ball
     links:
@@ -317077,6 +317670,26 @@ events:
     social: true
     organisation: Balfolk Apollo
     source: events/netherlands/plug_balfolk.yaml
+  - name: Oxfolk Ceilidh
+    details: "Doors 7.30pm, dancing from 8 until 11pm.\n\nGuerrilla Ceilidh started life on the festival circuit in 2013. Since then they have evolved into a fabulous ceilidh band. They combine the boisterous energy of a festival with the warmth of a traditional tune session in your favourite pub, and add over a decade of experience playing together.\nThey mix lively Irish fiddle tunes, driving guitar and funky trombone in the bass to create mischievous and feel-good sounds to get your feet going. The Oxford-based band includes Lauren Spiceley and Giles Lewin on fiddle, plus guitarist John Ruddock and Tom Green on trombone.\nFor this evening they're paired with their regular caller Steph West, who loves giving clear calls, offering up cheeky dances and cheering dancers on. Steph uses gender neutral, positional calls.\nBetween them they've played / play with the Carnival Band, Maddy Prior, Bellowhead, Rholben, the Brass Funkeys, Remorae and brought the liberation of ceilidh to thousands.\nThere is a licensed bar with ale, cider, wine and soft drinks.\nSaving the planet - Oxfolk is no longer serving drinks in disposable glasses so please bring along your own reusable glasses or purchase an Oxfolk one at the bar.\n\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on info@oxfolk.org.uk"
+    links:
+      - "https://oxfolk.org.uk/events/oxfolk-ceilidh-with-guerrilla-ceilidh-inc-caller-steph-west/"
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/2343709"
+    start: "2027-02-13T19:30:00+00:00"
+    end: "2027-02-13T23:00:00+00:00"
+    country: UK
+    city: Oxford
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Guerrilla Ceilidh
+    callers:
+      - Steph West
+    price: £4-£14
+    organisation: Oxfolk
+    source: events/uk/oxfolk.yaml
   - name: Folkbal
     details: Ball
     links:
@@ -317414,6 +318027,26 @@ events:
     price: $100
     organisation: Sun Assembly
     source: events/usa/cdss.yaml
+  - name: Oxfolk Ceilidh
+    details: "Doors 7.30pm, dancing from 8 until 11pm.\n\nVicki Swan & Jonny Dyer are two of the most versatile musicians of the folk circuit today. They have developed an enviable reputation for their ability to reimagine folk dance music; creating sounds that are simultaneously new and progressive, and yet entirely sympathetic to the tradition. Vicki plays nyckelharpa (Swedish keyed-fiddle), Jonny plays guitar and bouzouki and they both sing. Fun fact: they can also be spotted at castles and properties around the country as medieval minstrels and at the other on the silver screen with recordings and appearances at the cinema for Hollywood movies and TV programmes!\nFiddler and author, Tom Kitching is also a fantastic caller. He has great dances and a wonderful way of calling them. Tom uses gender neutral, positional calls\nThere is a licensed bar with ale, cider, wine and soft drinks.\nSaving the planet - Oxfolk is no longer serving drinks in disposable glasses so please bring along your own reusable glasses or purchase an Oxfolk one at the bar.\n\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on info@oxfolk.org.uk"
+    links:
+      - "https://oxfolk.org.uk/events/oxfolk-ceilidh-with-vicki-swan-jonny-dyer-and-caller-tom-kitching/"
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/2375601"
+    start: "2027-03-13T19:30:00+00:00"
+    end: "2027-03-13T23:00:00+00:00"
+    country: UK
+    city: Oxford
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Vicki Swan & Jonny Dyer
+    callers:
+      - Tom Kitching
+    price: £4-£14
+    organisation: Oxfolk
+    source: events/uk/oxfolk.yaml
   - name: Tanztag
     details: Balfolk
     links:
@@ -317519,6 +318152,26 @@ events:
     price: £5-£12
     organisation: ruffCeilidhs
     source: events/uk/cardiff.yaml
+  - name: Oxford Contra
+    details: "Doors 7.30pm, contra basics lesson at 7.45pm, dancing until 11pm.\nContrasaurus (Benjamin Rowe — fiddle, Alan Brunier — accordion, Adam Rich-Griffin — guitar, David Ledsam — double bass) play an exciting range of energetic and dino-soaring tunes for American contra dancing. They enjoy playing fresh and exciting tunes for contra dances, workshops, folk clubs and festivals throughout England. Not technically dinosaurs.\nBob is a calm, friendly and accessible caller. He's been calling for over 15 years for everything from full costume LARP events to kids birthdays. He aims to call in a calm, clear manner, (he's even been described as \"suave\" to his great surprise) matching his calling to the audience in front of him. He aims for a varied and accessible programme with at least one dance leaving you going \"wait, how did that happen?\" Calling will be non gendered, and either positional (no role terms) or with role terms such as Larks and Robins.\nhttps://www.facebook.com/bobmorgancaller\nThere is no licensed bar at this event, so please feel free to bring your own drinks. Tea, coffee and squash will be available to buy, and water is freely available. We don’t use disposable glasses, so feel free to bring your own, or purchase an Oxfolk one at the event.\n\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on oxfordcontra@gmail.com"
+    links:
+      - "https://oxfolk.org.uk/events/oxford-contra-with-contrasaurus-and-caller-bob-morgan/"
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/2343728"
+    start: "2027-03-20T19:30:00+00:00"
+    end: "2027-03-20T23:00:00+00:00"
+    country: UK
+    city: Oxford
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Contrasaurus
+    callers:
+      - Bob Morgan
+    price: £4-£14
+    organisation: Oxfolk
+    source: events/uk/oxfolk.yaml
   - name: Folkbal
     details: Ball
     links:
@@ -318099,6 +318752,26 @@ events:
     price: $10-$15
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Oxfolk Ceilidh
+    details: "Doors 7.30pm, dancing from 8 until 11pm.\n\nBelver are the new trad-folk trio with a big sound that are beginning to spread across the professional circuit like wildfire. Comprising of Harry Abel (violin and stomp), Dom Doran (whistles, concertina and pipes), and Jack Hogsden (melodeons and guitar), they have performed at folk clubs, festival stages, ceilidhs, concerts, street parties, functions, and so much more in such a short time already. They closed the Jester Stage at Warwick Folk Festival 2025, tore up the city of Brighton & Hove with their St. Patrick's Day Street Party set, and have performed at sell-out shows around the south of England. As they venture into the Autumn season, and looking forwards to 2026, they are preparing for some fantastic shows, projects, and events.\nMartin Clarke is a hugely experienced caller. His endless enthusiasm for getting everyone involved, and simple patient guidance in explaining the dances, focuses on ensuring that everyone has as much fun as possible. Martin uses gender neutral, positional calls.\nThere is a licensed bar with ale, cider, wine and soft drinks.\nSaving the planet - Oxfolk is no longer serving drinks in disposable glasses so please bring along your own reusable glasses or purchase an Oxfolk one at the bar.\n\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on info@oxfolk.org.uk"
+    links:
+      - "https://oxfolk.org.uk/events/oxfolk-ceilidh-with-belver-and-caller-martin-clarke/"
+      - "https://www.tickettailor.com/events/oxfolkceilidhs/2375607"
+    start: "2027-05-08T19:30:00+01:00"
+    end: "2027-05-08T23:00:00+01:00"
+    country: UK
+    city: Oxford
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Belver
+    callers:
+      - Martin Clarke
+    price: £4-£14
+    organisation: Oxfolk
+    source: events/uk/oxfolk.yaml
   - name: ruffCeilidh
     links:
       - "https://ruffceilidhs.org/"
