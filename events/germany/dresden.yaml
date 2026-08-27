@@ -1652,44 +1652,44 @@ events:
   - name: Sommertanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-09-01
-    end_date: 2026-09-01
+    start: "2026-09-01T18:00:00+02:00"
+    end: "2026-09-01T22:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
     organisation: Folktanz Dresden e.V.
   - name: Sommertanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-09-08
-    end_date: 2026-09-08
+    start: "2026-09-08T18:00:00+02:00"
+    end: "2026-09-08T22:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
     organisation: Folktanz Dresden e.V.
   - name: Sommertanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-09-15
-    end_date: 2026-09-15
+    start: "2026-09-15T18:00:00+02:00"
+    end: "2026-09-15T22:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
       - balfolk
-    workshop: true
+    workshop: false
     social: true
     organisation: Folktanz Dresden e.V.
   - name: Schottisch und Menuett
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-09-22
-    end_date: 2026-09-22
+    start: "2026-09-22T19:30:00+02:00"
+    end: "2026-09-23T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1714,8 +1714,8 @@ events:
   - name: Walzer (Grundschritt / Führen)
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-09-29
-    end_date: 2026-09-29
+    start: "2026-09-29T19:30:00+02:00"
+    end: "2026-09-30T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1726,8 +1726,8 @@ events:
   - name: Walzer
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-10-06
-    end_date: 2026-10-06
+    start: "2026-10-06T19:30:00+02:00"
+    end: "2026-10-07T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1738,8 +1738,8 @@ events:
   - name: Schottisch (Mixer / Führen)
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-10-13
-    end_date: 2026-10-13
+    start: "2026-10-13T19:30:00+02:00"
+    end: "2026-10-14T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1750,8 +1750,8 @@ events:
   - name: Hohnstein Tänze
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-10-20
-    end_date: 2026-10-20
+    start: "2026-10-20T19:30:00+02:00"
+    end: "2026-10-21T00:00:00+02:00"
     country: Germany
     city: Dresden
     styles:
@@ -1762,8 +1762,8 @@ events:
   - name: Ungerade Walzer
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-10-27
-    end_date: 2026-10-27
+    start: "2026-10-27T19:30:00+01:00"
+    end: "2026-10-28T00:00:00+01:00"
     country: Germany
     city: Dresden
     styles:
@@ -1774,8 +1774,8 @@ events:
   - name: Walzermixer
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-11-03
-    end_date: 2026-11-03
+    start: "2026-11-03T19:30:00+01:00"
+    end: "2026-11-04T00:00:00+01:00"
     country: Germany
     city: Dresden
     styles:
@@ -1786,8 +1786,8 @@ events:
   - name: Coleading
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-11-10
-    end_date: 2026-11-10
+    start: "2026-11-10T19:30:00+01:00"
+    end: "2026-11-11T00:00:00+01:00"
     country: Germany
     city: Dresden
     styles:
@@ -1813,8 +1813,8 @@ events:
   - name: Ungerade Walzer
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-11-17
-    end_date: 2026-11-17
+    start: "2026-11-17T19:30:00+01:00"
+    end: "2026-11-18T00:00:00+01:00"
     country: Germany
     city: Dresden
     styles:
@@ -1825,8 +1825,8 @@ events:
   - name: Bourrée
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-11-24
-    end_date: 2026-11-24
+    start: "2026-11-24T19:30:00+01:00"
+    end: "2026-11-25T00:00:00+01:00"
     country: Germany
     city: Dresden
     styles:
@@ -1834,11 +1834,11 @@ events:
     workshop: true
     social: true
     organisation: Folktanz Dresden e.V.
-  - name: "...."
+  - name: Tuesday Dance
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-12-01
-    end_date: 2026-12-01
+    start: "2026-12-01T19:30:00+01:00"
+    end: "2026-12-02T00:00:00+01:00"
     country: Germany
     city: Dresden
     styles:
@@ -1849,8 +1849,8 @@ events:
   - name: Mazurka
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-12-08
-    end_date: 2026-12-08
+    start: "2026-12-08T19:30:00+01:00"
+    end: "2026-12-09T00:00:00+01:00"
     country: Germany
     city: Dresden
     styles:
@@ -1858,11 +1858,11 @@ events:
     workshop: true
     social: true
     organisation: Folktanz Dresden e.V.
-  - name: "..."
+  - name: Tuesday Dance
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-12-15
-    end_date: 2026-12-15
+    start: "2026-12-15T19:30:00+01:00"
+    end: "2026-12-16T00:00:00+01:00"
     country: Germany
     city: Dresden
     styles:
@@ -1873,8 +1873,8 @@ events:
   - name: Weihnachtstanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2026-12-22
-    end_date: 2026-12-22
+    start: "2026-12-22T19:30:00+01:00"
+    end: "2026-12-23T00:00:00+01:00"
     country: Germany
     city: Dresden
     styles:
@@ -1885,8 +1885,8 @@ events:
   - name: Führen und geführt werden
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
-    start_date: 2027-01-05
-    end_date: 2027-01-05
+    start: "2027-01-05T19:30:00+01:00"
+    end: "2027-01-06T00:00:00+01:00"
     country: Germany
     city: Dresden
     styles:
