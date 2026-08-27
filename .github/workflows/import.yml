@@ -54,6 +54,8 @@ jobs:
         run: dancelist import kalender events/germany/kalender.yaml
       - name: Import lancaster-contra
         run: dancelist import lancaster-contra events/uk/lancaster.yaml
+      - name: Import Oxfolk
+        run: dancelist import oxfolk events/uk/oxfolk.yaml
       - name: Import marburg
         run: dancelist import marburg events/germany/marburg.yaml
       - name: Import dresden
