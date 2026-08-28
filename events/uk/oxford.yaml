@@ -911,14 +911,27 @@ events:
   - name: Midsummer Bal
     links:
       - "https://balfolkoxford.mmm.page/"
-    start_date: 2027-06-27
-    end_date: 2027-06-27
+    start_date: 2027-06-25
+    end_date: 2027-06-25
     country: UK
     city: Oxford
     styles:
       - balfolk
     workshop: false
     social: true
+    organisation: Balfolk Oxford
+  - name: Bal Miniscule
+    links:
+      - "https://balfolkoxford.mmm.page/"
+    start: "2027-06-27T14:00:00+01:00"
+    end: "2027-06-27T19:00:00+01:00"
+    country: UK
+    city: Oxford
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: free
     organisation: Balfolk Oxford
   - name: Bal Miniscule
     links:
