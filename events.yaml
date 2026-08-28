@@ -319250,6 +319250,19 @@ events:
     price: $90
     organisation: Contralab
     source: events/usa/cdss.yaml
+  - name: Midsummer Bal
+    links:
+      - "https://balfolkoxford.mmm.page/"
+    start_date: 2027-06-25
+    end_date: 2027-06-25
+    country: UK
+    city: Oxford
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Balfolk Oxford
+    source: events/uk/oxford.yaml
   - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -319264,17 +319277,18 @@ events:
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
-  - name: Midsummer Bal
+  - name: Bal Miniscule
     links:
       - "https://balfolkoxford.mmm.page/"
-    start_date: 2027-06-27
-    end_date: 2027-06-27
+    start: "2027-06-27T14:00:00+01:00"
+    end: "2027-06-27T19:00:00+01:00"
     country: UK
     city: Oxford
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    price: free
     organisation: Balfolk Oxford
     source: events/uk/oxford.yaml
   - name: Danslessen Elédanse
