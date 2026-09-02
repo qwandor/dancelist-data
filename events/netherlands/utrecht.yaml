@@ -1,0 +1,17 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Post-CaDansa Ball
+    links:
+      - "https://www.facebook.com/events/1380941210839621/"
+    start: "2026-10-19T17:30:00+02:00"
+    end: "2026-10-19T22:30:00+02:00"
+    country: Netherlands
+    city: Utrecht
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Thalas
+    price: €10-€15
+    organisation: balfolk.nl
