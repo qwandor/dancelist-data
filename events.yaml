@@ -306058,7 +306058,7 @@ events:
     organisation: Das co-kreative Netzwerk e.V.
     source: events/germany/simmelfolk.yaml
   - name: "Socialles 383 - Bretons: Basis reidansen"
-    details: "Deze donderdag 3 september is het socialles 383, de eerste socialles van het seizoen in Rotterdam.  \r\n\r\nWe starten rustig op met een les rondom een aantal basisdansen zoals de andro en hanterdro. Uiteraard gaan we aan de slag met de stapjes, maar ook dansetiquette, groepsgevoel en het leiden (en volgen!) in deze dansen in een groep komen aan bod. Docent deze les is Noelia. \r\n\r\nDanservaring is voor deze socialles niet nodig.\r\n\r\n19:30 is aanvang van de les."
+    details: "Deze donderdag 3 september is het socialles 383, de eerste socialles van het seizoen in Rotterdam.  \r\n\r\nWe starten rustig op met een les rondom een aantal basisdansen zoals de andro en hanterdro. Uiteraard gaan we aan de slag met de stapjes, maar ook dansetiquette, groepsgevoel en het leiden (en volgen!) in deze dansen in een groep komen aan bod. Docent deze les is Noelia. \r\n\r\nDanservaring is voor deze socialles niet nodig."
     links:
       - "https://www.plug.events/event/socialles-383-rotterdam-bretons-basis-reid982"
       - "https://www.facebook.com/events/1591103292576179/"
@@ -307652,7 +307652,7 @@ events:
     organisation: Bromyard Folk Festival
     source: events/uk/bromyard.yaml
   - name: "Socialles 384 - Bretons: vervolg reidansen"
-    details: "Deze donderdag 10 september is het socialles 384 in Rotterdam. Deze  avond gaan we ons verder verdiepen in de Bretonse dansen. Leon Huisman neemt ons deze keer mee naar West Frankrijk en we gaan aan de slag met ridée 6 temps, gavotte des montagnes en gavotte de l'Aven.\r\n\r\nDeze les is een vervolg op de basisles van vorige les maar de les is ook los te volgen.\r\n\r\n19:30 is aanvang van de les."
+    details: "Deze donderdag 10 september is het socialles 384 in Rotterdam. Deze  avond gaan we ons verder verdiepen in de Bretonse dansen. Leon Huisman neemt ons deze keer mee naar West Frankrijk en we gaan aan de slag met ridée 6 temps, gavotte des montagnes en gavotte de l'Aven.\r\n\r\nDeze les is een vervolg op de basisles van vorige les maar de les is ook los te volgen."
     links:
       - "https://www.plug.events/event/socialles-384-rotterdam-bretons-vervolg-re418"
       - "https://www.facebook.com/events/880077064727859/"
@@ -313653,6 +313653,7 @@ events:
   - name: Groot Bal
     details: Ball
     links:
+      - "https://oudebadhuis.antwerpen.be/groot-bal-oktober"
       - "https://folkbalbende.be/event/3597"
       - "https://www.facebook.com/events/777462028693843/"
     start: "2026-10-24T15:00:00+02:00"
@@ -313666,6 +313667,7 @@ events:
     bands:
       - Duo Clercx
       - Trio Loubelya
+    price: €4-€25
     organisation: BalAFolk
     source: events/belgium/folkbalbende.yaml
   - name: Barn dance
@@ -316692,7 +316694,9 @@ events:
   - name: Weekbal
     details: Ball
     links:
+      - "https://oudebadhuis.antwerpen.be/weekbal-remi-geffroy"
       - "https://folkbalbende.be/event/3598"
+      - "https://www.facebook.com/events/1403085688305692/"
     start: "2026-12-02T19:00:00+01:00"
     end: "2026-12-02T23:00:00+01:00"
     country: Belgium
@@ -316703,6 +316707,7 @@ events:
     social: true
     bands:
       - Rémi Geffroy
+    price: €4-€25
     organisation: BalAFolk
     source: events/belgium/folkbalbende.yaml
   - name: Boombal Danslessen
@@ -318655,6 +318660,10 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Loogaroo Trio
+      - Juicebox
+    price: €15-€25
     organisation: BalAFolk
     source: events/belgium/folkbalbende.yaml
   - name: Tanzhaus Innsbruck
@@ -319690,6 +319699,10 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Entre Deux
+      - Hartwin Trio
+    price: €15-€25
     organisation: BalAFolk
     source: events/belgium/folkbalbende.yaml
   - name: Avondbal bij de Muziekstage
@@ -320070,6 +320083,7 @@ events:
     workshop: true
     social: true
     organisation: BalAFolk
+    cancelled: true
     source: events/belgium/folkbalbende.yaml
   - name: Folk En Fête
     details: Ball
