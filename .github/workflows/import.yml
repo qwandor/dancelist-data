@@ -57,6 +57,7 @@ jobs:
       - name: Import Oxfolk
         run: dancelist import oxfolk events/uk/oxfolk.yaml
       - name: Import marburg
+        continue-on-error: true
         run: dancelist import marburg events/germany/marburg.yaml
       - name: Import dresden
         run: dancelist import dresden events/germany/dresden.yaml
