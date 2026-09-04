@@ -309846,7 +309846,7 @@ events:
     organisation: EFDSS
     source: events/uk/efdss.yaml
   - name: Balfolk Nijmegen
-    details: "We starten dit balseizoen met Androneda!\r\nVanwege een eenmalige grensregio subsidie, werkt dit bal met donaties. Bij je reservering kan je direct een bedrag doneren. Geef gul, want gemiddeld dient 10 eu per persoon gedoneerd te worden om uit de kosten te komen.\r\n\r\nAndroneda (NL) speelt met doedelzak, trekharmonica en saxofoon. De muziek is energiek en swingend, maar soms ook intiem, met melodieën die blijven hangen.\r\n\r\nDe Kleine Wiel is een bekende knusse danslocatie. Wacht niet te lang met reserveren er zijn een beperkt aantal kaarten. Is Balfolk nieuw voor jou? Kom vooral naar de dansuitleg!"
+    details: "We starten dit balseizoen met Androneda!\r\nVanwege een eenmalige grensregio subsidie, werkt dit bal met donaties. Bij je reservering kan je direct een bedrag doneren. Geef gul, want gemiddeld dient 13 eu per persoon gedoneerd te worden om uit de kosten te komen.\r\n\r\nAndroneda (NL) speelt met doedelzak, trekharmonica en saxofoon. De muziek is energiek en swingend, maar soms ook intiem, met melodieën die blijven hangen.\r\n\r\nDe Kleine Wiel is een bekende knusse danslocatie. Wacht niet te lang met reserveren er zijn een beperkt aantal kaarten. Is Balfolk nieuw voor jou? Kom vooral naar de dansuitleg!"
     links:
       - "https://www.balfolk.nl/agenda/balfolk-nijmegen-in-septemner478"
       - "https://www.plug.events/event/balfolk-nijmegen-in-septemner478"
@@ -310813,6 +310813,40 @@ events:
     price: €5
     organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
+  - name: English Country Dance for all
+    details: "Join us on Tuesdays in the West Village for a friendly evening of social dance. Our programs include early dances circa 1651 to contemporary choreographies. English Country Dance (ECD) has been enjoyed by the likes of Jane Austen and Thomas Jefferson, and you are invited to join in the pleasures of this community social dance. English dances and their tunes vary from elegant to energetic and from stately to boisterous, and you will experience all these facets of English Country Dance in an evening as you dance to live music. You can see many examples of ECD at Childgrove on YouTube. \nNewcomers are always welcome at CDNY, where all dances are taught. A skills session is offered after the third dance of the evening for English Country dances. If you choose to participate, you will receive more in-depth teaching of terms and dance figures, then rejoin the group. \nThe steps are simple: generally walking or skipping. You can come by yourself and be assured of dancing throughout the evening, since our tradition is to change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience. ECD will satisfy your wish for an artistic outlet, pleasurable exercise, a warm social community, mental stimulation, and transcendent aesthetic experiences. We invite you to join us! \nAdmission to our dances is on a sliding scale: \nMembers: $15-20; \nNon-members: $20-25; \nFull-time Students: $10"
+    links:
+      - "https://cdny.org/calendar-events"
+      - "https://cdss.org/event/english-country-dance-for-all/2026-09-22/"
+    start: "2026-09-22T19:00:00-04:00"
+    end: "2026-09-22T22:00:00-04:00"
+    country: USA
+    state: NY
+    city: New York
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10-$25
+    organisation: Country Dance * New York
+    source: events/usa/cdss.yaml
+  - name: English Country Dance Class
+    details: "Whether you are brand new or LOVE this style of dancing, Tuesday nights in Pasadena is where you learn the skills to dance with elegance and ease! It’s a great mid-week pick-me-up with dance friends old and new. We dance on the 2nd, 4th, and 5th Tuesday of the month. \nPay $10 at the door, and pre-register on our website to receive all of the pertinent details! \nPlan on sticking around for after-hours socializing and getting the latest details on a favorite dance, the next ball, or that costume question you always wanted to ask."
+    links:
+      - "https://historicalteaanddance.org/#Tuesdaydances"
+      - "https://cdss.org/event/english-country-dance-classes-in-pasadena/2026-09-22/"
+    start: "2026-09-22T19:15:00-07:00"
+    end: "2026-09-22T21:30:00-07:00"
+    country: USA
+    state: CA
+    city: Pasadena
+    styles:
+      - ecd
+    workshop: true
+    social: false
+    price: $10
+    organisation: Historical Tea & Dance Society
+    source: events/usa/cdss.yaml
   - name: Wednesday Balfolk
     details: "Zapraszamy na potańcówkę balfolkową w Chacie.\r\nO 20:00 warsztaty\r\nO 21:00 potańc.\r\nWstęp na imprezę: 10 zł\r\nWstęp na warsztaty: dowolna kwota wedle uznania"
     links:
@@ -320557,6 +320591,22 @@ events:
     social: true
     organisation: TryContra
     source: events/usa/trycontra.yaml
+  - name: Skandia First Friday LIVE
+    details: "<html-blob><u></u><span><strong>Skandia members, $10; nonmembers, $15; kids, free  The price of admission includes a free dance class.</strong></span><br><br>Teaching: 7:30-8:30 p.m. No partner is required. </html-blob><br><html-blob><br><u></u></html-blob>"
+    links:
+      - "https://skandia-folkdance.org/"
+    start: "2027-09-03T19:30:00-07:00"
+    end: "2027-09-03T22:30:00-07:00"
+    country: USA
+    state: WA
+    city: Lynnwood
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: Skandia Folkdance Society
+    source: events/usa/skandia.yaml
   - name: Star Through Seattle
     links:
       - "http://starthroughseattle.dance/"
