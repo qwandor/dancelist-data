@@ -309220,7 +309220,7 @@ events:
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
   - name: Amarebal én sessie
-    details: "Op woensdag 16 september is er weer een gratis Amarebal in hartje Den Haag met Wouter en de Draak.\r\n\r\nProgramma\r\n19.00 - 20.00: Dansuitleg\r\n20.00 - 21.30: Bal met Wouter en (hopelijk) de Draak\r\n21.30 - 22.45: Sessie\r\n\r\nLet op, de draak is nog even onder voorbehoud ivm het breken van zijn vleugel. We wensen hem veel sterkte in het herstel"
+    details: "Op woensdag 16 september is er weer een gratis Amarebal in hartje Den Haag met Wouter Kuyper.\r\n\r\nProgramma\r\n19.00 - 20.00: Dansuitleg\r\n20.00 - 21.30: Bal met Wouter Kuyper\r\n21.30 - 22.45: Sessie\r\n\r\nHelaas moet Wouter de draak thuis laten ivm het breken van zijn vleugel. We wensen hem veel sterkte in het herstel!\r\n\r\nMaar niet getreurd, Wouter kan ons ook heel erg vermaken en op ons Nieuwjaars-bal kunnen we van beide weer genieten!"
     links:
       - "https://www.plug.events/event/amarebal-met-wouter-en-de-draak-en-sessie-330"
       - "https://www.facebook.com/events/2396655057409763/"
@@ -309233,7 +309233,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Wouter en de Draak
+      - Wouter Kuyper
     price: free
     organisation: Balfolk Zuid-Holland
     source: events/netherlands/plug_balfolk.yaml
@@ -312270,6 +312270,40 @@ events:
     price: $20
     organisation: North Jersey English Country Dancers
     source: events/usa/cdss.yaml
+  - name: Louisville English Country Dance
+    details: Louisville English Country Dance meets on the 2nd and last Sundays of most months. Please check our website for details.
+    links:
+      - "https://www.louisvilleecd.org/"
+      - "https://cdss.org/event/louisville-english-country-dance/2026-09-27/"
+    start: "2026-09-27T15:00:00-04:00"
+    end: "2026-09-27T17:00:00-04:00"
+    country: USA
+    state: KY
+    city: Louisville
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $5
+    organisation: Louisville English Country Dancers
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "All are welcome to join us for another very fine afternoon of English Country Dance using mostly positional language. Spread the word and bring all your friends, family, and neighbors! 3:30 pm, Skills Session. Dance: 4:00 pm-6:00."
+    links:
+      - "https://oldfarmersball.com/english-country-dance/"
+      - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance/2026-09-27/"
+    start: "2026-09-27T15:30:00-04:00"
+    end: "2026-09-27T18:00:00-04:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10-$12
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: English Country Dance
     details: "Twice-monthly English Country Dance session in Colorado Springs, CO. Each dance will be taught and then practiced. Great social atmosphere and fun!"
     links:
@@ -312319,6 +312353,63 @@ events:
     price: $5
     organisation: Boulder Scottish Country Dance
     source: events/usa/boulder.yaml
+  - name: Brattleboro Bal Folk
+    details: "Fun, accessible French and European traditional dances. No experience or partner necessary. \nLive music by Eloise & Co.\nBecky Tracy (fiddle) & Rachel Bell (accordion)\nBandcamp \nSuggested donation sliding scale $12-$25 \nBal folk is a vibrant and inclusive dance tradition that started out in France, incorporated a bunch of other European influences, and took Europe and the UK by storm during the past 50 years or so. It has become increasingly popular in North America, no doubt due to its accessibility and captivating energy. You can easily join in even if you’ve never danced before. At Brattleboro Bal Folk, all dances are taught, and part of the big bal folk tradition all over the world is looking around to see what other people are doing and jumping in to try it out. No experience or partner required! Dances are in lines, spirals, circles, and pairs and range from hypnotic to meditative to raucous. The music is infectious! \nPlease bring a clean pair of shoes to change into, or clean your shoes off thoroughly once you get inside, before you step onto the dance floor. We want to protect that beautiful wood floor! \nShare our video with friends to whet their appetite! \nMasks are welcome but not required. Please stay home if you feel ill or are testing positive for Covid-19. \nMark your calendars for the rest of the fall: \n\nOct 18: 6:30-9 (teaching integrated)\nNov 22: 6-6:40: beginners’ workshop, 6:45-9: bal (dance party with minimal teaching)\nDec 20: 6-6:40: beginners’ workshop, 6:45-9: bal (dance party with minimal teaching)"
+    links:
+      - "https://www.broadbrookcommunitycenter.org/events/bal-folk-dance-with-eloise-co-2026-bdz4j"
+      - "https://cdss.org/event/brattleboro-bal-folk-2-2/"
+    start: "2026-09-27T18:30:00-04:00"
+    end: "2026-09-27T21:00:00-04:00"
+    country: USA
+    state: VT
+    city: Guilford
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Eloise & Co.
+    price: $12-$25
+    organisation: Brattleboro Bal Folk
+    source: events/usa/cdss.yaml
+  - name: Hayward Contra
+    details: "Hayward Contra presents contra dancing on 2nd & 4th Sunday afternoons, 4pm-7pm in Hayward (SF Bay Area).  Check the website for details, including how to find carpools or arrange for a pickup from BART (advanced registration)."
+    links:
+      - "https://sfbaycontra.org/"
+      - "https://cdss.org/event/hayward-ca-contra/2026-09-27/"
+    start: "2026-09-27T16:00:00-07:00"
+    end: "2026-09-27T19:00:00-07:00"
+    country: USA
+    state: CA
+    city: Hayward
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $15-$20
+    organisation: Hayward Contra
+    source: events/usa/cdss.yaml
+  - name: English Country Dance at Tapestry Folkdance Center
+    details: "Every Sunday \nSmall Studio\n7:00 – 9:00 pm \n\n\n\n\n\n\n\n2nd Sunday of the Month\nLive Music with Anytime English Players | 6:30 – 9:00 pm \n​Cost:\n​Recorded Music:  $12 General Admission | $9 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\nLive Music: $15 General Admission | $12 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\n\n​“Pay What You Choose” first seven days of every month (1st through the 7th) – Newcomers especially encouraged to attend! \n\n\n\n\n\n\n\nEnglish country dancing is an accessible social dance form with a history going back several centuries. This is the dancing of Queen Elizabeth I, of Jane Austen, and a living tradition that inspires musical compositions and choreographies today. The music can be stately or spritely, traditional or modern, recorded or live. It is danced with simple walking or skipping steps in time to the music. All dances are taught and are usually done in “long-ways sets” with partners facing in lines down the hall. After a walk-through, the easy-to-learn figures are called throughout the dance as you interact with other couples in your set and then move on to the next and repeat.\n​\nYou can come by yourself and be assured of dancing throughout the evening, since our tradition is to welcome and teach beginners and change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience.  English country dance will satisfy your wish for pleasurable exercise, a warm social community, mental stimulation, or even transcendent aesthetic experiences. We invite you to join us!"
+    links:
+      - "https://www.tapestryfolkdance.org/english-country-dance"
+      - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2026-09-27/"
+    start: "2026-09-27T18:30:00-05:00"
+    end: "2026-09-27T21:00:00-05:00"
+    country: USA
+    state: MN
+    city: Minneapolis
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Anytime English Players
+    callers:
+      - Barbara Rice
+    price: $4-$15
+    organisation: Tapestry Folkdance Center
+    source: events/usa/cdss.yaml
   - name: SustainaBAL Mosaic
     links:
       - "https://sustainabal.weebly.com/"
@@ -312378,6 +312469,23 @@ events:
     price: €3
     organisation: Balfolk Fryslân
     source: events/netherlands/plug_balfolk.yaml
+  - name: Nashville Monday Night English Country Dance Class
+    details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
+    links:
+      - "https://www.nashvillecountrydancers.org/english-country-dances"
+      - "https://cdss.org/event/nashville-monday-night-english-country-dance-class/2026-09-28/"
+    start: "2026-09-28T18:00:00-05:00"
+    end: "2026-09-28T19:30:00-05:00"
+    country: USA
+    state: TN
+    city: Nashville
+    styles:
+      - ecd
+    workshop: true
+    social: false
+    price: free
+    organisation: Nashville Country Dancers
+    source: events/usa/cdss.yaml
   - name: Scandinavian Weekly Dance
     details: "Come join our weekly Scandinavian dance.  We do Scandinavian couple dance (primarily Swedish).  “Learn to Pivot and Perfect Your Hambo”.  No partner is needed, but low-friction, hard-soled shoes are necessary so that you will be able to pivot (spin) on the beautiful Avalon floors.  Pivoting easily and frequently is a common feature of fast-turning Polska and Pols dancing.  We teach the first hour, but attendance at our fall Basics Class or previous polska/pols dance or other dance experience is very helpful. \nWe almost always dance to live music featuring fiddle, nyckelharpa, accordion, and hardanger fiddle. \nCome dance with us every Monday night (except when Monday falls on or very near a major holiday).  We teach the first hour, followed by open dancing."
     links:
@@ -313496,7 +313604,7 @@ events:
     organisation: London Barndance Company
     source: events/uk/london_barndance.yaml
   - name: Balfolk Deventer - CaDansa Pre-party
-    details: "Balfolk in Deventer op zondagmiddag\r\n\r\nMet Olivier Valence, gitaar en zang\r\n\r\n\r\nVoorafgaand aan het bal zal er een workshop gegeven worden , Dansen en zingen Ridée 6 temps en Rond de Saint Vincent:  door Olivier Valence\r\n\r\n(workshop is niet inbegrepen bij de ticketprijs van het bal)\r\nMeer info en aanmelden:  https://www.plug.events/event/workshop-dancing-and-singing\r\n\r\nvanaf 14.30 Afternoon Tea Potluck\r\n\r\n15.30 - 17.00 Bal"
+    details: "Balfolk in Deventer op zondagmiddag\r\n\r\nMet Olivier Valence  bekend van “Duo l’Hêtre Heureux”).\r\n\r\nMet zijn akoestische gitaar en zoete stem neemt Olivier jullie mee naar zijn wereld, geïnspireerd door traditionele dansliederen uit Frankrijk.\r\n\r\nVoorafgaand aan het bal zal er een workshop gegeven worden , Dansen en zingen Ridée 6 temps en Rond de Saint Vincent:  door Olivier Valence\r\n\r\n(workshop is niet inbegrepen bij de ticketprijs van het bal)\r\n\r\nMeer info en aanmelden:  https://www.plug.events/event/workshop-dancing-and-singing\r\n\r\nvanaf 14.30 Afternoon Tea Potluck\r\n\r\n15.30 - 17.00 Bal"
     links:
       - "https://www.plug.events/event/workshop-dancing-and-singing"
       - "https://www.plug.events/event/balfolk-deventer-save-the-date"
@@ -314271,7 +314379,9 @@ events:
     organisation: Bal Crewkerne
     source: events/uk/crewkerne.yaml
   - name: Post-CaDansa Ball
+    details: "Of course also this year there will be a grand Cadansa-after-afterparty again! So whether you are still in the Cadansa mood, trying to find a remedy against the post-Cadansa-blues, or just feel like dancing to the music of a super cool Belgian band on Monday evening, make sure you will get to the Moira in Utrecht to dance to the music of Thalas!\r\n\r\nThere will also be some time for a session, so do bring your instruments and if your feet get tired and need a quick break, the bar is open for drinks!"
     links:
+      - "https://www.plug.events/event/post-cadansa-ball-with-thalas"
       - "https://www.facebook.com/events/1380941210839621/"
     start: "2026-10-19T17:30:00+02:00"
     end: "2026-10-19T22:30:00+02:00"
@@ -314284,8 +314394,8 @@ events:
     bands:
       - Thalas
     price: €10-€15
-    organisation: balfolk.nl
-    source: events/netherlands/utrecht.yaml
+    organisation: Lucas Kooijman
+    source: events/netherlands/plug_balfolk.yaml
   - name: Sociales - Oefenbal
     details: "Kom dit najaar Balfolk dansen op een leuke playlist\r\nRuimte voor vragen en variaties leren kennen\r\nVoor alle niveaus, introducees welkom\r\n\r\nDans de bekende dansen; andro, scottish, jig, mazurka, wals in 3, tovercircel en hanterdro\r\nElke editie een Oefenbal special; het samen aanleren van een minder bekende dans\r\n\r\nEntree? €2,50 in de pot of via QR code\r\nMeld je aan via balfolkinlent@gmail.com\r\n\r\nGroetjes, Ineke en Lars"
     links:
@@ -318297,7 +318407,7 @@ events:
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
   - name: Oxfolk Ceilidh
-    details: "Doors 7.30pm, dancing from 8 until 11pm.\n\nWhat a treat to have Token Women back at Oxfolk to celebrate the season! Seven exceptional musicians deliver inventive arrangements, European dance tunes and infectious energy. Their influences are many and their arrangements unusual, catchy and inspiring. Nobody sounds like them and every gig is a party. Dances will be called by Jo Freya and Fi Fraser. Non-gendered calls will be used.\n\"The stage is absolutely dripping with talent. What an extraordinary band.”\nFormed originally to highlight the women, often lone, in instrumental music there is nothing tokenistic about what they do. It’s delivered with passion, energy and exuberance that is infectious.\nFi and Jo use gender neutral, positional calls.\nLINKED EVENT\nDid you know that Jo and Fi’s other band Narthen is playing a Christmas concert the next day at Oxford Quaker Meeting House? Tickets will be on sale very soon. Christmas Concert with Narthen Icicles and Inglenooks\nThere is a licensed bar with ale, cider, wine and soft drinks.\nSaving the planet - Oxfolk is no longer serving drinks in disposable glasses so please bring along your own reusable glasses or purchase an Oxfolk one at the bar.\n\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on info@oxfolk.org.uk"
+    details: "Doors 7.30pm, dancing from 8 until 11pm.\n\nWhat a treat to have Token Women back at Oxfolk to celebrate the season! Seven exceptional musicians deliver inventive arrangements, European dance tunes and infectious energy. Their influences are many and their arrangements unusual, catchy and inspiring. Nobody sounds like them and every gig is a party. Dances will be called by Jo Freya and Fi Fraser.\n\"The stage is absolutely dripping with talent. What an extraordinary band.”\nFormed originally to highlight the women, often lone, in instrumental music there is nothing tokenistic about what they do. It’s delivered with passion, energy and exuberance that is infectious.\nFi and Jo use gender neutral, positional calls.\nLINKED EVENT\nDid you know that Jo and Fi’s other band Narthen is playing a Christmas concert the next day at Oxford Quaker Meeting House? Tickets will be on sale very soon. Christmas Concert with Narthen Icicles and Inglenooks\nThere is a licensed bar with ale, cider, wine and soft drinks.\nSaving the planet - Oxfolk is no longer serving drinks in disposable glasses so please bring along your own reusable glasses or purchase an Oxfolk one at the bar.\n\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on info@oxfolk.org.uk"
     links:
       - "https://oxfolk.org.uk/events/oxfolk-ceilidh-with-token-women-inc-callers-jo-freya-and-fi-fraser/"
       - "https://www.tickettailor.com/events/oxfolkceilidhs/2375459"
@@ -319479,6 +319589,20 @@ events:
     price: €10-€20
     organisation: Folk Inferno
     source: events/netherlands/plug_balfolk.yaml
+  - name: Ceilidh Club Burns Night
+    links:
+      - "https://ceilidhclub.com/event/ceilidh-club-burns-night-london-22-1-27-porchester-hall/"
+    start: "2027-01-22T19:00:00+00:00"
+    end: "2027-01-22T23:00:00+00:00"
+    country: UK
+    city: England
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £56-£66
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
   - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -319493,6 +319617,20 @@ events:
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
+  - name: Ceilidh Club Burns Night
+    links:
+      - "https://ceilidhclub.com/event/ceilidh-club-burns-night-london-23-1-27-porchester-hall/"
+    start: "2027-01-23T19:00:00+00:00"
+    end: "2027-01-23T23:00:00+00:00"
+    country: UK
+    city: England
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £56-£66
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
   - name: Bal Miniscule
     links:
       - "https://balfolkoxford.mmm.page/"
