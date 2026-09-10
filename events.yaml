@@ -309503,6 +309503,24 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Balhalla Folkbal
+    details: Ball
+    links:
+      - "https://www.balhalla.be/en/event/balfolk-with-luvar"
+      - "https://folkbalbende.be/event/4857"
+    start: "2026-09-17T19:00:00+02:00"
+    end: "2026-09-17T23:00:00+02:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Luvar
+    price: €10-€18
+    organisation: Balhalla
+    source: events/belgium/folkbalbende.yaml
   - name: Tanzlernabend
     details: "Achtung: Neuer Ort!\n\nCologne Dance Center in der Nähe des Bahnhof West. Raum 4 liegt über dem Rewe. Metalltreppe links neben Rewe hoch."
     links:
@@ -309689,6 +309707,21 @@ events:
       - Duo Baftig
     price: €15
     organisation: Balfolk Groningen
+    source: events/netherlands/plug_balfolk.yaml
+  - name: Workshop Congo Captieux
+    details: "Op goede moed instappen in een dansje met z'n vieren, volledig de kluts kwijt raken, bij de buren proberen af te kijken terwijl de rest van je groepje je de goede kant op probeert te sturen. Dat is voor velen hun eerste ervaring met Congo Captieux. Klinkt dit bekend?  Dan is deze workshop van Mila Pennings wat voor jou!  Ze zal worden geassisteerd door Tanja van Wijk. \r\n\r\nDe Congo Captieux komt regelmatig voorbij op een dansavond bij Balfolk Zeist. Een goede aanleiding voor een workshop! We bouwen de dans stukje voor stukje op, zodat je het vanaf de basis leert."
+    links:
+      - "https://www.plug.events/event/workshop-congo-captieux"
+    start: "2026-09-18T20:00:00+02:00"
+    end: "2026-09-18T22:00:00+02:00"
+    country: Netherlands
+    city: Zeist
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €5
+    organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
   - name: Friday Folk
     details: "Club night: Colin Hume and the Friday Folk Band"
@@ -312469,6 +312502,58 @@ events:
     price: €3
     organisation: Balfolk Fryslân
     source: events/netherlands/plug_balfolk.yaml
+  - name: Gainesville English Country Dance
+    details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
+    links:
+      - "https://cdss.org/event/english-country-dance-on-mondays-in-gainesville/2026-09-28/"
+    start: "2026-09-28T18:00:00-04:00"
+    end: "2026-09-28T20:30:00-04:00"
+    country: USA
+    state: FL
+    city: Gainesville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Hoggetowne Fancy
+    price: $10
+    organisation: Gainesville English Country Dance
+    source: events/usa/cdss.yaml
+  - name: Cincinnati Monday Night Contra
+    details: "Cincinnati Contra Dance Local dancing at the Wyoming Arts Center \nMonday dances start at 7:30 pm with a free intro session at 7:00 pm. The dances run from 7:30 pm to 9:30 pm. \nSuggested donation:\n$2 Full time students\nChildren 12 & under free\n$5 Adults\nAll are welcome! \nAny donation is much appreciated to help sustain our dance.\nLarger donations can be tax deductible if you inform Larry Lankford, CCD"
+    links:
+      - "https://www.cincinnaticontradance.org/dance-schedule"
+      - "https://cdss.org/event/monday-night-contra/2026-09-28/"
+    start: "2026-09-28T19:00:00-04:00"
+    end: "2026-09-28T21:30:00-04:00"
+    country: USA
+    state: OH
+    city: Wyoming
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $2-$5
+    organisation: Cincinnati Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Knoxville Monday Night Contra
+    details: "Contra dancing to live music every Monday evening in Knoxville, TN. The dance begins at 7:30 with a lesson for new folks starting at 7:00. Everyone welcome."
+    links:
+      - "https://www.knoxvillecontra.org/schedule"
+      - "https://cdss.org/event/knoxville-monday-night-contra/2026-09-28/"
+    start: "2026-09-28T19:00:00-04:00"
+    end: "2026-09-28T22:30:00-04:00"
+    country: USA
+    state: TN
+    city: Knoxville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Knoxville Contra Dance
+    source: events/usa/cdss.yaml
   - name: Nashville Monday Night English Country Dance Class
     details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
     links:
@@ -312485,6 +312570,59 @@ events:
     social: false
     price: free
     organisation: Nashville Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Chicago Contra Dance
+    details: "The Chicago Barn Dance Company sponsors and supports contra dance, traditional square dance, and old-time music in the Chicago area. Our dances are held every Monday night, except holidays, in the beautiful fourth-floor Erin Ballroom at Chicago’s Irish American Heritage Center. The dance venue is near the Montrose Blue Line stop, or you can park in the large FREE parking lot on site. \nAdmission is $7-$10 for adults, $5 for seniors and students. Come at 6:30pm if you would like a beginner/refresher lesson."
+    links:
+      - "https://www.chicagobarndance.org/calendar/"
+      - "https://cdss.org/event/chicago-contra-dance/2026-09-28/"
+    start: "2026-09-28T18:30:00-05:00"
+    end: "2026-09-28T21:40:00-05:00"
+    country: USA
+    state: IL
+    city: Chicago
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Chicago Barn Dance Company
+    source: events/usa/cdss.yaml
+  - name: Louisville Contra Dance
+    details: "Louisville, Kentucky’s weekly Monday night contra dance, always featuring live music from the Monday Night All Stars open band! Dancing is 8:00-10:30pm with a beginner’s lesson at 7:30pm. Waltzing and snacks available at the break. Check out our website for details on the caller and special performances. Open calling on 5th Mondays!"
+    links:
+      - "https://www.louisvillecountrydancers.org/dance-with-us-1"
+      - "https://cdss.org/event/louisville-contra-dance/2026-09-28/"
+    start: "2026-09-28T19:30:00-04:00"
+    end: "2026-09-28T22:30:00-04:00"
+    country: USA
+    state: KY
+    city: Louisville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Monday Night All Stars
+    price: $5-$10
+    organisation: Louisville Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Austin English Country Dance
+    details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
+    links:
+      - "https://taada.us/wp/events/"
+      - "https://cdss.org/event/austin-english-country-dance/2026-09-28/"
+    start: "2026-09-28T19:15:00-05:00"
+    end: "2026-09-28T21:30:00-05:00"
+    country: USA
+    state: TX
+    city: Austin
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $5
+    organisation: CDSS
     source: events/usa/cdss.yaml
   - name: Scandinavian Weekly Dance
     details: "Come join our weekly Scandinavian dance.  We do Scandinavian couple dance (primarily Swedish).  “Learn to Pivot and Perfect Your Hambo”.  No partner is needed, but low-friction, hard-soled shoes are necessary so that you will be able to pivot (spin) on the beautiful Avalon floors.  Pivoting easily and frequently is a common feature of fast-turning Polska and Pols dancing.  We teach the first hour, but attendance at our fall Basics Class or previous polska/pols dance or other dance experience is very helpful. \nWe almost always dance to live music featuring fiddle, nyckelharpa, accordion, and hardanger fiddle. \nCome dance with us every Monday night (except when Monday falls on or very near a major holiday).  We teach the first hour, followed by open dancing."
@@ -312564,7 +312702,7 @@ events:
     details: "Tijdens onze vaste dansavond op dinsdag 29 september komt Fabella spelen! \r\n\r\nZe spelen vanaf 20:00 uur, ongeveer een uur. Daarvoor is er ruimte voor een korte dansinstructie vanaf 19:30 uur. De rest van de dansavond zetten we natuurlijk onze eigen muzieklijst aan. Je hoeft niet niet aan te melden voor deze dansavond met livemuziek."
     links:
       - "https://www.plug.events/event/dansavond2076"
-      - "https://www.balfolk.nl/agenda/dansavond-2026-09-29/"
+      - "https://www.facebook.com/events/2333080997099263/"
     start: "2026-09-29T19:30:00+02:00"
     end: "2026-09-29T22:30:00+02:00"
     country: Netherlands
@@ -312682,6 +312820,22 @@ events:
     social: false
     organisation: Balfolk Köln
     source: events/germany/cologne.yaml
+  - name: Socialles 387 - Frequente sessie-dansen
+    details: "Deze donderdag 1 oktober is het socialles 387 in Rotterdam. \r\n\r\nNa bals (zeker op een festival, maar ook op veel van onze eigen bals!) pakt een deel van de dansers hun instrument op om samen muziek te maken.  Vandaag neemt Jolijn ons naar de dansen die vaak tijdens de sessie wordt gespeeld. \r\n\r\n“De sessie is het mooiste deel van een bal. Maar wat dans je daar eigenlijk op? In deze les gaan we aan de slag met bekende en minder bekende sessiedansjes. “"
+    links:
+      - "https://www.plug.events/event/socialles-387-rotterdam-frequente-sessie-d309"
+      - "https://www.facebook.com/events/1094449036254477/"
+    start: "2026-10-01T19:30:00+02:00"
+    end: "2026-10-01T22:00:00+02:00"
+    country: Netherlands
+    city: Rotterdam
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €7.50
+    organisation: Balfolk Zuid-Holland
+    source: events/netherlands/plug_balfolk.yaml
   - name: Infinitumball
     links:
       - "https://www.facebook.com/events/1265958235433831/"
@@ -313376,6 +313530,22 @@ events:
     price: £3-£7
     organisation: Black Mountain Balfolk
     source: events/uk/hay_on_wye.yaml
+  - name: Socialles 388 - Quadretten
+    details: "Deze donderdag 8 oktober is het socialles 388 in Rotterdam.\r\n\r\nZoals vaak voor een vakantie, gaan we nu vlak voor de herfstvakantie eens iets heel anders doen: we gaan quadretten dansen! \r\n\r\nQuadretten: dat betekent dat we in groepjes van 4 dansers dansen, zoals een avant deux, de  Cottilon (een Quebec set dance), en een Bretonse quadret. Als beginner kun je vanavond gewoon meedoen, want Leo Visser legt het uit vanaf de basis.  Maar ook ervaren dansers zullen nieuwe dansen kunnen leren vandaag.\r\n\r\nREMINDER: op donderdag 15 en 22 oktober is er geen socialles ivm de herfstvakantie (en Cadansa)."
+    links:
+      - "https://www.plug.events/event/socialles-388-rotterdam-quadretten327"
+      - "https://www.facebook.com/events/1690628035384277/"
+    start: "2026-10-08T19:30:00+02:00"
+    end: "2026-10-08T22:00:00+02:00"
+    country: Netherlands
+    city: Rotterdam
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €7.50
+    organisation: Balfolk Zuid-Holland
+    source: events/netherlands/plug_balfolk.yaml
   - name: Folkirrika Festival
     details: Balfolk and Basque dances festival in the Basque Country
     links:
@@ -315124,6 +315294,25 @@ events:
     price: €10-€17
     organisation: "Folkin' Jong"
     source: events/belgium/folkbalbende.yaml
+  - name: Socialles 389 - Contradance
+    details: "In deze les maken we onder leiding van Isobel Priest kennis met Contradance. Contradance is een Amerikaanse versie van een ceilidh of een bal.  De dansen zijn allemaal voor grote groepen, met een leuke vloeiende, lopende stijl. Het gevoel is zoals bij een congo of avant-deux , maar je hoeft niet de hele dans te onthouden, omdat er een Caller is: iemand die elke dans zal uitleggen én op het juiste moment roept. \r\n\r\nGeen ervaring nodig, alleen interesse om iets nieuw en mooi te proberen.\r\nDe les zal in het Engels zijn, omdat de docent alle calls in het Engels heeft geleerd!"
+    links:
+      - "https://www.plug.events/event/socialles-389-rotterdam-contradance850"
+      - "https://www.facebook.com/events/1086469747080818/"
+    start: "2026-10-29T19:30:00+01:00"
+    end: "2026-10-29T22:00:00+01:00"
+    country: Netherlands
+    city: Rotterdam
+    styles:
+      - balfolk
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Isobel Priest
+    price: €7.50
+    organisation: Balfolk Zuid-Holland
+    source: events/netherlands/plug_balfolk.yaml
   - name: Northwest Queer Contra Camp
     links:
       - "https://queercontradance.org/nwqueercamp.html"
