@@ -6014,7 +6014,7 @@ events:
       - Electrad
     organisation: Vana Events
   - name: Balfolk Nijmegen
-    details: "We starten dit balseizoen met Androneda!\r\nVanwege een eenmalige grensregio subsidie, werkt dit bal met donaties. Bij je reservering kan je direct een bedrag doneren. Geef gul, want gemiddeld dient 13 eu per persoon gedoneerd te worden om uit de kosten te komen.\r\n\r\nAndroneda (NL) speelt met doedelzak, trekharmonica en saxofoon. De muziek is energiek en swingend, maar soms ook intiem, met melodieën die blijven hangen.\r\n\r\nDe Kleine Wiel is een bekende knusse danslocatie. Wacht niet te lang met reserveren er zijn een beperkt aantal kaarten. Is Balfolk nieuw voor jou? Kom vooral naar de dansuitleg!"
+    details: "Dit bal speelt Androneda!\r\nIvm een eenmalige grensregio subsidie, is dit bal met donaties. Bij je reservering kan je een bedrag doneren. Geef gul, gemiddeld is 12,- pp nodig om de kosten te dekken\r\n\r\nAndroneda speelt met doedelzak, trekharmonica en saxofoon. De muziek is energiek en swingend, maar soms intiem. Het zijn melodieën die blijven hangen.\r\nAls de band klaar is, dansen we door: neem je instrument mee voor een balfolk jamsessie\r\n\r\nDe Kleine Wiel is een bekende knusse danslocatie. Reserveer tijdig, het aantal kaarten is beperkt . Is Balfolk nieuw voor jou? Kom vooral naar de dansuitleg!"
     links:
       - "https://www.balfolk.nl/agenda/balfolk-nijmegen-in-septemner478"
       - "https://www.plug.events/event/balfolk-nijmegen-in-septemner478"
@@ -6513,7 +6513,7 @@ events:
     price: €15
     organisation: Balfolk Groningen
   - name: Wageningen Junushoff bal
-    details: "In oktober zijn we er weer voor ieder die nog niet is uitgedanst. Kom genieten van een dansje en een hapje tijdens de potluck pauze. Ook dit keer weer met twee geweldige bands!\r\n\r\nBen je een nieuwe danser? Om 15:00 beginnen wij met een uurtje dansuitleg!\r\n\r\nEntree\r\n- Fair trade €30\r\n- Regulier €22.50\r\n- Korting €15\r\nBetalen kan contant of via een QR-code. Reserveren is niet nodig, er zijn altijd genoeg kaartjes beschikbaar."
+    details: "In oktober zijn we er weer voor ieder die na Cadansa nog niet is uitgedanst. Kom genieten van een dansje en een hapje tijdens de potluck pauze. Ook dit keer weer met twee geweldige bands, namelijk Viadeyra  en Tradplus duo (wederom uit het mooie Italië!\r\n\r\nBen je een nieuwe danser? Om 15:00 beginnen wij met een uurtje dansuitleg!\r\n\r\nEntree\r\n- Fair trade €32.50\r\n- Regulier €25.00\r\n- Korting €17.50\r\nBetalen kan contant of via een QR-code. Reserveren is niet nodig, er zijn altijd genoeg kaartjes beschikbaar."
     links:
       - "https://www.plug.events/event/wageningen-junushoff-bal-met-tba-en-tba303"
     start: "2026-10-25T15:00:00+01:00"
@@ -6524,10 +6524,13 @@ events:
       - balfolk
     workshop: true
     social: true
-    price: €15-€30
+    bands:
+      - TRADplus
+      - Viadeyra
+    price: €17.50-€32.50
     organisation: Balfolk Wageningen
   - name: Social Dance in de Mezrab
-    details: De Mezrab host voor één keer het leukste balfolkfeestje van de maand op de vierde zondag van oktober. We kunnen niet wachten om het programma bekend te maken.
+    details: De Mezrab host voor één keer het leukste balfolkfeestje van de maand op de vierde zondag van oktober. We geven er een keltisch tintje aan met Ragaeri en Celtic Constellation deze maand!
     links:
       - "https://www.plug.events/event/social-dance-in-de-mezrab-met-lyr-trio-en-celtic-c"
     start: "2026-10-25T16:15:00+01:00"
@@ -6538,6 +6541,9 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Celtic Constellation
+      - Constellation
     organisation: Balfolk Amsterdam
   - name: Balfolk dansavond
     details: "Als onderdeel van het lesprogramma hebben we bij Balfolk Amsterdam om de week een gezellige Balfolk Dansavond! Dé plek om lekker te dansen, iets nieuws te leren en vooral te genieten van goede balfolkmuziek en fijne mensen."
@@ -6898,6 +6904,22 @@ events:
       - Duo De Schepper-Sanczuk
     price: €15-€50
     organisation: Balfolk Utrecht
+  - name: Wageningen Junushoff bal met Entre Deux en Marie Paulette
+    details: "In november dansen we voor de derde maand op een rij in het Junushoff! Kom genieten van een dansje en een hapje tijdens de potluck pauze. Ook dit keer weer met twee geweldige bands!\r\n\r\nBen je een nieuwe danser? Om 15:00 beginnen wij met een uurtje dansuitleg!\r\n\r\nEntree\r\n- Fair trade €32,50\r\n- Regulier €25.00\r\n- Korting €17,50\r\nBetalen kan contant of via een QR-code. Reserveren is niet nodig, er zijn altijd genoeg kaartjes beschikbaar."
+    links:
+      - "https://www.plug.events/event/wageningen-junushoff-bal-met-tba-en-tba"
+    start: "2026-11-22T15:00:00+01:00"
+    end: "2026-11-22T21:00:00+01:00"
+    country: Netherlands
+    city: Wageningen
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Marie Paulette
+    price: €17.50-€32.50
+    organisation: Balfolk Wageningen
   - name: Dansavond
     details: "Maandag avond gezellig dansen. Iedereen is welkom!\r\nWe starten om 20:30 tot 22:00."
     links:
