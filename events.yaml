@@ -243362,7 +243362,7 @@ events:
     source: events/usa/trycontra.yaml
   - name: Chambana Jan Jam
     links:
-      - "http://www.urbana-contra.org/jan_jam.html"
+      - "https://www.urbana-contra.org/jan_jam.html"
     start_date: 2026-01-09
     end_date: 2026-01-11
     country: USA
@@ -269912,7 +269912,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Alex and Audrey
+      - Alex Cumming & Audrey Jaber
       - Forgery
     callers:
       - Jeremy Korr
@@ -312479,6 +312479,20 @@ events:
     price: €7.50
     organisation: Balfolk Amsterdam
     source: events/netherlands/plug_balfolk.yaml
+  - name: Balfolkles Lochem
+    details: "Vanaf maandag 28 september start een nieuwe cursus balfolkdansen onder leiding van Anke Veens (Dancing Bodies). Balfolk is een sociale dansstijl op moderne folk muziek. De verschillende soorten dansen vinden plaats in koppels, rijen, kring of sliert. Een vaste danspartner is niet vereist en alle niveau's zijn welkom!\r\n\r\nBij genoeg deelnemers gaat de cursus van start.\r\nProefles op 28 september kun je gratis deelnemen.\r\n\r\nMail aan: cathie@mhjhoek.com\r\nTelefoon: 06-19 188351"
+    links:
+      - "https://www.plug.events/event/balfolkles-lochem-26-27902"
+    start: "2026-09-28T19:30:00+02:00"
+    end: "2026-09-28T21:30:00+02:00"
+    country: Netherlands
+    city: Lochem
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Dancing Bodies
+    source: events/netherlands/plug_balfolk.yaml
   - name: "Monday Dancing: Advanced"
     links:
       - "https://7schritt.de/kalender/montagstanzen-fortgeschrittene/"
@@ -313989,6 +314003,20 @@ events:
     social: true
     organisation: Folktanz Dresden e.V.
     source: events/germany/dresden.yaml
+  - name: Korte cursus Balfok in Borculo
+    details: "Balfolk dansen is springlevend. En je wordt er zo vrolijk van.\r\n\r\nHet is een heel sociale dansvorm. Je danst samen met alle mensen op het bal op \"Folk-muziek\". \r\n\r\nDans met ons mee, kom balfolkdansen :)\r\n\r\nGeen danspartner? Geen probleem, die zijn er al."
+    links:
+      - "https://www.plug.events/event/korte-cursus-balfok-in-borculo-26-27514"
+    start: "2026-10-06T19:30:00+02:00"
+    end: "2026-10-06T21:30:00+02:00"
+    country: Netherlands
+    city: Borculo
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: FitArt
+    source: events/netherlands/plug_balfolk.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -315653,6 +315681,26 @@ events:
     price: 15-20 CHF
     organisation: Folk Dance Dietlikon
     source: events/switzerland/zurich.yaml
+  - name: Queimada
+    details: Ball
+    links:
+      - "https://muziekpublique.be/concerts/20261024_queimada_lydiethonard_manencantada/"
+      - "https://folkbalbende.be/event/5044"
+    start: "2026-10-24T19:00:00+02:00"
+    end: "2026-10-24T23:59:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Lydie Thonnard
+      - A Contrabanda
+      - Man Encantada
+    price: €11-€19
+    organisation: Muziekpublique
+    source: events/belgium/folkbalbende.yaml
   - name: MiniBal at Toitū
     links:
       - "https://www.balfolk.co.nz/dunedin"
@@ -320205,6 +320253,25 @@ events:
     price: €5
     organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
+  - name: Phoenix Winter Frolic
+    links:
+      - "https://phxtmd.org/winter-frolic-2027"
+    start_date: 2027-01-08
+    end_date: 2027-01-09
+    country: USA
+    state: AZ
+    city: Chandler
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Root System
+    callers:
+      - Jeremy Korr
+    organisation: Phoenix Traditional Music & Dance
+    source: events/usa/trycontra.yaml
   - name: Chattaboogie
     links:
       - "https://www.contranooga.dance/chattaboogie"
@@ -320221,9 +320288,48 @@ events:
       - Notorious
       - Playing with Fyre
     callers:
-      - Cathy Hollister
       - Will Mentor
+      - Cathy Hollister
     organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Chambana Jan Jam
+    links:
+      - "https://www.urbana-contra.org/jan_jam.html"
+    start_date: 2027-01-08
+    end_date: 2027-01-10
+    country: USA
+    state: IL
+    city: Urbana
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Turnip the Beet
+    callers:
+      - Callie Allison
+    price: $70-$100
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: Ralph Page Dance Legacy Weekend
+    links:
+      - "https://www.neffa.org/annual-ralph-page-dance-event/"
+    start_date: 2027-01-08
+    end_date: 2027-01-09
+    country: USA
+    state: MA
+    city: Worcester
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Calliope
+      - Julie Metcalf and Max Newman
+    callers:
+      - Chris Ricciotti
+      - Janine Smith
+    organisation: NEFFA
     source: events/usa/trycontra.yaml
   - name: Baleynbal
     details: Ball
@@ -320575,6 +320681,20 @@ events:
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
+  - name: Peterbough Snow Ball
+    links:
+      - "https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2027/"
+    start: "2027-01-23T12:00:00-05:00"
+    end: "2027-01-24T00:00:00-05:00"
+    country: USA
+    state: NH
+    city: Peterborough
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
   - name: Ceilidh Club Burns Night
     links:
       - "https://ceilidhclub.com/event/ceilidh-club-burns-night-london-23-1-27-porchester-hall/"
@@ -320633,6 +320753,11 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Alex Cumming & Audrey Jaber
+      - Max Newman
+      - Julie Metcalf
+      - Stewart Kenney
     callers:
       - Mary Wesley
       - Craig Wolfe
@@ -320868,6 +320993,25 @@ events:
     social: true
     organisation: IVFDF
     source: events/uk/ivfdf.yaml
+  - name: Cabin Fever
+    links:
+      - "https://www.knoxvillecontra.org/cfschedule"
+    start_date: 2027-02-12
+    end_date: 2027-02-14
+    country: USA
+    state: TN
+    city: Knoxville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Playing with Fyre
+      - SuperTrad
+    callers:
+      - Wendy Graham
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
   - name: Folkbal
     details: Ball
     links:
@@ -320967,6 +321111,25 @@ events:
     social: false
     organisation: Balfolk Köln
     source: events/germany/cologne.yaml
+  - name: Galhalla
+    links:
+      - "https://www.shedances.org/galhalla"
+    start_date: 2027-02-19
+    end_date: 2027-02-21
+    country: USA
+    state: MO
+    city: St Louis
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Rare Privilege
+      - Galholler
+    callers:
+      - River Able
+    organisation: SheDances
+    source: events/usa/trycontra.yaml
   - name: Balfolkcafe Groningen
     details: "Le Driadi bij Balfolkcafe Groningen op vrijdag 19 februari 2027\r\nAanvang: 19:30\r\nEntree: Vrijwillige bijdrage, geef gul voor de band! Bijvoorbeeld €15 per persoon\r\nLocatie: Theater De Kapel in het Oude Rooms Katholiek Ziekenhuis (ORKZ),\r\nEmmastraat 15, 9722 EW Groningen\r\n\r\nBalfolk Groningen is dansen op live folkmuziek en natuurlijk sessie na afloop: dus neem ook je instrumenten mee!\r\n\r\nGlobaal tijdschema:\r\n19:30 dansworkshop\r\n20:30 Bal\r\n22:30 sessie\r\n23:00 einde programma\r\n(Tijden onder voorbehoud)"
     links:
@@ -321323,6 +321486,20 @@ events:
       - Duo Nello
     organisation: Sönke
     source: events/germany/kalender.yaml
+  - name: Beantown Stomp
+    links:
+      - "https://www.beantownstomp.com"
+    start_date: 2027-03-19
+    end_date: 2027-03-21
+    country: USA
+    state: MA
+    city: Cambridge
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
   - name: Spring Breakdown
     details: "Plan now for a full weekend of larks and robins contra dances, workshops and more!  \nFeaturing: Diane Silver and Engine Room!"
     links:
@@ -321377,6 +321554,26 @@ events:
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
+  - name: Carolina Meltdown
+    links:
+      - "https://www.charlottecontradance.org/carolina-meltdown"
+    start: "2027-03-19T18:00:00-04:00"
+    end: "2027-03-21T16:00:00-04:00"
+    country: USA
+    state: SC
+    city: Lake Wylie
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Red Case Band
+      - Toss the Possum
+    callers:
+      - Jacqui Grennan
+      - Gaye Fifer
+    organisation: Charlotte Contra Dancers
+    source: events/usa/trycontra.yaml
   - name: Skandia Third Friday dance LIVE
     details: "<span><b>Skandia members, $10; nonmembers, $15; kids, free  The price of admission includes a free dance class.</b></span>"
     links:
@@ -321520,7 +321717,7 @@ events:
     bands:
       - Red Case Band
       - Lighthouse
-      - Alex and Audrey
+      - Alex Cumming & Audrey Jaber
     callers:
       - Lisa Greenleaf
       - Will Mentor
@@ -321560,7 +321757,7 @@ events:
     source: events/uk/oxford.yaml
   - name: Epicenter
     links:
-      - "https://nbcds.org/epicenter-2026/"
+      - "https://nbcds.org/"
     start_date: 2027-04-02
     end_date: 2027-04-04
     country: USA
@@ -321570,6 +321767,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Stringrays
+      - Root System
+    callers:
+      - Emily Rush
+      - Darlene Underwood
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Skandia First Friday LIVE
@@ -321664,6 +321867,26 @@ events:
     price: $1700
     organisation: Gwyn Williams
     source: events/usa/cdss.yaml
+  - name: Call of the Loon
+    links:
+      - "https://www.tapestryfolkdance.org/call-of-the-loon"
+    start_date: 2027-04-09
+    end_date: 2027-04-11
+    country: USA
+    state: MN
+    city: Minneapolis
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Syncopaths
+      - Sugar on the Roof
+    callers:
+      - Jacqui Grennan
+      - Robin Nelson
+    organisation: Tapestry Folkdance Center
+    source: events/usa/trycontra.yaml
   - name: Springforth Ball
     links:
       - "https://tadamsva.org/springforth-ball-2026/"
@@ -322012,6 +322235,27 @@ events:
     social: true
     organisation: Erlanger Tanzhaus eV
     source: events/germany/erlangen.yaml
+  - name: Apple Blossom Bliss
+    links:
+      - "https://aactmad.org/appleblossombliss"
+    start_date: 2027-05-07
+    end_date: 2027-05-09
+    country: USA
+    state: MI
+    city: Ann Arbor
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Hot Coffee Breakdown
+      - Raven & Goose
+    callers:
+      - Alex Deis-Lauby
+      - Darlene Underwood
+    price: $110-$130
+    organisation: AACTMAD
+    source: events/usa/trycontra.yaml
   - name: Irish Music Festival
     details: Ball
     links:
@@ -322148,6 +322392,21 @@ events:
     price: free
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Meet Me in St Louis
+    links:
+      - "https://childgrove.org/mmisl"
+    start_date: 2027-05-28
+    end_date: 2027-05-31
+    country: USA
+    state: MO
+    city: Webster Groves
+    styles:
+      - contra
+      - ecd
+    workshop: false
+    social: true
+    organisation: Childgrove Country Dancers
+    source: events/usa/trycontra.yaml
   - name: Folk Inferno Festival
     details: "Balfolk in Zwolle gaat door in seizoen '26-'27.\r\nWe gaan de mooiste bands voor jullie boeken!\r\n\r\nAlvast in je agenda:\r\n25 september 2026\r\n27 november 2026\r\n22 januari 2027\r\n12 maart 2027\r\n28-30 mei 2027"
     links:
