@@ -3524,7 +3524,7 @@ events:
     organisation: Dancing Fish
   - name: Chambana Jan Jam
     links:
-      - "http://www.urbana-contra.org/jan_jam.html"
+      - "https://www.urbana-contra.org/jan_jam.html"
     start_date: 2026-01-09
     end_date: 2026-01-11
     country: USA
@@ -3847,7 +3847,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Alex and Audrey
+      - Alex Cumming & Audrey Jaber
       - Forgery
     callers:
       - Jeremy Korr
@@ -5183,7 +5183,7 @@ events:
     organisation: TryContra
   - name: Chambana Jan Jam
     links:
-      - "http://www.urbana-contra.org/jan_jam.html"
+      - "https://www.urbana-contra.org/jan_jam.html"
     start_date: 2027-01-08
     end_date: 2027-01-10
     country: USA
@@ -5197,23 +5197,7 @@ events:
       - Turnip the Beet
     callers:
       - Callie Allison
-    organisation: TryContra
-  - name: "Fiddler's Dream"
-    links:
-      - "https://www.nttds.org/fdream/home.html"
-    start_date: 2026-12-31
-    end_date: 2027-01-03
-    country: USA
-    state: OK
-    city: Kingston
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Open Band
-    callers:
-      - Open Calling
+    price: $70-$100
     organisation: TryContra
   - name: Ralph Page Dance Legacy Weekend
     links:
@@ -5251,6 +5235,7 @@ events:
       - Countercurrent
       - River Road
     callers:
+      - Lindsey Dono
       - Will Mentor
       - Alex Deis-Lauby
     organisation: TryContra
@@ -5276,54 +5261,15 @@ events:
   - name: Peterbough Snow Ball
     links:
       - "https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2027/"
-    start_date: 2027-01-24
-    end_date: 2027-01-24
+    start: "2027-01-23T12:00:00-05:00"
+    end: "2027-01-24T00:00:00-05:00"
     country: USA
     state: NH
     city: Peterborough
     styles:
       - contra
-    workshop: true
+    workshop: false
     social: true
-    organisation: TryContra
-  - name: Stellar Days and Nights
-    links:
-      - "https://rockymountainranchdance.com"
-    start_date: 2027-01-15
-    end_date: 2027-01-18
-    country: USA
-    state: CO
-    city: Buena Vista
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Supertrad
-    callers:
-      - Gaye Fifer
-      - Wendy Graham
-    organisation: TryContra
-  - name: Wintergreen
-    links:
-      - "https://bozemanfolklore.org/wintergreen-2027/"
-    start_date: 2027-01-29
-    end_date: 2027-01-31
-    country: USA
-    state: MT
-    city: Bozeman
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Alex and Audrey
-      - Max Newman
-      - Julie Metcalf
-      - Stewart Kenney
-    callers:
-      - Mary Wesley
-      - Craig Wolfe
     organisation: TryContra
   - name: Chattaboogie
     links:
@@ -5346,14 +5292,15 @@ events:
     organisation: TryContra
   - name: Phoenix Winter Frolic
     links:
-      - "https://phxtmd.org/"
+      - "https://phxtmd.org/winter-frolic-2027"
     start_date: 2027-01-08
-    end_date: 0202-01-09
+    end_date: 2027-01-09
     country: USA
     state: AZ
     city: Chandler
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
     bands:
@@ -5378,23 +5325,6 @@ events:
       - SuperTrad
     callers:
       - Wendy Graham
-    organisation: TryContra
-  - name: Bayou Bedlam
-    links:
-      - "http://www.bayoubedlam.org/"
-    start_date: 2027-02-19
-    end_date: 2027-02-21
-    country: USA
-    state: TX
-    city: Houston
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Root System
-    callers:
-      - Lindsey Dono
     organisation: TryContra
   - name: Galhalla
     links:
@@ -5432,8 +5362,8 @@ events:
   - name: Carolina Meltdown
     links:
       - "https://www.charlottecontradance.org/carolina-meltdown"
-    start_date: 2027-03-19
-    end_date: 2027-03-21
+    start: "2027-03-19T18:00:00-04:00"
+    end: "2027-03-21T16:00:00-04:00"
     country: USA
     state: SC
     city: Lake Wylie
@@ -5447,24 +5377,7 @@ events:
     callers:
       - Jacqui Grennan
       - Gaye Fifer
-    organisation: TryContra
-  - name: Spring Breakdown Dance Weekend
-    links:
-      - "https://mmtd.wordpress.com/2027-spring-breakdown/"
-    start_date: 2027-03-19
-    end_date: 2027-03-21
-    country: USA
-    state: MO
-    city: Columbia
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Engine Room
-    callers:
-      - Diane Silver
-    organisation: TryContra
+    organisation: Charlotte Contra Dancers
   - name: Beantown Stomp
     links:
       - "https://www.beantownstomp.com"
@@ -5493,7 +5406,7 @@ events:
     bands:
       - Red Case Band
       - Lighthouse
-      - Alex and Audrey
+      - Alex Cumming & Audrey Jaber
     callers:
       - Lisa Greenleaf
       - Will Mentor
@@ -5517,7 +5430,7 @@ events:
       - Emily Rush
       - Darlene Underwood
     organisation: TryContra
-  - name: Call of the Loon Dance Weekend
+  - name: Call of the Loon
     links:
       - "https://www.tapestryfolkdance.org/call-of-the-loon"
     start_date: 2027-04-09
@@ -5535,7 +5448,7 @@ events:
     callers:
       - Jacqui Grennan
       - Robin Nelson
-    organisation: TryContra
+    organisation: Tapestry Folkdance Center
   - name: Springforth Ball
     links:
       - "https://tadamsva.org/springforth-ball-2026/"
@@ -5569,8 +5482,9 @@ events:
     callers:
       - Alex Deis-Lauby
       - Darlene Underwood
-    organisation: TryContra
-  - name: Meet Me in St Louis Dance Weekend
+    price: $110-$130
+    organisation: AACTMAD
+  - name: Meet Me in St Louis
     links:
       - "https://childgrove.org/mmisl"
     start_date: 2027-05-28
@@ -5580,9 +5494,10 @@ events:
     city: Webster Groves
     styles:
       - contra
-    workshop: true
+      - ecd
+    workshop: false
     social: true
-    organisation: TryContra
+    organisation: Childgrove Country Dancers
   - name: Burning Man Contra Dance Camp
     links:
       - "http://www.contraburners.org/"
