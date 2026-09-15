@@ -35,6 +35,7 @@ jobs:
       - name: Import cdss
         run: dancelist import cdss events/usa/cdss.yaml
       - name: Import cologne
+        continue-on-error: true
         run: dancelist import cologne events/germany/cologne.yaml
       - name: Import contrabridge
         run: dancelist import contrabridge events/uk/contrabridge.yaml
