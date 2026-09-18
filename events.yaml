@@ -309871,6 +309871,27 @@ events:
     price: $15
     organisation: Orlando Contra Dance
     source: events/usa/cdss.yaml
+  - name: South Bend Contra Dancers
+    details: "Susan English calling to music by Deep Roots. For all ages. All dances walked through first and then called. No partner necessary – beginners welcome! \n$8.00/regular; $5.00/student and unwaged; $4.00 under 12; $20/family. Those on limited incomes can pay what they feel they can afford."
+    links:
+      - "https://www.sbcontras.org/"
+      - "https://cdss.org/event/south-bend-contra-dancers/"
+    start: "2026-09-18T19:00:00-04:00"
+    end: "2026-09-18T21:30:00-04:00"
+    country: USA
+    state: IN
+    city: South Bend
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Deep Roots
+    callers:
+      - Susan English
+    price: $4-$8
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: Rivanna Contra Dance
     details: "Third Friday contra dances in Charlottesville, VA. A few miles off I-64. Mask optional. Larks & Robins. Intro lesson 7:00 PM. Dance starts 7:30 PM.\nSliding scale admission: recommend $20"
     links:
@@ -313373,7 +313394,7 @@ events:
     organisation: Portland Country Dance Community
     source: events/usa/cdss.yaml
   - name: Skandia First Friday LIVE
-    details: "<html-blob><u></u><span><strong>Skandia members, $10; nonmembers, $15; kids, free  The price of admission includes a free dance class.</strong></span><br><br>Teaching: 7:30-8:30 p.m. No partner is required. </html-blob><br><html-blob><br><u></u></html-blob>"
+    details: "<font>At 7:30,</font><strong><font> </font></strong><font><strong>Judy Patterson</strong> </font>and <strong><font>Jerry Walsh</font></strong> will teach <strong><font>Valdresspringar</font></strong> from Norway. This is a fun and energetic dance done to mesmerizing music. This lesson will help prepare people for Vinterdans in February. <br><br>Then, beginning at 8:30,<strong> </strong><strong><font>Tinnfelen</font></strong> will fill the Grange Hall with their full sound of hardingfeles, woodwinds, guitar, and bass, playing arrangements by group leader <strong><font>Phil Wilkinson</font></strong> that will send dancers twirling around the floor to rich harmonies and energetic rhythms. <br><span><b> </b></span><br><span><b>Skandia members, $10; nonmembers, $15; kids, free  The price of admission includes a free dance class.</b></span><br><br><u></u><br><u></u><u></u>"
     links:
       - "https://skandia-folkdance.org/"
     start: "2026-10-02T19:30:00-07:00"
@@ -313385,6 +313406,8 @@ events:
       - scandi
     workshop: true
     social: true
+    bands:
+      - TinnFelen
     price: $10-$15
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
@@ -313959,6 +313982,58 @@ events:
     price: €3
     organisation: Balfolk Fryslân
     source: events/netherlands/plug_balfolk.yaml
+  - name: Gainesville English Country Dance
+    details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
+    links:
+      - "https://cdss.org/event/english-country-dance-on-mondays-in-gainesville/2026-10-05/"
+    start: "2026-10-05T18:00:00-04:00"
+    end: "2026-10-05T20:30:00-04:00"
+    country: USA
+    state: FL
+    city: Gainesville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Hoggetowne Fancy
+    price: $10
+    organisation: Gainesville English Country Dance
+    source: events/usa/cdss.yaml
+  - name: Nashville Monday Night English Country Dance Class
+    details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
+    links:
+      - "https://www.nashvillecountrydancers.org/english-country-dances"
+      - "https://cdss.org/event/nashville-monday-night-english-country-dance-class/2026-10-05/"
+    start: "2026-10-05T18:00:00-05:00"
+    end: "2026-10-05T19:30:00-05:00"
+    country: USA
+    state: TN
+    city: Nashville
+    styles:
+      - ecd
+    workshop: true
+    social: false
+    price: free
+    organisation: Nashville Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Chicago Contra Dance
+    details: "The Chicago Barn Dance Company sponsors and supports contra dance, traditional square dance, and old-time music in the Chicago area. Our dances are held every Monday night, except holidays, in the beautiful fourth-floor Erin Ballroom at Chicago’s Irish American Heritage Center. The dance venue is near the Montrose Blue Line stop, or you can park in the large FREE parking lot on site. \nAdmission is $7-$10 for adults, $5 for seniors and students. Come at 6:30pm if you would like a beginner/refresher lesson."
+    links:
+      - "https://www.chicagobarndance.org/calendar/"
+      - "https://cdss.org/event/chicago-contra-dance/2026-10-05/"
+    start: "2026-10-05T18:30:00-05:00"
+    end: "2026-10-05T21:40:00-05:00"
+    country: USA
+    state: IL
+    city: Chicago
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Chicago Barn Dance Company
+    source: events/usa/cdss.yaml
   - name: Beginner class at Univ Heights Center
     details: "<p><span>The class resumes on Mondays from 7-9 pm starting on September 14, at the University Heights Center near UW.  It will run through December 14 and then start up again on January 4, 2027.  FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don't have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
     links:
@@ -314758,6 +314833,22 @@ events:
     price: free
     organisation: London Balfolk
     source: events/uk/london_balfolk.yaml
+  - name: Nordic dances (Intermediate)
+    details: "New class series begins on Sept 2.   <br><span> </span><br><span>Lisa Brooks and Elaine Mathies will teach on September 2, 9, 16, and 23, then Harry Khamis and Pat Pi will teach on September 30 and the following three weeks.  We will review dances taught at Springdans or on recent Fridays.  You may request dances as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role. </span> <br> <br>The cost is $45 for Skandia members and $55 for non-members for a 6-week series ($10 / $12 for one-class drop-in).<br>Send questions to <a href=\"mailto:lisa@hambo.us\" target=\"_blank\">lisa@hambo.us</a> or (206) 258-2580."
+    links:
+      - "https://skandia-folkdance.org/"
+    start: "2026-10-14T19:00:00-07:00"
+    end: "2026-10-14T20:00:00-07:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: $10-$12
+    organisation: Skandia Folkdance Society
+    source: events/usa/skandia.yaml
   - name: CaDansa
     links:
       - "https://www.cadansa.nl/"
@@ -314979,6 +315070,24 @@ events:
     social: true
     organisation: TanzhausFolk
     source: events/germany/tanzhaus.yaml
+  - name: Skandia Ball
+    details: "Doors open at 6:00 pm for the potluck supper that begins at 6:15 pm.  Continuous dancing starting with the Grand March from 7:30-10:30 pm, including an Allspel. Music by the Skandia Kapell, Fat Fiddles and an Allspel led by Peter Michaelsen for long sets. There will also be a couple short sets by other well-known local musicians in between the long sets. No teaching that evening.   <br><u> </u><br><u>NOTE:  There will be a rehearsal for the Allspel from 3-5:30 p.m. at the Mountlake Terrace Library.  </u> For the Allspel tune list, please see the <a href=\"https://skandia-folkdance.org/skandia-ball.html\">Skandia Ball</a> page. <br><b> </b>"
+    links:
+      - "https://skandia-folkdance.org/"
+    start: "2026-10-16T18:00:00-07:00"
+    end: "2026-10-16T22:30:00-07:00"
+    country: USA
+    state: WA
+    city: Lynnwood
+    styles:
+      - scandi
+    workshop: false
+    social: true
+    bands:
+      - Fat Fiddles
+      - Skandia Kapell
+    organisation: Skandia Folkdance Society
+    source: events/usa/skandia.yaml
   - name: 1726 Ball Weekend
     details: "The 1726 Ball\nFor experienced dancers \nSchedule:\n6:00 p.m. — Doors open for changing and socializing\n6:45–10:00 p.m. — Dancing \nAdmission:\n$60.00; $30 work trade/low income available \nCallers: Kalia Kliban, Sharon Green, and Mary Luckhardt\nMusicians: Judy Linsenberg (recorders), Robert Mealy (violin), David Morris (viola da gamba and cello), and Katherine Heater (harpsichord)\nSound: Christopher Jacoby \nThis is an event for connoisseurs of early eighteenth-century dance, drawn from the Neal collection and other dance publications of the year 1726. \nWe expect a very high level of dancing and intend to use positional calling in most circumstances. Costumes and formal attire will be admired, but not required. \nSome hospitality can be provided for out-of-town guests, and we very much hope that you will plan to join us for this very special event. \nThis is an event ball for fans of Andrew Shaw’s reconstructions, attendees of New London Assembly, and those many fine dancers ready to celebrate 300 years of delicious English country dances."
     links:
@@ -315004,21 +315113,6 @@ events:
     price: $70-$105
     organisation: Bay Area Country Dance Society
     source: events/usa/cdss.yaml
-  - name: Skandia Ball
-    details: "<span><b>SAVE THE DATE!   </b></span><br><span><b>no teaching. </b></span><br><span><b> </b></span><b>More information soon.</b>"
-    links:
-      - "https://skandia-folkdance.org/"
-    start: "2026-10-16T19:30:00-07:00"
-    end: "2026-10-16T22:30:00-07:00"
-    country: USA
-    state: WA
-    city: Lynnwood
-    styles:
-      - scandi
-    workshop: false
-    social: true
-    organisation: Skandia Folkdance Society
-    source: events/usa/skandia.yaml
   - name: Folkbal
     details: Ball
     links:
@@ -315420,6 +315514,22 @@ events:
     price: 10 PLN
     organisation: Numinosum
     source: events/poland/plug_balfolk.yaml
+  - name: Nordic dances (Intermediate)
+    details: "New class series begins on Sept 2.   <br><span> </span><br><span>Lisa Brooks and Elaine Mathies will teach on September 2, 9, 16, and 23, then Harry Khamis and Pat Pi will teach on September 30 and the following three weeks.  We will review dances taught at Springdans or on recent Fridays.  You may request dances as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role. </span> <br> <br>The cost is $45 for Skandia members and $55 for non-members for a 6-week series ($10 / $12 for one-class drop-in).<br>Send questions to <a href=\"mailto:lisa@hambo.us\" target=\"_blank\">lisa@hambo.us</a> or (206) 258-2580."
+    links:
+      - "https://skandia-folkdance.org/"
+    start: "2026-10-21T19:00:00-07:00"
+    end: "2026-10-21T20:00:00-07:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: $10-$12
+    organisation: Skandia Folkdance Society
+    source: events/usa/skandia.yaml
   - name: Chehalis Contra Dance Camp
     details: "Our mission is to create a friendly dance camp that’s fun for all. Come immerse yourself in music, dance, workshops and music jams in a natural setting. Our unique contra-focused camp will be located at Camp Elphinstone, Gibsons, B.C."
     links:
@@ -319037,7 +319147,7 @@ events:
       - River Rainbowface
     organisation: Big Scioty Contra Dance
     source: events/usa/cdss.yaml
-  - name: Skandia First Friday LIVE
+  - name: Skandia Annual Meeting
     details: "<html-blob><u></u><span><strong>Skandia members, $10; nonmembers, $15; kids, free  The price of admission includes a free dance class.</strong></span><br><br>Teaching: 7:30-8:30 p.m. No partner is required. </html-blob><br><html-blob><br><u></u></html-blob>"
     links:
       - "https://skandia-folkdance.org/"
@@ -320225,6 +320335,22 @@ events:
     price: $10
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Beginner class at Univ Heights Center
+    details: "<p><span>The class resumes on Mondays from 7-9 pm starting on September 14, at the University Heights Center near UW.  It will run through December 14 and then start up again on January 4, 2027.  FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don&#39;t have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
+    links:
+      - "https://skandia-folkdance.org/"
+    start: "2027-01-04T19:00:00-08:00"
+    end: "2027-01-04T21:00:00-08:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: free
+    organisation: Skandia Folkdance Society
+    source: events/usa/skandia.yaml
   - name: Führen und geführt werden
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
@@ -320413,6 +320539,22 @@ events:
     price: $10
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Beginner class at Univ Heights Center
+    details: "<p><span>The class resumes on Mondays from 7-9 pm starting on September 14, at the University Heights Center near UW.  It will run through December 14 and then start up again on January 4, 2027.  FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don&#39;t have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
+    links:
+      - "https://skandia-folkdance.org/"
+    start: "2027-01-11T19:00:00-08:00"
+    end: "2027-01-11T21:00:00-08:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: free
+    organisation: Skandia Folkdance Society
+    source: events/usa/skandia.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -320586,6 +320728,22 @@ events:
       - Lucas Lejeune
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Beginner class at Univ Heights Center
+    details: "<p><span>The class resumes on Mondays from 7-9 pm starting on September 14, at the University Heights Center near UW.  It will run through December 14 and then start up again on January 4, 2027.  FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don&#39;t have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
+    links:
+      - "https://skandia-folkdance.org/"
+    start: "2027-01-18T19:00:00-08:00"
+    end: "2027-01-18T21:00:00-08:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: free
+    organisation: Skandia Folkdance Society
+    source: events/usa/skandia.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -320724,6 +320882,22 @@ events:
     price: free
     organisation: Balfolk Oxford
     source: events/uk/oxford.yaml
+  - name: Beginner class at Univ Heights Center
+    details: "<p><span>The class resumes on Mondays from 7-9 pm starting on September 14, at the University Heights Center near UW.  It will run through December 14 and then start up again on January 4, 2027.  FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don&#39;t have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
+    links:
+      - "https://skandia-folkdance.org/"
+    start: "2027-01-25T19:00:00-08:00"
+    end: "2027-01-25T21:00:00-08:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: free
+    organisation: Skandia Folkdance Society
+    source: events/usa/skandia.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -320843,6 +321017,22 @@ events:
     price: free
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Beginner class at Univ Heights Center
+    details: "<p><span>The class resumes on Mondays from 7-9 pm starting on September 14, at the University Heights Center near UW.  It will run through December 14 and then start up again on January 4, 2027.  FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don&#39;t have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
+    links:
+      - "https://skandia-folkdance.org/"
+    start: "2027-02-01T19:00:00-08:00"
+    end: "2027-02-01T21:00:00-08:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: free
+    organisation: Skandia Folkdance Society
+    source: events/usa/skandia.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -320960,6 +321150,22 @@ events:
       - Duo Clercx
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Beginner class at Univ Heights Center
+    details: "<p><span>The class resumes on Mondays from 7-9 pm starting on September 14, at the University Heights Center near UW.  It will run through December 14 and then start up again on January 4, 2027.  FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don&#39;t have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
+    links:
+      - "https://skandia-folkdance.org/"
+    start: "2027-02-08T19:00:00-08:00"
+    end: "2027-02-08T21:00:00-08:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: free
+    organisation: Skandia Folkdance Society
+    source: events/usa/skandia.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -321082,6 +321288,22 @@ events:
     price: €12-€20
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Beginner class at Univ Heights Center
+    details: "<p><span>The class resumes on Mondays from 7-9 pm starting on September 14, at the University Heights Center near UW.  It will run through December 14 and then start up again on January 4, 2027.  FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don&#39;t have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
+    links:
+      - "https://skandia-folkdance.org/"
+    start: "2027-02-15T19:00:00-08:00"
+    end: "2027-02-15T21:00:00-08:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: free
+    organisation: Skandia Folkdance Society
+    source: events/usa/skandia.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -321216,6 +321438,22 @@ events:
     price: £5-£12
     organisation: ruffCeilidhs
     source: events/uk/cardiff.yaml
+  - name: Beginner class at Univ Heights Center
+    details: "<p><span>The class resumes on Mondays from 7-9 pm starting on September 14, at the University Heights Center near UW.  It will run through December 14 and then start up again on January 4, 2027.  FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don&#39;t have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
+    links:
+      - "https://skandia-folkdance.org/"
+    start: "2027-02-22T19:00:00-08:00"
+    end: "2027-02-22T21:00:00-08:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - scandi
+    workshop: true
+    social: false
+    price: free
+    organisation: Skandia Folkdance Society
+    source: events/usa/skandia.yaml
   - name: Lava Meltdown
     links:
       - "https://www.lavameltdown.com/"
