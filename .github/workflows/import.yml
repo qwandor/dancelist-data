@@ -34,6 +34,7 @@ jobs:
         run: dancelist import balfolk-cz events/czechia/balfolk_cz.yaml
       - name: Import cdss
         run: dancelist import cdss events/usa/cdss.yaml
+        continue-on-error: true
       - name: Import cologne
         continue-on-error: true
         run: dancelist import cologne events/germany/cologne.yaml
