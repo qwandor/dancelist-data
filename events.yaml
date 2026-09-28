@@ -314262,6 +314262,23 @@ events:
     price: €10
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Norwegian dance workshop and bal
+    links:
+      - "https://londonbalfolk.org.uk/"
+      - "https://www.ticketsource.com/vesterveg/concert-for-dancing-with-anglo-norwegian-trio-vesterveg-dance-workshop-with-london-balfolk/e-olgkoa"
+    start: "2026-10-04T17:00:00+01:00"
+    end: "2026-10-04T22:00:00+01:00"
+    country: UK
+    city: London
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    bands:
+      - Vesterfeg
+    price: £13.01-£19.51
+    organisation: London Balfolk
+    source: events/uk/london_balfolk.yaml
   - name: Capital English Country Dancers
     details: "Monthly English country dances, first Sunday of the month October–May. Live music, all dances taught; beginners, singles, and couples are welcome. Beginner workshop at 1:30 PM, dance at 2 PM.  \nRegular Dances: $15, $12 CECD Members (Membership: $15) Ice Cream Sunday: $17, $14 CECD Members (includes ice cream sundaes), Season Ticket: $88"
     links:
@@ -318569,6 +318586,25 @@ events:
     price: €20-€30
     organisation: Balfolk Zuid-Holland
     source: events/netherlands/plug_balfolk.yaml
+  - name: Fairy Tale Ceilidh
+    links:
+      - "https://www.facebook.com/events/38632483986397606/"
+      - "https://dandelion.events/e/y3s8a"
+    start: "2026-11-01T18:00:00+00:00"
+    end: "2026-11-01T20:30:00+00:00"
+    country: UK
+    city: Stroud
+    styles:
+      - e-ceilidh
+    workshop: false
+    social: true
+    bands:
+      - Paul Hutchinson & Matt Norman
+    callers:
+      - Hannah Moore
+    price: £13-£16
+    organisation: Hannah Moore
+    source: events/uk/stroud.yaml
   - name: Workshop Bretons door Leo Visser
     details: "Je hebt al wat Balfolklessen gevolgd en kent de basis. Nu wil je dieper duiken. Speciaal voor jou hebben we dit voorjaar een serie van vijf workshops voor gevorderde dansers.\r\n\r\nDe derde workshop in deze serie is de workshop Bretons door Leo Visser.\r\n\r\nReserveren mogelijk vanaf 6 augustus."
     links:
@@ -322964,7 +323000,7 @@ events:
     source: events/germany/tanzhaus.yaml
   - name: Folk Marathon
     links:
-      - "https://www.folkmarathon.org/"
+      - "https://tuebingen.folkmarathon.org/"
     start_date: 2026-12-28
     end_date: 2027-01-02
     country: Germany
@@ -322974,6 +323010,7 @@ events:
       - scandi
     workshop: true
     social: true
+    price: €80-€120
     organisation: Folk Marathon
     source: events/germany/tubingen.yaml
   - name: Dansavond
