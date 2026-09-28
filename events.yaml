@@ -317029,6 +317029,7 @@ events:
       - John Sweeney
     price: £7
     organisation: Contrafusion
+    cancelled: true
     source: events/uk/contrafusion.yaml
   - name: Balfolk in der Lutherkirche
     links:
@@ -321718,6 +321719,26 @@ events:
     price: donation
     organisation: Contra Dance in Graz
     source: events/austria/graz-contra.yaml
+  - name: Balfolk Reghion Fest
+    details: Festival Balfolk
+    links:
+      - "https://agendatrad.org/e_2026-12/balfolk-reghion-fest.7gznby7q"
+    start: "2026-12-04T18:00:00+01:00"
+    end: "2026-12-06T18:00:00+01:00"
+    country: Italy
+    city: Reggio Calabria
+    styles:
+      - balfolk
+      - italian
+    workshop: true
+    social: true
+    bands:
+      - Fabio Colussi
+      - Tacasbandà
+      - Vito Pierro
+    price: donation
+    organisation: Balfolk Reggio Calabria
+    source: events/italy/reggio_calabria.yaml
   - name: Balfolk at Cinex
     details: Ball
     links:
