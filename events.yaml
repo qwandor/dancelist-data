@@ -314446,6 +314446,23 @@ events:
     price: $5-$10
     organisation: Pikes Peak Traditional Dance
     source: events/usa/cdss.yaml
+  - name: Houston English Country Dance
+    details: "Houston Area Traditional Dance Society (HATDS) hosts English dances on the 1st, 3rd, and most 5th Sundays at First Lutheran Church, 1311 Holman Street, Houston, TX 77004. \nDancing starts at 2:45 and goes until 5:15. \nWe dance to recorded music. $10 pays the rent."
+    links:
+      - "https://hatds.org/ecd#hatds"
+      - "https://cdss.org/event/houston-english-country-dance/2026-10-04/"
+    start: "2026-10-04T14:30:00-05:00"
+    end: "2026-10-04T17:30:00-05:00"
+    country: USA
+    state: TX
+    city: Houston
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $10
+    organisation: Houston Area Traditional Dance Society
+    source: events/usa/cdss.yaml
   - name: Pancake Dance
     details: "Have a great time dancing to live music provided by the Skandia Kapell. \nThis beginner friendly dance is open to everyone, no previous dance experience required. Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  \nThis dance follows the Swedish Club monthly pancake breakfast. \n \n$10 per person. Bring smooth-soled shoes for better turning.  \n \nCo-sponsored by Skandia Folkdance Society and the Swedish Club. \nWith funding support from the Lani and Lucky Eames Trust.\n\nSend any questions to <a href=\"mailto:lisa@hambo.us\" target=\"_blank\">lisa@hambo.us</a> or 206-258-2580."
     links:
@@ -314464,6 +314481,23 @@ events:
     price: $10
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Scottish Country Dance
+    details: Social dance of Scotland. Does not require a partner
+    links:
+      - "https://scdcolorado.org/Weekly_Classes.html"
+      - "https://boulderdance.org/event/boulder-scottish-country-dance/2026-10-04/"
+    start: "2026-10-04T16:30:00-06:00"
+    end: "2026-10-04T18:30:00-06:00"
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - scd
+    workshop: true
+    social: false
+    price: $5
+    organisation: Boulder Scottish Country Dance
+    source: events/usa/boulder.yaml
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first Sundays and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \n\nFirst Sundays: Lessons at 3:40 PM; dance from 4–7 PM\nThird Saturdays: Lessons at 6:40; dance from 7–10 PM.\n\n​Prices: \n\n$15-$30, sliding scale, general admission\n$10-$25, members of MCDC, BACDS, CDSS or other sister organizations;\n$5, active military & full-time students, with ID;\nFREE! for children 12 & under"
     links:
@@ -314850,6 +314884,27 @@ events:
     price: free
     organisation: Neapolis Balfolk
     source: events/italy/naples.yaml
+  - name: Hayesville Contra Dance
+    details: "To protect the recently-refinished wood floor, bring soft-soled shoes such as tennis shoes. Parking is available next to the football field at 128 Yellow Jacket Drive. Walk in front of the middle school to enter the stone gym. \nLive music by Paddy’s Return. Calling by Harrison Keely. \nAll other dances in the series will be held at the new Elf School of the Arts at 982 Elf School Rd. near Lake Chatuge. Those dances are Nov. 24 and Dec. 1, 15, and 22. \nAll dances will be 7-9 p.m. $5-15 donation."
+    links:
+      - "https://cdss.org/event/hayesville-contra-dance/"
+      - "https://www.facebook.com/events/1094361916469601/1094361926469600/"
+    start: "2026-10-06T19:00:00-04:00"
+    end: "2026-10-06T21:00:00-04:00"
+    country: USA
+    state: NC
+    city: Hayesville
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - "Paddy's Return"
+    callers:
+      - Harrison Keely
+    price: $5-$15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: English Country Dance for all
     details: "Join us on Tuesdays in the West Village for a friendly evening of social dance. Our programs include early dances circa 1651 to contemporary choreographies. English Country Dance (ECD) has been enjoyed by the likes of Jane Austen and Thomas Jefferson, and you are invited to join in the pleasures of this community social dance. English dances and their tunes vary from elegant to energetic and from stately to boisterous, and you will experience all these facets of English Country Dance in an evening as you dance to live music. You can see many examples of ECD at Childgrove on YouTube. \nNewcomers are always welcome at CDNY, where all dances are taught. A skills session is offered after the third dance of the evening for English Country dances. If you choose to participate, you will receive more in-depth teaching of terms and dance figures, then rejoin the group. \nThe steps are simple: generally walking or skipping. You can come by yourself and be assured of dancing throughout the evening, since our tradition is to change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience. ECD will satisfy your wish for an artistic outlet, pleasurable exercise, a warm social community, mental stimulation, and transcendent aesthetic experiences. We invite you to join us! \nAdmission to our dances is on a sliding scale: \nMembers: $15-20; \nNon-members: $20-25; \nFull-time Students: $10"
     links:
@@ -317177,13 +317232,34 @@ events:
     workshop: false
     social: true
     bands:
-      - The Star Charters
       - Missing Lynx
+      - The Star Charters
     callers:
       - David Smukler
       - Gaye Fifer
     price: $75
     organisation: Syracuse Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Mountain City Contra Dance
+    details: "Georgia’s northernmost contra dance! All ages welcome. Lesson at 6:30pm. Dance at 7pm. Live music. No partner or experience needed. All ages welcome. Suggested donation of $5-15."
+    links:
+      - "https://mountaincityplayhouse.com/events/"
+      - "https://cdss.org/event/mountain-city-contra-dance/2026-10-16/"
+    start: "2026-10-16T18:30:00-04:00"
+    end: "2026-10-16T21:00:00-04:00"
+    country: USA
+    state: GA
+    city: Clayton
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - "Paddy's Return"
+    callers:
+      - Harrison Keely
+    price: $5-$15
+    organisation: Mountain City Playhouse
     source: events/usa/cdss.yaml
   - name: English Country Dancing
     details: "We invite you to dance with us on the third Friday of every month at Luray United Methodist Church. Parking behind the adjacent bank building. It’s free and open to the public; most appropriate for people 10 years old and up; no experience needed; no partner needed. Wear casual clothes and comfortable shoes. \nTom Mack is the caller and we dance to recorded music enjoying dances from the 1700’s and 1800’s: lines, circles and squares. \nHealth issues: If you feel sick, stay home."
@@ -317241,6 +317317,27 @@ events:
     social: true
     price: $15
     organisation: Orlando Contra Dance
+    source: events/usa/cdss.yaml
+  - name: OldTime Dancing
+    details: "Come out for an evening of dancing fun!  No experience necessary, all ages welcome! \nContra longlines, circles, squares, waltzes, and couple mixers. All dances taught before calling. No partner necessary. Dwayne Johnson is calling and our band will be Hoosier Recruits from Valparaiso. Current members include Peter Martin (hammered dulcimer and flutes), Elizabeth Maynard (flute), Royce Hanley (flutes), Dot Pakan (accordion), Laurie Eberhardt (fiddle), Suzanne Keldsen (fiddle), Lena Gibson-Evan (cello), Riordan Hanley (percussion), Hilda Demuth-Lutze (keyboard), Mark Lutze (bass), and Marti Pizzini (guitar). \nCost: $8.00/regular; $5.00/student and unwaged; $4.00 under 12; $20/family. Those on limited incomes can pay what they feel they can afford.  You pay at the door; cash only please."
+    links:
+      - "https://cdss.org/event/oldtime-dancing-in-south-bend-in/"
+      - "https://www.facebook.com/events/1763523568296325/"
+    start: "2026-10-16T19:00:00-04:00"
+    end: "2026-10-16T21:30:00-04:00"
+    country: USA
+    state: IN
+    city: South Bend
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Hoosier Recruits
+    callers:
+      - Dwayne Johnson
+    price: $4-$8
+    organisation: CDSS
     source: events/usa/cdss.yaml
   - name: Rivanna Contra Dance
     details: "Third Friday contra dances in Charlottesville, VA. A few miles off I-64. Mask optional. Larks & Robins. Intro lesson 7:00 PM. Dance starts 7:30 PM.\nSliding scale admission: recommend $20"
@@ -317655,6 +317752,23 @@ events:
     social: true
     price: $5-$15
     organisation: Annapolis Traditional Dance Society%E2%80%94ECD
+    source: events/usa/cdss.yaml
+  - name: South Florida Contradance
+    details: "Enjoying contra dance\nYou’ll be smiling and laughing.\nNo partner is necessary. Lesson at the beginning. Wear casual clothes and soft soled shoes.\nAge range 10-100\nDances are called.\nPut the phone down and destress your life."
+    links:
+      - "https://southfloridacontradance.com/"
+      - "https://cdss.org/event/south-florida-contra-dances/2026-10-17/"
+    start: "2026-10-17T19:00:00-04:00"
+    end: "2026-10-17T21:30:00-04:00"
+    country: USA
+    state: FL
+    city: Boca Raton
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: CDSS
     source: events/usa/cdss.yaml
   - name: Tucson Contra Dance
     details: "Join us for our first and third Saturday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check our website for more details."
@@ -322964,6 +323078,22 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Balfolk dansavond
+    details: "Als onderdeel van het lesprogramma hebben we bij Balfolk Amsterdam om de week een gezellige Balfolk Dansavond! Dé plek om lekker te dansen, iets nieuws te leren en vooral te genieten van goede balfolkmuziek en fijne mensen."
+    links:
+      - "https://balfolkamsterdam.nl/dansavond-najaar-2026-7"
+      - "https://www.plug.events/event/balfolk-dansavond804"
+    start: "2026-12-07T19:00:00+01:00"
+    end: "2026-12-07T22:00:00+01:00"
+    country: Netherlands
+    city: Amsterdam
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €7.50
+    organisation: Balfolk Amsterdam
+    source: events/netherlands/plug_balfolk.yaml
   - name: Dansavond
     details: "Maandag avond gezellig dansen. Iedereen is welkom!\r\nWe starten om 20:30 tot 22:00."
     links:
@@ -324655,6 +324785,34 @@ events:
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-22-1-27-cecil-sharp-house/"
+    start: "2027-01-22T20:00:00+00:00"
+    end: "2027-01-22T23:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £21-£27
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-22-1-27-london-scottish-house/"
+    start: "2027-01-22T20:00:00+00:00"
+    end: "2027-01-22T23:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £23-£29
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
   - name: Peterbough Snow Ball
     links:
       - "https://www.monadnockfolk.org/event/%e2%98%bc-%e2%98%bc-%e2%98%bc-peterborough-snow-ball-2027/"
@@ -324681,6 +324839,34 @@ events:
     workshop: false
     social: true
     price: £56-£66
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-23-1-27-cecil-sharp-house/"
+    start: "2027-01-23T20:00:00+00:00"
+    end: "2027-01-23T23:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £23-£29
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-23-1-27-london-scottish-house/"
+    start: "2027-01-23T20:00:00+00:00"
+    end: "2027-01-23T23:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £23-£29
     organisation: London Ceilidh Club
     source: events/uk/ceilidh_club.yaml
   - name: Bal Miniscule
@@ -324745,6 +324931,34 @@ events:
     price: €5
     organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-29-1-27-cecil-sharp-house/"
+    start: "2027-01-29T20:00:00+00:00"
+    end: "2027-01-29T23:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £21-£27
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-29-1-27-london-scottish-house/"
+    start: "2027-01-29T20:00:00+00:00"
+    end: "2027-01-29T23:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £21-£27
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
   - name: Wintergreen Dance Weekend
     details: "We’re trying something very different this year. \nInstead of hiring a couple of bands, we’ve retained a cloud of brilliant musicians, who will form into a variety of ensembles as the event goes on. You’ll see them in many combinations and permutations, with an ever-changing repertoire and solid rapport. Come see the magic happen in ways you’ll see nowhere else! \nThey are Audrey Jaber, Max Newman, Alex Cumming, Julie Metcalf, and Stewart Kenney. Callers are Mary Wessley and Craig Wolf. \nThere will be workshops for dancers and dance musicians. Home stays are available on a first-come-first-served basis, so register early if you want that option. Great food is provided for lunch and dinner Saturday, with snacks provided through the weekend. \nSo pack your skis and meet the friendliest crowd of dancers anywhere! \nPay what you can."
     links:
