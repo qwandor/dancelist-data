@@ -315053,6 +315053,22 @@ events:
     price: $5
     organisation: CDSS
     source: events/usa/cdss.yaml
+  - name: Scandinavian Weekly Dance
+    details: "Come join our weekly Scandinavian dance.  We do Scandinavian couple dance (primarily Swedish).  “Learn to Pivot and Perfect Your Hambo”.  No partner is needed, but low-friction, hard-soled shoes are necessary so that you will be able to pivot (spin) on the beautiful Avalon floors.  Pivoting easily and frequently is a common feature of fast-turning Polska and Pols dancing.  We teach the first hour, but attendance at our fall Basics Class or previous polska/pols dance or other dance experience is very helpful. \nWe almost always dance to live music featuring fiddle, nyckelharpa, accordion, and hardanger fiddle. \nCome dance with us every Monday night (except when Monday falls on or very near a major holiday).  We teach the first hour, followed by open dancing."
+    links:
+      - "https://boulderdance.org/event/scandinavian-weekly-dance-2/2026-10-05/"
+    start: "2026-10-05T19:30:00-06:00"
+    end: "2026-10-05T22:00:00-06:00"
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    price: $7
+    organisation: Boulder Scandinavian Dancers
+    source: events/usa/boulder.yaml
   - name: Beginner class at Univ Heights Center
     details: "<p><span>The class resumes on Mondays from 7-9 pm starting on September 14, at the University Heights Center near UW.  It will run through December 14 and then start up again on January 4, 2027.  FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don't have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
     links:
@@ -320099,17 +320115,20 @@ events:
     organisation: Spreefolk e.V.
     source: events/germany/spreefolk.yaml
   - name: Halloweenbal
-    details: "Het inmiddels bijna traditionele Halloweenbal van Balfolk Zuid-Holland, deze keer op zondag 1 november, in Rotterdam in Cuartito Azul, met meerdere live-bands én prijsuitreiking voor het mooiste, griezeligste of meest creatieve kostuum van de avond."
+    details: "Het inmiddels bijna traditionele Halloweenbal van Balfolk Zuid-Holland, deze keer op zondag 1 november, in Rotterdam in Cuartito Azul, met als live-bands Pablo Golder en Swinco én prijsuitreiking voor het mooiste, griezeligste of meest creatieve kostuum van de avond.\r\n\r\nHet programma voor deze avond is:\r\n16:00: dansuitleg\r\n17:00: Pablo Golder\r\n18:30: picknick\r\n19:30: Swinco\r\n21:00: einde"
     links:
       - "https://www.plug.events/event/halloweenbal-in-rotterdam-2026-save-the-da503"
     start: "2026-11-01T16:00:00+01:00"
-    end: "2026-11-01T21:30:00+01:00"
+    end: "2026-11-01T21:00:00+01:00"
     country: Netherlands
     city: Rotterdam
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Pablo Golder
+      - Swinco
     price: €20-€30
     organisation: Balfolk Zuid-Holland
     source: events/netherlands/plug_balfolk.yaml
@@ -321089,7 +321108,7 @@ events:
     organisation: "Muziekclub 't Ey"
     source: events/belgium/folkbalbende.yaml
   - name: Amarebal
-    details: "Op woensdag 11 november is er weer een gratis Amarebal in hartje Den Haag. De band wordt later bekend gemaakt.\r\n\r\nProgramma\r\n19.00 - 20.00: Dansuitleg\r\n20.00 - 21.30: Bal\r\n21.30 - 22.45: Sessie"
+    details: "Op woensdag 11 november is er weer een gratis Amarebal in hartje Den Haag, nu met Pablo Golder.\r\n\r\nZijn optreden wordt gevolgd door een jamsessie voor muzikanten.\r\n\r\nProgramma\r\n19.00 - 20.00: Dansuitleg\r\n20.00 - 21.30: Bal met Pablo Golder\r\n21.30 - 22.45: Sessie"
     links:
       - "https://www.plug.events/event/amarebal-save-the-date-gratis448"
       - "https://www.facebook.com/events/1769684914065630/"
@@ -321101,6 +321120,8 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Pablo Golder
     price: free
     organisation: Balfolk Zuid-Holland
     source: events/netherlands/plug_balfolk.yaml
@@ -324753,6 +324774,21 @@ events:
     social: true
     price: €2.50
     organisation: Balfolk Nijmegen
+    source: events/netherlands/plug_balfolk.yaml
+  - name: Social dansavond
+    details: "Voor onze community in ’s Hertogenbosch is het gelukt om eindelijk een vaste dansavond op te zetten! Elke 2 weken is het mogelijk om te komen dansen bij Cafe station Zuid (kelder), elkaar weer te spreken of om nieuwe dansers te introduceren.\r\n\r\nBalfolk is een toegankelijke sociale dansvorm met dansen zoals de scottish, mazurka en andro. Je danst samen, wisselt van partner en geniet van de sfeer – ervaring is niet nodig. Iedereen is welkom, van beginner tot ervaren danser.\r\n\r\nKom alleen of samen, trek makkelijk zittende schoenen aan en laten we het samen gezellig maken!\r\nTot op de dansvloer! ✨"
+    links:
+      - "https://www.plug.events/event/social-dansavond-s-hertogenbosch790"
+    start: "2026-12-14T20:00:00+01:00"
+    end: "2026-12-14T22:30:00+01:00"
+    country: Netherlands
+    city: "'s-Hertogenbosch"
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €7.50
+    organisation: BalfolkSync
     source: events/netherlands/plug_balfolk.yaml
   - name: Dance Class Level 4
     details: Course
@@ -329285,6 +329321,23 @@ events:
     price: £8
     organisation: Contrafusion
     source: events/uk/contrafusion.yaml
+  - name: Lancaster Contra
+    details: "Behind the mic: ?\nMusicians: Heather McAslan + ?"
+    links:
+      - "http://lancastercontra.org.uk/events/"
+    start: "2027-10-30T13:30:00+01:00"
+    end: "2027-10-30T17:00:00+01:00"
+    country: UK
+    city: Lancaster
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Heather McAslan
+    price: £10-£15
+    organisation: Lancaster Contra
+    source: events/uk/lancaster.yaml
   - name: KA-Balfolk
     links:
       - "https://ka-balfolk.de/termine-elementor/"
@@ -329315,23 +329368,6 @@ events:
     price: £7-£15
     organisation: Contrabridge
     source: events/uk/contrabridge.yaml
-  - name: Lancaster Contra
-    details: "Behind the mic: ?\nMusicians: Heather McAslan + ?"
-    links:
-      - "http://lancastercontra.org.uk/events/"
-    start: "2027-11-06T13:30:00+00:00"
-    end: "2027-11-06T17:00:00+00:00"
-    country: UK
-    city: Lancaster
-    styles:
-      - contra
-    workshop: false
-    social: true
-    bands:
-      - Heather McAslan
-    price: £10-£15
-    organisation: Lancaster Contra
-    source: events/uk/lancaster.yaml
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
