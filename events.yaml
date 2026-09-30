@@ -315358,6 +315358,7 @@ events:
       - Musac
     price: €5
     organisation: Musac
+    cancelled: true
     source: events/netherlands/plug_balfolk.yaml
   - name: Wednesday Balfolk
     details: "Zapraszamy na potańcówkę balfolkową w Chacie.\r\nO 20:00 warsztaty\r\nO 21:00 potańc.\r\nWstęp na imprezę: 10 zł\r\nWstęp na warsztaty: dowolna kwota wedle uznania"
@@ -316648,6 +316649,28 @@ events:
     price: donation
     organisation: Spreefolk e.V.
     source: events/germany/spreefolk.yaml
+  - name: Vinland Barn Dance and Country Potluck
+    details: "Join us for a contra dance and country potluck at the Vinland Fairgrounds Barn near Baldwin City, KS \nPlan on bringing your best covered dish to share! Main dishes are always a big hit, but home made sides and desserts round out the offerings. \n\nDoors 12:30\nPotluck 1:00\nLesson 2:00\nDance begins 2:30\n\nOpen to both beginners and newcomers without experience. Those new to contra should attend the free lesson at 2:00. All ages welcome! \nAll dances are taught and prompted, and feature live music. \nContra dancing is fun and vigorous! Wear comfortable clothes and clean shoes. \nFlexible admission rates for in-person dances: \n\nAdult admission pay what you can between $8 to $15+ to help support our dances.\nAdults just listening (not dancing) $5\nStudents $5\nChildren under 16 free\n\nLawrence Barn Dance Association\nOn our website, check out our tips for beginners, complete with videos of lessons. \nBand: The Lost Keys\nCaller: Lisa Harris-Frydman"
+    links:
+      - "https://lawrencecontra.wordpress.com/"
+      - "https://cdss.org/event/vinland-barn-dance-and-country-potluck/"
+      - "https://www.facebook.com/events/1058487990254043/"
+    start: "2026-10-11T12:30:00-05:00"
+    end: "2026-10-11T17:30:00-05:00"
+    country: USA
+    state: KS
+    city: Lawrence
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Lost Keys
+    callers:
+      - Lisa Harris-Frydman
+    price: $5-$15
+    organisation: Lawrence Barn Dance Association
+    source: events/usa/cdss.yaml
   - name: Richmond Sunday Afternoon Contra Dance
     details: "Join us in Richmond, VA for a Sunday afternoon contra dance, hosted by TADAMS, at the beautiful historic Ginter Hall. Beginner lesson at 1:45pm, dance from 2:30-5:30pm. Please see our full website calendar for band and caller details. Admission is $15 non-members, $10 members & students, children under 13 are free."
     links:
@@ -318269,6 +318292,23 @@ events:
     price: $5-$15
     organisation: Annapolis Traditional Dance Society%E2%80%94ECD
     source: events/usa/cdss.yaml
+  - name: Lancaster Monthly Contra Dance
+    details: "Join us on the third Saturday of each month for a community contra dance! Fall, winter and spring at the church; summer in the park pavilion."
+    links:
+      - "https://lancastercontra.org/"
+      - "https://cdss.org/event/lancaster-pa-monthly-contra-dance/2026-10-17/"
+    start: "2026-10-17T18:30:00-04:00"
+    end: "2026-10-17T22:00:00-04:00"
+    country: USA
+    state: PA
+    city: Lancaster
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $12-$20
+    organisation: Lancaster Contra Dance
+    source: events/usa/cdss.yaml
   - name: South Florida Contradance
     details: "Enjoying contra dance\nYou’ll be smiling and laughing.\nNo partner is necessary. Lesson at the beginning. Wear casual clothes and soft soled shoes.\nAge range 10-100\nDances are called.\nPut the phone down and destress your life."
     links:
@@ -318286,6 +318326,23 @@ events:
     price: $5-$10
     organisation: CDSS
     source: events/usa/cdss.yaml
+  - name: Santa Fe Contra Dance
+    details: "Instruction at 6:30 and dancing starts at 7:00PM. Everyone is welcome at contra dancing, no partner required. For more details about contra or the FolkMADS organization, see our website."
+    links:
+      - "https://folkmads.org/events/"
+      - "https://cdss.org/event/santa-fe-contra-dance/2026-10-17/"
+    start: "2026-10-17T18:30:00-06:00"
+    end: "2026-10-17T22:00:00-06:00"
+    country: USA
+    state: NM
+    city: Santa Fe
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10
+    organisation: FolkMADS
+    source: events/usa/cdss.yaml
   - name: Tucson Contra Dance
     details: "Join us for our first and third Saturday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check our website for more details."
     links:
@@ -318302,6 +318359,24 @@ events:
     social: true
     price: $5-$10
     organisation: Tucson Friends of Traditional Music%2C Inc.
+    source: events/usa/cdss.yaml
+  - name: 3rd Saturdays Contra Dance
+    details: "Live music, historic ballroom, sprung dance floor, beginner/refresher session at 6:40pm. Dance 7-10pm. Doors open 6:30. $15. Potluck snacks/treats at halftime! \nElks Lodge in downtown Grass Valley: 109 S. School St., 95945 (fairly easy parking on street and town lots); across from the Center for the Arts. Check our website for band & caller info."
+    links:
+      - "https://www.contradancenc.org/"
+      - "https://www.kvmr.org/kvmr-event/third-saturdays-contra-dance-nevada-county/"
+      - "https://cdss.org/event/3rd-saturdays-contra-dance-grass-valley-ca-3-2/2026-10-17/"
+    start: "2026-10-17T18:40:00-07:00"
+    end: "2026-10-17T22:00:00-07:00"
+    country: USA
+    state: CA
+    city: Grass Valley
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: CDSS
     source: events/usa/cdss.yaml
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first Sundays and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \n\nFirst Sundays: Lessons at 3:40 PM; dance from 4–7 PM\nThird Saturdays: Lessons at 6:40; dance from 7–10 PM.\n\n​Prices: \n\n$15-$30, sliding scale, general admission\n$10-$25, members of MCDC, BACDS, CDSS or other sister organizations;\n$5, active military & full-time students, with ID;\nFREE! for children 12 & under"
@@ -325244,6 +325319,22 @@ events:
     price: €10-€18
     organisation: Balhalla
     source: events/belgium/folkbalbende.yaml
+  - name: Balfolk dansavond
+    details: "Als onderdeel van het lesprogramma hebben we bij Balfolk Amsterdam om de week een gezellige Balfolk Dansavond! Dé plek om lekker te dansen, iets nieuws te leren en vooral te genieten van goede balfolkmuziek en fijne mensen."
+    links:
+      - "https://balfolkamsterdam.nl/dansavond-najaar-2026-8"
+      - "https://www.plug.events/event/balfolk-dansavond580"
+    start: "2026-12-21T19:00:00+01:00"
+    end: "2026-12-21T22:00:00+01:00"
+    country: Netherlands
+    city: Amsterdam
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €7.50
+    organisation: Balfolk Amsterdam
+    source: events/netherlands/plug_balfolk.yaml
   - name: Weihnachtstanzen
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
