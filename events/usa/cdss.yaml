@@ -41507,7 +41507,7 @@ events:
     links:
       - "https://litma.org/"
       - "https://cdss.org/event/litma-contradance/2026-10-18/"
-    start: "2026-10-18T14:00:00-04:00"
+    start: "2026-10-18T13:45:00-04:00"
     end: "2026-10-18T17:00:00-04:00"
     country: USA
     state: NY
@@ -41807,6 +41807,7 @@ events:
   - name: Berea Christmas Country Dance School
     details: "Week-long camp with traditional music, song, dance, and crafts."
     links:
+      - "https://bereaccds.org/"
       - "https://cdss.org/event/berea-christmas-country-dance-school/"
     start_date: 2026-12-26
     end_date: 2027-01-01
@@ -41816,8 +41817,14 @@ events:
     styles:
       - contra
       - ecd
-    workshop: false
+      - irish-set
+    workshop: true
     social: true
+    callers:
+      - Susan English
+      - Erik Erhardt
+      - Brad Foster
+      - Darlene Underwood
     organisation: Berea CCDS
   - name: "Terpsichore's Holiday"
     details: "December 27-January 1 each year. A week of music, art, and dance for kids, teens, and adults. Contra, square, and English dancing, singing, dance band, instruments. Art projects, nature walks, and more."
