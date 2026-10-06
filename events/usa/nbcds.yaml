@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=../../events_schema.json
 events:
-  - name: "Coming Home to Contra"
+  - name: Coming Home to Contra
     links:
       - "https://nbcds.org/coming-home-to-contra/"
     start_date: 2022-04-09
@@ -8,7 +8,8 @@ events:
     country: USA
     state: CA
     city: Mill Valley
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -19,17 +20,17 @@ events:
       - Susan Petrick
     price: $80-$115
     organisation: North Bay Country Dance
-
   - name: Faultline Frolic
     links:
       - "https://nbcds.org/faultline-frolic-2022/"
       - "https://www.facebook.com/events/524008485845321/"
-    start: 2022-06-17T19:30:00-07:00
-    end: 2022-06-19T14:00:00-07:00
+    start: "2022-06-17T19:30:00-07:00"
+    end: "2022-06-19T14:00:00-07:00"
     country: USA
     state: CA
     city: Santa Rosa
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -38,16 +39,16 @@ events:
       - Frannie Marr
     price: $160
     organisation: North Bay Country Dance
-
   - name: Aftershock
     links:
       - "https://nbcds.org/event/post-faultline-petaluma-contra/"
-    start: 2022-06-19T18:30:00-07:00
-    end: 2022-06-19T21:00:00-07:00
+    start: "2022-06-19T18:30:00-07:00"
+    end: "2022-06-19T21:00:00-07:00"
     country: USA
     state: CA
     city: Petaluma
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -56,18 +57,18 @@ events:
       - Frannie Marr
     price: $10-$17
     organisation: North Bay Country Dance
-
   - name: Epicenter
     links:
       - "https://nbcds.org/epicenter-2023/"
       - "https://www.facebook.com/events/1274767079982894/"
       - "https://www.facebook.com/groups/1426278460928839/posts/3306456466244353/"
-    start: 2023-03-31T19:00:00-07:00
-    end: 2023-04-02T18:30:00-07:00
+    start: "2023-03-31T19:00:00-07:00"
+    end: "2023-04-02T18:30:00-07:00"
     country: USA
     state: CA
     city: Mill Valley
-    styles: [contra]
+    styles:
+      - contra
     workshop: false
     social: true
     bands:
@@ -78,3 +79,21 @@ events:
       - Lindsey Dono
     price: $90-$175
     organisation: North Bay Country Dance
+  - name: Santa Rosa Contra Dance
+    links:
+      - "https://nbcds.org/contra-dance/"
+    start: "2026-10-17T19:00:00-07:00"
+    end: "2026-10-17T22:00:00-07:00"
+    country: USA
+    state: CA
+    city: Santa Rosa
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - "https://nbcds.org/contra-dance/"
+    callers:
+      - Sarah Trop
+    price: $20
+    organisation: NBCDS
