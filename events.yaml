@@ -314910,8 +314910,8 @@ events:
     details: "Voor onze community in ’s Hertogenbosch is het gelukt om eindelijk een vaste dansavond op te zetten! Elke 2 weken is het mogelijk om te komen dansen bij Cafe station Zuid (kelder), elkaar weer te spreken of om nieuwe dansers te introduceren.\r\n\r\nBalfolk is een toegankelijke sociale dansvorm met dansen zoals de scottish, mazurka en andro. Je danst samen, wisselt van partner en geniet van de sfeer – ervaring is niet nodig. Iedereen is welkom, van beginner tot ervaren danser.\r\n\r\nKom alleen of samen, trek makkelijk zittende schoenen aan en laten we het samen gezellig maken!\r\nTot op de dansvloer! ✨"
     links:
       - "https://www.plug.events/event/social-dansavond-s-hertogenbosch807"
-    start: "2026-10-05T20:00:00+02:00"
-    end: "2026-10-05T22:30:00+02:00"
+    start: "2026-10-05T20:15:00+02:00"
+    end: "2026-10-05T22:45:00+02:00"
     country: Netherlands
     city: "'s-Hertogenbosch"
     styles:
@@ -315140,6 +315140,8 @@ events:
     source: events/belgium/folkbalbende.yaml
   - name: Balfolk na Andělu
     links:
+      - "https://balfolk.cz/udalost/balfolk-na-andelu-9/"
+      - "https://balfolk.cz/udalost/festnoz42-na-andelu-4/"
       - "https://www.facebook.com/events/1602186321296376/1602186364629705/"
       - "https://www.facebook.com/events/1765099314770433/1765099371437094/"
     start: "2026-10-06T19:00:00+02:00"
@@ -315150,9 +315152,11 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Festnoz42
     price: 300 CZK
     organisation: Balfolk.cz
-    source: events/czechia/prague.yaml
+    source: events/czechia/balfolk_cz.yaml
   - name: Balfolk für Einsteiger
     details: "<p>Balfolk ist eine lebendige und gesellige Tanzform mit Wurzeln in europäischen Volkstänzen, vor allem aus Frankreich. In diesem Anfängerkurs lernst du einfache Kreis‑ und Reihentänze zu mitreißender Live-Musik – ganz ohne Vorkenntnisse. Der Fokus liegt auf Freude an Bewegung, gemeinsamen Tanzen und einem entspannten Miteinander. Du kannst alleine kommen, oder ihr kommt zu Zweit - es gibt <strong>keinen festen</strong> Tanzpartner. Einfach mitmachen, ausprobieren und Spaß haben!</p><ul><li>Der Kurs beginnt am 29. September und geht über <b>8 Abende </b>bis einschließlich 17. November 2026</li><li>Die Gebühr für den Kurs beträgt <b>40 € pro Teilnehmer:in</b></li><li>Wir sorgen, wie üblich, für Getränke zum Selbstkostenpreis</li><li>Geparkt werden kann nahe in der kostenlosen Tiefgarage gleich unter dem Bürgerplatz</li><li>Tanzanleiterin ist unsere Maria</li></ul><br>Anmeldung unter <a href=\"https://balfolk-burghausen.de/events/balfolk-fuer-einsteiger/\" target=\"_blank\"><u>Balfolk für Einsteiger – Balfolk Burghausen</u></a>"
     links:
@@ -316481,6 +316485,24 @@ events:
     price: $10
     organisation: Cincinnati Contra Dance
     source: events/usa/cdss.yaml
+  - name: Cornwall Contra Dance
+    details: "Second Saturday dance at the Cornwall, VT Town Hall (September through April). Features the music of Red Dog Riley and a rotating cast of callers."
+    links:
+      - "https://cdss.org/event/cornwall-vt-contra-dance/2026-10-10/"
+    start: "2026-10-10T19:00:00-04:00"
+    end: "2026-10-10T21:30:00-04:00"
+    country: USA
+    state: VT
+    city: Cornwall
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Red Dog Riley
+    price: $5-$10
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: Princeton English Country Dance
     details: "English Country Dance every 2nd Saturday (except November and December), 7:30-10:30."
     links:
@@ -316496,6 +316518,27 @@ events:
     workshop: true
     social: true
     price: $15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Austin 3rd* Saturday Contra Dance
+    details: "* This month’s 3rd Saturday contra dance has been moved up one week so as not to conflict with the Austin String Band Festival (October 16-18). \n\n\nCaller: Ann Jenneman\nBand: Calliope \nFeaturing: Pam Pruitt, violin, recorders; Jon Donaldson, violin, autoharp, bodhran; Patty Collier, violin, piano; Mike Savercool, violin; Robert Brandon, violin and tenor banjo, Rose St Anthony, guitar; Eric Vormelker, upright bass \n\n\nGo Dance Studio 2525 W Anderson Ln. #530 in Northcross Mall Plaza (near First Watch and Chaparral Ice.) \nNo partner necessary & beginners are welcome. All dances are taught and called. \nBeginners: Be ready to dance at 7:00pm for easier dances and fuller instruction! Please wear (or even better, bring) clean dance shoes to protect this lovely dance floor. Thanks! \nThis is a fragrance-free event. \nDance sponsored by TAADA"
+    links:
+      - "https://taada.us/wp/events/"
+      - "https://cdss.org/event/austin-3rd-saturday-contra-dance-2/"
+    start: "2026-10-10T19:00:00-05:00"
+    end: "2026-10-10T21:55:00-05:00"
+    country: USA
+    state: TX
+    city: Austin
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Calliope
+    callers:
+      - Ann Jenneman
+    price: $10
     organisation: CDSS
     source: events/usa/cdss.yaml
   - name: Contra Dance at Tapestry Folkdance Center
@@ -317195,6 +317238,7 @@ events:
     source: events/belgium/folkbalbende.yaml
   - name: Balfolk na Andělu
     links:
+      - "https://balfolk.cz/udalost/balfolk-na-andelu-9/"
       - "https://www.facebook.com/events/1602186321296376/1602186394629702/"
       - "https://www.facebook.com/events/1765099314770433/1765099388103759/"
     start: "2026-10-13T19:00:00+02:00"
@@ -317207,7 +317251,7 @@ events:
     social: true
     price: 150-200 CZK
     organisation: Balfolk.cz
-    source: events/czechia/prague.yaml
+    source: events/czechia/balfolk_cz.yaml
   - name: Balfolk für Einsteiger
     details: "<p>Balfolk ist eine lebendige und gesellige Tanzform mit Wurzeln in europäischen Volkstänzen, vor allem aus Frankreich. In diesem Anfängerkurs lernst du einfache Kreis‑ und Reihentänze zu mitreißender Live-Musik – ganz ohne Vorkenntnisse. Der Fokus liegt auf Freude an Bewegung, gemeinsamen Tanzen und einem entspannten Miteinander. Du kannst alleine kommen, oder ihr kommt zu Zweit - es gibt <strong>keinen festen</strong> Tanzpartner. Einfach mitmachen, ausprobieren und Spaß haben!</p><ul><li>Der Kurs beginnt am 29. September und geht über <b>8 Abende </b>bis einschließlich 17. November 2026</li><li>Die Gebühr für den Kurs beträgt <b>40 € pro Teilnehmer:in</b></li><li>Wir sorgen, wie üblich, für Getränke zum Selbstkostenpreis</li><li>Geparkt werden kann nahe in der kostenlosen Tiefgarage gleich unter dem Bürgerplatz</li><li>Tanzanleiterin ist unsere Maria</li></ul><br>Anmeldung unter <a href=\"https://balfolk-burghausen.de/events/balfolk-fuer-einsteiger/\" target=\"_blank\"><u>Balfolk für Einsteiger – Balfolk Burghausen</u></a>"
     links:
@@ -318655,7 +318699,7 @@ events:
     details: "Live music, historic ballroom, sprung dance floor, beginner/refresher session at 6:40pm. Dance 7-10pm. Doors open 6:30. $15. Potluck snacks/treats at halftime! \nElks Lodge in downtown Grass Valley: 109 S. School St., 95945 (fairly easy parking on street and town lots); across from the Center for the Arts. Check our website for band & caller info."
     links:
       - "https://www.contradancenc.org/"
-      - "https://www.kvmr.org/kvmr-event/third-saturdays-contra-dance-nevada-county/"
+      - "https://www.kvmr.org/kvmr-event/third-saturdays-contra-dance-with-full-tilt/"
       - "https://cdss.org/event/3rd-saturdays-contra-dance-grass-valley-ca-3-2/2026-10-17/"
     start: "2026-10-17T18:40:00-07:00"
     end: "2026-10-17T22:00:00-07:00"
@@ -318666,6 +318710,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Full Tilt
+    callers:
+      - Celia Ramsay
     price: $15
     organisation: CDSS
     source: events/usa/cdss.yaml
@@ -319283,6 +319331,23 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Balfolk ve Vozovně
+    links:
+      - "https://balfolk.cz/udalost/folk-knock-ve-vozovne/"
+      - "https://balfolk.cz/udalost/balfolk-na-andelu-9/"
+    start: "2026-10-20T19:00:00+02:00"
+    end: "2026-10-20T22:00:00+02:00"
+    country: Czechia
+    city: Prague
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Folk Knock
+    price: 300 CZK
+    organisation: Balfolk.cz
+    source: events/czechia/balfolk_cz.yaml
   - name: Balfolk für Einsteiger
     details: "<p>Balfolk ist eine lebendige und gesellige Tanzform mit Wurzeln in europäischen Volkstänzen, vor allem aus Frankreich. In diesem Anfängerkurs lernst du einfache Kreis‑ und Reihentänze zu mitreißender Live-Musik – ganz ohne Vorkenntnisse. Der Fokus liegt auf Freude an Bewegung, gemeinsamen Tanzen und einem entspannten Miteinander. Du kannst alleine kommen, oder ihr kommt zu Zweit - es gibt <strong>keinen festen</strong> Tanzpartner. Einfach mitmachen, ausprobieren und Spaß haben!</p><ul><li>Der Kurs beginnt am 29. September und geht über <b>8 Abende </b>bis einschließlich 17. November 2026</li><li>Die Gebühr für den Kurs beträgt <b>40 € pro Teilnehmer:in</b></li><li>Wir sorgen, wie üblich, für Getränke zum Selbstkostenpreis</li><li>Geparkt werden kann nahe in der kostenlosen Tiefgarage gleich unter dem Bürgerplatz</li><li>Tanzanleiterin ist unsere Maria</li></ul><br>Anmeldung unter <a href=\"https://balfolk-burghausen.de/events/balfolk-fuer-einsteiger/\" target=\"_blank\"><u>Balfolk für Einsteiger – Balfolk Burghausen</u></a>"
     links:
@@ -320050,6 +320115,25 @@ events:
     price: $5-$15
     organisation: Colorado Friends of Old Time Music and Dance
     source: events/usa/boulder.yaml
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
+    links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6502"
+      - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2026-10-23/"
+    start: "2026-10-23T19:30:00-07:00"
+    end: "2026-10-23T22:30:00-07:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Lindsey Dono
+    price: $7-$20
+    organisation: Portland Country Dance Community
+    source: events/usa/cdss.yaml
   - name: Tanztag am Bodensee
     details: "Balfolk mit Wouter en Draak, Bal Affaire und Duo Super Nova"
     links:
@@ -320088,6 +320172,41 @@ events:
     price: €4-€25
     organisation: BalAFolk
     source: events/belgium/folkbalbende.yaml
+  - name: Sharon McKinley Memorial Service and Dance
+    details: "Gather at 10:30 AM to 11:00\nMemorial service 11:00 to 12:00\nEnglish Dance for all 12:00 to 12:30\nLight refreshments 12:30 to 1:00\nMixed English and Contra 1:00 to near 3:00 \nCalling by Sharon’s calling friends\nMusic Jonathan Jensen, Paul Oorts, and Susan Brandt \nWe anticipate people from disparate parts of Sharon’s life will attend, including a performance by members of The Canticle Singers of Baltimore, of which Sharon was a long time member. \nEvent is free, but we request (though don’t require) advance registration at www.bfms.org so that we can estimate food needs."
+    links:
+      - "https://cdss.org/event/the-baltimore-folk-music-society-memorial-for-sharon-mckinley/"
+      - "https://bfms.org/"
+    start: "2026-10-24T11:00:00-04:00"
+    end: "2026-10-24T15:00:00-04:00"
+    country: USA
+    state: MD
+    city: Baltimore
+    styles:
+      - contra
+      - ecd
+    workshop: false
+    social: true
+    price: free
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Phoenix English Country Dancers
+    details: "Called English Country dances to recorded music. Free instruction. No partner required. \n$10 or free-will donation"
+    links:
+      - "https://phxtmd.org/english-dance"
+      - "https://cdss.org/event/phoenix-english-country-dancers/2026-10-24/"
+    start: "2026-10-24T09:00:00-07:00"
+    end: "2026-10-24T11:00:00-07:00"
+    country: USA
+    state: AZ
+    city: Phoenix
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $10
+    organisation: Phoenix Traditional Music & Dance
+    source: events/usa/cdss.yaml
   - name: Barn dance
     links:
       - "https://www.folkdancedietlikon.ch/en/barndance/barndancetermin.html"
@@ -320170,6 +320289,76 @@ events:
       - "Cord'air"
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: "St. Alban's Contra Dance"
+    details: "Monthly Contra Dance. \nNew Time: 3:00pm-5:30pm with Basics for New Folks at 2:45pm\nAt St. Alban’s Chapel in Baton Rouge\nWe’ll dance to live music.\nCharlene Heaton will call the dance. \nSuggested donation for the callers and the band:\nAdults $7 (contribute $10 to include a tip for the band…or put a tip in the basket, as you wish);\nStudents $5,\nChildren free.\nIf you’d like, bring cookies or veggies or fruit to share. It’s good to bring your own water bottle."
+    links:
+      - "https://louisianacontrasandsquares.com/events.html"
+      - "https://cdss.org/event/st-albans-contra-dance-in-baton-rouge-2/"
+    start: "2026-10-24T14:45:00-05:00"
+    end: "2026-10-24T17:30:00-05:00"
+    country: USA
+    state: LA
+    city: Baton Rouge
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Charlene Heaton
+    price: $5-$10
+    organisation: Charlene Heaton & David Porter
+    source: events/usa/cdss.yaml
+  - name: Jax Contra
+    details: "Jax Contra is a community dance. You don’t need experience to join us and even people who say, “I can’t dance,” will find themselves captivated, laughing, and enjoying themselves right along with people who have been dancing all of their lives! \nNo partner or experience is necessary, and all ages are welcome. We love beginners; you are our future experienced dancers! There are always plenty of friendly people to dance with and changing dance partners with each dance is encouraged. \nAll dances feature live music and a caller who will walk you through each dance and then call it throughout. Our callers and bands will change from month to month, each offering their own unique style. \nJust before the break, about halfway through the evening, the band will play a waltz, and then there is a refreshment break with snacks brought in by the dancers (optional). Please bring your own water bottle. Water fountain available for refills. Lots more contra dancing after the break, and another waltz to close out the night."
+    links:
+      - "https://jaxcontra.org/"
+      - "https://cdss.org/event/jax-contra/2026-10-24/"
+    start: "2026-10-24T18:30:00-04:00"
+    end: "2026-10-24T22:00:00-04:00"
+    country: USA
+    state: FL
+    city: Jacksonville
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$10
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Columbia Contra Dance
+    details: "Contra dance to live music. No partner or experience necessary. Newcomers workshop & socializing is at 6:30pm (doors open at 6:15pm), and the first contra is at 7:00pm. \nGive what you can. The suggested donation is $10 per dancer. If using Venmo to @contracola-sc, add 50 cents. No donation expected for kids 12 & under, and they must be supervised by a parent."
+    links:
+      - "https://www.contracola.org/"
+      - "https://cdss.org/event/columbia-contra-dance-at-arsenal-hill-park-7/"
+    start: "2026-10-24T18:30:00-04:00"
+    end: "2026-10-24T21:30:00-04:00"
+    country: USA
+    state: SC
+    city: Columbia
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10
+    organisation: Columbia Traditional Music and Dance
+    source: events/usa/cdss.yaml
+  - name: Chattanooga Contra Dance
+    details: "Come on out to the dance floor! Bring your soft-soled shoes and water bottle! We host callers and bands from across the East Coast! The beginner lesson is at 7 pm, and the dance is from 7:30 pm to 9:30 pm!"
+    links:
+      - "https://www.contranooga.dance/"
+      - "https://cdss.org/event/chattanooga-contra-dance/2026-10-24/"
+    start: "2026-10-24T19:00:00-04:00"
+    end: "2026-10-24T21:30:00-04:00"
+    country: USA
+    state: TN
+    city: Chattanooga
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: Chattanooga Traditional Dance Society
+    source: events/usa/cdss.yaml
   - name: MiniBal at Toitū
     links:
       - "https://www.balfolk.co.nz/dunedin"
@@ -320492,6 +320681,7 @@ events:
     source: events/usa/skandia.yaml
   - name: Balfolk na Andělu
     links:
+      - "https://balfolk.cz/udalost/balfolk-na-andelu-9/"
       - "https://www.facebook.com/events/1602186321296376/1602186391296369/"
       - "https://www.facebook.com/events/1765099314770433/1765099364770428/"
     start: "2026-10-27T19:00:00+01:00"
@@ -320504,7 +320694,7 @@ events:
     social: true
     price: 150-200 CZK
     organisation: Balfolk.cz
-    source: events/czechia/prague.yaml
+    source: events/czechia/balfolk_cz.yaml
   - name: Balfolk für Einsteiger
     details: "<p>Balfolk ist eine lebendige und gesellige Tanzform mit Wurzeln in europäischen Volkstänzen, vor allem aus Frankreich. In diesem Anfängerkurs lernst du einfache Kreis‑ und Reihentänze zu mitreißender Live-Musik – ganz ohne Vorkenntnisse. Der Fokus liegt auf Freude an Bewegung, gemeinsamen Tanzen und einem entspannten Miteinander. Du kannst alleine kommen, oder ihr kommt zu Zweit - es gibt <strong>keinen festen</strong> Tanzpartner. Einfach mitmachen, ausprobieren und Spaß haben!</p><ul><li>Der Kurs beginnt am 29. September und geht über <b>8 Abende </b>bis einschließlich 17. November 2026</li><li>Die Gebühr für den Kurs beträgt <b>40 € pro Teilnehmer:in</b></li><li>Wir sorgen, wie üblich, für Getränke zum Selbstkostenpreis</li><li>Geparkt werden kann nahe in der kostenlosen Tiefgarage gleich unter dem Bürgerplatz</li><li>Tanzanleiterin ist unsere Maria</li></ul><br>Anmeldung unter <a href=\"https://balfolk-burghausen.de/events/balfolk-fuer-einsteiger/\" target=\"_blank\"><u>Balfolk für Einsteiger – Balfolk Burghausen</u></a>"
     links:
@@ -320949,6 +321139,7 @@ events:
     source: events/usa/boulder.yaml
   - name: Nordic Dance Day
     links:
+      - "https://balfolk.cz/udalost/den-severskych-tancu/"
       - "https://www.facebook.com/events/1822272128994210/"
       - "https://docs.google.com/forms/d/e/1FAIpQLSfaDvdHYO0zs2to1UF4BMYKexmQS4-ph5iJfPIvjjuyVKT7qg/viewform"
     start: "2026-10-31T11:00:00+01:00"
@@ -321198,8 +321389,8 @@ events:
     details: "Voor onze community in ’s Hertogenbosch is het gelukt om eindelijk een vaste dansavond op te zetten! Elke 2 weken is het mogelijk om te komen dansen bij Cafe station Zuid (kelder), elkaar weer te spreken of om nieuwe dansers te introduceren.\r\n\r\nBalfolk is een toegankelijke sociale dansvorm met dansen zoals de scottish, mazurka en andro. Je danst samen, wisselt van partner en geniet van de sfeer – ervaring is niet nodig. Iedereen is welkom, van beginner tot ervaren danser.\r\n\r\nKom alleen of samen, trek makkelijk zittende schoenen aan en laten we het samen gezellig maken!\r\nTot op de dansvloer! ✨"
     links:
       - "https://www.plug.events/event/social-dansavond-s-hertogenbosch283"
-    start: "2026-11-02T20:00:00+01:00"
-    end: "2026-11-02T22:30:00+01:00"
+    start: "2026-11-02T20:15:00+01:00"
+    end: "2026-11-02T22:45:00+01:00"
     country: Netherlands
     city: "'s-Hertogenbosch"
     styles:
@@ -321242,6 +321433,7 @@ events:
     source: events/usa/skandia.yaml
   - name: Balfolk na Andělu
     links:
+      - "https://balfolk.cz/udalost/balfolk-na-andelu-9/"
       - "https://www.facebook.com/events/1602186321296376/1602186347963040/"
       - "https://www.facebook.com/events/1765099314770433/1765099394770425/"
     start: "2026-11-03T19:00:00+01:00"
@@ -321254,7 +321446,7 @@ events:
     social: true
     price: 300 CZK
     organisation: Balfolk.cz
-    source: events/czechia/prague.yaml
+    source: events/czechia/balfolk_cz.yaml
   - name: Balfolk für Einsteiger
     details: "<p>Balfolk ist eine lebendige und gesellige Tanzform mit Wurzeln in europäischen Volkstänzen, vor allem aus Frankreich. In diesem Anfängerkurs lernst du einfache Kreis‑ und Reihentänze zu mitreißender Live-Musik – ganz ohne Vorkenntnisse. Der Fokus liegt auf Freude an Bewegung, gemeinsamen Tanzen und einem entspannten Miteinander. Du kannst alleine kommen, oder ihr kommt zu Zweit - es gibt <strong>keinen festen</strong> Tanzpartner. Einfach mitmachen, ausprobieren und Spaß haben!</p><ul><li>Der Kurs beginnt am 29. September und geht über <b>8 Abende </b>bis einschließlich 17. November 2026</li><li>Die Gebühr für den Kurs beträgt <b>40 € pro Teilnehmer:in</b></li><li>Wir sorgen, wie üblich, für Getränke zum Selbstkostenpreis</li><li>Geparkt werden kann nahe in der kostenlosen Tiefgarage gleich unter dem Bürgerplatz</li><li>Tanzanleiterin ist unsere Maria</li></ul><br>Anmeldung unter <a href=\"https://balfolk-burghausen.de/events/balfolk-fuer-einsteiger/\" target=\"_blank\"><u>Balfolk für Einsteiger – Balfolk Burghausen</u></a>"
     links:
@@ -321643,6 +321835,23 @@ events:
       - Christine Merryman
     organisation: Tucson Friends of Traditional Music%2C Inc.
     source: events/usa/cdss.yaml
+  - name: CFOOTMAD Community Contra Dance
+    details: "Community Contra Dance open to all ages.  All dances taught.  No experience necessary.  Always live music.  Lesson 7 p.m.; dance 7:30 to 10:30."
+    links:
+      - "https://boulderdance.org/event/colorado-friends-of-old-time-music-and-dance-dance-community-contra-dance-2026-08-07/2026-11-06/"
+      - "https://www.cfootmad.org/"
+    start: "2026-11-06T19:00:00-07:00"
+    end: "2026-11-06T22:30:00-07:00"
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: Colorado Friends of Old Time Music and Dance
+    source: events/usa/boulder.yaml
   - name: Portland English Country Ball Weekend
     details: "Friday, November 6\nPre-Ball Dance\nOpen to everyone (separate admission)\nCaller: Melissa Running (positional calling)\nMusicians: Bill Tomczak, Betsy Branch, Laura Kuhlman, Mark Douglass\nSound: John Oorthuys \nSaturday, November 7\nThe Ball\nRegistration Required\nCaller: Lindsey Dono (positional calling)\nMusicians: Erik Weberg, George Penk, Lisa Scott\nSound: John Oorthuys"
     links:
@@ -322058,6 +322267,7 @@ events:
     source: events/belgium/folkbalbende.yaml
   - name: Balfolk na Andělu
     links:
+      - "https://balfolk.cz/udalost/balfolk-na-andelu-9/"
       - "https://www.facebook.com/events/1602186321296376/1602186344629707/"
       - "https://www.facebook.com/events/1765099314770433/1765099324770432/"
     start: "2026-11-10T19:00:00+01:00"
@@ -322070,7 +322280,7 @@ events:
     social: true
     price: 150-200 CZK
     organisation: Balfolk.cz
-    source: events/czechia/prague.yaml
+    source: events/czechia/balfolk_cz.yaml
   - name: Balfolk für Einsteiger
     details: "<p>Balfolk ist eine lebendige und gesellige Tanzform mit Wurzeln in europäischen Volkstänzen, vor allem aus Frankreich. In diesem Anfängerkurs lernst du einfache Kreis‑ und Reihentänze zu mitreißender Live-Musik – ganz ohne Vorkenntnisse. Der Fokus liegt auf Freude an Bewegung, gemeinsamen Tanzen und einem entspannten Miteinander. Du kannst alleine kommen, oder ihr kommt zu Zweit - es gibt <strong>keinen festen</strong> Tanzpartner. Einfach mitmachen, ausprobieren und Spaß haben!</p><ul><li>Der Kurs beginnt am 29. September und geht über <b>8 Abende </b>bis einschließlich 17. November 2026</li><li>Die Gebühr für den Kurs beträgt <b>40 € pro Teilnehmer:in</b></li><li>Wir sorgen, wie üblich, für Getränke zum Selbstkostenpreis</li><li>Geparkt werden kann nahe in der kostenlosen Tiefgarage gleich unter dem Bürgerplatz</li><li>Tanzanleiterin ist unsere Maria</li></ul><br>Anmeldung unter <a href=\"https://balfolk-burghausen.de/events/balfolk-fuer-einsteiger/\" target=\"_blank\"><u>Balfolk für Einsteiger – Balfolk Burghausen</u></a>"
     links:
@@ -322828,8 +323038,8 @@ events:
     details: "Voor onze community in ’s Hertogenbosch is het gelukt om eindelijk een vaste dansavond op te zetten! Elke 2 weken is het mogelijk om te komen dansen bij Cafe station Zuid (kelder), elkaar weer te spreken of om nieuwe dansers te introduceren.\r\n\r\nBalfolk is een toegankelijke sociale dansvorm met dansen zoals de scottish, mazurka en andro. Je danst samen, wisselt van partner en geniet van de sfeer – ervaring is niet nodig. Iedereen is welkom, van beginner tot ervaren danser.\r\n\r\nKom alleen of samen, trek makkelijk zittende schoenen aan en laten we het samen gezellig maken!\r\nTot op de dansvloer! ✨"
     links:
       - "https://www.plug.events/event/social-dansavond-s-hertogenbosch893"
-    start: "2026-11-16T20:00:00+01:00"
-    end: "2026-11-16T22:30:00+01:00"
+    start: "2026-11-16T20:15:00+01:00"
+    end: "2026-11-16T22:45:00+01:00"
     country: Netherlands
     city: "'s-Hertogenbosch"
     styles:
@@ -322905,6 +323115,19 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Balfolk na Andělu
+    links:
+      - "https://balfolk.cz/udalost/balfolk-na-andelu-9/"
+    start: "2026-11-17T19:00:00+01:00"
+    end: "2026-11-17T20:00:00+01:00"
+    country: Czechia
+    city: Prague
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Balfolk.cz
+    source: events/czechia/balfolk_cz.yaml
   - name: Balfolk für Einsteiger
     details: "<p>Balfolk ist eine lebendige und gesellige Tanzform mit Wurzeln in europäischen Volkstänzen, vor allem aus Frankreich. In diesem Anfängerkurs lernst du einfache Kreis‑ und Reihentänze zu mitreißender Live-Musik – ganz ohne Vorkenntnisse. Der Fokus liegt auf Freude an Bewegung, gemeinsamen Tanzen und einem entspannten Miteinander. Du kannst alleine kommen, oder ihr kommt zu Zweit - es gibt <strong>keinen festen</strong> Tanzpartner. Einfach mitmachen, ausprobieren und Spaß haben!</p><ul><li>Der Kurs beginnt am 29. September und geht über <b>8 Abende </b>bis einschließlich 17. November 2026</li><li>Die Gebühr für den Kurs beträgt <b>40 € pro Teilnehmer:in</b></li><li>Wir sorgen, wie üblich, für Getränke zum Selbstkostenpreis</li><li>Geparkt werden kann nahe in der kostenlosen Tiefgarage gleich unter dem Bürgerplatz</li><li>Tanzanleiterin ist unsere Maria</li></ul><br>Anmeldung unter <a href=\"https://balfolk-burghausen.de/events/balfolk-fuer-einsteiger/\" target=\"_blank\"><u>Balfolk für Einsteiger – Balfolk Burghausen</u></a>"
     links:
@@ -323876,6 +324099,7 @@ events:
     source: events/belgium/folkbalbende.yaml
   - name: Balfolk na Andělu
     links:
+      - "https://balfolk.cz/udalost/balfolk-na-andelu-9/"
       - "https://www.facebook.com/events/1602186321296376/1602186384629703/"
       - "https://www.facebook.com/events/1765099314770433/1765099351437096/"
     start: "2026-11-24T19:00:00+01:00"
@@ -323888,7 +324112,7 @@ events:
     social: true
     price: 150-200 CZK
     organisation: Balfolk.cz
-    source: events/czechia/prague.yaml
+    source: events/czechia/balfolk_cz.yaml
   - name: Dance Class Level 8 Challenge
     details: Course
     links:
@@ -324475,8 +324699,8 @@ events:
     details: "Voor onze community in ’s Hertogenbosch is het gelukt om eindelijk een vaste dansavond op te zetten! Elke 2 weken is het mogelijk om te komen dansen bij Cafe station Zuid (kelder), elkaar weer te spreken of om nieuwe dansers te introduceren.\r\n\r\nBalfolk is een toegankelijke sociale dansvorm met dansen zoals de scottish, mazurka en andro. Je danst samen, wisselt van partner en geniet van de sfeer – ervaring is niet nodig. Iedereen is welkom, van beginner tot ervaren danser.\r\n\r\nKom alleen of samen, trek makkelijk zittende schoenen aan en laten we het samen gezellig maken!\r\nTot op de dansvloer! ✨"
     links:
       - "https://www.plug.events/event/social-dansavond-s-hertogenbosch475"
-    start: "2026-11-30T20:00:00+01:00"
-    end: "2026-11-30T22:30:00+01:00"
+    start: "2026-11-30T20:15:00+01:00"
+    end: "2026-11-30T22:45:00+01:00"
     country: Netherlands
     city: "'s-Hertogenbosch"
     styles:
@@ -324567,6 +324791,7 @@ events:
     source: events/belgium/folkbalbende.yaml
   - name: Balfolk na Andělu
     links:
+      - "https://balfolk.cz/udalost/balfolk-na-andelu-9/"
       - "https://www.facebook.com/events/1602186321296376/1602186387963036/"
       - "https://www.facebook.com/events/1765099314770433/1765099358103762/"
     start: "2026-12-01T19:00:00+01:00"
@@ -324579,7 +324804,7 @@ events:
     social: true
     price: 300 CZK
     organisation: Balfolk.cz
-    source: events/czechia/prague.yaml
+    source: events/czechia/balfolk_cz.yaml
   - name: Dance Class Level 8 Challenge
     details: Course
     links:
@@ -325411,6 +325636,7 @@ events:
     source: events/belgium/folkbalbende.yaml
   - name: Balfolk na Andělu
     links:
+      - "https://balfolk.cz/udalost/balfolk-na-andelu-9/"
       - "https://www.facebook.com/events/1602186321296376/1602186341296374/"
       - "https://www.facebook.com/events/1765099314770433/1765099338103764/"
     start: "2026-12-08T19:00:00+01:00"
@@ -325423,7 +325649,7 @@ events:
     social: true
     price: 150-200 CZK
     organisation: Balfolk.cz
-    source: events/czechia/prague.yaml
+    source: events/czechia/balfolk_cz.yaml
   - name: Dance Class Level 8 Challenge
     details: Course
     links:
@@ -325973,8 +326199,8 @@ events:
     details: "Voor onze community in ’s Hertogenbosch is het gelukt om eindelijk een vaste dansavond op te zetten! Elke 2 weken is het mogelijk om te komen dansen bij Cafe station Zuid (kelder), elkaar weer te spreken of om nieuwe dansers te introduceren.\r\n\r\nBalfolk is een toegankelijke sociale dansvorm met dansen zoals de scottish, mazurka en andro. Je danst samen, wisselt van partner en geniet van de sfeer – ervaring is niet nodig. Iedereen is welkom, van beginner tot ervaren danser.\r\n\r\nKom alleen of samen, trek makkelijk zittende schoenen aan en laten we het samen gezellig maken!\r\nTot op de dansvloer! ✨"
     links:
       - "https://www.plug.events/event/social-dansavond-s-hertogenbosch790"
-    start: "2026-12-14T20:00:00+01:00"
-    end: "2026-12-14T22:30:00+01:00"
+    start: "2026-12-14T20:15:00+01:00"
+    end: "2026-12-14T22:45:00+01:00"
     country: Netherlands
     city: "'s-Hertogenbosch"
     styles:
@@ -326034,6 +326260,7 @@ events:
     source: events/belgium/folkbalbende.yaml
   - name: Balfolk na Andělu
     links:
+      - "https://balfolk.cz/udalost/balfolk-na-andelu-9/"
       - "https://www.facebook.com/events/1602186321296376/1602186381296370/"
       - "https://www.facebook.com/events/1765099314770433/1765099344770430/"
     start: "2026-12-15T19:00:00+01:00"
@@ -326046,7 +326273,7 @@ events:
     social: true
     price: 300 CZK
     organisation: Balfolk.cz
-    source: events/czechia/prague.yaml
+    source: events/czechia/balfolk_cz.yaml
   - name: Dance Class Level 8 Challenge
     details: Course
     links:
@@ -326756,6 +326983,39 @@ events:
     price: $10
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Balfolk dansavond
+    details: "Als onderdeel van het lesprogramma hebben we bij Balfolk Amsterdam om de week een gezellige Balfolk Dansavond! Dé plek om lekker te dansen, iets nieuws te leren en vooral te genieten van goede balfolkmuziek en fijne mensen."
+    links:
+      - "https://balfolkamsterdam.nl/dansavond-najaar-2026-9"
+      - "https://www.plug.events/event/balfolk-dansavond562"
+    start: "2027-01-04T19:00:00+01:00"
+    end: "2027-01-04T22:00:00+01:00"
+    country: Netherlands
+    city: Amsterdam
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €7.50
+    organisation: Balfolk Amsterdam
+    source: events/netherlands/plug_balfolk.yaml
+  - name: Verjaardagsbal
+    details: Bo (organisator en docent) en Jesse (vaste assistent) zijn begin januari jarig geweest! Zij willen het heel graag met iedereen vieren en hebben trio baftig uitgenodigd om te komen spelen op normaal onze socialavond.
+    links:
+      - "https://www.plug.events/event/social-dansavond-s-hertogenbosch604"
+    start: "2027-01-04T20:15:00+01:00"
+    end: "2027-01-04T22:30:00+01:00"
+    country: Netherlands
+    city: "'s-Hertogenbosch"
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Trio Baftig
+    price: €7.50
+    organisation: BalfolkSync
+    source: events/netherlands/plug_balfolk.yaml
   - name: Beginner class at Univ Heights Center
     details: "<p><span>The class resumes on Mondays from 7-9 pm starting on September 14, at the University Heights Center near UW.  It will run through December 14 and then start up again on January 4, 2027.  FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don&#39;t have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
     links:
@@ -326786,7 +327046,7 @@ events:
     social: true
     price: 300 CZK
     organisation: Balfolk.cz
-    source: events/czechia/prague.yaml
+    source: events/czechia/balfolk_cz.yaml
   - name: Führen und geführt werden
     links:
       - "https://www.gugelhupf-dresden.de/tanz-am-dienstag/"
@@ -327078,7 +327338,7 @@ events:
     social: true
     price: 150-200 CZK
     organisation: Balfolk.cz
-    source: events/czechia/prague.yaml
+    source: events/czechia/balfolk_cz.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -327139,7 +327399,7 @@ events:
       - Kapela Fedaków
       - Akleja
     organisation: Balfolk.cz
-    source: events/czechia/prague.yaml
+    source: events/czechia/balfolk_cz.yaml
   - name: Stellar Days & Nights
     details: "4-day Music & Dance camp in the Colorado Rockies—with cozy log cabins, chef meals & hot springs. \nMostly Contra, plus English Country. Couples dance, Singing, Workshops, Music jams. \nBuena Vista, CO. Ride shares to/from Denver. \nCallers: Gaye Fifer & Wendy Graham\nMusic by: Supertrad with Sam Bartlett, Eric Schedler, Owen Morrison & Dave Langford"
     links:
@@ -327246,6 +327506,25 @@ events:
     price: £21-£27
     organisation: London Ceilidh Club
     source: events/uk/ceilidh_club.yaml
+  - name: Bal Folk
+    details: "13:00 - 15:00 workshop für Einsteiger , 15:30 - 17:30 workshop für Fortgeschritte, 18:00 - 22:00 Bal Folk"
+    links:
+      - "https://www.vereinonline.org/danzamol_eV/?veranstaltung=18810"
+      - "https://danzamol.de/balfolkstanzfeste/"
+      - "https://kalender.digital/574d155c91900caea879/event/4159698648"
+    start: "2027-01-17T13:00:00+01:00"
+    end: "2027-01-17T22:00:00+01:00"
+    country: Germany
+    city: Ehningen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Parasol
+    price: €20-€40
+    organisation: Danzamol
+    source: events/germany/kalender.yaml
   - name: "Ça Bal'Wanze"
     details: Ball
     links:
@@ -327310,7 +327589,7 @@ events:
     social: true
     price: 300 CZK
     organisation: Balfolk.cz
-    source: events/czechia/prague.yaml
+    source: events/czechia/balfolk_cz.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -327551,7 +327830,7 @@ events:
     social: true
     price: 150-200 CZK
     organisation: Balfolk.cz
-    source: events/czechia/prague.yaml
+    source: events/czechia/balfolk_cz.yaml
   - name: Dansavond
     details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
     links:
@@ -327595,6 +327874,29 @@ events:
     price: £21-£27
     organisation: London Ceilidh Club
     source: events/uk/ceilidh_club.yaml
+  - name: Salty Swirl
+    details: "Salty Swirl is back! And we are very excited for this year’s line up! ContraForce will be joining us from Charleston, SC, and The Four O’Clocks from Atlanta, GA will be bringing the tunes as well. Kenny Greer and David Winston will be our callers! \nThis event will not have a contra beginner lesson. Gents and Ladies terms will be used. Check-in starts on January 29th at 7pm at the Hannah Block USO in downtown Wilmington, NC. \nThe Sunday morning waltz will be from 10am to 12pm and Station No. 2 in Wilmington, NC. A separate ticket will need to be purchased for the Sunday morning waltz. \nFor full details, tickets, and the complete schedule of events, see this link."
+    links:
+      - "https://saltyswirl2027.ticketspice.com/salty-swirl-2027"
+      - "https://cdss.org/event/salty-swirl-2027/"
+    start: "2027-01-29T19:00:00-05:00"
+    end: "2027-01-31T12:00:00-05:00"
+    country: USA
+    state: NC
+    city: Wilmington
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - ContraForce
+      - "The Four O'Clocks"
+    callers:
+      - David Winston
+      - Kenny Greer
+    price: $84.85
+    organisation: Cape Fear Contra Dancers
+    source: events/usa/cdss.yaml
   - name: Wintergreen Dance Weekend
     details: "We’re trying something very different this year. \nInstead of hiring a couple of bands, we’ve retained a cloud of brilliant musicians, who will form into a variety of ensembles as the event goes on. You’ll see them in many combinations and permutations, with an ever-changing repertoire and solid rapport. Come see the magic happen in ways you’ll see nowhere else! \nThey are Audrey Jaber, Max Newman, Alex Cumming, Julie Metcalf, and Stewart Kenney. Callers are Mary Wessley and Craig Wolf. \nThere will be workshops for dancers and dance musicians. Home stays are available on a first-come-first-served basis, so register early if you want that option. Great food is provided for lunch and dinner Saturday, with snacks provided through the weekend. \nSo pack your skis and meet the friendliest crowd of dancers anywhere! \nPay what you can."
     links:
@@ -329627,6 +329929,29 @@ events:
     price: $110-$130
     organisation: AACTMAD
     source: events/usa/trycontra.yaml
+  - name: Whitewater Whirl
+    details: "Join us in 2027 for another incredible weekend of dancing in the beautiful New River Gorge area of West Virginia. The bands are Toss the Possum (Laura and Rob Zisette) and the Rhythm Blazers, a newly formed trio of North Carolina-based musicians—David DiGiuseppe (accordion), Jared Kirkpatrick (piano, mandolin, fiddle), an Jim Roberts (percussion)—all of whom have played with popular contra dance bands. \nFree cabins and tent camping. Meal plan with vegetarian options. A wonderful wood and stone New Deal-era dance hall with suspended wooden floor and barn doors opened or closed to suit the weather. \nThe calling terms will be larks and robins.‍ ‍Workshops include Kerry Sets (back by popular demand), waltz, swing, flatfooting, and calling for beginners. \n$130 for weekend; a la carte for evening dances and workshops."
+    links:
+      - "https://www.footmad.org/whirl"
+      - "https://cdss.org/event/whitewater-whirl-contra-dance-weekend-2/"
+    start_date: 2027-05-07
+    end_date: 2027-05-09
+    country: USA
+    state: WV
+    city: Fayetteville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Rhythm Blazers
+      - Toss the Possum
+    callers:
+      - Bob Isaacs
+      - Terry Doyle
+    price: $130
+    organisation: Friends of Old Time Music and Dance of Kanawha Valley (FOOTMAD)
+    source: events/usa/cdss.yaml
   - name: Irish Music Festival
     details: Ball
     links:
