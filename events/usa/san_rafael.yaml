@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: San Rafael Contra Dance
+    links:
+      - "https://nbcds.org/contra-dance/"
+    start: "2026-10-10T18:30:00-07:00"
+    end: "2026-10-10T22:00:00-07:00"
+    country: USA
+    state: CA
+    city: San Rafael
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Rebecca King & Anne Goess
+    callers:
+      - Edie Sussman
+    price: $15-$20
+    organisation: NBCDS
