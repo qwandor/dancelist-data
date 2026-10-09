@@ -30561,6 +30561,7 @@ events:
     social: true
     bands:
       - Laouen
+    price: €10-€18
     organisation: Balhalla
   - name: "Balfolk With le Bal de L'aube"
     details: Ball
@@ -33888,7 +33889,7 @@ events:
       - "https://www.rzf.be/event"
       - "https://folkbalbende.be/event/5161"
     start: "2027-01-30T19:30:00+01:00"
-    end: "2027-01-31T00:15:00+01:00"
+    end: "2027-01-31T00:30:00+01:00"
     country: Belgium
     city: Liège
     styles:
@@ -34017,4 +34018,38 @@ events:
       - balfolk
     workshop: false
     social: true
+    organisation: ~
+  - name: "Balfolk With le Bal de L'aube"
+    details: Ball
+    links:
+      - "https://www.balhalla.be/en/event/balfolk-with-le-bal-de-laube"
+      - "https://folkbalbende.be/event/5171"
+    start: "2026-12-21T19:00:00+01:00"
+    end: "2026-12-21T23:00:00+01:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - "Le Bal de L'aube"
+    organisation: Balhalla
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://folkbalbende.be/event/5172"
+      - "https://www.facebook.com/events/1211916247717677"
+    start: "2026-10-29T19:00:00+01:00"
+    end: "2026-10-29T19:45:00+01:00"
+    country: Belgium
+    city: Gentbrugge
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - "Folkin'jong"
+      - Fahrenheit
     organisation: ~
