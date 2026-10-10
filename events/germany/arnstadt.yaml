@@ -1,0 +1,18 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal Folk in Arnstadt
+    details: mit Live-Ball von Xenia Twarz
+    links:
+      - "https://www.ostfolk.de/aktuell/der-osten-tanzt-und-wo/"
+    start: "2026-10-27T19:00:00+01:00"
+    end: "2026-10-27T21:00:00+01:00"
+    country: Germany
+    city: Arnstadt
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Xenia Twarz
+    price: donation
+    organisation: ~
