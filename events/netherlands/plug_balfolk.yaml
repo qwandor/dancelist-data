@@ -6465,17 +6465,18 @@ events:
     social: true
     price: €5
     organisation: Balfolk Zeist
-  - name: Folkbal Wilhelmina - Vlier (NL)
+  - name: Folkbal Wilhelmina
     details: Na een fijne set op VAN HIER Festival speelt Vlier deze maand in ons eigen Wilhelmina. Een opwarmer voor CaDansa!
     links:
       - "https://www.plug.events/event/folkbal-wilhelmina-vlier-nl"
+      - "https://www.facebook.com/events/1699651937775135/"
     start: "2026-10-14T20:15:00+02:00"
     end: "2026-10-14T23:30:00+02:00"
     country: Netherlands
     city: Eindhoven
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Vlier
@@ -7096,7 +7097,7 @@ events:
     social: true
     price: €7.50
     organisation: Balfolk Zuid-Holland
-  - name: Balfolkcafe Groningen met Wouter en de Draak
+  - name: Balfolkcafe Groningen
     details: "Wouter en de Draak bij Balfolk Groningen op vrijdag 20 november 2026\r\nAanvang: 19:30\r\nEntree: Vrijwillige bijdrage, geef gul voor de band! Bijvoorbeeld €15 per persoon\r\nLocatie: Theater De Kapel in het Oude Rooms Katholiek Ziekenhuis (ORKZ),\r\nEmmastraat 15, 9722 EW Groningen\r\n\r\nBalfolk Groningen is dansen op live folkmuziek en natuurlijk sessie na afloop: dus neem ook je instrumenten mee!\r\n\r\nGlobaal tijdschema:\r\n19:30 dansworkshop\r\n20:30 Bal\r\n22:30 sessie\r\n23:00 einde programma\r\n(Tijden onder voorbehoud)"
     links:
       - "https://www.plug.events/event/balfolkcafe-groningen-met-wouter-en-de-draak"
@@ -7107,9 +7108,10 @@ events:
     styles:
       - balfolk
     workshop: true
-    social: false
+    social: true
     bands:
       - Wouter en de Draak
+    price: €15
     organisation: Balfolk Groningen
   - name: Balfolk Utrecht
     details: "Bal in de Moira met Duo De Schepper-Sanczuk en Bamako Expres. Mis het niet! Koop je kaartje online om verzekerd te zijn van een plekje.\r\n\r\nVoor meer informatie over de workshop, kijk hier: https://www.plug.events/event/balfolk-utrecht-workshop-muzikaliteit-met-155"
@@ -7205,10 +7207,11 @@ events:
     social: true
     price: €7.50
     organisation: Balfolk Zuid-Holland
-  - name: Folk Inferno XXII - Trio MD&A
+  - name: Folk Inferno XXII
     details: "Balfolk in Zwolle gaat door in seizoen '26-'27.\r\nWe gaan de mooiste bands voor jullie boeken!\r\n\r\nAlvast in je agenda:\r\n25 september 2026\r\n27 november 2026\r\n22 januari 2027\r\n12 maart 2027\r\n28-30 mei 2027"
     links:
       - "https://www.plug.events/event/folk-inferno-xxii134"
+      - "https://www.facebook.com/events/2062200174662852/"
     start: "2026-11-27T19:30:00+01:00"
     end: "2026-11-27T22:30:00+01:00"
     country: Netherlands
@@ -7439,7 +7442,7 @@ events:
     social: true
     price: €5
     organisation: Balfolk Zeist
-  - name: Balfolkcafe Groningen met Laouen
+  - name: Balfolkcafe Groningen
     details: "Laouen bij Balfolk Groningen op vrijdag 18 december 2026\r\nAanvang: 19:30\r\nEntree: Vrijwillige bijdrage, geef gul voor de band! Bijvoorbeeld €15 per persoon\r\nLocatie: Theater De Kapel in het Oude Rooms Katholiek Ziekenhuis (ORKZ),\r\nEmmastraat 15, 9722 EW Groningen\r\n\r\nBalfolk Groningen is dansen op live folkmuziek en natuurlijk sessie na afloop: dus neem ook je instrumenten mee!\r\n\r\nGlobaal tijdschema:\r\n19:30 dansworkshop\r\n20:30 Bal\r\n22:30 sessie\r\n23:00 einde programma\r\n(Tijden onder voorbehoud)"
     links:
       - "https://www.plug.events/event/balfolkcafe-groningen-met-laouen"
@@ -7453,6 +7456,7 @@ events:
     social: true
     bands:
       - Laouen
+    price: €15
     organisation: Balfolk Groningen
   - name: Kerstspecial in de Mezrab
     details: "Met kerst maken we er altijd een extra speciaal feestje van bij Balfolk Amsterdam. Verwacht een sfeervol verlichtte Mezrab, een dubbele hoofdact en nét dat extra beetje feestgevoel. We kunnen niet wachten om de programmmering bekend te maken."
@@ -7626,7 +7630,7 @@ events:
     social: true
     price: €5
     organisation: Balfolk Zeist
-  - name: "Folk Inferno XXIII - Fabella, Laouen"
+  - name: Folk Inferno XXIII
     details: "Balfolk in Zwolle gaat door in seizoen '26-'27.\r\nWe gaan de mooiste bands voor jullie boeken!\r\n\r\nAlvast in je agenda:\r\n25 september 2026\r\n27 november 2026\r\n22 januari 2027\r\n12 maart 2027\r\n28-30mei 2027"
     links:
       - "https://www.plug.events/event/folk-inferno-xxiii559"
@@ -7742,7 +7746,7 @@ events:
       - Le Driadi
     price: €15
     organisation: Balfolk Groningen
-  - name: "Folk Inferno XXIV - Paracetamol, 10 jaar"
+  - name: Folk Inferno XXIV
     details: "Balfolk in Zwolle gaat door in seizoen '26-'27.\r\nWe gaan de mooiste bands voor jullie boeken!\r\n\r\nAlvast in je agenda:\r\n25 september 2026\r\n27 november 2026\r\n22 januari 2027\r\n12 maart 2027\r\n28-30 mei 2027"
     links:
       - "https://www.plug.events/event/folk-inferno-xxiv492"
@@ -7804,17 +7808,13 @@ events:
     social: true
     bands:
       - Akleja
-      - Alyson Farmer
-      - Bert Leemans
       - Duo/ trio Baftig
       - Feather and Fox
       - Hartwin Dhoore Trio
       - Itchy Fingers
       - Lirio
-      - Rob Zantkuijl
       - Teulèra
       - TriOblique
-      - Ward Van den Berg
       - e = m(T²)
     price: €26-€126
     organisation: Folk Inferno
