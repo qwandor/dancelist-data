@@ -14716,7 +14716,6 @@ events:
   - name: Folkbal
     details: Ball
     links:
-      - "https://www.instagram.com/cc_de_ververij/"
       - "https://www.ronse.be/nl/nieuws/variomatic-folkbal"
       - "https://folkbalbende.be/event/2213"
       - "https://www.facebook.com/events/1050754239346842/"
@@ -25258,6 +25257,7 @@ events:
       - "https://www.rzf.be/en_US/event/bal-folk-avec-garenne-bourrasque-2026-10-31-83/register"
       - "https://www.facebook.com/events/4353738181509601/"
       - "https://folkbalbende.be/event/4043"
+      - "https://folkbalbende.be/event/5163"
     start: "2026-10-31T19:30:00+01:00"
     end: "2026-11-01T00:30:00+01:00"
     country: Belgium
@@ -25276,7 +25276,7 @@ events:
     links:
       - "https://www.rzf.be/en_US/event/bal-folk-avec-oraj-octopulse-2026-11-27-84/register"
       - "https://folkbalbende.be/event/4044"
-      - "https://www.facebook.com/events/1033667602494147?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22calendar_tab_event%22%2C%22surface%22%3A%22bookmark_calendar%22%7D]%2C%22ref_notif_type%22%3Anull%7D"
+      - "https://www.facebook.com/events/1033667602494147/"
     start: "2026-11-27T19:30:00+01:00"
     end: "2026-11-28T00:30:00+01:00"
     country: Belgium
@@ -26015,7 +26015,7 @@ events:
     start: "2026-11-21T16:00:00+01:00"
     end: "2026-11-21T22:00:00+01:00"
     country: Belgium
-    city: Aubechies
+    city: Quevaucamps
     styles:
       - balfolk
     workshop: true
@@ -26932,6 +26932,20 @@ events:
       - Bellowing Bellows
     price: €12-€18
     organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+    start: "2026-10-11T14:00:00+02:00"
+    end: "2026-10-11T17:00:00+02:00"
+    country: Belgium
+    city: Herk-de-Stad
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €12-€20
+    organisation: ~
   - name: "Ça Bal'Wanze"
     details: Ball
     links:
@@ -27084,7 +27098,6 @@ events:
     details: Ball
     links:
       - "https://www.centreculturelwanze.be/fr/les-glaneurs-de-sons.html"
-      - "https://www.facebook.com/cabalwanze.be/"
       - "https://folkbalbende.be/event/4877"
     start: "2026-12-13T15:00:00+01:00"
     end: "2026-12-13T18:30:00+01:00"
@@ -27135,21 +27148,6 @@ events:
       - Lucas Lejeune
     price: donation
     organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda/"
-      - "https://www.rzf.be"
-    start: "2027-01-30T19:30:00+01:00"
-    end: "2027-01-31T00:30:00+01:00"
-    country: Belgium
-    city: Liège
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    price: €8-€16
-    organisation: "Rif Zans L'Fiesse"
   - name: Le Bal des Possibles
     details: Ball
     links:
@@ -28858,6 +28856,7 @@ events:
     links:
       - "https://www.folkinjong.be/bal/"
       - "https://folkbalbende.be/event/5033"
+      - "https://folkbalbende.be/event/5172"
       - "https://www.facebook.com/events/1211916247717677/"
     start: "2026-10-29T19:00:00+01:00"
     end: "2026-10-29T23:59:00+01:00"
@@ -29072,11 +29071,12 @@ events:
       - Laouen
     price: €10-€18
     organisation: Balhalla
-  - name: Balfolk
+  - name: Balhalla
     details: Ball
     links:
       - "https://www.balhalla.be/en/event/balfolk-with-le-bal-de-l-aube"
       - "https://folkbalbende.be/event/5057"
+      - "https://folkbalbende.be/event/5171"
     start: "2026-12-21T19:00:00+01:00"
     end: "2026-12-21T23:00:00+01:00"
     country: Belgium
@@ -30182,7 +30182,7 @@ events:
     start: "2026-11-07T20:00:00+01:00"
     end: "2026-11-07T23:00:00+01:00"
     country: Belgium
-    city: Fronville
+    city: Hampteau
     styles:
       - balfolk
     workshop: true
@@ -30256,7 +30256,7 @@ events:
     start: "2026-11-22T14:00:00+01:00"
     end: "2026-11-22T18:00:00+01:00"
     country: Belgium
-    city: La Reid
+    city: Theux
     styles:
       - balfolk
     workshop: false
@@ -30477,7 +30477,7 @@ events:
     start: "2026-10-17T20:00:00+02:00"
     end: "2026-10-17T23:00:00+02:00"
     country: Belgium
-    city: Luingne
+    city: Mouscron
     styles:
       - balfolk
     workshop: false
@@ -32074,49 +32074,30 @@ events:
     bands:
       - Duo Vertygo
       - Balance ta Chouette
-    organisation: "Rif Zans L'Fiesse"
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda/"
-      - "https://www.rzf.be"
-      - "https://www.facebook.com/events/1815418672591013"
-      - "https://www.facebook.com/events/1497620248359740"
-      - "https://folkbalbende.be/event/5163"
-      - "https://www.facebook.com/events/4353738181509601"
-    start: "2026-10-31T19:30:00+01:00"
-    end: "2026-10-31T20:00:00+01:00"
-    country: Belgium
-    city: Liège
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Garenne
-      - Bourrasque
+    price: €8-€16
     organisation: "Rif Zans L'Fiesse"
   - name: Bal-boeuf Folk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/BALS.htm"
       - "https://folkbalbende.be/event/5164"
-    start_date: 2026-12-06
-    end_date: 2026-12-06
+      - "https://www.facebook.com/events/28924321617153828/28924321647153825/"
+    start: "2026-12-06T19:30:00+01:00"
+    end: "2026-12-06T22:30:00+01:00"
     country: Belgium
     city: Brussels
     styles:
       - balfolk
     workshop: false
     social: true
+    price: €3
     organisation: ~
   - name: Bal-boeuf Folk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/BALS.htm"
       - "https://folkbalbende.be/event/5165"
-    start_date: 2027-01-03
-    end_date: 2027-01-03
+      - "https://www.facebook.com/events/28924321617153828/28924321650487158/"
+    start: "2027-01-03T19:30:00+01:00"
+    end: "2027-01-03T22:30:00+01:00"
     country: Belgium
     city: Brussels
     styles:
@@ -32124,13 +32105,14 @@ events:
     workshop: false
     social: true
     organisation: ~
+    price: €3
   - name: Bal-boeuf Folk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/BALS.htm"
       - "https://folkbalbende.be/event/5166"
-    start_date: 2027-02-07
-    end_date: 2027-02-07
+      - "https://www.facebook.com/events/28924321617153828/28924321653820491/"
+    start: "2027-02-07T19:30:00+01:00"
+    end: "2027-02-07T22:30:00+01:00"
     country: Belgium
     city: Brussels
     styles:
@@ -32138,13 +32120,14 @@ events:
     workshop: false
     social: true
     organisation: ~
+    price: €3
   - name: Bal-boeuf Folk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/BALS.htm"
       - "https://folkbalbende.be/event/5167"
-    start_date: 2027-03-07
-    end_date: 2027-03-07
+      - "https://www.facebook.com/events/28924321617153828/28924321643820492/"
+    start: "2027-03-07T19:30:00+01:00"
+    end: "2027-03-07T22:30:00+01:00"
     country: Belgium
     city: Brussels
     styles:
@@ -32152,13 +32135,14 @@ events:
     workshop: false
     social: true
     organisation: ~
+    price: €3
   - name: Bal-boeuf Folk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/BALS.htm"
       - "https://folkbalbende.be/event/5168"
-    start_date: 2027-04-04
-    end_date: 2027-04-04
+      - "https://www.facebook.com/events/28924321617153828/28924321657153824/"
+    start: "2027-04-04T19:30:00+02:00"
+    end: "2027-04-04T22:30:00+02:00"
     country: Belgium
     city: Brussels
     styles:
@@ -32166,13 +32150,14 @@ events:
     workshop: false
     social: true
     organisation: ~
+    price: €3
   - name: Bal-boeuf Folk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/BALS.htm"
       - "https://folkbalbende.be/event/5169"
-    start_date: 2027-05-02
-    end_date: 2027-05-02
+      - "https://www.facebook.com/events/28924321617153828/28924321660487157/"
+    start: "2027-05-02T19:30:00+02:00"
+    end: "2027-05-02T22:30:00+02:00"
     country: Belgium
     city: Brussels
     styles:
@@ -32180,13 +32165,14 @@ events:
     workshop: false
     social: true
     organisation: ~
+    price: €3
   - name: Bal-boeuf Folk
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/BALS.htm"
       - "https://folkbalbende.be/event/5170"
-    start_date: 2027-06-06
-    end_date: 2027-06-06
+      - "https://www.facebook.com/events/28924321617153828/28924321663820490/"
+    start: "2027-06-06T19:30:00+02:00"
+    end: "2027-06-06T22:30:00+02:00"
     country: Belgium
     city: Brussels
     styles:
@@ -32194,37 +32180,4 @@ events:
     workshop: false
     social: true
     organisation: ~
-  - name: "Balfolk With le Bal de L'aube"
-    details: Ball
-    links:
-      - "https://www.balhalla.be/en/event/balfolk-with-le-bal-de-laube"
-      - "https://folkbalbende.be/event/5171"
-    start: "2026-12-21T19:00:00+01:00"
-    end: "2026-12-21T23:00:00+01:00"
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - "Le Bal de L'aube"
-    organisation: Balhalla
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda/"
-      - "https://folkbalbende.be/event/5172"
-      - "https://www.facebook.com/events/1211916247717677"
-    start: "2026-10-29T19:00:00+01:00"
-    end: "2026-10-29T19:45:00+01:00"
-    country: Belgium
-    city: Gentbrugge
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - "Folkin'jong"
-      - Fahrenheit
-    organisation: ~
+    price: €3
