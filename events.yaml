@@ -6044,7 +6044,7 @@ events:
     start: "2022-04-24T15:00:00+02:00"
     end: "2022-04-24T18:30:00+02:00"
     country: Belgium
-    city: Antheit
+    city: Wanze
     styles:
       - balfolk
     workshop: true
@@ -16271,7 +16271,7 @@ events:
     start: "2022-09-16T20:30:00+02:00"
     end: "2022-09-16T20:45:00+02:00"
     country: Belgium
-    city: Antheit
+    city: Wanze
     styles:
       - balfolk
     workshop: true
@@ -20733,7 +20733,7 @@ events:
     start: "2022-11-13T15:00:00+01:00"
     end: "2022-11-13T15:15:00+01:00"
     country: Belgium
-    city: Antheit
+    city: Wanze
     styles:
       - balfolk
     workshop: true
@@ -23265,24 +23265,6 @@ events:
     price: £5
     organisation: Canolfan Owain Glyndŵr
     source: events/uk/machynlleth.yaml
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "http://centreculturelwanze.be"
-      - "https://folkbalbende.be/event/1225"
-    start: "2022-12-09T20:30:00+01:00"
-    end: "2022-12-09T20:45:00+01:00"
-    country: Belgium
-    city: Antheit
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Bal & Gambettes
-    organisation: ~
-    source: events/belgium/folkbalbende.yaml
   - name: Interactive Folkdance Workshop
     details: Course
     links:
@@ -23298,6 +23280,24 @@ events:
     social: false
     price: donation
     organisation: Stanistil
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "http://centreculturelwanze.be"
+      - "https://folkbalbende.be/event/1225"
+    start: "2022-12-09T20:30:00+01:00"
+    end: "2022-12-09T20:45:00+01:00"
+    country: Belgium
+    city: Wanze
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Bal & Gambettes
+    organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Balfolk
     links:
@@ -27071,23 +27071,6 @@ events:
     price: 45 PLN
     organisation: 11 Dom
     source: events/poland/wroclaw.yaml
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/1363"
-    start: "2023-01-20T20:30:00+01:00"
-    end: "2023-01-20T20:45:00+01:00"
-    country: Belgium
-    city: Antheit
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Olivier Cap
-    organisation: ~
-    source: events/belgium/folkbalbende.yaml
   - name: Interactive Folkdance Workshop
     details: Course
     links:
@@ -27105,6 +27088,23 @@ events:
     price: donation
     organisation: Stanistil
     cancelled: true
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/1363"
+    start: "2023-01-20T20:30:00+01:00"
+    end: "2023-01-20T20:45:00+01:00"
+    country: Belgium
+    city: Wanze
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Olivier Cap
+    organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Ceilidh Club
     links:
@@ -29854,7 +29854,7 @@ events:
     start: "2023-02-17T20:30:00+01:00"
     end: "2023-02-17T20:45:00+01:00"
     country: Belgium
-    city: Antheit
+    city: Wanze
     styles:
       - balfolk
     workshop: true
@@ -35002,23 +35002,6 @@ events:
       - Mark & Norma
     organisation: Webfeet
     source: events/uk/webfeet.yaml
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://folkbalbende.be/event/1376"
-    start: "2023-04-16T15:00:00+02:00"
-    end: "2023-04-16T18:30:00+02:00"
-    country: Belgium
-    city: Antheit
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Académie De Hannut
-    organisation: ~
-    source: events/belgium/folkbalbende.yaml
   - name: Balhalla
     details: Ball
     links:
@@ -35055,6 +35038,23 @@ events:
       - La Marmite Folk
       - Aïe Mon Pied!
     organisation: "Le p'tit Bal à Oli"
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://folkbalbende.be/event/1376"
+    start: "2023-04-16T15:00:00+02:00"
+    end: "2023-04-16T18:30:00+02:00"
+    country: Belgium
+    city: Wanze
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Académie De Hannut
+    organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Sunday Afternoon Masterclass
     links:
@@ -41433,25 +41433,6 @@ events:
   - name: Folkbal
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
-      - "https://www.centreculturelwanze.be/fr/folk_a_donf.html"
-      - "https://folkbalbende.be/event/1387"
-    start: "2023-06-17T20:30:00+02:00"
-    end: "2023-06-17T23:00:00+02:00"
-    country: Belgium
-    city: Antheit
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Folk à Donf
-    price: donation
-    organisation: ~
-    source: events/belgium/folkbalbende.yaml
-  - name: Folkbal
-    details: Ball
-    links:
       - "http://chti-folkeux.chez-alice.fr/indexB.htm"
       - "https://www.facebook.com/bruselako/"
       - "https://folkbalbende.be/event/1756"
@@ -41467,6 +41448,25 @@ events:
       - Noiranomis
       - Jérémie Congrega
     price: €20
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda-et-jams-2/agenda-et-jams/"
+      - "https://www.centreculturelwanze.be/fr/folk_a_donf.html"
+      - "https://folkbalbende.be/event/1387"
+    start: "2023-06-17T20:30:00+02:00"
+    end: "2023-06-17T23:00:00+02:00"
+    country: Belgium
+    city: Wanze
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Folk à Donf
+    price: donation
     organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Bal De La Cabane
@@ -127139,7 +127139,7 @@ events:
     start: "2024-11-16T16:00:00+02:00"
     end: "2024-11-16T22:00:00+02:00"
     country: Belgium
-    city: Quevaucamps
+    city: Aubechies
     styles:
       - balfolk
     workshop: true
@@ -249702,6 +249702,25 @@ events:
     price: £18-£28
     organisation: Nest Collective
     source: events/uk/nest_collective.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
+      - "http://pasdlayau.be/"
+      - "https://folkbalbende.be/event/3446"
+    start: "2026-01-31T20:00:00+01:00"
+    end: "2026-01-31T22:00:00+01:00"
+    country: Belgium
+    city: Aubechies
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Tom & Aurélie
+    price: €10
+    organisation: "Pas d'La Yau"
+    source: events/belgium/folkbalbende.yaml
   - name: Boombal
     details: Ball
     links:
@@ -249722,25 +249741,6 @@ events:
       - Drøn
     price: €18-€23.25
     organisation: Boombal
-    source: events/belgium/folkbalbende.yaml
-  - name: Folkbal
-    details: Ball
-    links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "http://pasdlayau.be/"
-      - "https://folkbalbende.be/event/3446"
-    start: "2026-01-31T20:00:00+01:00"
-    end: "2026-01-31T22:00:00+01:00"
-    country: Belgium
-    city: Quevaucamps
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Tom & Aurélie
-    price: €10
-    organisation: "Pas d'La Yau"
     source: events/belgium/folkbalbende.yaml
   - name: York Region English Country Dancers
     details: "English Country Dance in central York Region (Ontario, Canada)! Beginners welcome; all dances taught; you don’t need to bring a partner. Admission by donation; your first class is free. Join us on the first, third, and (when there is one) fifth Saturday of the month from 2:00 to 4:00. (Please check the website for possible last-minute changes.)"
@@ -270513,7 +270513,7 @@ events:
     start: "2026-04-11T19:00:00+02:00"
     end: "2026-04-11T22:00:00+02:00"
     country: Belgium
-    city: Quevaucamps
+    city: Aubechies
     styles:
       - balfolk
     workshop: true
@@ -291183,7 +291183,6 @@ events:
   - name: Folkbal
     details: Ball
     links:
-      - "https://www.facebook.com/events/1695895298501340"
       - "https://www.centreculturelwanze.be/fr/j-en-rafolk.html"
       - "https://folkbalbende.be/event/4836"
       - "https://www.facebook.com/events/1695895298501340"
@@ -321783,6 +321782,7 @@ events:
     links:
       - "https://www.folkinjong.be/bal/"
       - "https://folkbalbende.be/event/5033"
+      - "https://folkbalbende.be/event/5172"
       - "https://www.facebook.com/events/1211916247717677/"
     start: "2026-10-29T19:00:00+01:00"
     end: "2026-10-29T23:59:00+01:00"
@@ -322227,7 +322227,9 @@ events:
     details: Ball
     links:
       - "https://www.rzf.be/en_US/event/bal-folk-avec-garenne-bourrasque-2026-10-31-83/register"
+      - "https://www.facebook.com/events/4353738181509601/"
       - "https://folkbalbende.be/event/4043"
+      - "https://folkbalbende.be/event/5163"
     start: "2026-10-31T19:30:00+01:00"
     end: "2026-11-01T00:30:00+01:00"
     country: Belgium
@@ -322237,8 +322239,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Garenne
       - Bourrasque
+      - Garenne
     price: €8-€16
     organisation: "Rif Zans L'Fiesse"
     source: events/belgium/folkbalbende.yaml
@@ -325728,6 +325730,7 @@ events:
     links:
       - "https://www.rzf.be/en_US/event/bal-folk-avec-oraj-octopulse-2026-11-27-84/register"
       - "https://folkbalbende.be/event/4044"
+      - "https://www.facebook.com/events/1033667602494147/"
     start: "2026-11-27T19:30:00+01:00"
     end: "2026-11-28T00:30:00+01:00"
     country: Belgium
@@ -326889,6 +326892,22 @@ events:
     price: £4
     organisation: Bal Crewkerne
     source: events/uk/crewkerne.yaml
+  - name: Bal-boeuf Folk
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/5164"
+      - "https://www.facebook.com/events/28924321617153828/28924321647153825/"
+    start: "2026-12-06T19:30:00+01:00"
+    end: "2026-12-06T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €3
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
   - name: Pancake Dance
     details: "Have a great time dancing to live music.  For this dance, Hale Bill and the Bopps will provide the luscious music. <br><br>This beginner friendly dance is open to everyone, no previous dance experience required. <br>This dance follows the Swedish Club monthly pancake breakfast. <br> <br>$10 per person. Bring smooth-soled shoes for better turning.  <br> <br>Co-sponsored by Skandia Folkdance Society and the Swedish Club. <br>With funding support from the Lani and Lucky Eames Trust.<br><br>Send any questions to <a href=\"mailto:lisa@hambo.us\" target=\"_blank\"><u>lisa@hambo.us</u></a> or 206-258-2580."
     links:
@@ -327983,7 +328002,7 @@ events:
   - name: Bal Folk
     details: Ball
     links:
-      - "https://www.rzf.be/en_US/event/bal-folk-avec-clume-amanite-2026-12-19-85/register"
+      - "https://www.rzf.be/en_US/event/bal-folk-avec-clume-terra-incognita-2026-12-19-85/register"
       - "https://folkbalbende.be/event/3750"
     start: "2026-12-19T19:30:00+01:00"
     end: "2026-12-20T00:00:00+01:00"
@@ -327994,7 +328013,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Amanite
+      - Terra Incognita
       - Clume
     price: €8-€16
     organisation: "Rif Zans L'Fiesse"
@@ -328081,11 +328100,12 @@ events:
       - "Bal de l'Aube"
     organisation: KA-BalFolk
     source: events/germany/karlsruhe.yaml
-  - name: Balfolk
+  - name: Balhalla
     details: Ball
     links:
       - "https://www.balhalla.be/en/event/balfolk-with-le-bal-de-l-aube"
       - "https://folkbalbende.be/event/5057"
+      - "https://folkbalbende.be/event/5171"
     start: "2026-12-21T19:00:00+01:00"
     end: "2026-12-21T23:00:00+01:00"
     country: Belgium
@@ -328419,6 +328439,22 @@ events:
     price: $10-$15
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Bal-boeuf Folk
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/5165"
+      - "https://www.facebook.com/events/28924321617153828/28924321650487158/"
+    start: "2027-01-03T19:30:00+01:00"
+    end: "2027-01-03T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €3
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
   - name: Pancake Dance
     details: "Have a great time dancing to live music. \nThis beginner friendly dance is open to everyone, no previous dance experience required. Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  \nThis dance follows the Swedish Club monthly pancake breakfast. \n \n$10 per person. Bring smooth-soled shoes for better turning.  \n \nCo-sponsored by Skandia Folkdance Society and the Swedish Club. \nWith funding support from the Lani and Lucky Eames Trust.\n\nSend any questions to lisa@hambo.us or 206-258-2580."
     links:
@@ -329473,9 +329509,8 @@ events:
   - name: Folkbal
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda/"
-      - "https://www.rzf.be"
-      - "https://folkbalbende.be/event/4881"
+      - "https://www.rzf.be/event"
+      - "https://folkbalbende.be/event/5161"
     start: "2027-01-30T19:30:00+01:00"
     end: "2027-01-31T00:30:00+01:00"
     country: Belgium
@@ -329484,6 +329519,9 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Duo Vertygo
+      - Balance ta Chouette
     price: €8-€16
     organisation: "Rif Zans L'Fiesse"
     source: events/belgium/folkbalbende.yaml
@@ -329765,6 +329803,22 @@ events:
     social: true
     bands:
       - Duo Clercx
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Bal-boeuf Folk
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/5166"
+      - "https://www.facebook.com/events/28924321617153828/28924321653820491/"
+    start: "2027-02-07T19:30:00+01:00"
+    end: "2027-02-07T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €3
     organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Beginner class at Univ Heights Center
@@ -330435,6 +330489,22 @@ events:
     social: true
     organisation: Gabi Haun
     source: events/germany/kalender.yaml
+  - name: Bal-boeuf Folk
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/5167"
+      - "https://www.facebook.com/events/28924321617153828/28924321643820492/"
+    start: "2027-03-07T19:30:00+01:00"
+    end: "2027-03-07T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €3
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
   - name: Thursday Balfolk
     details: "Beginner-intermediate balfolk class in Fairfield, VIC,  3078"
     links:
@@ -331062,6 +331132,22 @@ events:
     price: €13-€26
     organisation: Stanistil
     source: events/belgium/folkbalbende.yaml
+  - name: Bal-boeuf Folk
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/5168"
+      - "https://www.facebook.com/events/28924321617153828/28924321657153824/"
+    start: "2027-04-04T19:30:00+02:00"
+    end: "2027-04-04T22:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €3
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
   - name: Contra Holiday in Medieval England
     details: "Seven night residential contra dance camp for 150 participants in a former monastery in Ely, near Cambridge, England, with Wild Asparagus and George Marshall and Lisa Greenleaf calling. Food and accommodations included. Dancing each evening, excursions during the days. Our tenth such event."
     links:
@@ -331581,6 +331667,22 @@ events:
       - Wouter Kuyper
     organisation: Folkclub Marburg
     source: events/germany/marburg.yaml
+  - name: Bal-boeuf Folk
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/5169"
+      - "https://www.facebook.com/events/28924321617153828/28924321660487157/"
+    start: "2027-05-02T19:30:00+02:00"
+    end: "2027-05-02T22:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €3
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
   - name: 7th Erlanger Bal Folk Festival
     links:
       - "https://erlanger-tanzhaus.de/veranstaltung/7-erlanger-bal-folk-festival-2027/"
@@ -332087,6 +332189,22 @@ events:
     price: $10-$15
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Bal-boeuf Folk
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/5170"
+      - "https://www.facebook.com/events/28924321617153828/28924321663820490/"
+    start: "2027-06-06T19:30:00+02:00"
+    end: "2027-06-06T22:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €3
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
   - name: Folkbal
     details: Ball
     links:
@@ -332165,6 +332283,7 @@ events:
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda/"
+      - "https://www.centreculturelwanze.be/fr/ca-bal-wanze-danse-folk.html"
       - "https://folkbalbende.be/event/4898"
     start: "2027-06-20T15:30:00+02:00"
     end: "2027-06-20T18:30:00+02:00"
