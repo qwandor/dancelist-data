@@ -42188,11 +42188,11 @@ events:
     social: true
     price: $5-$12
     organisation: CDSS
-  - name: "Queen City Contras - October Dance in Burlington, VT"
+  - name: Queen City Contra
     details: "Contra Dance presented by Queen City Contras. Red Dog Riley will play for us, with calling by Quena Crane. All are welcome; all dances are taught; no partner or experience necessary. Please bring a pair of clean soft-soled shoes to dance in and a water bottle to keep you hydrated. Masks welcome but optional. Please stay home if you have symptoms. Doors open at 6:30, beginner lesson at 6:45, dancing from 7 to 10."
     links:
       - "https://cdss.org/event/queen-city-contras-october-dance-in-burlington-vt/"
-    start: "2026-10-23T19:00:00-04:00"
+    start: "2026-10-23T18:45:00-04:00"
     end: "2026-10-23T22:00:00-04:00"
     country: USA
     state: VT
@@ -42203,6 +42203,9 @@ events:
     social: true
     bands:
       - Red Dog Riley
+    callers:
+      - Quena Crane
+    price: $5-$12
     organisation: Queen City Contras
   - name: English Country Dance Class
     details: "Looking for a fun way to get some exercise and enjoy the early evenings of fall? Come, join us in Norwich VT for a beginner English Country dance class. \nJill Delaney, a fun ECD dancer who recently expanded into teaching, will introduce the basics of English country dance in a six week series. The dancing is fun, the music is beautiful and the dancers are friendly. No experience necessary, no partner needed. Sign up now to hold your spot.  \nFridays, 7:00 – 8:30 pm\nOctober 9 – November 13\nNorwich Congregational Church, Norwich Vt \n$60 (scholarship assistance available) \nFor questions and registration contact Sally Eshleman at SallyEsh@gmail.com"
@@ -43218,7 +43221,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2026-11-01/"
-    start: "2026-11-01T19:00:00-06:00"
+    start: "2026-11-01T18:30:00-06:00"
     end: "2026-11-01T21:00:00-06:00"
     country: USA
     state: MN
@@ -43227,9 +43230,10 @@ events:
       - ecd
     workshop: false
     social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
+    callers:
+      - Barbara Rice
+      - Hollie Benton
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: Petaluma Contra Dance
     details: Join us for a contra dance in the North Bay!
@@ -43285,7 +43289,7 @@ events:
     links:
       - "https://www.chicagobarndance.org/calendar/"
       - "https://cdss.org/event/chicago-contra-dance/2026-11-02/"
-    start: "2026-11-02T19:00:00-06:00"
+    start: "2026-11-02T18:30:00-06:00"
     end: "2026-11-02T21:40:00-06:00"
     country: USA
     state: IL
@@ -43787,9 +43791,10 @@ events:
     callers:
       - Gaye Fifer
     organisation: North Texas Traditional Dance Society (NTTDS)
-  - name: "Trillium Twirl in Dowling, MI"
+  - name: Trillium Twirl
     details: A residential Contra and English dance weekend at the Battle Creek Recreation Center on Clear Lake. All meals are included. Partial weekend attendance options. Featuring Will Mentor calling to Spintuition.
     links:
+      - "https://www.michigandanceheritage.org/trilliumtwirl"
       - "https://cdss.org/event/trillium-twirl-in-dowling-mi/"
     start_date: 2027-04-23
     end_date: 2027-04-25
@@ -43799,11 +43804,10 @@ events:
     styles:
       - contra
       - ecd
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Spintuition
-      - Trillium
     callers:
       - Will Mentor
     organisation: Michigan Dance Heritage
