@@ -25147,19 +25147,33 @@ events:
   - name: Bal De La Cabane Du Bout Du Monde
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/indexB.htm"
-      - "https://folkbalbende.be/event/3991"
+      - "http://chti-folkeux.chez-alice.fr/BALS.htm"
     start: "2026-11-08T16:30:00+01:00"
     end: "2026-11-08T21:00:00+01:00"
     country: Belgium
     city: Brussels
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Cave Canem
     price: €7-€12
+    organisation: ~
+  - name: "Danses Traditionnelles de France et D'ailleurs"
+    details: Ball
+    links:
+      - "http://chti-folkeux.chez-alice.fr/BALS.htm"
+      - "https://folkbalbende.be/event/3991"
+    start: "2026-11-08T14:30:00+01:00"
+    end: "2026-11-08T18:30:00+01:00"
+    country: Belgium
+    city: Nethen
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €10-€12
     organisation: ~
   - name: CaBal
     details: Ball
@@ -32075,6 +32089,23 @@ events:
       - Balance ta Chouette
     price: €8-€16
     organisation: "Rif Zans L'Fiesse"
+  - name: Carnaval Folk + Bal Folk Rzf
+    details: Ball
+    links:
+      - "https://www.rzf.be/event"
+      - "https://www.facebook.com/FolkRZF"
+      - "https://folkbalbende.be/event/5162"
+    start: "2027-02-28T15:00:00+01:00"
+    end: "2027-02-28T18:00:00+01:00"
+    country: Belgium
+    city: Liège
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - La Rawette
+    organisation: "Rif Zans L'Fiesse"
   - name: Bal-boeuf Folk
     details: Ball
     links:
@@ -32195,6 +32226,58 @@ events:
     workshop: true
     social: false
     price: €15-€30
+    organisation: EléDanse ASBL
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://eledanse.be/stnicolas26/"
+      - "https://www.facebook.com/events/1551754509637645/"
+      - "https://folkbalbende.be/event/5177"
+    start: "2026-12-06T19:30:00+01:00"
+    end: "2026-12-06T22:00:00+01:00"
+    country: Belgium
+    city: Genval
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Duo Laloy Le Tron
+    price: €25-€60
+    organisation: EléDanse ASBL
+  - name: Mazurkavariaties
+    details: Course
+    links:
+      - "https://eledanse.be/stnicolas26/"
+      - "https://www.facebook.com/events/1685266682750429/"
+      - "https://folkbalbende.be/event/5178"
+    start: "2026-12-06T10:30:00+01:00"
+    end: "2026-12-06T17:30:00+01:00"
+    country: Belgium
+    city: Genval
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €25-€50
+    organisation: EléDanse ASBL
+  - name: Bal de Noël
+    details: Ball
+    links:
+      - "https://eledanse.be/event/bal-fin-annee26-glaneurs/"
+      - "https://folkbalbende.be/event/5179"
+      - "https://www.facebook.com/events/1099582583055117/"
+    start: "2026-12-15T19:00:00+01:00"
+    end: "2026-12-15T22:15:00+01:00"
+    country: Belgium
+    city: Genval
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Les Glaneurs de Son
+    price: €10
     organisation: EléDanse ASBL
   - name: Folk Dance for Beginners - Level 1
     details: Course
