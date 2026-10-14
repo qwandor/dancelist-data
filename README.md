@@ -114,3 +114,17 @@ events:
     price: £6-£15
     organisation: Bristol Contra
 ```
+
+## Sources
+
+Events are imported semi-automatically via a number of
+[importers](https://github.com/qwandor/dancelist/tree/main/src/importers). Some of the main sources
+include:
+
+- [Folkbalbende](https://folkbalbende.be/view/) for balfolk events in Belgium.
+- [Plug.events](https://www.plug.events/) for various countries, but mostly balfolk events in the Netherlands.
+- [CDSS](https://cdss.org/) for mostly contra and ECD events in North America.
+- [TryContra](https://www.trycontra.com/events) for contra festivals mostly in North America.
+- [Balfolk-Orga-Kalender](https://kalender.digital/574d155c91900caea879) for balfolk events in Germany.
+
+There are also a bunch more importers for individual organisations.
