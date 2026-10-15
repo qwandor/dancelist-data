@@ -25126,7 +25126,7 @@ events:
       - Ragaerí
       - Samenspel Bal
       - Friar
-    organisation: ~
+    organisation: Muziekmozaïek
   - name: Bal de la Cabane du Bout du Monde
     details: Ball
     links:
@@ -31902,6 +31902,8 @@ events:
       - balfolk
     workshop: true
     social: false
+    bands:
+      - Hester Lenaerts
     price: €5-€10
     organisation: Stanistil
   - name: Polska Workshop
@@ -31915,9 +31917,11 @@ events:
     country: Belgium
     city: Leuven
     styles:
-      - balfolk
+      - scandi
     workshop: true
     social: false
+    bands:
+      - Hester Lenaerts
     price: €5-€10
     organisation: Stanistil
   - name: Interactive Folkdance Workshop
@@ -32205,7 +32209,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Oswald Tahon en Milan
+      - Oswald Tahon & Milan
     organisation: ~
   - name: "Congos pour 2, 4, 8 ou Tous Ensemble"
     details: Course
@@ -32277,78 +32281,25 @@ events:
     social: false
     price: €20-€60
     organisation: Frisse Folk Vzw/asbl
-  - name: Folkbal
+  - name: Folk On Stage
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda/"
-      - "https://stagegooik.be"
-      - "https://www.facebook.com/groups/stagegooik"
+      - "https://stagegooik.be/folkonstage/"
       - "https://folkbalbende.be/event/5182"
       - "https://www.facebook.com/events/1784398936173146"
-    start_date: 2027-08-19
-    end_date: 2027-08-19
+    start: "2027-08-19T20:00:00+02:00"
+    end: "2027-08-23T00:00:00+02:00"
     country: Belgium
     city: Gooik
     styles:
       - balfolk
     workshop: false
     social: true
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda/"
-      - "https://stagegooik.be"
-      - "https://www.facebook.com/groups/stagegooik"
-      - "https://folkbalbende.be/event/5182"
-      - "https://www.facebook.com/events/1784398936173146"
-    start_date: 2027-08-20
-    end_date: 2027-08-20
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda/"
-      - "https://stagegooik.be"
-      - "https://www.facebook.com/groups/stagegooik"
-      - "https://folkbalbende.be/event/5182"
-      - "https://www.facebook.com/events/1784398936173146"
-    start_date: 2027-08-21
-    end_date: 2027-08-21
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
-  - name: Folkbal
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda/"
-      - "https://stagegooik.be"
-      - "https://www.facebook.com/groups/stagegooik"
-      - "https://folkbalbende.be/event/5182"
-      - "https://www.facebook.com/events/1784398936173146"
-    start_date: 2027-08-22
-    end_date: 2027-08-22
-    country: Belgium
-    city: Gooik
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: ~
-  - name: Branle Béarnais & Rondeau en Chaîne + Variaties
+    organisation: Muziekmozaïek
+  - name: Branle Béarnais & Rondeau en Chaîne
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/branle-béarnais-&-rondeau-en-chaîne-+-variaties/1490/"
+      - "https://frissefolk.be/en/event-en/branle-b%C3%A9arnais-&-rondeau-en-cha%C3%AEne-+-variations/1490"
       - "https://folkbalbende.be/event/5184"
       - "https://www.facebook.com/events/1072324242283788"
     start: "2026-11-28T13:15:00+01:00"
@@ -32364,7 +32315,7 @@ events:
   - name: Mixers
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/mixers/1486/"
+      - "https://frissefolk.be/en/event-en/mixers/1486"
       - "https://folkbalbende.be/event/5185"
       - "https://www.facebook.com/events/1415845460102740"
     start: "2026-11-29T13:15:00+01:00"
@@ -32377,10 +32328,10 @@ events:
     social: false
     price: €20-€60
     organisation: Frisse Folk Vzw/asbl
-  - name: Folkdans voor Beginners - Niveau 1
+  - name: Folk Dance for Beginners - Level 1
     details: Course
     links:
-      - "https://frissefolk.be/nl/event-nl/folkdans-voor-beginners-niveau-1/1489/"
+      - "https://frissefolk.be/en/event-en/folk-dance-for-beginners-level-1/1489/"
       - "https://folkbalbende.be/event/5186"
     start: "2026-12-05T13:15:00+01:00"
     end: "2026-12-05T18:15:00+01:00"
