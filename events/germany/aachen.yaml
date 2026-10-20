@@ -1,0 +1,16 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal in Aachen im Hof
+    details: "18:00 – 18:30 Uhr Tanzeinführung\n18:30 – 20:30 Uhr Bal"
+    links:
+      - "https://balfolk-aachen.de/veranstaltungen/"
+    start: "2026-10-30T18:00:00+01:00"
+    end: "2026-10-30T20:30:00+01:00"
+    country: Germany
+    city: Aachen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: donation
+    organisation: Balfolk Aachen e.V.
