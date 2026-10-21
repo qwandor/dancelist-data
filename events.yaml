@@ -320952,7 +320952,6 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/bal-kabal-&-trio-loubelya-la-tricoterie/1472"
       - "https://folkbalbende.be/event/5062"
-      - "https://folkbalbende.be/event/5187"
       - "https://www.facebook.com/events/1509866997573470"
     start: "2026-10-25T17:00:00+01:00"
     end: "2026-10-25T22:00:00+01:00"
@@ -322310,7 +322309,6 @@ events:
       - "https://www.rzf.be/en_US/event/bal-folk-avec-garenne-bourrasque-2026-10-31-83/register"
       - "https://www.facebook.com/events/4353738181509601/"
       - "https://folkbalbende.be/event/4043"
-      - "https://folkbalbende.be/event/5163"
     start: "2026-10-31T19:30:00+01:00"
     end: "2026-11-01T00:30:00+01:00"
     country: Belgium
@@ -329313,6 +329311,22 @@ events:
     social: false
     organisation: Mosafolk
     source: events/netherlands/plug_balfolk.yaml
+  - name: Socialles 396 - raad/kies maar
+    details: "Deze donderdag 17 december is het socialles 396 in Rotterdam: de laatste les voor de kerstvakantie: kerstmuziek! \r\n\r\nWe gaan eerst luisteren naar de muziek en bespreken samen wat we precies horen. Daarna bepalen we welke dans dan gedanst kan worden, of wellicht zelfs meerdere dansen op eenzelfde nummer! Je mag je favoriete kerstmuziek als suggestie naar ons mailen."
+    links:
+      - "https://www.plug.events/event/socialles-396-rotterdam-raadkies-maar287"
+      - "https://www.facebook.com/events/1428197212712689/"
+    start: "2026-12-17T19:30:00+01:00"
+    end: "2026-12-17T22:00:00+01:00"
+    country: Netherlands
+    city: Rotterdam
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €7.50
+    organisation: Balfolk Zuid-Holland
+    source: events/netherlands/plug_balfolk.yaml
   - name: Dance Class Level 4
     details: Course
     links:
@@ -331045,6 +331059,21 @@ events:
     price: £21-£27
     organisation: London Ceilidh Club
     source: events/uk/ceilidh_club.yaml
+  - name: Balfolk op de zondagmiddag
+    details: "Zondagmiddag 31 januari is er een zondagmiddagbal in Enkhuizen. De bands worden nog bekend gemaakt. Volg het evenement op plug.events om een notificatie te krijgen als de band bekend is.\r\n\r\nHet bal zal weer gehouden worden in hotel/restaurant Die Port van Cleve, waar een prachtige houten vloer ligt die heerlijk is om op te dansen. Het bal begint zoals gebruikelijk stipt om 14:00 uur. Reserveren is niet nodig."
+    links:
+      - "https://www.plug.events/event/balfolk-op-de-zondagmiddag-in-enkhuizen870"
+    start: "2027-01-31T14:00:00+01:00"
+    end: "2027-01-31T17:00:00+01:00"
+    country: Netherlands
+    city: Enkhuizen
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €10
+    organisation: Enkhuizer Balfolk
+    source: events/netherlands/plug_balfolk.yaml
   - name: Le Bal des Possibles
     details: Ball
     links:
@@ -331940,6 +331969,25 @@ events:
     price: $5-15
     organisation: Melbourne Balfolk
     source: events/australia/melbourne.yaml
+  - name: "Ceilidh, Workshop & Dance"
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://bricksite.com/scdbrussels/ceilidh-workshop-dance-2027"
+      - "https://folkbalbende.be/event/5191"
+      - "https://www.facebook.com/events/1579067793532510"
+    start: "2027-03-05T19:30:00+01:00"
+    end: "2027-03-06T23:00:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - s-ceilidh
+      - scd
+    workshop: true
+    social: true
+    price: €40-€50
+    organisation: Brussels Dance Scottish
+    source: events/belgium/folkbalbende.yaml
   - name: Balfolk at Cinex
     details: Ball
     links:
