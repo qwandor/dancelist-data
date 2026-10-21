@@ -328279,21 +328279,6 @@ events:
     price: £13-£18
     organisation: London Balfolk
     source: events/uk/london_balfolk.yaml
-  - name: Balfolk
-    links:
-      - "https://eurosession.org.uk/"
-    start_date: 2026-12-06
-    end_date: 2026-12-06
-    country: UK
-    city: Sheffield
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Naragonia
-    organisation: Sheffield Eurosession
-    source: events/uk/sheffield_balfolk.yaml
   - name: Folkbal
     details: Ball
     links:
@@ -328328,6 +328313,23 @@ events:
     social: true
     organisation: Balfolk Köln
     source: events/germany/cologne.yaml
+  - name: Concert and Bal
+    links:
+      - "https://eurosession.org.uk/?p=5699"
+      - "https://ticketstripe.com/Naragonia-6-Dec-2026"
+    start: "2026-12-06T15:00:00+00:00"
+    end: "2026-12-06T21:00:00+00:00"
+    country: UK
+    city: Sheffield
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Naragonia
+    price: £10-£30
+    organisation: Sheffield Eurosession
+    source: events/uk/sheffield_balfolk.yaml
   - name: Boombal Danslessen
     details: Course
     links:
