@@ -320571,6 +320571,27 @@ events:
     price: £8-£10
     organisation: Lancaster Eurodance
     source: events/uk/lancaster_eurodance.yaml
+  - name: TECDA Monthly Dance
+    details: "Please join us for a special monthly dance with David Smukler (the current president of CDSS) calling. Music by Kaw Creek (Alice Boyle, Robert Rosenberg, and Laurel Sharp). On Saturday, October 24, 2026, from 2:30 – 5:30 pm. \nBeginners lesson is 2 – 2:30 pm. \nSuggested donation: $25.00 \nCome and join us. Remember your dance shoes and water bottle. Masks are optional. \nSee you on the dance floor!"
+    links:
+      - "https://www.tecda.ca/special_dances.html"
+      - "https://cdss.org/event/tecda-monthly-dance/"
+    start: "2026-10-24T14:00:00-04:00"
+    end: "2026-10-24T17:30:00-04:00"
+    country: Canada
+    state: Ontario
+    city: Toronto
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Kaw Creek
+    callers:
+      - David Smukler
+    price: $25
+    organisation: Toronto English Country Dance Assembly (TECDA)
+    source: events/usa/cdss.yaml
   - name: "St. Alban's Contra Dance"
     details: "Monthly Contra Dance. \nNew Time: 3:00pm-5:30pm with Basics for New Folks at 2:45pm\nAt St. Alban’s Chapel in Baton Rouge\nWe’ll dance to live music.\nCharlene Heaton will call the dance. \nSuggested donation for the callers and the band:\nAdults $7 (contribute $10 to include a tip for the band…or put a tip in the basket, as you wish);\nStudents $5,\nChildren free.\nIf you’d like, bring cookies or veggies or fruit to share. It’s good to bring your own water bottle."
     links:
@@ -322274,6 +322295,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/cressens-method-training-5-weekends/1463/"
       - "https://folkbalbende.be/event/5159"
+      - "https://folkbalbende.be/event/5193"
       - "https://www.facebook.com/events/1495736075622972"
     start: "2026-10-31T13:15:00+01:00"
     end: "2026-11-01T16:30:00+01:00"
@@ -323781,6 +323803,29 @@ events:
       - Bascule
     organisation: Johann Gerlmayer
     source: events/germany/kalender.yaml
+  - name: Queimada
+    details: Ball
+    links:
+      - "https://muziekpublique.be/concerts/20261107-queimada-duolavoalapo-supernovas/?lang=en"
+      - "https://frissefolk.be/en/event-en/queimada/1491"
+      - "https://folkbalbende.be/event/5192"
+      - "https://www.facebook.com/events/1656126459635138"
+    start: "2026-11-07T19:00:00+01:00"
+    end: "2026-11-07T23:59:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Pepijn De Pauw
+      - Lavoà Lapò
+      - A Contrabanda
+      - Supernovas
+    price: €11-€19
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
   - name: ComSiBal
     details: Ball
     links:
@@ -324855,6 +324900,22 @@ events:
     price: free
     organisation: "Muziekclub 't Ey"
     source: events/belgium/folkbalbende.yaml
+  - name: Dance Class Level 7 Mechelen
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dance-class-level-7-mechelen/1462/"
+      - "https://folkbalbende.be/event/5127"
+      - "https://www.facebook.com/events/2169559360350101"
+    start: "2026-11-11T19:00:00+01:00"
+    end: "2026-11-11T20:30:00+01:00"
+    country: Belgium
+    city: Mechelen
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
   - name: Amarebal
     details: "Op woensdag 11 november is er weer een gratis Amarebal in hartje Den Haag, nu met Pablo Golder.\r\n\r\nZijn optreden wordt gevolgd door een jamsessie voor muzikanten.\r\n\r\nProgramma\r\n19.00 - 20.00: Dansuitleg\r\n20.00 - 21.30: Bal met Pablo Golder\r\n21.30 - 22.45: Sessie"
     links:
@@ -325279,6 +325340,25 @@ events:
       - Sharon Green
     price: $480
     organisation: Bay Area Country Dance Society
+    source: events/usa/cdss.yaml
+  - name: Cabot Community Contra Dance
+    details: "Small, beginner-friendly contra dance in northeast Vermont, with a variety of Vermont and New Hampshire callers, and a house band of fiddles and guitars. All ages and abilities are welcome; genderless terminology is used. Admission is by donation: $10 suggested, but nobody is turned away for lack of funds. Please bring clean, dry shoes to change into for dancing, especially in winter and mud season."
+    links:
+      - "https://cdss.org/event/cabot-community-contra-dance/2026-11-13/"
+      - "https://www.facebook.com/events/1367596041889154/"
+    start: "2026-11-13T19:00:00-05:00"
+    end: "2026-11-13T21:30:00-05:00"
+    country: USA
+    state: VT
+    city: Cabot
+    styles:
+      - contra
+    workshop: false
+    social: true
+    callers:
+      - Zach Miller
+    price: $5-$10
+    organisation: Cabot Community Dance
     source: events/usa/cdss.yaml
   - name: English Country Dance Class
     details: "Looking for a fun way to get some exercise and enjoy the early evenings of fall? Come, join us in Norwich VT for a beginner English Country dance class. \nJill Delaney, a fun ECD dancer who recently expanded into teaching, will introduce the basics of English country dance in a six week series. The dancing is fun, the music is beautiful and the dancers are friendly. No experience necessary, no partner needed. Sign up now to hold your spot.  \nFridays, 7:00 – 8:30 pm\nOctober 9 – November 13\nNorwich Congregational Church, Norwich Vt \n$60 (scholarship assistance available) \nFor questions and registration contact Sally Eshleman at SallyEsh@gmail.com"
@@ -325992,7 +326072,7 @@ events:
   - name: Dance Class Level 7 Mechelen
     details: Course
     links:
-      - "https://frissefolk.be/en/event-en/dance-class-level-7-mechelen/1462/"
+      - "https://frissefolk.be/nl/event-nl/danslessen-niveau-7-mechelen/1462/"
       - "https://folkbalbende.be/event/5127"
       - "https://www.facebook.com/events/2169559360350101"
     start: "2026-11-18T19:00:00+01:00"
@@ -327922,6 +328002,7 @@ events:
     workshop: true
     social: false
     organisation: Frisse Folk Vzw/asbl
+    cancelled: true
     source: events/belgium/folkbalbende.yaml
   - name: Balfolk-Tanzabend
     details: Eintritt frei - <b>Unkostenbeitrag erbeten</b>
@@ -329662,7 +329743,9 @@ events:
     details: Course
     links:
       - "https://frissefolk.be/en/event-en/cressens-method-training-5-weekends/1463/"
+      - "https://frissefolk.be/en/event-en/cressens-method-training-weekend-2/1493/"
       - "https://folkbalbende.be/event/5159"
+      - "https://folkbalbende.be/event/5193"
       - "https://www.facebook.com/events/1495736075622972"
     start: "2026-12-19T13:15:00+01:00"
     end: "2026-12-20T16:30:00+01:00"
@@ -330026,22 +330109,6 @@ events:
     price: €10-€20
     organisation: Tanzhaus Innsbruck
     source: events/austria/innsbruck.yaml
-  - name: Bal Final
-    details: Ball
-    links:
-      - "https://boombal.be"
-      - "https://www.boombal.be/balfinal/"
-      - "https://folkbalbende.be/event/4814"
-    start_date: 2026-12-31
-    end_date: 2026-12-31
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    organisation: Boombal
-    source: events/belgium/folkbalbende.yaml
   - name: "New Year's Eve ComSiBal"
     details: Ball
     links:
@@ -330100,6 +330167,28 @@ events:
       - Duo Vandenabeele-Knapen
     price: €28
     organisation: Netefolk
+    source: events/belgium/folkbalbende.yaml
+  - name: Bal Final
+    details: Ball
+    links:
+      - "https://boombal.be"
+      - "https://www.boombal.be/balfinal/"
+      - "https://event-tickets.be/balfinal26"
+      - "https://folkbalbende.be/event/4814"
+    start: "2026-12-31T20:00:00+01:00"
+    end: "2027-01-01T03:00:00+01:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Airboxes XL
+      - Ultra Tagada
+      - Hot Griselda
+    price: €33.25-€40
+    organisation: Boombal
     source: events/belgium/folkbalbende.yaml
   - name: "Fiddler's Dream"
     details: "This all-volunteer event is a 3-day/3-night weekend for callers, dancers, and traditional musicians to enjoy one another’s talents and company in a camp setting. The focus is contra dance and related music. The content of the schedule is largely dependent upon the skills of and suggestions made by those attending, via the registration form. You help fill in the schedule with dance, music, or other workshops."
@@ -331980,6 +332069,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/cressens-method-training-5-weekends/1463/"
       - "https://folkbalbende.be/event/5159"
+      - "https://folkbalbende.be/event/5193"
       - "https://www.facebook.com/events/1495736075622972"
     start: "2027-02-20T13:15:00+01:00"
     end: "2027-02-21T16:30:00+01:00"
@@ -332339,8 +332429,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Acam
       - AMano
+      - Acam
     organisation: Folknam Musique Trad
     source: events/belgium/folkbalbende.yaml
   - name: Skandia First Friday LIVE
@@ -332878,6 +332968,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/cressens-method-training-5-weekends/1463/"
       - "https://folkbalbende.be/event/5159"
+      - "https://folkbalbende.be/event/5193"
       - "https://www.facebook.com/events/1495736075622972"
     start: "2027-03-27T13:15:00+01:00"
     end: "2027-03-28T16:30:00+02:00"
@@ -333844,6 +333935,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/cressens-method-training-5-weekends/1463/"
       - "https://folkbalbende.be/event/5159"
+      - "https://folkbalbende.be/event/5193"
       - "https://www.facebook.com/events/1495736075622972"
     start: "2027-05-15T13:15:00+02:00"
     end: "2027-05-16T16:30:00+02:00"
@@ -334123,6 +334215,22 @@ events:
     price: free
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Bal Folk
+    details: "Akkordeon Solo – von funky bis fragil\n\nVerwurzelt in der traditionellen europäischen Folkmusik hat Hartwin Dhoore seinen eigenen modernen und einzigartigen Stil kreiert. Auf den ersten Blick elegant entspannt zeigen seine Kompositionen bei näherer Betrachtung eine unerwartete Tiefe und Ausdrucksstärke. Grandios! Aber wenn man ihn nach seiner Musik fragt, sagt er: „Musik ist vor allem etwas, das die Menschen verbindet. Und das ist etwas, was wir im Leben wirklich brauchen.“\nVon \"subtil, beinah fragil\" bis \"full-on funky\" charakterisiert die Fachpresse Hartwin Dhoores Akkordeonspiel. Wer das diatonische Akkordeon ein bisschen kennt, weiß, dass von funky bis fragil zwar alles drinsteckt, dass aber nur echte Freaks dieser extrem dynamischen Box all dies entlocken können. Hartwin kann es ...\n\nHartwin Dhoore: diatonisches Akkordeon\n\nhttps://hartwindhoore.com\n\nUnd hier ist noch ein Interview: https://www.revalfolk.ee/interview-hartwin-dhoore-bel/\n\nTanzworkshop 19:00 Uhr: Wir zeigen kurz die wichtigsten Tänze und Überlebenstricks für die Tanzfläche. Mit Live-Musik. Ohne Workshop geht auch – aber mit macht es noch mehr Spaß!\n\n \n\n \n\nhttps://www.youtube.com/watch?v=uKd2DImQp-o"
+    links:
+      - "https://www.folkclub-marburg.de/wp/archive/3298"
+    start: "2027-05-30T19:00:00+02:00"
+    end: "2027-05-30T23:00:00+02:00"
+    country: Germany
+    city: Marburg
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Hartwin Dhoore
+    organisation: Folkclub Marburg
+    source: events/germany/marburg.yaml
   - name: Klein Bal
     details: Ball
     links:
