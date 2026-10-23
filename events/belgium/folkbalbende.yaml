@@ -27665,17 +27665,20 @@ events:
     links:
       - "https://www.boombal.be/agenda2.php"
       - "https://www.boombal.be/balfinal/"
-      - "https://www.hotgriselda.eu"
-      - "https://www.boombal.be/balfinal/"
+      - "https://event-tickets.be/balfinal26"
       - "https://folkbalbende.be/event/4814"
-    start_date: 2026-12-31
-    end_date: 2026-12-31
+    start: "2026-12-31T20:00:00+01:00"
+    end: "2027-01-01T00:00:00+01:00"
     country: Belgium
     city: Gent
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Airboxes XL
+      - Ultra Tagada
+      - Hot Griselda
     organisation: Boombal
   - name: Folkbal
     details: Ball
@@ -30190,15 +30193,14 @@ events:
       - Les Lucioles
       - Naragonia
     organisation: ~
-  - name: Folkbal
+  - name: Bal
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda/"
-      - "https://frissefolk.be/nl/event-nl/bal-naragonia-quartet-&-duo-hilde-en-sin-mechelen/1466/"
+      - "https://frissefolk.be/nl/event-nl/bal-naragonia-quartet-en-duo-hilde-&-syn-mechelen/1466/"
       - "https://folkbalbende.be/event/5023"
       - "https://www.facebook.com/events/1605120491620062"
     start: "2026-11-14T19:30:00+01:00"
-    end: "2026-11-14T20:15:00+01:00"
+    end: "2026-11-15T00:00:00+01:00"
     country: Belgium
     city: Mechelen
     styles:
@@ -30206,9 +30208,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo Hilde van Belle
-      - Yassin
-      - Naragonia
+      - Duo Hilde van Belle en Yassine Amrouch
+      - Naragonia Quartet
     price: €15-€24
     organisation: Frisse Folk Vzw/asbl
   - name: Folkbal
@@ -31890,8 +31891,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Acam
       - AMano
+      - Acam
     organisation: Folknam Musique Trad
   - name: "20 Ans de L'association"
     details: Ball
@@ -32107,11 +32108,10 @@ events:
       - "Folkin'jong"
       - "Cord'air"
     organisation: ~
-  - name: Folkbal
+  - name: Bal
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda/"
-      - "https://balfolk.squarespace.com/"
+      - "https://frissefolk.be/nl/event-nl/bal-linkebeek/1482/"
       - "https://folkbalbende.be/event/5115"
       - "https://www.facebook.com/events/916823007753043"
     start: "2026-11-21T19:00:00+01:00"
@@ -33284,6 +33284,22 @@ events:
       - "https://frissefolk.be/nl/event-nl/danslessen-niveau-7-mechelen/1462/"
       - "https://folkbalbende.be/event/5127"
       - "https://www.facebook.com/events/2169559360350101"
+    start: "2026-11-11T19:00:00+01:00"
+    end: "2026-11-11T20:30:00+01:00"
+    country: Belgium
+    city: Mechelen
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €1-€195
+    organisation: Frisse Folk Vzw/asbl
+  - name: Dance Class Level 7 Mechelen
+    details: Course
+    links:
+      - "https://frissefolk.be/nl/event-nl/danslessen-niveau-7-mechelen/1462/"
+      - "https://folkbalbende.be/event/5127"
+      - "https://www.facebook.com/events/2169559360350101"
     start: "2026-11-18T19:00:00+01:00"
     end: "2026-11-18T20:30:00+01:00"
     country: Belgium
@@ -33302,22 +33318,6 @@ events:
       - "https://www.facebook.com/events/2169559360350101"
     start: "2026-11-25T19:00:00+01:00"
     end: "2026-11-25T20:30:00+01:00"
-    country: Belgium
-    city: Mechelen
-    styles:
-      - balfolk
-    workshop: true
-    social: false
-    price: €1-€195
-    organisation: Frisse Folk Vzw/asbl
-  - name: Dance Class Level 7 Mechelen
-    details: Course
-    links:
-      - "https://frissefolk.be/nl/event-nl/danslessen-niveau-7-mechelen/1462/"
-      - "https://folkbalbende.be/event/5127"
-      - "https://www.facebook.com/events/2169559360350101"
-    start: "2026-12-02T19:00:00+01:00"
-    end: "2026-12-02T20:30:00+01:00"
     country: Belgium
     city: Mechelen
     styles:
@@ -34246,3 +34246,183 @@ events:
     workshop: false
     social: true
     organisation: ~
+  - name: Queimada
+    details: Ball
+    links:
+      - "https://frissefolk.be/nl/event-nl/queimada/1491/"
+      - "https://folkbalbende.be/event/5192"
+      - "https://www.facebook.com/events/1656126459635138"
+    start_date: 2026-11-07
+    end_date: 2026-11-07
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Pepijn De Pauw
+      - Lavoà Lapò
+      - A Contrabanda (Galicische Doedelzakgroep) & Queimada
+      - Supernovas
+    organisation: Frisse Folk Vzw/asbl
+  - name: Opleiding Cressens-methode - Weekend 2
+    details: Course
+    links:
+      - "https://frissefolk.be/nl/event-nl/opleiding-cressensmethode-weekend-2/1493/"
+      - "https://folkbalbende.be/event/5193"
+      - "https://www.facebook.com/events/1495736075622972"
+    start: "2026-10-31T13:15:00+01:00"
+    end: "2026-10-31T16:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €75-€500
+    organisation: Frisse Folk Vzw/asbl
+  - name: Opleiding Cressens-methode - Weekend 2
+    details: Course
+    links:
+      - "https://frissefolk.be/nl/event-nl/opleiding-cressensmethode-weekend-2/1493/"
+      - "https://folkbalbende.be/event/5193"
+      - "https://www.facebook.com/events/1495736075622972"
+    start: "2026-11-01T13:15:00+01:00"
+    end: "2026-11-01T16:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €75-€500
+    organisation: Frisse Folk Vzw/asbl
+  - name: Opleiding Cressens-methode - Weekend 2
+    details: Course
+    links:
+      - "https://frissefolk.be/nl/event-nl/opleiding-cressensmethode-weekend-2/1493/"
+      - "https://folkbalbende.be/event/5193"
+      - "https://www.facebook.com/events/1495736075622972"
+    start: "2026-12-19T13:15:00+01:00"
+    end: "2026-12-19T16:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €75-€500
+    organisation: Frisse Folk Vzw/asbl
+  - name: Opleiding Cressens-methode - Weekend 2
+    details: Course
+    links:
+      - "https://frissefolk.be/nl/event-nl/opleiding-cressensmethode-weekend-2/1493/"
+      - "https://folkbalbende.be/event/5193"
+      - "https://www.facebook.com/events/1495736075622972"
+    start: "2026-12-20T13:15:00+01:00"
+    end: "2026-12-20T16:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €75-€500
+    organisation: Frisse Folk Vzw/asbl
+  - name: Opleiding Cressens-methode - Weekend 2
+    details: Course
+    links:
+      - "https://frissefolk.be/nl/event-nl/opleiding-cressensmethode-weekend-2/1493/"
+      - "https://folkbalbende.be/event/5193"
+      - "https://www.facebook.com/events/1495736075622972"
+    start: "2027-02-20T13:15:00+01:00"
+    end: "2027-02-20T16:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €75-€500
+    organisation: Frisse Folk Vzw/asbl
+  - name: Opleiding Cressens-methode - Weekend 2
+    details: Course
+    links:
+      - "https://frissefolk.be/nl/event-nl/opleiding-cressensmethode-weekend-2/1493/"
+      - "https://folkbalbende.be/event/5193"
+      - "https://www.facebook.com/events/1495736075622972"
+    start: "2027-02-21T13:15:00+01:00"
+    end: "2027-02-21T16:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €75-€500
+    organisation: Frisse Folk Vzw/asbl
+  - name: Opleiding Cressens-methode - Weekend 2
+    details: Course
+    links:
+      - "https://frissefolk.be/nl/event-nl/opleiding-cressensmethode-weekend-2/1493/"
+      - "https://folkbalbende.be/event/5193"
+      - "https://www.facebook.com/events/1495736075622972"
+    start: "2027-03-27T13:15:00+01:00"
+    end: "2027-03-27T16:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €75-€500
+    organisation: Frisse Folk Vzw/asbl
+  - name: Opleiding Cressens-methode - Weekend 2
+    details: Course
+    links:
+      - "https://frissefolk.be/nl/event-nl/opleiding-cressensmethode-weekend-2/1493/"
+      - "https://folkbalbende.be/event/5193"
+      - "https://www.facebook.com/events/1495736075622972"
+    start: "2027-03-28T13:15:00+02:00"
+    end: "2027-03-28T16:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €75-€500
+    organisation: Frisse Folk Vzw/asbl
+  - name: Opleiding Cressens-methode - Weekend 2
+    details: Course
+    links:
+      - "https://frissefolk.be/nl/event-nl/opleiding-cressensmethode-weekend-2/1493/"
+      - "https://folkbalbende.be/event/5193"
+      - "https://www.facebook.com/events/1495736075622972"
+    start: "2027-05-15T13:15:00+02:00"
+    end: "2027-05-15T16:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €75-€500
+    organisation: Frisse Folk Vzw/asbl
+  - name: Opleiding Cressens-methode - Weekend 2
+    details: Course
+    links:
+      - "https://frissefolk.be/nl/event-nl/opleiding-cressensmethode-weekend-2/1493/"
+      - "https://folkbalbende.be/event/5193"
+      - "https://www.facebook.com/events/1495736075622972"
+    start: "2027-05-16T13:15:00+02:00"
+    end: "2027-05-16T16:30:00+02:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €75-€500
+    organisation: Frisse Folk Vzw/asbl
