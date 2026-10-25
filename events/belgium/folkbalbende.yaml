@@ -25556,8 +25556,10 @@ events:
     city: Brussels
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Variomatic
     organisation: Boombal
   - name: Folkbal
     details: Ball
@@ -25622,7 +25624,7 @@ events:
       - Hamareel
     price: €10-€12
     organisation: ~
-  - name: Herfstboombal
+  - name: Folkbal
     details: Ball
     links:
       - "https://boombal.be"
@@ -25641,7 +25643,7 @@ events:
       - Duo Mobilette
     price: €21.25-€25.25
     organisation: Boombal
-  - name: Kerstboombal
+  - name: Folkbal
     details: Ball
     links:
       - "https://boombal.be"
@@ -25656,7 +25658,7 @@ events:
     workshop: false
     social: true
     organisation: Boombal
-  - name: Krokusboombal
+  - name: Folkbal
     details: Ball
     links:
       - "https://boombal.be"
@@ -25675,7 +25677,7 @@ events:
       - Duo Clercx
     price: €21.25-€25.25
     organisation: Boombal
-  - name: Paasboombal
+  - name: Folkbal
     details: Ball
     links:
       - "https://boombal.be"
@@ -25690,11 +25692,11 @@ events:
     workshop: true
     social: true
     bands:
-      - Rémi Geoffroy
+      - Rémi Geffroy
       - Duo Montanaro-Cavez
     price: €23.25-€27.25
     organisation: Boombal
-  - name: Groot Boombal
+  - name: Folkbal
     details: Ball
     links:
       - "https://boombal.be"
@@ -26201,7 +26203,7 @@ events:
       - Trio MD&A
     price: €13-€23
     organisation: Frisse Folk Vzw/asbl
-  - name: Bal Final
+  - name: Folkbal
     details: Ball
     links:
       - "https://boombal.be"
@@ -29056,8 +29058,8 @@ events:
     links:
       - "https://www.balhalla.be/en/event/balfolk-with-laouen"
       - "https://folkbalbende.be/event/5056"
-    start: "2026-11-18T19:00:00+01:00"
-    end: "2026-11-18T23:00:00+01:00"
+    start: "2026-11-18T18:00:00+01:00"
+    end: "2026-11-18T22:00:00+01:00"
     country: Belgium
     city: Gent
     styles:
@@ -29074,8 +29076,8 @@ events:
       - "https://www.balhalla.be/en/event/balfolk-with-le-bal-de-l-aube"
       - "https://folkbalbende.be/event/5057"
       - "https://folkbalbende.be/event/5171"
-    start: "2026-12-21T19:00:00+01:00"
-    end: "2026-12-21T23:00:00+01:00"
+    start: "2026-12-21T18:00:00+01:00"
+    end: "2026-12-21T22:00:00+01:00"
     country: Belgium
     city: Gent
     styles:
@@ -30232,6 +30234,7 @@ events:
     links:
       - "https://www.canardfolk.be/agenda/"
       - "https://folkbalbende.be/event/5093"
+      - "https://www.facebook.com/events/29169759362710076"
     start: "2026-11-21T20:00:00+01:00"
     end: "2026-11-21T23:00:00+01:00"
     country: Belgium
@@ -32440,4 +32443,20 @@ events:
       - A Contrabanda
       - Supernovas
     price: €11-€19
+    organisation: Frisse Folk Vzw/asbl
+  - name: Dansen uit Zuid-italië
+    details: Course
+    links:
+      - "https://frissefolk.be/nl/event-nl/dansen-uit-zuiditalië/1494/"
+      - "https://folkbalbende.be/event/5194"
+      - "https://www.facebook.com/events/1427333168869335"
+    start: "2026-12-12T10:00:00+01:00"
+    end: "2026-12-12T12:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €15-€36
     organisation: Frisse Folk Vzw/asbl
