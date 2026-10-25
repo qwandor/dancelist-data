@@ -320209,6 +320209,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Trip Hazard
+    callers:
+      - Bob Morgan
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
@@ -322024,7 +322028,8 @@ events:
   - name: Boombal
     details: Ball
     links:
-      - "https://boombal.be"
+      - "https://www.boombal.be/agenda/boombal-cc-de-meent-2026/"
+      - "https://www.demeent.be/boombal-met-variomatic"
       - "https://folkbalbende.be/event/4320"
     start: "2026-10-30T20:00:00+01:00"
     end: "2026-10-30T23:00:00+01:00"
@@ -322032,8 +322037,11 @@ events:
     city: Brussels
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Variomatic
+    price: €10-€21
     organisation: Boombal
     source: events/belgium/folkbalbende.yaml
   - name: Workshop Maraîchine
@@ -323469,7 +323477,7 @@ events:
   - name: Herfstboombal
     details: Ball
     links:
-      - "https://boombal.be"
+      - "https://www.boombal.be/agenda/herfstboombal-2026/"
       - "https://www.event-tickets.be/Event/KmchTie8h4G1ZkUb9dzEThHYG47e5hZJF19LetgU"
       - "https://folkbalbende.be/event/4362"
     start: "2026-11-06T20:00:00+01:00"
@@ -325290,6 +325298,22 @@ events:
     price: €2.50
     organisation: Balfolk Nijmegen
     source: events/netherlands/plug_balfolk.yaml
+  - name: Breton Dance Workshop
+    details: "Bretonse dansen zijn overwegend groepsdansen met een stevige geaarde bounce. Je kunt ze zowel heel ontspannen dansen als al je energie er in stoppen, maar voor beide is een goede techniek essentieel. We zullen o.a. kijken naar connectie, collectiviteit, energie en voetenwerk.\r\nDeze dag gaan we aan de slag met in ieder geval kost ar c'hoad, laridee en suit de loudéac (alle 4 de delen!).\r\n\r\nAls je deze dansen op live muziek wilt doen hoef je niet lang te wachten. Zondag 15 november zal Folk Knock deze dansen in Deventer spelen.  https://www.plug.events/event/balfolk-deventer-save-the-date4"
+    links:
+      - "https://www.plug.events/event/workshop-bretonse-dansen164"
+      - "https://www.facebook.com/events/1402300745222160/"
+    start: "2026-11-13T20:00:00+01:00"
+    end: "2026-11-13T22:00:00+01:00"
+    country: Netherlands
+    city: Zeist
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €5
+    organisation: Balfolk Zeist
+    source: events/netherlands/plug_balfolk.yaml
   - name: Friday Folk
     details: "Club night: Dave Kerridge"
     links:
@@ -325341,6 +325365,23 @@ events:
     price: $480
     organisation: Bay Area Country Dance Society
     source: events/usa/cdss.yaml
+  - name: Lewiston Contra Dance
+    details: "We dance in the beautiful Trinity Commons at 247 Bates Street, Lewiston, ME. Sliding Scale $15-25, teens $5, kids under 12 free. Pay what you can! We’d love to dance with you! Beginners’ lesson at 7, dancing from 7:30-10. For more information, see our website or find us on Facebook!"
+    links:
+      - "https://sites.google.com/view/lewistoncontradance/home"
+      - "https://cdss.org/event/lewiston-contra-dance-2/2026-11-13/"
+    start: "2026-11-13T19:00:00-05:00"
+    end: "2026-11-13T22:00:00-05:00"
+    country: USA
+    state: ME
+    city: Lewiston
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$25
+    organisation: Lewiston Contra Dance
+    source: events/usa/cdss.yaml
   - name: Cabot Community Contra Dance
     details: "Small, beginner-friendly contra dance in northeast Vermont, with a variety of Vermont and New Hampshire callers, and a house band of fiddles and guitars. All ages and abilities are welcome; genderless terminology is used. Admission is by donation: $10 suggested, but nobody is turned away for lack of funds. Please bring clean, dry shoes to change into for dancing, especially in winter and mud season."
     links:
@@ -325376,6 +325417,74 @@ events:
     callers:
       - Jill Delaney
     organisation: Jill Delaney
+    source: events/usa/cdss.yaml
+  - name: Tally Contra Dance
+    details: "Tallahassee community contra dances are in full swing the 2nd and 4th Fridays of most months! Refer to our website for details, as bands and callers vary each dance. Those new to contra dancing are strongly encouraged to come by 7:15, when a beginner lesson will be taught. Consider bringing a snack to share during the break! \nAdmission cost: $10 for adults, $9 seniors over 50, $6 for students, free for kids under 12. Admission is payable by cash, check, or card at the door. Newcomers get in to their 2nd dance free! \nSee a video of a recent contra dance here."
+    links:
+      - "https://www.tallydancer.com/"
+      - "https://cdss.org/event/tally-contra-dance-2-2/2026-11-13/"
+    start: "2026-11-13T19:15:00-05:00"
+    end: "2026-11-13T22:00:00-05:00"
+    country: USA
+    state: FL
+    city: Tallahassee
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $6-$10
+    organisation: Tallahassee Community Friends of Old Time Dance
+    source: events/usa/cdss.yaml
+  - name: Dover Contradance
+    details: "A traditional New England contra dance with a mix of classic old and new contras, squares and couple dances. The dance is held at St John’s Church, 28 Cataract Ave on 2nd Fridays September thru June. The dance runs from 7:30 to 10:30. All are welcome, no experience nor partner needed, the dances are taught then prompted with traditional terminology.  \nAdmission $12, students $6, cash or check. \nFacebook group: Dover NH New England Country Dance"
+    links:
+      - "https://doverdance.free.nf/?i=1"
+      - "https://cdss.org/event/dover-nh-contradance/2026-11-13/"
+    start: "2026-11-13T19:30:00-05:00"
+    end: "2026-11-13T22:30:00-05:00"
+    country: USA
+    state: NH
+    city: Dover
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $6-$12
+    organisation: Dave Bateman
+    source: events/usa/cdss.yaml
+  - name: Harrisburg Contra Dance
+    details: "Harrisburg Contra Dance invites you to dance the night away in a fun, friendly, and welcoming community. No prior dance experience or partner required. We encourage those new to contradance to take the beginner workshop starting at 7:30. The dance runs from 8:00-10:30. Refer to our website for our amazing upcoming callers and bands!"
+    links:
+      - "https://www.harrisburgcontra.org/schedule.html"
+      - "https://cdss.org/event/monthly-contra-dance-in-harrisburg-pa/2026-11-13/"
+    start: "2026-11-13T19:30:00-05:00"
+    end: "2026-11-13T22:30:00-05:00"
+    country: USA
+    state: PA
+    city: Mechanicsburg
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $12
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Mad Robin Burlington Contra Dance
+    details: "Contra dancing in Downtown Burlington, VT on the second Friday of each month. \nThe Mad Robin Contra Collective is a group of experienced and rising local contra dance callers and musicians working together to host dances, improve our skills, and promote contra dancing. \nGender neutral calling, no partner required, all are welcome, no experience required. \nDress for aerobic activity, and please bring a water bottle and clean, non-marking indoor shoes! \nPresented with the generous support of the Country Dance & Song Society."
+    links:
+      - "https://cdss.org/event/mad-robin-burlington-contra-dance/2026-11-13/"
+      - "https://www.facebook.com/events/1369262135078787/1379865647351769/"
+    start: "2026-11-13T19:30:00-05:00"
+    end: "2026-11-13T23:00:00-05:00"
+    country: USA
+    state: VT
+    city: Burlington
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$20
+    organisation: Mad Robin Callers Collective
     source: events/usa/cdss.yaml
   - name: Albany ContraFest
     details: "Albany ContraFest is three contra dances over two days, plus a half hour of waltzes on Saturday evening. See the full schedule below. Note that the sliding scale for admissions varies from our regular monthly dances, and this year we’re also offering a Full-Fest price good for all three dances. \nFull 2-day Schedule: \n\nFriday Lesson and Contra Dance (7:45pm – 11:00pm) : $15-$25\nSaturday Exciting Contras (2pm – 5pm) : $14-$25\nSaturday Waltzes (7:30pm to 8:00pm) AND Contra Dance Party (8pm – 11pm) : $15-$25\n\nFull-Fest (All 3 Dances): $45 -$55 \nCalling will use Larks and Robins to denote dance roles. No experience necessary. No partner needed. Masking for health safety is welcome but not required."
@@ -325455,6 +325564,25 @@ events:
     price: $10
     organisation: Missoula Folklore Society
     source: events/usa/cdss.yaml
+  - name: Friday Night English Dance
+    details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
+    links:
+      - "https://portlandcountrydance.org/calendar/"
+      - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2026-11-13/"
+    start: "2026-11-13T19:30:00-08:00"
+    end: "2026-11-13T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Ric Goldman
+    price: $7-$20
+    organisation: Portland Country Dance Community
+    source: events/usa/cdss.yaml
   - name: Teach the Teacher workshop and networking
     details: "Wil je je eigen kennis en kunde ontwikkelen en je lessen naar een hoger niveau tillen? Kom meedoen met de Teach the Teacher workshop!\r\n\r\nDit is de eerste workshop van zijn soort, bij genoeg animo komen er meer. Deze workshops zijn bedoeld voor (balfolk)docenten die al les geven of de intentie hebben om (balfolk)les te gaan geven. Iedere workshop heeft een thema, deze thema's zullen elkaar mooi aanvullen. Er zijn 20 plekken per workshop beschikbaar. Koop een kaartje voor €20 of support de BalfolkFabriek door €25 voor jouw plekje te betalen."
     links:
@@ -325511,6 +325639,23 @@ events:
     price: €15-€84
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Phoenix English Country Dancers
+    details: Called English country dance to recorded music. Free instruction. $10 (or donation)
+    links:
+      - "https://phxtmd.org/english-dance"
+      - "https://cdss.org/event/phoenix-english-country-dancers-2/2026-11-14/"
+    start: "2026-11-14T09:00:00-07:00"
+    end: "2026-11-14T11:00:00-07:00"
+    country: USA
+    state: AZ
+    city: Phoenix
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $10
+    organisation: Phoenix Traditional Music & Dance
+    source: events/usa/cdss.yaml
   - name: Gugelhupf
     details: "Ginkgo spielt wieder zum Tanz, vielfältig von traditionell bis zu Stücken aus eigener Feder. In diesem Jahr klingt es etwas silbern angehaucht, nach nunmehr 25 Jahren."
     links:
@@ -326021,6 +326166,24 @@ events:
     price: €5
     organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
+  - name: Balhalla
+    details: Ball
+    links:
+      - "https://www.balhalla.be/en/event/balfolk-with-laouen"
+      - "https://folkbalbende.be/event/5056"
+    start: "2026-11-18T18:00:00+01:00"
+    end: "2026-11-18T22:00:00+01:00"
+    country: Belgium
+    city: Gent
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Laouen
+    price: €10-€18
+    organisation: Balhalla
+    source: events/belgium/folkbalbende.yaml
   - name: Dance Class Level 2
     details: Course
     links:
@@ -326036,24 +326199,6 @@ events:
     workshop: true
     social: false
     organisation: Frisse Folk Vzw/asbl
-    source: events/belgium/folkbalbende.yaml
-  - name: Balfolk
-    details: Ball
-    links:
-      - "https://www.balhalla.be/en/event/balfolk-with-laouen"
-      - "https://folkbalbende.be/event/5056"
-    start: "2026-11-18T19:00:00+01:00"
-    end: "2026-11-18T23:00:00+01:00"
-    country: Belgium
-    city: Gent
-    styles:
-      - balfolk
-    workshop: true
-    social: true
-    bands:
-      - Laouen
-    price: €10-€18
-    organisation: Balhalla
     source: events/belgium/folkbalbende.yaml
   - name: Boombal Danslessen
     details: Course
@@ -326607,11 +326752,12 @@ events:
     price: €5-€7
     organisation: De Hovelingen-Viking
     source: events/belgium/folkbalbende.yaml
-  - name: Folkbal
+  - name: Bal Folk Mormont
     details: Ball
     links:
       - "https://www.canardfolk.be/agenda/"
       - "https://folkbalbende.be/event/5093"
+      - "https://www.facebook.com/events/29169759362710076"
     start: "2026-11-21T20:00:00+01:00"
     end: "2026-11-21T23:00:00+01:00"
     country: Belgium
@@ -327359,6 +327505,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Contrasaurus
+    callers:
+      - Charlie Brown
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
@@ -329075,6 +329225,23 @@ events:
     price: £21-£27
     organisation: London Ceilidh Club
     source: events/uk/ceilidh_club.yaml
+  - name: Dances from the South of Italy
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/dances-from-the-south-of-italy/1494/"
+      - "https://folkbalbende.be/event/5194"
+      - "https://www.facebook.com/events/1427333168869335"
+    start: "2026-12-12T10:00:00+01:00"
+    end: "2026-12-12T12:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - italian
+    workshop: true
+    social: false
+    price: €15-€36
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
   - name: Adventstanz
     details: Ballkanesen mit dem Kontrabass
     links:
@@ -329299,7 +329466,7 @@ events:
     organisation: Boombal
     source: events/belgium/folkbalbende.yaml
   - name: Lange Bal Folk Nacht
-    details: "Der Bal ist in Planung  ...\n\nwie immer mit Tanzworkshop -  aber der schon um 18:00 Uhr."
+    details: "Der Bal Folk beginnt um 19:00 Uhr. Der Tanzworkshop beginnt um 18:00 Uhr. Also alles eine Stunde früher als sonst.\n\nVon ihren Touren im Rest der Welt erholt treffen sich alle Bal-Folk-Bands Marburgs für die ultimative Tanznacht. Havok, Homeward Bound, Manesse Hop, Ute+Michael und Die ZWEI spielen, als ob es kein Morgen gäbe.\n\n\n\nDie ZWEI – das bedeutet einen intensiven musikalischen Dialog zwischen Gitarre und Klarinette. Das Sichzuspielen und Verwandeln, Verschlingen und wieder Lösen der Stimmen und Klangfarben, die Verzahnung in den Rhythmen des Bal Folk. Ein Spiel im eigentlichen Sinn. Zwiegespräche, die jedes Mal neu sind und auf dem Tanzboden fortgesetzt werden wollen.\nEckart Dähnert: Klarinette\nMichael Müller: Gitarre\n\n \n\n\n\nHavoK - Haus von Klaus - tanzen gern. Sehr gern. Am liebsten zu Musik, die gefühlvoll und kraftvoll zugleich ist, bei der die Mischung von Paar- und Reihentänzen stimmt, Eigenkompositionen nicht verkopft klingen, sondern das Zeug zum Ohrwurm haben. Musik, die vom Ohr übers Herz direkt in die Beine geht.\nUnd deswegen spielen sie selber solche Musik. Einfach. Schöne Musik.\nThomas Raisch: Klarinette\nUlrike Alles: Diatonisches Akkordeon\n\n \n\n\n\nUte+Michael. Mit ihrer klaren ausdrucksstarken schnörkellosen Stimme und dem besonderen Verständnis von Sprach- und Tanzrhythmus singt Ute Visser die traditionellen Tanzlieder auf besonders mitreißende Art. Die tragischen, romantischen, fröhlichen oder auch banalen Texte werden vor allem durch Ute Vissers besondere Interpretation zu bewegenden Geschichten. Begleitet wird sie von Michael Müller an der Gitarre.\n\nUte Visser: Gesang\nMichael Müller: Gitarre\n\nHomeward Bound. Elegante eingängige Kompositionen, überraschende Harmonien - es wird tänzerisch interessant. Wenn zwei erfahrene Musikerinnen sich im Bal Folk neu finden, dann sind die Erwartungen hoch. Das grandiose abwechslungsreiche Gitarrenspiel von Katja gepaart mit den einfühlsam aber punktgenau phrasierten Melodien auf der Geige von Emily schafft es trotzem, die Tanzenden zu überaschen: So schwungvoll, so freundlich glücklich machend!\n\n\n\nManesse Hopp spielt europäische Folk-Musik, die in die Beine geht. Und es darf getanzt werden, nach Lust und Laune,  zu Kreis-, Reihen- oder Paartänzen. Die 7-köpfige Band aus Marburg liebt sowohl fetzige als auch ruhige Stücke und sieht sowohl ihre Musik als auch die Tänze dazu als Lebensfreude pur!\n\nVolker Hamel: Geige Bouzouki\nErnst Prall: Klarinette, Saxophon\nUwe Stein: Sologitarre\nMichael Lehnert-Möller: Begleitgitarre, Gesang\nMichael Bartels: Percussion\nAngelika Haag-Lill: Klavier\n\nNach den Bands ist die Bühne offen für Bal Folk Session und es kann weiter getanzt werden, bis die Musik untergeht.\n\nTanzworkshop 18:00 Uhr: Wir zeigen kurz die wichtigsten Tänze und Überlebenstricks für die Tanzfläche. Mit Live-Musik. Ohne Workshop geht auch – aber mit macht es noch mehr Spaß!\n\nAbendkasse: 24,- / 18,- / 11,- (normal, günstig, ermäßigt)"
     links:
       - "https://www.folkclub-marburg.de/wp/archive/3179"
     start: "2026-12-13T18:00:00+01:00"
@@ -329310,6 +329477,13 @@ events:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Die ZWEI
+      - Havok
+      - Homeward Bound
+      - Manesse Hopp
+      - Ute+Michael
+    price: €11-€24
     organisation: Folkclub Marburg
     source: events/germany/marburg.yaml
   - name: Folk & Dance at Lietzensee
@@ -329885,8 +330059,8 @@ events:
       - "https://www.balhalla.be/en/event/balfolk-with-le-bal-de-l-aube"
       - "https://folkbalbende.be/event/5057"
       - "https://folkbalbende.be/event/5171"
-    start: "2026-12-21T19:00:00+01:00"
-    end: "2026-12-21T23:00:00+01:00"
+    start: "2026-12-21T18:00:00+01:00"
+    end: "2026-12-21T22:00:00+01:00"
     country: Belgium
     city: Gent
     styles:
@@ -329969,7 +330143,7 @@ events:
   - name: Kerstboombal
     details: Ball
     links:
-      - "https://boombal.be"
+      - "https://www.boombal.be/agenda/kerstboombal-2026/"
       - "https://www.event-tickets.be/Event/Xf98AfXpLd4j7Q9DXJGgxzynRZWnR9qJSzRJR97S"
       - "https://folkbalbende.be/event/4363"
     start: "2026-12-26T20:00:00+01:00"
@@ -329980,6 +330154,11 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Ragaeri
+      - Bellowing Bellows
+      - Tralala Lovers
+    price: €29.25
     organisation: Boombal
     source: events/belgium/folkbalbende.yaml
   - name: Contradancers Delight Holiday
@@ -330171,7 +330350,6 @@ events:
   - name: Bal Final
     details: Ball
     links:
-      - "https://boombal.be"
       - "https://www.boombal.be/balfinal/"
       - "https://event-tickets.be/balfinal26"
       - "https://folkbalbende.be/event/4814"
@@ -330763,17 +330941,22 @@ events:
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
   - name: Nieuwjaarsbal
-    details: "In plaats van een Kerstbal in december houden we een Nieuwjaarsbal in januari.\r\n\r\nDit is alleen een Save-the-date. De locatie is al wel bekend. Alle andere informatie zoals tijden, bands, programma, eventuele workshops en prijzen volgen later."
+    details: "In plaats van een Kerstbal in december houden we een Nieuwjaarsbal in januari.\r\n\r\nOp 16 januari dansen we fijn het nieuwe jaar in op de heerlijke dansjes van Wouter en de draak! \r\n\r\nDaarbij is dit keer ook een toffe workshop over muzikaliteit in de balfolk - voor dansers en muzikanten.\r\n\r\nHet programma voor deze avond is:\r\n13:30  Deuren open\r\n14.00 - 17.00: Workshop met pauze tussendoor\r\n17.00 - 18.00: Picknick, en soundcheck.\r\n18.00 - 19.00: Dansuitleg\r\n19.00 - 21.00: Bal met live-band: Wouter en de Draak"
     links:
+      - "https://www.plug.events/event/workshop-bij-nieuwjaarsbal-2027-muzikalite798"
       - "https://www.plug.events/event/nieuwjaarsbal-in-rotterdam-2027-save-the-d525"
-    start: "2027-01-16T17:00:00+01:00"
-    end: "2027-01-16T22:30:00+01:00"
+      - "https://www.facebook.com/events/1719100739150600/"
+    start: "2027-01-16T13:30:00+01:00"
+    end: "2027-01-16T21:00:00+01:00"
     country: Netherlands
     city: Rotterdam
     styles:
       - balfolk
     workshop: true
     social: true
+    bands:
+      - Wouter en de Draak
+    price: €10-€35
     organisation: Balfolk Zuid-Holland
     source: events/netherlands/plug_balfolk.yaml
   - name: Tanzhaus Innsbruck
@@ -331053,6 +331236,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Stomping Ground
+    callers:
+      - Jack Kanutin
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
@@ -331553,7 +331740,7 @@ events:
   - name: Krokusboombal
     details: Ball
     links:
-      - "https://boombal.be"
+      - "https://www.boombal.be/agenda/krokusboombal-2027/"
       - "https://www.event-tickets.be/Event/3D1ugjATW4zLST1VTJVhqDesnRm5wEbEMr5zXdqB"
       - "https://folkbalbende.be/event/4365"
     start: "2027-02-05T20:00:00+01:00"
@@ -332231,6 +332418,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Bluejay
+    callers:
+      - Sam Tetley Smith
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
@@ -332263,21 +332454,6 @@ events:
     price: £7-£15
     organisation: Contrabridge
     source: events/uk/contrabridge.yaml
-  - name: Bal Folk
-    links:
-      - "https://www.folkclub-marburg.de/wp/archive/3288"
-    start_date: 2027-02-28
-    end_date: 2027-02-28
-    country: Germany
-    city: Marburg
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Le Driadi
-    organisation: Folkclub Marburg
-    source: events/germany/marburg.yaml
   - name: Le Bal des Possibles
     details: Ball
     links:
@@ -332348,6 +332524,23 @@ events:
     price: free
     organisation: Balfolk Oxford
     source: events/uk/oxford.yaml
+  - name: Bal Folk
+    details: "Italienischer Neo-Trad mit Songpoesie und Indie-Pop\nMan kann bei Le Driadi natürlich auch einfach zuhören. Es hat bloß noch niemand lange durchgehalten.\n\nSie singen auf Italienisch und lassen auf Französisch tanzen. Alessandro Cornio (Gesang und Gitarre) und Alessandro Scacchi (Bass) verbinden die Tänze des Bal Folk mit der Poesie der italienischen Liedermacher und einer guten Prise Indie-Pop. Mazurka, Walzer, Schottisch, Hanter Dro und Kreistänze stehen auf dem Programm, dazu Tänze aus dem Piemont. Und mittendrin schleicht sich immer wieder ein Klang ein, der verdächtig nach Pop klingt. Das ist kein Versehen, sondern Absicht. Die beiden bezeichnen sich selbst als ein bisschen rebellisch in der Folk-Welt, und man glaubt es ihnen sofort.\n\nUnd dann ist da noch die Stimme. Die Lieder stammen größtenteils aus eigener Feder und aus der Tradition der großen italienischen Cantautori. Alessandro Cornio singt sie mit so viel Hingabe, dass man mitten in der Mazurka eine Gänsehaut bekommt und kurz überlegt, doch nur zuzuhören. Aber eben nur kurz.\n\nAlessandro Cornio: Gesang, Gitarre und Stompbox\nAlessandro Scacchi: Bass (E-Bass)\n\nTanzworkshop 19 Uhr: Wir zeigen kurz die wichtigsten Tänze und Überlebenstricks für die Tanzfläche. Mit Live-Musik. Ohne Workshop geht auch – aber mit macht es noch mehr Spaß!\n\nAbendkasse: 18,- / 11,- (günstig / ermäßigt)"
+    links:
+      - "https://www.folkclub-marburg.de/wp/archive/3288"
+    start: "2027-02-28T19:00:00+01:00"
+    end: "2027-02-28T23:00:00+01:00"
+    country: Germany
+    city: Marburg
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Le Driadi
+    price: €11-€18
+    organisation: Folkclub Marburg
+    source: events/germany/marburg.yaml
   - name: French & Breton Dance Week
     links:
       - "https://www.halswaymanor.org.uk/event/french-breton-dance-2027"
@@ -333430,7 +333623,7 @@ events:
   - name: Paasboombal
     details: Ball
     links:
-      - "https://boombal.be"
+      - "https://www.boombal.be/agenda/paasboombal-2027/"
       - "https://www.event-tickets.be/Event/zGgLpJQchinTTYVA9muiRhRTAqC8Sqv74NEPhLjk"
       - "https://folkbalbende.be/event/4366"
     start: "2027-04-16T20:00:00+02:00"
@@ -333442,7 +333635,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Rémi Geoffroy
+      - Rémi Geffroy
       - Duo Montanaro-Cavez
     price: €23.25-€27.25
     organisation: Boombal
@@ -333599,6 +333792,23 @@ events:
       - Will Mentor
     organisation: Michigan Dance Heritage
     source: events/usa/cdss.yaml
+  - name: Portland Raindance
+    details: "Mark your calendars for April 23–25, 2027, when dancers from Portland and beyond will gather once again at Norse Hall for a weekend of great music, wonderful dancing, and welcoming community.  This year, we’re excited to carry on the Raindance tradition with a new organizing team and an outstanding lineup of callers and musicians. \nWith Raindance 2027 comes a new chapter. After many wonderful years of organizing the weekend, Kim and Christine Appleberry have handed the reins to a new team of volunteers who are excited to carry Raindance forward. Putting on a dance weekend takes a lot of people with a lot of different skills, and we’re fortunate to have a terrific group with new energy stepping up to make Raindance 2027 happen."
+    links:
+      - "https://www.portlandraindance.org/"
+      - "https://cdss.org/event/portland-raindance/"
+    start_date: 2027-04-23
+    end_date: 2027-04-25
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $200
+    organisation: Portland Country Dance Community
+    source: events/usa/cdss.yaml
   - name: "Ça Bal'Wanze"
     details: Ball
     links:
@@ -333732,6 +333942,7 @@ events:
     organisation: Colorado Friends of Old Time Music and Dance
     source: events/usa/boulder.yaml
   - name: Bal Folk
+    details: "„Spelen voor dansers is heerlijk“\n\nWenn Wouter sein Akkordeon spielt, hört man nicht nur, welcher Tanz gerade erklingt. Man spürt, wohin er sich bewegen möchte. Seine Musik hat diesen besonderen Schwung, der die Füße fast von selbst in Bewegung bringt. Mal lässt er eine Mazurka ganz intim und feinfühlig schwingen, mal treibt er eine Bourrée mit unwiderstehlichem Groove voran. Und wenn ein Walzer plötzlich ungewohnte rhythmische Wege einschlägt, darf man sich einfach überraschen lassen.\n\nWer Stéphane Delicq schätzt, wird vielleicht eine besondere Verbindung wiedererkennen: dieses zutiefst tänzerische Spiel und die Fähigkeit, unmittelbar mit den Tanzenden in einen musikalischen Dialog zu treten. Die Musik entsteht nicht nur aus dem Akkordeon heraus, sondern auch aus dem, was zwischen Musiker und Tanzfläche geschieht.\n\n„Spelen voor dansers is heerlijk“ – für Tanzende zu spielen ist herrlich. So beschreibt Wouter selbst, was ihn am Bal Folk begeistert. Und genau das ist in seinem Spiel spürbar: die Freude am gemeinsamen Moment, die Freiheit, auf die Tanzenden zu reagieren, und das Gespür dafür, wohin eine Melodie sie tragen kann.\n\nWouter spielt viele eigene Kompositionen, verwurzelt in der französischen, flämischen und niederländischen Tanzmusik. Dabei folgt er keinem starren Programm, sondern lässt sich von der Stimmung auf der Tanzfläche inspirieren. So wird jeder Bal Folk zu einer lebendigen Begegnung zwischen Musik und Tanz.\n\nEin Akkordeon, ein leidenschaftlicher Musiker und Tänzer – und ein ganzer Raum voller Möglichkeiten."
     links:
       - "https://www.folkclub-marburg.de/wp/archive/3290"
     start_date: 2027-05-02
@@ -334194,7 +334405,7 @@ events:
   - name: Groot Boombal
     details: Ball
     links:
-      - "https://boombal.be"
+      - "https://www.boombal.be/agenda/groot-boombal-gent-2027/"
       - "https://www.event-tickets.be/Event/5LfX7dA3BWCHQx5TudxMLCfXjtACk4z3qWmp1ekg"
       - "https://folkbalbende.be/event/4367"
     start: "2027-05-29T20:00:00+02:00"
