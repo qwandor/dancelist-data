@@ -5039,8 +5039,8 @@ events:
   - name: ContraCopia
     links:
       - "https://www.thursdaycontra.com/contracopia/"
-    start_date: 2026-11-27
-    end_date: 2026-11-29
+    start: "2026-11-27T15:00:00-05:00"
+    end: "2026-11-29T16:00:00-05:00"
     country: USA
     state: PA
     city: Philadelphia
@@ -5056,6 +5056,7 @@ events:
       - Liesl Jandrey
       - Will Mentor
       - Isaac Banner
+    price: $100
     organisation: TryContra
   - name: Breaking Up Thanksgiving
     links:
@@ -5250,25 +5251,6 @@ events:
       - Will Mentor
       - Cathy Hollister
     organisation: TryContra
-  - name: Salty Swirl
-    links:
-      - "https://saltyswirl2027.ticketspice.com/salty-swirl-2027"
-    start_date: 2027-01-29
-    end_date: 2027-01-31
-    country: USA
-    state: NC
-    city: Wilmington
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Contraforce
-      - "The Four O'Clocks"
-    callers:
-      - Kenny Greer
-      - David Winston
-    organisation: TryContra
   - name: Phoenix Winter Frolic
     links:
       - "https://phxtmd.org/winter-frolic-2027"
@@ -5393,8 +5375,9 @@ events:
   - name: Palmetto Bug Stomp
     links:
       - "http://charlestonfolk.weebly.com/palmetto-bug-stomp.html"
-    start_date: 2027-02-26
-    end_date: 2027-02-28
+      - "https://www.facebook.com/events/1397239869288023/"
+    start: "2027-02-26T18:00:00-05:00"
+    end: "2027-02-28T15:00:00-05:00"
     country: USA
     state: SC
     city: Charleston
@@ -5403,11 +5386,12 @@ events:
     workshop: true
     social: true
     bands:
-      - Spintution
-      - Contraforce
+      - Spintuition
+      - ContraForce
     callers:
       - Bob Isaacs
       - Jack Mitchell
+    price: $100-$150
     organisation: TryContra
   - name: Epicenter
     links:
@@ -5465,8 +5449,8 @@ events:
   - name: Hands Four Spring Dance Weekend
     links:
       - "https://www.hands4-berea.com/"
-    start_date: 2027-04-23
-    end_date: 2027-04-26
+    start: "2027-04-23T19:00:00-04:00"
+    end: "2027-04-26T14:30:00-04:00"
     country: USA
     state: KY
     city: Berea
@@ -5479,23 +5463,6 @@ events:
     callers:
       - Sarah Kaiser
       - Kenny Greer
-    organisation: TryContra
-  - name: When in Doubt Swing
-    links:
-      - "https://www.nttds.org/wids/home.html"
-    start_date: 2027-05-07
-    end_date: 2027-05-09
-    country: USA
-    state: TX
-    city: Dallas
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Spintuition
-    callers:
-      - Emily Rush
     organisation: TryContra
   - name: Apple Blossom Bliss
     links:
@@ -5541,10 +5508,11 @@ events:
     city: Aptos
     styles:
       - contra
+      - ecd
     workshop: true
     social: true
-    organisation: TryContra
-  - name: AmWeek
+    organisation: Bay Area Country Dance Society
+  - name: BACDS American Week
     links:
       - "https://amweek.camp/"
     start_date: 2027-06-28
@@ -5556,7 +5524,7 @@ events:
       - contra
     workshop: true
     social: true
-    organisation: TryContra
+    organisation: Bay Area Country Dance Society
   - name: Balance the Bay
     links:
       - "https://www.bacds.org/btb"
@@ -5574,8 +5542,7 @@ events:
       - Dinnerline
     callers:
       - Susan Petrick
-      - TBD
-    organisation: TryContra
+    organisation: Bay Area Country Dance Society
   - name: Burning Man Contra Dance Camp
     links:
       - "http://www.contraburners.org/"
@@ -5607,7 +5574,7 @@ events:
     callers:
       - Terry Doyle
       - JJ Luxe
-    organisation: TryContra
+    organisation: Charleston Folk
   - name: Star Through Seattle
     links:
       - "https://www.starthroughseattle.dance/"
