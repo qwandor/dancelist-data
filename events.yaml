@@ -322712,6 +322712,23 @@ events:
     price: $10
     organisation: Houston Area Traditional Dance Society
     source: events/usa/cdss.yaml
+  - name: Scottish Country Dance
+    details: Social dance of Scotland. Does not require a partner
+    links:
+      - "https://scdcolorado.org/Weekly_Classes.html"
+      - "https://boulderdance.org/event/boulder-scottish-country-dance/2026-11-01/"
+    start: "2026-11-01T16:30:00-07:00"
+    end: "2026-11-01T18:30:00-07:00"
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - scd
+    workshop: true
+    social: false
+    price: $5
+    organisation: Boulder Scottish Country Dance
+    source: events/usa/boulder.yaml
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first Sundays and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \n\nFirst Sundays: Lessons at 3:40 PM; dance from 4–7 PM\nThird Saturdays: Lessons at 6:40; dance from 7–10 PM.\n\n​Prices: \n\n$15-$30, sliding scale, general admission\n$10-$25, members of MCDC, BACDS, CDSS or other sister organizations;\n$5, active military & full-time students, with ID;\nFREE! for children 12 & under"
     links:
@@ -322949,6 +322966,22 @@ events:
     price: $5
     organisation: CDSS
     source: events/usa/cdss.yaml
+  - name: Scandinavian Weekly Dance
+    details: "Come join our weekly Scandinavian dance.  We do Scandinavian couple dance (primarily Swedish).  “Learn to Pivot and Perfect Your Hambo”.  No partner is needed, but low-friction, hard-soled shoes are necessary so that you will be able to pivot (spin) on the beautiful Avalon floors.  Pivoting easily and frequently is a common feature of fast-turning Polska and Pols dancing.  We teach the first hour, but attendance at our fall Basics Class or previous polska/pols dance or other dance experience is very helpful. \nWe almost always dance to live music featuring fiddle, nyckelharpa, accordion, and hardanger fiddle. \nCome dance with us every Monday night (except when Monday falls on or very near a major holiday).  We teach the first hour, followed by open dancing."
+    links:
+      - "https://boulderdance.org/event/scandinavian-weekly-dance-2/2026-11-02/"
+    start: "2026-11-02T19:30:00-07:00"
+    end: "2026-11-02T22:00:00-07:00"
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    price: $7
+    organisation: Boulder Scandinavian Dancers
+    source: events/usa/boulder.yaml
   - name: Beginner class at Univ Heights Center
     details: "<p><span>The class resumes on Mondays from 7-9 pm starting on September 14, at the University Heights Center near UW.  It will run through December 14 and then start up again on January 4, 2027.  FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don't have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
     links:
@@ -326347,6 +326380,25 @@ events:
     price: $20
     organisation: Valley Area English Regency Society
     source: events/usa/cdss.yaml
+  - name: English Country Dance at Tapestry Folkdance Center
+    details: "Every Sunday \nSmall Studio\n7:00 – 9:00 pm \n\n\n\n\n\n\n\n2nd Sunday of the Month\nLive Music with Anytime English Players | 6:30 – 9:00 pm \n​Cost:\n​Recorded Music:  $12 General Admission | $9 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\nLive Music: $15 General Admission | $12 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\n\n​“Pay What You Choose” first seven days of every month (1st through the 7th) – Newcomers especially encouraged to attend! \n\n\n\n\n\n\n\nEnglish country dancing is an accessible social dance form with a history going back several centuries. This is the dancing of Queen Elizabeth I, of Jane Austen, and a living tradition that inspires musical compositions and choreographies today. The music can be stately or spritely, traditional or modern, recorded or live. It is danced with simple walking or skipping steps in time to the music. All dances are taught and are usually done in “long-ways sets” with partners facing in lines down the hall. After a walk-through, the easy-to-learn figures are called throughout the dance as you interact with other couples in your set and then move on to the next and repeat.\n​\nYou can come by yourself and be assured of dancing throughout the evening, since our tradition is to welcome and teach beginners and change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience.  English country dance will satisfy your wish for pleasurable exercise, a warm social community, mental stimulation, or even transcendent aesthetic experiences. We invite you to join us!"
+    links:
+      - "https://www.tapestryfolkdance.org/english-country-dance"
+      - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2026-11-15/"
+    start: "2026-11-15T18:30:00-06:00"
+    end: "2026-11-15T21:00:00-06:00"
+    country: USA
+    state: MN
+    city: Minneapolis
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Tommy van Deusen
+    price: $4-$12
+    organisation: Tapestry Folkdance Center
+    source: events/usa/cdss.yaml
   - name: "NederDans: Group Dances In Dutch"
     details: Course
     links:
@@ -326444,6 +326496,75 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Gainesville English Country Dance
+    details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
+    links:
+      - "https://cdss.org/event/english-country-dance-on-mondays-in-gainesville/2026-11-16/"
+    start: "2026-11-16T18:00:00-05:00"
+    end: "2026-11-16T20:30:00-05:00"
+    country: USA
+    state: FL
+    city: Gainesville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Hoggetowne Fancy
+    price: $10
+    organisation: Gainesville English Country Dance
+    source: events/usa/cdss.yaml
+  - name: Knoxville Monday Night Contra
+    details: "Contra dancing to live music every Monday evening in Knoxville, TN. The dance begins at 7:30 with a lesson for new folks starting at 7:00. Everyone welcome."
+    links:
+      - "https://www.knoxvillecontra.org/schedule"
+      - "https://cdss.org/event/knoxville-monday-night-contra/2026-11-16/"
+    start: "2026-11-16T19:00:00-05:00"
+    end: "2026-11-16T22:30:00-05:00"
+    country: USA
+    state: TN
+    city: Knoxville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Knoxville Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Nashville Monday Night English Country Dance Class
+    details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
+    links:
+      - "https://www.nashvillecountrydancers.org/english-country-dances"
+      - "https://cdss.org/event/nashville-monday-night-english-country-dance-class/2026-11-16/"
+    start: "2026-11-16T18:00:00-06:00"
+    end: "2026-11-16T19:30:00-06:00"
+    country: USA
+    state: TN
+    city: Nashville
+    styles:
+      - ecd
+    workshop: true
+    social: false
+    price: free
+    organisation: Nashville Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Chicago Contra Dance
+    details: "The Chicago Barn Dance Company sponsors and supports contra dance, traditional square dance, and old-time music in the Chicago area. Our dances are held every Monday night, except holidays, in the beautiful fourth-floor Erin Ballroom at Chicago’s Irish American Heritage Center. The dance venue is near the Montrose Blue Line stop, or you can park in the large FREE parking lot on site. \nAdmission is $7-$10 for adults, $5 for seniors and students. Come at 6:30pm if you would like a beginner/refresher lesson."
+    links:
+      - "https://www.chicagobarndance.org/calendar/"
+      - "https://cdss.org/event/chicago-contra-dance/2026-11-16/"
+    start: "2026-11-16T18:30:00-06:00"
+    end: "2026-11-16T21:40:00-06:00"
+    country: USA
+    state: IL
+    city: Chicago
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Chicago Barn Dance Company
+    source: events/usa/cdss.yaml
   - name: Beginner class at Univ Heights Center
     details: "<p><span>Classes run through Dec 14 and resume on Jan 4, 2027.   FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don't have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
     links:
@@ -326920,6 +327041,27 @@ events:
     social: true
     organisation: TanzhausFolk
     source: events/germany/tanzhaus.yaml
+  - name: CFOOTMAD Community Contra Dance
+    details: "Community Contra Dance open to all ages.  All dances taught.  No experience necessary.  Always live music.  Lesson 7 p.m.; dance 7:30 to 10:30."
+    links:
+      - "https://boulderdance.org/event/colorado-friends-of-old-time-music-and-dance-dance-community-contra-dance-7-2026-06-19/2026-11-20/"
+      - "https://www.cfootmad.org/"
+    start: "2026-11-20T19:00:00-07:00"
+    end: "2026-11-20T22:30:00-07:00"
+    country: USA
+    state: CO
+    city: Boulder
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Avourneen
+    callers:
+      - Tina Fields
+    price: $10-$15
+    organisation: Colorado Friends of Old Time Music and Dance
+    source: events/usa/boulder.yaml
   - name: Autumn Allemande
     links:
       - "https://victoriacontradance.com/event/autumn-allemande-2026/"
@@ -327120,6 +327262,23 @@ events:
     price: free
     organisation: Tanzhaus Innsbruck
     source: events/austria/innsbruck.yaml
+  - name: Folk in Klub K
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/5196"
+    start: "2026-11-21T19:30:00+01:00"
+    end: "2026-11-21T23:00:00+01:00"
+    country: Belgium
+    city: Oostmalle
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Tinne & Dirk
+    price: €8-€10
+    organisation: Folk In Malle
+    source: events/belgium/folkbalbende.yaml
   - name: Hovelingen-bal Soirée
     details: Ball
     links:
@@ -328194,6 +328353,7 @@ events:
       - "https://www.trois-quatre.art/le-bal-des-possibles"
       - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4875"
+      - "https://www.facebook.com/events/1836089860725442"
     start: "2026-11-29T15:00:00+01:00"
     end: "2026-11-29T19:30:00+01:00"
     country: Belgium
@@ -328204,7 +328364,7 @@ events:
     social: true
     bands:
       - La Marmite Folk
-      - Statik
+      - StatiK
     price: free
     organisation: ~
     source: events/belgium/folkbalbende.yaml
@@ -329855,7 +330015,7 @@ events:
     organisation: Boombal
     source: events/belgium/folkbalbende.yaml
   - name: Lange Bal Folk Nacht
-    details: "Der Bal Folk beginnt um 19:00 Uhr. Der Tanzworkshop beginnt um 18:00 Uhr. Also alles eine Stunde früher als sonst.\n\nVon ihren Touren im Rest der Welt erholt treffen sich alle Bal-Folk-Bands Marburgs für die ultimative Tanznacht. Havok, Homeward Bound, Manesse Hop, Ute+Michael und Die ZWEI spielen, als ob es kein Morgen gäbe.\n\n\n\nDie ZWEI – das bedeutet einen intensiven musikalischen Dialog zwischen Gitarre und Klarinette. Das Sichzuspielen und Verwandeln, Verschlingen und wieder Lösen der Stimmen und Klangfarben, die Verzahnung in den Rhythmen des Bal Folk. Ein Spiel im eigentlichen Sinn. Zwiegespräche, die jedes Mal neu sind und auf dem Tanzboden fortgesetzt werden wollen.\nEckart Dähnert: Klarinette\nMichael Müller: Gitarre\n\n \n\n\n\nHavoK - Haus von Klaus - tanzen gern. Sehr gern. Am liebsten zu Musik, die gefühlvoll und kraftvoll zugleich ist, bei der die Mischung von Paar- und Reihentänzen stimmt, Eigenkompositionen nicht verkopft klingen, sondern das Zeug zum Ohrwurm haben. Musik, die vom Ohr übers Herz direkt in die Beine geht.\nUnd deswegen spielen sie selber solche Musik. Einfach. Schöne Musik.\nThomas Raisch: Klarinette\nUlrike Alles: Diatonisches Akkordeon\n\n \n\n\n\nUte+Michael. Mit ihrer klaren ausdrucksstarken schnörkellosen Stimme und dem besonderen Verständnis von Sprach- und Tanzrhythmus singt Ute Visser die traditionellen Tanzlieder auf besonders mitreißende Art. Die tragischen, romantischen, fröhlichen oder auch banalen Texte werden vor allem durch Ute Vissers besondere Interpretation zu bewegenden Geschichten. Begleitet wird sie von Michael Müller an der Gitarre.\n\nUte Visser: Gesang\nMichael Müller: Gitarre\n\nHomeward Bound. Elegante eingängige Kompositionen, überraschende Harmonien - es wird tänzerisch interessant. Wenn zwei erfahrene Musikerinnen sich im Bal Folk neu finden, dann sind die Erwartungen hoch. Das grandiose abwechslungsreiche Gitarrenspiel von Katja gepaart mit den einfühlsam aber punktgenau phrasierten Melodien auf der Geige von Emily schafft es trotzem, die Tanzenden zu überaschen: So schwungvoll, so freundlich glücklich machend!\n\n\n\nManesse Hopp spielt europäische Folk-Musik, die in die Beine geht. Und es darf getanzt werden, nach Lust und Laune,  zu Kreis-, Reihen- oder Paartänzen. Die 7-köpfige Band aus Marburg liebt sowohl fetzige als auch ruhige Stücke und sieht sowohl ihre Musik als auch die Tänze dazu als Lebensfreude pur!\n\nVolker Hamel: Geige Bouzouki\nErnst Prall: Klarinette, Saxophon\nUwe Stein: Sologitarre\nMichael Lehnert-Möller: Begleitgitarre, Gesang\nMichael Bartels: Percussion\nAngelika Haag-Lill: Klavier\n\nNach den Bands ist die Bühne offen für Bal Folk Session und es kann weiter getanzt werden, bis die Musik untergeht.\n\nTanzworkshop 18:00 Uhr: Wir zeigen kurz die wichtigsten Tänze und Überlebenstricks für die Tanzfläche. Mit Live-Musik. Ohne Workshop geht auch – aber mit macht es noch mehr Spaß!\n\nAbendkasse: 24,- / 18,- / 11,- (normal, günstig, ermäßigt)"
+    details: "Der Bal Folk beginnt um 19:00 Uhr. Der Tanzworkshop beginnt um 18:00 Uhr. Also alles eine Stunde früher als sonst.\n\n\nTanzworkshop 18:00 Uhr: Wir zeigen kurz die wichtigsten Tänze und Überlebenstricks für die Tanzfläche. Mit Live-Musik. Ohne Workshop geht auch – aber mit macht es noch mehr Spaß!\n\nAbendkasse: 24,- / 18,- / 11,- (normal, günstig, ermäßigt)"
     links:
       - "https://www.folkclub-marburg.de/wp/archive/3179"
     start: "2026-12-13T18:00:00+01:00"
@@ -333037,6 +333197,7 @@ events:
       - "https://www.canardfolk.be/agenda/"
       - "https://bricksite.com/scdbrussels/ceilidh-workshop-dance-2027"
       - "https://folkbalbende.be/event/5191"
+      - "https://www.facebook.com/events/4520133311564772"
       - "https://www.facebook.com/events/1579067793532510"
     start: "2027-03-05T19:30:00+01:00"
     end: "2027-03-06T23:00:00+01:00"
@@ -333047,6 +333208,10 @@ events:
       - scd
     workshop: true
     social: true
+    bands:
+      - Judith & Ian Muir
+    callers:
+      - Kristian Vestli
     price: €40-€50
     organisation: Brussels Dance Scottish
     source: events/belgium/folkbalbende.yaml
@@ -334857,12 +335022,14 @@ events:
     social: true
     bands:
       - Akleja
-      - Duo/ trio Baftig
+      - Duo Bottasso
       - Feather and Fox
       - Hartwin Dhoore Trio
       - Itchy Fingers
       - Lirio
+      - Man Encantada
       - Teulèra
+      - Trio Baftig
       - TriOblique
       - e = m(T²)
     price: €26-€126
