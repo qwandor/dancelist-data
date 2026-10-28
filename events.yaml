@@ -326549,6 +326549,23 @@ events:
     price: $10
     organisation: Gainesville English Country Dance
     source: events/usa/cdss.yaml
+  - name: Cincinnati Monday Night Contra
+    details: "Cincinnati Contra Dance Local dancing at the Wyoming Arts Center \nMonday dances start at 7:30 pm with a free intro session at 7:00 pm. The dances run from 7:30 pm to 9:30 pm. \nSuggested donation:\n$2 Full time students\nChildren 12 & under free\n$5 Adults\nAll are welcome! \nAny donation is much appreciated to help sustain our dance.\nLarger donations can be tax deductible if you inform Larry Lankford, CCD"
+    links:
+      - "https://www.cincinnaticontradance.org/dance-schedule"
+      - "https://cdss.org/event/monday-night-contra/2026-11-16/"
+    start: "2026-11-16T19:00:00-05:00"
+    end: "2026-11-16T21:30:00-05:00"
+    country: USA
+    state: OH
+    city: Wyoming
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $2-$5
+    organisation: Cincinnati Contra Dance
+    source: events/usa/cdss.yaml
   - name: Knoxville Monday Night Contra
     details: "Contra dancing to live music every Monday evening in Knoxville, TN. The dance begins at 7:30 with a lesson for new folks starting at 7:00. Everyone welcome."
     links:
@@ -326599,6 +326616,42 @@ events:
     social: true
     price: $5-$10
     organisation: Chicago Barn Dance Company
+    source: events/usa/cdss.yaml
+  - name: Louisville Contra Dance
+    details: "Louisville, Kentucky’s weekly Monday night contra dance, always featuring live music from the Monday Night All Stars open band! Dancing is 8:00-10:30pm with a beginner’s lesson at 7:30pm. Waltzing and snacks available at the break. Check out our website for details on the caller and special performances. Open calling on 5th Mondays!"
+    links:
+      - "https://www.louisvillecountrydancers.org/dance-with-us-1"
+      - "https://cdss.org/event/louisville-contra-dance/2026-11-16/"
+    start: "2026-11-16T19:30:00-05:00"
+    end: "2026-11-16T22:30:00-05:00"
+    country: USA
+    state: KY
+    city: Louisville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Monday Night All Stars
+    price: $5-$10
+    organisation: Louisville Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Austin English Country Dance
+    details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
+    links:
+      - "https://taada.us/wp/events/"
+      - "https://cdss.org/event/austin-english-country-dance/2026-11-16/"
+    start: "2026-11-16T19:15:00-06:00"
+    end: "2026-11-16T21:30:00-06:00"
+    country: USA
+    state: TX
+    city: Austin
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $5
+    organisation: CDSS
     source: events/usa/cdss.yaml
   - name: Beginner class at Univ Heights Center
     details: "<p><span>Classes run through Dec 14 and resume on Jan 4, 2027.   FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don't have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
@@ -332377,6 +332430,20 @@ events:
       - C2vives
     organisation: Folknam Musique Trad
     source: events/belgium/folkbalbende.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-5-2-27-cecil-sharp-house/"
+    start: "2027-02-05T20:00:00+00:00"
+    end: "2027-02-05T23:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £21-£27
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
   - name: Skandia First Friday LIVE
     details: "<html-blob><u></u><span><strong>Skandia members, $10; nonmembers, $15; kids, free  The price of admission includes a free dance class.</strong></span><br><br>Teaching: 7:30-8:30 p.m. No partner is required. </html-blob><br><html-blob><br><u></u></html-blob>"
     links:
@@ -332478,6 +332545,20 @@ events:
     price: £10-£12
     organisation: Contrafusion
     source: events/uk/contrafusion.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-6-2-27-grand-junction-paddington/"
+    start: "2027-02-06T19:30:00+00:00"
+    end: "2027-02-06T22:30:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £21-£27
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
   - name: Folkbal
     details: Ball
     links:
@@ -332613,6 +332694,20 @@ events:
     price: donation
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-12-2-27-cecil-sharp-house/"
+    start: "2027-02-12T20:00:00+00:00"
+    end: "2027-02-12T23:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £21-£27
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
   - name: Bal Enschede
     details: More info will follow
     links:
@@ -332647,6 +332742,20 @@ events:
     price: £4-£14
     organisation: Oxfolk
     source: events/uk/oxfolk.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-13-2-27-london-scottish-house/"
+    start: "2027-02-13T20:00:00+00:00"
+    end: "2027-02-13T23:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £21-£27
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
@@ -333264,8 +333373,8 @@ events:
     workshop: true
     social: true
     bands:
-      - AMano
       - Acam
+      - AMano
     organisation: Folknam Musique Trad
     source: events/belgium/folkbalbende.yaml
   - name: Skandia First Friday LIVE
