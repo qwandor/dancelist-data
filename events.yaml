@@ -326758,6 +326758,23 @@ events:
     price: €5
     organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
+  - name: English Country Dance for all
+    details: "Join us on Tuesdays in the West Village for a friendly evening of social dance. Our programs include early dances circa 1651 to contemporary choreographies. English Country Dance (ECD) has been enjoyed by the likes of Jane Austen and Thomas Jefferson, and you are invited to join in the pleasures of this community social dance. English dances and their tunes vary from elegant to energetic and from stately to boisterous, and you will experience all these facets of English Country Dance in an evening as you dance to live music. You can see many examples of ECD at Childgrove on YouTube. \nNewcomers are always welcome at CDNY, where all dances are taught. A skills session is offered after the third dance of the evening for English Country dances. If you choose to participate, you will receive more in-depth teaching of terms and dance figures, then rejoin the group. \nThe steps are simple: generally walking or skipping. You can come by yourself and be assured of dancing throughout the evening, since our tradition is to change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience. ECD will satisfy your wish for an artistic outlet, pleasurable exercise, a warm social community, mental stimulation, and transcendent aesthetic experiences. We invite you to join us! \nAdmission to our dances is on a sliding scale: \nMembers: $15-20; \nNon-members: $20-25; \nFull-time Students: $10"
+    links:
+      - "https://cdny.org/calendar-events"
+      - "https://cdss.org/event/english-country-dance-for-all/2026-11-17/"
+    start: "2026-11-17T19:00:00-05:00"
+    end: "2026-11-17T22:00:00-05:00"
+    country: USA
+    state: NY
+    city: New York
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10-$25
+    organisation: Country Dance * New York
+    source: events/usa/cdss.yaml
   - name: Balhalla
     details: Ball
     links:
@@ -326856,6 +326873,57 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: English Country Dance for All
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:15 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition."
+    links:
+      - "https://oldfarmersball.com/english-country-dance/"
+      - "https://cdss.org/event/asheville-english-country-dance-for-all/2026-11-18/"
+    start: "2026-11-18T18:15:00-05:00"
+    end: "2026-11-18T20:30:00-05:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: free
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: English Country Dance at Guiding Star Grange
+    details: "Join us in Greenfield for an evening of English Country Dancing. Lively, elegant, and fun: English country dances from 1650 to today, with a rotating cast of stellar musicians and callers.   \nCost: $10-$20, sliding scale. \nSee venue website for this month’s details and Covid policy."
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+      - "https://cdss.org/event/second-fourth-wednesday-english-country-dance-at-guiding-star-grange/2026-11-18/"
+    start: "2026-11-18T19:00:00-05:00"
+    end: "2026-11-18T21:30:00-05:00"
+    country: USA
+    state: MA
+    city: Greenfield
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $10-$20
+    organisation: Graham Christian
+    source: events/usa/cdss.yaml
+  - name: Spokane Folklore Society Contra Dance
+    details: "Join us for rousing good time. SFS has been dancing on Wednesdays for nearly 40 years at the historic Woman’s Club hall. A long time favorite, the hall features wood paned windows on both sides of a rectangular room and wood floor. Six local callers and six bands rotate over the season, which begins September and ends in June. \nNewcomer session begins at 7:15PM with the two-hour dancing following at 7:30. General admission is $10. For more information, see our website."
+    links:
+      - "https://spokanefolklore.org/"
+      - "https://cdss.org/event/spokane-folklore-societys-1st-3rd-and-5th-wednesday-contra-dances/2026-11-18/"
+    start: "2026-11-18T19:15:00-08:00"
+    end: "2026-11-18T21:30:00-08:00"
+    country: USA
+    state: WA
+    city: Spokane
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $7-$10
+    organisation: Spokane Folklore Society
+    source: events/usa/cdss.yaml
   - name: Thursday Balfolk
     details: "Beginner-intermediate balfolk class in Fairfield, VIC,  3078"
     links:
@@ -329115,6 +329183,27 @@ events:
       - River Rainbowface
     organisation: Big Scioty Contra Dance
     source: events/usa/cdss.yaml
+  - name: Eugene Celebration
+    details: "An English and Scottish country dance weekend just outside Eugene, Oregon. \nDance Leaders: Lindsey Dono and Melissa Running\nMusicians: Anita Anderson (piano), Sarah Wilfong (violin), and David Greenberg (violin)\nSound Enhancement: Clint Wolford"
+    links:
+      - "https://mcusercontent.com/8ffd1d34de75907c66777fe4b/files/5232efc8-d840-d25d-2b83-00904d456dbe/2026DecEugCelFlyer02.pdf"
+      - "https://cdss.org/event/eugene-celebration/"
+    start: "2026-12-04T18:30:00-08:00"
+    end: "2026-12-05T22:00:00-08:00"
+    country: USA
+    state: OR
+    city: Springfield
+    styles:
+      - ecd
+      - scd
+    workshop: true
+    social: true
+    callers:
+      - Lindsey Dono
+      - Melissa Running
+    price: $60-$80
+    organisation: Eugene Country Dancers%2C branch of Heather &amp%3B Rose
+    source: events/usa/cdss.yaml
   - name: Skandia Annual Meeting
     details: "<span><b>Skandia members, $10; nonmembers, $15; kids, free  </b></span><br><br><br><u></u><br><u></u><u></u>"
     links:
@@ -329862,21 +329951,28 @@ events:
     price: £21-£27
     organisation: London Ceilidh Club
     source: events/uk/ceilidh_club.yaml
-  - name: Dances from the South of Italy
-    details: Course
+  - name: Bal & Basta!
+    details: Course & Ball
     links:
       - "https://frissefolk.be/en/event-en/dances-from-the-south-of-italy/1494/"
+      - "https://frissefolk.be/en/event-en/bal-&-basta!/1495/"
       - "https://folkbalbende.be/event/5194"
+      - "https://folkbalbende.be/event/5197"
       - "https://www.facebook.com/events/1427333168869335"
+      - "https://www.facebook.com/events/1659050442684956"
     start: "2026-12-12T10:00:00+01:00"
-    end: "2026-12-12T12:30:00+01:00"
+    end: "2026-12-12T22:00:00+01:00"
     country: Belgium
     city: Brussels
     styles:
+      - balfolk
       - italian
     workshop: true
-    social: false
-    price: €15-€36
+    social: true
+    bands:
+      - Nisia
+      - Feather and Fox
+    price: €18-€61
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
   - name: Adventstanz
@@ -332855,6 +332951,24 @@ events:
     social: false
     organisation: Balfolk Köln
     source: events/germany/cologne.yaml
+  - name: Mosafolk open bal
+    details: "Op 18 februari gaan we dansen op live muziek van Duo l'hêtre heureux, met vooraf een dansuitleg voor beginners. Zo kan iedereen mee dansen, of je al lessen hebt gevolgd of niet.\r\n\r\nEr is maar beperkte plek op de dansvloer, dus meld je via hier aan om gegarandeerd een plekje te hebben. De toegang voor dit bal is op donatie basis, er zal een hoed staan waarin je je bijdrage kunt achterlaten; dus vergeet niet contant geld mee te nemen! Onze richtlijn is €5 - €15 euro.\r\n\r\nHet adres van het bal is hetzelfde als die van de lessen:\r\nKumulus West\r\nHerbenusstraat 89\r\n6211 RB Maastricht Minder weergeven"
+    links:
+      - "https://www.plug.events/event/mosafolk-opening-lesseizoen-met-duo-lhetre681"
+      - "https://mosafolk.nl/product/open-bal-2/"
+    start: "2027-02-18T19:00:00+01:00"
+    end: "2027-02-18T21:45:00+01:00"
+    country: Netherlands
+    city: Maastricht
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - "Duo l'Hêtre Heureux"
+    price: €5-€15
+    organisation: Mosafolk
+    source: events/netherlands/plug_balfolk.yaml
   - name: Galhalla
     links:
       - "https://www.shedances.org/galhalla"
@@ -334387,6 +334501,24 @@ events:
     price: €23.25-€27.25
     organisation: Boombal
     source: events/belgium/folkbalbende.yaml
+  - name: Melt into Spring
+    details: "English Country Dance Friday evening, Saturday all day and evening.  Many attendees will be in 18th century costume.  David Millstone leading the dancing, music by Debbie Jackson, Josh Burdick, and Matt McCoy."
+    links:
+      - "https://aactmad.org/melt-into-spring"
+      - "https://cdss.org/event/melt-into-spring-2/"
+    start: "2027-04-16T19:30:00-04:00"
+    end: "2027-04-17T23:30:00-04:00"
+    country: USA
+    state: MI
+    city: Ann Arbor
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - David Millstone
+    organisation: AACTMAD
+    source: events/usa/cdss.yaml
   - name: Folkbal
     details: Ball
     links:
@@ -335010,6 +335142,29 @@ events:
     price: donation
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Butterfly Whirl
+    details: "Butterfly Whirl 2027 \n\nMay 21-23\nDecatur Rec Center, Decatur, GA \n\nTalent:\nCountercurrent: Alex Sturbaum & Brian Lindsay; fiddle, guitar, foot percussion, vocal harmony\nIdlewild: Jacob Chen, Mirinisa Stewart-Tengco, Clara Byom: fiddle, piano, accordion, bass clarinet, clarinet \n\nCallers: Seth Tepfer & Koren Wake \n\nSound: Stagecoach Sound: Jared and Galen Kirkpatrick \n\nContra, ECD, Waltz, workshops, jams, contra marathon, and much more. \n\nRegistration opens in January 2027"
+    links:
+      - "https://www.dancerhapsody.com/special-events/"
+      - "https://cdss.org/event/butterfly-whirl-dance-weekend/"
+    start_date: 2027-05-21
+    end_date: 2027-05-23
+    country: USA
+    state: GA
+    city: Decatur
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Countercurrent
+      - Idlewild
+    callers:
+      - Koren Wake
+      - Seth Tepfer
+    organisation: Dance Rhapsody
+    source: events/usa/cdss.yaml
   - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
