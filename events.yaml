@@ -322624,7 +322624,7 @@ events:
     organisation: Spreefolk e.V.
     source: events/germany/spreefolk.yaml
   - name: Halloweenbal
-    details: "Het inmiddels bijna traditionele Halloweenbal van Balfolk Zuid-Holland, deze keer op zondag 1 november, in Rotterdam in Cuartito Azul, met als live-bands Pablo Golder en Swinco én prijsuitreiking voor het mooiste, griezeligste of meest creatieve kostuum van de avond.\r\n\r\nHet programma voor deze avond is:\r\n16:00: dansuitleg\r\n17:00: Pablo Golder\r\n18:30: picknick\r\n19:30: Swinco\r\n21:00: einde"
+    details: "Het inmiddels bijna traditionele Halloweenbal van Balfolk Zuid-Holland, deze keer op zondag 1 november, in Rotterdam in Cuartito Azul, met als live-bands Pablo Golder en Swinco én prijsuitreiking voor het mooiste, griezeligste of meest creatieve kostuum van de avond. \r\n\r\n*** Reserveren is vanaf nu verplicht voor deze editie vanwege verwachte drukte. Reserveringen moeten voor zaterdag 31-10 23:59u binnen zijn! ***\r\n\r\nHet programma voor deze avond is:\r\n16:00: dansuitleg\r\n17:00: Pablo Golder\r\n18:30: picknick\r\n19:30: Swinco\r\n21:00: einde"
     links:
       - "https://www.plug.events/event/halloweenbal-in-rotterdam-2026-save-the-da503"
     start: "2026-11-01T16:00:00+01:00"
@@ -322633,7 +322633,7 @@ events:
     city: Rotterdam
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Pablo Golder
@@ -324255,7 +324255,7 @@ events:
     organisation: San Francisco Bay Queer Contra Dance
     source: events/usa/oakland.yaml
   - name: Bal Enschede
-    details: More info will follow later
+    details: "Balfolk is a dance style which revived nearly forgotten Western European folk traditions with a modern twist. At a Balfolk ball, everyone is welcome: no partner or experience needed! Throughout the evening, dancers connect and celebrate together, rotating partners and joining in both paired and group dances. Your ticket includes a beginner friendly introduction before the ball, where you’ll learn the most popular dances. Whether you’re a seasoned dancer or just starting out, Balfolk is designed for fun and accessibility."
     links:
       - "https://www.plug.events/event/bal-enschede"
     start: "2026-11-08T14:00:00+01:00"
@@ -324264,8 +324264,12 @@ events:
     city: Enschede
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Decker Malempre
+      - Wouter en de Draak
+    price: €10-€20
     organisation: Balfolk Apollo
     source: events/netherlands/plug_balfolk.yaml
   - name: "Danses Traditionnelles de France et D'ailleurs"
@@ -326908,6 +326912,40 @@ events:
     price: $10-$20
     organisation: Graham Christian
     source: events/usa/cdss.yaml
+  - name: Princeton Country Dancers’ Contra Dance
+    details: "Weekly contra dance on Wednesday nights, 8:00-10:30."
+    links:
+      - "https://www.princetoncountrydancers.org/"
+      - "https://cdss.org/event/princeton-country-dancers-contra-dance/2026-11-18/"
+    start: "2026-11-18T19:30:00-05:00"
+    end: "2026-11-18T22:30:00-05:00"
+    country: USA
+    state: NJ
+    city: Princeton
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Richmond English Country Dance
+    details: "Please join us for our weekly English Country Dancing Wednesday night social at 7:30 p.m. All dances are taught, walked through, and called. No experience or partner are required, just a pair of comfortable shoes. New dancers are asked to please come at at least 10 minutes before the start of the session. The first night is free; after that $2 per evening."
+    links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
+      - "https://cdss.org/event/richmond-va-english-country-dance-2-2/2026-11-18/"
+    start: "2026-11-18T19:30:00-05:00"
+    end: "2026-11-18T21:30:00-05:00"
+    country: USA
+    state: VA
+    city: Richmond
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
+    source: events/usa/cdss.yaml
   - name: Weekly Austin Contra Dance
     details: "A free weekly dance at Hancock Recreation Center, with music by the jam/pickup band, Local On-Call Orchestra (LOCO). We dance every week that Hancock Recreation Center is open. A brief beginners session is taught at 7:30, before the dance program begins. Dance ends about 9:30. Free parking lot.\n \n\nWe welcome beginners. If you can walk to a beat, you can contra dance! All dances are taught and called. No partner necessary. Dance either role – or both. Everyone is welcome. \n \nSober event. Family-friendly. LGBTQ+"
     links:
@@ -326946,6 +326984,25 @@ events:
     social: true
     price: $7-$10
     organisation: Spokane Folklore Society
+    source: events/usa/cdss.yaml
+  - name: Berkeley Contra Dance
+    details: "BACDS presents a dance every Wednesday (contra on 1st/3rd/5th Wed 8pm-10:30pm; English on 2nd/4th Wed 7:45pm-10pm) at Christ Church East Bay, 2138 Cedar St. (near Oxford), Berkeley. Both series include an introductory lesson about 15-20 minutes before the dance start time."
+    links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
+      - "https://cdss.org/event/berkeley-contra-or-english-dance/2026-11-18/"
+    start: "2026-11-18T19:30:00-08:00"
+    end: "2026-11-18T22:30:00-08:00"
+    country: USA
+    state: CA
+    city: Berkeley
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Tanya Merchant
+    price: $6-$25
+    organisation: Bay Area Country Dance Society
     source: events/usa/cdss.yaml
   - name: Thursday Balfolk
     details: "Beginner-intermediate balfolk class in Fairfield, VIC,  3078"
@@ -327010,6 +327067,25 @@ events:
     price: €7.50
     organisation: Balfolk Zuid-Holland
     source: events/netherlands/plug_balfolk.yaml
+  - name: Gentle English
+    details: "English Country Dancing for those who enjoy relaxed tempos and familiar figures. Jenny Beer leading, music by laptop."
+    links:
+      - "https://parkavenuecontra.org/GentleEnglish"
+      - "https://cdss.org/event/gentle-english-swarthmore-pa-2/2026-11-19/"
+    start: "2026-11-19T14:00:00-05:00"
+    end: "2026-11-19T16:00:00-05:00"
+    country: USA
+    state: PA
+    city: Swarthmore
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Jenny Beer
+    price: $5-$10
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: Dance Class Level 4
     details: Course
     links:
@@ -327068,6 +327144,23 @@ events:
       - Rick Mohr
     price: $80-$260
     organisation: Louisville Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Third Thursday English Regency Dancing
+    details: "English Regency Dancing and Bridgerton™-era dance lessons for moderns (1795-1825). Be whisked through time as you learn smooth, elegant English Country Dance as Jane Austen might have danced herself. Light refreshments served; bring your own water. No costumes, partner, or experience required. Please, no high heels. \nLet’s all party like it’s 1799! \nPreregistration is mandatory\nEach participant must pre-register either in person at the community center or online. \nFor more information and registration, please contact the Rancho Santa Susana Community Center office staff at (805) 584-4456."
+    links:
+      - "https://www.valleyareaenglishregencysociety.org/about.html"
+      - "https://cdss.org/event/third-thursday-english-regency-dancing-in-simi-valley/2026-11-19/"
+    start: "2026-11-19T18:00:00-08:00"
+    end: "2026-11-19T20:00:00-08:00"
+    country: USA
+    state: CA
+    city: Simi Valley
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10
+    organisation: Valley Area English Regency Society
     source: events/usa/cdss.yaml
   - name: Zesty Contra Weekend
     links:
@@ -327463,7 +327556,6 @@ events:
     links:
       - "https://www.hovelingen.be/nl/agenda/index.jsp?id=13&title=Hovelingen-bal%20Soir%E9e"
       - "https://www.facebook.com/events/2054864051885749/"
-      - "https://folkbalbende.be/event/5190"
     start: "2026-11-21T20:00:00+01:00"
     end: "2026-11-22T00:00:00+01:00"
     country: Belgium
@@ -327605,6 +327697,7 @@ events:
     links:
       - "https://www.centreculturelwanze.be/fr/tout-l-barda.html"
       - "https://folkbalbende.be/event/4874"
+      - "https://www.facebook.com/events/2866632090388683"
     start: "2026-11-22T15:00:00+01:00"
     end: "2026-11-22T18:30:00+01:00"
     country: Belgium
@@ -333442,6 +333535,21 @@ events:
     price: £240-£470
     organisation: Halsway Manor
     source: events/uk/halsway.yaml
+  - name: Dansavond
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
+    links:
+      - "https://www.plug.events/event/dansavond344"
+    start: "2027-03-02T19:30:00+01:00"
+    end: "2027-03-02T22:30:00+01:00"
+    country: Netherlands
+    city: Zeist
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €5
+    organisation: Balfolk Zeist
+    source: events/netherlands/plug_balfolk.yaml
   - name: Eurodance
     links:
       - "https://gregson.co.uk/event/eurodance-2-2-2/2027-03-02/"
