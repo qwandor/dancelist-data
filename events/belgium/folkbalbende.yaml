@@ -27854,10 +27854,10 @@ events:
     workshop: true
     social: true
     organisation: Stanistil
-  - name: Folkbal
+  - name: Reis over de Dansvloer
     details: Ball
     links:
-      - "https://stanistil.be/"
+      - "https://stanistil.be/event/68"
       - "https://folkbalbende.be/event/4943"
     start: "2027-04-04T13:00:00+02:00"
     end: "2027-04-04T18:00:00+02:00"
@@ -27867,7 +27867,10 @@ events:
       - balfolk
     workshop: true
     social: true
-    price: €13-€26
+    bands:
+      - Airboxes
+      - Duo Also
+    price: €4.20-€25
     organisation: Stanistil
   - name: ComSiBal
     details: Ball
@@ -32531,3 +32534,18 @@ events:
       - Lydie Thonnard & Jonathan De Neck
     price: €15-€30
     organisation: "Pas d'La Yau"
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://stanistil.be"
+      - "https://folkbalbende.be/event/5202"
+    start: "2027-04-04T19:00:00+02:00"
+    end: "2027-04-04T19:45:00+02:00"
+    country: Belgium
+    city: Leuven
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Stanistil
