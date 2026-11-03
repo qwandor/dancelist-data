@@ -313990,7 +313990,7 @@ events:
     city: Newtown
     styles:
       - ecd
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Penny Farthing
@@ -323460,7 +323460,7 @@ events:
     organisation: Chicago Barndance
     source: events/usa/chicago.yaml
   - name: Balfolk weekend Intensive
-    details: "Multiple day intensive for experienced (balfolk) dancers.\r\n\r\n2,5 days of workshops (with boarding) staring friday 16:00 and the posibility to extend with one night (sun/mon).\r\n\r\nThis edition the workshops will be in Dutch (Bi-lingual NL-ENG possible). If you like to participate in a full English version or organise this event in your dance community, send a message to: dancingbodies.workshops@gmail.com\r\n\r\n****************************************\r\nInschrijflink is open: 4/16 kaarten beschikbaar\r\n****************************************"
+    details: "Multiple day intensive for experienced (balfolk) dancers.\r\n\r\n2,5 days of workshops (with boarding) staring friday 16:00 and the posibility to extend with one night (sun/mon).\r\n\r\nThis edition the workshops will be in Dutch (Bi-lingual NL-ENG possible). If you like to participate in a full English version or organise this event in your dance community, send a message to: dancingbodies.workshops@gmail.com\r\n\r\n****************************************\r\nInschrijflink is open: 3/16 kaarten beschikbaar\r\n****************************************"
     links:
       - "https://www.plug.events/event/balfolk-weekend-intensive-2026633"
     start: "2026-11-06T16:00:00+01:00"
@@ -323715,6 +323715,27 @@ events:
     social: true
     price: $15
     organisation: Orlando Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Lambertville Country Dancers
+    details: "Robert Mills calls to the music of Windsor Knot: Wes Steenson (guitar), Tanya Rotenberg (flute), Peggy Leiby (recorders and concertina), Thane Glenn (mandolin)"
+    links:
+      - "https://lambertvillecountrydancers.org/"
+      - "https://cdss.org/event/lambertville-country-dancers-english-country-dance-in-princeton-nj-2/"
+    start: "2026-11-06T19:00:00-05:00"
+    end: "2026-11-06T22:30:00-05:00"
+    country: USA
+    state: NJ
+    city: Princeton
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Windsor Knot
+    callers:
+      - Robert Mills
+    price: $5-$15
+    organisation: Lambertville Country Dancers
     source: events/usa/cdss.yaml
   - name: English Country Dance Class
     details: "Looking for a fun way to get some exercise and enjoy the early evenings of fall? Come, join us in Norwich VT for a beginner English Country dance class. \nJill Delaney, a fun ECD dancer who recently expanded into teaching, will introduce the basics of English country dance in a six week series. The dancing is fun, the music is beautiful and the dancers are friendly. No experience necessary, no partner needed. Sign up now to hold your spot.  \nFridays, 7:00 – 8:30 pm\nOctober 9 – November 13\nNorwich Congregational Church, Norwich Vt \n$60 (scholarship assistance available) \nFor questions and registration contact Sally Eshleman at SallyEsh@gmail.com"
@@ -328006,6 +328027,113 @@ events:
     price: $15-$20
     organisation: Eugene Country Dancers%2C branch of Heather &amp%3B Rose
     source: events/usa/cdss.yaml
+  - name: "St. Alban's Contra Dance"
+    details: "Monthly Contra Dance. \nNew Time: 3:00pm-5:30pm with Basics for New Folks at 2:45pm\nAt St. Alban’s Chapel in Baton Rouge\nWe’ll dance to live music.\nCharlene Heaton will call the dance. \nSuggested donation for the callers and the band:\nAdults $7 (contribute $10 to include a tip for the band…or put a tip in the basket, as you wish);\nStudents $5,\nChildren free.\nIf you’d like, bring cookies or veggies or fruit to share. It’s good to bring your own water bottle."
+    links:
+      - "https://louisianacontrasandsquares.com/events.html"
+      - "https://cdss.org/event/st-albans-contra-dance-in-baton-rouge-3/"
+    start: "2026-11-21T14:45:00-06:00"
+    end: "2026-11-21T17:30:00-06:00"
+    country: USA
+    state: LA
+    city: Baton Rouge
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Charlene Heaton
+    price: $5-$10
+    organisation: Charlene Heaton & David Porter
+    source: events/usa/cdss.yaml
+  - name: Annapolis English Country Dance
+    details: "Join us for a lovely evening of ECD on the third Saturday of each month. Intro lesson at 6:30; dance at 7:00-9:30. No experience or partner required. Pre-registration is not required, but please email aefallon@verizon.net to let us know if you can help with pre-dance setup and/or post-dance hall restoration. Such help is much appreciated! \nFace masks are optional. Venue is air conditioned, with filter fans for air circulation and ventilation. Plenty of parking. Please bring own water. Snacks to share are welcome if you bring napkins+appropriate paper goods+utensils and plan to clean up after snack time. \n$15; students—$5; children through 5 years old—free."
+    links:
+      - "https://cdss.org/event/annapolis-english-country-dance-delightful-live-music-excellent-callers-and-friendly-community/2026-11-21/"
+    start: "2026-11-21T18:30:00-05:00"
+    end: "2026-11-21T21:30:00-05:00"
+    country: USA
+    state: MD
+    city: Annapolis
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $5-$15
+    organisation: Annapolis Traditional Dance Society%E2%80%94ECD
+    source: events/usa/cdss.yaml
+  - name: South Florida Contradance
+    details: "Enjoying contra dance\nYou’ll be smiling and laughing.\nNo partner is necessary. Lesson at the beginning. Wear casual clothes and soft soled shoes.\nAge range 10-100\nDances are called.\nPut the phone down and destress your life."
+    links:
+      - "https://southfloridacontradance.com/"
+      - "https://cdss.org/event/south-florida-contra-dances/2026-11-21/"
+    start: "2026-11-21T19:00:00-05:00"
+    end: "2026-11-21T21:30:00-05:00"
+    country: USA
+    state: FL
+    city: Boca Raton
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Austin 3rd Saturday Contra Dance
+    details: "Caller: Rich Goss\nBand: TBA \n\n\nGo Dance Studio 2525 W Anderson Ln. #530 in Northcross Mall Plaza (near First Watch and Chaparral Ice.) \nNo partner necessary & beginners are welcome. All dances are taught and called. \nBeginners: Be ready to dance at 7:00pm for easier dances and fuller instruction!  \nPlease wear (or even better, bring) clean dance shoes to protect this lovely dance floor. Thanks! \nThis is a fragrance-free event. \nDance sponsored by TAADA"
+    links:
+      - "https://taada.us/wp/events/"
+      - "https://cdss.org/event/austin-3rd-saturday-contra-dance/"
+    start: "2026-11-21T19:00:00-06:00"
+    end: "2026-11-21T21:55:00-06:00"
+    country: USA
+    state: TX
+    city: Austin
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - The Rusty Nails
+    callers:
+      - Rich Goss
+    price: $10
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Tucson Contra Dance
+    details: "Join us for our first and third Saturday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check our website for more details."
+    links:
+      - "https://tucsoncontradancers.org/"
+      - "https://cdss.org/event/tucson-contra-dance/2026-11-21/"
+    start: "2026-11-21T18:30:00-07:00"
+    end: "2026-11-21T22:00:00-07:00"
+    country: USA
+    state: AZ
+    city: Tucson
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Tucson Friends of Traditional Music%2C Inc.
+    source: events/usa/cdss.yaml
+  - name: Monterey Contra Dance
+    details: "Monterey Country Dance Community holds contra dances most first Sundays and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \n\nFirst Sundays: Lessons at 3:40 PM; dance from 4–7 PM\nThird Saturdays: Lessons at 6:40; dance from 7–10 PM.\n\n​Prices: \n\n$15-$30, sliding scale, general admission\n$10-$25, members of MCDC, BACDS, CDSS or other sister organizations;\n$5, active military & full-time students, with ID;\nFREE! for children 12 & under"
+    links:
+      - "https://montereycontradance.org/index.html"
+      - "https://cdss.org/event/monterey-contra-dance/2026-11-21/"
+    start: "2026-11-21T18:40:00-08:00"
+    end: "2026-11-21T22:00:00-08:00"
+    country: USA
+    state: CA
+    city: Monterey
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$30
+    organisation: Monterey Country Dance Community
+    source: events/usa/cdss.yaml
   - name: Balfolk Utrecht
     details: "Bal in de Moira met Duo De Schepper-Sanczuk en Bamako Expres. Mis het niet! Koop je kaartje online om verzekerd te zijn van een plekje.\r\n\r\nVoor meer informatie over de workshop, kijk hier: https://www.plug.events/event/balfolk-utrecht-workshop-muzikaliteit-met-155"
     links:
@@ -328506,6 +328634,22 @@ events:
     workshop: true
     social: false
     organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/5201"
+    start: "2026-11-25T20:00:00+01:00"
+    end: "2026-11-25T22:00:00+01:00"
+    country: Belgium
+    city: Gooik
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Guy & Bart Praet
+    organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Dance Class Level 1
     details: Course
@@ -329871,6 +330015,24 @@ events:
     price: €20-€60
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Balfolk Utrecht SinterklaasSpecial
+    details: "Opnieuw een bal in de Moira, maar ditmaal met een wel heel bijzondere gast! Heb je zin om je Sinterklaasavond dansend door te brengen? Kom langs voor een avond vol muziek, dans en verrassingen. Wie weet kom je zelfs wel in het grote boek van Sinterklaas aan de goede kant terecht!\r\n\r\n – – –\r\n\r\nAnother ball in the Moira, but this time with a very special guest! Fancy spending your Sinterklaas evening dancing? Come join us for an evening of music, dancing, and surprises. Who knows, you might even end up on the nice list!"
+    links:
+      - "https://www.plug.events/event/05-12-2026-balfolk-utrecht-sinterklaasspec878"
+    start: "2026-12-05T15:00:00+01:00"
+    end: "2026-12-05T21:30:00+01:00"
+    country: Netherlands
+    city: Utrecht
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Sinterklaas & Barbara
+      - Duo Laloy-Letron
+    price: €15-€50
+    organisation: Balfolk Utrecht
+    source: events/netherlands/plug_balfolk.yaml
   - name: French Dance Stroud
     details: Venn presented by French Dance Stroud Â£10
     links:
@@ -332234,6 +332396,21 @@ events:
     price: free
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Danslessen Elédanse
+    details: Course
+    links:
+      - "https://eledanse.be/event/formule-decouverte-jan27/"
+      - "https://folkbalbende.be/event/5204"
+    start: "2027-01-12T19:00:00+01:00"
+    end: "2027-01-12T22:15:00+01:00"
+    country: Belgium
+    city: Genval
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: EléDanse ASBL
+    source: events/belgium/folkbalbende.yaml
   - name: Balfolk na Andělu
     links:
       - "https://www.facebook.com/events/1602186321296376/1602186331296375/"
@@ -332552,6 +332729,21 @@ events:
     price: free
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Danslessen Elédanse
+    details: Course
+    links:
+      - "https://eledanse.be/event/formule-decouverte-jan27/"
+      - "https://folkbalbende.be/event/5204"
+    start: "2027-01-19T19:00:00+01:00"
+    end: "2027-01-19T22:15:00+01:00"
+    country: Belgium
+    city: Genval
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: EléDanse ASBL
+    source: events/belgium/folkbalbende.yaml
   - name: Balfolk na Andělu
     links:
       - "https://www.facebook.com/events/1602186321296376/1602186367963038/"
@@ -332850,6 +333042,21 @@ events:
     price: free
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Danslessen Elédanse
+    details: Course
+    links:
+      - "https://eledanse.be/event/formule-decouverte-jan27/"
+      - "https://folkbalbende.be/event/5204"
+    start: "2027-01-26T19:00:00+01:00"
+    end: "2027-01-26T22:15:00+01:00"
+    country: Belgium
+    city: Genval
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    organisation: EléDanse ASBL
+    source: events/belgium/folkbalbende.yaml
   - name: Balfolk na Andělu
     links:
       - "https://www.facebook.com/events/1602186321296376/1602186374629704/"
@@ -334505,6 +334712,21 @@ events:
     social: true
     price: €10
     organisation: Enkhuizer Balfolk
+    source: events/netherlands/plug_balfolk.yaml
+  - name: Dansavond
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
+    links:
+      - "https://www.plug.events/event/dansavond493"
+    start: "2027-03-16T19:30:00+01:00"
+    end: "2027-03-16T22:30:00+01:00"
+    country: Netherlands
+    city: Zeist
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €5
+    organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
   - name: Thursday Balfolk
     details: "Beginner-intermediate balfolk class in Fairfield, VIC,  3078"
