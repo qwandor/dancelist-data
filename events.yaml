@@ -323860,6 +323860,21 @@ events:
     price: $10-$15
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Freo Bal Folk
+    links:
+      - "https://www.facebook.com/events/1163302679690719/"
+    start: "2026-11-07T17:30:00+08:00"
+    end: "2026-11-07T21:00:00+08:00"
+    country: Australia
+    state: WA
+    city: Perth
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: $15
+    organisation: Bal Folk Perth
+    source: events/australia/chidlow.yaml
   - name: Balfolk Nijmegen
     details: "Balfolk Nijmegen op een nieuwe locatie!\r\nVerwacht een middag balfolk met 2 toffe bands. Neem iedereen mee die balfolk nog niet kent, want we beginnen met een dansuitleg!"
     links:
@@ -328974,6 +328989,21 @@ events:
     social: true
     organisation: TryContra
     source: events/usa/trycontra.yaml
+  - name: Bal Folk in Chidlow
+    links:
+      - "https://www.facebook.com/events/1720677853393703/"
+    start: "2026-11-28T17:30:00+08:00"
+    end: "2026-11-28T21:00:00+08:00"
+    country: Australia
+    state: WA
+    city: Chidlow
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: $5-$10
+    organisation: Bal Folk Perth
+    source: events/australia/chidlow.yaml
   - name: Branle Béarnais & Rondeau en Chaîne
     details: Course
     links:
@@ -337490,21 +337520,6 @@ events:
     price: £7-£15
     organisation: Contrabridge
     source: events/uk/contrabridge.yaml
-  - name: Freo Bal Folk
-    links:
-      - "https://www.facebook.com/events/1163302679690719/"
-    start: "2027-11-07T17:30:00+08:00"
-    end: "2027-11-07T21:00:00+08:00"
-    country: Australia
-    state: WA
-    city: Perth
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    price: $15
-    organisation: Bal Folk Perth
-    source: events/australia/chidlow.yaml
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
