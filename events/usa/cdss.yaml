@@ -112627,6 +112627,7 @@ events:
     bands:
       - Windsor Knot
     callers:
+      - Robert Mills
       - Tanya Rotenberg
     organisation: Lambertville Country Dancers
   - name: Friday Contra Dance
@@ -113285,25 +113286,6 @@ events:
     workshop: false
     social: true
     organisation: CDSS
-  - name: Weekly Austin Contra Dance
-    details: "A free weekly dance at Hancock Recreation Center, with music by the jam/pickup band, Local On-Call Orchestra (LOCO). We dance every week that Hancock Recreation Center is open. A brief beginners session is taught at 7:30, before the dance program begins. Dance ends about 9:30. Free parking lot.\n \n\nWe welcome beginners. If you can walk to a beat, you can contra dance! All dances are taught and called. No partner necessary. Dance either role – or both. Everyone is welcome. \n \nSober event. Family-friendly. LGBTQ+"
-    links:
-      - "https://austinbarndancers.org/"
-      - "https://taada.us/wp/events/"
-      - "https://cdss.org/event/weekly-austin-contra-dance/2026-11-11/"
-    start: "2026-11-11T19:30:00-06:00"
-    end: "2026-11-11T21:30:00-06:00"
-    country: USA
-    state: TX
-    city: Austin
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Local On-Call Orchestra
-    price: free
-    organisation: CDSS
   - name: Berkeley Contra or English Dance
     details: "BACDS presents a dance every Wednesday (contra on 1st/3rd/5th Wed 8pm-10:30pm; English on 2nd/4th Wed 7:45pm-10pm) at Christ Church East Bay, 2138 Cedar St. (near Oxford), Berkeley. Both series include an introductory lesson about 15-20 minutes before the dance start time."
     links:
@@ -113606,10 +113588,10 @@ events:
     price: $10
     organisation: Phoenix Traditional Music & Dance
   - name: Syracuse Country Dancers Double English Dance
-    details: "English country dancing to the music of Sister Haggis plus Ben Jackson. \nCalling by Jennifer Staples, David Smukler, Bob Nicholson and Carmen Giunta. \nAdvanced dance in the afternoon, dancing for all in the evening."
+    details: "English country dancing to the music of Sister Haggis plus Ben Jackson. \nCalling by Jennifer Staples, David Smukler, and Carmen Giunta. \nAdvanced dance in the afternoon, dancing for all in the evening."
     links:
       - "https://cdss.org/event/syracuse-country-dancers-double-english-dance/"
-    start: "2026-11-14T14:30:00-05:00"
+    start: "2026-11-14T14:00:00-05:00"
     end: "2026-11-14T22:00:00-05:00"
     country: USA
     state: NY
@@ -113621,7 +113603,6 @@ events:
     bands:
       - Sister Haggis
     callers:
-      - Bob Nicholson
       - Carmen Giunta
       - David Smukler
       - Jennifer Staples
@@ -114507,9 +114488,40 @@ events:
     workshop: true
     social: true
     organisation: CDSS
+  - name: Syracuse Country Dancers Contra Dance
+    details: Contra dancing every 1st and 3rd Saturday.
+    links:
+      - "https://syracusecountrydancers.org/upcoming-dances/"
+      - "https://cdss.org/event/syracuse-country-dancers-contra-dance-4/"
+    start: "2026-11-21T19:00:00-05:00"
+    end: "2026-11-21T22:00:00-05:00"
+    country: USA
+    state: NY
+    city: Manlius
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Syracuse Country Dancers
+  - name: Lancaster Monthly Contra Dance
+    details: "Join us on the third Saturday of each month for a community contra dance! Fall, winter and spring at the church; summer in the park pavilion."
+    links:
+      - "https://lancastercontra.org/"
+      - "https://cdss.org/event/lancaster-pa-monthly-contra-dance/2026-11-21/"
+    start: "2026-11-21T19:00:00-05:00"
+    end: "2026-11-21T22:00:00-05:00"
+    country: USA
+    state: PA
+    city: Lancaster
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: Lancaster Contra Dance
   - name: Austin 3rd Saturday Contra Dance
     details: "Caller: Rich Goss\nBand: TBA \n\n\nGo Dance Studio 2525 W Anderson Ln. #530 in Northcross Mall Plaza (near First Watch and Chaparral Ice.) \nNo partner necessary & beginners are welcome. All dances are taught and called. \nBeginners: Be ready to dance at 7:00pm for easier dances and fuller instruction!  \nPlease wear (or even better, bring) clean dance shoes to protect this lovely dance floor. Thanks! \nThis is a fragrance-free event. \nDance sponsored by TAADA"
     links:
+      - "https://taada.us/wp/events/"
       - "https://cdss.org/event/austin-3rd-saturday-contra-dance/"
     start: "2026-11-21T19:00:00-06:00"
     end: "2026-11-21T21:55:00-06:00"
@@ -114539,6 +114551,22 @@ events:
     social: true
     price: $5-$10
     organisation: Tucson Friends of Traditional Music%2C Inc.
+  - name: Santa Fe Contra Dance
+    details: "Instruction at 6:30 and dancing starts at 7:00PM. Everyone is welcome at contra dancing, no partner required. For more details about contra or the FolkMADS organization, see our website."
+    links:
+      - "https://folkmads.org/events/"
+      - "https://cdss.org/event/santa-fe-contra-dance/2026-11-21/"
+    start: "2026-11-21T19:00:00-07:00"
+    end: "2026-11-21T22:00:00-07:00"
+    country: USA
+    state: NM
+    city: Santa Fe
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10
+    organisation: FolkMADS
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first Sundays and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \n\nFirst Sundays: Lessons at 3:40 PM; dance from 4–7 PM\nThird Saturdays: Lessons at 6:40; dance from 7–10 PM.\n\n​Prices: \n\n$15-$30, sliding scale, general admission\n$10-$25, members of MCDC, BACDS, CDSS or other sister organizations;\n$5, active military & full-time students, with ID;\nFREE! for children 12 & under"
     links:
@@ -114555,6 +114583,36 @@ events:
     social: true
     price: $5-$30
     organisation: Monterey Country Dance Community
+  - name: 3rd Saturdays Contra Dance
+    details: "Live music, historic ballroom, sprung dance floor, beginner/refresher session at 6:40pm. Dance 7-10pm. Doors open 6:30. $15. Potluck snacks/treats at halftime! \nElks Lodge in downtown Grass Valley: 109 S. School St., 95945 (fairly easy parking on street and town lots); across from the Center for the Arts. Check our website for band & caller info."
+    links:
+      - "https://www.contradancenc.org/"
+      - "https://cdss.org/event/3rd-saturdays-contra-dance-grass-valley-ca-3-2/2026-11-21/"
+    start: "2026-11-21T19:00:00-08:00"
+    end: "2026-11-21T22:00:00-08:00"
+    country: USA
+    city: ""
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: CDSS
+  - name: Santa Rosa Contra
+    details: "Contra dance with live music, and callers. \nAdmission $15 NBCDS/BACDS/CDSS members; $20 not-yet-members. First time dancers get in free — arrive at 6:30 pm for a newcomers’ orientation. \n\nNBCDS dances are fragrance-free events. Please refrain from wearing scented products.\nYou are invited to bring snacks to share at the break.\nBring a water bottle & stay hydrated!"
+    links:
+      - "https://cdss.org/event/santa-rosa-contra/2026-11-21/"
+    start: "2026-11-21T19:00:00-08:00"
+    end: "2026-11-21T22:00:00-08:00"
+    country: USA
+    state: CA
+    city: Santa Rosa
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15-$20
+    organisation: North Bay Country Dance Society
   - name: Eugene Celebration
     details: "An English and Scottish country dance weekend just outside Eugene, Oregon. \nDance Leaders: Lindsey Dono and Melissa Running\nMusicians: Anita Anderson (piano), Sarah Wilfong (violin), and David Greenberg (violin)\nSound Enhancement: Clint Wolford"
     links:
