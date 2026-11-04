@@ -304981,7 +304981,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo Kouran Der
+      - Kouran Der
     price: €5-€15
     organisation: Mosafolk
     source: events/netherlands/plug_balfolk.yaml
@@ -325218,7 +325218,6 @@ events:
     links:
       - "https://austinbarndancers.org/"
       - "https://taada.us/wp/events/"
-      - "https://cdss.org/event/weekly-austin-contra-dance/2026-11-11/"
     start: "2026-11-11T19:15:00-06:00"
     end: "2026-11-11T21:30:00-06:00"
     country: USA
@@ -325926,6 +325925,29 @@ events:
     price: donation
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Syracuse Country Dancers Double English Dance
+    details: "English country dancing to the music of Sister Haggis plus Ben Jackson. \nCalling by Jennifer Staples, David Smukler, and Carmen Giunta. \nAdvanced dance in the afternoon, dancing for all in the evening."
+    links:
+      - "https://syracusecountrydancers.org/upcoming-dances/"
+      - "https://cdss.org/event/syracuse-country-dancers-double-english-dance/"
+    start: "2026-11-14T14:00:00-05:00"
+    end: "2026-11-14T22:00:00-05:00"
+    country: USA
+    state: NY
+    city: Fayetteville
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Sister Haggis
+    callers:
+      - Carmen Giunta
+      - David Smukler
+      - Jennifer Staples
+    price: $25
+    organisation: Syracuse Country Dancers
+    source: events/usa/cdss.yaml
   - name: Oxfolk Ceilidh
     details: "Doors 7.30pm, dancing from 8 until 11pm.\n\nWe are delighted that the Hampshire band Jigfoot are joining us this month. The band approaches traditional dance tunes with energy, inventiveness and, above all, swing. They specialise in playing tunes from southern England and particularly their county. But most of all what they play is sublime to dance to. The band is: Cath Watkins and Ben Potton on fiddles, Gill Redmond on cello, Kim Sheil on melodeon and Nic Bradford on guitar.\nCalling the dances is Barry Goodman, a well-known caller who has worked with many of the finest ceilidh bands in the country. He likes to make dancers feel relaxed and confident and his clear but laid-back style of teaching the dances has made him a popular choice at folk festivals and ceilidhs nationwide. Barry uses gender neutral, positional calls.\nInterval entertainment is from the fantastic Molly No Mates, the drag king molly dance team from Bristol.\nThere is a licensed bar with ale, cider, wine and soft drinks.\nSaving the planet - Oxfolk is no longer serving drinks in disposable glasses so please bring along your own reusable glasses or purchase an Oxfolk one at the bar.\n\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on info@oxfolk.org.uk"
     links:
@@ -325946,30 +325968,6 @@ events:
     price: £4-£14
     organisation: Oxfolk
     source: events/uk/oxfolk.yaml
-  - name: Syracuse Country Dancers Double English Dance
-    details: "English country dancing to the music of Sister Haggis plus Ben Jackson. \nCalling by Jennifer Staples, David Smukler, Bob Nicholson and Carmen Giunta. \nAdvanced dance in the afternoon, dancing for all in the evening."
-    links:
-      - "https://syracusecountrydancers.org/upcoming-dances/"
-      - "https://cdss.org/event/syracuse-country-dancers-double-english-dance/"
-    start: "2026-11-14T14:30:00-05:00"
-    end: "2026-11-14T22:00:00-05:00"
-    country: USA
-    state: NY
-    city: Fayetteville
-    styles:
-      - ecd
-    workshop: false
-    social: true
-    bands:
-      - Sister Haggis
-    callers:
-      - Bob Nicholson
-      - Carmen Giunta
-      - David Smukler
-      - Jennifer Staples
-    price: $25
-    organisation: Syracuse Country Dancers
-    source: events/usa/cdss.yaml
   - name: Ceilidh Club
     links:
       - "https://ceilidhclub.com/event/london-ceilidh-club-14-11-26-grand-junction-paddington/"
@@ -328096,6 +328094,25 @@ events:
     price: $5-$15
     organisation: Annapolis Traditional Dance Society%E2%80%94ECD
     source: events/usa/cdss.yaml
+  - name: Lancaster Monthly Contra Dance
+    details: "Join us on the third Saturday of each month for a community contra dance! Fall, winter and spring at the church; summer in the park pavilion."
+    links:
+      - "https://lancastercontra.org/"
+      - "https://cdss.org/event/lancaster-pa-monthly-contra-dance/2026-11-21/"
+    start: "2026-11-21T18:30:00-05:00"
+    end: "2026-11-21T22:00:00-05:00"
+    country: USA
+    state: PA
+    city: Lancaster
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Deanna Palumbo
+    price: $12-$20
+    organisation: Lancaster Contra Dance
+    source: events/usa/cdss.yaml
   - name: South Florida Contradance
     details: "Enjoying contra dance\nYou’ll be smiling and laughing.\nNo partner is necessary. Lesson at the beginning. Wear casual clothes and soft soled shoes.\nAge range 10-100\nDances are called.\nPut the phone down and destress your life."
     links:
@@ -328112,6 +328129,23 @@ events:
     social: true
     price: $5-$10
     organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Syracuse Country Dancers Contra Dance
+    details: Contra dancing every 1st and 3rd Saturday.
+    links:
+      - "https://syracusecountrydancers.org/upcoming-dances/"
+      - "https://cdss.org/event/syracuse-country-dancers-contra-dance-4/"
+    start: "2026-11-21T19:00:00-05:00"
+    end: "2026-11-21T22:00:00-05:00"
+    country: USA
+    state: NY
+    city: Manlius
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$15
+    organisation: Syracuse Country Dancers
     source: events/usa/cdss.yaml
   - name: Austin 3rd Saturday Contra Dance
     details: "Caller: Rich Goss\nBand: TBA \n\n\nGo Dance Studio 2525 W Anderson Ln. #530 in Northcross Mall Plaza (near First Watch and Chaparral Ice.) \nNo partner necessary & beginners are welcome. All dances are taught and called. \nBeginners: Be ready to dance at 7:00pm for easier dances and fuller instruction!  \nPlease wear (or even better, bring) clean dance shoes to protect this lovely dance floor. Thanks! \nThis is a fragrance-free event. \nDance sponsored by TAADA"
@@ -328151,6 +328185,44 @@ events:
     price: $5-$10
     organisation: Tucson Friends of Traditional Music%2C Inc.
     source: events/usa/cdss.yaml
+  - name: Santa Fe Contra Dance
+    details: "Instruction at 6:30 and dancing starts at 7:00PM. Everyone is welcome at contra dancing, no partner required. For more details about contra or the FolkMADS organization, see our website."
+    links:
+      - "https://folkmads.org/events/"
+      - "https://cdss.org/event/santa-fe-contra-dance/2026-11-21/"
+    start: "2026-11-21T18:30:00-07:00"
+    end: "2026-11-21T22:00:00-07:00"
+    country: USA
+    state: NM
+    city: Santa Fe
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10
+    organisation: FolkMADS
+    source: events/usa/cdss.yaml
+  - name: 3rd Saturdays Contra Dance
+    details: "Live music, historic ballroom, sprung dance floor, beginner/refresher session at 6:40pm. Dance 7-10pm. Doors open 6:30. $15. Potluck snacks/treats at halftime! \nElks Lodge in downtown Grass Valley: 109 S. School St., 95945 (fairly easy parking on street and town lots); across from the Center for the Arts. Check our website for band & caller info."
+    links:
+      - "https://www.contradancenc.org/"
+      - "https://cdss.org/event/3rd-saturdays-contra-dance-grass-valley-ca-3-2/2026-11-21/"
+    start: "2026-11-21T18:40:00-08:00"
+    end: "2026-11-21T22:00:00-08:00"
+    country: USA
+    state: CA
+    city: Grass Valley
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Community Band of the Foothills
+    callers:
+      - Mike Fynan
+    price: $10-$15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: Monterey Contra Dance
     details: "Monterey Country Dance Community holds contra dances most first Sundays and third Saturdays, unless otherwise noted in our schedules and calendars. Come alone or bring a friend—beginners are always welcome! \n\nFirst Sundays: Lessons at 3:40 PM; dance from 4–7 PM\nThird Saturdays: Lessons at 6:40; dance from 7–10 PM.\n\n​Prices: \n\n$15-$30, sliding scale, general admission\n$10-$25, members of MCDC, BACDS, CDSS or other sister organizations;\n$5, active military & full-time students, with ID;\nFREE! for children 12 & under"
     links:
@@ -328167,6 +328239,23 @@ events:
     social: true
     price: $5-$30
     organisation: Monterey Country Dance Community
+    source: events/usa/cdss.yaml
+  - name: Santa Rosa Contra
+    details: "Contra dance with live music, and callers. \nAdmission $15 NBCDS/BACDS/CDSS members; $20 not-yet-members. First time dancers get in free — arrive at 6:30 pm for a newcomers’ orientation. \n\nNBCDS dances are fragrance-free events. Please refrain from wearing scented products.\nYou are invited to bring snacks to share at the break.\nBring a water bottle & stay hydrated!"
+    links:
+      - "https://nbcds.org/contra-dance/"
+      - "https://cdss.org/event/santa-rosa-contra/2026-11-21/"
+    start: "2026-11-21T19:00:00-08:00"
+    end: "2026-11-21T22:00:00-08:00"
+    country: USA
+    state: CA
+    city: Santa Rosa
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15-$20
+    organisation: North Bay Country Dance Society
     source: events/usa/cdss.yaml
   - name: Balfolk Utrecht
     details: "Bal in de Moira met Duo De Schepper-Sanczuk en Bamako Expres. Mis het niet! Koop je kaartje online om verzekerd te zijn van een plekje.\r\n\r\nVoor meer informatie over de workshop, kijk hier: https://www.plug.events/event/balfolk-utrecht-workshop-muzikaliteit-met-155"
@@ -330701,7 +330790,7 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
-  - name: Interactive Folkdance Workshop
+  - name: Leveling Up Your Mazurka
     details: Course
     links:
       - "https://stanistil.be/event/73"
@@ -332337,6 +332426,23 @@ events:
     social: false
     organisation: Balfolkfabriek
     source: events/netherlands/plug_balfolk.yaml
+  - name: Folk Dance for Beginners - Level 1
+    details: Course
+    links:
+      - "https://frissefolk.be/en/event-en/folk-dance-for-beginners-level-1-mechelen/1505/"
+      - "https://folkbalbende.be/event/5205"
+      - "https://www.facebook.com/events/1708647980595071"
+    start: "2027-01-09T13:15:00+01:00"
+    end: "2027-01-09T18:15:00+01:00"
+    country: Belgium
+    city: Mechelen
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €20-€60
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
   - name: Bal en Soir
     links:
       - "https://www.facebook.com/events/1130504046165099/"
@@ -332926,6 +333032,25 @@ events:
       - Elijah Jaime
     organisation: TryContra
     source: events/usa/trycontra.yaml
+  - name: Winter Workshop for Intermediates & Advanced
+    details: Course
+    links:
+      - "https://eledanse.be/we-2701-en/"
+      - "https://eledanse.be/event/bal-folk-kourander/"
+      - "https://folkbalbende.be/event/5203"
+    start: "2027-01-22T17:00:00+01:00"
+    end: "2027-01-24T17:00:00+01:00"
+    country: Belgium
+    city: Genval
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Kouran Der
+    price: €120-€170
+    organisation: EléDanse ASBL
+    source: events/belgium/folkbalbende.yaml
   - name: Folk Inferno XXIII
     details: "Balfolk in Zwolle gaat door in seizoen '26-'27.\r\nWe gaan de mooiste bands voor jullie boeken!\r\n\r\nAlvast in je agenda:\r\n25 september 2026\r\n27 november 2026\r\n22 januari 2027\r\n12 maart 2027\r\n28-30mei 2027"
     links:
@@ -335056,6 +335181,21 @@ events:
     price: £240-£470
     organisation: Halsway Manor
     source: events/uk/halsway.yaml
+  - name: Dansavond
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
+    links:
+      - "https://www.plug.events/event/dansavond680"
+    start: "2027-03-23T19:30:00+01:00"
+    end: "2027-03-23T22:30:00+01:00"
+    country: Netherlands
+    city: Zeist
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €5
+    organisation: Balfolk Zeist
+    source: events/netherlands/plug_balfolk.yaml
   - name: Thursday Balfolk
     details: "Beginner-intermediate balfolk class in Fairfield, VIC,  3078"
     links:
@@ -335190,6 +335330,21 @@ events:
     price: free
     organisation: Balfolk Oxford
     source: events/uk/oxford.yaml
+  - name: Dansavond
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
+    links:
+      - "https://www.plug.events/event/dansavond5368"
+    start: "2027-03-30T19:30:00+02:00"
+    end: "2027-03-30T22:30:00+02:00"
+    country: Netherlands
+    city: Zeist
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €5
+    organisation: Balfolk Zeist
+    source: events/netherlands/plug_balfolk.yaml
   - name: Epicenter
     links:
       - "https://nbcds.org/"
