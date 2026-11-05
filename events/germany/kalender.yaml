@@ -2197,17 +2197,18 @@ events:
     links:
       - "https://ka-balfolk.de/termine-elementor/"
       - "https://kalender.digital/574d155c91900caea879/event/1008285137"
-    start: "2026-11-20T20:00:00+01:00"
+    start: "2026-11-20T17:30:00+01:00"
     end: "2026-11-20T23:00:00+01:00"
     country: Germany
     city: Karlsruhe
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - GrandLoup
-      - Vagalan
+      - La Madelaine
+    price: €15-€32
     organisation: KA-BalFolk
   - name: Tib in Viernheim
     links:
@@ -2271,8 +2272,8 @@ events:
     links:
       - "https://ka-balfolk.de/termine-elementor/"
       - "https://kalender.digital/574d155c91900caea879/event/3435559585"
-    start: "2027-02-06T20:00:00+01:00"
-    end: "2027-02-06T23:00:00+01:00"
+    start: "2027-02-05T20:00:00+01:00"
+    end: "2027-02-05T23:00:00+01:00"
     country: Germany
     city: Karlsruhe
     styles:
@@ -2280,6 +2281,7 @@ events:
     workshop: false
     social: true
     bands:
+      - Avalanche
       - Folk My Life!
     organisation: KA-BalFolk
   - name: Balfolk Stuttgart
@@ -2295,18 +2297,21 @@ events:
     workshop: false
     social: true
     organisation: Balfolk Stuttgart
-  - name: Silvain Piron & Catherine Paira-Piron
+  - name: BalFolk
     details: BalFolk
     links:
+      - "https://balhaus.de/"
       - "https://kalender.digital/574d155c91900caea879/event/4412610138"
-    start: "2027-03-06T20:00:00+01:00"
+    start: "2027-03-06T16:00:00+01:00"
     end: "2027-03-06T23:59:59+01:00"
     country: Germany
     city: Göppingen
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Catherine & Sylvain Piron
     organisation: BalFolk Initiative Rechberghausen
   - name: Tib Viernheim
     links:
@@ -2380,7 +2385,7 @@ events:
     workshop: false
     social: true
     organisation: Gabi Haun
-  - name: "Tanztag am Bodensee,"
+  - name: Tanztag am Bodensee
     links:
       - "https://kalender.digital/574d155c91900caea879/event/4419393710"
     start: "2027-04-25T12:00:00+02:00"
@@ -2392,9 +2397,10 @@ events:
     workshop: false
     social: true
     bands:
+      - "Duo l'Hêtre Heureux"
       - Viadeyra
     organisation: Sönke
-  - name: Tanz in den Mai MaJoPlus
+  - name: Tanz in den Mai
     details: BalFolk
     links:
       - "https://kalender.digital/574d155c91900caea879/event/4412604973"
@@ -2409,7 +2415,7 @@ events:
     bands:
       - MaJoPlus
     organisation: BalFolk Initiative Rechberghausen
-  - name: "Tanztag am Bodensee,"
+  - name: Tanztag am Bodensee
     links:
       - "https://kalender.digital/574d155c91900caea879/event/4419409572"
     start: "2027-06-06T12:00:00+02:00"
@@ -2420,13 +2426,17 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - AER
+      - Andreas & Rudi
+      - Bougnat Sound
     organisation: Sönke
   - name: KA-Balfolk
     links:
       - "https://ka-balfolk.de/termine-elementor/"
       - "https://kalender.digital/574d155c91900caea879/event/3435583974"
-    start: "2027-09-25T20:00:00+02:00"
-    end: "2027-09-25T23:00:00+02:00"
+    start: "2027-09-24T20:00:00+02:00"
+    end: "2027-09-24T23:00:00+02:00"
     country: Germany
     city: Karlsruhe
     styles:
@@ -2435,6 +2445,7 @@ events:
     social: true
     bands:
       - EmBRUN
+      - Tatane
     organisation: KA-BalFolk
   - name: Tib Viernheim
     links:
@@ -2462,6 +2473,8 @@ events:
     social: true
     bands:
       - Boccadoro
+      - "Dirty Caps'"
+      - Marion & Steve
     organisation: Sönke
   - name: Balfolk Stuttgart
     details: Altes Feuerwehrhaus Süd
@@ -2498,9 +2511,11 @@ events:
     city: Überlingen
     styles:
       - balfolk
+      - scandi
     workshop: false
     social: true
     bands:
+      - Johanna & Henning
       - Philu
     organisation: Sönke
   - name: Tib Viernheim
