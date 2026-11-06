@@ -328587,6 +328587,63 @@ events:
     price: €14-€26
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: North Jersey English Country Dancers
+    details: "Our dances are on the second and fourth Sunday of every month, always with live music and friendly dancers. No partner needed – come alone or with a friend! Introduction for newcomers at 1:50 pm. In the summer, we enjoy ice cream during the break. \nOur Fabulous Callers:\nAlex Deis-Lauby\nDorothy Cummings\nDaniel Popowich\nHelen White\nJudi Rivkin\nMargaret Bary\nOrly Krasner\nPaul Ross \nOur Tiny Orchestra:\nDiane Fedora – bassoon\nDominik Landowne – violin, viola\nDonn Williams – mandolin\nNorma Castle – flute, percussion\nRobin Russell – piano \nSometimes with:\nDanny Elias – clarinet\nLisa Terry – viola da gamba\nMarnen Laibow-Koser -​ various"
+    links:
+      - "https://www.northjerseyenglishcountrydancers.org/"
+      - "https://cdss.org/event/north-jersey-english-country-dancers-2nd-and-4th-sundays/2026-11-22/"
+    start: "2026-11-22T13:50:00-05:00"
+    end: "2026-11-22T17:00:00-05:00"
+    country: USA
+    state: NJ
+    city: Ridgewood
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    callers:
+      - Orly Krasner
+    price: $20
+    organisation: North Jersey English Country Dancers
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "Twice-monthly Sunday afternoons of dancing. International folk dance from 1 p.m. on. Mixers, balfolk, waltz at 3 p.m. English country after 3:30 p.m. Called by Mady Newfield, Tammy Bretscher and occasional guests, mostly recorded music. \n$5-$10 suggested donation."
+    links:
+      - "https://www.chicagolandecd.org/local-dancing"
+      - "https://cdss.org/event/english-country-dance-following-international-folk-dance-in-glen-ellyn-2/2026-11-22/"
+    start: "2026-11-22T15:00:00-06:00"
+    end: "2026-11-22T18:00:00-06:00"
+    country: USA
+    state: IL
+    city: Glen Ellyn
+    styles:
+      - balfolk
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Mady Newfield
+      - Tammy Bretscher
+    price: $5-$10
+    organisation: Chicagoland English Country Dancers
+    source: events/usa/cdss.yaml
+  - name: 4th Sunday Albuquerque Contra Dance
+    details: "Everyone is welcome at contra dancing, no partner required. For more details about contra or FolkMADS organization, see our website at folkmads.org \nAll dances are Pay What You Want – suggested $10/person, $10-20/family."
+    links:
+      - "https://folkmads.org/events/"
+      - "https://cdss.org/event/4th-sunday-monthly-albuquerque-nm-contra-dance-6/2026-11-22/"
+    start: "2026-11-22T14:00:00-07:00"
+    end: "2026-11-22T17:00:00-07:00"
+    country: USA
+    state: NM
+    city: Albuquerque
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $10
+    organisation: New Mexico Folk Music &amp%3B Dance Society
+    source: events/usa/cdss.yaml
   - name: Scottish Country Dance
     details: Social dance of Scotland. Does not require a partner
     links:
@@ -335716,6 +335773,7 @@ events:
       - "https://stanistil.be/event/68"
       - "https://folkbalbende.be/event/4943"
       - "https://folkbalbende.be/event/5202"
+      - "https://www.facebook.com/events/1114059694722603"
     start: "2027-04-04T13:00:00+02:00"
     end: "2027-04-04T18:00:00+02:00"
     country: Belgium
@@ -335893,6 +335951,21 @@ events:
       - Gaye Fifer
     organisation: North Texas Traditional Dance Society (NTTDS)
     source: events/usa/cdss.yaml
+  - name: Balfolk in der Alten Roggenschenke
+    details: Balfolk und Tanzworkshop
+    links:
+      - "http://www.herzallerliebst-musik.de"
+      - "https://kalender.digital/574d155c91900caea879/event/4425268178"
+    start: "2027-04-10T16:00:00+02:00"
+    end: "2027-04-10T23:59:59+02:00"
+    country: Germany
+    city: Roggenburg
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Herzallerliebst
+    source: events/germany/kalender.yaml
   - name: Contra Dance Ball
     links:
       - "https://contradance-ka.wixsite.com/home-eng/events"
@@ -338062,6 +338135,22 @@ events:
     price: £7-£15
     organisation: Contrabridge
     source: events/uk/contrabridge.yaml
+  - name: Skandia First Friday LIVE
+    details: "<html-blob><u></u><span><strong>Skandia members, $10; nonmembers, $15; kids, free  The price of admission includes a free dance class.</strong></span><br><br>Teaching: 7:30-8:30 p.m. No partner is required. </html-blob><br><html-blob><br><u></u></html-blob>"
+    links:
+      - "https://skandia-folkdance.org/"
+    start: "2027-11-05T19:30:00-07:00"
+    end: "2027-11-05T22:30:00-07:00"
+    country: USA
+    state: WA
+    city: Lynnwood
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    price: $10-$15
+    organisation: Skandia Folkdance Society
+    source: events/usa/skandia.yaml
   - name: "Tanztag am Bodensee, schwedisch"
     details: "Johanna und Henning aus Schweden, Philu aus der Schweiz"
     links:
