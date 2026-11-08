@@ -328915,6 +328915,40 @@ events:
     price: $10
     organisation: Gainesville English Country Dance
     source: events/usa/cdss.yaml
+  - name: Cincinnati Monday Night Contra
+    details: "Cincinnati Contra Dance Local dancing at the Wyoming Arts Center \nMonday dances start at 7:30 pm with a free intro session at 7:00 pm. The dances run from 7:30 pm to 9:30 pm. \nSuggested donation:\n$2 Full time students\nChildren 12 & under free\n$5 Adults\nAll are welcome! \nAny donation is much appreciated to help sustain our dance.\nLarger donations can be tax deductible if you inform Larry Lankford, CCD"
+    links:
+      - "https://www.cincinnaticontradance.org/dance-schedule"
+      - "https://cdss.org/event/monday-night-contra/2026-11-23/"
+    start: "2026-11-23T19:00:00-05:00"
+    end: "2026-11-23T21:30:00-05:00"
+    country: USA
+    state: OH
+    city: Wyoming
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $2-$5
+    organisation: Cincinnati Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Knoxville Monday Night Contra
+    details: "Contra dancing to live music every Monday evening in Knoxville, TN. The dance begins at 7:30 with a lesson for new folks starting at 7:00. Everyone welcome."
+    links:
+      - "https://www.knoxvillecontra.org/schedule"
+      - "https://cdss.org/event/knoxville-monday-night-contra/2026-11-23/"
+    start: "2026-11-23T19:00:00-05:00"
+    end: "2026-11-23T22:30:00-05:00"
+    country: USA
+    state: TN
+    city: Knoxville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Knoxville Contra Dance
+    source: events/usa/cdss.yaml
   - name: Nashville Monday Night English Country Dance Class
     details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
     links:
@@ -328948,6 +328982,42 @@ events:
     social: true
     price: $5-$10
     organisation: Chicago Barn Dance Company
+    source: events/usa/cdss.yaml
+  - name: Louisville Contra Dance
+    details: "Louisville, Kentucky’s weekly Monday night contra dance, always featuring live music from the Monday Night All Stars open band! Dancing is 8:00-10:30pm with a beginner’s lesson at 7:30pm. Waltzing and snacks available at the break. Check out our website for details on the caller and special performances. Open calling on 5th Mondays!"
+    links:
+      - "https://www.louisvillecountrydancers.org/dance-with-us-1"
+      - "https://cdss.org/event/louisville-contra-dance/2026-11-23/"
+    start: "2026-11-23T19:30:00-05:00"
+    end: "2026-11-23T22:30:00-05:00"
+    country: USA
+    state: KY
+    city: Louisville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Monday Night All Stars
+    price: $5-$10
+    organisation: Louisville Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Austin English Country Dance
+    details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
+    links:
+      - "https://taada.us/wp/events/"
+      - "https://cdss.org/event/austin-english-country-dance/2026-11-23/"
+    start: "2026-11-23T19:15:00-06:00"
+    end: "2026-11-23T21:30:00-06:00"
+    country: USA
+    state: TX
+    city: Austin
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $5
+    organisation: CDSS
     source: events/usa/cdss.yaml
   - name: Scandinavian Weekly Dance
     details: "Come join our weekly Scandinavian dance.  We do Scandinavian couple dance (primarily Swedish).  “Learn to Pivot and Perfect Your Hambo”.  No partner is needed, but low-friction, hard-soled shoes are necessary so that you will be able to pivot (spin) on the beautiful Avalon floors.  Pivoting easily and frequently is a common feature of fast-turning Polska and Pols dancing.  We teach the first hour, but attendance at our fall Basics Class or previous polska/pols dance or other dance experience is very helpful. \nWe almost always dance to live music featuring fiddle, nyckelharpa, accordion, and hardanger fiddle. \nCome dance with us every Monday night (except when Monday falls on or very near a major holiday).  We teach the first hour, followed by open dancing."
@@ -329057,6 +329127,75 @@ events:
     price: €5
     organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
+  - name: Hayesville Contra Dance
+    details: "Welcome to the very first contra dance series at the recently renovated Elf School of the Arts! People are welcome to come on their own, with a partner, or with the whole family. No experience or fancy clothing is needed. Folks are also invited to enjoy live music from local bands even if they don’t want to dance. \nBands The Wildflower Pickers and Paddy’s Return are performing lively tunes for the dances. Both groups regularly perform at the John C. Campbell Folk School. \nHarrison Keely, a Brasstown-based dance caller who teaches barn dances for parties, weddings, and communities around the southeast, will call most of the dances. He is a regular on the John C. Campbell Folk School schedule. \n$5-15 donation suggested"
+    links:
+      - "https://cdss.org/event/hayesville-contra-dance-2/2026-11-24/"
+      - "https://www.facebook.com/events/1094361916469601/1094361929802933/"
+    start: "2026-11-24T19:00:00-05:00"
+    end: "2026-11-24T21:00:00-05:00"
+    country: USA
+    state: NC
+    city: Hayesville
+    styles:
+      - contra
+    workshop: false
+    social: true
+    callers:
+      - Harrison Keely
+    price: $5-$15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: English Country Dance for all
+    details: "Join us on Tuesdays in the West Village for a friendly evening of social dance. Our programs include early dances circa 1651 to contemporary choreographies. English Country Dance (ECD) has been enjoyed by the likes of Jane Austen and Thomas Jefferson, and you are invited to join in the pleasures of this community social dance. English dances and their tunes vary from elegant to energetic and from stately to boisterous, and you will experience all these facets of English Country Dance in an evening as you dance to live music. You can see many examples of ECD at Childgrove on YouTube. \nNewcomers are always welcome at CDNY, where all dances are taught. A skills session is offered after the third dance of the evening for English Country dances. If you choose to participate, you will receive more in-depth teaching of terms and dance figures, then rejoin the group. \nThe steps are simple: generally walking or skipping. You can come by yourself and be assured of dancing throughout the evening, since our tradition is to change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience. ECD will satisfy your wish for an artistic outlet, pleasurable exercise, a warm social community, mental stimulation, and transcendent aesthetic experiences. We invite you to join us! \nAdmission to our dances is on a sliding scale: \nMembers: $15-20; \nNon-members: $20-25; \nFull-time Students: $10"
+    links:
+      - "https://cdny.org/calendar-events"
+      - "https://cdss.org/event/english-country-dance-for-all/2026-11-24/"
+    start: "2026-11-24T19:00:00-05:00"
+    end: "2026-11-24T22:00:00-05:00"
+    country: USA
+    state: NY
+    city: New York
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10-$25
+    organisation: Country Dance * New York
+    source: events/usa/cdss.yaml
+  - name: Park Avenue Contra
+    details: Joyful community contra dancing on 2nd & 4th Tuesdays. Sit-in musicians welcome on 2nd Tuesdays for our By-Ear Open Band (tunes + other details on our website).
+    links:
+      - "https://parkavenuecontra.org/"
+      - "https://cdss.org/event/park-avenue-contra-swarthmore-pa-2/2026-11-24/"
+    start: "2026-11-24T19:30:00-05:00"
+    end: "2026-11-24T21:30:00-05:00"
+    country: USA
+    state: PA
+    city: Swarthmore
+    styles:
+      - contra
+    workshop: false
+    social: true
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: English Country Dance Class
+    details: "Whether you are brand new or LOVE this style of dancing, Tuesday nights in Pasadena is where you learn the skills to dance with elegance and ease! It’s a great mid-week pick-me-up with dance friends old and new. We dance on the 2nd, 4th, and 5th Tuesday of the month. \nPay $10 at the door, and pre-register on our website to receive all of the pertinent details! \nPlan on sticking around for after-hours socializing and getting the latest details on a favorite dance, the next ball, or that costume question you always wanted to ask."
+    links:
+      - "https://historicalteaanddance.org/#Tuesdaydances"
+      - "https://cdss.org/event/english-country-dance-classes-in-pasadena/2026-11-24/"
+    start: "2026-11-24T19:15:00-08:00"
+    end: "2026-11-24T21:30:00-08:00"
+    country: USA
+    state: CA
+    city: Pasadena
+    styles:
+      - ecd
+    workshop: true
+    social: false
+    price: $10
+    organisation: Historical Tea & Dance Society
+    source: events/usa/cdss.yaml
   - name: Dance Class Level 2
     details: Course
     links:
@@ -329150,6 +329289,93 @@ events:
     price: free
     organisation: London Balfolk
     source: events/uk/london_balfolk.yaml
+  - name: English Country Dance for All
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:15 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition."
+    links:
+      - "https://oldfarmersball.com/english-country-dance/"
+      - "https://cdss.org/event/asheville-english-country-dance-for-all/2026-11-25/"
+    start: "2026-11-25T18:15:00-05:00"
+    end: "2026-11-25T20:30:00-05:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: free
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: English Country Dance at Guiding Star Grange
+    details: "Join us in Greenfield for an evening of English Country Dancing. Lively, elegant, and fun: English country dances from 1650 to today, with a rotating cast of stellar musicians and callers.   \nCost: $10-$20, sliding scale. \nSee venue website for this month’s details and Covid policy."
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+      - "https://cdss.org/event/second-fourth-wednesday-english-country-dance-at-guiding-star-grange/2026-11-25/"
+    start: "2026-11-25T19:00:00-05:00"
+    end: "2026-11-25T21:30:00-05:00"
+    country: USA
+    state: MA
+    city: Greenfield
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $10-$20
+    organisation: Graham Christian
+    source: events/usa/cdss.yaml
+  - name: Princeton Country Dancers’ Contra Dance
+    details: "Weekly contra dance on Wednesday nights, 8:00-10:30."
+    links:
+      - "https://www.princetoncountrydancers.org/"
+      - "https://cdss.org/event/princeton-country-dancers-contra-dance/2026-11-25/"
+    start: "2026-11-25T19:30:00-05:00"
+    end: "2026-11-25T22:30:00-05:00"
+    country: USA
+    state: NJ
+    city: Princeton
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Richmond English Country Dance
+    details: "Please join us for our weekly English Country Dancing Wednesday night social at 7:30 p.m. All dances are taught, walked through, and called. No experience or partner are required, just a pair of comfortable shoes. New dancers are asked to please come at at least 10 minutes before the start of the session. The first night is free; after that $2 per evening."
+    links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
+      - "https://cdss.org/event/richmond-va-english-country-dance-2-2/2026-11-25/"
+    start: "2026-11-25T19:30:00-05:00"
+    end: "2026-11-25T21:30:00-05:00"
+    country: USA
+    state: VA
+    city: Richmond
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
+    source: events/usa/cdss.yaml
+  - name: Berkeley English Dance
+    details: "BACDS presents a dance every Wednesday (contra on 1st/3rd/5th Wed 8pm-10:30pm; English on 2nd/4th Wed 7:45pm-10pm) at Christ Church East Bay, 2138 Cedar St. (near Oxford), Berkeley. Both series include an introductory lesson about 15-20 minutes before the dance start time."
+    links:
+      - "https://www.bacds.org/series/english/berkeley_wed/"
+      - "https://cdss.org/event/berkeley-contra-or-english-dance/2026-11-25/"
+    start: "2026-11-25T19:25:00-08:00"
+    end: "2026-11-25T22:00:00-08:00"
+    country: USA
+    state: CA
+    city: Berkeley
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    callers:
+      - David Newitt
+    price: $6-$25
+    organisation: Bay Area Country Dance Society
+    source: events/usa/cdss.yaml
   - name: Thursday Balfolk
     details: "Beginner-intermediate balfolk class in Fairfield, VIC,  3078"
     links:
@@ -332088,17 +332314,22 @@ events:
     organisation: ~
     source: events/belgium/folkbalbende.yaml
   - name: Kerstspecial in de Mezrab
-    details: "Met kerst maken we er altijd een extra speciaal feestje van bij Balfolk Amsterdam. Verwacht een sfeervol verlichtte Mezrab, een dubbele hoofdact en nét dat extra beetje feestgevoel. We kunnen niet wachten om de programmmering bekend te maken."
+    details: "Een extra speciaal feestje bij Balfolk Amsterdam met dit maal een propvol podium met nieuw en oud lokaal talent en natuurlijk een sfeervol gedecoreerde Mezrab\r\nHet bal wordt feestelijk geopend door legendarische Nederlandse droneformatie Chardon, die in de Mezrab hun terugkeer maken. Daarna kunnen de voetjes nogmaals los op Baftig Constellation, waarin het jonge folkbloed van Duo Baftig en Celtic Constellation samenkruipt voor een zeskoppig ensemble. \r\n\r\nLET OP: Vanwege de kerstspecial zal er deze keer GEEN workshop voor beginners zijn. Kom op tijd!"
     links:
+      - "https://balfolkamsterdam.nl/balfolk-social-december"
       - "https://www.plug.events/event/kerstspecial-in-de-mezrab"
-    start: "2026-12-20T15:30:00+01:00"
-    end: "2026-12-20T22:00:00+01:00"
+    start: "2026-12-20T15:45:00+01:00"
+    end: "2026-12-20T22:15:00+01:00"
     country: Netherlands
     city: Amsterdam
     styles:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - Baftig Constellation
+      - Chardon
+    price: €22.50-€25
     organisation: Balfolk Amsterdam
     source: events/netherlands/plug_balfolk.yaml
   - name: Bal de la Cabane du Bout du Monde
@@ -333240,6 +333471,24 @@ events:
     price: donation
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Social Dance in de Mezrab
+    details: De Mezrab host iedere derde zondag van de maand het leukste balfolkfeestje van Amsterdam. We beginnen 2027 met Thalas uit België en de gloednieuwe combi Duo Pollepel.
+    links:
+      - "https://www.plug.events/event/social-dance-in-de-mezrab-met-thales-en-duo-pollep"
+    start: "2027-01-17T16:15:00+01:00"
+    end: "2027-01-17T22:00:00+01:00"
+    country: Netherlands
+    city: Amsterdam
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Duo Pollepel
+      - Thalas
+    price: €19.50-€21
+    organisation: Balfolk Amsterdam
+    source: events/netherlands/plug_balfolk.yaml
   - name: Bal Folk
     details: "Bands: Naragonia\n\nGefeiert auf allen Bal-Folk-Festivals Europas\n\nVorsichtig herantastend, lockend, ein wenig geheimnisvoll – und dann geradeheraus, mit Schwung und großer Freude, immer weiter. Naragonias Musik erzählt und begeistert: klarer, feiner Sound, detailreiche Phrasierungen und abwechslungsreiche Arrangements. Pascale Rubens und Toon Van Mierlo haben die Folkszene im Sturm erobert, und ihre Kompositionen werden heute gespielt, als wären es Traditionals. Stücke wie „Samen op de Tractor“ bleiben unvergesslich.\n\nIhre Melodien führen durch endlose Weiten und verwinkelte Labyrinthe, und hinter jeder Biegung wartet eine neue Überraschung voller Spielfreude. Mal leise und zart, mal laut und kräftig. Man weiß nicht mehr, ob man einfach nur tanzen, tanzen möchte oder mittendrin innehalten, zuhören und sich in den Zwischenräumen der Melodien verlieren.\n\nToon Van Mierlo: Sopransaxophon, Dudelsack, diatonisches Akkordeon\nPascale Rubens: Diatonisches Akkordeon, Geige, Gesang"
     links:
@@ -334732,6 +334981,20 @@ events:
     price: £8
     organisation: Contrafusion
     source: events/uk/contrafusion.yaml
+  - name: Social Dance in de Mezrab
+    details: De Mezrab host iedere derde zondag van de maand het leukste balfolkfeestje van Amsterdam.  We kunnen niet wachten om meer over het programma bekend te maken.
+    links:
+      - "https://www.plug.events/event/social-dance-in-de-mezrab-save-the-date7"
+    start: "2027-02-21T16:15:00+01:00"
+    end: "2027-02-21T22:00:00+01:00"
+    country: Netherlands
+    city: Amsterdam
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Balfolk Amsterdam
+    source: events/netherlands/plug_balfolk.yaml
   - name: Beginner class at Univ Heights Center
     details: "<p><span>The class resumes on Mondays from 7-9 pm starting on September 14, at the University Heights Center near UW.  It will run through December 14 and then start up again on January 4, 2027.  FREE! </span></p><p><span>The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don&#39;t have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
     links:
@@ -334929,6 +335192,20 @@ events:
     price: £7-£15
     organisation: Contrabridge
     source: events/uk/contrabridge.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-27-2-27-london-scottish-house/"
+    start: "2027-02-27T20:00:00+00:00"
+    end: "2027-02-27T23:00:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £21-£27
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
   - name: Le Bal des Possibles
     details: Ball
     links:
@@ -335157,8 +335434,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Acam
       - AMano
+      - Acam
     organisation: Folknam Musique Trad
     source: events/belgium/folkbalbende.yaml
   - name: Skandia First Friday LIVE
@@ -335226,6 +335503,24 @@ events:
     social: true
     organisation: Gabi Haun
     source: events/germany/kalender.yaml
+  - name: Social Dance in de Mezrab
+    details: Let op! Vanwege locatiebeschikbaarheid zijn we er in maart op de EERSTE zondag van de maand met het leukste balfolkfeestje van Amsterdam! Op het programma accordeonduo  Bellowing Bellows van Lolita Pariaud en Jonathan de Neck en Celtic Constellations komt ook weer terug!
+    links:
+      - "https://www.plug.events/event/social-dance-in-de-mezrab-met-bellowing-bellows-en"
+    start: "2027-03-07T16:15:00+01:00"
+    end: "2027-03-07T22:00:00+01:00"
+    country: Netherlands
+    city: Amsterdam
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Bellowing Bellows
+      - Celtic Constellation
+    price: €19.50-€21
+    organisation: Balfolk Amsterdam
+    source: events/netherlands/plug_balfolk.yaml
   - name: Bal-boeuf Folk
     details: Ball
     links:
@@ -336574,6 +336869,24 @@ events:
       - Kenny Greer
     organisation: TryContra
     source: events/usa/trycontra.yaml
+  - name: Cabal
+    details: Ball
+    links:
+      - "https://www.cabalfolk.be/"
+      - "https://folkbalbende.be/event/5207"
+    start: "2027-04-24T19:30:00+02:00"
+    end: "2027-04-25T00:30:00+02:00"
+    country: Belgium
+    city: Kortrijk
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - TriOblique
+      - Petit Piment
+    organisation: CaBal
+    source: events/belgium/folkbalbende.yaml
   - name: 19e Nuit du Trad
     details: Ball
     links:
@@ -337409,6 +337722,24 @@ events:
     price: $10-$15
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Cabal
+    details: Ball
+    links:
+      - "https://www.cabalfolk.be/"
+      - "https://folkbalbende.be/event/5208"
+    start: "2027-06-05T19:30:00+02:00"
+    end: "2027-06-06T00:30:00+02:00"
+    country: Belgium
+    city: Kortrijk
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Cam&Léo
+      - Trio MD&A
+    organisation: CaBal
+    source: events/belgium/folkbalbende.yaml
   - name: Tanztag am Bodensee
     links:
       - "https://kalender.digital/574d155c91900caea879/event/4419409572"
@@ -337951,6 +338282,24 @@ events:
     price: $10-$15
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Cabal
+    details: Ball
+    links:
+      - "https://www.cabalfolk.be/"
+      - "https://folkbalbende.be/event/5209"
+    start: "2027-09-11T19:30:00+02:00"
+    end: "2027-09-12T00:30:00+02:00"
+    country: Belgium
+    city: Kortrijk
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Accordzéâm
+      - Geronimo
+    organisation: CaBal
+    source: events/belgium/folkbalbende.yaml
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
@@ -338260,13 +338609,13 @@ events:
       - Le Mange Bal
     organisation: Spreefolk e.V.
     source: events/germany/spreefolk.yaml
-  - name: CaBal
+  - name: Cabal Maximal
     details: Ball
     links:
       - "https://www.cabalfolk.be/"
       - "https://folkbalbende.be/event/5054"
-    start: "2027-10-09T19:30:00+02:00"
-    end: "2027-10-10T00:00:00+02:00"
+    start: "2027-10-09T13:00:00+02:00"
+    end: "2027-10-10T01:00:00+02:00"
     country: Belgium
     city: Kortrijk
     styles:
@@ -338274,6 +338623,10 @@ events:
     workshop: true
     social: true
     bands:
+      - Boccadoro
+      - Ciac Boum
+      - Drøn
+      - Duo Clercx
       - Novar
     price: €22
     organisation: CaBal
@@ -338552,6 +338905,24 @@ events:
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
+  - name: Cabal
+    details: Ball
+    links:
+      - "https://www.cabalfolk.be/"
+      - "https://folkbalbende.be/event/5210"
+    start: "2027-11-27T19:30:00+01:00"
+    end: "2027-11-28T00:30:00+01:00"
+    country: Belgium
+    city: Kortrijk
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Fahrenheit
+      - Hot Griselda
+    organisation: CaBal
+    source: events/belgium/folkbalbende.yaml
   - name: Friday Folk Saturday Special
     links:
       - "https://fridayfolk.org.uk/"
