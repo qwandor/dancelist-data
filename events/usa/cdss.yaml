@@ -46081,6 +46081,7 @@ events:
       - contra
     workshop: true
     social: true
+    price: $5-$10
     organisation: Knoxville Contra Dance
   - name: Nashville Monday Night English Country Dance Class
     details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
@@ -46103,7 +46104,7 @@ events:
     links:
       - "https://www.cincinnaticontradance.org/dance-schedule"
       - "https://cdss.org/event/monday-night-contra/2026-11-23/"
-    start: "2026-11-23T19:30:00-05:00"
+    start: "2026-11-23T19:00:00-05:00"
     end: "2026-11-23T21:30:00-05:00"
     country: USA
     state: OH
@@ -46135,7 +46136,7 @@ events:
     links:
       - "https://www.louisvillecountrydancers.org/dance-with-us-1"
       - "https://cdss.org/event/louisville-contra-dance/2026-11-23/"
-    start: "2026-11-23T20:00:00-05:00"
+    start: "2026-11-23T19:30:00-05:00"
     end: "2026-11-23T22:30:00-05:00"
     country: USA
     state: KY
@@ -46146,13 +46147,14 @@ events:
     social: true
     bands:
       - Monday Night All Stars
+    price: $5-$10
     organisation: Louisville Country Dancers
   - name: Austin English Country Dance
     details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
     links:
       - "https://taada.us/wp/events/"
       - "https://cdss.org/event/austin-english-country-dance/2026-11-23/"
-    start: "2026-11-23T19:30:00-06:00"
+    start: "2026-11-23T19:15:00-06:00"
     end: "2026-11-23T21:30:00-06:00"
     country: USA
     state: TX
@@ -46167,6 +46169,7 @@ events:
     details: "Welcome to the very first contra dance series at the recently renovated Elf School of the Arts! People are welcome to come on their own, with a partner, or with the whole family. No experience or fancy clothing is needed. Folks are also invited to enjoy live music from local bands even if they don’t want to dance. \nBands The Wildflower Pickers and Paddy’s Return are performing lively tunes for the dances. Both groups regularly perform at the John C. Campbell Folk School. \nHarrison Keely, a Brasstown-based dance caller who teaches barn dances for parties, weddings, and communities around the southeast, will call most of the dances. He is a regular on the John C. Campbell Folk School schedule. \n$5-15 donation suggested"
     links:
       - "https://cdss.org/event/hayesville-contra-dance-2/2026-11-24/"
+      - "https://www.facebook.com/events/1094361916469601/1094361929802933/"
     start: "2026-11-24T19:00:00-05:00"
     end: "2026-11-24T21:00:00-05:00"
     country: USA
@@ -46176,11 +46179,9 @@ events:
       - contra
     workshop: false
     social: true
-    bands:
-      - Nova
     callers:
       - Harrison Keely
-    price: $5
+    price: $5-$15
     organisation: CDSS
   - name: English Country Dance for all
     details: "Join us on Tuesdays in the West Village for a friendly evening of social dance. Our programs include early dances circa 1651 to contemporary choreographies. English Country Dance (ECD) has been enjoyed by the likes of Jane Austen and Thomas Jefferson, and you are invited to join in the pleasures of this community social dance. English dances and their tunes vary from elegant to energetic and from stately to boisterous, and you will experience all these facets of English Country Dance in an evening as you dance to live music. You can see many examples of ECD at Childgrove on YouTube. \nNewcomers are always welcome at CDNY, where all dances are taught. A skills session is offered after the third dance of the evening for English Country dances. If you choose to participate, you will receive more in-depth teaching of terms and dance figures, then rejoin the group. \nThe steps are simple: generally walking or skipping. You can come by yourself and be assured of dancing throughout the evening, since our tradition is to change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience. ECD will satisfy your wish for an artistic outlet, pleasurable exercise, a warm social community, mental stimulation, and transcendent aesthetic experiences. We invite you to join us! \nAdmission to our dances is on a sliding scale: \nMembers: $15-20; \nNon-members: $20-25; \nFull-time Students: $10"
@@ -46234,7 +46235,7 @@ events:
     links:
       - "https://oldfarmersball.com/english-country-dance/"
       - "https://cdss.org/event/asheville-english-country-dance-for-all/2026-11-25/"
-    start: "2026-11-25T18:30:00-05:00"
+    start: "2026-11-25T18:15:00-05:00"
     end: "2026-11-25T20:30:00-05:00"
     country: USA
     state: NC
@@ -46243,6 +46244,7 @@ events:
       - ecd
     workshop: true
     social: true
+    price: free
     organisation: CDSS
   - name: English Country Dance at Guiding Star Grange
     details: "Join us in Greenfield for an evening of English Country Dancing. Lively, elegant, and fun: English country dances from 1650 to today, with a rotating cast of stellar musicians and callers.   \nCost: $10-$20, sliding scale. \nSee venue website for this month’s details and Covid policy."
@@ -46281,30 +46283,34 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2026-11-25/"
-    start: "2026-11-25T20:00:00-05:00"
+    start: "2026-11-25T19:30:00-05:00"
     end: "2026-11-25T22:30:00-05:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
-  - name: Berkeley Contra or English Dance
+  - name: Berkeley English Dance
     details: "BACDS presents a dance every Wednesday (contra on 1st/3rd/5th Wed 8pm-10:30pm; English on 2nd/4th Wed 7:45pm-10pm) at Christ Church East Bay, 2138 Cedar St. (near Oxford), Berkeley. Both series include an introductory lesson about 15-20 minutes before the dance start time."
     links:
+      - "https://www.bacds.org/series/english/berkeley_wed/"
       - "https://cdss.org/event/berkeley-contra-or-english-dance/2026-11-25/"
-    start: "2026-11-25T19:30:00-08:00"
-    end: "2026-11-25T22:30:00-08:00"
+    start: "2026-11-25T19:25:00-08:00"
+    end: "2026-11-25T22:00:00-08:00"
     country: USA
     state: CA
     city: Berkeley
     styles:
-      - contra
       - ecd
     workshop: true
     social: true
+    callers:
+      - David Newitt
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: Eugene Celebration
     details: "An English and Scottish country dance weekend just outside Eugene, Oregon. \nDance Leaders: Lindsey Dono and Melissa Running\nMusicians: Anita Anderson (piano), Sarah Wilfong (violin), and David Greenberg (violin)\nSound Enhancement: Clint Wolford"
