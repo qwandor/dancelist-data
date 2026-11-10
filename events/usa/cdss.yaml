@@ -27864,7 +27864,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Box The Gnat
+      - Box the Gnat
     callers:
       - Tommy van Deusen
     price: $4-$15
@@ -46465,7 +46465,7 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-combination-contra-and-english-country-dance/2026-11-28/"
-    start: "2026-11-28T19:30:00-05:00"
+    start: "2026-11-28T19:00:00-05:00"
     end: "2026-11-28T22:30:00-05:00"
     country: USA
     state: NJ
@@ -46475,13 +46475,15 @@ events:
       - ecd
     workshop: true
     social: true
+    price: $15
     organisation: CDSS
+    cancelled: true
   - name: Richmond Saturday Evening Contra Dance
     details: "Join us in Richmond, VA for a Saturday evening contra dance, hosted by TADAMS, at the West End Ballroom. Beginner lesson at 6:45pm, dance from 7:30-10:30pm. Please see our full website calendar for band and caller details. Admission is $15 non-members, $10 members & students, children under 13 are free."
     links:
       - "https://tadamsva.org/dances/"
       - "https://cdss.org/event/richmond-saturday-evening-contra-dance-sponsored-by-tadams/2026-11-28/"
-    start: "2026-11-28T19:30:00-05:00"
+    start: "2026-11-28T18:45:00-05:00"
     end: "2026-11-28T22:30:00-05:00"
     country: USA
     state: VA
@@ -46513,7 +46515,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2026-11-28/"
-    start: "2026-11-28T20:00:00-06:00"
+    start: "2026-11-28T19:30:00-06:00"
     end: "2026-11-28T23:00:00-06:00"
     country: USA
     state: MN
@@ -46522,8 +46524,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Box the Gnat
     callers:
-      - Beau Farmer
+      - Amy Letson
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: 4th Saturdays Contra Dance
@@ -46556,6 +46560,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: Mendocino English Country Dance
     details: "Mendocino English Country Dance, Live Music provided by “Take a Dance” the Mendocino ECD Orchestra. Beginners and newcomers always welcome. \n$15 or free"
@@ -46582,8 +46587,8 @@ events:
     start: "2026-11-29T13:00:00-05:00"
     end: "2026-11-29T16:00:00-05:00"
     country: USA
-    state: Brownsville
-    city: 22 Hartland-Brownsville Rd
+    state: VT
+    city: Brownsville
     styles:
       - ecd
     workshop: false
@@ -46608,6 +46613,7 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $5
     organisation: Louisville English Country Dancers
   - name: Houston English Country Dance
     details: "Houston Area Traditional Dance Society (HATDS) hosts English dances on the 1st, 3rd, and most 5th Sundays at First Lutheran Church, 1311 Holman Street, Houston, TX 77004. \nDancing starts at 2:45 and goes until 5:15. \nWe dance to recorded music. $10 pays the rent."
@@ -47102,6 +47108,7 @@ events:
   - name: Hey Days Dance and Music Week
     details: "Hey Days, the Bay Area Country Dance Society’s English Country Dance and Music Week, at Green Mountain Retreat in the Santa Cruz mountains near Los Gatos, California is a wonderful week of dancing, singing, music-making, and friendship, with a good dose of merry abandon. We offer classes in English country dance, ritual/display dance, song, and music workshops. We promise a program that will challenge and delight both new and experienced participants, complete with campers’ night, camper grab bag sessions, parties, and a daily gathering for campers and staff to share hidden talents. \n$1500 (with work-trade, youth, and need-based scholarships)"
     links:
+      - "https://heydays.bacds.org/"
       - "https://cdss.org/event/hey-days-dance-and-music-week/"
     start_date: 2027-06-13
     end_date: 2027-06-20
@@ -47112,7 +47119,14 @@ events:
       - ecd
     workshop: true
     social: true
-    price: $1500
+    bands:
+      - Persons of Quality
+    callers:
+      - David Millstone
+      - Jenna Simpson
+      - Juliette Webb
+      - Luanne Stiles
+    price: $535-$1500
     organisation: Bay Area Country Dance Society
   - name: 76th National Square Dance Convention
     details: "Enjoy hours and hours of contra dancing and related traditional dance (English, squares, community dance) at the 76th NSDC in Loveland, CO. Registration is open and the cost is currently $90 per adult for more than 3 days of constant dancing.   \nContra callers! If you register by Dec. 31, 2026, you can be included as a caller in the Contra Hall! 3,000 attendees are expected at this national square dance convention! \nMore information available as we get closer to the date!"
