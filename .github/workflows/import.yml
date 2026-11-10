@@ -69,6 +69,7 @@ jobs:
         continue-on-error: true
       - name: Import burghausen
         run: dancelist import burghausen events/germany/burghausen.yaml
+        continue-on-error: true
       - name: Import skandia
         run: dancelist import skandia events/usa/skandia.yaml
       - name: Import stroud
