@@ -46872,15 +46872,16 @@ events:
     links:
       - "https://www.princetoncountrydancers.org/"
       - "https://cdss.org/event/princeton-country-dancers-contra-dance/2026-12-02/"
-    start: "2026-12-02T20:00:00-05:00"
+    start: "2026-12-02T19:30:00-05:00"
     end: "2026-12-02T22:30:00-05:00"
     country: USA
     state: NJ
     city: Princeton
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: CDSS
   - name: Weekly Austin Contra Dance
     details: "A free weekly dance at Hancock Recreation Center, with music by the jam/pickup band, Local On-Call Orchestra (LOCO). We dance every week that Hancock Recreation Center is open. A brief beginners session is taught at 7:30, before the dance program begins. Dance ends about 9:30. Free parking lot.\n \n\nWe welcome beginners. If you can walk to a beat, you can contra dance! All dances are taught and called. No partner necessary. Dance either role – or both. Everyone is welcome. \n \nSober event. Family-friendly. LGBTQ+"
@@ -46888,7 +46889,7 @@ events:
       - "https://austinbarndancers.org/"
       - "https://taada.us/wp/events/"
       - "https://cdss.org/event/weekly-austin-contra-dance/2026-12-02/"
-    start: "2026-12-02T19:30:00-06:00"
+    start: "2026-12-02T19:15:00-06:00"
     end: "2026-12-02T21:30:00-06:00"
     country: USA
     state: TX
@@ -46915,22 +46916,25 @@ events:
       - contra
     workshop: true
     social: true
-    price: $10
+    price: $7-$10
     organisation: Spokane Folklore Society
-  - name: Berkeley Contra or English Dance
+  - name: Berkeley Contra Dance
     details: "BACDS presents a dance every Wednesday (contra on 1st/3rd/5th Wed 8pm-10:30pm; English on 2nd/4th Wed 7:45pm-10pm) at Christ Church East Bay, 2138 Cedar St. (near Oxford), Berkeley. Both series include an introductory lesson about 15-20 minutes before the dance start time."
     links:
+      - "https://bacds.org/series/contra/berkeley_wed/"
       - "https://cdss.org/event/berkeley-contra-or-english-dance/2026-12-02/"
     start: "2026-12-02T19:30:00-08:00"
-    end: "2026-12-02T22:30:00-08:00"
+    end: "2026-12-02T22:00:00-08:00"
     country: USA
     state: CA
     city: Berkeley
     styles:
       - contra
-      - ecd
     workshop: true
     social: true
+    callers:
+      - Celia Ramsay
+    price: $6-$25
     organisation: Bay Area Country Dance Society
   - name: Gentle English
     details: "English Country Dancing for those who enjoy relaxed tempos and familiar figures. Jenny Beer leading, music by laptop."
@@ -46948,6 +46952,7 @@ events:
     social: true
     callers:
       - Jenny Beer
+    price: $5-$10
     organisation: CDSS
   - name: Eugene Celebration
     details: "An English and Scottish country dance weekend just outside Eugene, Oregon. \nDance Leaders: Lindsey Dono and Melissa Running\nMusicians: Anita Anderson (piano), Sarah Wilfong (violin), and David Greenberg (violin)\nSound Enhancement: Clint Wolford"
@@ -47015,8 +47020,9 @@ events:
     city: Winter Park
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $15
     organisation: Orlando Contra Dance
   - name: Seacoast Contra Dance
     details: "Join us for music, movement, and community at First Fridays at Seacoast Contra! \nSchedule\n7:30 PM – Newcomer Lesson\n8:00–10:30 PM – Dancing\nAll dances are taught. No partner or experience needed. \nAdmission\nAdults: Sliding Scale $12–$20\nStudents: $10\nFamilies: $20\nChildren under 12: Free \nDance First, Pay Never!\nIf money’s tight, you can dance for free by volunteering:\nDoor greeting\nSetup or cleanup\nDance Angel for newcomers\nVolunteer sign-up \nCome dance, make new friends, and kick off the new year with us at Seacoast Contra!"
@@ -47073,6 +47079,7 @@ events:
       - Alchemy
     callers:
       - Gene Murrow
+    price: $15-$25
     organisation: Lambertville Country Dancers
   - name: Friday Contra Dance
     details: "All are welcome to come and dance! You don’t need to bring a partner. Contra dancing is easy to learn. We have beginners’ lessons for anyone who hasn’t done it before, or wants a reminder. \n$7 – $25, pay what you can."
@@ -47108,6 +47115,7 @@ events:
   - name: Friday Night English Dance
     details: "For details about venue, callers, or musicians, please go to our website, or email ecd-chair@portlandcountrydance.org \nSliding scale: $7 – $20."
     links:
+      - "https://portlandcountrydance.org/calendar/?mc_id=6508"
       - "https://cdss.org/event/pcdc-friday-night-english-dance-2/2026-12-04/"
     start: "2026-12-04T19:30:00-08:00"
     end: "2026-12-04T22:30:00-08:00"
@@ -47118,11 +47126,14 @@ events:
       - ecd
     workshop: false
     social: true
+    callers:
+      - Cynthia Stenger
     price: $7-$20
     organisation: Portland Country Dance Community
   - name: Syracuse Country Dancers Double Contra Dance
     details: "Music by Sister Haggis; calling by Katy Heine\nAdvanced dance in the afternoon, dancing for all in the evening."
     links:
+      - "https://syracusecountrydancers.org/upcoming-dances/"
       - "https://cdss.org/event/syracuse-country-dancers-double-contra-dance/"
     start: "2026-12-05T14:00:00-05:00"
     end: "2026-12-05T22:00:00-05:00"
@@ -47137,6 +47148,7 @@ events:
       - Sister Haggis
     callers:
       - Katy Heine
+    price: $25
     organisation: Syracuse Country Dancers
   - name: Scissortail English Country Dance
     details: "Scissortail English Country Dance in Oklahoma City, first Saturday of the month. Check our Facebook or our website for more details!"
@@ -47152,10 +47164,12 @@ events:
       - ecd
     workshop: false
     social: true
+    price: $15
     organisation: Scissortail Traditional Dance Society
-  - name: Contra dance with live music and caller
+  - name: Goshen Community Contra Dance
     details: "Goshen Community Contra Dancing Celebrates its 25th! Season of Dancing Contras, Squares, Reels, Circles & Waltzes in Downtown Goshen. \n\nNo experience or partner needed. New dancers are always welcome and are invited to the beginners’ workshop at 6:30pm. The dance will follow immediately from 7:00-10:00pm.\nAlways live local and regional bands, and all dances are led by experienced callers.\nSee the full schedule on our website.\nWear layers of comfortable, lightweight clothing and shoes for active movement.\nYou’ll be dancing on a springy wood floor!\n\nDances held every first Saturday of the month September–June.  \nAdmission: Pay what you can. $5-$20 suggested donation.\nChildren under 12: Free"
     links:
+      - "https://godancing.org/"
       - "https://cdss.org/event/contra-dance-with-live-music-and-caller/2026-12-05/"
     start: "2026-12-05T18:30:00-05:00"
     end: "2026-12-05T22:00:00-05:00"
@@ -47182,6 +47196,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $10-$20
     organisation: CDSS
   - name: "Swingin' Tern Contra Dance"
     details: "Our contra dances are held every first and third Saturday evening year-round from 7:30pm–10:30pm with a beginners’ workshop at 7pm.  We have occasional double dances along with a New Year’s Eve dance. \nOur full calendar \nUseful Information:\n\nNewcomers are welcome to come at 7pm for an introductory lesson on the basics of contra dancing. No partner is necessary. All dances are taught with a “walk-through” by the caller.\nWe no longer require vaccination. Masks are optional.\nAll dances at Swingin’ Tern are called to the gender-neutral terms Larks & Robins. Dance whatever role you’re comfortable in.\nWe are air-conditioned. We have windows on three sides when we want to let the breeze come in.\nOur dance is two blocks from the Chatham station on the Morris/Essex line out of Penn Station, NYC.\nWe welcome contributions of home-baked [or not] goodies to share at the break.\nPlease bring your own water bottle. Water bottles may be filled at the kitchen sink.\nWear comfortable clothing. Contra dancing is aerobic. We prefer you carry in your shoes.\nWe are a friendly, inclusive group. Pack plenty of smiles!\n\n$15 adults/$5 students"
@@ -47220,7 +47235,7 @@ events:
     links:
       - "https://birdsborocontra.org/our-schedule/"
       - "https://cdss.org/event/birdsboro-contra-dance/2026-12-05/"
-    start: "2026-12-05T19:30:00-05:00"
+    start: "2026-12-05T19:10:00-05:00"
     end: "2026-12-05T22:30:00-05:00"
     country: USA
     state: PA
@@ -47268,7 +47283,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/contra"
       - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2026-12-05/"
-    start: "2026-12-05T20:00:00-06:00"
+    start: "2026-12-05T19:30:00-06:00"
     end: "2026-12-05T23:00:00-06:00"
     country: USA
     state: MN
@@ -47277,8 +47292,10 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Flour City Doughboys
     callers:
-      - Beau Farmer
+      - Ted Hodapp
     price: $4-$15
     organisation: Tapestry Folkdance Center
   - name: Santa Fe Contra Dance
@@ -47286,7 +47303,7 @@ events:
     links:
       - "https://folkmads.org/events/"
       - "https://cdss.org/event/santa-fe-contra-dance/2026-12-05/"
-    start: "2026-12-05T19:00:00-07:00"
+    start: "2026-12-05T18:30:00-07:00"
     end: "2026-12-05T22:00:00-07:00"
     country: USA
     state: NM
@@ -47311,7 +47328,7 @@ events:
       - ecd
     workshop: true
     social: true
-    price: $12-$88
+    price: $12-$15
     organisation: Capital English Country Dancers
   - name: Houston English Country Dance
     details: "Houston Area Traditional Dance Society (HATDS) hosts English dances on the 1st, 3rd, and most 5th Sundays at First Lutheran Church, 1311 Holman Street, Houston, TX 77004. \nDancing starts at 2:45 and goes until 5:15. \nWe dance to recorded music. $10 pays the rent."
@@ -47350,7 +47367,7 @@ events:
     links:
       - "https://www.tapestryfolkdance.org/english-country-dance"
       - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center-3/2026-12-06/"
-    start: "2026-12-06T19:00:00-06:00"
+    start: "2026-12-06T18:30:00-06:00"
     end: "2026-12-06T21:00:00-06:00"
     country: USA
     state: MN
@@ -47359,9 +47376,7 @@ events:
       - ecd
     workshop: false
     social: true
-    bands:
-      - Anytime English Players
-    price: $4-$15
+    price: $4-$12
     organisation: Tapestry Folkdance Center
   - name: Petaluma Contra Dance
     details: Join us for a contra dance in the North Bay!
@@ -47376,6 +47391,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $20
     organisation: North Bay Country Dance Society
   - name: Nashville Monday Night English Country Dance Class
     details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
