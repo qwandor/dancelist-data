@@ -332534,8 +332534,8 @@ events:
     price: free
     organisation: London Balfolk
     source: events/uk/london_balfolk.yaml
-  - name: Thursday Balfolk
-    details: "Beginner-intermediate balfolk class in Fairfield, VIC,  3078"
+  - name: Thursday Balfolk + Contra
+    details: "Beginner-intermediate balfolk and contra class in Fairfield, VIC,  3078"
     links:
       - "https://events.humanitix.com/melbourne-balfolk"
       - "https://www.instagram.com/melbourne.balfolk/"
@@ -332546,8 +332546,11 @@ events:
     city: Melbourne
     styles:
       - balfolk
+      - contra
     workshop: true
     social: false
+    callers:
+      - Stevie Browne
     price: $5-15
     organisation: Melbourne Balfolk
     source: events/australia/melbourne.yaml
