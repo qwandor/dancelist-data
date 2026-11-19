@@ -318539,7 +318539,7 @@ events:
     social: true
     bands:
       - Assabiya
-      - Kouran der
+      - Kouran Der
     price: free
     organisation: ~
     source: events/belgium/folkbalbende.yaml
@@ -321587,7 +321587,7 @@ events:
     links:
       - "https://parkavenuecontra.org/"
       - "https://cdss.org/event/park-avenue-contra-swarthmore-pa-2/2026-10-27/"
-    start: "2026-10-27T19:30:00-04:00"
+    start: "2026-10-27T19:15:00-04:00"
     end: "2026-10-27T21:30:00-04:00"
     country: USA
     state: PA
@@ -321596,6 +321596,7 @@ events:
       - contra
     workshop: false
     social: true
+    price: $1-$15
     organisation: CDSS
     source: events/usa/cdss.yaml
   - name: English Country Dance Class
@@ -325052,15 +325053,16 @@ events:
     links:
       - "https://parkavenuecontra.org/"
       - "https://cdss.org/event/park-avenue-contra-swarthmore-pa/2026-11-10/"
-    start: "2026-11-10T19:30:00-05:00"
+    start: "2026-11-10T19:15:00-05:00"
     end: "2026-11-10T21:30:00-05:00"
     country: USA
     state: PA
     city: Swarthmore
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    price: $1-$15
     organisation: Jenny Beer
     source: events/usa/cdss.yaml
   - name: Saint Louis Queer Contra
@@ -326389,7 +326391,7 @@ events:
       - Balbelutte
       - Gullivan
       - BARMS
-      - "O'tchalai"
+      - "O'tchalaï"
       - Accords Perdus
     price: €30
     organisation: ~
@@ -326450,7 +326452,7 @@ events:
     city: Amsterdam
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Duo Baftig
@@ -328062,8 +328064,8 @@ events:
     workshop: false
     social: true
     bands:
-      - Cyra
       - Jonathan De Neck
+      - Cyra
     price: €15
     organisation: ~
     source: events/belgium/folkbalbende.yaml
@@ -329261,15 +329263,20 @@ events:
     links:
       - "https://parkavenuecontra.org/"
       - "https://cdss.org/event/park-avenue-contra-swarthmore-pa-2/2026-11-24/"
-    start: "2026-11-24T19:30:00-05:00"
+    start: "2026-11-24T19:15:00-05:00"
     end: "2026-11-24T21:30:00-05:00"
     country: USA
     state: PA
     city: Swarthmore
     styles:
       - contra
-    workshop: false
+    workshop: true
     social: true
+    bands:
+      - Box & String
+    callers:
+      - Jenny Beer
+    price: $1-$15
     organisation: CDSS
     source: events/usa/cdss.yaml
   - name: English Country Dance Class
@@ -329709,6 +329716,7 @@ events:
   - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
+      - "https://www.facebook.com/events/1872236133741027/"
     start: "2026-11-27T19:45:00+00:00"
     end: "2026-11-27T23:00:00+00:00"
     country: UK
@@ -330359,7 +330367,6 @@ events:
     details: Ball
     links:
       - "https://www.trois-quatre.art/le-bal-des-possibles"
-      - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4875"
       - "https://www.facebook.com/events/1836089860725442"
     start: "2026-11-29T15:00:00+01:00"
@@ -330373,8 +330380,8 @@ events:
     bands:
       - La Marmite Folk
       - StatiK
-    price: free
-    organisation: ~
+    price: donation
+    organisation: 3...4
     source: events/belgium/folkbalbende.yaml
   - name: Workshop & Bal
     details: "Een gezellig bal in het hoge noorden met Odevare, na een intressante workshop van Leo Visser.\r\nMet tussendoor een moment om na je dansskills ook je culinaire skills aan het licht te brengen met een gezellige potluck. (Dus neem wat lekkers mee en vergeet geen bordje of bestek)\r\n\r\nWorkshop Bretonse dansen en branle de Noirmoutier:\r\nhttps://www.plug.events/event/workshop-bretonse-dansen-en-branle-de-noir494"
@@ -330428,6 +330435,7 @@ events:
       - Jill Delaney
     price: $15-$20
     organisation: Jill Delaney
+    cancelled: true
     source: events/usa/cdss.yaml
   - name: Louisville English Country Dance
     details: Louisville English Country Dance meets on the 2nd and last Sundays of most months. Please check our website for details.
@@ -332670,6 +332678,25 @@ events:
     price: $10-$25
     organisation: Country Dance * New York
     source: events/usa/cdss.yaml
+  - name: Park Avenue Contra
+    details: Joyful community contra dancing on 2nd & 4th Tuesdays. Sit-in musicians welcome on 2nd Tuesdays for our By-Ear Open Band (tunes + other details on our website).
+    links:
+      - "https://parkavenuecontra.org/"
+      - "https://cdss.org/event/park-avenue-contra-swarthmore-pa/2026-12-08/"
+    start: "2026-12-08T19:15:00-05:00"
+    end: "2026-12-08T21:30:00-05:00"
+    country: USA
+    state: PA
+    city: Swarthmore
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Alex Burka
+    price: $1-$15
+    organisation: Jenny Beer
+    source: events/usa/cdss.yaml
   - name: Saint Louis Queer Contra
     details: "Come on out to Saint Louis Queer Contra \nSecond Tuesdays 7-9 pm (Lesson 6:45) at Focal Point – 2720 Sutton, Maplewood, MO\nOne of the most wholesome, friendly, and affirming things to do in St. Louis! \nAll dances taught, non-gendered calling, live music – no partner or experience needed."
     links:
@@ -332686,6 +332713,23 @@ events:
     social: true
     price: $10
     organisation: SheDances
+    source: events/usa/cdss.yaml
+  - name: English Country Dance Class
+    details: "Whether you are brand new or LOVE this style of dancing, Tuesday nights in Pasadena is where you learn the skills to dance with elegance and ease! It’s a great mid-week pick-me-up with dance friends old and new. We dance on the 2nd, 4th, and 5th Tuesday of the month. \nPay $10 at the door, and pre-register on our website to receive all of the pertinent details! \nPlan on sticking around for after-hours socializing and getting the latest details on a favorite dance, the next ball, or that costume question you always wanted to ask."
+    links:
+      - "https://historicalteaanddance.org/#Tuesdaydances"
+      - "https://cdss.org/event/english-country-dance-classes-in-pasadena/2026-12-08/"
+    start: "2026-12-08T19:15:00-08:00"
+    end: "2026-12-08T21:30:00-08:00"
+    country: USA
+    state: CA
+    city: Pasadena
+    styles:
+      - ecd
+    workshop: true
+    social: false
+    price: $10
+    organisation: Historical Tea & Dance Society
     source: events/usa/cdss.yaml
   - name: Balfolk Open les
     details: Course
@@ -332781,6 +332825,115 @@ events:
     price: free
     organisation: London Balfolk
     source: events/uk/london_balfolk.yaml
+  - name: English Country Dance for All
+    details: "English Country Dance. All levels welcome, newcomers through advanced dancers. Skills session at 6:15 pm. Occasional live music. Please bring clean, soft-soled shoes and a sunny disposition."
+    links:
+      - "https://oldfarmersball.com/english-country-dance/"
+      - "https://cdss.org/event/asheville-english-country-dance-for-all/2026-12-09/"
+    start: "2026-12-09T18:15:00-05:00"
+    end: "2026-12-09T20:30:00-05:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: free
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: English Country Dance at Guiding Star Grange
+    details: "Join us in Greenfield for an evening of English Country Dancing. Lively, elegant, and fun: English country dances from 1650 to today, with a rotating cast of stellar musicians and callers.   \nCost: $10-$20, sliding scale. \nSee venue website for this month’s details and Covid policy."
+    links:
+      - "https://www.guidingstargrange.org/events.html"
+      - "https://cdss.org/event/second-fourth-wednesday-english-country-dance-at-guiding-star-grange/2026-12-09/"
+    start: "2026-12-09T19:00:00-05:00"
+    end: "2026-12-09T21:30:00-05:00"
+    country: USA
+    state: MA
+    city: Greenfield
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $10-$20
+    organisation: Graham Christian
+    source: events/usa/cdss.yaml
+  - name: Princeton Country Dancers’ Contra Dance
+    details: "Weekly contra dance on Wednesday nights, 8:00-10:30."
+    links:
+      - "https://www.princetoncountrydancers.org/"
+      - "https://cdss.org/event/princeton-country-dancers-contra-dance/2026-12-09/"
+    start: "2026-12-09T19:30:00-05:00"
+    end: "2026-12-09T22:30:00-05:00"
+    country: USA
+    state: NJ
+    city: Princeton
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Richmond English Country Dance
+    details: "Please join us for our weekly English Country Dancing Wednesday night social at 7:30 p.m. All dances are taught, walked through, and called. No experience or partner are required, just a pair of comfortable shoes. New dancers are asked to please come at at least 10 minutes before the start of the session. The first night is free; after that $2 per evening."
+    links:
+      - "https://colonialdanceclubofrichmond.com/english-dance-calendar"
+      - "https://cdss.org/event/richmond-va-english-country-dance-2-2/2026-12-09/"
+    start: "2026-12-09T19:30:00-05:00"
+    end: "2026-12-09T21:30:00-05:00"
+    country: USA
+    state: VA
+    city: Richmond
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $2
+    organisation: Colonial Dance Club of Richmond
+    source: events/usa/cdss.yaml
+  - name: Weekly Austin Contra Dance
+    details: "A free weekly dance at Hancock Recreation Center, with music by the jam/pickup band, Local On-Call Orchestra (LOCO). We dance every week that Hancock Recreation Center is open. A brief beginners session is taught at 7:30, before the dance program begins. Dance ends about 9:30. Free parking lot.\n \n\nWe welcome beginners. If you can walk to a beat, you can contra dance! All dances are taught and called. No partner necessary. Dance either role – or both. Everyone is welcome. \n \nSober event. Family-friendly. LGBTQ+"
+    links:
+      - "https://austinbarndancers.org/"
+      - "https://taada.us/wp/events/"
+      - "https://cdss.org/event/weekly-austin-contra-dance/2026-12-09/"
+    start: "2026-12-09T19:30:00-06:00"
+    end: "2026-12-09T21:30:00-06:00"
+    country: USA
+    state: TX
+    city: Austin
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Local On-Call Orchestra
+    callers:
+      - Rich Goss
+    price: free
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Berkeley English Dance
+    details: "BACDS presents a dance every Wednesday (contra on 1st/3rd/5th Wed 8pm-10:30pm; English on 2nd/4th Wed 7:45pm-10pm) at Christ Church East Bay, 2138 Cedar St. (near Oxford), Berkeley. Both series include an introductory lesson about 15-20 minutes before the dance start time."
+    links:
+      - "https://www.bacds.org/series/english/berkeley_wed/"
+      - "https://cdss.org/event/berkeley-contra-or-english-dance/2026-12-09/"
+    start: "2026-12-09T19:25:00-08:00"
+    end: "2026-12-09T22:00:00-08:00"
+    country: USA
+    state: CA
+    city: Berkeley
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    callers:
+      - Sharon Green
+    price: $6-$25
+    organisation: Bay Area Country Dance Society
+    source: events/usa/cdss.yaml
   - name: Thursday Balfolk + Contra
     details: "Beginner-intermediate balfolk and contra class in Fairfield, VIC,  3078"
     links:
@@ -333874,12 +334027,10 @@ events:
   - name: Le Bal des Possibles
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda/"
       - "https://www.trois-quatre.art/le-bal-des-possibles"
-      - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4879"
     start: "2026-12-20T15:00:00+01:00"
-    end: "2026-12-20T19:30:00+01:00"
+    end: "2026-12-20T19:15:00+01:00"
     country: Belgium
     city: Chastre
     styles:
@@ -333889,8 +334040,8 @@ events:
     bands:
       - Glaneurs de Sons
       - Drøn
-    price: free
-    organisation: ~
+    price: donation
+    organisation: 3...4
     source: events/belgium/folkbalbende.yaml
   - name: Kerstspecial in de Mezrab
     details: "Een extra speciaal feestje bij Balfolk Amsterdam met dit maal een propvol podium met nieuw en oud lokaal talent en natuurlijk een sfeervol gedecoreerde Mezrab\r\nHet bal wordt feestelijk geopend door legendarische Nederlandse droneformatie Chardon, die in de Mezrab hun terugkeer maken. Daarna kunnen de voetjes nogmaals los op Baftig Constellation, waarin het jonge folkbloed van Duo Baftig en Celtic Constellation samenkruipt voor een zeskoppig ensemble. \r\n\r\nLET OP: Vanwege de kerstspecial zal er deze keer GEEN workshop voor beginners zijn. Kom op tijd!"
@@ -334061,8 +334212,8 @@ events:
     workshop: false
     social: true
     bands:
-      - Ragaerí
       - Bellowing Bellows
+      - Ragaerí
       - Tralala Lovers
     price: €29.25
     organisation: Boombal
@@ -335781,12 +335932,10 @@ events:
   - name: Le Bal des Possibles
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda/"
       - "https://www.trois-quatre.art/le-bal-des-possibles"
-      - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4882"
     start: "2027-01-31T15:00:00+01:00"
-    end: "2027-01-31T19:30:00+01:00"
+    end: "2027-01-31T19:15:00+01:00"
     country: Belgium
     city: Chastre
     styles:
@@ -335794,10 +335943,10 @@ events:
     workshop: true
     social: true
     bands:
-      - Aïe Mon Pied!
+      - Aïe Mon Pied!
       - Bellowing Bellows
-    price: free
-    organisation: ~
+    price: donation
+    organisation: 3...4
     source: events/belgium/folkbalbende.yaml
   - name: Balfolk Stroud
     details: Les Tontons Flingeurs presented by Balfolk Stroud Â£10
@@ -335981,7 +336130,7 @@ events:
     social: true
     bands:
       - La Turbine
-      - C2vives
+      - C2 Vives
     organisation: Folknam Musique Trad
     source: events/belgium/folkbalbende.yaml
   - name: Ceilidh Club
@@ -336928,12 +337077,10 @@ events:
   - name: Le Bal des Possibles
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda/"
       - "https://www.trois-quatre.art/le-bal-des-possibles"
-      - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4886"
     start: "2027-02-28T15:00:00+01:00"
-    end: "2027-02-28T19:30:00+01:00"
+    end: "2027-02-28T19:15:00+01:00"
     country: Belgium
     city: Chastre
     styles:
@@ -336943,8 +337090,8 @@ events:
     bands:
       - Amanite
       - "O'tchalaï"
-    price: free
-    organisation: ~
+    price: donation
+    organisation: 3...4
     source: events/belgium/folkbalbende.yaml
   - name: Carnaval Folk
     details: Ball
@@ -337170,8 +337317,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Acam
       - AMano
+      - Acam
     organisation: Folknam Musique Trad
     source: events/belgium/folkbalbende.yaml
   - name: Skandia First Friday LIVE
@@ -337891,12 +338038,10 @@ events:
   - name: Le Bal des Possibles
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda/"
       - "https://www.trois-quatre.art/le-bal-des-possibles"
-      - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4888"
     start: "2027-03-28T15:00:00+02:00"
-    end: "2027-03-28T19:30:00+02:00"
+    end: "2027-03-28T19:15:00+02:00"
     country: Belgium
     city: Chastre
     styles:
@@ -337905,8 +338050,9 @@ events:
     social: true
     bands:
       - La Turbine
-      - SYSTMB
-    organisation: ~
+      - SistMB
+    price: donation
+    organisation: 3...4
     source: events/belgium/folkbalbende.yaml
   - name: Bal Miniscule
     links:
@@ -338451,8 +338597,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Rémi Geffroy
       - Duo Montanaro-Cavez
+      - Rémi Geffroy
     price: €23.25-€27.25
     organisation: Boombal
     source: events/belgium/folkbalbende.yaml
@@ -338867,12 +339013,10 @@ events:
   - name: Le Bal des Possibles
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda/"
       - "https://www.trois-quatre.art/le-bal-des-possibles"
-      - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4892"
     start: "2027-04-25T15:00:00+02:00"
-    end: "2027-04-25T19:30:00+02:00"
+    end: "2027-04-25T19:15:00+02:00"
     country: Belgium
     city: Chastre
     styles:
@@ -338881,10 +339025,9 @@ events:
     social: true
     bands:
       - Stoemp
-      - Anouk
-      - Filippo
-    price: free
-    organisation: ~
+      - Duo Gambetta-Sanczuk
+    price: donation
+    organisation: 3...4
     source: events/belgium/folkbalbende.yaml
   - name: Wageningen Junushoff bal
     details: "De lente is er weer en het zijn niet alleen de bloemen die openen: De junushof ontvouwd ook haar deuren voor alle dansers. Kom genieten van een dansje en een hapje tijdens de potluck pauze. Ook dit keer weer met twee geweldige bands!\r\n\r\nBen je een nieuwe danser? Om 15:00 beginnen wij met een uurtje dansuitleg!\r\n\r\nEntree\r\n- Fair trade €30\r\n- Regulier €22.50\r\n- Korting €15\r\nBetalen kan contant of via een QR-code. Reserveren is niet nodig, er zijn altijd genoeg kaartjes beschikbaar."
@@ -339410,6 +339553,20 @@ events:
     price: donation
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Social Dance in de Mezrab
+    details: De Mezrab host iedere derde zondag van de maand het leukste balfolkfeestje van Amsterdam. We kunnen niet wachten om meer over het programma bekend te maken.
+    links:
+      - "https://www.plug.events/event/social-dance-in-de-mezrab-save-the-date4"
+    start: "2027-05-16T16:15:00+02:00"
+    end: "2027-05-16T22:00:00+02:00"
+    country: Netherlands
+    city: Amsterdam
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Balfolk Amsterdam
+    source: events/netherlands/plug_balfolk.yaml
   - name: Balfolk Open les
     details: Course
     links:
@@ -339520,6 +339677,20 @@ events:
     price: £10-£15
     organisation: Lancaster Contra
     source: events/uk/lancaster.yaml
+  - name: Irish Set Dance
+    details: "Ein Nachmittag voll Energie und Freude, anschließend gehen wir zusammen essen"
+    links:
+      - "https://kalender.digital/574d155c91900caea879/event/4529391141"
+    start: "2027-05-22T15:00:00+02:00"
+    end: "2027-05-22T19:00:00+02:00"
+    country: Germany
+    city: Frickingen
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    organisation: Sönke
+    source: events/germany/kalender.yaml
   - name: Contrabridge
     details: Join us for our contra dance (band and caller TBC).
     links:
@@ -339650,20 +339821,20 @@ events:
   - name: Le Bal des Possibles
     details: Ball
     links:
-      - "https://www.canardfolk.be/agenda/"
       - "https://www.trois-quatre.art/le-bal-des-possibles"
-      - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4894"
     start: "2027-05-30T15:00:00+02:00"
-    end: "2027-05-30T19:30:00+02:00"
+    end: "2027-05-30T19:15:00+02:00"
     country: Belgium
     city: Chastre
     styles:
       - balfolk
     workshop: true
     social: true
-    price: free
-    organisation: ~
+    bands:
+      - Second Souffle
+    price: donation
+    organisation: 3...4
     source: events/belgium/folkbalbende.yaml
   - name: Bal Folk
     details: "Akkordeon Solo – von funky bis fragil\n\nVerwurzelt in der traditionellen europäischen Folkmusik hat Hartwin Dhoore seinen eigenen modernen und einzigartigen Stil kreiert. Auf den ersten Blick elegant entspannt zeigen seine Kompositionen bei näherer Betrachtung eine unerwartete Tiefe und Ausdrucksstärke. Grandios! Aber wenn man ihn nach seiner Musik fragt, sagt er: „Musik ist vor allem etwas, das die Menschen verbindet. Und das ist etwas, was wir im Leben wirklich brauchen.“\nVon \"subtil, beinah fragil\" bis \"full-on funky\" charakterisiert die Fachpresse Hartwin Dhoores Akkordeonspiel. Wer das diatonische Akkordeon ein bisschen kennt, weiß, dass von funky bis fragil zwar alles drinsteckt, dass aber nur echte Freaks dieser extrem dynamischen Box all dies entlocken können. Hartwin kann es ...\n\nHartwin Dhoore: diatonisches Akkordeon\n\nhttps://hartwindhoore.com\n\nUnd hier ist noch ein Interview: https://www.revalfolk.ee/interview-hartwin-dhoore-bel/\n\nTanzworkshop 19:00 Uhr: Wir zeigen kurz die wichtigsten Tänze und Überlebenstricks für die Tanzfläche. Mit Live-Musik. Ohne Workshop geht auch – aber mit macht es noch mehr Spaß!\n\n \n\n \n\nhttps://www.youtube.com/watch?v=uKd2DImQp-o"
@@ -339864,6 +340035,20 @@ events:
     price: €8-€16
     organisation: "Rif Zans L'Fiesse"
     source: events/belgium/folkbalbende.yaml
+  - name: Irish set dance
+    details: "Ein Nachmittag voll Energie und Freude, anschließend gehen wir zusammen essen"
+    links:
+      - "https://kalender.digital/574d155c91900caea879/event/4529407787"
+    start: "2027-06-12T15:00:00+02:00"
+    end: "2027-06-12T19:00:00+02:00"
+    country: Germany
+    city: Frickingen
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    organisation: Sönke
+    source: events/germany/kalender.yaml
   - name: Folkbal
     details: Ball
     links:
@@ -340152,6 +340337,20 @@ events:
     price: $10-$15
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Irish set dance
+    details: "Ein Nachmittag voll Energie und Freude, anschließend gehen wir zusammen essen"
+    links:
+      - "https://kalender.digital/574d155c91900caea879/event/4529413419"
+    start: "2027-07-10T15:00:00+02:00"
+    end: "2027-07-10T19:00:00+02:00"
+    country: Germany
+    city: Frickingen
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    organisation: Sönke
+    source: events/germany/kalender.yaml
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
@@ -340416,6 +340615,20 @@ events:
     price: $10-$15
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Irish set dance
+    details: Ein Nachmittag voll Energie und Freude anschließend gehen wir zusammen essen
+    links:
+      - "https://kalender.digital/574d155c91900caea879/event/4529414805"
+    start: "2027-09-18T15:00:00+02:00"
+    end: "2027-09-18T19:00:00+02:00"
+    country: Germany
+    city: Frickingen
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    organisation: Sönke
+    source: events/germany/kalender.yaml
   - name: Stroud Ceilidh
     details: Dance to Belver with Hannah Moore presented by New Stroud Ceilidhs Â£15
     links:
@@ -340747,6 +340960,20 @@ events:
     price: $10-$15
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Irish set dance
+    details: Ein Nachmittag voll Energie und Freude anschließend gehen wir zusammen essen
+    links:
+      - "https://kalender.digital/574d155c91900caea879/event/4529417154"
+    start: "2027-10-16T15:00:00+02:00"
+    end: "2027-10-16T19:00:00+02:00"
+    country: Germany
+    city: Frickingen
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    organisation: Sönke
+    source: events/germany/kalender.yaml
   - name: Bal Macabre
     details: Ball
     links:
@@ -340944,6 +341171,20 @@ events:
       - Philu
     organisation: Sönke
     source: events/germany/kalender.yaml
+  - name: Irish set dance
+    details: Ein Nachmittag voll Energie und Freude anschließend gehen wir zusammen essen
+    links:
+      - "https://kalender.digital/574d155c91900caea879/event/4529423060"
+    start: "2027-11-13T15:00:00+01:00"
+    end: "2027-11-13T19:00:00+01:00"
+    country: Germany
+    city: Frickingen
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    organisation: Sönke
+    source: events/germany/kalender.yaml
   - name: London Barndance
     links:
       - "https://www.barndance.org/programme.html"
@@ -341077,6 +341318,20 @@ events:
     price: £7-£15
     organisation: Contrabridge
     source: events/uk/contrabridge.yaml
+  - name: Irish set dance
+    details: Ein Nachmittag voll Energie und Freude anschließend gehen wir zusammen essen
+    links:
+      - "https://kalender.digital/574d155c91900caea879/event/4529426149"
+    start: "2027-12-04T15:00:00+01:00"
+    end: "2027-12-04T19:00:00+01:00"
+    country: Germany
+    city: Frickingen
+    styles:
+      - irish-set
+    workshop: false
+    social: true
+    organisation: Sönke
+    source: events/germany/kalender.yaml
   - name: Tib Viernheim
     links:
       - "https://kalender.digital/574d155c91900caea879/event/3525682742"
@@ -341207,6 +341462,20 @@ events:
     social: true
     organisation: IVFDF
     source: events/uk/ivfdf.yaml
+  - name: Bristol Contra Dance
+    links:
+      - "https://bristolcontra.wordpress.com/"
+    start_date: 2028-05-19
+    end_date: 2028-05-19
+    country: UK
+    city: Bristol
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: £6-£18
+    organisation: Bristol Contra
+    source: events/uk/bristol_contra.yaml
   - name: "Grand Bal de l'Europe (Gennetines)"
     links:
       - "https://www.gennetines.org/en/les-dates-2025-et-apres/"
