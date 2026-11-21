@@ -106,13 +106,14 @@ events:
       - Terra Incognita
       - Clume
     organisation: "Rif Zans L'Fiesse"
-  - name: Cabal
+  - name: Folkbal
     details: Ball
     links:
-      - "https://www.cabalfolk.be/"
+      - "https://www.canardfolk.be/agenda/"
+      - "https://www.cabalfolk.be/#events"
       - "https://folkbalbende.be/event/3992"
-    start_date: 2026-12-19
-    end_date: 2026-12-19
+    start: "2026-12-19T19:30:00+01:00"
+    end: "2026-12-19T20:30:00+01:00"
     country: Belgium
     city: Kortrijk
     styles:
@@ -195,14 +196,15 @@ events:
       - Variomatic
       - Duo Mobilette
     organisation: Boombal
-  - name: Kerstboombal
+  - name: Folkbal
     details: Ball
     links:
-      - "https://www.boombal.be/agenda/kerstboombal-2026/"
+      - "https://www.canardfolk.be/agenda/"
+      - "https://boombal.be"
       - "https://folkbalbende.be/event/4363"
       - "https://www.facebook.com/events/1802142644553354"
-    start: "2026-12-26T20:00:00+01:00"
-    end: "2026-12-27T00:15:00+01:00"
+    start_date: 2026-12-26
+    end_date: 2026-12-26
     country: Belgium
     city: Gent
     styles:
@@ -211,18 +213,17 @@ events:
     social: true
     bands:
       - Bellowing Bellows
-      - Ragaerí
-      - Bellowing Bellows
       - Tralala Lovers
       - Ragaerí
     organisation: Boombal
-  - name: Krokusboombal
+  - name: Folkbal
     details: Ball
     links:
-      - "https://www.boombal.be/agenda/krokusboombal-2027/"
+      - "https://www.canardfolk.be/agenda/"
+      - "https://www.boombal.be/agenda/krokusboombal-2027"
       - "https://folkbalbende.be/event/4365"
     start: "2027-02-05T20:00:00+01:00"
-    end: "2027-02-05T22:45:00+01:00"
+    end: "2027-02-05T20:45:00+01:00"
     country: Belgium
     city: Gent
     styles:
@@ -233,13 +234,14 @@ events:
       - Cardboard Cabin
       - Duo Clercx
     organisation: Boombal
-  - name: Paasboombal
+  - name: Folkbal
     details: Ball
     links:
-      - "https://www.boombal.be/agenda/paasboombal-2027/"
+      - "https://www.canardfolk.be/agenda/"
+      - "https://www.boombal.be/agenda/paasboombal-2027"
       - "https://folkbalbende.be/event/4366"
     start: "2027-04-16T20:00:00+02:00"
-    end: "2027-04-16T22:45:00+02:00"
+    end: "2027-04-16T20:45:00+02:00"
     country: Belgium
     city: Gent
     styles:
@@ -250,13 +252,14 @@ events:
       - Rémi Geffroy
       - Duo Montanaro - Cavez
     organisation: Boombal
-  - name: Groot Boombal Gent
+  - name: Folkbal
     details: Ball
     links:
-      - "https://www.boombal.be/agenda/groot-boombal-gent-2027/"
+      - "https://www.canardfolk.be/agenda/"
+      - "https://www.boombal.be/agenda/groot-boombal-gent-2027"
       - "https://folkbalbende.be/event/4367"
     start: "2027-05-29T20:00:00+02:00"
-    end: "2027-05-29T22:45:00+02:00"
+    end: "2027-05-29T20:45:00+02:00"
     country: Belgium
     city: Gent
     styles:
@@ -313,23 +316,21 @@ events:
     bands:
       - Cave Canem
     organisation: "Pas d'La Yau"
-  - name: Bal Final
+  - name: Folkbal
     details: Ball
     links:
-      - "https://www.boombal.be/balfinal"
+      - "https://www.canardfolk.be/agenda/"
+      - "https://www.canardfolk.be/groupes/ultra-tagada/"
+      - "https://boombal.be/balfinal"
       - "https://folkbalbende.be/event/4814"
-    start: "2026-12-31T20:00:00+01:00"
-    end: "2027-01-01T02:45:00+01:00"
+    start_date: 2026-12-31
+    end_date: 2026-12-31
     country: Belgium
     city: Gent
     styles:
       - balfolk
     workshop: false
     social: true
-    bands:
-      - Airboxes XL
-      - Ultra Tagada
-      - Hot Griselda
     price: €32-€40
     organisation: Boombal
   - name: Folkbal
@@ -504,14 +505,16 @@ events:
     bands:
       - "Tout L'barda"
     organisation: ~
-  - name: Le Bal des Possibles
+  - name: Folkbal
     details: Ball
     links:
+      - "https://www.canardfolk.be/agenda/"
       - "https://www.trois-quatre.art/le-bal-des-possibles"
+      - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4875"
       - "https://www.facebook.com/events/1836089860725442"
     start: "2026-11-29T15:00:00+01:00"
-    end: "2026-11-29T19:10:00+01:00"
+    end: "2026-11-29T15:45:00+01:00"
     country: Belgium
     city: Chastre
     styles:
@@ -559,13 +562,15 @@ events:
     bands:
       - Les Glaneurs de Son
     organisation: ~
-  - name: Le Bal des Possibles
+  - name: Folkbal
     details: Ball
     links:
+      - "https://www.canardfolk.be/agenda/"
       - "https://www.trois-quatre.art/le-bal-des-possibles"
+      - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4879"
     start: "2026-12-20T15:00:00+01:00"
-    end: "2026-12-20T19:10:00+01:00"
+    end: "2026-12-20T15:45:00+01:00"
     country: Belgium
     city: Chastre
     styles:
@@ -593,15 +598,16 @@ events:
     social: true
     bands:
       - Lucas Lejeune et Ses Élèves
-      - Lucas Lejeune et Ses Élèves
     organisation: ~
-  - name: Le Bal des Possibles
+  - name: Folkbal
     details: Ball
     links:
+      - "https://www.canardfolk.be/agenda/"
       - "https://www.trois-quatre.art/le-bal-des-possibles"
+      - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4882"
     start: "2027-01-31T15:00:00+01:00"
-    end: "2027-01-31T19:10:00+01:00"
+    end: "2027-01-31T15:45:00+01:00"
     country: Belgium
     city: Chastre
     styles:
@@ -609,8 +615,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Aïe Mon Pied!
       - Bellowing Bellows
+      - Aïe Mon Pied!
     organisation: 3...4
   - name: Folkbal
     details: Ball
@@ -662,13 +668,15 @@ events:
     workshop: false
     social: true
     organisation: "Rif Zans L'Fiesse"
-  - name: Le Bal des Possibles
+  - name: Folkbal
     details: Ball
     links:
+      - "https://www.canardfolk.be/agenda/"
       - "https://www.trois-quatre.art/le-bal-des-possibles"
+      - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4886"
     start: "2027-02-28T15:00:00+01:00"
-    end: "2027-02-28T19:10:00+01:00"
+    end: "2027-02-28T15:45:00+01:00"
     country: Belgium
     city: Chastre
     styles:
@@ -697,13 +705,15 @@ events:
     bands:
       - La Rawette
     organisation: ~
-  - name: Le Bal des Possibles
+  - name: Folkbal
     details: Ball
     links:
+      - "https://www.canardfolk.be/agenda/"
       - "https://www.trois-quatre.art/le-bal-des-possibles"
+      - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4888"
     start: "2027-03-28T15:00:00+02:00"
-    end: "2027-03-28T19:10:00+02:00"
+    end: "2027-03-28T15:45:00+02:00"
     country: Belgium
     city: Chastre
     styles:
@@ -764,13 +774,15 @@ events:
     workshop: false
     social: true
     organisation: "Rif Zans L'Fiesse"
-  - name: Le Bal des Possibles
+  - name: Folkbal
     details: Ball
     links:
+      - "https://www.canardfolk.be/agenda/"
       - "https://www.trois-quatre.art/le-bal-des-possibles"
+      - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4892"
     start: "2027-04-25T15:00:00+02:00"
-    end: "2027-04-25T19:10:00+02:00"
+    end: "2027-04-25T15:45:00+02:00"
     country: Belgium
     city: Chastre
     styles:
@@ -778,13 +790,15 @@ events:
     workshop: true
     social: true
     bands:
+      - Anouk & Filippo
       - Stoemp
-      - Duo Gambetta - Sanczuk
     organisation: 3...4
-  - name: Le Bal des Possibles
+  - name: Folkbal
     details: Ball
     links:
+      - "https://www.canardfolk.be/agenda/"
       - "https://www.trois-quatre.art/le-bal-des-possibles"
+      - "https://www.domainedespossibles.be/evenements/"
       - "https://folkbalbende.be/event/4894"
     start: "2027-05-30T15:00:00+02:00"
     end: "2027-05-30T17:30:00+02:00"
@@ -909,19 +923,18 @@ events:
     bands:
       - Solia
     organisation: ~
-  - name: Bal de la Cabane du Bout du Monde
+  - name: Folkbal
     details: Ball
     links:
-      - "http://chti-folkeux.chez-alice.fr/BALS.htm"
-      - "https://docs.google.com/forms/d/e/1FAIpQLScCw8iDgcHt0hhYBDc0-c0CjCXEGr3t0eXBUwBEoOt8_i4n8Q/viewform?usp=sharing&ouid=107071720981067610642"
+      - "https://www.canardfolk.be/agenda/"
       - "https://folkbalbende.be/event/4905"
-    start_date: 2026-12-20
-    end_date: 2026-12-20
+    start: "2026-12-20T16:30:00+01:00"
+    end: "2026-12-20T18:30:00+01:00"
     country: Belgium
     city: Brussels
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Parasol
@@ -1488,6 +1501,86 @@ events:
     bands:
       - Le Son Des Ingénieurs
     organisation: "Muziekclub 't Ey"
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://boombalfestival.be"
+      - "https://folkbalbende.be/event/5046"
+      - "https://www.facebook.com/events/1725350928584405"
+    start_date: 2027-08-18
+    end_date: 2027-08-18
+    country: Belgium
+    city: Lovendegem
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Boombal
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://boombalfestival.be"
+      - "https://folkbalbende.be/event/5046"
+      - "https://www.facebook.com/events/1725350928584405"
+    start_date: 2027-08-19
+    end_date: 2027-08-19
+    country: Belgium
+    city: Lovendegem
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Boombal
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://boombalfestival.be"
+      - "https://folkbalbende.be/event/5046"
+      - "https://www.facebook.com/events/1725350928584405"
+    start_date: 2027-08-20
+    end_date: 2027-08-20
+    country: Belgium
+    city: Lovendegem
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Boombal
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://boombalfestival.be"
+      - "https://folkbalbende.be/event/5046"
+      - "https://www.facebook.com/events/1725350928584405"
+    start_date: 2027-08-21
+    end_date: 2027-08-21
+    country: Belgium
+    city: Lovendegem
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Boombal
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://boombalfestival.be"
+      - "https://folkbalbende.be/event/5046"
+      - "https://www.facebook.com/events/1725350928584405"
+    start_date: 2027-08-22
+    end_date: 2027-08-22
+    country: Belgium
+    city: Lovendegem
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Boombal
   - name: Cabal Maximal
     details: Ball
     links:
@@ -1523,13 +1616,16 @@ events:
       - Laouen
     price: €10-€18
     organisation: Balhalla
-  - name: "Balfolk With le Bal de L'aube"
+  - name: Folkbal
     details: Ball
     links:
+      - "https://www.canardfolk.be/agenda/"
       - "https://www.balhalla.be/en/event/balfolk-with-le-bal-de-l-aube"
+      - "https://www.facebook.com/Balhallafolk"
       - "https://folkbalbende.be/event/5057"
+      - "https://www.facebook.com/events/1535862464955837"
     start: "2026-12-21T19:00:00+01:00"
-    end: "2026-12-21T23:00:00+01:00"
+    end: "2026-12-21T19:45:00+01:00"
     country: Belgium
     city: Gent
     styles:
@@ -1620,14 +1716,15 @@ events:
     workshop: false
     social: true
     organisation: Frisse Folk Vzw/asbl
-  - name: Bal
+  - name: Folkbal
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/bal-blowzabella-farewell-tour-la-tricoterie/1481/"
+      - "https://www.canardfolk.be/agenda/"
+      - "https://frissefolk.be/fr/evenement/bal-blowzabella-farewell-tour-la-tricoterie/1481/"
       - "https://folkbalbende.be/event/5064"
       - "https://www.facebook.com/events/1756986022010855"
     start: "2026-11-22T17:30:00+01:00"
-    end: "2026-11-22T22:00:00+01:00"
+    end: "2026-11-22T18:15:00+01:00"
     country: Belgium
     city: Brussels
     styles:
@@ -2987,7 +3084,7 @@ events:
     social: true
     bands:
       - "L'évidence Des Nuages"
-      - A Contrabanda (Galicische Doedelzakgroep) & Queimada
+      - A Contrabanda
       - La Man Encantada
     organisation: Frisse Folk Vzw/asbl
   - name: Folkbal
@@ -3009,14 +3106,15 @@ events:
       - "Folkin' Jong"
       - "Cord'air"
     organisation: ~
-  - name: Bal
+  - name: Folkbal
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/bal-linkebeek/1482/"
+      - "https://www.canardfolk.be/agenda/"
+      - "https://balfolk.squarespace.com/"
       - "https://folkbalbende.be/event/5115"
       - "https://www.facebook.com/events/916823007753043"
-    start: "2026-11-21T18:00:00+01:00"
-    end: "2026-11-22T00:30:00+01:00"
+    start: "2026-11-21T19:00:00+01:00"
+    end: "2026-11-21T19:15:00+01:00"
     country: Belgium
     city: Linkebeek
     styles:
@@ -3024,7 +3122,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo Pilartz - Gielen
+      - Duo Luc Pilartz & Simon Gielen
       - Stoemp
     organisation: Frisse Folk Vzw/asbl
   - name: Folkbal
@@ -3043,7 +3141,6 @@ events:
     social: true
     bands:
       - Academies Van Genk En Tienen
-      - Tienen
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -5142,7 +5239,7 @@ events:
     bands:
       - Pepijn De Pauw
       - Lavoà Lapò
-      - A Contrabanda (Galicische Doedelzakgroep) & Queimada
+      - A Contrabanda
       - Supernovas
     organisation: Frisse Folk Vzw/asbl
   - name: Opleiding Cressens-methode - Weekend 2
@@ -5305,20 +5402,26 @@ events:
     social: false
     price: €75-€500
     organisation: Frisse Folk Vzw/asbl
-  - name: Dansen uit Zuid-italië
-    details: Course
+  - name: Folkbal
+    details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/dansen-uit-zuiditalië/1494/"
+      - "https://www.canardfolk.be/agenda/"
+      - "https://frissefolk.be/fr/evenement/danses-ditalie-du-sud/1494/"
+      - "https://muziekpublique.be"
+      - "https://www.facebook.com/events/1659050442684956"
       - "https://folkbalbende.be/event/5194"
       - "https://www.facebook.com/events/1427333168869335"
-    start: "2026-12-12T10:00:00+01:00"
-    end: "2026-12-12T12:30:00+01:00"
+    start_date: 2026-12-12
+    end_date: 2026-12-12
     country: Belgium
     city: Brussels
     styles:
       - balfolk
-    workshop: true
-    social: false
+    workshop: false
+    social: true
+    bands:
+      - Nisia
+      - Feather & Fox
     price: €15-€36
     organisation: Frisse Folk Vzw/asbl
   - name: Folkbal
@@ -5887,7 +5990,7 @@ events:
     start_date: 2027-02-20
     end_date: 2027-02-20
     country: Belgium
-    city: Brussels
+    city: Vorst
     styles:
       - balfolk
     workshop: false
@@ -8136,13 +8239,14 @@ events:
     workshop: true
     social: false
     organisation: Boombal
-  - name: Bal
+  - name: Folkbal
     details: Ball
     links:
-      - "https://frissefolk.be/nl/event-nl/bal-duo-tanghe-coudroy-&-fahrenheit -la-tricoterie-25-jaar-frisse-folk!/1512/"
+      - "https://www.canardfolk.be/agenda/"
+      - "https://frissefolk.be/fr/"
       - "https://folkbalbende.be/event/5232"
     start: "2027-01-31T17:30:00+01:00"
-    end: "2027-01-31T22:00:00+01:00"
+    end: "2027-01-31T18:00:00+01:00"
     country: Belgium
     city: Brussels
     styles:
@@ -8150,7 +8254,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Duo Tanghe - Coudroy
+      - Duo Aurélien Tanghe & Martin Coudroy
       - Fahrenheit
     price: €15-€29
     organisation: Frisse Folk Vzw/asbl
@@ -8186,3 +8290,73 @@ events:
     bands:
       - Pink Folk
     organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://www.eventbrite.ie/e/ceili-mor-tickets-2004285282233"
+      - "https://www.facebook.com/photo?fbid=10216528272874603&set=a.1377474052174"
+      - "https://folkbalbende.be/event/5235"
+    start_date: 2026-11-28
+    end_date: 2026-11-28
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://tey.be/programma/2026/12/04/folkafdeling-dacademie-podium-baleynbal"
+      - "https://folkbalbende.be/event/5236"
+      - "https://www.facebook.com/events/880400018428448"
+    start_date: 2026-12-04
+    end_date: 2026-12-04
+    country: Belgium
+    city: Sint-Niklaas
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - "Département Folk de L'académie Podium de Sint-Niklaas"
+    organisation: "Muziekclub 't Ey"
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://bricksite.com/scdbrussels/ceilidh-workshop-dance-2027"
+      - "https://folkbalbende.be/event/5237"
+      - "https://www.facebook.com/events/1579067793532510"
+    start_date: 2027-03-06
+    end_date: 2027-03-06
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Judith and Ian Muir
+    organisation: ~
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://frissefolk.be/fr/"
+      - "https://folkbalbende.be/event/5238"
+    start: "2027-03-21T17:30:00+01:00"
+    end: "2027-03-21T18:00:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Gabriel Lenoir
+      - Ciac Boum
+    organisation: Frisse Folk Vzw/asbl
