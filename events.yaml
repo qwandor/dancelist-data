@@ -333346,7 +333346,7 @@ events:
       - Daniela Heiderich
     price: €15-€20
     organisation: Kultur & Förderkreis Mülheim  e.V.
-    source: events/germany/mlheim_an_der_mosel.yaml
+    source: events/germany/mulheim_an_der_mosel.yaml
   - name: Adventstanz
     details: Ballkanesen mit dem Kontrabass
     links:
@@ -335738,6 +335738,23 @@ events:
     price: €10-€35
     organisation: Balfolk Zuid-Holland
     source: events/netherlands/plug_balfolk.yaml
+  - name: BalFolk
+    details: Workshop and Bal Folk
+    links:
+      - "https://www.kulturkreis-muelheim.de/tanzworkshop-balfolk-mit-aer-16-1-2027/"
+    start: "2027-01-16T17:00:00+01:00"
+    end: "2027-01-16T21:00:00+01:00"
+    country: Germany
+    city: Mülheim an der Mosel
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - AER
+    price: €15-€20
+    organisation: Kultur & Förderkreis Mülheim  e.V.
+    source: events/germany/mulheim_an_der_mosel.yaml
   - name: Tanzhaus Innsbruck
     links:
       - "https://tanzhaus-innsbruck.jimdofree.com/"
