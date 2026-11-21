@@ -1,0 +1,19 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: BalFolk
+    details: Workshop and BalFolk with Akleja and Daniela Heiderich
+    links:
+      - "http://kulturkreis-muelheim.de"
+    start: "2026-12-12T17:00:00+01:00"
+    end: "2026-12-12T21:36:00+01:00"
+    country: Germany
+    city: Mülheim an der Mosel
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Akleja
+      - Daniela Heiderich
+    price: Workshop 5 € Bal 15€
+    organisation: Kultur & Förderkreis Mülheim  e.V.
