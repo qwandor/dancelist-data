@@ -314234,8 +314234,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Élise
-      - Adam
+      - Elise Boeur & Adam Iredale-Gray
       - Bellowing Bellows
     price: €12-€18
     organisation: ~
@@ -323702,8 +323701,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Accordance
       - Aos ÓG
+      - Accordance
     price: donation
     organisation: Folknam Musique Trad
     source: events/belgium/folkbalbende.yaml
@@ -328017,7 +328016,7 @@ events:
       - "https://7schritt.de/kalender/herbstball-2/"
       - "https://7schritt.de/herbstball-2026/"
       - "https://kalender.digital/574d155c91900caea879/event/2324818732"
-    start: "2026-11-21T13:00:00+01:00"
+    start: "2026-11-21T14:00:00+01:00"
     end: "2026-11-22T16:00:00+01:00"
     country: Germany
     city: Freiburg i. Br
@@ -328203,8 +328202,8 @@ events:
     workshop: false
     social: true
     bands:
-      - Jonathan De Neck
       - Cyra
+      - Jonathan De Neck
     price: €15
     organisation: ~
     source: events/belgium/folkbalbende.yaml
@@ -328636,7 +328635,7 @@ events:
     organisation: CDSS
     source: events/usa/cdss.yaml
   - name: Balfolk Utrecht
-    details: "Bal in de Moira met Duo De Schepper-Sanczuk en Bamako Expres. Mis het niet! Koop je kaartje online om verzekerd te zijn van een plekje.\r\n\r\nVoor meer informatie over de workshop, kijk hier: https://www.plug.events/event/balfolk-utrecht-workshop-muzikaliteit-met-155"
+    details: "Bal in de Moira met Duo De Schepper-Sanczuk en Bamako Expres. Er zijn nog enkele kaartjes voor zowel bal als workshop beschikbaar voor verkoop aan de deur.\r\n\r\nVoor meer informatie over de workshop, kijk hier: https://www.plug.events/event/balfolk-utrecht-workshop-muzikaliteit-met-155"
     links:
       - "https://www.balfolk.nl/agenda/balfolk-utrecht-bal-met-duo-de-schepper-sanczuk-be"
       - "https://www.plug.events/event/balfolk-utrecht-bal-met-duo-de-schepper-sanczuk-be"
@@ -330133,6 +330132,22 @@ events:
     price: $75
     organisation: CDSS
     source: events/usa/cdss.yaml
+  - name: Céilí Mór
+    details: Ball
+    links:
+      - "https://www.eventbrite.ie/e/ceili-mor-tickets-2004285282233"
+      - "https://www.facebook.com/photo?fbid=10216528272874603&set=a.1377474052174"
+      - "https://folkbalbende.be/event/5235"
+    start: "2026-11-28T19:00:00+01:00"
+    end: "2026-11-28T21:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - ceili
+    workshop: false
+    social: true
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
   - name: Balfolk
     links:
       - "https://balfolk-bonn.de/balfolk/Tanzaktivitaten.html"
@@ -331632,6 +331647,25 @@ events:
     price: donation
     organisation: Balfolk Reggio Calabria
     source: events/italy/reggio_calabria.yaml
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://tey.be/programma/2026/12/04/folkafdeling-dacademie-podium-baleynbal"
+      - "https://folkbalbende.be/event/5236"
+      - "https://www.facebook.com/events/880400018428448"
+    start: "2026-12-04T20:00:00+01:00"
+    end: "2026-12-04T23:00:00+01:00"
+    country: Belgium
+    city: Sint-Niklaas
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Folkafdeling Sint-Niklaas
+    price: free
+    organisation: "Muziekclub 't Ey"
+    source: events/belgium/folkbalbende.yaml
   - name: Balfolk at Cinex
     details: Ball
     links:
@@ -333624,6 +333658,44 @@ events:
     price: €15-€20
     organisation: Kultur & Förderkreis Mülheim  e.V.
     source: events/germany/mulheim_an_der_mosel.yaml
+  - name: Phoenix English Country Dancers
+    details: Called English country dance to recorded music. Free instruction. $10 (or donation)
+    links:
+      - "https://phxtmd.org/english-dance"
+      - "https://cdss.org/event/phoenix-english-country-dancers-2/2026-12-12/"
+    start: "2026-12-12T09:00:00-07:00"
+    end: "2026-12-12T11:00:00-07:00"
+    country: USA
+    state: AZ
+    city: Phoenix
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $10
+    organisation: Phoenix Traditional Music & Dance
+    source: events/usa/cdss.yaml
+  - name: Traditional Dance Workshop
+    details: "Dancing! Discussion! Dancing! \nFeaturing: David Smukler, President of CDSS (Country Dance and Song Society), nationally-known caller/choreographer of contras and English country dances \nSchedule (tentative):\n\n10:00 am–noon: English Country Dancing\nnoon–1:30 pm: Lunch and Discussion\n1:30 pm–3:00 pm: Mixed ECD/Contra\n3:00 pm–4:30 pm: Contra\n\nSome or all dance sessions will feature live music by The Contranyms: Same Thing Only Different.\nPamela Weems on piano, Max Cappleman on fiddle and Joel Hobbs on mandolin. \nFor details regarding requested donations, lunch plans, email board@taada.us \nOrganized by: Traditional Austin Area Dance Association, San Antonio Contra Dancers, English Dance S.A. and the Country Dance and Song Society"
+    links:
+      - "https://cdss.org/event/traditional-dance-workshop/"
+      - "https://taada.us/wp/calendar/"
+    start: "2026-12-12T10:00:00-06:00"
+    end: "2026-12-12T16:30:00-06:00"
+    country: USA
+    state: TX
+    city: San Marcos
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - The Contranyms
+    callers:
+      - David Smukler
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: Adventstanz
     details: Ballkanesen mit dem Kontrabass
     links:
@@ -333659,6 +333731,27 @@ events:
     price: 15-20 CHF
     organisation: Folk Dance Dietlikon
     source: events/switzerland/zurich.yaml
+  - name: "Sycamore Assembly Historical Costume Ball: Children's Matinee"
+    details: "The perfect costume dance to attend with your family! \nOur Matinee Ball is held especially for families with kids and teens! \nVenue: The charming candle lit venue of Jubilee Cottage at Goodwood Museum and Gardens from 12:30-4:00pm. \nThe Dances: in the style of Bridgerton/Jane Austen, are taught and then called to the music so you can attend without prior dance experience. \nThe Dress Code: All historical costume eras are welcome, including fantasy inspired costumes. \nThe Menu: Homemade meat pies, cakes, fruit pies and tarts, fresh fruit, traditional candies and nuts. (Gluten free and vegetarian options available) \nCold Drinks: Lemonade, sweet tea, and punch.\nHot Drinks: Hot chocolate outside by the fire. \nCaller: Jerry Reynolds \nHosted by Sycamore Assembly English Country Dancing and Wild Avalon Art and Events \nRecommended for ages 8-17 and parents/guardians."
+    links:
+      - "https://cdss.org/event/sycamore-assembly-historical-costume-ball-childrens-matinee/"
+      - "https://www.facebook.com/events/1695610645483141/"
+      - "https://www.eventbrite.com/e/sycamore-assembly-costume-ball-matinee-tickets-2001781128241"
+      - "https://www.jubileedancing.com/"
+    start: "2026-12-12T12:30:00-05:00"
+    end: "2026-12-12T16:00:00-05:00"
+    country: USA
+    state: FL
+    city: Tallahassee
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Jerry Reynolds
+    price: $31-$48
+    organisation: Jubilee Dancing and Sycamore Assembly
+    source: events/usa/cdss.yaml
   - name: Balfolk-Festabend
     details: "19:00 Uhr – Crash-Kurs BalFolk (Einlass 18:45 Uhr)\n20:00 Uhr – BalFolk\nEintritt: 19 Euro regulär, 12 Euro ermäßigt im Vorverkauf*\n(Abendkasse mit Zuschlag 20 Euro regulär, 13 Euro ermäßigt*)\nJavallon\nJavallon – Foto: Amin Mohammadi\nWenn Javallon zum Tanz aufspielt, kann sich kaum jemand der ansteckenden Spielfreude der drei Musiker:innen entziehen. Sie nehmen das Publikum mit auf eine musikalische Reise durch Frankreich:\nAuf eine temperamentvolle Bourrée aus der Auvergne folgt ein gemütlicher Schottisch aus dem Berry, ein Rondeau aus der Gascogne erzählt die Geschichte einer heimlichen Liebschaft, ein sehnsuchtsvoller Pariser Walzer lädt zum Träumen ein, bevor ein baskischer Fandango den Tänzern in die Beine fährt.\nJeannette – Drehleier Gesang\nDirk – Geige\nHermann – Akkordeon\nBert Leemans (BE)\nBert Leemanns – Foto: Linde Dorenbos\nBert Leemans ist Akkordeonist aus Belgien, Komponist und Arrangeur mit mehr als zwanzig Jahren Erfahrung in der Folk- und Balfolk-Szene. Als Akkordeonist bei Air Boxes, Louen und Gründer von EmBRUN, als Musiker in verschiedenen internationalen Projekten hat er einen unverwechselbaren, melodischen Spielstil entwickelt.\nSeine eigenen Kompositionen verbinden Tradition mit Innovation und erklingen auf Konzertbühnen und bei Tanzfestivals im In- und Ausland.\nMit seinem warmen Klang, seinem feinen Gespür für das Zusammenspiel und seiner Leidenschaft für musikalische Begegnungen begeistert er das Publikum überall, wo er auftritt.\nVideo\n\n\nHartwin Dhoore (BE)\n\n\nHartwin Dhoore – Foto: Kerttu Kruusla\n\n\nHartwin Dhoore ist Akkordeonist und Komponist. Seine Instrumentalstücke sind das Medium, durch das er sein authentischstes Selbst zum Ausdruck bringt. Sie schenken Hoffnung, Freude und inneren Frieden. Im Laufe der Jahre entwickelte er einen einzigartigen Spielstil auf dem diatonischen Akkordeon:\nEr verbindet Melancholie mit Schlichtheit und erschafft so eine filmische, atmosphärische Klangwelt.\nSeine Musik besitzt eine besondere Sanftheit, die sich am besten bei Live-Konzerten unmittelbar erleben lässt. Dort findet sich das Publikum in einem geschützten Raum wieder und kann sich von seinem musikalischen Strom tragen lassen.\nIn einer Welt, in der Authentizität bei den Zuhörenden tiefen Anklang findet, spricht Hartwins Musik das Herz an und wird zum passenden Soundtrack für innere Reisen und Gedanken.\nVideo\n(Bert und Hartwin werden solo und auch gemeinsam spielen)\n–\n* Ermäßigung mit Nachweis: Schüler:innen, Student:innen, Auszubildende, Städte- und Familienpass Inhaber:innen, Bürgergeldempfänger:innen, Schwerbehindertenausweis (ab 50 %)"
     links:
@@ -333771,6 +333864,63 @@ events:
     price: £5-£17
     organisation: London Barndance Company
     source: events/uk/london_barndance.yaml
+  - name: "St. Alban's Contra Dance"
+    details: "Monthly Contra Dance. \nNew Time: 3:00pm-5:30pm with Basics for New Folks at 2:45pm\nAt St. Alban’s Chapel in Baton Rouge\nWe’ll dance to live music.\nCharlene Heaton will call the dance. \nSuggested donation for the callers and the band:\nAdults $7 (contribute $10 to include a tip for the band…or put a tip in the basket, as you wish);\nStudents $5,\nChildren free.\nIf you’d like, bring cookies or veggies or fruit to share. It’s good to bring your own water bottle."
+    links:
+      - "https://louisianacontrasandsquares.com/events.html"
+      - "https://cdss.org/event/st-albans-contra-dance-in-baton-rouge-4/"
+    start: "2026-12-12T14:45:00-06:00"
+    end: "2026-12-12T17:30:00-06:00"
+    country: USA
+    state: LA
+    city: Baton Rouge
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Charlene Heaton
+    price: $5-$10
+    organisation: Charlene Heaton & David Porter
+    source: events/usa/cdss.yaml
+  - name: Marin English Dance
+    details: "English dancing on the 2nd Saturday of the month 2pm–4:30pm in Mill Valley, north of San Francisco. \nAfter the dance, grab some dinner and head to either the San Rafael contra, the SF English dance (conveniently located near the other end of the Golden Gate Bridge), or the Palo Alto contra. \nThe best place to park is the large, dirt parking area to the left as you turn onto Almonte Avenue. Please do not park on Wisteria Way or Lavender Lane. The few parking spaces beside the hall are reserved for the caller, musicians and dance manager. \nContributions of finger-food type snacks are appreciated, if you feel inclined. Bring a water bottle for yourself. \nBeginners are welcome. No experience or partner necessary. Come to the beginners lesson at 1:45."
+    links:
+      - "https://nbcds.org/english-country-dance/"
+      - "https://cdss.org/event/marin-english-dance-mill-valley-ca/2026-12-12/"
+    start: "2026-12-12T13:45:00-08:00"
+    end: "2026-12-12T16:30:00-08:00"
+    country: USA
+    state: CA
+    city: Mill Valley
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10-$20
+    organisation: North Bay Country Dance Society
+    source: events/usa/cdss.yaml
+  - name: Sycamore Assembly Historical Costume Ball
+    details: "Attend the best holiday ball of the season in your favorite costume from the past! \nHeld in the charming candle-lit venue of Jubilee Cottage at Goodwood Museum and Gardens from 6:30-11:00 pm. \nCome on your own, bring a date, your family, or your friends. All the dances are mixers and you can dance with different partners all evening. \nThe Dances, in the style of Bridgerton/Jane Austen, are taught and then called to the music so you can attend without prior dance experience. \nThe Dress Code: All historical costume eras are welcome, including fantasy inspired costumes. No trains or skirts that touch the floor, for your safety and the safety of the dancers around you. \nThe Menu: Homemade meat pies, cakes, fruit pies and tarts, fresh fruit, traditional candies and nuts. (Gluten free and vegetarian options available) \nCold Drinks: Pear bubbly, lingonberry punch, and assorted wines.\nHot Drinks: Coffee and tea outside by the fire. \nCaller: Jerry Reynolds \nHosted by Sycamore Assembly English Country Dancers and Wild Avalon Art and Events \nRecommended for 16 and up"
+    links:
+      - "https://cdss.org/event/sycamore-assembly-historical-costume-ball-in-tallahassee/"
+      - "https://www.facebook.com/events/2174477213134433/"
+      - "https://www.eventbrite.com/e/3rd-annual-sycamore-assembly-costume-ball-tickets-1995979395101"
+      - "https://www.jubileedancing.com/"
+    start: "2026-12-12T18:30:00-05:00"
+    end: "2026-12-12T23:00:00-05:00"
+    country: USA
+    state: FL
+    city: Tallahassee
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Jerry Reynolds
+    price: $77-$82
+    organisation: Jubilee Dancing and Sycamore Assembly
+    source: events/usa/cdss.yaml
   - name: CFOOTMAD Family Contra Dance
     details: A contra dance for children of all ages.  All dances will be taught and will have simple choreography suitable for young children and first-time dancers.  Sliding scale admission of $5 to $15; max of $25 per family. Stay for refreshments after the dance.
     links:
@@ -333787,6 +333937,221 @@ events:
     price: $5-$15
     organisation: Colorado Friends of Old Time Music and Dance
     source: events/usa/boulder.yaml
+  - name: TFOOTD (Tampa) Contra Dance
+    details: "Contra Dance open to the public, live band and caller"
+    links:
+      - "https://tampabaycontra.com/"
+      - "https://cdss.org/event/tfootd-contra-dance/2026-12-12/"
+    start: "2026-12-12T19:00:00-05:00"
+    end: "2026-12-12T22:30:00-05:00"
+    country: USA
+    state: FL
+    city: St. Petersburg
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Tampa Friends of Old Time Dance
+    source: events/usa/cdss.yaml
+  - name: CDK Contra & Square Dance
+    details: "Contra & Square Dance – Beginning Workshop 7pm, Dancing 7:30-10:30pm \nSuggested donation $5-$20"
+    links:
+      - "https://www.countrydancinginkalamazoo.com/"
+      - "https://cdss.org/event/cdk-contra-square-dance-2/2026-12-12/"
+    start: "2026-12-12T19:00:00-05:00"
+    end: "2026-12-12T22:30:00-05:00"
+    country: USA
+    state: MI
+    city: Kalamazoo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$20
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Princeton English Country Dance
+    details: "English Country Dance every 2nd Saturday (except November and December), 7:30-10:30."
+    links:
+      - "https://www.princetoncountrydancers.org/"
+      - "https://cdss.org/event/princeton-country-dancers-english-country-dance/2026-12-12/"
+    start: "2026-12-12T19:00:00-05:00"
+    end: "2026-12-12T22:30:00-05:00"
+    country: USA
+    state: NJ
+    city: Princeton
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Saturday Contra in Cincinnati
+    details: "Cincinnati Contra Dance Local dancing at the Wyoming Arts Center\nOnce a month, on the second Saturday, dancing runs from 7:30 pm to 10:30 pm \nFree Intro Class at 7:00 pm \n$10"
+    links:
+      - "https://www.cincinnaticontradance.org/dance-schedule"
+      - "https://cdss.org/event/saturday-contra-in-cincinnati/2026-12-12/"
+    start: "2026-12-12T19:00:00-05:00"
+    end: "2026-12-12T22:30:00-05:00"
+    country: USA
+    state: OH
+    city: Wyoming
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10
+    organisation: Cincinnati Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Cornwall Contra Dance
+    details: "Second Saturday dance at the Cornwall, VT Town Hall (September through April). Features the music of Red Dog Riley and a rotating cast of callers."
+    links:
+      - "https://cdss.org/event/cornwall-vt-contra-dance/2026-12-12/"
+    start: "2026-12-12T19:00:00-05:00"
+    end: "2026-12-12T21:30:00-05:00"
+    country: USA
+    state: VT
+    city: Cornwall
+    styles:
+      - contra
+    workshop: false
+    social: true
+    bands:
+      - Red Dog Riley
+    price: $5-$10
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: Norwich 2nd Saturday Contradance
+    details: "Everyone welcome!  Beginner session at 7:15, dancing begins at 7:30. Please bring clean soft-soled shoes for dancing. \n\nOctober 10: Tad Dreis and Perin Ellsworth-Osanya, Nils Fredland calling\nNovember 14: Dave Langford & Amy Englesburg, Steve Zakon-Anderson calling\nDecember 12: Grebe Philosophy, Will Mentor calling"
+    links:
+      - "https://muskegmusic.org/norwich-contra-dancing"
+      - "https://cdss.org/event/norwich-vt-2nd-saturday-contradance/2026-12-12/"
+    start: "2026-12-12T19:15:00-05:00"
+    end: "2026-12-12T22:30:00-05:00"
+    country: USA
+    state: VT
+    city: Norwich
+    styles:
+      - contra
+    workshop: true
+    social: true
+    callers:
+      - Steve Zakon-Anderson
+    price: $10-$20
+    organisation: Muskeg Music
+    source: events/usa/cdss.yaml
+  - name: Contra Dance
+    details: "Join us for an evening contra dance at Woodlawn Elementary School in Lawrence, KS. Sliding scale entry starting at $8, beginner’s lesson at 7:00, dance begins at 7:30.  \n$8, $5 student, under 16 free"
+    links:
+      - "https://lawrencecontra.wordpress.com/"
+      - "https://cdss.org/event/december-contra-with-coreopsis/"
+      - "https://www.facebook.com/events/1141328948785451/"
+    start: "2026-12-12T19:00:00-06:00"
+    end: "2026-12-12T22:00:00-06:00"
+    country: USA
+    state: KS
+    city: Lawrence
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Coreopsis
+    price: $5-$8
+    organisation: Lawrence Barn Dance Association
+    source: events/usa/cdss.yaml
+  - name: Oklahoma City Contra Dance
+    details: Second and Fourth Saturdays join our regular Contra Dances in Oklahoma City!
+    links:
+      - "https://scissortail.org/"
+      - "https://cdss.org/event/oklahoma-city-contra-dance/2026-12-12/"
+    start: "2026-12-12T19:00:00-06:00"
+    end: "2026-12-12T22:00:00-06:00"
+    country: USA
+    state: OK
+    city: Oklahoma City
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $5-$25
+    organisation: Scissortail Traditional Dance Society
+    source: events/usa/cdss.yaml
+  - name: Second Saturday Contra
+    details: "Join us for our Second Saturday contra dance! Doors open at 6:00 pm. Intro lesson at 6:30 pm. Dance from 7:00 pm to 10:00 pm. Check our website for changes in dance schedule or location.  \nPay what you can afford: $10 to $25 per person."
+    links:
+      - "https://phxtmd.org/"
+      - "https://cdss.org/event/second-saturday-contra-2/2026-12-12/"
+    start: "2026-12-12T18:30:00-07:00"
+    end: "2026-12-12T22:00:00-07:00"
+    country: USA
+    state: AZ
+    city: Chandler
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $10-$25
+    organisation: Phoenix Traditional Music & Dance
+    source: events/usa/cdss.yaml
+  - name: Contra Dance at Tapestry Folkdance Center
+    details: "Every Saturday\nLARGE STUDIO\n\n\n\n\n\n\n\n\n7:30 – 8:00 pm  Lesson\n8:00 – 11:00 pm  Dance\n \nCost:\nLive Music: $15 General Admission | $12 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free \n“Pay What You Choose” first seven days of every month (1st through the 7th)\nRecorded Music:  $12 General | $10 Members | $7 Young Adult & Youth (Ages 10 -21) \nWhat is Contra Dance?\nIn a Contra dance, a leader, known as a caller, teaches basic dance steps during an introductory “walk-through” of the dance. Dancers learn by walking through the steps and formations, following the caller’s instructions. The dance figures are similar to those of old-time square dancing except the figures are usually danced in a line, with leaders and followers facing each other. \n​These dances are lively, social, easy to learn, and aerobic. Although you will dance with a partner, it isn’t necessary to come with one. All dances are taught and are usually done in “long-ways sets” (partners facing in long lines down the hall).  Many of the regular Tapestry Folkdance Center Contra bands play old-time music (similar to bluegrass), but the music at any given Saturday night Contra may reflect a range of music traditions, such as New England, French Canadian, Irish, Scottish, Cape Breton and modern compositions. \nHow does Contra Dance Work?\n“A contra dance can be thought of as a triangle of energy with the three vertices being the musicians, the dancers and the caller. Magical evenings occur when all three come together, feeding off of each others’ energy to raise and sustain an atmosphere of fun and joy. The caller’s role in this is paramount. Good music and dancers without a good caller may not be magical. Poor teaching, lack of rapport or inappropriately selected dances can lead to frustration. But a good caller can make even new dancers feel like they are good, and by working with the musicians to match music to dances, set the right tempo, and feed off the energy of everyone in the hall, the caller can help make magic.”\nby Beau Farmer, Tapestry Folkdance Center Contra Caller"
+    links:
+      - "https://www.tapestryfolkdance.org/contra"
+      - "https://cdss.org/event/contra-dance-at-tapestry-folkdance-center/2026-12-12/"
+    start: "2026-12-12T19:30:00-06:00"
+    end: "2026-12-12T23:00:00-06:00"
+    country: USA
+    state: MN
+    city: Minneapolis
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Bob Walser Trio
+      - Toot Squeeze & Friends
+    callers:
+      - David Kirchner
+    price: $4-$15
+    organisation: Tapestry Folkdance Center
+    source: events/usa/cdss.yaml
+  - name: 2nd Saturdays Contra Dance
+    details: "7:00 pm newcomer/refresher lesson\n7:30 pm dancing starts\n10:30 dancing ends\n\nSliding scale $6-$20. \nSome dancers head to a pub for “afters”—all are welcome! \nFor more current information and last-minute changes, see the PCDC calendar."
+    links:
+      - "https://portlandcountrydance.org/upcoming/"
+      - "https://cdss.org/event/portland-country-dance-community-2nd-saturdays-contra-dance/2026-12-12/"
+    start: "2026-12-12T19:00:00-08:00"
+    end: "2026-12-12T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Portland
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $6-$20
+    organisation: Portland Country Dance Community
+    source: events/usa/cdss.yaml
+  - name: San Rafael Contra Dance
+    details: "Join us for a contra dance on Saturday evenings. \nLive music, and callers for social dance from 7-10 pm. \n6:30 pm newcomers’ orientation. \nUnitarian Universalist Congregation of Marin is at 240 Channing Way in San Rafael, about 10 minutes north of the foot of the Richmond-San Rafael bridge just off Hwy 101. At the top of a steep hill; plenty of parking. \nAdmission $15 NBCDS/BACDS/CDSS members; $20 not-yet-members. First time dancers get in free — arrive at 6:30 pm for a newcomers’ orientation. \n\nNBCDS dances are fragrance-free events. Please refrain from wearing scented products.\nYou are invited to bring snacks to share at the break.\nBring a water bottle & stay hydrated!"
+    links:
+      - "https://nbcds.org/contra-dance/"
+      - "https://cdss.org/event/san-rafael-contra-dance-lesson/2026-12-12/"
+    start: "2026-12-12T19:30:00-08:00"
+    end: "2026-12-12T22:00:00-08:00"
+    country: USA
+    state: CA
+    city: San Rafael
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $15-$20
+    organisation: North Bay Country Dance Society
+    source: events/usa/cdss.yaml
   - name: Balfolk Deventer
     details: "Balfolk in Deventer op zondagmiddag\r\n\r\nvan 13.00-15.00 Bert Leemans Solo, Hartwin Solo\r\n\r\nPauze Afternoon Tea Potluck \r\n\r\nSessie: bring your instruments"
     links:
@@ -333943,6 +334308,171 @@ events:
     price: donation
     organisation: Spreefolk e.V.
     source: events/germany/spreefolk.yaml
+  - name: North Jersey English Country Dancers
+    details: "Our dances are on the second and fourth Sunday of every month, always with live music and friendly dancers. No partner needed – come alone or with a friend! Introduction for newcomers at 1:50 pm. In the summer, we enjoy ice cream during the break. \nOur Fabulous Callers:\nAlex Deis-Lauby\nDorothy Cummings\nDaniel Popowich\nHelen White\nJudi Rivkin\nMargaret Bary\nOrly Krasner\nPaul Ross \nOur Tiny Orchestra:\nDiane Fedora – bassoon\nDominik Landowne – violin, viola\nDonn Williams – mandolin\nNorma Castle – flute, percussion\nRobin Russell – piano \nSometimes with:\nDanny Elias – clarinet\nLisa Terry – viola da gamba\nMarnen Laibow-Koser -​ various"
+    links:
+      - "https://www.northjerseyenglishcountrydancers.org/"
+      - "https://cdss.org/event/north-jersey-english-country-dancers-2nd-and-4th-sundays/2026-12-13/"
+    start: "2026-12-13T14:00:00-05:00"
+    end: "2026-12-13T17:00:00-05:00"
+    country: USA
+    state: NJ
+    city: Ridgewood
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    organisation: North Jersey English Country Dancers
+    cancelled: true
+    source: events/usa/cdss.yaml
+  - name: Special Birthday Dance
+    details: "Ever danced When Laura Smiles? How about Longevity or Middlemarch or any of the other fun dances composed by Orly Krasner? You can thank the choreographer in person for these fine creations at her special birthday dance on December 13 (the very day!) at Church in the Highlands, White Plains, NY, from 2:00-5:00 PM. Dancing will be led by Orly herself, with music by the Tiny Orchestra of the North New Jersey Country Dancers in Ridgewood. Rumors of cake abound! \n$20 members; $25 non-members"
+    links:
+      - "https://sites.google.com/site/countrydancersofwestchester/special-events-2021-22/121326-orlys-birthday"
+      - "https://cdss.org/event/orly-krasners-special-birthday-dance/"
+    start: "2026-12-13T14:00:00-05:00"
+    end: "2026-12-13T17:00:00-05:00"
+    country: USA
+    state: NY
+    city: White Plains
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - The Tiny Orchestra
+    callers:
+      - Orly Krasner
+    price: $20-$25
+    organisation: Country Dancers of Westchester
+    source: events/usa/cdss.yaml
+  - name: Louisville English Country Dance
+    details: Louisville English Country Dance meets on the 2nd and last Sundays of most months. Please check our website for details.
+    links:
+      - "https://www.louisvilleecd.org/"
+      - "https://cdss.org/event/louisville-english-country-dance/2026-12-13/"
+    start: "2026-12-13T15:00:00-05:00"
+    end: "2026-12-13T17:00:00-05:00"
+    country: USA
+    state: KY
+    city: Louisville
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $5
+    organisation: Louisville English Country Dancers
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "All are welcome to join us for another very fine afternoon of English Country Dance using mostly positional language. Spread the word and bring all your friends, family, and neighbors! 3:30 pm, Skills Session. Dance: 4:00 pm-6:00."
+    links:
+      - "https://oldfarmersball.com/english-country-dance/"
+      - "https://cdss.org/event/asheville-sunday-afternoon-english-country-dance/2026-12-13/"
+    start: "2026-12-13T15:30:00-05:00"
+    end: "2026-12-13T18:00:00-05:00"
+    country: USA
+    state: NC
+    city: Asheville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10-$12
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: English Country Dance
+    details: "Twice-monthly Sunday afternoons of dancing. International folk dance from 1 p.m. on. Mixers, balfolk, waltz at 3 p.m. English country after 3:30 p.m. Called by Mady Newfield, Tammy Bretscher and occasional guests, mostly recorded music. \n$5-$10 suggested donation."
+    links:
+      - "https://www.chicagolandecd.org/local-dancing"
+      - "https://cdss.org/event/english-country-dance-following-international-folk-dance-in-glen-ellyn-2/2026-12-13/"
+    start: "2026-12-13T15:00:00-06:00"
+    end: "2026-12-13T18:00:00-06:00"
+    country: USA
+    state: IL
+    city: Glen Ellyn
+    styles:
+      - balfolk
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - Mady Newfield
+      - Tammy Bretscher
+    price: $5-$10
+    organisation: Chicagoland English Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Dover English Country Dancers Holiday Dance
+    details: "Caller TBA\nHosted by Historic Odessa Foundation"
+    links:
+      - "https://sites.google.com/view/dover-ecd/home/dover-ecd-dance-events"
+      - "https://cdss.org/event/dover-english-country-dancers-monthly-dance-3/"
+    start: "2026-12-13T17:00:00-05:00"
+    end: "2026-12-13T21:30:00-05:00"
+    country: USA
+    state: DE
+    city: Dover
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    callers:
+      - George Tolton
+    price: $15
+    organisation: Dover English Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Culver City ECD
+    details: "English Country Dance with live musicians in the afternoon on the Westside of Los Angeles. No partner required. Masks optional. Preregistration requested. \n$20 (sliding scale)"
+    links:
+      - "https://culvercityecd.com/"
+      - "https://cdss.org/event/culver-city-ecd/2026-12-13/"
+    start: "2026-12-13T14:30:00-08:00"
+    end: "2026-12-13T17:30:00-08:00"
+    country: USA
+    state: CA
+    city: Culver City
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $20
+    organisation: Culver City English Country Dance
+    source: events/usa/cdss.yaml
+  - name: Hayward Contra
+    details: "Hayward Contra presents contra dancing on 2nd & 4th Sunday afternoons, 4pm-7pm in Hayward (SF Bay Area).  Check the website for details, including how to find carpools or arrange for a pickup from BART (advanced registration)."
+    links:
+      - "https://sfbaycontra.org/"
+      - "https://cdss.org/event/hayward-ca-contra/2026-12-13/"
+    start: "2026-12-13T16:00:00-08:00"
+    end: "2026-12-13T19:00:00-08:00"
+    country: USA
+    state: CA
+    city: Hayward
+    styles:
+      - contra
+    workshop: false
+    social: true
+    price: $15-$20
+    organisation: Hayward Contra
+    source: events/usa/cdss.yaml
+  - name: English Country Dance at Tapestry Folkdance Center
+    details: "Every Sunday \nSmall Studio\n7:00 – 9:00 pm \n\n\n\n\n\n\n\n2nd Sunday of the Month\nLive Music with Anytime English Players | 6:30 – 9:00 pm \n​Cost:\n​Recorded Music:  $12 General Admission | $9 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\nLive Music: $15 General Admission | $12 Tapestry Member | $8 Young Adult (Ages 18-30) | $4 Youth (Ages 10-17) | Under 10 – Free\n\n​“Pay What You Choose” first seven days of every month (1st through the 7th) – Newcomers especially encouraged to attend! \n\n\n\n\n\n\n\nEnglish country dancing is an accessible social dance form with a history going back several centuries. This is the dancing of Queen Elizabeth I, of Jane Austen, and a living tradition that inspires musical compositions and choreographies today. The music can be stately or spritely, traditional or modern, recorded or live. It is danced with simple walking or skipping steps in time to the music. All dances are taught and are usually done in “long-ways sets” with partners facing in lines down the hall. After a walk-through, the easy-to-learn figures are called throughout the dance as you interact with other couples in your set and then move on to the next and repeat.\n​\nYou can come by yourself and be assured of dancing throughout the evening, since our tradition is to welcome and teach beginners and change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience.  English country dance will satisfy your wish for pleasurable exercise, a warm social community, mental stimulation, or even transcendent aesthetic experiences. We invite you to join us!"
+    links:
+      - "https://www.tapestryfolkdance.org/english-country-dance"
+      - "https://cdss.org/event/english-country-dance-at-tapestry-folkdance-center/2026-12-13/"
+    start: "2026-12-13T18:30:00-06:00"
+    end: "2026-12-13T21:00:00-06:00"
+    country: USA
+    state: MN
+    city: Minneapolis
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    bands:
+      - Anytime English Players
+    price: $4-$15
+    organisation: Tapestry Folkdance Center
+    source: events/usa/cdss.yaml
   - name: Tanzen mit Nicola – Gruppentänze
     details: "Tauche in die Choreografie ein: Tanzfreude pur ohne feste/festen Partner:in!\n\nEntdecke die Vielfalt des Tanzens ohne feste/festen Partner:in! Von tradierten bis hin zu historischen Tänzen aus dem 17., 18. und 19. Jahrhundert (u. a. von John Playford) biete ich Ihnen eine reiche Auswahl an Bewegungsformen im Kreis, in der Reihe oder im Viereck. Lassen Sie sich von der mitreißender Musik inspirieren und entdecken Sie Ihren eigenen Rhythmus."
     links:
@@ -334602,6 +335132,7 @@ events:
       - "https://www.balhalla.be/en/event/balfolk-with-le-bal-de-l-aube"
       - "https://folkbalbende.be/event/5057"
       - "https://folkbalbende.be/event/5171"
+      - "https://www.facebook.com/events/1535862464955837"
     start: "2026-12-21T19:00:00+01:00"
     end: "2026-12-21T23:00:00+01:00"
     country: Belgium
@@ -334851,7 +335382,6 @@ events:
     details: Thème Fées et Mages
     links:
       - "https://www.canardfolk.be/agenda/"
-      - "https://folkbalbende.be/event/5234"
     start: "2026-12-31T19:00:00+01:00"
     end: "2027-01-01T01:00:00+01:00"
     country: Belgium
@@ -335308,6 +335838,22 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Socialles 397 - Mazurka basis
+    details: "Deze donderdag 7 januari is het socialles 397 in Rotterdam.\r\n\r\nTijdens deze les zal René van den Heuvel ons de basis leren van de mazurka: voor velen misschien wel de mooiste dans, maar in het begin soms niet de makkelijkste! \r\n\r\nDeze les is een goede start, en als je al langer danst kan je uiteraard ook overwegen om een keer de andere rol (leiden/volgen) te oefenen.\r\n\r\n---In principe is er dit seizoen elke donderdag een socialles, behalve tijdens schoolvakanties.---"
+    links:
+      - "https://www.plug.events/event/socialles-397-rotterdam-mazurka-basis832"
+      - "https://www.facebook.com/events/1645343837275271/"
+    start: "2027-01-07T19:30:00+01:00"
+    end: "2027-01-07T22:00:00+01:00"
+    country: Netherlands
+    city: Rotterdam
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €7.50
+    organisation: Balfolk Zuid-Holland
+    source: events/netherlands/plug_balfolk.yaml
   - name: Dance Class Level 5
     details: Course
     links:
@@ -335434,7 +335980,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Bamako Express
+      - Floris & the Flames
     price: €15
     organisation: "Muziekclub 't Ey"
     source: events/belgium/folkbalbende.yaml
@@ -335881,6 +336427,22 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Socialles 398 - Polka
+    details: "Deze donderdag 14 januari is het socialles 398 in Rotterdam. Wild rondspringen kan iedereen, maar hoe combineer je ronddraaien, een bounce en verplaatsen door de zaal? Deze week wordt lekker energiek met de polka. We kijken naar controle en ontspanning in de dans en elementen om mee te spelen..\r\n\r\nHet helpt als je al lessen over de wals gevolgd hebt, want polka bouwt hierop voort.\r\n\r\nDe docent deze week is Leon Huisman."
+    links:
+      - "https://www.plug.events/event/socialles-398-rotterdam-polka647"
+      - "https://www.facebook.com/events/2866300523748974/"
+    start: "2027-01-14T19:30:00+01:00"
+    end: "2027-01-14T22:00:00+01:00"
+    country: Netherlands
+    city: Rotterdam
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €7.50
+    organisation: Balfolk Zuid-Holland
+    source: events/netherlands/plug_balfolk.yaml
   - name: Dance Class Level 5
     details: Course
     links:
@@ -336472,6 +337034,22 @@ events:
     social: false
     organisation: Balfolk Köln
     source: events/germany/cologne.yaml
+  - name: Socialles 399 - bourrée Basis
+    details: "Deze donderdag 21 januari is het socialles 399 in Rotterdam.\r\n\r\nDeze keer gaan we aan de slag met de bourrée in 2: de basis en wellicht al wat leuke variaties. Angelo Hovenga danst zelf de bourrée met aanstekelijk plezier en enthousiasme. Laat je meeslepen door zijn energie en het dansplezier van de bourrée!"
+    links:
+      - "https://www.plug.events/event/socialles-399-rotterdam-bourree-basis556"
+      - "https://www.facebook.com/events/1135213059394065/"
+    start: "2027-01-21T19:30:00+01:00"
+    end: "2027-01-21T22:00:00+01:00"
+    country: Netherlands
+    city: Rotterdam
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €7.50
+    organisation: Balfolk Zuid-Holland
+    source: events/netherlands/plug_balfolk.yaml
   - name: Dance Class Level 5
     details: Course
     links:
@@ -336608,7 +337186,7 @@ events:
       - s-ceilidh
     workshop: false
     social: true
-    price: £21-£27
+    price: £23-£29
     organisation: London Ceilidh Club
     source: events/uk/ceilidh_club.yaml
   - name: Ceilidh Club
@@ -336998,6 +337576,22 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Socialles 400 - Jubileum
+    details: "Dit is de 400e les! Een bijzondere mijlpaal die we natuurlijk samen gaan vieren!\r\n\r\nLeo Visser komt weer naar Rotterdam. Dat betekent gegarandeerd heel veel dansplezier en écht samen (leren) dansen."
+    links:
+      - "https://www.plug.events/event/socialles-400-rotterdam-jubileum313"
+      - "https://www.facebook.com/events/1472377758373154/"
+    start: "2027-01-28T19:30:00+01:00"
+    end: "2027-01-28T22:00:00+01:00"
+    country: Netherlands
+    city: Rotterdam
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €7.50
+    organisation: Balfolk Zuid-Holland
+    source: events/netherlands/plug_balfolk.yaml
   - name: Dance Class Level 5
     details: Course
     links:
@@ -338472,6 +339066,24 @@ events:
   - name: Folkbal
     details: Ball
     links:
+      - "https://folkbalbende.be/event/5239"
+      - "https://www.facebook.com/events/1766405621114425"
+    start: "2027-02-20T19:00:00+01:00"
+    end: "2027-02-20T22:00:00+01:00"
+    country: Belgium
+    city: Bioul
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Baltan
+    price: €15-€25
+    organisation: ~
+    source: events/belgium/folkbalbende.yaml
+  - name: Folkbal
+    details: Ball
+    links:
       - "https://www.canardfolk.be/agenda/"
       - "https://folkbalbende.be/event/5215"
     start: "2027-02-20T19:00:00+01:00"
@@ -339520,6 +340132,20 @@ events:
     social: true
     organisation: Gabi Haun
     source: events/germany/kalender.yaml
+  - name: Ceilidh Club
+    links:
+      - "https://ceilidhclub.com/event/london-ceilidh-club-6-3-27-grand-junction-paddington/"
+    start: "2027-03-06T19:30:00+00:00"
+    end: "2027-03-06T22:30:00+00:00"
+    country: UK
+    city: London
+    styles:
+      - s-ceilidh
+    workshop: false
+    social: true
+    price: £21-£27
+    organisation: London Ceilidh Club
+    source: events/uk/ceilidh_club.yaml
   - name: Social Dance in de Mezrab
     details: Let op! Vanwege locatiebeschikbaarheid zijn we er in maart op de EERSTE zondag van de maand met het leukste balfolkfeestje van Amsterdam! Op het programma accordeonduo  Bellowing Bellows van Lolita Pariaud en Jonathan de Neck en Celtic Constellations komt ook weer terug!
     links:
@@ -342795,7 +343421,6 @@ events:
     social: true
     bands:
       - Academies Van Genk En Tienen
-      - Tienen
     price: €13-€20
     organisation: ~
     source: events/belgium/folkbalbende.yaml
