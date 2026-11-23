@@ -26954,8 +26954,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Élise
-      - Adam
+      - Duo Iredale-Gray & Boeur
+      - Duo Iredale-Gray & Boeur
       - Bellowing Bellows
     price: €12-€18
     organisation: ~
@@ -27027,8 +27027,8 @@ events:
     workshop: true
     social: true
     bands:
-      - Accordance
       - Aos ÓG
+      - Accordance
     price: donation
     organisation: Folknam Musique Trad
   - name: Folkbal
@@ -27046,7 +27046,6 @@ events:
     social: true
     bands:
       - Étudiants de la Section Musiques de Tradition Orale de L’Imep
-      - Havelange
     organisation: ~
   - name: Folkbal
     details: Ball
@@ -28833,7 +28832,7 @@ events:
     workshop: false
     social: true
     bands:
-      - Bamako Express
+      - Floris And The Flames
     price: €15
     organisation: "Muziekclub 't Ey"
   - name: Bal au Chapeau
@@ -29079,11 +29078,14 @@ events:
   - name: Balhalla
     details: Ball
     links:
+      - "https://www.canardfolk.be/agenda/"
       - "https://www.balhalla.be/en/event/balfolk-with-le-bal-de-l-aube"
+      - "https://www.facebook.com/Balhallafolk"
       - "https://folkbalbende.be/event/5057"
       - "https://folkbalbende.be/event/5171"
+      - "https://www.facebook.com/events/1535862464955837"
     start: "2026-12-21T19:00:00+01:00"
-    end: "2026-12-21T23:00:00+01:00"
+    end: "2026-12-21T19:45:00+01:00"
     country: Belgium
     city: Gent
     styles:
@@ -30253,8 +30255,8 @@ events:
     workshop: false
     social: true
     bands:
-      - Jonathan De Neck
       - Cyra
+      - Jonathan De Neck
     price: €15
     organisation: ~
   - name: 30e Anniversaire du Groupe
@@ -30574,7 +30576,6 @@ events:
     social: true
     bands:
       - Academies Van Genk En Tienen
-      - Tienen
     price: €13-€20
     organisation: ~
   - name: Folkpractica
@@ -32988,7 +32989,7 @@ events:
     start: "2027-02-20T19:00:00+01:00"
     end: "2027-02-20T23:30:00+01:00"
     country: Belgium
-    city: Brussels
+    city: Vorst
     styles:
       - balfolk
     workshop: false
@@ -35144,7 +35145,6 @@ events:
     details: Thème Fées et Mages
     links:
       - "https://www.canardfolk.be/agenda/"
-      - "https://folkbalbende.be/event/5234"
     start: "2026-12-31T19:00:00+01:00"
     end: "2027-01-01T01:00:00+01:00"
     country: Belgium
@@ -35156,4 +35156,51 @@ events:
     bands:
       - Pink Folk
     price: €27
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://www.eventbrite.ie/e/ceili-mor-tickets-2004285282233"
+      - "https://www.facebook.com/photo?fbid=10216528272874603&set=a.1377474052174"
+      - "https://folkbalbende.be/event/5235"
+    start_date: 2026-11-28
+    end_date: 2026-11-28
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: ~
+  - name: Baleynbal
+    details: Ball
+    links:
+      - "https://tey.be/programma/2026/12/04/folkafdeling-dacademie-podium-baleynbal"
+      - "https://folkbalbende.be/event/5236"
+      - "https://www.facebook.com/events/880400018428448"
+    start_date: 2026-12-04
+    end_date: 2026-12-04
+    country: Belgium
+    city: Sint-Niklaas
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: "'t Ey"
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://folkbalbende.be/event/5239"
+      - "https://www.facebook.com/events/1766405621114425"
+    start_date: 2027-02-20
+    end_date: 2027-02-20
+    country: Belgium
+    city: Bioul
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Second Souffle
     organisation: ~
