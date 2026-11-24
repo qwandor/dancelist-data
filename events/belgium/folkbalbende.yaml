@@ -8154,9 +8154,10 @@ events:
     workshop: false
     social: true
     organisation: ~
-  - name: Baleynbal
+  - name: Folkbal
     details: Ball
     links:
+      - "https://www.canardfolk.be/agenda/"
       - "https://tey.be/programma/2026/12/04/folkafdeling-dacademie-podium-baleynbal"
       - "https://folkbalbende.be/event/5236"
       - "https://www.facebook.com/events/880400018428448"
@@ -8168,6 +8169,8 @@ events:
       - balfolk
     workshop: false
     social: true
+    bands:
+      - "Département Folk de L'académie Podium de Sint-Niklaas"
     organisation: "'t Ey"
   - name: Folkbal
     details: Ball
@@ -8186,22 +8189,6 @@ events:
     bands:
       - Second Souffle
     organisation: ~
-  - name: 34e Réveillon Rêve Folk (thème Fées et Mages)
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda/"
-      - "https://folkbalbende.be/event/5243"
-    start_date: 2026-12-31
-    end_date: 2026-12-31
-    country: Belgium
-    city: Rochefort
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Pink Folk
-    organisation: ~
   - name: Groot Bal
     details: Ball
     links:
@@ -8216,3 +8203,37 @@ events:
     social: true
     price: €15-€25
     organisation: Balafolk
+  - name: Folkbal
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://folkbalbende.be/event/5245"
+      - "https://www.facebook.com/events/2328176647968948"
+    start: "2027-02-06T15:00:00+01:00"
+    end: "2027-02-06T15:45:00+01:00"
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Loogaroo
+      - Juicebox
+    organisation: ~
+  - name: 34e Réveillon Rêve Folk (thème Fées et Mages)
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://folkbalbende.be/event/5246"
+    start_date: 2026-12-31
+    end_date: 2026-12-31
+    country: Belgium
+    city: Rochefort
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    bands:
+      - Pink Folk
+    organisation: ~
