@@ -312121,7 +312121,7 @@ events:
     start: "2026-09-26T10:00:00+02:00"
     end: "2026-09-27T17:00:00+02:00"
     country: Netherlands
-    city: Hellevoetsluis
+    city: Voorne
     styles:
       - balfolk
     workshop: true
@@ -330176,7 +330176,6 @@ events:
     links:
       - "https://www.eventbrite.ie/e/ceili-mor-tickets-2004285282233"
       - "https://www.facebook.com/photo?fbid=10216528272874603&set=a.1377474052174"
-      - "https://folkbalbende.be/event/5235"
     start: "2026-11-28T19:00:00+01:00"
     end: "2026-11-28T21:30:00+01:00"
     country: Belgium
@@ -330608,7 +330607,7 @@ events:
     organisation: 3...4
     source: events/belgium/folkbalbende.yaml
   - name: Workshop & Bal
-    details: "Een gezellig bal in het hoge noorden met Odevare, na een intressante workshop van Leo Visser.\r\nMet tussendoor een moment om na je dansskills ook je culinaire skills aan het licht te brengen met een gezellige potluck. (Dus neem wat lekkers mee en vergeet geen bordje of bestek)\r\n\r\nWorkshop Bretonse dansen en branle de Noirmoutier:\r\nhttps://www.plug.events/event/workshop-bretonse-dansen-en-branle-de-noir494"
+    details: "Een gezellig bal in het hoge noorden met de primeur van het eerste bal van Duo Leemans-Masure, na een intressante workshop van Leo Visser.\r\n\r\nMet tussendoor een moment om na je dansskills ook je culinaire skills aan het licht te brengen met een gezellige potluck. (Dus neem wat lekkers mee en vergeet geen bordje of bestek)\r\n\r\nBal begint om 19:30 met instructie.\r\nBal zelf begint om 20:30 begint de muziek\r\n\r\nWorkshop Bretonse dansen en branle de Noirmoutier:\r\nhttps://www.plug.events/event/workshop-bretonse-dansen-en-branle-de-noir494"
     links:
       - "https://www.plug.events/event/bal-met-odevare850"
       - "https://www.plug.events/event/workshop-bretonse-dansen-en-branle-de-noir494"
@@ -330621,7 +330620,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Odevare
+      - Duo Leemans-Masure
     price: €12.50-€37.50
     organisation: Balfolk Fryslân
     source: events/netherlands/plug_balfolk.yaml
@@ -334732,6 +334731,23 @@ events:
     price: $10
     organisation: Gainesville English Country Dance
     source: events/usa/cdss.yaml
+  - name: Cincinnati Monday Night Contra
+    details: "Cincinnati Contra Dance Local dancing at the Wyoming Arts Center \nMonday dances start at 7:30 pm with a free intro session at 7:00 pm. The dances run from 7:30 pm to 9:30 pm. \nSuggested donation:\n$2 Full time students\nChildren 12 & under free\n$5 Adults\nAll are welcome! \nAny donation is much appreciated to help sustain our dance.\nLarger donations can be tax deductible if you inform Larry Lankford, CCD"
+    links:
+      - "https://www.cincinnaticontradance.org/dance-schedule"
+      - "https://cdss.org/event/monday-night-contra/2026-12-14/"
+    start: "2026-12-14T19:00:00-05:00"
+    end: "2026-12-14T21:30:00-05:00"
+    country: USA
+    state: OH
+    city: Wyoming
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $2-$5
+    organisation: Cincinnati Contra Dance
+    source: events/usa/cdss.yaml
   - name: Knoxville Monday Night Contra
     details: "Contra dancing to live music every Monday evening in Knoxville, TN. The dance begins at 7:30 with a lesson for new folks starting at 7:00. Everyone welcome."
     links:
@@ -334782,6 +334798,25 @@ events:
     social: true
     price: $5-$10
     organisation: Chicago Barn Dance Company
+    source: events/usa/cdss.yaml
+  - name: Louisville Contra Dance
+    details: "Louisville, Kentucky’s weekly Monday night contra dance, always featuring live music from the Monday Night All Stars open band! Dancing is 8:00-10:30pm with a beginner’s lesson at 7:30pm. Waltzing and snacks available at the break. Check out our website for details on the caller and special performances. Open calling on 5th Mondays!"
+    links:
+      - "https://www.louisvillecountrydancers.org/dance-with-us-1"
+      - "https://cdss.org/event/louisville-contra-dance/2026-12-14/"
+    start: "2026-12-14T19:30:00-05:00"
+    end: "2026-12-14T22:30:00-05:00"
+    country: USA
+    state: KY
+    city: Louisville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Monday Night All Stars
+    price: $5-$10
+    organisation: Louisville Country Dancers
     source: events/usa/cdss.yaml
   - name: Austin English Country Dance
     details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
@@ -334932,6 +334967,42 @@ events:
     price: €2-€6
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Hayesville Contra Dance
+    details: "Welcome to the very first contra dance series at the recently renovated Elf School of the Arts! People are welcome to come on their own, with a partner, or with the whole family. No experience or fancy clothing is needed. Folks are also invited to enjoy live music from local bands even if they don’t want to dance. \nBands The Wildflower Pickers and Paddy’s Return are performing lively tunes for the dances. Both groups regularly perform at the John C. Campbell Folk School. \nHarrison Keely, a Brasstown-based dance caller who teaches barn dances for parties, weddings, and communities around the southeast, will call most of the dances. He is a regular on the John C. Campbell Folk School schedule. \n$5-15 donation suggested"
+    links:
+      - "https://cdss.org/event/hayesville-contra-dance-2/2026-12-15/"
+      - "https://www.facebook.com/events/1094361916469601/1094361936469599/"
+    start: "2026-12-15T19:00:00-05:00"
+    end: "2026-12-15T21:00:00-05:00"
+    country: USA
+    state: NC
+    city: Hayesville
+    styles:
+      - contra
+    workshop: false
+    social: true
+    callers:
+      - Harrison Keely
+    price: $5-$15
+    organisation: CDSS
+    source: events/usa/cdss.yaml
+  - name: English Country Dance for all
+    details: "Join us on Tuesdays in the West Village for a friendly evening of social dance. Our programs include early dances circa 1651 to contemporary choreographies. English Country Dance (ECD) has been enjoyed by the likes of Jane Austen and Thomas Jefferson, and you are invited to join in the pleasures of this community social dance. English dances and their tunes vary from elegant to energetic and from stately to boisterous, and you will experience all these facets of English Country Dance in an evening as you dance to live music. You can see many examples of ECD at Childgrove on YouTube. \nNewcomers are always welcome at CDNY, where all dances are taught. A skills session is offered after the third dance of the evening for English Country dances. If you choose to participate, you will receive more in-depth teaching of terms and dance figures, then rejoin the group. \nThe steps are simple: generally walking or skipping. You can come by yourself and be assured of dancing throughout the evening, since our tradition is to change partners for each dance. Anyone can invite anyone else to dance, regardless of gender or experience. ECD will satisfy your wish for an artistic outlet, pleasurable exercise, a warm social community, mental stimulation, and transcendent aesthetic experiences. We invite you to join us! \nAdmission to our dances is on a sliding scale: \nMembers: $15-20; \nNon-members: $20-25; \nFull-time Students: $10"
+    links:
+      - "https://cdny.org/calendar-events"
+      - "https://cdss.org/event/english-country-dance-for-all/2026-12-15/"
+    start: "2026-12-15T19:00:00-05:00"
+    end: "2026-12-15T22:00:00-05:00"
+    country: USA
+    state: NY
+    city: New York
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $10-$25
+    organisation: Country Dance * New York
+    source: events/usa/cdss.yaml
   - name: "Queer Social, Balfolk & Contra"
     details: "This event will be half social chats with a bunch of like-minded queer people and half fun, educational and interactive dancing workshop."
     links:
@@ -335625,7 +335696,7 @@ events:
     details: Thème Fées et Mages
     links:
       - "https://www.canardfolk.be/agenda/"
-      - "https://folkbalbende.be/event/5246"
+      - "https://folkbalbende.be/event/5258"
     start: "2026-12-31T19:00:00+01:00"
     end: "2027-01-01T01:00:00+01:00"
     country: Belgium
@@ -335949,7 +336020,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-8-challenge/1500/"
       - "https://folkbalbende.be/event/5228"
-      - "https://www.facebook.com/events/1134186215920688/1134186349254008/"
+      - "https://www.facebook.com/events/2121045808778152/2121045828778150/"
     start: "2027-01-05T19:30:00+01:00"
     end: "2027-01-05T21:00:00+01:00"
     country: Belgium
@@ -335988,6 +336059,22 @@ events:
     price: €5
     organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
+  - name: Practica in de Pianofabriek
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/practica-at-de-pianofabriek/1513/"
+      - "https://folkbalbende.be/event/5252"
+      - "https://www.facebook.com/events/1488971458394126/2118841388740460/"
+    start: "2027-01-05T20:30:00+01:00"
+    end: "2027-01-05T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
   - name: Eurodance
     links:
       - "https://gregson.co.uk/event/eurodance-2-2-2/2027-01-05/"
@@ -336565,7 +336652,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-8-challenge/1500/"
       - "https://folkbalbende.be/event/5228"
-      - "https://www.facebook.com/events/1134186215920688"
+      - "https://www.facebook.com/events/2121045808778152"
     start: "2027-01-12T19:30:00+01:00"
     end: "2027-01-12T21:00:00+01:00"
     country: Belgium
@@ -337141,7 +337228,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-8-challenge/1500/"
       - "https://folkbalbende.be/event/5228"
-      - "https://www.facebook.com/events/1134186215920688"
+      - "https://www.facebook.com/events/2121045808778152"
     start: "2027-01-19T19:30:00+01:00"
     end: "2027-01-19T21:00:00+01:00"
     country: Belgium
@@ -337167,6 +337254,22 @@ events:
     price: €5
     organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
+  - name: Practica in de Pianofabriek
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/practica-at-de-pianofabriek/1514/"
+      - "https://folkbalbende.be/event/5253"
+      - "https://www.facebook.com/events/1488971458394126/2118841402073792/"
+    start: "2027-01-19T20:30:00+01:00"
+    end: "2027-01-19T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
   - name: Dance Class Level 3
     details: Course
     links:
@@ -337697,7 +337800,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-8-challenge/1500/"
       - "https://folkbalbende.be/event/5228"
-      - "https://www.facebook.com/events/1134186215920688"
+      - "https://www.facebook.com/events/2121045808778152"
     start: "2027-01-26T19:30:00+01:00"
     end: "2027-01-26T21:00:00+01:00"
     country: Belgium
@@ -338242,7 +338345,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-8-challenge/1500/"
       - "https://folkbalbende.be/event/5228"
-      - "https://www.facebook.com/events/1134186215920688"
+      - "https://www.facebook.com/events/2121045808778152"
     start: "2027-02-02T19:30:00+01:00"
     end: "2027-02-02T21:00:00+01:00"
     country: Belgium
@@ -338268,6 +338371,22 @@ events:
     price: €5
     organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
+  - name: Practica in de Pianofabriek
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/practica-at-de-pianofabriek/1515/"
+      - "https://folkbalbende.be/event/5254"
+      - "https://www.facebook.com/events/1488971458394126/2118841405407125/"
+    start: "2027-02-02T20:30:00+01:00"
+    end: "2027-02-02T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
   - name: Eurodance
     links:
       - "https://gregson.co.uk/event/eurodance-2-2-2/2027-02-02/"
@@ -339010,7 +339129,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-8-challenge/1500/"
       - "https://folkbalbende.be/event/5228"
-      - "https://www.facebook.com/events/1134186215920688"
+      - "https://www.facebook.com/events/2121045808778152"
     start: "2027-02-16T19:30:00+01:00"
     end: "2027-02-16T21:00:00+01:00"
     country: Belgium
@@ -339565,7 +339684,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-8-challenge/1500/"
       - "https://folkbalbende.be/event/5228"
-      - "https://www.facebook.com/events/1134186215920688"
+      - "https://www.facebook.com/events/2121045808778152"
     start: "2027-02-23T19:30:00+01:00"
     end: "2027-02-23T21:00:00+01:00"
     country: Belgium
@@ -339591,6 +339710,22 @@ events:
     price: €5
     organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
+  - name: Practica in de Pianofabriek
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/practica-at-de-pianofabriek/1516/"
+      - "https://folkbalbende.be/event/5255"
+      - "https://www.facebook.com/events/1488971458394126/2118841395407126/"
+    start: "2027-02-23T20:30:00+01:00"
+    end: "2027-02-23T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
   - name: Balfolk Open les
     details: Course
     links:
@@ -340090,7 +340225,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-8-challenge/1500/"
       - "https://folkbalbende.be/event/5228"
-      - "https://www.facebook.com/events/1134186215920688"
+      - "https://www.facebook.com/events/2121045808778152"
     start: "2027-03-02T19:30:00+01:00"
     end: "2027-03-02T21:00:00+01:00"
     country: Belgium
@@ -340578,7 +340713,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-8-challenge/1500/"
       - "https://folkbalbende.be/event/5228"
-      - "https://www.facebook.com/events/1134186215920688"
+      - "https://www.facebook.com/events/2121045808778152"
     start: "2027-03-09T19:30:00+01:00"
     end: "2027-03-09T21:00:00+01:00"
     country: Belgium
@@ -340604,6 +340739,22 @@ events:
     price: €5
     organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
+  - name: Practica in de Pianofabriek
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/practica-at-de-pianofabriek/1518/"
+      - "https://folkbalbende.be/event/5256"
+      - "https://www.facebook.com/events/1488971458394126/2118841398740459/"
+    start: "2027-03-09T20:30:00+01:00"
+    end: "2027-03-09T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
   - name: Balfolk Open les
     details: Course
     links:
@@ -340979,7 +341130,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-8-challenge/1500/"
       - "https://folkbalbende.be/event/5228"
-      - "https://www.facebook.com/events/1134186215920688"
+      - "https://www.facebook.com/events/2121045808778152"
     start: "2027-03-16T19:30:00+01:00"
     end: "2027-03-16T21:00:00+01:00"
     country: Belgium
@@ -341457,7 +341608,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/dance-class-level-8-challenge/1500/"
       - "https://folkbalbende.be/event/5228"
-      - "https://www.facebook.com/events/1134186215920688"
+      - "https://www.facebook.com/events/2121045808778152"
     start: "2027-03-23T19:30:00+01:00"
     end: "2027-03-23T21:00:00+01:00"
     country: Belgium
@@ -341483,6 +341634,22 @@ events:
     price: €5
     organisation: Balfolk Zeist
     source: events/netherlands/plug_balfolk.yaml
+  - name: Practica in de Pianofabriek
+    details: Ball
+    links:
+      - "https://frissefolk.be/en/event-en/practica-at-de-pianofabriek/1521/"
+      - "https://folkbalbende.be/event/5257"
+      - "https://www.facebook.com/events/1488971458394126/2118841392073793/"
+    start: "2027-03-23T20:30:00+01:00"
+    end: "2027-03-23T22:30:00+01:00"
+    country: Belgium
+    city: Brussels
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    organisation: Frisse Folk Vzw/asbl
+    source: events/belgium/folkbalbende.yaml
   - name: Balfolk Open les
     details: Course
     links:
@@ -344355,6 +344522,20 @@ events:
     price: $10-$15
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Balfolk Voorne Weekend
+    details: Balfolk event
+    links:
+      - "https://www.plug.events/event/balfolk-voorne-weekend3"
+    start: "2027-09-10T17:00:00+02:00"
+    end: "2027-09-11T23:00:00+02:00"
+    country: Netherlands
+    city: Voorne
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    organisation: Balfolk Voorne
+    source: events/netherlands/plug_balfolk.yaml
   - name: Cabal
     details: Ball
     links:
