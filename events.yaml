@@ -331592,6 +331592,22 @@ events:
     price: $10-$12
     organisation: CDSS
     source: events/usa/cdss.yaml
+  - name: English Country Dance
+    links:
+      - "https://tsdav.asn.au/event/english-country/2026-12-04/"
+      - "https://dancingtheweb.com/ecd/wellhall/index.html"
+    start: "2026-12-04T20:00:00+11:00"
+    end: "2026-12-04T22:00:00+11:00"
+    country: Australia
+    state: VIC
+    city: Melbourne
+    styles:
+      - ecd
+    workshop: false
+    social: true
+    price: $7
+    organisation: Well Hall Dancers
+    source: events/australia/melbourne.yaml
   - name: Bal Luminescence
     details: "A co-creative bal folk event for everybody who wants to have a great time, regardless of the know how."
     links:
