@@ -231727,7 +231727,7 @@ events:
     start: "2025-11-23T20:00:00+01:00"
     end: "2025-11-23T22:00:00+01:00"
     country: Netherlands
-    city: Ubbergen
+    city: Nijmegen
     styles:
       - balfolk
     workshop: false
@@ -251191,6 +251191,27 @@ events:
     price: $5-$7
     organisation: Sleepy Sun Studios
     source: events/usa/cdss.yaml
+  - name: Supersonic
+    links:
+      - "https://supersoniccontra.dance"
+    start: "2026-02-05T18:30:00-08:00"
+    end: "2026-02-07T15:00:00-08:00"
+    country: USA
+    state: WA
+    city: Seattle
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Red Case Band
+      - The Figments
+    callers:
+      - Michael Karcher
+      - Seth Tepfer
+    price: $150-$270
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
   - name: Contra Dance
     details: "17:30  Intro to steps + dances (no experience required)\r\n18:00 a few simple contra dances\r\n19:30 snack break - potluck (bring food to share)\r\n20:00 a few simple and a few trickier contra dances\r\n21:30 end\r\n\r\n\r\nContra dancing is a folk dance of mixed English and American tradition that currently has a reputation for being diverse, inclusive and open. Dances are done in long lines and can be with or without partners. The steps are simple figures that a caller combines together to create a longer pattern that is repeated until the music ends."
     links:
@@ -266535,7 +266556,7 @@ events:
       - Adina Gordon
       - Bill Olson
       - Dugan Murphy
-    price: $13
+    price: $13-$20
     organisation: DownEast Friends of the Folk Arts
     source: events/usa/cdss.yaml
   - name: Melt Into Spring
@@ -330849,6 +330870,7 @@ events:
     social: true
     price: €3
     organisation: Balfolk Fryslân
+    cancelled: true
     source: events/netherlands/plug_balfolk.yaml
   - name: Gainesville English Country Dance
     details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
@@ -334578,6 +334600,107 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Dansavond
+    details: "Maandag avond gezellig dansen. Iedereen is welkom!\r\nWe starten om 20:30 tot 22:00."
+    links:
+      - "https://www.plug.events/event/dansavond230"
+    start: "2026-12-14T20:30:00+01:00"
+    end: "2026-12-14T22:00:00+01:00"
+    country: Netherlands
+    city: Leeuwarden
+    styles:
+      - balfolk
+    workshop: false
+    social: true
+    price: €3
+    organisation: Balfolk Fryslân
+    source: events/netherlands/plug_balfolk.yaml
+  - name: Gainesville English Country Dance
+    details: "This is an open dance group. No experience, special dress or partner needed. Every Monday we dance the dances from Jane Austen period to those being written today. \nWe dance at the United Church of Gainesville, 1624 NW 5th Avenue, Gainesville, FL. \nLesson at 6:00 pm. Dance from 6:30 – 8:30. \nLive music by Hoggetowne Fancy. \nCost is $5 for the room and a similar amount for the band. \nWe have a very welcoming and helpful group."
+    links:
+      - "https://cdss.org/event/english-country-dance-on-mondays-in-gainesville/2026-12-14/"
+    start: "2026-12-14T18:00:00-05:00"
+    end: "2026-12-14T20:30:00-05:00"
+    country: USA
+    state: FL
+    city: Gainesville
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Hoggetowne Fancy
+    price: $10
+    organisation: Gainesville English Country Dance
+    source: events/usa/cdss.yaml
+  - name: Knoxville Monday Night Contra
+    details: "Contra dancing to live music every Monday evening in Knoxville, TN. The dance begins at 7:30 with a lesson for new folks starting at 7:00. Everyone welcome."
+    links:
+      - "https://www.knoxvillecontra.org/schedule"
+      - "https://cdss.org/event/knoxville-monday-night-contra/2026-12-14/"
+    start: "2026-12-14T19:00:00-05:00"
+    end: "2026-12-14T22:30:00-05:00"
+    country: USA
+    state: TN
+    city: Knoxville
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Knoxville Contra Dance
+    source: events/usa/cdss.yaml
+  - name: Nashville Monday Night English Country Dance Class
+    details: "Sevier Park Community Center. Parking and entrance to the building are at 3021 Lealand Lane. \nNote: Sevier Park Community Center is closed on Government Holidays. If in doubt, call 615-862-8466 (Park Office) to check. \nWe welcome experienced and beginning dancers. This is an excellent opportunity for beginners. \nCost: free. \nNo registration is required. Please sign in at the front desk when you enter."
+    links:
+      - "https://www.nashvillecountrydancers.org/english-country-dances"
+      - "https://cdss.org/event/nashville-monday-night-english-country-dance-class/2026-12-14/"
+    start: "2026-12-14T18:00:00-06:00"
+    end: "2026-12-14T19:30:00-06:00"
+    country: USA
+    state: TN
+    city: Nashville
+    styles:
+      - ecd
+    workshop: true
+    social: false
+    price: free
+    organisation: Nashville Country Dancers
+    source: events/usa/cdss.yaml
+  - name: Chicago Contra Dance
+    details: "The Chicago Barn Dance Company sponsors and supports contra dance, traditional square dance, and old-time music in the Chicago area. Our dances are held every Monday night, except holidays, in the beautiful fourth-floor Erin Ballroom at Chicago’s Irish American Heritage Center. The dance venue is near the Montrose Blue Line stop, or you can park in the large FREE parking lot on site. \nAdmission is $7-$10 for adults, $5 for seniors and students. Come at 6:30pm if you would like a beginner/refresher lesson."
+    links:
+      - "https://www.chicagobarndance.org/calendar/"
+      - "https://cdss.org/event/chicago-contra-dance/2026-12-14/"
+    start: "2026-12-14T18:30:00-06:00"
+    end: "2026-12-14T21:40:00-06:00"
+    country: USA
+    state: IL
+    city: Chicago
+    styles:
+      - contra
+    workshop: true
+    social: true
+    price: $5-$10
+    organisation: Chicago Barn Dance Company
+    source: events/usa/cdss.yaml
+  - name: Austin English Country Dance
+    details: "Join us for our weekly Monday English country dance. All levels welcome on regular Mondays, but first-time dancers should arrive at 7:15pm for an intro session. We dance more challenging dances in the second half of the evening. Check our calendar for special events (live music!) or facility closures. Please sign in upon arrival; entry is $5 (cash, exact change appreciated)."
+    links:
+      - "https://taada.us/wp/events/"
+      - "https://cdss.org/event/austin-english-country-dance/2026-12-14/"
+    start: "2026-12-14T19:15:00-06:00"
+    end: "2026-12-14T21:30:00-06:00"
+    country: USA
+    state: TX
+    city: Austin
+    styles:
+      - ecd
+    workshop: true
+    social: true
+    price: $5
+    organisation: CDSS
+    source: events/usa/cdss.yaml
   - name: Beginner class at Univ Heights Center
     details: "<p><font>We will have a party on <b>December 14</b> with <b>live music and pizza </b></font><b> </b>with less teaching and more dancing.  Come join us for a fun time and meet our wonderful students! <br> <br>AFTER Dec 14, there is a short break and classes will restart on Jan 4  from 7-9 pm  This class is FREE, thanks to support from the Jane Isakson Lea Foundation.</p><p><span> The focus is on beginners; advanced dancers are welcome as well.  Singles and couples are welcome.  We change partners frequently, and anybody can do either role.  We cover basic turning skills and variants of Waltz, Pivot, Schottis, Hambo, Rørospols, and other lovely couple turning dances, as well as fun mixers. </span></p><p><span> Bring clean shoes to change into, with smooth soles and low flat heels for easy turning.  If you don't have dance shoes, we have dance socks to help you turn easily.  Show up any time; no need to pre-register.  </span></p><p></p><p></p><span>To get the code to enter the door, text Lisa at 206-258-2580 </span>"
     links:
@@ -335079,6 +335202,24 @@ events:
     price: €22.50-€25
     organisation: Balfolk Amsterdam
     source: events/netherlands/plug_balfolk.yaml
+  - name: KA-Balfolk
+    details: "Mit Bal de L'Aube (18:00Uhr) und Workshop von Fabien Bucher (16:00Uhr), kurzfristige Änderungen bitte der Homepage entnehmen"
+    links:
+      - "https://ka-balfolk.de/termine-elementor/"
+      - "https://kalender.digital/574d155c91900caea879/event/4564604566"
+    start: "2026-12-20T16:00:00+01:00"
+    end: "2026-12-20T21:00:00+01:00"
+    country: Germany
+    city: Karlsruhe
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - "Bal de l'Aube"
+    price: €15-€32
+    organisation: KA-BalFolk
+    source: events/germany/kalender.yaml
   - name: Bal de la Cabane du Bout du Monde
     details: Ball
     links:
@@ -335097,21 +335238,6 @@ events:
     price: €7-€12
     organisation: ~
     source: events/belgium/folkbalbende.yaml
-  - name: KA-Balfolk
-    links:
-      - "https://ka-balfolk.de/termine-elementor/"
-    start: "2026-12-20T18:00:00+01:00"
-    end: "2026-12-20T21:00:00+01:00"
-    country: Germany
-    city: Karlsruhe
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - "Bal de l'Aube"
-    organisation: KA-BalFolk
-    source: events/germany/karlsruhe.yaml
   - name: Tanzen für alle
     details: "Jahresabschluss Montagstanz. \nKein Kurs (es sei denn irgend jemand hat spontan Lust irgendwas zu erklären) sondern freies Tanzen für alle."
     links:
@@ -335142,7 +335268,7 @@ events:
     workshop: true
     social: true
     bands:
-      - "Le Bal de L'aube"
+      - "Bal de L'Aube"
     price: €10-€18
     organisation: Balhalla
     source: events/belgium/folkbalbende.yaml
@@ -335382,6 +335508,7 @@ events:
     details: Thème Fées et Mages
     links:
       - "https://www.canardfolk.be/agenda/"
+      - "https://folkbalbende.be/event/5246"
     start: "2026-12-31T19:00:00+01:00"
     end: "2027-01-01T01:00:00+01:00"
     country: Belgium
@@ -336085,7 +336212,7 @@ events:
     organisation: Bal en Soir
     source: events/france/paris_balfolk.yaml
   - name: Oxfolk Ceilidh
-    details: "Doors 7.30pm, dancing from 8 until 11pm.\n\nThe Bristol Ceilidh Quartet brings together three English folk fiddlers and a fab cellist to make a big string sound with loads of energy and drive. They take great tunes and create exciting arrangements exploring the dynamic range of the string quartet. This isn’t serious classical music though, all of them have spent many years playing for traditional dance; every tune is calculated to get feet tapping and people on the dance floor. They are Nonny Tabbush on fiddle, Sarah Moody on cello, Alison Rowley and Deb Chalmers both on fiddle and viola.\nThe charismatic caller and dancer Hannah Moore joins the band with a great selection of dances and a brilliant way of explaining them. Hannah uses gender neutral, positional calls.\nThere is a licensed bar with ale, cider, wine and soft drinks.\nSaving the planet - Oxfolk is no longer serving drinks in disposable glasses so please bring along your own reusable glasses or purchase an Oxfolk one at the bar.\n\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on info@oxfolk.org.uk"
+    details: "Doors 7.30pm, dancing from 8 until 11pm.\n\nThe Bristol Ceilidh Quartet brings together three English folk fiddlers and a fab cellist to make a big string sound with loads of energy and drive. They take great tunes and create exciting arrangements exploring the dynamic range of the string quartet. This isn’t serious classical music though, all of them have spent many years playing for traditional dance; every tune is calculated to get feet tapping and people on the dance floor. They are Nonny Tabbush on fiddle, Sarah Moody on cello, Alison Rowley and Deb Chalmers both on fiddle and viola.\nWe are delighted to have caller Fee Lock at Oxfolk tonight, who rocks the stage with her inimitable style and panache. You are guaranteed to find your new favourite dances perfectly matched to banging tunes. Unmissable. Fee uses gender neutral, positional calls.\nThere is a licensed bar with ale, cider, wine and soft drinks.\nSaving the planet - Oxfolk is no longer serving drinks in disposable glasses so please bring along your own reusable glasses or purchase an Oxfolk one at the bar.\n\n\n\nTickets and Payments\n- Standard £14 on the door or in advance\n- Concession (eg unwaged, low income, students, pensioners) - £10 on the door or in advance\nWe don't ask for proof of concession: if you can't afford to pay the standard price, you are eligible for a concession, no questions asked\n- 5-16s £4 on the door or in advance\n- Under 5s free\n- Carer free - if you have a disability and need a personal assistant so that you can enjoy an evening at Oxfolk, we’re happy to provide you with an extra ticket for them, free of charge\nContact us for details of group discounts.\nAll under 16s must be accompanied by parent, guardian or an adult acting in loco parentis.\nWe accept online payments here with PayPal. Please contact us directly for other options.\nIllness and Refund Policy\n\n\n \t\nIf you're feeling unwell and may be suffering from a transmissible illness, please don't come and we'll refund.\n\n\nAccess\n\n\n \t\nIf you have a disability and need someone with you so that you can enjoy our events, we're happy to provide you with a ticket for them, free of charge. You can book a carer’s ticket when you book your own.\n\n \t\nThere is one accessible parking space adjacent to the Centre. There is level access into the Centre, with a ramp at the front. An accessible toilet is available.\n\n \t\nLighting is, depending on the time of day, natural light or the hall’s own lighting. We do not use flashing lights.\n\n \t\nThere is a quieter area in the lobby, which is next to the hall but also separate from it.\n\n \t\nFor called dances, use of non-gendered positional terms or alternative role names in calling is explained in the event description.\n\n\nIf you have any questions please contact us on info@oxfolk.org.uk"
     links:
       - "https://oxfolk.org.uk/events/oxfolk-ceilidh-with-bristol-ceilidh-quartet-and-caller-hannah-moore/"
       - "https://www.tickettailor.com/events/oxfolkceilidhs/2375587"
@@ -336100,7 +336227,7 @@ events:
     bands:
       - Bristol Ceilidh Quartet
     callers:
-      - Hannah Moore
+      - Fee Lock
     price: £4-£14
     organisation: Oxfolk
     source: events/uk/oxfolk.yaml
@@ -337088,7 +337215,7 @@ events:
     source: events/usa/trycontra.yaml
   - name: Contra Swing Shift Weekend
     links:
-      - "https://ltda.us/swingshift.htm"
+      - "https://ltda.us/swingshift2027.html"
     start_date: 2027-01-22
     end_date: 2027-01-23
     country: USA
@@ -337849,6 +337976,7 @@ events:
     links:
       - "https://frissefolk.be/en/event-en/bal-duo-tanghe-coudroy-&-fahrenheit%C2%A0-la-tricoterie-25-years-of-frisse-folk!/1512"
       - "https://folkbalbende.be/event/5232"
+      - "https://www.facebook.com/events/1160517933423581"
     start: "2027-01-31T17:30:00+01:00"
     end: "2027-01-31T22:00:00+01:00"
     country: Belgium
@@ -338185,6 +338313,25 @@ events:
     price: donation
     organisation: Contra Dance in Graz
     source: events/austria/graz-contra.yaml
+  - name: KA-Balfolk
+    details: "Balfolk mit Folk my life und Avalanche (20:00 Uhr) sowie vorher Workshop (17:30 Uhr), kurzfristige Änderungen möglich, sind auf Homepage."
+    links:
+      - "https://ka-balfolk.de/termine-elementor/"
+      - "https://kalender.digital/574d155c91900caea879/event/4564651015"
+      - "https://kalender.digital/574d155c91900caea879/event/3435559585"
+    start: "2027-02-05T17:30:00+01:00"
+    end: "2027-02-05T23:00:00+01:00"
+    country: Germany
+    city: Karlsruhe
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Avalanche
+      - Folk My Life!
+    organisation: KA-BalFolk
+    source: events/germany/kalender.yaml
   - name: Krokusboombal
     details: Ball
     links:
@@ -338205,23 +338352,6 @@ events:
     price: €21.25-€25.25
     organisation: Boombal
     source: events/belgium/folkbalbende.yaml
-  - name: KA-Balfolk
-    links:
-      - "https://ka-balfolk.de/termine-elementor/"
-      - "https://kalender.digital/574d155c91900caea879/event/3435559585"
-    start: "2027-02-05T20:00:00+01:00"
-    end: "2027-02-05T23:00:00+01:00"
-    country: Germany
-    city: Karlsruhe
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Avalanche
-      - Folk My Life!
-    organisation: KA-BalFolk
-    source: events/germany/kalender.yaml
   - name: Balfolk at Cinex
     details: Ball
     links:
@@ -338291,6 +338421,8 @@ events:
     details: Ball
     links:
       - "https://folkbalbende.be/event/3655"
+      - "https://folkbalbende.be/event/5245"
+      - "https://www.facebook.com/events/2328176647968948/"
     start: "2027-02-06T15:00:00+01:00"
     end: "2027-02-06T22:00:00+01:00"
     country: Belgium
@@ -338488,6 +338620,24 @@ events:
       - Wendy Graham
     organisation: TryContra
     source: events/usa/trycontra.yaml
+  - name: Dance Flurry Festival
+    links:
+      - "http://www.flurryfestival.org/"
+    start: "2027-02-11T20:00:00-05:00"
+    end: "2027-02-14T18:00:00-05:00"
+    country: USA
+    state: NY
+    city: Saratoga Springs
+    styles:
+      - balfolk
+      - contra
+      - ecd
+      - scandi
+      - scd
+    workshop: true
+    social: true
+    organisation: Dance Flurry Organization (DFO)
+    source: events/usa/trycontra.yaml
   - name: "Ça Bal'Wanze"
     details: Ball
     links:
@@ -338520,6 +338670,26 @@ events:
     price: £21-£27
     organisation: London Ceilidh Club
     source: events/uk/ceilidh_club.yaml
+  - name: Corvallis Contra Weekend
+    links:
+      - "https://corvallisfolklore.org/home/ccw/"
+    start: "2027-02-12T18:30:00-08:00"
+    end: "2027-02-14T22:30:00-08:00"
+    country: USA
+    state: OR
+    city: Corvallis
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - River Road
+      - The Dam Beavers
+    callers:
+      - Adina Gordon
+      - Koren Wake
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
   - name: Folk Dance for Beginners - Level 2
     details: Course
     links:
@@ -339446,8 +339616,11 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Patchwork
     callers:
       - Isaac Banner
+    price: $75-$165
     organisation: Sleepy Sun Studios
     source: events/usa/trycontra.yaml
   - name: Balhalla Festival
@@ -340421,6 +340594,42 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: DownEast Country Dance Festival
+    links:
+      - "http://www.deffa.org/festival/"
+    start_date: 2027-03-12
+    end_date: 2027-03-14
+    country: USA
+    state: ME
+    city: Topsham
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Stove Dravon
+    callers:
+      - Steve Zakon-Anderson
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
+  - name: KA-Balfolk
+    details: "Balfolk mit Bargainatt und Duo Nello (20:00 Uhr) sowie vorher Gesangs-Workshop mit  Tanz-Liedern des Abends (17:30 Uhr), kurzfristige Änderungen bitte der Homepage entnehmen"
+    links:
+      - "https://ka-balfolk.de/termine-elementor/"
+      - "https://kalender.digital/574d155c91900caea879/event/4564680882"
+    start: "2027-03-12T17:30:00+01:00"
+    end: "2027-03-12T23:00:00+01:00"
+    country: Germany
+    city: Karlsruhe
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - Bargainatt
+      - Duo Nello
+    organisation: KA-BalFolk
+    source: events/germany/kalender.yaml
   - name: Folk Inferno XXIV
     details: "Balfolk in Zwolle gaat door in seizoen '26-'27.\r\nWe gaan de mooiste bands voor jullie boeken!\r\n\r\nAlvast in je agenda:\r\n25 september 2026\r\n27 november 2026\r\n22 januari 2027\r\n12 maart 2027\r\n28-30 mei 2027"
     links:
@@ -340455,23 +340664,6 @@ events:
       - Emily & The Simons
     organisation: Spreefolk e.V.
     source: events/germany/spreefolk.yaml
-  - name: KA-Balfolk
-    links:
-      - "https://ka-balfolk.de/termine-elementor/"
-      - "https://kalender.digital/574d155c91900caea879/event/3435559605"
-    start: "2027-03-12T20:00:00+01:00"
-    end: "2027-03-12T23:00:00+01:00"
-    country: Germany
-    city: Karlsruhe
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - Bargainatt
-      - Duo Nello
-    organisation: KA-BalFolk
-    source: events/germany/kalender.yaml
   - name: Sun Assembly Spring DanceFest
     details: "Join us for a weekend of English Country Dance workshops and dances led by Joanna Reiner Wilkinson on Saturday–Sunday, March 13–14, 2027. The event will be held at Shared Visions Retreat Center in Durham, NC. Live music by our wonderful local musicians: Julie Gorka (piano), Dean Herington (clarinet, piano), Joey O’Donnell (viola), Walt Robinson (recorders), Mara Shea (fiddle) and friends. \nMake it a dance weekend! Triangle Country Dancers will sponsor a Friday, March 12 contra dance at nearby Carrboro Century Center."
     links:
@@ -340815,6 +341007,12 @@ events:
       - contra
     workshop: true
     social: true
+    bands:
+      - Northwoods
+      - Nouvelle Machine
+    callers:
+      - Scott Higgs
+      - Hannah Chamberlain
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Spring Breakdown
@@ -341541,17 +341739,17 @@ events:
     links:
       - "https://ka-balfolk.de/termine-elementor/"
       - "https://kalender.digital/574d155c91900caea879/event/3435570457"
-    start: "2027-04-03T20:00:00+02:00"
+    start: "2027-04-03T17:30:00+02:00"
     end: "2027-04-03T23:00:00+02:00"
     country: Germany
     city: Karlsruhe
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Diatocello
-      - Xenia
+      - Xenia Twarz
     organisation: KA-BalFolk
     source: events/germany/kalender.yaml
   - name: Reis over de Dansvloer
@@ -341662,22 +341860,6 @@ events:
       - Robin Nelson
     organisation: Tapestry Folkdance Center
     source: events/usa/trycontra.yaml
-  - name: Springforth Ball
-    links:
-      - "https://tadamsva.org/springforth-ball-2026/"
-    start_date: 2027-04-09
-    end_date: 2027-04-11
-    country: USA
-    state: VA
-    city: Richmond
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - The Free Raisins
-    organisation: TADAMS (Traditional American Dance and Music Society)
-    source: events/usa/trycontra.yaml
   - name: Springdans Northwest
     details: "We are excited to announce that Springdans Northwest will be held on April 9-12, 2027, at the Seabeck Conference Center on Hood Canal, west of Seattle. \n\nThe focus will be on the Norwegian dance Hallingspringar, with dance teachers Ingunn Stræte and Lars Fivelstad Smaaberg and hardingfele teachers Johanne Løkensgard Mjøs and Hilde Kirkebøen.\nWe will also have Finnskogspols from the border of Sweden and Norway, with dance teachers Jerry Walsh and Judy Patterson and flat fiddle teachers Thomas and Marit Westling.\n\n(Attendance by the Scandinavian teachers depends on visa approvals.)"
     links:
@@ -341725,6 +341907,25 @@ events:
       - Folkinger
     organisation: Spreefolk e.V.
     source: events/germany/spreefolk.yaml
+  - name: Springforth Ball
+    links:
+      - "https://tadamsva.org/springforth-ball-2027"
+    start: "2027-04-09T18:00:00-04:00"
+    end: "2027-04-11T16:00:00-04:00"
+    country: USA
+    state: VA
+    city: Richmond
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - The Free Raisins
+    callers:
+      - Alex Deis-Lauby
+    price: $95-$150
+    organisation: TADAMS (Traditional American Dance and Music Society)
+    source: events/usa/trycontra.yaml
   - name: PigTown Fling
     details: "Cincinnati Contra Dancers invite you to PigTown Fling Contra Dance Weekend! \nDance to the music of two phenomenal bands: Faux Paws & Stomp Rocket \n+ Fantastic Callers:  \n\nSteve Zakon-Anderson \nDugan Murphy\nEmily Rush\n\nSound: Ed Howe \nMusicians’ Jams Galore; Workshops \nDelicious Catered Meals from Local Caterer! Lunch Saturday, Sunday Brunch!"
     links:
@@ -341885,8 +342086,9 @@ events:
       - WillPower
       - Linda Game
     callers:
+      - Heather McAslan
       - Louise Siddons
-    price: £85-£470
+    price: £85-£340
     organisation: Halsway Manor
     source: events/uk/halsway.yaml
   - name: Avondbal bij de Muziekstage
@@ -341924,6 +342126,28 @@ events:
     price: €23.25-€27.25
     organisation: Boombal
     source: events/belgium/folkbalbende.yaml
+  - name: Bonjour-Hey
+    links:
+      - "https://www.contramontreal.org/en/bonjour-hey"
+      - "https://www.facebook.com/events/948500421400924/"
+    start: "2027-04-16T19:00:00-04:00"
+    end: "2027-04-18T16:00:00-04:00"
+    country: QC
+    city: Montreal
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Highwire Trio
+      - The Turn Signals
+      - Jamie Oshima
+    callers:
+      - Gaye Fifer
+      - Qwill Duvall
+    price: $55-$170
+    organisation: TryContra
+    source: events/usa/trycontra.yaml
   - name: Melt into Spring
     details: "English Country Dance Friday evening, Saturday all day and evening.  Many attendees will be in 18th century costume.  David Millstone leading the dancing, music by Debbie Jackson, Josh Burdick, and Matt McCoy."
     links:
@@ -341997,6 +342221,7 @@ events:
     details: Ball
     links:
       - "https://folkbalbende.be/event/3656"
+      - "https://www.facebook.com/events/1916659102833503/"
     start: "2027-04-17T15:00:00+02:00"
     end: "2027-04-17T22:00:00+02:00"
     country: Belgium
@@ -342176,7 +342401,13 @@ events:
       - contra
     workshop: true
     social: true
-    price: $200
+    bands:
+      - The Faux Paws
+      - Highwire
+    callers:
+      - Cis Hinkle
+      - Liz Nelson
+    price: $125-$250
     organisation: Portland Country Dance Community
     source: events/usa/cdss.yaml
   - name: "Ça Bal'Wanze"
@@ -342802,6 +343033,23 @@ events:
       - Puls du Bal
     organisation: Spreefolk e.V.
     source: events/germany/spreefolk.yaml
+  - name: "Moulin d'Andé Weekend"
+    links:
+      - "https://sites.google.com/site/americancontradanceinparis/"
+    start_date: 2027-05-15
+    end_date: 2027-05-17
+    country: France
+    city: Val-de-Reuil
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Kingfisher
+    callers:
+      - Seth Tepfer
+    organisation: Paris Contra Dance
+    source: events/usa/trycontra.yaml
   - name: Cressens Method Training
     details: Course
     links:
@@ -342938,29 +343186,6 @@ events:
     price: €5
     organisation: Heart to Feet
     source: events/belgium/folkbalbende.yaml
-  - name: Butterfly Whirl
-    details: "Butterfly Whirl 2027 \n\nMay 21-23\nDecatur Rec Center, Decatur, GA \n\nTalent:\nCountercurrent: Alex Sturbaum & Brian Lindsay; fiddle, guitar, foot percussion, vocal harmony\nIdlewild: Jacob Chen, Mirinisa Stewart-Tengco, Clara Byom: fiddle, piano, accordion, bass clarinet, clarinet \n\nCallers: Seth Tepfer & Koren Wake \n\nSound: Stagecoach Sound: Jared and Galen Kirkpatrick \n\nContra, ECD, Waltz, workshops, jams, contra marathon, and much more. \n\nRegistration opens in January 2027"
-    links:
-      - "https://www.dancerhapsody.com/special-events/"
-      - "https://cdss.org/event/butterfly-whirl-dance-weekend/"
-    start_date: 2027-05-21
-    end_date: 2027-05-23
-    country: USA
-    state: GA
-    city: Decatur
-    styles:
-      - contra
-      - ecd
-    workshop: true
-    social: true
-    bands:
-      - Countercurrent
-      - Idlewild
-    callers:
-      - Koren Wake
-      - Seth Tepfer
-    organisation: Dance Rhapsody
-    source: events/usa/cdss.yaml
   - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -342977,6 +343202,30 @@ events:
     price: £6-£18
     organisation: Bristol Contra
     source: events/uk/bristol_contra.yaml
+  - name: Butterfly Whirl
+    details: "Butterfly Whirl 2027 \n\nMay 21-23\nDecatur Rec Center, Decatur, GA \n\nTalent:\nCountercurrent: Alex Sturbaum & Brian Lindsay; fiddle, guitar, foot percussion, vocal harmony\nIdlewild: Jacob Chen, Mirinisa Stewart-Tengco, Clara Byom: fiddle, piano, accordion, bass clarinet, clarinet \n\nCallers: Seth Tepfer & Koren Wake \n\nSound: Stagecoach Sound: Jared and Galen Kirkpatrick \n\nContra, ECD, Waltz, workshops, jams, contra marathon, and much more. \n\nRegistration opens in January 2027"
+    links:
+      - "https://www.dancerhapsody.com/special-events/"
+      - "https://cdss.org/event/butterfly-whirl-dance-weekend/"
+    start: "2027-05-21T18:00:00-04:00"
+    end: "2027-05-23T15:00:00-04:00"
+    country: USA
+    state: GA
+    city: Decatur
+    styles:
+      - contra
+      - ecd
+    workshop: true
+    social: true
+    bands:
+      - Countercurrent
+      - Idlewild
+    callers:
+      - Koren Wake
+      - Seth Tepfer
+    price: $100-$150
+    organisation: Dance Rhapsody
+    source: events/usa/cdss.yaml
   - name: Suttle Lake Dance Camp
     details: "This is The Heather and The Rose’s annual weekend-long dance camp featuring English and Scottish country dancing – located in the beautiful Cascade mountains, near Sisters, OR. Callers:  Melissa Running, Bruce Hamilton;  Musicians: Betsy Branch, Lisa Scott, Erik Weberg."
     links:
@@ -343079,6 +343328,21 @@ events:
     price: £15
     organisation: New Stroud Ceilidhs
     source: events/uk/stroud.yaml
+  - name: Wageningen Junushoff bal
+    details: "Bring on the heat! De Junushof staat weer klaar voor een geweldige afsluiter van het dansseizoen. Kom genieten van een dansje en een hapje tijdens de potluck pauze. Ook dit keer weer met twee geweldige bands!\r\n\r\nBen je een nieuwe danser? Om 15:00 beginnen wij met een uurtje dansuitleg!\r\n\r\nEntree\r\n- Fair trade €30\r\n- Regulier €22.50\r\n- Korting €15\r\nBetalen kan contant of via een QR-code. Reserveren is niet nodig, er zijn altijd genoeg kaartjes beschikbaar."
+    links:
+      - "https://www.plug.events/event/wageningen-junushoff-bal-met-tba-en-tba624"
+    start: "2027-05-23T15:00:00+02:00"
+    end: "2027-05-23T22:00:00+02:00"
+    country: Netherlands
+    city: Wageningen
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €15-€30
+    organisation: Balfolk Wageningen
+    source: events/netherlands/plug_balfolk.yaml
   - name: Bal Miniscule
     links:
       - "https://balfolkoxford.mmm.page/"
@@ -343110,6 +343374,21 @@ events:
     price: £8
     organisation: Contrafusion
     source: events/uk/contrafusion.yaml
+  - name: Dansavond
+    details: "Elke dinsdag gaan we gezellig dansen. Met een verzameling van meer dan 2000 nummers en handige software waardoor iedereen gemakkelijk een dans naar keuze kan kiezen is elke avond anders maar altijd gezellig.\r\n\r\nKoffie en thee zijn gratis en iedereen is welkom om iets lekkers uit te delen. Alcohol is niet toegestaan.\r\n\r\nTussen 19:30 en 20:00 nemen we de tijd om beginners wat basispassen te leren of technische vragen over dansen te beantwoorden.\r\n\r\nPraat ook mee op onze discord https://discord.gg/wMuHDEH8Ua ."
+    links:
+      - "https://www.plug.events/event/dansavond149"
+    start: "2027-05-25T19:30:00+02:00"
+    end: "2027-05-25T22:30:00+02:00"
+    country: Netherlands
+    city: Zeist
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €5
+    organisation: Balfolk Zeist
+    source: events/netherlands/plug_balfolk.yaml
   - name: Meet Me in St Louis
     links:
       - "https://childgrove.org/mmisl"
@@ -343124,6 +343403,26 @@ events:
     workshop: false
     social: true
     organisation: Childgrove Country Dancers
+    source: events/usa/trycontra.yaml
+  - name: FolkMADness Music & Dance Camp
+    links:
+      - "http://folkmads.org/events/camps/folkmadness/"
+    start_date: 2027-05-28
+    end_date: 2027-05-31
+    country: USA
+    state: NM
+    city: Soccoro
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Raven & Goose
+      - Stomp Rocket
+    callers:
+      - Jacqui Grennan
+      - Cis Hinkle
+    organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: Folk Inferno Festival
     details: "Balfolk in Zwolle gaat door in seizoen '26-'27.\r\nWe gaan de mooiste bands voor jullie boeken!\r\n\r\nAlvast in je agenda:\r\n25 september 2026\r\n27 november 2026\r\n22 januari 2027\r\n12 maart 2027\r\n28-30 mei 2027"
@@ -343270,24 +343569,6 @@ events:
       - Aïe Mon Pied!
     organisation: Folknam Musique Trad
     source: events/belgium/folkbalbende.yaml
-  - name: Folk En Fête
-    details: Ball
-    links:
-      - "https://www.canardfolk.be/agenda/"
-      - "https://www.gerpinnes.tv/agenda/"
-      - "https://folkbalbende.be/event/4933"
-    start_date: 2027-06-05
-    end_date: 2027-06-05
-    country: Belgium
-    city: Gerpinnes
-    styles:
-      - balfolk
-    workshop: false
-    social: true
-    bands:
-      - 21 BOuTONS
-    organisation: Folk en fête
-    source: events/belgium/folkbalbende.yaml
   - name: Skandia First Friday LIVE
     details: "<html-blob><u></u><span><strong>Skandia members, $10; nonmembers, $15; kids, free  The price of admission includes a free dance class.</strong></span><br><br>Teaching: 7:30-8:30 p.m. No partner is required. </html-blob><br><html-blob><br><u></u></html-blob>"
     links:
@@ -343304,6 +343585,25 @@ events:
     price: $10-$15
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Folk En Fête
+    details: Ball
+    links:
+      - "https://www.canardfolk.be/agenda/"
+      - "https://www.gerpinnes.tv/agenda/"
+      - "https://folkbalbende.be/event/4933"
+    start: "2027-06-05T14:00:00+02:00"
+    end: "2027-06-05T23:00:00+02:00"
+    country: Belgium
+    city: Gerpinnes
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    bands:
+      - 21 BOuTONS
+    price: €15-€35
+    organisation: Folk en fête
+    source: events/belgium/folkbalbende.yaml
   - name: Cabal
     details: Ball
     links:
@@ -344059,16 +344359,17 @@ events:
     organisation: TryContra
     source: events/usa/trycontra.yaml
   - name: KA-Balfolk
+    details: "BALFOLK mit Embrun und Tatane (20:00Uhr) sowie Workshop zu Bourré d'Auvergne (17:30Uhr), kurzfristige Änderungen bitte der Homepage entnehmen"
     links:
       - "https://ka-balfolk.de/termine-elementor/"
       - "https://kalender.digital/574d155c91900caea879/event/3435583974"
-    start: "2027-09-24T20:00:00+02:00"
+    start: "2027-09-24T17:30:00+02:00"
     end: "2027-09-24T23:00:00+02:00"
     country: Germany
     city: Karlsruhe
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - EmBRUN
@@ -344206,6 +344507,21 @@ events:
     price: $10-$15
     organisation: Skandia Folkdance Society
     source: events/usa/skandia.yaml
+  - name: Groot Bal
+    details: Ball
+    links:
+      - "https://folkbalbende.be/event/5244"
+    start: "2027-10-02T15:00:00+02:00"
+    end: "2027-10-02T22:00:00+02:00"
+    country: Belgium
+    city: Antwerp
+    styles:
+      - balfolk
+    workshop: true
+    social: true
+    price: €15-€25
+    organisation: Balafolk
+    source: events/belgium/folkbalbende.yaml
   - name: Contra Dance Ball
     links:
       - "https://contradance-ka.wixsite.com/home-eng/events"
@@ -344355,6 +344671,20 @@ events:
     social: true
     organisation: CaDansa
     source: events/netherlands/cadansa.yaml
+  - name: Harvest Moon
+    links:
+      - "http://www.sbcds.org/hm/"
+    start_date: 2027-10-22
+    end_date: 2027-10-24
+    country: USA
+    state: CA
+    city: Santa Barbara
+    styles:
+      - contra
+    workshop: true
+    social: true
+    organisation: Santa Barbara Country Dance Society
+    source: events/usa/trycontra.yaml
   - name: Bristol Contra Dance
     links:
       - "https://bristolcontra.wordpress.com/"
@@ -344429,7 +344759,7 @@ events:
     organisation: CDSS
     source: events/usa/cdss.yaml
   - name: Lancaster Contra
-    details: "Behind the mic: ?\nMusicians: Heather McAslan + ?"
+    details: "Behind the mic: Andrew Swaine\nMusicians: Heather McAslan + ?"
     links:
       - "http://lancastercontra.org.uk/events/"
     start: "2027-10-30T13:30:00+01:00"
@@ -344442,25 +344772,29 @@ events:
     social: true
     bands:
       - Heather McAslan
+    callers:
+      - Andrew Swaine
     price: £10-£15
     organisation: Lancaster Contra
     source: events/uk/lancaster.yaml
   - name: KA-Balfolk
+    details: "BALFOLK mit TriObliqueund Elba (20:00Uhr) sowie Tanz-Workshop mit Aurelien Congrega (17:30Uhr), kurzfristige Änderungen bitte der Homepage entnehmen"
     links:
       - "https://ka-balfolk.de/termine-elementor/"
-    start: "2027-10-30T20:00:00+02:00"
+      - "https://kalender.digital/574d155c91900caea879/event/4564809926"
+    start: "2027-10-30T17:30:00+02:00"
     end: "2027-10-30T23:00:00+02:00"
     country: Germany
     city: Karlsruhe
     styles:
       - balfolk
-    workshop: false
+    workshop: true
     social: true
     bands:
       - Elba Connection
       - TriOblique
     organisation: KA-BalFolk
-    source: events/germany/karlsruhe.yaml
+    source: events/germany/kalender.yaml
   - name: Contrabridge
     details: Join us for our contra dance (band and caller TBC).
     links:
@@ -344576,6 +344910,21 @@ events:
     price: €12-€20
     organisation: ~
     source: events/belgium/folkbalbende.yaml
+  - name: Balfolk weekend Intensive
+    details: "Multiple day intensive for experienced (balfolk) dancers.\r\n\r\n2,5 days of workshops (with boarding) staring friday 16:00 and the posibility to extend with one night (sun/mon).\r\n\r\nThis edition the workshops will be in Dutch (Bi-lingual NL-ENG possible). If you like to participate in a full English version or organise this event in your dance community, send a message to: dancingbodies.workshops@gmail.com\r\n\r\n****************************************\r\nInschrijflink is NOG NIET open: 16 kaarten beschikbaar\r\n****************************************"
+    links:
+      - "https://www.plug.events/event/balfolk-weekend-intensive-2027124"
+    start: "2027-11-19T16:00:00+01:00"
+    end: "2027-11-21T20:30:00+01:00"
+    country: Netherlands
+    city: Nijmegen
+    styles:
+      - balfolk
+    workshop: true
+    social: false
+    price: €245-€410
+    organisation: Dancing Bodies
+    source: events/netherlands/plug_balfolk.yaml
   - name: Skandia Third Friday dance LIVE
     details: "<span><b>Skandia members, $10; nonmembers, $15; kids, free  The price of admission includes a free dance class.</b></span>"
     links:
