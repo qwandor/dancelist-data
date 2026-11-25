@@ -1,0 +1,15 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Søndagsdans (Rørospols)
+    links:
+      - "https://www.bls.no/hending/sondagsdans-haust-2026-17/"
+    start: "2026-11-29T18:00:00+01:00"
+    end: "2026-11-29T22:00:00+01:00"
+    country: Norway
+    city: Oslo
+    styles:
+      - scandi
+    workshop: true
+    social: true
+    price: 100-200 NOK
+    organisation: BLS
