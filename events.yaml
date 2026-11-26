@@ -121451,7 +121451,7 @@ events:
     workshop: true
     social: true
     bands:
-      - Froghammer
+      - Frog Hammer
     callers:
       - Caroline Barnes
     price: $15
@@ -333422,6 +333422,27 @@ events:
     social: false
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Silver Spring Contra Dance
+    details: "This dance is in the Great Hall South at the Silver Spring Civic Building.  \nPlease note: There is no longer free parking at the Civic Center Parking Garage. \nCallers: Melissa Chatham \nBand: Frog Hammer (Jim Besser on concertina, Bob Collins on drums, Andrew Marcus on accordion, Glyn Collinson on guitar, Dave Casserly on sax, Michael Ferguson on trombone and harp) \nMore about Frog Hammer \nCalling Terms: Larks and Robins \nLesson at 7:00 p.m., Dance is from 7:30 p.m. to 10:00 p.m."
+    links:
+      - "https://www.fsgw.org/event-6733030"
+      - "https://cdss.org/event/silver-spring-contra-dance-melissa-chatham-calling-with-frog-hammer/"
+    start: "2026-12-10T19:00:00-05:00"
+    end: "2026-12-10T22:00:00-05:00"
+    country: USA
+    state: MD
+    city: Silver Spring
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Frog Hammer
+    callers:
+      - Melissa Chatham
+    price: $5-$15
+    organisation: Folklore Society of Greater Washington
+    source: events/usa/cdss.yaml
   - name: Chattanooga Contra Dance
     details: "Come on out to the dance floor! Bring your soft-soled shoes and water bottle! We host callers and bands from across the East Coast! The beginner lesson is at 7 pm, and the dance goes from 7:30 pm to 9:30 pm."
     links:
@@ -334291,7 +334312,7 @@ events:
     organisation: Contra dance in Melbourne
     source: events/australia/melbourne.yaml
   - name: Balfolk Deventer
-    details: "Balfolk in Deventer op zondagmiddag\r\n\r\nvan 13.00-15.00 Bert Leemans Solo, Hartwin Solo\r\n\r\nPauze Afternoon Tea Potluck \r\n\r\nSessie: bring your instruments"
+    details: "Balfolk in Deventer op zondagmiddag\r\n\r\nVan 13.00-15.00 Bert Leemans Solo, Hartwin Solo\r\n\r\nPauze Afternoon Tea Potluck \r\n\r\nVan 16.00-17.00 Elijah Versteeg op Diatonische Accordeon"
     links:
       - "https://www.plug.events/event/balfolk-deventer-save-the-date7"
     start: "2026-12-13T13:00:00+01:00"
@@ -334304,6 +334325,7 @@ events:
     social: true
     bands:
       - Bert Leemans
+      - Elijah Versteeg
       - Hartwin Dhoore
     price: €15-€25
     organisation: Balfolk Deventer
@@ -335487,7 +335509,7 @@ events:
     workshop: true
     social: true
     bands:
-      - "Bal de L'Aube"
+      - "Bal de l'Aube"
     price: €10-€18
     organisation: Balhalla
     source: events/belgium/folkbalbende.yaml
@@ -335745,7 +335767,7 @@ events:
     details: Thème Fées et Mages
     links:
       - "https://www.canardfolk.be/agenda/"
-      - "https://folkbalbende.be/event/5258"
+      - "https://folkbalbende.be/event/5260"
     start: "2026-12-31T19:00:00+01:00"
     end: "2027-01-01T01:00:00+01:00"
     country: Belgium
@@ -341916,27 +341938,6 @@ events:
       - Kaleidoscope
     organisation: Bal en Soir
     source: events/france/paris_balfolk.yaml
-  - name: Hash Dance Weekend
-    links:
-      - "https://fsgw.org/hashtag-dance-weekend"
-    start_date: 2027-03-26
-    end_date: 2027-03-28
-    country: USA
-    state: MD
-    city: Glen Echo
-    styles:
-      - contra
-    workshop: true
-    social: true
-    bands:
-      - Red Case Band
-      - Lighthouse
-      - Alex Cumming & Audrey Jaber
-    callers:
-      - Lisa Greenleaf
-      - Will Mentor
-    organisation: Folklore Society of Greater Washington
-    source: events/usa/trycontra.yaml
   - name: Cressens Method Training
     details: Course
     links:
@@ -341955,6 +341956,30 @@ events:
     price: €130
     organisation: Frisse Folk Vzw/asbl
     source: events/belgium/folkbalbende.yaml
+  - name: Hashdance Weekend
+    details: "Hashdance will feature two days of high energy, amazing, challenging sessions, with non-gendered calling, hashing, flow and glide, and delightful figures, as well as workshops, food, fun, singing, and camaraderie in the fabulous Spanish Ballroom and throughout Glen Echo Park, Glen Echo, MD. \nCallers: Lisa Greenleaf and Will Mentor \nBands: Red Case Band (Stuart Kenney, Max Newman, Clara Stickney, Alex Cumming, and Matt Kenney), Lighthouse (Audrey Jaber, Max Newman, and Stuart Kenney), and Alex & Audrey (Audrey Jaber and Alex Cumming). \nVolunteering: Full-weekend volunteers will be assigned 3 hours of work. Partial-weekend volunteers will be assigned 1 hour of work \nMore about Hashdance Weekend"
+    links:
+      - "https://fsgw.org/hashdance-weekend"
+      - "https://cdss.org/event/hashdance-weekend-in-glen-echo-md/"
+    start: "2027-03-27T10:00:00-04:00"
+    end: "2027-03-28T16:00:00-04:00"
+    country: USA
+    state: MD
+    city: Glen Echo
+    styles:
+      - contra
+    workshop: true
+    social: true
+    bands:
+      - Alex Cumming & Audrey Jaber
+      - Lighthouse
+      - Red Case Band
+    callers:
+      - Lisa Greenleaf
+      - Will Mentor
+    price: $85-$120
+    organisation: Folklore Society of Greater Washington
+    source: events/usa/cdss.yaml
   - name: Le Bal des Possibles
     details: Ball
     links:
